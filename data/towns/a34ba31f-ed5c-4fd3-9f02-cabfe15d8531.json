@@ -1,0 +1,136 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Hollow_Earth",
+  "uuid": "a34ba31f-ed5c-4fd3-9f02-cabfe15d8531",
+  "board": "/town set board [msg]",
+  "founder": "Rolznd",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Rolznd",
+   "uuid": "8124eaf1-6726-46e1-9eeb-4d7653c8e225"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791349549092,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 10.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -24465.35686784798,
+    "y": 139.0,
+    "z": 16925.40222504083,
+    "pitch": -5.6072755,
+    "yaw": 31.703339
+   },
+   "homeBlock": [
+    -1530,
+    1057
+   ],
+   "townBlocks": [
+    [
+     -1530,
+     1057
+    ],
+    [
+     -1530,
+     1058
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Rolznd",
+    "uuid": "8124eaf1-6726-46e1-9eeb-4d7653c8e225"
+   },
+   {
+    "name": "soup123132",
+    "uuid": "56fd2df0-bbf7-432f-8b9c-9dd40482e575"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "soup123132",
+    "uuid": "56fd2df0-bbf7-432f-8b9c-9dd40482e575"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

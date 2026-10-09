@@ -1,0 +1,145 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Iluka",
+  "uuid": "e876bc68-3135-43c3-b508-33c4161b0356",
+  "board": "/town set board [msg]",
+  "founder": "Echo_Delta7203",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Echo_Delta7203",
+   "uuid": "b3494499-04f7-4043-a8a7-5f7c835efefb"
+  },
+  "nation": {
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+  },
+  "timestamps": {
+   "registered": 1790073064571,
+   "joinedNationAt": 1790073517521,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 136,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 32.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 54940.07317159245,
+    "y": 65.0,
+    "z": 19002.75850604013,
+    "pitch": 46.64734,
+    "yaw": -94.213196
+   },
+   "homeBlock": [
+    3433,
+    1187
+   ],
+   "townBlocks": [
+    [
+     3433,
+     1187
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Echo_Delta7203",
+    "uuid": "b3494499-04f7-4043-a8a7-5f7c835efefb"
+   },
+   {
+    "name": "chicken_smithy",
+    "uuid": "1eca35eb-41ef-458a-9cc1-5cad4cc592c2"
+   },
+   {
+    "name": "CE_1305",
+    "uuid": "227966d5-33ac-4a05-8ad9-cb338f5d363c"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "chicken_smithy",
+     "uuid": "1eca35eb-41ef-458a-9cc1-5cad4cc592c2"
+    },
+    {
+     "name": "CE_1305",
+     "uuid": "227966d5-33ac-4a05-8ad9-cb338f5d363c"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [
+    {
+     "name": "CE_1305",
+     "uuid": "227966d5-33ac-4a05-8ad9-cb338f5d363c"
+    }
+   ],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,0 +1,427 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Duck_Town",
+  "uuid": "c00352a1-122e-400c-807f-ff514b3f0652",
+  "board": "/town set board [msg]",
+  "founder": "Ducky445",
+  "wiki": null,
+  "discord": "https://discord.gg/62VS24thcw",
+  "mayor": {
+   "name": "Ducky445",
+   "uuid": "90aa777d-4399-48d7-9732-7b8c5f3e1e18"
+  },
+  "nation": {
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+  },
+  "timestamps": {
+   "registered": 1786055867580,
+   "joinedNationAt": 1786055875739,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 39,
+   "maxTownBlocks": 160,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 5,
+   "numTrusted": 3,
+   "numOutlaws": 28,
+   "balance": 5.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": true,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -42095.37948744358,
+    "y": 83.9375,
+    "z": -12344.471123037274,
+    "pitch": 28.562994,
+    "yaw": -103.73541
+   },
+   "homeBlock": [
+    -2631,
+    -772
+   ],
+   "townBlocks": [
+    [
+     -2631,
+     -772
+    ],
+    [
+     -2631,
+     -771
+    ],
+    [
+     -2631,
+     -775
+    ],
+    [
+     -2631,
+     -774
+    ],
+    [
+     -2631,
+     -773
+    ],
+    [
+     -2630,
+     -775
+    ],
+    [
+     -2630,
+     -776
+    ],
+    [
+     -2630,
+     -773
+    ],
+    [
+     -2630,
+     -774
+    ],
+    [
+     -2630,
+     -771
+    ],
+    [
+     -2630,
+     -772
+    ],
+    [
+     -2632,
+     -775
+    ],
+    [
+     -2632,
+     -774
+    ],
+    [
+     -2632,
+     -771
+    ],
+    [
+     -2632,
+     -773
+    ],
+    [
+     -2632,
+     -772
+    ],
+    [
+     -2633,
+     -772
+    ],
+    [
+     -2633,
+     -773
+    ],
+    [
+     -2633,
+     -774
+    ],
+    [
+     -2628,
+     -776
+    ],
+    [
+     -2629,
+     -774
+    ],
+    [
+     -2628,
+     -774
+    ],
+    [
+     -2629,
+     -773
+    ],
+    [
+     -2628,
+     -775
+    ],
+    [
+     -2629,
+     -776
+    ],
+    [
+     -2628,
+     -772
+    ],
+    [
+     -2629,
+     -775
+    ],
+    [
+     -2628,
+     -773
+    ],
+    [
+     -2629,
+     -772
+    ],
+    [
+     -2629,
+     -771
+    ]
+   ],
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       143,
+       -100
+      ],
+      [
+       143,
+       -101
+      ],
+      [
+       142,
+       -100
+      ],
+      [
+       143,
+       -102
+      ],
+      [
+       141,
+       -100
+      ],
+      [
+       142,
+       -101
+      ],
+      [
+       141,
+       -101
+      ],
+      [
+       142,
+       -102
+      ],
+      [
+       141,
+       -102
+      ]
+     ]
+    }
+   }
+  },
+  "residents": [
+   {
+    "name": "Ducky445",
+    "uuid": "90aa777d-4399-48d7-9732-7b8c5f3e1e18"
+   },
+   {
+    "name": "djjosuedebolas",
+    "uuid": "b64db51e-c53d-4fae-b84d-f54ecf0287fd"
+   },
+   {
+    "name": "ChasinTheMoon",
+    "uuid": "bf69aebd-e16b-461e-84cd-901052002820"
+   },
+   {
+    "name": "Rox1610",
+    "uuid": "99b5c772-81e0-4064-a286-096e942e36fd"
+   },
+   {
+    "name": "NASTOD",
+    "uuid": "fa91ee32-f2ee-4bd8-bc52-e8ed8dd4ac67"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "figtrees12",
+    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   },
+   {
+    "name": "AkechiCrow",
+    "uuid": "763ff7d4-4de0-478e-8658-ecf3b25fd04e"
+   },
+   {
+    "name": "TOSd",
+    "uuid": "436f6677-1793-4875-876d-9b6c0e5016f0"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "baptiste1006",
+    "uuid": "ab113505-b7e7-4582-85cf-72561d250524"
+   },
+   {
+    "name": "Sayfoulpe",
+    "uuid": "3891cc50-6d7a-485b-af50-76038440d389"
+   },
+   {
+    "name": "Corentyn",
+    "uuid": "f00fec7b-c51d-4418-a38d-425dee6a1a18"
+   },
+   {
+    "name": "nonolopi",
+    "uuid": "bb3f675a-a9a1-45db-86ec-651edaa1f268"
+   },
+   {
+    "name": "catgooder2_54178",
+    "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+   },
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   },
+   {
+    "name": "Ninjaxpow12",
+    "uuid": "5ab791c8-3e77-4149-8deb-b1a0276e1453"
+   },
+   {
+    "name": "theonlyribkage",
+    "uuid": "e88137a3-a99e-4f60-bd35-37677bb264a6"
+   },
+   {
+    "name": "NFS_Sweet",
+    "uuid": "ba04a70f-f86d-48c1-9c62-b27005b6d4a4"
+   },
+   {
+    "name": "BrennanW1",
+    "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
+   },
+   {
+    "name": "Vantacrus",
+    "uuid": "6f8fc1f6-62e2-4d25-9c34-d65d72fd51e1"
+   },
+   {
+    "name": "LightningBean",
+    "uuid": "bf6a0cf1-c982-44bc-b5d1-350e50d564e7"
+   },
+   {
+    "name": "Robounicorn678",
+    "uuid": "c1577125-3d72-4c02-9838-c8576c167603"
+   },
+   {
+    "name": "ChickenProle",
+    "uuid": "c90dbf43-e8cf-4132-9345-27ebb863eeb9"
+   },
+   {
+    "name": "sobble1sgod",
+    "uuid": "8e10a836-9085-4040-a013-22767c78b1ad"
+   },
+   {
+    "name": "worldrevolution",
+    "uuid": "d9930128-76f9-4064-bb39-66762d11e0aa"
+   },
+   {
+    "name": "1NVADER_Z1M",
+    "uuid": "aa10b101-551a-4742-b24f-d953bbcd7ae8"
+   },
+   {
+    "name": "ShunTianD",
+    "uuid": "fe6a9144-9784-4a6d-a4b1-60ec2c3c30ac"
+   },
+   {
+    "name": "4Gamerbros",
+    "uuid": "b52a1dbb-d087-4a18-9a6e-7702aa57b3eb"
+   },
+   {
+    "name": "Trulyy_Justin",
+    "uuid": "b3abc94a-e7bf-4550-ba0e-a9cbad3aa429"
+   },
+   {
+    "name": "Fiapoko",
+    "uuid": "05caaad5-5946-4bc5-a1cc-25b05b0182db"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   },
+   {
+    "name": "YeetThins404",
+    "uuid": "9c1a56cf-49ff-4ecd-b20f-385ef6d6734c"
+   },
+   {
+    "name": "shak2022",
+    "uuid": "98f54e1f-7945-46f3-8278-ba52e2842ccb"
+   },
+   {
+    "name": "PirateMinerDan",
+    "uuid": "39ed5f0b-8e21-4124-b199-82b1ade1be7d"
+   },
+   {
+    "name": "gray_space",
+    "uuid": "7f7f788a-7747-4b15-8293-789da7613011"
+   },
+   {
+    "name": "Mr_Ocelot_Guy",
+    "uuid": "bd2fa5b1-39fd-4c4b-a92f-b41d443b7708"
+   },
+   {
+    "name": "Lx060830",
+    "uuid": "4d09134a-bb71-441b-8b95-4d4738d3d455"
+   }
+  ],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "djjosuedebolas",
+     "uuid": "b64db51e-c53d-4fae-b84d-f54ecf0287fd"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

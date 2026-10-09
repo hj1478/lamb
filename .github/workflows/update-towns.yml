@@ -1,0 +1,46 @@
+name: Update EarthMC towns
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+    inputs:
+      days_per_cycle:
+        description: "Refresh every town once per N runs (1 = full scan)"
+        required: false
+        default: "7"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-towns
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch today's slice of towns
+        env:
+          DAYS_PER_CYCLE: ${{ inputs.days_per_cycle || '7' }}
+        run: python3 earthmc_towns.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Update towns: cycle $(jq .cycle data/state.json), $(jq .last_run_fetched data/state.json) fetched"
+          git push

@@ -1,0 +1,282 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Fort_Emerald",
+  "uuid": "d17b1b72-4f9e-45c1-9138-1f98bd79cb4a",
+  "board": "Peace",
+  "founder": "Shiewawa",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Shiewawa",
+   "uuid": "e2f333f4-5b45-440d-b1a7-0edd1bd3dbcf"
+  },
+  "nation": {
+   "name": "NWT",
+   "uuid": "7013cd5c-9196-42fc-bf2d-49328e115887"
+  },
+  "timestamps": {
+   "registered": 1787561169603,
+   "joinedNationAt": 1787562527814,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 31,
+   "maxTownBlocks": 60,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 5,
+   "numTrusted": 3,
+   "numOutlaws": 0,
+   "balance": 13.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -41830.58683647319,
+    "y": 65.0,
+    "z": -17173.634066952796,
+    "pitch": 39.000057,
+    "yaw": -3.6082764
+   },
+   "homeBlock": [
+    -2615,
+    -1074
+   ],
+   "townBlocks": [
+    [
+     -2618,
+     -1074
+    ],
+    [
+     -2616,
+     -1075
+    ],
+    [
+     -2618,
+     -1073
+    ],
+    [
+     -2616,
+     -1074
+    ],
+    [
+     -2616,
+     -1076
+    ],
+    [
+     -2613,
+     -1074
+    ],
+    [
+     -2613,
+     -1073
+    ],
+    [
+     -2618,
+     -1076
+    ],
+    [
+     -2615,
+     -1074
+    ],
+    [
+     -2618,
+     -1075
+    ],
+    [
+     -2615,
+     -1075
+    ],
+    [
+     -2613,
+     -1075
+    ],
+    [
+     -2613,
+     -1072
+    ],
+    [
+     -2612,
+     -1074
+    ],
+    [
+     -2612,
+     -1072
+    ],
+    [
+     -2612,
+     -1073
+    ],
+    [
+     -2617,
+     -1076
+    ],
+    [
+     -2617,
+     -1075
+    ],
+    [
+     -2617,
+     -1074
+    ],
+    [
+     -2614,
+     -1073
+    ],
+    [
+     -2617,
+     -1073
+    ],
+    [
+     -2614,
+     -1074
+    ],
+    [
+     -2614,
+     -1075
+    ],
+    [
+     -2614,
+     -1076
+    ],
+    [
+     -2611,
+     -1074
+    ],
+    [
+     -2615,
+     -1076
+    ],
+    [
+     -2611,
+     -1073
+    ],
+    [
+     -2611,
+     -1072
+    ],
+    [
+     -2619,
+     -1073
+    ],
+    [
+     -2619,
+     -1075
+    ],
+    [
+     -2619,
+     -1074
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Shiewawa",
+    "uuid": "e2f333f4-5b45-440d-b1a7-0edd1bd3dbcf"
+   },
+   {
+    "name": "Sasha_dj",
+    "uuid": "97961782-004d-4733-9f80-62cdda81438c"
+   },
+   {
+    "name": "Milo_levrai",
+    "uuid": "29007207-e31f-44ac-ad4d-166be28fd94d"
+   },
+   {
+    "name": "Sleeping_guy",
+    "uuid": "9549e79e-31ce-4908-95c5-7e7169ce61d9"
+   },
+   {
+    "name": "Ebil_fun",
+    "uuid": "54cb8473-8b49-4d97-8cf5-926b14534abd"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Sleeping_guy",
+    "uuid": "9549e79e-31ce-4908-95c5-7e7169ce61d9"
+   },
+   {
+    "name": "Ebil_fun",
+    "uuid": "54cb8473-8b49-4d97-8cf5-926b14534abd"
+   },
+   {
+    "name": "Sasha_dj",
+    "uuid": "97961782-004d-4733-9f80-62cdda81438c"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "Milo_levrai",
+     "uuid": "29007207-e31f-44ac-ad4d-166be28fd94d"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Milo_levrai",
+     "uuid": "29007207-e31f-44ac-ad4d-166be28fd94d"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

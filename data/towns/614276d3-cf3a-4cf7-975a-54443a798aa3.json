@@ -1,0 +1,243 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Great_Forest",
+  "uuid": "614276d3-cf3a-4cf7-975a-54443a798aa3",
+  "board": "Great Forest - The town of trees.",
+  "founder": "Osy_Bremi",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Osy_Bremi",
+   "uuid": "b65f270f-4f0a-4289-99ea-dbf8c25323f8"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1785879390814,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 11,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 62.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -25169.648966582947,
+    "y": 69.0,
+    "z": -15032.168011723868,
+    "pitch": 17.783066,
+    "yaw": -78.68286
+   },
+   "homeBlock": [
+    -1574,
+    -940
+   ],
+   "townBlocks": [
+    [
+     -1574,
+     -941
+    ],
+    [
+     -1574,
+     -940
+    ],
+    [
+     -1574,
+     -939
+    ],
+    [
+     -1573,
+     -939
+    ],
+    [
+     -1573,
+     -940
+    ],
+    [
+     -1571,
+     -939
+    ],
+    [
+     -1573,
+     -941
+    ],
+    [
+     -1571,
+     -940
+    ],
+    [
+     -1572,
+     -940
+    ],
+    [
+     -1572,
+     -941
+    ],
+    [
+     -1572,
+     -939
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Osy_Bremi",
+    "uuid": "b65f270f-4f0a-4289-99ea-dbf8c25323f8"
+   },
+   {
+    "name": "ThatOneDuck_W",
+    "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+   },
+   {
+    "name": "Jaks7",
+    "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Police": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "ThatOneDuck_W",
+     "uuid": "95881d9d-5aa9-4a30-837e-d35e61ccafc7"
+    },
+    {
+     "name": "Jaks7",
+     "uuid": "f292192a-cc61-4f09-92d7-6509dc147dae"
+    }
+   ]
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

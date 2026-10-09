@@ -1,0 +1,273 @@
+{
+ "fetched_at": "2026-10-09T10:43:08Z",
+ "data": {
+  "name": "Newcastle",
+  "uuid": "2a4bc9bf-6fec-4bb4-b31c-b96986180e75",
+  "board": "/town set board [msg]",
+  "founder": "Allags",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Allags",
+   "uuid": "9f84b2cb-5c58-4110-9137-eda117f7a8dc"
+  },
+  "nation": {
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+  },
+  "timestamps": {
+   "registered": 1776453222975,
+   "joinedNationAt": 1776619227527,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 26,
+   "maxTownBlocks": 208,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 10,
+   "numTrusted": 1,
+   "numOutlaws": 2,
+   "balance": 288.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 54329.9553776084,
+    "y": 63.0,
+    "z": 20260.15351263178,
+    "pitch": 3.6764216,
+    "yaw": -101.853516
+   },
+   "homeBlock": [
+    3395,
+    1266
+   ],
+   "townBlocks": [
+    [
+     3396,
+     1265
+    ],
+    [
+     3396,
+     1266
+    ],
+    [
+     3396,
+     1267
+    ],
+    [
+     3396,
+     1262
+    ],
+    [
+     3396,
+     1263
+    ],
+    [
+     3396,
+     1264
+    ],
+    [
+     3393,
+     1266
+    ],
+    [
+     3393,
+     1264
+    ],
+    [
+     3393,
+     1265
+    ],
+    [
+     3393,
+     1263
+    ],
+    [
+     3395,
+     1267
+    ],
+    [
+     3395,
+     1264
+    ],
+    [
+     3395,
+     1263
+    ],
+    [
+     3395,
+     1266
+    ],
+    [
+     3395,
+     1265
+    ],
+    [
+     3394,
+     1262
+    ],
+    [
+     3394,
+     1263
+    ],
+    [
+     3395,
+     1262
+    ],
+    [
+     3394,
+     1266
+    ],
+    [
+     3394,
+     1267
+    ],
+    [
+     3394,
+     1264
+    ],
+    [
+     3394,
+     1265
+    ],
+    [
+     3397,
+     1266
+    ],
+    [
+     3397,
+     1263
+    ],
+    [
+     3397,
+     1264
+    ],
+    [
+     3397,
+     1265
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Allags",
+    "uuid": "9f84b2cb-5c58-4110-9137-eda117f7a8dc"
+   },
+   {
+    "name": "MrFootCraft147",
+    "uuid": "1825cf7a-f16b-4b37-9df4-3e976f2e8dc7"
+   },
+   {
+    "name": "Iamhavingfun",
+    "uuid": "8fcf5234-7746-426d-b898-56ad30d7cd0b"
+   },
+   {
+    "name": "Vron7706",
+    "uuid": "d31659b7-b0d9-4fe5-8936-2e5b5038bdc1"
+   },
+   {
+    "name": "Flouncy",
+    "uuid": "68854c66-d99e-4d24-9cbd-f31ca01a74d4"
+   },
+   {
+    "name": "SteppeScythian",
+    "uuid": "35ad2f22-b7ed-4cce-a004-8c79a63df35b"
+   },
+   {
+    "name": "Mjjohno",
+    "uuid": "e7af1638-f1d3-4ee7-9629-88dc7a198d17"
+   },
+   {
+    "name": "evilGherkin",
+    "uuid": "dfea0b59-77ed-4553-a44b-bb6485cc4a63"
+   },
+   {
+    "name": "Faiztheprof",
+    "uuid": "09816048-1d55-430a-a365-93bbf8505bae"
+   },
+   {
+    "name": "SamFall",
+    "uuid": "37c3cf47-0c97-44e4-8b94-ac752e46a673"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "VIInOni",
+    "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Ghost_YeLin",
+    "uuid": "acd2b135-6e1d-4b59-9a6d-e240f84dc8ac"
+   },
+   {
+    "name": "meneva",
+    "uuid": "0e66c74a-1270-4103-98c7-1111cd45afb8"
+   }
+  ],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

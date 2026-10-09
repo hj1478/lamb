@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Clairo_Township",
+  "uuid": "7ce8d0b6-3a33-44df-a500-0858fa0c2c72",
+  "board": "/town set board [msg]",
+  "founder": "HighOnClamJuice",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "HighOnClamJuice",
+   "uuid": "ae9d7855-a6e3-4850-911a-7af711222ad4"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1789845927300,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 6.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 34999.43727252487,
+    "y": 75.0,
+    "z": -21607.345380661416,
+    "pitch": 62.49504,
+    "yaw": 94.55185
+   },
+   "homeBlock": [
+    2187,
+    -1351
+   ],
+   "townBlocks": [
+    [
+     2187,
+     -1351
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "HighOnClamJuice",
+    "uuid": "ae9d7855-a6e3-4850-911a-7af711222ad4"
+   },
+   {
+    "name": "SP00OO00N",
+    "uuid": "918d36b4-f2af-479a-9541-83c3b0b029be"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

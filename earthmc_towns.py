@@ -1,18 +1,28 @@
 #!/usr/bin/env python3
-"""Fetch every town from the EarthMC API (v4) and build a local database.
+"""Keep a local database of every EarthMC town (API v4), refreshed in rotating cycles.
 
-Outputs (in ./data by default):
-  towns_raw.json        - full, unmodified API response for every town (incl. coordinates)
-  towns.db              - SQLite DB: `towns` (flattened columns + raw JSON), `town_blocks`
-  outsider_spawn_towns.csv - towns where status.canOutsidersSpawn is true, with spawn coords
+Each run:
+  1. GET /towns (1 request) to get the current list of towns.
+  2. Fetch any town not yet in the database, plus the next slice of the rotation.
+     Towns are walked in UUID order; the slice size is ceil(total / days_per_cycle),
+     so every town is refreshed exactly once per cycle with no overlap. A cursor in
+     data/state.json remembers where the previous run stopped.
+  3. Delete towns that no longer exist, then rebuild the SQLite DB and the CSV.
 
-Rate limiting: EarthMC allows ~180 req/min and 100 towns per POST. We batch 100
-names per request, wait MIN_INTERVAL between requests, and back off on 429/5xx
-(honouring Retry-After when present).
+Outputs (in ./data):
+  towns/<uuid>.json        - {"fetched_at": ..., "data": <unmodified API response for the town>}
+  state.json               - rotation cursor / cycle counter
+  towns.db                 - SQLite: `towns` (flattened + raw JSON), `town_blocks` (gitignored)
+  outsider_spawn_towns.csv - towns with status.canOutsidersSpawn = true
+
+Rate limiting: up to 100 towns per POST, >= MIN_INTERVAL between requests,
+exponential backoff (or Retry-After) on 429/5xx.
 """
 import argparse
+import bisect
 import csv
 import json
+import math
 import os
 import sqlite3
 import time
@@ -54,17 +64,6 @@ def request(path, body=None):
     raise RuntimeError(f"giving up on {path}")
 
 
-def fetch_all():
-    index = request("/towns")
-    uuids = [t["uuid"] for t in index]
-    print(f"{len(uuids)} towns listed; fetching in batches of {BATCH}")
-    towns = []
-    for i in range(0, len(uuids), BATCH):
-        towns.extend(request("/towns", {"query": uuids[i:i + BATCH]}))
-        print(f"  {min(i + BATCH, len(uuids))}/{len(uuids)}")
-    return towns
-
-
 def g(d, *keys):
     for k in keys:
         if not isinstance(d, dict):
@@ -73,7 +72,7 @@ def g(d, *keys):
     return d
 
 
-def build_db(towns, path, fetched_at):
+def build_db(records, path):
     if os.path.exists(path):
         os.remove(path)
     db = sqlite3.connect(path)
@@ -96,7 +95,8 @@ def build_db(towns, path, fetched_at):
     CREATE INDEX idx_blocks_town ON town_blocks(town_uuid);
     CREATE INDEX idx_towns_name ON towns(name);
     """)
-    for t in towns:
+    for rec in records:
+        t, fetched_at = rec["data"], rec["fetched_at"]
         sp = g(t, "coordinates", "spawn") or {}
         hb = g(t, "coordinates", "homeBlock") or [None, None]
         st, s, fl = t.get("status") or {}, t.get("stats") or {}, g(t, "perms", "flags") or {}
@@ -119,34 +119,96 @@ def build_db(towns, path, fetched_at):
     return db
 
 
+def load_towns(towns_dir):
+    towns = {}
+    for fn in os.listdir(towns_dir):
+        if fn.endswith(".json"):
+            with open(os.path.join(towns_dir, fn)) as f:
+                towns[fn[:-5]] = json.load(f)
+    return towns
+
+
+def save_town(towns_dir, town, fetched_at):
+    path = os.path.join(towns_dir, town["uuid"] + ".json")
+    with open(path, "w") as f:
+        json.dump({"fetched_at": fetched_at, "data": town}, f, ensure_ascii=False, indent=1)
+
+
+def pick_slice(uuids, cursor, per_run):
+    """Next `per_run` UUIDs after `cursor` in sorted order, wrapping once. Returns (slice, wrapped)."""
+    start = bisect.bisect_right(uuids, cursor) if cursor else 0
+    chosen = uuids[start:start + per_run]
+    wrapped = start + per_run >= len(uuids)
+    if wrapped:
+        chosen += uuids[:min(per_run - len(chosen), start)]
+    return chosen, wrapped
+
+
+def update(out, days_per_cycle):
+    towns_dir = os.path.join(out, "towns")
+    state_path = os.path.join(out, "state.json")
+    os.makedirs(towns_dir, exist_ok=True)
+    state = {"cursor": None, "cycle": 1, "days_per_cycle": days_per_cycle}
+    if os.path.exists(state_path):
+        with open(state_path) as f:
+            state.update(json.load(f))
+
+    uuids = sorted(t["uuid"] for t in request("/towns"))
+    live = set(uuids)
+    stored = {fn[:-5] for fn in os.listdir(towns_dir) if fn.endswith(".json")}
+
+    per_run = math.ceil(len(uuids) / days_per_cycle)
+    rotation, wrapped = pick_slice(uuids, state["cursor"], per_run)
+    new = [u for u in uuids if u not in stored]
+    targets = list(dict.fromkeys(new + rotation))
+    print(f"{len(uuids)} towns live; fetching {len(targets)} "
+          f"({len(new)} new, {len(rotation)} rotation, cycle {state['cycle']}, {days_per_cycle}-day cycle)")
+
+    fetched_at = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    got = set()
+    for i in range(0, len(targets), BATCH):
+        for t in request("/towns", {"query": targets[i:i + BATCH]}):
+            save_town(towns_dir, t, fetched_at)
+            got.add(t["uuid"])
+    missing = set(targets) - got  # disappeared between the index call and the fetch
+    gone = (stored - live) | missing
+    for u in gone:
+        p = os.path.join(towns_dir, u + ".json")
+        if os.path.exists(p):
+            os.remove(p)
+    print(f"updated {len(got)}, removed {len(gone)} deleted towns")
+
+    state.update(cursor=rotation[-1] if rotation else None, days_per_cycle=days_per_cycle,
+                 last_run=fetched_at, last_run_fetched=len(got),
+                 cycle=state["cycle"] + 1 if wrapped else state["cycle"])
+    with open(state_path, "w") as f:
+        json.dump(state, f, indent=1)
+
+
+def export(out):
+    towns = load_towns(os.path.join(out, "towns"))
+    db = build_db(towns.values(), os.path.join(out, "towns.db"))
+    rows = db.execute("""SELECT name, nation_name, mayor_name, num_residents, is_public, is_open,
+                                spawn_world, spawn_x, spawn_y, spawn_z, fetched_at
+                         FROM towns WHERE can_outsiders_spawn = 1 ORDER BY name COLLATE NOCASE""").fetchall()
+    with open(os.path.join(out, "outsider_spawn_towns.csv"), "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["name", "nation", "mayor", "residents", "public", "open", "world", "x", "y", "z", "fetched_at"])
+        for r in rows:
+            w.writerow(list(r[:7]) + [round(v, 1) if v is not None else None for v in r[7:10]] + [r[10]])
+    print(f"{len(towns)} towns in DB; {len(rows)} allow outsider spawn")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="data")
-    ap.add_argument("--from-raw", action="store_true", help="rebuild DB from existing towns_raw.json without hitting the API")
+    ap.add_argument("--days-per-cycle", type=int, default=int(os.environ.get("DAYS_PER_CYCLE", 7)),
+                    help="refresh every town once per this many runs (1 = full scan each run)")
+    ap.add_argument("--export-only", action="store_true", help="rebuild DB/CSV from stored files, no API calls")
     a = ap.parse_args()
-    os.makedirs(a.out, exist_ok=True)
-    raw_path = os.path.join(a.out, "towns_raw.json")
-
-    if a.from_raw:
-        with open(raw_path) as f:
-            payload = json.load(f)
-    else:
-        fetched_at = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-        payload = {"fetched_at": fetched_at, "source": API + "/towns", "towns": fetch_all()}
-        with open(raw_path, "w") as f:
-            json.dump(payload, f, ensure_ascii=False)
-
-    db = build_db(payload["towns"], os.path.join(a.out, "towns.db"), payload["fetched_at"])
-    rows = db.execute("""SELECT name, nation_name, mayor_name, num_residents, is_public, is_open,
-                                spawn_world, spawn_x, spawn_y, spawn_z
-                         FROM towns WHERE can_outsiders_spawn = 1 ORDER BY name COLLATE NOCASE""").fetchall()
-    with open(os.path.join(a.out, "outsider_spawn_towns.csv"), "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["name", "nation", "mayor", "residents", "public", "open", "world", "x", "y", "z"])
-        for r in rows:
-            w.writerow(list(r[:7]) + [round(v, 1) if v is not None else None for v in r[7:]])
-    total = db.execute("SELECT COUNT(*) FROM towns").fetchone()[0]
-    print(f"{total} towns stored; {len(rows)} allow outsider spawn")
+    if not a.export_only:
+        update(a.out, max(1, a.days_per_cycle))
+    export(a.out)
 
 
 if __name__ == "__main__":

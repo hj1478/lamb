@@ -1,0 +1,276 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Karabash",
+  "uuid": "7a353c77-db22-4076-9e16-c1717cecacba",
+  "board": "Karabash - is a town where happiness lives!",
+  "founder": "IvanAdyg",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "IvanAdyg",
+   "uuid": "1029024a-0633-4820-9727-a6f3612911d5"
+  },
+  "nation": {
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
+  },
+  "timestamps": {
+   "registered": 1778591785390,
+   "joinedNationAt": 1791134248307,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 30,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 7.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 18434.696094002175,
+    "y": 63.0,
+    "z": -12038.004479533305,
+    "pitch": -0.9445078,
+    "yaw": 89.95256
+   },
+   "homeBlock": [
+    1152,
+    -753
+   ],
+   "townBlocks": [
+    [
+     1151,
+     -752
+    ],
+    [
+     1151,
+     -751
+    ],
+    [
+     1151,
+     -754
+    ],
+    [
+     1151,
+     -753
+    ],
+    [
+     1151,
+     -756
+    ],
+    [
+     1151,
+     -755
+    ],
+    [
+     1153,
+     -756
+    ],
+    [
+     1148,
+     -751
+    ],
+    [
+     1151,
+     -750
+    ],
+    [
+     1153,
+     -753
+    ],
+    [
+     1153,
+     -752
+    ],
+    [
+     1153,
+     -755
+    ],
+    [
+     1153,
+     -754
+    ],
+    [
+     1153,
+     -751
+    ],
+    [
+     1149,
+     -751
+    ],
+    [
+     1149,
+     -753
+    ],
+    [
+     1149,
+     -752
+    ],
+    [
+     1152,
+     -750
+    ],
+    [
+     1150,
+     -756
+    ],
+    [
+     1152,
+     -752
+    ],
+    [
+     1152,
+     -751
+    ],
+    [
+     1152,
+     -754
+    ],
+    [
+     1150,
+     -751
+    ],
+    [
+     1152,
+     -753
+    ],
+    [
+     1150,
+     -752
+    ],
+    [
+     1152,
+     -756
+    ],
+    [
+     1150,
+     -753
+    ],
+    [
+     1152,
+     -755
+    ],
+    [
+     1150,
+     -754
+    ],
+    [
+     1150,
+     -755
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "IvanAdyg",
+    "uuid": "1029024a-0633-4820-9727-a6f3612911d5"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [
+   {
+    "name": "Inconvenient Property",
+    "uuid": "94a7c944-6a69-4c08-aa18-6b70d840c30b"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "c8bccbcf-b5cb-4134-ae5b-0681d7a0c7fe"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "175d7b0b-263e-4e4f-9c74-05d296043a19"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "6e92e215-4ada-4e55-9d6f-fde452b6a94a"
+   },
+   {
+    "name": "Cafe \"Dance In Rags\"",
+    "uuid": "9c862101-fccd-49ce-a685-3210e984d30e"
+   },
+   {
+    "name": "Hotel rooms \"Dance In Rags\"",
+    "uuid": "67c0b438-1273-41d8-a30f-0e66880b965b"
+   },
+   {
+    "name": "Hotel room №1",
+    "uuid": "2163469b-d143-4919-8dd5-ef9e1558f07e"
+   },
+   {
+    "name": "Hotel room №2",
+    "uuid": "12509bf2-dbbf-4f91-a0cd-126923b02b97"
+   },
+   {
+    "name": "Hotel room №3",
+    "uuid": "b1cb14a4-c180-431d-9f06-d775d3ff5e08"
+   }
+  ],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

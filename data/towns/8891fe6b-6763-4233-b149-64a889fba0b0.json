@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Wonder_Islands",
+  "uuid": "8891fe6b-6763-4233-b149-64a889fba0b0",
+  "board": "/town set board [msg]",
+  "founder": "lambdajeremy",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "lambdajeremy",
+   "uuid": "70aac6a5-085e-4b29-82fa-8e234a3f056f"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1788850129025,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 25.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -56519.374103635964,
+    "y": 63.9375,
+    "z": 15222.515389151642,
+    "pitch": 60.75007,
+    "yaw": -135.75519
+   },
+   "homeBlock": [
+    -3533,
+    951
+   ],
+   "townBlocks": [
+    [
+     -3533,
+     951
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "lambdajeremy",
+    "uuid": "70aac6a5-085e-4b29-82fa-8e234a3f056f"
+   },
+   {
+    "name": "ToniaBrin",
+    "uuid": "b292ddc9-ad03-46fc-835f-7cc4b4ced80b"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

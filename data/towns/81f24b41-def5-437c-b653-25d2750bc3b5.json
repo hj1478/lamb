@@ -1,0 +1,137 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Jepwaar",
+  "uuid": "81f24b41-def5-437c-b653-25d2750bc3b5",
+  "board": "/town set board [msg]",
+  "founder": "Jepen",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Jepen",
+   "uuid": "5d01467c-21ac-4acc-96a5-0cc06664a27c"
+  },
+  "nation": {
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+  },
+  "timestamps": {
+   "registered": 1789211062765,
+   "joinedNationAt": 1789211081015,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 104,
+   "bonusBlocks": 0,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 6154.230195493249,
+    "y": 60.0,
+    "z": -16186.577925454403,
+    "pitch": 26.205374,
+    "yaw": 70.329056
+   },
+   "homeBlock": [
+    384,
+    -1012
+   ],
+   "townBlocks": [
+    [
+     384,
+     -1012
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Jepen",
+    "uuid": "5d01467c-21ac-4acc-96a5-0cc06664a27c"
+   },
+   {
+    "name": "spoxfy",
+    "uuid": "f5fa4ee8-56ca-4ac2-96e2-73a51c9e8dc5"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "spoxfy",
+    "uuid": "f5fa4ee8-56ca-4ac2-96e2-73a51c9e8dc5"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "spoxfy",
+     "uuid": "f5fa4ee8-56ca-4ac2-96e2-73a51c9e8dc5"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

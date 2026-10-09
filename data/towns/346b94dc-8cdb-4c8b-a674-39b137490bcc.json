@@ -1,0 +1,230 @@
+{
+ "fetched_at": "2026-10-09T10:43:08Z",
+ "data": {
+  "name": "Argentum_City",
+  "uuid": "346b94dc-8cdb-4c8b-a674-39b137490bcc",
+  "board": "/town set board [msg]",
+  "founder": "SilverSpadeMC",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "G00f3r",
+   "uuid": "48801b6e-3d36-4bf4-8b05-960e2cb2b761"
+  },
+  "nation": {
+   "name": "Ethiopia",
+   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+  },
+  "timestamps": {
+   "registered": 1788806748664,
+   "joinedNationAt": 1789007228692,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 12,
+   "maxTownBlocks": 148,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 4,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 4.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 12969.863694960604,
+    "y": 76.0,
+    "z": 5664.894049107472,
+    "pitch": 34.886227,
+    "yaw": 10.348846
+   },
+   "homeBlock": [
+    810,
+    354
+   ],
+   "townBlocks": [
+    [
+     808,
+     354
+    ],
+    [
+     808,
+     353
+    ],
+    [
+     810,
+     355
+    ],
+    [
+     810,
+     354
+    ],
+    [
+     810,
+     353
+    ],
+    [
+     808,
+     355
+    ],
+    [
+     809,
+     354
+    ],
+    [
+     811,
+     354
+    ],
+    [
+     809,
+     353
+    ],
+    [
+     811,
+     355
+    ],
+    [
+     809,
+     355
+    ],
+    [
+     811,
+     353
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "G00f3r",
+    "uuid": "48801b6e-3d36-4bf4-8b05-960e2cb2b761"
+   },
+   {
+    "name": "okmoron",
+    "uuid": "7ac4d039-cad0-458d-ac7c-5101ab23bc79"
+   },
+   {
+    "name": "Meduckn",
+    "uuid": "4e0ce10d-0201-42d7-9b9f-f804173dc0e5"
+   },
+   {
+    "name": "PeanutButter0216",
+    "uuid": "fe765a64-3b3d-4272-9e24-293d63a1d9df"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "SilverSpadeMC",
+    "uuid": "8da4a4dc-66c0-4d4c-a63b-6fd229732e6e"
+   },
+   {
+    "name": "SharpieSnorter5",
+    "uuid": "54e8bd51-d63a-4c2a-985f-5af14c52ec3d"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "uhtred_of_bb",
+    "uuid": "9d405d52-d98f-452b-950b-4180bfec3ff7"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Dull Apartment",
+    "uuid": "952e6b68-c6a3-4914-9ae4-285cbf42faf3"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "d1efeac8-1f3d-487f-a185-e4681dfb3024"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "ebdf1268-5e2e-4adf-9320-f68c2ba4e086"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "e40b7f69-99e3-4084-b608-488f2c9b61d4"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "a2880b25-8c4d-48ed-9c02-7385ff95f31e"
+   },
+   {
+    "name": "Poison Room",
+    "uuid": "701b0de3-9b5d-4a36-ba30-565097407e97"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "281093f1-4021-4dd8-9248-7e38237d6d20"
+   },
+   {
+    "name": "Perturbing Residence",
+    "uuid": "85c0e606-79e3-4afa-85b2-024caf0bdd12"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "ae7ab82a-8925-4885-a493-dab0b77ad874"
+   }
+  ],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

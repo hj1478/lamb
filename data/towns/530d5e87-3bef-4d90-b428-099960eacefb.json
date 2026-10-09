@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Byzantine",
+  "uuid": "530d5e87-3bef-4d90-b428-099960eacefb",
+  "board": "/town set board [msg]",
+  "founder": "Roman_Cypriot",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Roman_Cypriot",
+   "uuid": "d4caadb3-d103-4f02-b300-966c7c91315d"
+  },
+  "nation": {
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+  },
+  "timestamps": {
+   "registered": 1789898469770,
+   "joinedNationAt": 1790012785744,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 124,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 15.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 10625.05490839832,
+    "y": 102.0,
+    "z": -7050.46649034456,
+    "pitch": -4.8252635,
+    "yaw": 15.667938
+   },
+   "homeBlock": [
+    664,
+    -441
+   ],
+   "townBlocks": [
+    [
+     664,
+     -443
+    ],
+    [
+     664,
+     -442
+    ],
+    [
+     664,
+     -441
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Roman_Cypriot",
+    "uuid": "d4caadb3-d103-4f02-b300-966c7c91315d"
+   },
+   {
+    "name": "SuperSonicElectr",
+    "uuid": "c4e097e1-5d64-4d29-9f03-647d7e93c50f"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "SuperSonicElectr",
+     "uuid": "c4e097e1-5d64-4d29-9f03-647d7e93c50f"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

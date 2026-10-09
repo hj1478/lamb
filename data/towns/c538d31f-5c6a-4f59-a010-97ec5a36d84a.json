@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Nightshade",
+  "uuid": "c538d31f-5c6a-4f59-a010-97ec5a36d84a",
+  "board": "/town set board [msg]",
+  "founder": "GottaBePlUtO",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC22",
+   "uuid": "74430dcf-4ecd-2038-9d0f-8911df80cbcd"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1787604372046,
+   "joinedNationAt": null,
+   "ruinedAt": 1791280801107
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -30861.135759208046,
+    "y": 64.875,
+    "z": -13277.368763924494,
+    "pitch": 13.685397,
+    "yaw": 2.776418
+   },
+   "homeBlock": [
+    -1929,
+    -830
+   ],
+   "townBlocks": [
+    [
+     -1929,
+     -830
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC22",
+    "uuid": "74430dcf-4ecd-2038-9d0f-8911df80cbcd"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

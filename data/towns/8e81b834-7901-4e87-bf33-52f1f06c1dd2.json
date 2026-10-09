@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "RobyTown",
+  "uuid": "8e81b834-7901-4e87-bf33-52f1f06c1dd2",
+  "board": "/town set board [msg]",
+  "founder": "roby1i1",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "roby1i1",
+   "uuid": "c4514cf5-14e3-4a06-8950-b0b416ff27ed"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1790264329120,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -21034.443745823133,
+    "y": 63.0,
+    "z": 20477.61612282988,
+    "pitch": 26.250116,
+    "yaw": 130.33252
+   },
+   "homeBlock": [
+    -1315,
+    1279
+   ],
+   "townBlocks": [
+    [
+     -1315,
+     1279
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "roby1i1",
+    "uuid": "c4514cf5-14e3-4a06-8950-b0b416ff27ed"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

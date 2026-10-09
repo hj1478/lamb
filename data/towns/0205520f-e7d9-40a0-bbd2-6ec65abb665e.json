@@ -1,0 +1,654 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "Freaky_Town",
+  "uuid": "0205520f-e7d9-40a0-bbd2-6ec65abb665e",
+  "board": "/town set board [msg]",
+  "founder": "Petr1000",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Acerse",
+   "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
+  },
+  "nation": {
+   "name": "Niger",
+   "uuid": "f643556e-08d8-4527-840c-3e587a16773b"
+  },
+  "timestamps": {
+   "registered": 1785852458727,
+   "joinedNationAt": 1785855171254,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": true,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 102,
+   "maxTownBlocks": 274,
+   "bonusBlocks": 0,
+   "nationBonus": 10,
+   "numResidents": 22,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 348.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 4487.393290053653,
+    "y": 98.0,
+    "z": 1511.9564724209836,
+    "pitch": 1.3601707,
+    "yaw": 90.17513
+   },
+   "homeBlock": [
+    280,
+    94
+   ],
+   "townBlocks": [
+    [
+     279,
+     101
+    ],
+    [
+     274,
+     95
+    ],
+    [
+     274,
+     96
+    ],
+    [
+     274,
+     93
+    ],
+    [
+     274,
+     94
+    ],
+    [
+     274,
+     99
+    ],
+    [
+     274,
+     97
+    ],
+    [
+     274,
+     98
+    ],
+    [
+     279,
+     96
+    ],
+    [
+     279,
+     95
+    ],
+    [
+     279,
+     94
+    ],
+    [
+     279,
+     93
+    ],
+    [
+     279,
+     100
+    ],
+    [
+     279,
+     99
+    ],
+    [
+     279,
+     98
+    ],
+    [
+     279,
+     97
+    ],
+    [
+     279,
+     92
+    ],
+    [
+     280,
+     91
+    ],
+    [
+     279,
+     91
+    ],
+    [
+     281,
+     91
+    ],
+    [
+     276,
+     96
+    ],
+    [
+     276,
+     97
+    ],
+    [
+     276,
+     94
+    ],
+    [
+     276,
+     95
+    ],
+    [
+     276,
+     92
+    ],
+    [
+     276,
+     93
+    ],
+    [
+     276,
+     90
+    ],
+    [
+     276,
+     91
+    ],
+    [
+     276,
+     100
+    ],
+    [
+     276,
+     101
+    ],
+    [
+     276,
+     98
+    ],
+    [
+     276,
+     99
+    ],
+    [
+     281,
+     93
+    ],
+    [
+     281,
+     92
+    ],
+    [
+     281,
+     95
+    ],
+    [
+     281,
+     94
+    ],
+    [
+     277,
+     101
+    ],
+    [
+     281,
+     97
+    ],
+    [
+     277,
+     100
+    ],
+    [
+     281,
+     96
+    ],
+    [
+     277,
+     99
+    ],
+    [
+     281,
+     99
+    ],
+    [
+     277,
+     98
+    ],
+    [
+     281,
+     98
+    ],
+    [
+     272,
+     98
+    ],
+    [
+     277,
+     97
+    ],
+    [
+     272,
+     99
+    ],
+    [
+     277,
+     96
+    ],
+    [
+     277,
+     95
+    ],
+    [
+     272,
+     97
+    ],
+    [
+     277,
+     94
+    ],
+    [
+     277,
+     93
+    ],
+    [
+     277,
+     92
+    ],
+    [
+     277,
+     91
+    ],
+    [
+     277,
+     90
+    ],
+    [
+     273,
+     91
+    ],
+    [
+     275,
+     96
+    ],
+    [
+     273,
+     90
+    ],
+    [
+     275,
+     95
+    ],
+    [
+     273,
+     89
+    ],
+    [
+     275,
+     98
+    ],
+    [
+     275,
+     97
+    ],
+    [
+     273,
+     95
+    ],
+    [
+     275,
+     100
+    ],
+    [
+     273,
+     94
+    ],
+    [
+     275,
+     99
+    ],
+    [
+     273,
+     93
+    ],
+    [
+     273,
+     92
+    ],
+    [
+     275,
+     101
+    ],
+    [
+     273,
+     99
+    ],
+    [
+     273,
+     98
+    ],
+    [
+     273,
+     97
+    ],
+    [
+     273,
+     96
+    ],
+    [
+     275,
+     90
+    ],
+    [
+     275,
+     89
+    ],
+    [
+     275,
+     92
+    ],
+    [
+     275,
+     91
+    ],
+    [
+     275,
+     94
+    ],
+    [
+     275,
+     93
+    ],
+    [
+     280,
+     95
+    ],
+    [
+     280,
+     94
+    ],
+    [
+     280,
+     93
+    ],
+    [
+     280,
+     92
+    ],
+    [
+     280,
+     99
+    ],
+    [
+     280,
+     98
+    ],
+    [
+     280,
+     97
+    ],
+    [
+     280,
+     96
+    ],
+    [
+     278,
+     95
+    ],
+    [
+     278,
+     96
+    ],
+    [
+     278,
+     97
+    ],
+    [
+     278,
+     98
+    ],
+    [
+     278,
+     91
+    ],
+    [
+     278,
+     92
+    ],
+    [
+     278,
+     93
+    ],
+    [
+     278,
+     94
+    ],
+    [
+     274,
+     91
+    ],
+    [
+     278,
+     99
+    ],
+    [
+     274,
+     92
+    ],
+    [
+     278,
+     100
+    ],
+    [
+     274,
+     89
+    ],
+    [
+     278,
+     101
+    ],
+    [
+     274,
+     90
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Petr1000",
+    "uuid": "f261f9a3-8f2e-4fca-9c58-3ce211f923bf"
+   },
+   {
+    "name": "jackhissey20",
+    "uuid": "fd769c8e-99d5-49d8-82db-847431656ed0"
+   },
+   {
+    "name": "CoolThunder17",
+    "uuid": "99fe54a5-b5fd-4206-86ef-25e5b083bbf6"
+   },
+   {
+    "name": "WTTX_45",
+    "uuid": "a3515572-c760-48bd-994a-6047d7029be6"
+   },
+   {
+    "name": "Vyloxcx",
+    "uuid": "b8cb1e80-5f8b-4abb-8b8b-a392545b4069"
+   },
+   {
+    "name": "Romanesque_arch",
+    "uuid": "43685199-3467-41d9-8cd4-0fa4f1be14dc"
+   },
+   {
+    "name": "PhantasiSoul",
+    "uuid": "ce6516e8-9e3f-4a9d-8a5e-7199908d8303"
+   },
+   {
+    "name": "Itzfuriox",
+    "uuid": "6ea1b35d-ed7e-44ea-a145-e79aa5990406"
+   },
+   {
+    "name": "xQ7mK2pL9vNzR4wT",
+    "uuid": "594255bb-4c8f-4745-a6c2-aabf6d4e946f"
+   },
+   {
+    "name": "Max_idk2013",
+    "uuid": "9162bba7-210c-4efe-8ede-6afac1ce8dc8"
+   },
+   {
+    "name": "bahanas",
+    "uuid": "e74fb701-6580-4fb6-b0e1-073212a83ed8"
+   },
+   {
+    "name": "Acerse",
+    "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
+   },
+   {
+    "name": "Itz_Luke3377",
+    "uuid": "f5d7c0e3-f6ca-4fe9-93b5-ec295a4377b9"
+   },
+   {
+    "name": "iam_kiyotaka",
+    "uuid": "dc08331f-22b2-465f-b7ae-ec5f8f24d72e"
+   },
+   {
+    "name": "MasterKaners",
+    "uuid": "00127274-9bdb-468b-9865-177b18ba6d58"
+   },
+   {
+    "name": "SISELIK",
+    "uuid": "0e83114f-45a1-4ca5-aaa5-e8d4dbcfe844"
+   },
+   {
+    "name": "Shanee2",
+    "uuid": "aa90a994-967d-4a7c-bbbf-5c4b567e104e"
+   },
+   {
+    "name": "BratIsHere",
+    "uuid": "f15a2101-2a43-4a79-ab9f-26111c412d2b"
+   },
+   {
+    "name": "D4rkZs",
+    "uuid": "9a90e152-2199-4dbb-9dc1-80c8e16ba5f2"
+   },
+   {
+    "name": "DosaDestroyer16",
+    "uuid": "994904a4-aeec-4e99-af5f-f6a2267dfdd9"
+   },
+   {
+    "name": "AppIzz",
+    "uuid": "d08190f8-113e-4a90-93de-b2667d8c1d2d"
+   },
+   {
+    "name": "karoline124369",
+    "uuid": "c006090a-876e-40c2-9805-b2844c7e9e12"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Itz_Luke3377",
+    "uuid": "f5d7c0e3-f6ca-4fe9-93b5-ec295a4377b9"
+   },
+   {
+    "name": "FORDaLoZ",
+    "uuid": "10286bc5-2980-422b-af54-6b1f7aa488bc"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [
+   {
+    "name": "Dull Apartment",
+    "uuid": "d4ff7147-98d6-4fed-acc6-759637d7ace1"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "5dddc154-22ed-4169-9c71-1f31b63e290b"
+   }
+  ],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "Petr1000",
+     "uuid": "f261f9a3-8f2e-4fca-9c58-3ce211f923bf"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "jackhissey20",
+     "uuid": "fd769c8e-99d5-49d8-82db-847431656ed0"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Itz_Luke3377",
+     "uuid": "f5d7c0e3-f6ca-4fe9-93b5-ec295a4377b9"
+    }
+   ],
+   "Police": [
+    {
+     "name": "Itz_Luke3377",
+     "uuid": "f5d7c0e3-f6ca-4fe9-93b5-ec295a4377b9"
+    }
+   ],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [
+    {
+     "name": "Itz_Luke3377",
+     "uuid": "f5d7c0e3-f6ca-4fe9-93b5-ec295a4377b9"
+    }
+   ],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "fetched_at": "2026-10-09T10:43:08Z",
+ "data": {
+  "name": "Jura-Tempest",
+  "uuid": "3fe5ee80-203b-473e-bfb4-c2f031b0bc64",
+  "board": "/town set board [msg]",
+  "founder": "Watusix",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Watusix",
+   "uuid": "49776a12-f610-44e1-9c32-5e571ae57323"
+  },
+  "nation": {
+   "name": "Zion",
+   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
+  },
+  "timestamps": {
+   "registered": 1789832000326,
+   "joinedNationAt": 1789832153978,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 128,
+   "bonusBlocks": 0,
+   "nationBonus": 80,
+   "numResidents": 4,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 16.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -36665.338741635445,
+    "y": 75.0,
+    "z": -10294.96969514671,
+    "pitch": 34.350086,
+    "yaw": 82.2923
+   },
+   "homeBlock": [
+    -2292,
+    -644
+   ],
+   "townBlocks": [
+    [
+     -2293,
+     -644
+    ],
+    [
+     -2292,
+     -644
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Watusix",
+    "uuid": "49776a12-f610-44e1-9c32-5e571ae57323"
+   },
+   {
+    "name": "RandomAmbser",
+    "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
+   },
+   {
+    "name": "ItsKevin1221",
+    "uuid": "0c7d46c5-7d49-40e6-96cb-e0b31e922499"
+   },
+   {
+    "name": "MobIsANob",
+    "uuid": "049f52f3-aefc-4645-9bba-be5abffc595d"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "RandomAmbser",
+    "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "RandomAmbser",
+     "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
+    },
+    {
+     "name": "ItsKevin1221",
+     "uuid": "0c7d46c5-7d49-40e6-96cb-e0b31e922499"
+    },
+    {
+     "name": "MobIsANob",
+     "uuid": "049f52f3-aefc-4645-9bba-be5abffc595d"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "RandomAmbser",
+     "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
+    },
+    {
+     "name": "ItsKevin1221",
+     "uuid": "0c7d46c5-7d49-40e6-96cb-e0b31e922499"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [
+    {
+     "name": "MobIsANob",
+     "uuid": "049f52f3-aefc-4645-9bba-be5abffc595d"
+    }
+   ],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

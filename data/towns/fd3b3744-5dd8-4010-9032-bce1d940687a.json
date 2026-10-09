@@ -1,0 +1,131 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Newuk",
+  "uuid": "fd3b3744-5dd8-4010-9032-bce1d940687a",
+  "board": "/town set board [msg]",
+  "founder": "the_king_is_solo",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "the_king_is_solo",
+   "uuid": "9b82da2e-538c-4d58-a75b-2105121a2506"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791045269912,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 17.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 21242.55745515665,
+    "y": 97.0,
+    "z": -5336.69926722406,
+    "pitch": 32.09998,
+    "yaw": -166.79994
+   },
+   "homeBlock": [
+    1327,
+    -334
+   ],
+   "townBlocks": [
+    [
+     1327,
+     -335
+    ],
+    [
+     1327,
+     -334
+    ],
+    [
+     1327,
+     -336
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "the_king_is_solo",
+    "uuid": "9b82da2e-538c-4d58-a75b-2105121a2506"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

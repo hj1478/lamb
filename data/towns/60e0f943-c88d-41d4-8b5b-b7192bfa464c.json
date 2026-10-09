@@ -1,0 +1,139 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "TheLostWorld",
+  "uuid": "60e0f943-c88d-41d4-8b5b-b7192bfa464c",
+  "board": "/town set board [msg]",
+  "founder": "CleverCircle",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "FierceGrass",
+   "uuid": "14d9cb45-f1e8-41cb-b4e9-c472f52dced2"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1783835835747,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 6.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 13734.32669003176,
+    "y": 70.9375,
+    "z": 13592.266048833608,
+    "pitch": 90.0,
+    "yaw": 6.95459
+   },
+   "homeBlock": [
+    858,
+    849
+   ],
+   "townBlocks": [
+    [
+     857,
+     848
+    ],
+    [
+     857,
+     849
+    ],
+    [
+     859,
+     849
+    ],
+    [
+     858,
+     849
+    ],
+    [
+     858,
+     848
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "FierceGrass",
+    "uuid": "14d9cb45-f1e8-41cb-b4e9-c472f52dced2"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

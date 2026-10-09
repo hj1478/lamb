@@ -1,0 +1,163 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Hiperborea",
+  "uuid": "4b7d0fa4-4e25-4532-a43d-91b65a7336ff",
+  "board": "/town set board [msg]",
+  "founder": "hiperboreo",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC86",
+   "uuid": "c7b38265-b64b-208f-898d-dc92f3f8eb6e"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1786373378128,
+   "joinedNationAt": null,
+   "ruinedAt": 1791453818009
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 10,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -26757.69520507243,
+    "y": 67.0,
+    "z": 6124.699999988079,
+    "pitch": 38.250458,
+    "yaw": -170.5877
+   },
+   "homeBlock": [
+    -1673,
+    382
+   ],
+   "townBlocks": [
+    [
+     -1674,
+     382
+    ],
+    [
+     -1672,
+     383
+    ],
+    [
+     -1674,
+     384
+    ],
+    [
+     -1674,
+     383
+    ],
+    [
+     -1672,
+     382
+    ],
+    [
+     -1673,
+     381
+    ],
+    [
+     -1673,
+     382
+    ],
+    [
+     -1675,
+     382
+    ],
+    [
+     -1673,
+     383
+    ],
+    [
+     -1673,
+     384
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "333lijah",
+    "uuid": "118b8ffa-1035-49f2-b1e1-d8b6eb52c919"
+   },
+   {
+    "name": "NPC86",
+    "uuid": "c7b38265-b64b-208f-898d-dc92f3f8eb6e"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

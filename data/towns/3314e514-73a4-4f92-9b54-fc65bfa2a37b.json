@@ -1,0 +1,135 @@
+{
+ "fetched_at": "2026-10-09T10:43:08Z",
+ "data": {
+  "name": "Blue_Compound",
+  "uuid": "3314e514-73a4-4f92-9b54-fc65bfa2a37b",
+  "board": "/town set board [msg]",
+  "founder": "DresAlt",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC49",
+   "uuid": "3686fe6d-9e2b-2061-8647-9ed1d9b259f1"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1787354718108,
+   "joinedNationAt": null,
+   "ruinedAt": 1791367201924
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 4,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 128.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -26639.654746232096,
+    "y": 129.0,
+    "z": 5267.312546760423,
+    "pitch": 16.799923,
+    "yaw": -82.15494
+   },
+   "homeBlock": [
+    -1665,
+    329
+   ],
+   "townBlocks": [
+    [
+     -1665,
+     329
+    ],
+    [
+     -1665,
+     330
+    ],
+    [
+     -1666,
+     330
+    ],
+    [
+     -1666,
+     329
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC49",
+    "uuid": "3686fe6d-9e2b-2061-8647-9ed1d9b259f1"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

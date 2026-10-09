@@ -1,0 +1,135 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Adanaus",
+  "uuid": "64d66c6f-19d6-4cca-b893-2c7acd6b4250",
+  "board": "/town set board [msg]",
+  "founder": "platinpanzer",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC33",
+   "uuid": "df8c594d-288b-202e-8f25-d0d8f9c1771b"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1785146336674,
+   "joinedNationAt": null,
+   "ruinedAt": 1791540002859
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 4,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 9.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 11119.506900717159,
+    "y": 64.0,
+    "z": -18621.973047394065,
+    "pitch": 3.4500897,
+    "yaw": 172.27675
+   },
+   "homeBlock": [
+    694,
+    -1164
+   ],
+   "townBlocks": [
+    [
+     694,
+     -1165
+    ],
+    [
+     694,
+     -1164
+    ],
+    [
+     695,
+     -1164
+    ],
+    [
+     695,
+     -1165
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC33",
+    "uuid": "df8c594d-288b-202e-8f25-d0d8f9c1771b"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

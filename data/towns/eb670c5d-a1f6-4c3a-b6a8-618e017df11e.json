@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Corsaire",
+  "uuid": "eb670c5d-a1f6-4c3a-b6a8-618e017df11e",
+  "board": "/town set board [msg]",
+  "founder": "CLorf",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "IceVog",
+   "uuid": "e1bc459a-0b5d-469f-a53b-90aa68a45e8e"
+  },
+  "nation": {
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+  },
+  "timestamps": {
+   "registered": 1790087407696,
+   "joinedNationAt": 1790087427296,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 10.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -958.6563770629542,
+    "y": 45.0,
+    "z": -10873.921371714823,
+    "pitch": 1.9499861,
+    "yaw": -2.0324707
+   },
+   "homeBlock": [
+    -60,
+    -680
+   ],
+   "townBlocks": [
+    [
+     -61,
+     -680
+    ],
+    [
+     -62,
+     -680
+    ],
+    [
+     -60,
+     -680
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "IceVog",
+    "uuid": "e1bc459a-0b5d-469f-a53b-90aa68a45e8e"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "karakan31",
+    "uuid": "9c0dfd99-d7b1-4f7b-b32d-1bddc10f94a1"
+   },
+   {
+    "name": "Taklaci_Kerim",
+    "uuid": "243a3b92-bd89-412c-9ad5-64ac43cb1401"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

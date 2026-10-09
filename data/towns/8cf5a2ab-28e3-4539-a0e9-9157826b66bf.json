@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Oxus",
+  "uuid": "8cf5a2ab-28e3-4539-a0e9-9157826b66bf",
+  "board": "/town set board [msg]",
+  "founder": "CERAT_HERE",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "CERAT_HERE",
+   "uuid": "71c55037-42b6-4ab1-81a5-01706661ddd1"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791393783598,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 10.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 22813.88951445477,
+    "y": 64.0,
+    "z": -6785.560620596724,
+    "pitch": 24.652708,
+    "yaw": -101.01758
+   },
+   "homeBlock": [
+    1425,
+    -425
+   ],
+   "townBlocks": [
+    [
+     1425,
+     -425
+    ],
+    [
+     1425,
+     -426
+    ],
+    [
+     1425,
+     -424
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "CERAT_HERE",
+    "uuid": "71c55037-42b6-4ab1-81a5-01706661ddd1"
+   },
+   {
+    "name": "TarikOsman",
+    "uuid": "2840b27b-e3d7-403a-8af8-6cbc3ebb80f5"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "TarikOsman",
+     "uuid": "2840b27b-e3d7-403a-8af8-6cbc3ebb80f5"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

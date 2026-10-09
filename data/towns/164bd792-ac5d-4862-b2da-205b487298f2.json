@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "GrackleLand",
+  "uuid": "164bd792-ac5d-4862-b2da-205b487298f2",
+  "board": "/town set board [msg]",
+  "founder": "Bucks456",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Bucks456",
+   "uuid": "8bb2ac06-70c9-48e1-9c52-1cadf528bf3d"
+  },
+  "nation": {
+   "name": "Anchorage",
+   "uuid": "a19a509d-7ea1-46eb-8b88-ae7757ed2494"
+  },
+  "timestamps": {
+   "registered": 1791421599596,
+   "joinedNationAt": 1791429408646,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 98,
+   "bonusBlocks": 0,
+   "nationBonus": 50,
+   "numResidents": 4,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 27.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -49145.64714552787,
+    "y": 70.0,
+    "z": -17082.898354297766,
+    "pitch": 23.923103,
+    "yaw": -31.732544
+   },
+   "homeBlock": [
+    -3072,
+    -1068
+   ],
+   "townBlocks": [
+    [
+     -3072,
+     -1068
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Bucks456",
+    "uuid": "8bb2ac06-70c9-48e1-9c52-1cadf528bf3d"
+   },
+   {
+    "name": "xLela",
+    "uuid": "f31106e5-82c5-475d-a420-25a857fabb85"
+   },
+   {
+    "name": "CynicalPotato",
+    "uuid": "069b2c7a-e1b9-42cc-9471-2fa710642eef"
+   },
+   {
+    "name": "SuperRobot",
+    "uuid": "506e7bf5-7d3d-4cf8-b372-1a09d3f108cf"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [
+    {
+     "name": "CynicalPotato",
+     "uuid": "069b2c7a-e1b9-42cc-9471-2fa710642eef"
+    }
+   ],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

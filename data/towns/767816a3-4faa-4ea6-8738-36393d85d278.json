@@ -1,0 +1,152 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Lidkoping",
+  "uuid": "767816a3-4faa-4ea6-8738-36393d85d278",
+  "board": "/town set board [msg]",
+  "founder": "GOTIMAJA",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "GOTIMAJA",
+   "uuid": "69643c36-e0b9-4310-975a-6ff0c51efdb7"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1788960444479,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 4,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 4.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 4721.658699086368,
+    "y": 63.0,
+    "z": -15732.57732294372,
+    "pitch": 48.149967,
+    "yaw": -172.4764
+   },
+   "homeBlock": [
+    295,
+    -984
+   ],
+   "townBlocks": [
+    [
+     296,
+     -986
+    ],
+    [
+     295,
+     -986
+    ],
+    [
+     295,
+     -985
+    ],
+    [
+     295,
+     -984
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "GOTIMAJA",
+    "uuid": "69643c36-e0b9-4310-975a-6ff0c51efdb7"
+   },
+   {
+    "name": "DODmof",
+    "uuid": "fa100882-402c-4731-ac4d-859628b28917"
+   },
+   {
+    "name": "Saint_Aras",
+    "uuid": "94e2278e-0655-4623-bace-71e2aa2ed308"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "DODmof",
+     "uuid": "fa100882-402c-4731-ac4d-859628b28917"
+    },
+    {
+     "name": "Saint_Aras",
+     "uuid": "94e2278e-0655-4623-bace-71e2aa2ed308"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

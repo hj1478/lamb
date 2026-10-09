@@ -1,0 +1,151 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Rider",
+  "uuid": "716c4749-9e55-45c0-925e-d1acf2c6bed8",
+  "board": "/town set board [msg]",
+  "founder": "Rockbelow",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC63",
+   "uuid": "d7c4e9d1-ebba-208d-99a2-a0e2c764580a"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791287575894,
+   "joinedNationAt": null,
+   "ruinedAt": 1791406750860
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 8,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 5940.634185113119,
+    "y": 59.0,
+    "z": -7062.633973143574,
+    "pitch": 24.207499,
+    "yaw": 104.616585
+   },
+   "homeBlock": [
+    371,
+    -442
+   ],
+   "townBlocks": [
+    [
+     369,
+     -440
+    ],
+    [
+     369,
+     -439
+    ],
+    [
+     369,
+     -442
+    ],
+    [
+     371,
+     -442
+    ],
+    [
+     369,
+     -441
+    ],
+    [
+     370,
+     -441
+    ],
+    [
+     370,
+     -442
+    ],
+    [
+     370,
+     -440
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC63",
+    "uuid": "d7c4e9d1-ebba-208d-99a2-a0e2c764580a"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

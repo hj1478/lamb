@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Water",
+  "uuid": "7ff8198a-7a32-4e87-a2c2-ce44aae6d34e",
+  "board": "/town set board [msg]",
+  "founder": "ImFedee",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "ImFedee",
+   "uuid": "d026b2f7-4915-425c-9ffe-628d373cf61b"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1790356700713,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 9.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -36658.30000001192,
+    "y": 63.0,
+    "z": 29268.30000001192,
+    "pitch": 51.968628,
+    "yaw": 75.21585
+   },
+   "homeBlock": [
+    -2292,
+    1829
+   ],
+   "townBlocks": [
+    [
+     -2292,
+     1829
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "ImFedee",
+    "uuid": "d026b2f7-4915-425c-9ffe-628d373cf61b"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

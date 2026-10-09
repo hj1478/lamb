@@ -1,0 +1,131 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Kouvola",
+  "uuid": "ef136b2f-602e-434b-b1c7-ef59292cb82b",
+  "board": "Hymyile iloisesti",
+  "founder": "33AC",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "33AC",
+   "uuid": "d4c34f2f-3ca7-4e5e-aa09-a3047efda22a"
+  },
+  "nation": {
+   "name": "Finland",
+   "uuid": "0c2e57ae-586e-4db7-a880-d210b810646b"
+  },
+  "timestamps": {
+   "registered": 1791150971604,
+   "joinedNationAt": 1791151887754,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 84,
+   "bonusBlocks": 0,
+   "nationBonus": 60,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 1.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 9492.616907338635,
+    "y": 66.0,
+    "z": -17047.182028093066,
+    "pitch": 33.52248,
+    "yaw": -89.50098
+   },
+   "homeBlock": [
+    593,
+    -1066
+   ],
+   "townBlocks": [
+    [
+     594,
+     -1066
+    ],
+    [
+     593,
+     -1066
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "33AC",
+    "uuid": "d4c34f2f-3ca7-4e5e-aa09-a3047efda22a"
+   },
+   {
+    "name": "DlSK",
+    "uuid": "0de0e873-dce8-445c-8767-be5efa023f15"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

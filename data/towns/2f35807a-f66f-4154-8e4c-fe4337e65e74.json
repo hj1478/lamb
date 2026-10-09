@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-09T10:43:08Z",
+ "data": {
+  "name": "Erdovar",
+  "uuid": "2f35807a-f66f-4154-8e4c-fe4337e65e74",
+  "board": "/town set board [msg]",
+  "founder": "Marrowed",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Marrowed",
+   "uuid": "c119bb89-f5bf-4385-ae0c-0e68332dc543"
+  },
+  "nation": {
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
+  },
+  "timestamps": {
+   "registered": 1789229735757,
+   "joinedNationAt": 1789229885992,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 14.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 35982.55480366216,
+    "y": 83.0,
+    "z": -12535.282383169058,
+    "pitch": -31.35015,
+    "yaw": -11.774595
+   },
+   "homeBlock": [
+    2248,
+    -784
+   ],
+   "townBlocks": [
+    [
+     2248,
+     -784
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Marrowed",
+    "uuid": "c119bb89-f5bf-4385-ae0c-0e68332dc543"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

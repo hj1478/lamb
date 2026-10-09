@@ -1,0 +1,136 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Midas",
+  "uuid": "89f15846-050f-47d2-a540-abbf02505945",
+  "board": "/town set board [msg]",
+  "founder": "Necrolance",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC71",
+   "uuid": "e9b5ec30-a988-2067-b4ea-433934d30723"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1782458655306,
+   "joinedNationAt": null,
+   "ruinedAt": 1791453601773
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 3,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 14716.107855325938,
+    "y": 92.0,
+    "z": -7382.053690946856,
+    "pitch": 15.899961,
+    "yaw": -60.45099
+   },
+   "homeBlock": [
+    919,
+    -462
+   ],
+   "townBlocks": [
+    [
+     919,
+     -462
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC71",
+    "uuid": "e9b5ec30-a988-2067-b4ea-433934d30723"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "mrgris13",
+    "uuid": "71cbc64c-a1e9-4b5c-a66b-62589b0fa2a4"
+   },
+   {
+    "name": "Vfinestone",
+    "uuid": "e319f1e6-1eca-4296-9707-386c460b2703"
+   }
+  ],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

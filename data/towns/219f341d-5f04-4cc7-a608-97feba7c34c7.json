@@ -1,0 +1,157 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "Fishtopia",
+  "uuid": "219f341d-5f04-4cc7-a608-97feba7c34c7",
+  "board": "/town set board [msg]",
+  "founder": "Glosh",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Glosh",
+   "uuid": "05685420-59a1-4357-bb0d-01d09b443bd9"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1778463026581,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 6,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 18.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -22822.46412010169,
+    "y": 64.0,
+    "z": 17334.423695951697,
+    "pitch": 60.830788,
+    "yaw": 141.90771
+   },
+   "homeBlock": [
+    -1427,
+    1083
+   ],
+   "townBlocks": [
+    [
+     -1426,
+     1084
+    ],
+    [
+     -1427,
+     1084
+    ],
+    [
+     -1427,
+     1082
+    ],
+    [
+     -1427,
+     1083
+    ],
+    [
+     -1426,
+     1083
+    ],
+    [
+     -1426,
+     1082
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Glosh",
+    "uuid": "05685420-59a1-4357-bb0d-01d09b443bd9"
+   },
+   {
+    "name": "SansOfUndertale",
+    "uuid": "f08ed593-bfed-4d76-ac33-231d69c6b8f7"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "SansOfUndertale",
+     "uuid": "f08ed593-bfed-4d76-ac33-231d69c6b8f7"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "SansOfUndertale",
+     "uuid": "f08ed593-bfed-4d76-ac33-231d69c6b8f7"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

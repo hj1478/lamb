@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-10-09T10:43:08Z",
+ "data": {
+  "name": "Chaos_Town",
+  "uuid": "29e21f02-618c-4974-8054-cf9a35a5ebe9",
+  "board": "/town set board [msg]",
+  "founder": "grumpycat103236",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "grumpycat103236",
+   "uuid": "bbda3988-0851-4b31-ab0d-679565346c6b"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1790930950618,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 7.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 46044.797856440404,
+    "y": 63.0,
+    "z": 13042.645792916404,
+    "pitch": 25.649864,
+    "yaw": -75.46417
+   },
+   "homeBlock": [
+    2877,
+    815
+   ],
+   "townBlocks": [
+    [
+     2877,
+     815
+    ],
+    [
+     2878,
+     815
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "grumpycat103236",
+    "uuid": "bbda3988-0851-4b31-ab0d-679565346c6b"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

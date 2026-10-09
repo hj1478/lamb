@@ -1,0 +1,284 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "GOLDEN_TOWN",
+  "uuid": "0a551dfa-d935-448b-9660-7775754352b8",
+  "board": "/town set board [msg]",
+  "founder": "__lazii",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "__lazii",
+   "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+  },
+  "nation": {
+   "name": "Iberia",
+   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+  },
+  "timestamps": {
+   "registered": 1784422807600,
+   "joinedNationAt": 1791391745121,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 35,
+   "maxTownBlocks": 160,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 5,
+   "numTrusted": 0,
+   "numOutlaws": 2,
+   "balance": 23.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 21036.584664478065,
+    "y": 63.0,
+    "z": -7543.646026680964,
+    "pitch": 45.750004,
+    "yaw": -23.849854
+   },
+   "homeBlock": [
+    1314,
+    -472
+   ],
+   "townBlocks": [
+    [
+     1317,
+     -470
+    ],
+    [
+     1317,
+     -471
+    ],
+    [
+     1317,
+     -472
+    ],
+    [
+     1321,
+     -469
+    ],
+    [
+     1321,
+     -468
+    ],
+    [
+     1318,
+     -472
+    ],
+    [
+     1316,
+     -468
+    ],
+    [
+     1316,
+     -469
+    ],
+    [
+     1318,
+     -469
+    ],
+    [
+     1320,
+     -470
+    ],
+    [
+     1316,
+     -470
+    ],
+    [
+     1318,
+     -468
+    ],
+    [
+     1320,
+     -469
+    ],
+    [
+     1316,
+     -471
+    ],
+    [
+     1318,
+     -471
+    ],
+    [
+     1320,
+     -468
+    ],
+    [
+     1316,
+     -472
+    ],
+    [
+     1318,
+     -470
+    ],
+    [
+     1315,
+     -468
+    ],
+    [
+     1315,
+     -469
+    ],
+    [
+     1319,
+     -470
+    ],
+    [
+     1315,
+     -470
+    ],
+    [
+     1319,
+     -469
+    ],
+    [
+     1315,
+     -471
+    ],
+    [
+     1319,
+     -468
+    ],
+    [
+     1315,
+     -472
+    ],
+    [
+     1319,
+     -472
+    ],
+    [
+     1319,
+     -471
+    ],
+    [
+     1314,
+     -472
+    ],
+    [
+     1314,
+     -471
+    ],
+    [
+     1317,
+     -468
+    ],
+    [
+     1314,
+     -470
+    ],
+    [
+     1317,
+     -469
+    ],
+    [
+     1314,
+     -469
+    ],
+    [
+     1314,
+     -468
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "__lazii",
+    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   },
+   {
+    "name": "DRpellgg",
+    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   },
+   {
+    "name": "itam324",
+    "uuid": "b9eb8065-e764-4565-b201-128b712c9e92"
+   },
+   {
+    "name": "tanimod",
+    "uuid": "7bc2f62f-5b6f-43cf-9a8c-f47c6f8c2522"
+   },
+   {
+    "name": "01elbruiro01",
+    "uuid": "ec154e8d-a073-44e5-b25e-5010cd2f6d65"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [
+   {
+    "name": "TheMagicTom",
+    "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+   },
+   {
+    "name": "AprilPasxas",
+    "uuid": "be1856a9-0dde-4cc0-a69b-7c305441d438"
+   }
+  ],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

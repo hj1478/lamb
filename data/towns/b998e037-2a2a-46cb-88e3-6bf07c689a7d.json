@@ -1,0 +1,240 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Lagoon",
+  "uuid": "b998e037-2a2a-46cb-88e3-6bf07c689a7d",
+  "board": "/town set board [msg]",
+  "founder": "Turt13Mast3r",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Turt13Mast3r",
+   "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1788315166934,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 4,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 1,
+   "balance": 23.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 19000.50038227676,
+    "y": 63.0,
+    "z": -9598.925526788666,
+    "pitch": 15.433973,
+    "yaw": -157.86209
+   },
+   "homeBlock": [
+    1187,
+    -600
+   ],
+   "townBlocks": [
+    [
+     1187,
+     -600
+    ],
+    [
+     1188,
+     -600
+    ],
+    [
+     1187,
+     -601
+    ],
+    [
+     1188,
+     -601
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Turt13Mast3r",
+    "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+   },
+   {
+    "name": "GriffinGame9881",
+    "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+   },
+   {
+    "name": "LumberJack9585",
+    "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [
+   {
+    "name": "FeliksTV",
+    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
+   }
+  ],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Turt13Mast3r",
+     "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+    },
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Turt13Mast3r",
+     "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+    },
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Police": [
+    {
+     "name": "Turt13Mast3r",
+     "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+    },
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "Turt13Mast3r",
+     "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+    },
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Turt13Mast3r",
+     "uuid": "3092923a-a050-45b5-9b25-33133de050d4"
+    },
+    {
+     "name": "GriffinGame9881",
+     "uuid": "739957ec-945f-4c55-8a08-6257396c7f73"
+    },
+    {
+     "name": "LumberJack9585",
+     "uuid": "24539dc7-06fc-4e04-a3c8-69ee6327482c"
+    }
+   ]
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "PANATHINAIKOS",
+  "uuid": "b87625b9-bfb2-46cd-b269-c106f6ff2a61",
+  "board": "PANATHA THIRA 13",
+  "founder": "Ummet_Ozcan",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Ummet_Ozcan",
+   "uuid": "4daee996-4e36-4c1d-90e1-11bb09912f19"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1787785349727,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 17206.55220904415,
+    "y": 63.0,
+    "z": -9733.761957721665,
+    "pitch": 9.507109,
+    "yaw": 86.50037
+   },
+   "homeBlock": [
+    1075,
+    -609
+   ],
+   "townBlocks": [
+    [
+     1075,
+     -608
+    ],
+    [
+     1075,
+     -609
+    ],
+    [
+     1074,
+     -609
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Ummet_Ozcan",
+    "uuid": "4daee996-4e36-4c1d-90e1-11bb09912f19"
+   },
+   {
+    "name": "Gatios",
+    "uuid": "9363e978-0202-416e-9500-090aba3be4ef"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "Gatios",
+     "uuid": "9363e978-0202-416e-9500-090aba3be4ef"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

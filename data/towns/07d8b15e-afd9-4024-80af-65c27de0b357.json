@@ -1,0 +1,137 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "Meanies",
+  "uuid": "07d8b15e-afd9-4024-80af-65c27de0b357",
+  "board": "/town set board [msg]",
+  "founder": "MeanieIsHere",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "MeanieIsHere",
+   "uuid": "df482411-42a3-4bf1-a420-3acdcb1a1f9f"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1783491067462,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 30252.66033105841,
+    "y": 7.0,
+    "z": 8600.4545397053,
+    "pitch": 37.26681,
+    "yaw": -85.76401
+   },
+   "homeBlock": [
+    1890,
+    537
+   ],
+   "townBlocks": [
+    [
+     1890,
+     537
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "MeanieIsHere",
+    "uuid": "df482411-42a3-4bf1-a420-3acdcb1a1f9f"
+   },
+   {
+    "name": "Twifte",
+    "uuid": "b0b40a80-b8f1-412e-b9f1-7662d3aa28b8"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "Twifte",
+     "uuid": "b0b40a80-b8f1-412e-b9f1-7662d3aa28b8"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [
+    {
+     "name": "Twifte",
+     "uuid": "b0b40a80-b8f1-412e-b9f1-7662d3aa28b8"
+    }
+   ],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

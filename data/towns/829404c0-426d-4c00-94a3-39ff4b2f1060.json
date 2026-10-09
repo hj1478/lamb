@@ -1,0 +1,137 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Albania",
+  "uuid": "829404c0-426d-4c00-94a3-39ff4b2f1060",
+  "board": "/town set board [msg]",
+  "founder": "Casualties",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Casualties",
+   "uuid": "2d702475-d561-4f17-b040-479bc104a666"
+  },
+  "nation": {
+   "name": "Amazon",
+   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+  },
+  "timestamps": {
+   "registered": 1789754728887,
+   "joinedNationAt": 1789764077148,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 124,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -24433.795574671247,
+    "y": 63.0,
+    "z": 5563.883932031834,
+    "pitch": 21.47649,
+    "yaw": 86.941895
+   },
+   "homeBlock": [
+    -1528,
+    347
+   ],
+   "townBlocks": [
+    [
+     -1528,
+     347
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Casualties",
+    "uuid": "2d702475-d561-4f17-b040-479bc104a666"
+   },
+   {
+    "name": "BaseBuyer",
+    "uuid": "d2477dd0-33d3-443f-83ee-576772d315cf"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "BaseBuyer",
+     "uuid": "d2477dd0-33d3-443f-83ee-576772d315cf"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [
+    {
+     "name": "BaseBuyer",
+     "uuid": "d2477dd0-33d3-443f-83ee-576772d315cf"
+    }
+   ],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "BureTown",
+  "uuid": "189a673a-a7a8-4436-a66c-1c1bab1e3518",
+  "board": "/town set board [msg]",
+  "founder": "Lejemento",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Lejemento",
+   "uuid": "5a73be46-e3cc-4785-84f3-42b526ea499d"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1782303319059,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 14,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 32.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -21719.21935238516,
+    "y": 65.0,
+    "z": 28616.682015774266,
+    "pitch": 23.099903,
+    "yaw": 24.773392
+   },
+   "homeBlock": [
+    -1358,
+    1788
+   ],
+   "townBlocks": [
+    [
+     -1357,
+     1788
+    ],
+    [
+     -1357,
+     1789
+    ],
+    [
+     -1357,
+     1790
+    ],
+    [
+     -1356,
+     1790
+    ],
+    [
+     -1356,
+     1789
+    ],
+    [
+     -1356,
+     1788
+    ],
+    [
+     -1358,
+     1788
+    ],
+    [
+     -1359,
+     1788
+    ],
+    [
+     -1358,
+     1790
+    ],
+    [
+     -1359,
+     1789
+    ],
+    [
+     -1358,
+     1789
+    ],
+    [
+     -1359,
+     1790
+    ],
+    [
+     -1359,
+     1791
+    ],
+    [
+     -1358,
+     1791
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Lejemento",
+    "uuid": "5a73be46-e3cc-4785-84f3-42b526ea499d"
+   },
+   {
+    "name": "kyaco",
+    "uuid": "44a93e59-b83f-4957-a73d-f0adcfe0b39a"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "kyaco",
+     "uuid": "44a93e59-b83f-4957-a73d-f0adcfe0b39a"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

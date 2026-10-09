@@ -1,9 +1,29 @@
 # EarthMC town database
 
-`python3 earthmc_towns.py` pulls every town from the EarthMC API (`https://api.earthmc.net/v4/towns`),
-100 towns per request, 1 request/sec, with backoff on 429/5xx.
+`earthmc_towns.py` keeps a local copy of every town from the EarthMC API (`https://api.earthmc.net/v4/towns`).
 
-- `data/towns_raw.json` – full unmodified API response for every town (spawn, home block, all town blocks)
-- `data/outsider_spawn_towns.csv` – towns with `status.canOutsidersSpawn = true`, with spawn coordinates
-- `data/towns.db` – SQLite (`towns`, `town_blocks`); not committed (75 MB). Rebuild offline with
-  `python3 earthmc_towns.py --from-raw`.
+## Daily rotation
+
+`.github/workflows/update-towns.yml` runs daily (06:17 UTC, or manually from the Actions tab).
+Each run refreshes `ceil(total_towns / DAYS_PER_CYCLE)` towns, walking towns in UUID order from
+where the last run stopped (`data/state.json`), so every town is refreshed exactly once per cycle
+with no overlap. New towns are fetched immediately; deleted towns are removed.
+
+Default cycle is 7 days (~830 towns, ~10 requests per run). Note the API limit is per *minute*,
+so a full scan (`DAYS_PER_CYCLE=1`, ~59 requests) also fits easily; a longer cycle only means
+staler data, not saved quota.
+
+## Files
+
+- `data/towns/<uuid>.json` – `{"fetched_at", "data"}`; `data` is the unmodified API response
+  (spawn, home block, every town block)
+- `data/outsider_spawn_towns.csv` – towns with `status.canOutsidersSpawn = true`, with spawn
+  coordinates and when each was last fetched
+- `data/state.json` – rotation cursor and cycle counter
+- `data/towns.db` – SQLite (`towns`, `town_blocks`), gitignored; rebuild with
+  `python3 earthmc_towns.py --export-only`
+
+## Local use
+
+    python3 earthmc_towns.py                      # one rotation step
+    python3 earthmc_towns.py --days-per-cycle 1   # full refresh

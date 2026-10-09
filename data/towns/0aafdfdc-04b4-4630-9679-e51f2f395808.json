@@ -1,0 +1,868 @@
+{
+ "fetched_at": "2026-10-09T10:42:55Z",
+ "data": {
+  "name": "Black_Belt",
+  "uuid": "0aafdfdc-04b4-4630-9679-e51f2f395808",
+  "board": "/town set board [msg]",
+  "founder": "CaptainOFCopper",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "CaptainOFCopper",
+   "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+  },
+  "nation": {
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+  },
+  "timestamps": {
+   "registered": 1788980398977,
+   "joinedNationAt": 1789957340943,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 150,
+   "maxTownBlocks": 280,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 15,
+   "numTrusted": 11,
+   "numOutlaws": 4,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 10441.03145619851,
+    "y": 83.0,
+    "z": 11397.300000011921,
+    "pitch": 19.800007,
+    "yaw": 9.107355
+   },
+   "homeBlock": [
+    652,
+    712
+   ],
+   "townBlocks": [
+    [
+     641,
+     712
+    ],
+    [
+     641,
+     711
+    ],
+    [
+     646,
+     714
+    ],
+    [
+     649,
+     716
+    ],
+    [
+     653,
+     714
+    ],
+    [
+     646,
+     715
+    ],
+    [
+     649,
+     715
+    ],
+    [
+     653,
+     713
+    ],
+    [
+     649,
+     714
+    ],
+    [
+     653,
+     712
+    ],
+    [
+     649,
+     713
+    ],
+    [
+     653,
+     711
+    ],
+    [
+     649,
+     712
+    ],
+    [
+     649,
+     711
+    ],
+    [
+     649,
+     710
+    ],
+    [
+     653,
+     716
+    ],
+    [
+     649,
+     709
+    ],
+    [
+     653,
+     715
+    ],
+    [
+     645,
+     714
+    ],
+    [
+     649,
+     708
+    ],
+    [
+     645,
+     713
+    ],
+    [
+     649,
+     707
+    ],
+    [
+     645,
+     712
+    ],
+    [
+     649,
+     706
+    ],
+    [
+     645,
+     711
+    ],
+    [
+     645,
+     710
+    ],
+    [
+     645,
+     709
+    ],
+    [
+     645,
+     708
+    ],
+    [
+     645,
+     707
+    ],
+    [
+     645,
+     717
+    ],
+    [
+     645,
+     716
+    ],
+    [
+     645,
+     715
+    ],
+    [
+     646,
+     705
+    ],
+    [
+     646,
+     706
+    ],
+    [
+     646,
+     707
+    ],
+    [
+     646,
+     708
+    ],
+    [
+     646,
+     709
+    ],
+    [
+     646,
+     710
+    ],
+    [
+     646,
+     711
+    ],
+    [
+     646,
+     712
+    ],
+    [
+     646,
+     713
+    ],
+    [
+     652,
+     712
+    ],
+    [
+     652,
+     711
+    ],
+    [
+     652,
+     710
+    ],
+    [
+     644,
+     717
+    ],
+    [
+     644,
+     716
+    ],
+    [
+     644,
+     715
+    ],
+    [
+     644,
+     714
+    ],
+    [
+     644,
+     713
+    ],
+    [
+     644,
+     712
+    ],
+    [
+     652,
+     716
+    ],
+    [
+     644,
+     711
+    ],
+    [
+     652,
+     715
+    ],
+    [
+     644,
+     710
+    ],
+    [
+     652,
+     714
+    ],
+    [
+     644,
+     709
+    ],
+    [
+     652,
+     713
+    ],
+    [
+     644,
+     708
+    ],
+    [
+     647,
+     706
+    ],
+    [
+     642,
+     711
+    ],
+    [
+     644,
+     707
+    ],
+    [
+     647,
+     707
+    ],
+    [
+     647,
+     708
+    ],
+    [
+     647,
+     709
+    ],
+    [
+     642,
+     714
+    ],
+    [
+     647,
+     710
+    ],
+    [
+     642,
+     715
+    ],
+    [
+     647,
+     711
+    ],
+    [
+     642,
+     712
+    ],
+    [
+     647,
+     712
+    ],
+    [
+     642,
+     713
+    ],
+    [
+     647,
+     713
+    ],
+    [
+     642,
+     718
+    ],
+    [
+     642,
+     716
+    ],
+    [
+     642,
+     717
+    ],
+    [
+     647,
+     704
+    ],
+    [
+     647,
+     705
+    ],
+    [
+     647,
+     714
+    ],
+    [
+     647,
+     715
+    ],
+    [
+     647,
+     716
+    ],
+    [
+     650,
+     711
+    ],
+    [
+     654,
+     713
+    ],
+    [
+     650,
+     710
+    ],
+    [
+     654,
+     714
+    ],
+    [
+     650,
+     709
+    ],
+    [
+     654,
+     715
+    ],
+    [
+     654,
+     716
+    ],
+    [
+     654,
+     711
+    ],
+    [
+     654,
+     712
+    ],
+    [
+     650,
+     715
+    ],
+    [
+     650,
+     714
+    ],
+    [
+     650,
+     713
+    ],
+    [
+     650,
+     712
+    ],
+    [
+     650,
+     716
+    ],
+    [
+     640,
+     714
+    ],
+    [
+     640,
+     713
+    ],
+    [
+     640,
+     712
+    ],
+    [
+     640,
+     711
+    ],
+    [
+     648,
+     716
+    ],
+    [
+     648,
+     715
+    ],
+    [
+     640,
+     715
+    ],
+    [
+     648,
+     712
+    ],
+    [
+     648,
+     711
+    ],
+    [
+     648,
+     714
+    ],
+    [
+     648,
+     713
+    ],
+    [
+     651,
+     716
+    ],
+    [
+     651,
+     712
+    ],
+    [
+     651,
+     713
+    ],
+    [
+     651,
+     714
+    ],
+    [
+     651,
+     715
+    ],
+    [
+     648,
+     708
+    ],
+    [
+     648,
+     707
+    ],
+    [
+     648,
+     710
+    ],
+    [
+     651,
+     710
+    ],
+    [
+     648,
+     709
+    ],
+    [
+     651,
+     711
+    ],
+    [
+     648,
+     704
+    ],
+    [
+     648,
+     706
+    ],
+    [
+     648,
+     705
+    ],
+    [
+     656,
+     712
+    ],
+    [
+     656,
+     713
+    ],
+    [
+     656,
+     716
+    ],
+    [
+     656,
+     714
+    ],
+    [
+     656,
+     715
+    ],
+    [
+     655,
+     713
+    ],
+    [
+     655,
+     712
+    ],
+    [
+     655,
+     711
+    ],
+    [
+     655,
+     716
+    ],
+    [
+     655,
+     715
+    ],
+    [
+     655,
+     714
+    ],
+    [
+     643,
+     716
+    ],
+    [
+     643,
+     717
+    ],
+    [
+     643,
+     718
+    ],
+    [
+     643,
+     709
+    ],
+    [
+     658,
+     715
+    ],
+    [
+     643,
+     710
+    ],
+    [
+     643,
+     711
+    ],
+    [
+     643,
+     712
+    ],
+    [
+     643,
+     713
+    ],
+    [
+     643,
+     714
+    ],
+    [
+     643,
+     715
+    ],
+    [
+     641,
+     717
+    ],
+    [
+     641,
+     713
+    ],
+    [
+     641,
+     714
+    ],
+    [
+     641,
+     715
+    ],
+    [
+     641,
+     716
+    ],
+    [
+     657,
+     713
+    ],
+    [
+     657,
+     714
+    ],
+    [
+     657,
+     715
+    ],
+    [
+     657,
+     716
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "CaptainOFCopper",
+    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+   },
+   {
+    "name": "LeoTheLionSpear",
+    "uuid": "b0a66c30-de22-40db-8472-75d253758cde"
+   },
+   {
+    "name": "Luffyland993",
+    "uuid": "62ba992c-a896-414d-ab0f-4f48c3123f68"
+   },
+   {
+    "name": "BrazilianDu4e",
+    "uuid": "21d2659f-baa0-40a0-b2eb-6887aca19883"
+   },
+   {
+    "name": "sun_sun_day",
+    "uuid": "bf36280a-3196-45f9-83d1-2fe6e55065c9"
+   },
+   {
+    "name": "ptweeze",
+    "uuid": "800a60fb-b440-48f0-b2e1-9c0988904ff0"
+   },
+   {
+    "name": "RedstoneClok",
+    "uuid": "2b984f2c-086f-407b-9bb9-b3fcae85eeff"
+   },
+   {
+    "name": "gIgo7",
+    "uuid": "04e0d22b-319c-4993-9478-b9ec27370ac2"
+   },
+   {
+    "name": "FishMaGish",
+    "uuid": "15571a2e-1dc8-4dbb-b2a7-adfba3d158b5"
+   },
+   {
+    "name": "Gildess",
+    "uuid": "55814da4-68ef-4975-b6b3-c4f4b71c1e4d"
+   },
+   {
+    "name": "NatuTheGratu",
+    "uuid": "4341f9c2-cfdc-46ae-ad2e-3550ec6f4cbb"
+   },
+   {
+    "name": "FinnDawg16",
+    "uuid": "fe2c3db7-7980-4365-bb33-0bd5ba05bd5f"
+   },
+   {
+    "name": "Netroja",
+    "uuid": "cf437855-bf69-4ece-b71b-d38c832d9d01"
+   },
+   {
+    "name": "FindingCOD93",
+    "uuid": "8ee6f66d-5ee8-43fd-acbb-8ab8763b9110"
+   },
+   {
+    "name": "muddy_blobfish",
+    "uuid": "30e752a8-b27c-4d35-ba1f-afd73fafd873"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "LeoTheLionSpear",
+    "uuid": "b0a66c30-de22-40db-8472-75d253758cde"
+   },
+   {
+    "name": "twomoo1119",
+    "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
+   },
+   {
+    "name": "CaptainOFCopper",
+    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+   },
+   {
+    "name": "Kokomo309",
+    "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
+   },
+   {
+    "name": "MeansWarrior13",
+    "uuid": "e7aa4446-b82b-4819-a7bd-963344ebc66d"
+   },
+   {
+    "name": "jupebean",
+    "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "DIMBOUROU",
+    "uuid": "46504ea9-5487-4a7d-966e-27e5f5469594"
+   },
+   {
+    "name": "_tuttopassa_",
+    "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
+   },
+   {
+    "name": "Lemon_Pot",
+    "uuid": "397644d6-9189-420b-9060-73c3d2b71f9c"
+   },
+   {
+    "name": "Netroja",
+    "uuid": "cf437855-bf69-4ece-b71b-d38c832d9d01"
+   },
+   {
+    "name": "NatuTheGratu",
+    "uuid": "4341f9c2-cfdc-46ae-ad2e-3550ec6f4cbb"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "BSS_is_the_best",
+    "uuid": "448dc313-59dc-4e54-a095-1cbb40ee5a11"
+   },
+   {
+    "name": "akabur",
+    "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
+   },
+   {
+    "name": "Historian_Man",
+    "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
+   },
+   {
+    "name": "Khelium",
+    "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Enraging Quarter",
+    "uuid": "c5f0892f-8b5c-4d21-b85e-d13eb9cb4006"
+   }
+  ],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "CaptainOFCopper",
+     "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+    },
+    {
+     "name": "LeoTheLionSpear",
+     "uuid": "b0a66c30-de22-40db-8472-75d253758cde"
+    },
+    {
+     "name": "NatuTheGratu",
+     "uuid": "4341f9c2-cfdc-46ae-ad2e-3550ec6f4cbb"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [
+   {
+    "name": "Storage",
+    "uuid": "7307e855-3541-492f-b730-5cf5e3ad98aa",
+    "createdAt": 1791503074839,
+    "createdBy": "CaptainOFCopper",
+    "access": "RESIDENT",
+    "location": {
+     "x": 10329,
+     "y": 79,
+     "z": 11384
+    }
+   }
+  ],
+  "bankhistory": []
+ }
+}

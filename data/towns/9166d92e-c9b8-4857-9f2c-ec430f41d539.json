@@ -1,0 +1,223 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "GrassValley",
+  "uuid": "9166d92e-c9b8-4857-9f2c-ec430f41d539",
+  "board": "/town set board [msg]",
+  "founder": "gemmch",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "orangejuicekitty",
+   "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1789892723210,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 5,
+   "maxTownBlocks": 48,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 4,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 78.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -43547.23750001192,
+    "y": 51.0,
+    "z": -6927.300000011921,
+    "pitch": 1.2035605,
+    "yaw": 177.9993
+   },
+   "homeBlock": [
+    -2722,
+    -433
+   ],
+   "townBlocks": [
+    [
+     -2722,
+     -433
+    ],
+    [
+     -2724,
+     -432
+    ],
+    [
+     -2722,
+     -434
+    ],
+    [
+     -2723,
+     -432
+    ],
+    [
+     -2722,
+     -432
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "gemmch",
+    "uuid": "043ddc27-6bde-49f0-bd6d-e0d82bbfaf1d"
+   },
+   {
+    "name": "orangejuicekitty",
+    "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+   },
+   {
+    "name": "fidbuttons",
+    "uuid": "635629b8-b00d-4b18-9bb1-b80f6175f523"
+   },
+   {
+    "name": "gillyboychonker",
+    "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Police": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "orangejuicekitty",
+     "uuid": "8175e2f7-7ce2-43c8-b660-70bde94bd183"
+    },
+    {
+     "name": "gillyboychonker",
+     "uuid": "e3fe7860-b503-4611-9209-1ea4dcb09b0e"
+    }
+   ]
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

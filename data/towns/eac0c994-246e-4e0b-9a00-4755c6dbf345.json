@@ -1,0 +1,131 @@
+{
+ "fetched_at": "2026-10-09T10:32:41Z",
+ "data": {
+  "name": "Central_City",
+  "uuid": "eac0c994-246e-4e0b-9a00-4755c6dbf345",
+  "board": "/town set board [msg]",
+  "founder": "Just1Mikey",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Just1Mikey",
+   "uuid": "0e4688dc-fd9f-410c-bcec-e40b1b3a42dd"
+  },
+  "nation": {
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+  },
+  "timestamps": {
+   "registered": 1789951256766,
+   "joinedNationAt": 1789951275946,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -34754.041257518125,
+    "y": 73.0,
+    "z": -8999.366754360184,
+    "pitch": 18.300018,
+    "yaw": -163.01337
+   },
+   "homeBlock": [
+    -2173,
+    -563
+   ],
+   "townBlocks": [
+    [
+     -2173,
+     -564
+    ],
+    [
+     -2173,
+     -562
+    ],
+    [
+     -2173,
+     -563
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Just1Mikey",
+    "uuid": "0e4688dc-fd9f-410c-bcec-e40b1b3a42dd"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}
