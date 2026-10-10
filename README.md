@@ -33,7 +33,8 @@ staler data, not saved quota.
 `map/index.html` is an interactive map: every town's claims coloured by nation, towns with outsider
 spawn marked, search and filters, and a `/t spawn` command for each town. `make_map.py` builds
 `map/towns.json` from the stored town files (the daily workflow runs it too). `map/terrain.jpg` is a
-one-time stitch of the 32 most zoomed-out tiles from map.earthmc.net. To view it locally:
+one-time stitch of the 32 most zoomed-out tiles from map.earthmc.net, used as a fallback; when zoomed
+in, the page streams live terrain tiles (down to 1 block/px) from map.earthmc.net. To view it locally:
 
     cd map && python3 -m http.server   # then open http://localhost:8000
 

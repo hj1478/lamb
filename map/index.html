@@ -125,6 +125,7 @@ dd.mono { font-family: var(--f-mono); font-size: 12.5px; }
     <span><i class="lg-b"></i>Outsider spawn</span>
     <span><i class="lg-d"></i>Other town</span>
     <span><i class="lg-c"></i>Claims, by nation</span>
+    <span>Terrain: <a href="https://map.earthmc.net/" target="_blank" rel="noopener" style="color:inherit">EarthMC map</a></span>
   </div>
 </aside>
 
@@ -212,6 +213,59 @@ dd.mono { font-family: var(--f-mono); font-size: 12.5px; }
     return p;
   }
 
+  // ---- live terrain tiles from the EarthMC squaremap (zoom 0 = 32 blocks/px … 5 = 1 block/px).
+  // Where the host blocks them (e.g. a sandboxed preview) the bundled terrain.jpg stays visible.
+  const TILE_URL = 'https://map.earthmc.net/tiles/minecraft_overworld/', TMAX = 5;
+  const tiles = new Map();                // "z/x_y" -> {img, ok, used}
+  let inflight = 0, tilesBlocked = false, tileFails = 0, tick = 0;
+  const queue = [];
+  function pumpTiles() {
+    while (inflight < 6 && queue.length) {
+      const t = queue.pop();
+      if (t.used < tick - 1) { tiles.delete(t.k); continue; }   // scrolled away before it loaded
+      inflight++;
+      t.img.onload = () => { inflight--; t.ok = true; tileFails = 0; draw(); pumpTiles(); };
+      t.img.onerror = () => { inflight--; t.ok = false; t.failed = true; if (++tileFails > 12) tilesBlocked = true; pumpTiles(); };
+      t.img.src = TILE_URL + t.k + '.png';
+    }
+  }
+  function drawTiles() {
+    if (tilesBlocked) return;
+    const z = Math.max(1, Math.min(TMAX, Math.ceil(TMAX + Math.log2(s * dpr))));
+    const [x0, z0] = toWorld(0, 0), [x1, z1] = toWorld(W, H);
+    tick++;
+    const want = [];
+    // draw coarser loaded levels first so there is never a blank gap while finer tiles arrive
+    for (let lv = Math.max(1, z - 2); lv <= z; lv++) {
+      const span = 512 * 2 ** (TMAX - lv), pad = span * 0.002;
+      const tx0 = Math.floor(Math.max(x0, WX) / span), tx1 = Math.floor((Math.min(x1, WX + WW) - 1) / span);
+      const tz0 = Math.floor(Math.max(z0, WZ) / span), tz1 = Math.floor((Math.min(z1, WZ + WH) - 1) / span);
+      if ((tx1 - tx0 + 1) * (tz1 - tz0 + 1) > 400) continue;
+      ctx.imageSmoothingEnabled = s * dpr < 2;
+      for (let tx = tx0; tx <= tx1; tx++) for (let tz = tz0; tz <= tz1; tz++) {
+        const k = `${lv}/${tx}_${tz}`; let t = tiles.get(k);
+        if (!t && lv === z) {
+          t = { k, img: new Image(), ok: false, used: tick }; t.img.crossOrigin = 'anonymous';
+          tiles.set(k, t); want.push(t);
+        }
+        if (!t) continue;
+        t.used = tick;
+        if (t.ok) ctx.drawImage(t.img, tx * span - pad, tz * span - pad, span + 2 * pad, span + 2 * pad);
+      }
+    }
+    if (want.length) {
+      // nearest-to-centre loads first (queue pops from the end)
+      const cx = (x0 + x1) / 2, cz = (z0 + z1) / 2, span = 512 * 2 ** (TMAX - z);
+      want.sort((a, b) => dist(b, cx, cz, span) - dist(a, cx, cz, span));
+      queue.push(...want); pumpTiles();
+    }
+    if (tiles.size > 500) for (const [k, t] of tiles) if (t.used < tick - 30 && (t.ok || t.failed)) tiles.delete(k);
+  }
+  function dist(t, cx, cz, span) {
+    const [x, y] = t.k.split('/')[1].split('_').map(Number);
+    return Math.hypot((x + 0.5) * span - cx, (y + 0.5) * span - cz);
+  }
+
   let raf = 0;
   function draw() { if (!raf) raf = requestAnimationFrame(render); }
   function render() {
@@ -219,14 +273,16 @@ dd.mono { font-family: var(--f-mono); font-size: 12.5px; }
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.fillStyle = '#0b1119'; ctx.fillRect(0, 0, W, H);
     ctx.setTransform(s * dpr, 0, 0, s * dpr, ox * dpr, oy * dpr);
+    const close = s * dpr > 0.25;          // zoomed in far enough to read the terrain itself
     if (img) {
       ctx.imageSmoothingEnabled = true; ctx.imageSmoothingQuality = 'high';
       ctx.drawImage(img, WX, WZ, WW, WH);
-      ctx.fillStyle = 'rgba(8,13,20,0.42)'; ctx.fillRect(WX, WZ, WW, WH);
     }
+    drawTiles();
+    ctx.fillStyle = `rgba(8,13,20,${close ? 0.18 : 0.38})`; ctx.fillRect(WX, WZ, WW, WH);
     if (!data) return;
     for (const g of paths) {
-      ctx.fillStyle = g.color; ctx.globalAlpha = g.dim ? 1 : 0.72; ctx.fill(g.path);
+      ctx.fillStyle = g.color; ctx.globalAlpha = g.dim ? (close ? 0.6 : 1) : (s * dpr > 2 ? 0.22 : close ? 0.42 : 0.72); ctx.fill(g.path);
     }
     ctx.globalAlpha = 1;
     if (selected >= 0) {
