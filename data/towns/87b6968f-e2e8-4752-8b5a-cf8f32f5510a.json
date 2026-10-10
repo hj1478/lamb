@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "GermanLouisiana",
   "uuid": "87b6968f-e2e8-4752-8b5a-cf8f32f5510a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Phill_44",
-   "uuid": "61063202-d4ff-4fad-9ac4-e9ccbd1b3e3b"
+   "name": "EpicMacer",
+   "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
   },
   "nation": {
    "name": "Florida",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 158,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 9,
    "numTrusted": 8,
    "numOutlaws": 3,
-   "balance": 0.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -728,6 +728,10 @@
   },
   "residents": [
    {
+    "name": "EpicMacer",
+    "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+   },
+   {
     "name": "Phill_44",
     "uuid": "61063202-d4ff-4fad-9ac4-e9ccbd1b3e3b"
    },
@@ -837,6 +841,10 @@
   "ranks": {
    "Councillor": [
     {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    },
+    {
      "name": "Phill_44",
      "uuid": "61063202-d4ff-4fad-9ac4-e9ccbd1b3e3b"
     },
@@ -849,8 +857,21 @@
      "uuid": "bc71836a-7927-4d2e-a521-38365e386f1e"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    },
+    {
+     "name": "Phill_44",
+     "uuid": "61063202-d4ff-4fad-9ac4-e9ccbd1b3e3b"
+    }
+   ],
    "Recruiter": [
+    {
+     "name": "Phill_44",
+     "uuid": "61063202-d4ff-4fad-9ac4-e9ccbd1b3e3b"
+    },
     {
      "name": "67jet",
      "uuid": "55aef880-c5cb-4baa-8f5a-c43bec31611d"
@@ -860,11 +881,36 @@
      "uuid": "bc71836a-7927-4d2e-a521-38365e386f1e"
     }
    ],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Police": [
+    {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "EpicMacer",
+     "uuid": "482816c9-df4c-4b0d-8ea5-cfc87b1927d1"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

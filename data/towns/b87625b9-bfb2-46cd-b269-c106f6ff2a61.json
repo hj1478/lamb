@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "PANATHINAIKOS",
   "uuid": "b87625b9-bfb2-46cd-b269-c106f6ff2a61",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 0,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -110,10 +110,6 @@
    {
     "name": "Ummet_Ozcan",
     "uuid": "4daee996-4e36-4c1d-90e1-11bb09912f19"
-   },
-   {
-    "name": "Gatios",
-    "uuid": "9363e978-0202-416e-9500-090aba3be4ef"
    }
   ],
   "trusted": [],
@@ -121,12 +117,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Gatios",
-     "uuid": "9363e978-0202-416e-9500-090aba3be4ef"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Aegis",
   "uuid": "6cbb709d-988d-4571-91b4-8fa11f20bb97",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 203,
+   "numTownBlocks": 196,
    "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 8,
    "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 180.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,14 +92,6 @@
    ],
    "townBlocks": [
     [
-     589,
-     -446
-    ],
-    [
-     589,
-     -447
-    ],
-    [
      597,
      -453
     ],
@@ -592,10 +584,6 @@
      -465
     ],
     [
-     590,
-     -448
-    ],
-    [
      603,
      -466
     ],
@@ -605,15 +593,11 @@
     ],
     [
      590,
+     -448
+    ],
+    [
+     590,
      -449
-    ],
-    [
-     590,
-     -446
-    ],
-    [
-     590,
-     -447
     ],
     [
      603,
@@ -874,18 +858,6 @@
     [
      598,
      -459
-    ],
-    [
-     591,
-     -448
-    ],
-    [
-     591,
-     -447
-    ],
-    [
-     591,
-     -446
     ],
     [
      591,
@@ -912,6 +884,10 @@
     "uuid": "705dfdc1-2488-4304-a4ea-7c6a01480785"
    },
    {
+    "name": "lVARx",
+    "uuid": "37e14db9-d731-42bd-a047-5e1ea68f58b2"
+   },
+   {
     "name": "SeTHFin",
     "uuid": "427e6275-3886-418f-bb8b-53a95ae32092"
    },
@@ -924,20 +900,16 @@
     "uuid": "8b21d6c5-0906-428d-aada-a5cbda5b8e2e"
    },
    {
-    "name": "rz9u",
-    "uuid": "ce8c3d23-191c-4ed4-999e-bb02fa64e87f"
-   },
-   {
-    "name": "efeyin",
-    "uuid": "af0b41d6-2b2d-48dd-a4fa-b849123da99f"
-   },
-   {
     "name": "GameMafia1475",
     "uuid": "0f206aa6-75ac-4942-b27f-5ac710c136c7"
    },
    {
     "name": "Yxuuyu_",
     "uuid": "940bff2d-3435-406d-b46c-07fac706c152"
+   },
+   {
+    "name": "communist5329",
+    "uuid": "87eea2db-8074-4997-9d27-619cf4227edf"
    }
   ],
   "trusted": [
@@ -968,22 +940,6 @@
   ],
   "outlaws": [],
   "quarters": [
-   {
-    "name": "Gloomy Suite",
-    "uuid": "9794338b-bc87-4ae8-b95d-534b009e8534"
-   },
-   {
-    "name": "Inconvenient Residence",
-    "uuid": "a05a9039-21fc-49a5-9da9-1e7a030a01f7"
-   },
-   {
-    "name": "Lovely Apartment",
-    "uuid": "7e6539aa-5e0f-4fd3-9454-856be22968b9"
-   },
-   {
-    "name": "Cheerful Apartment",
-    "uuid": "114b37aa-b1c8-45dd-a4e8-b593ae897763"
-   },
    {
     "name": "Perturbing Apartment",
     "uuid": "4c7665ba-c507-4aad-bb2f-14c965c396d1"
@@ -1077,18 +1033,6 @@
     "uuid": "e89d4e89-29f1-4ac7-af8f-abbda6351862"
    },
    {
-    "name": "Inconvenient Dwelling",
-    "uuid": "9e5b452d-4f8e-4aec-b74f-9dd3c217ea6d"
-   },
-   {
-    "name": "Welcoming Flat",
-    "uuid": "d2342392-8ba3-41bf-a99d-e89e80f4fa70"
-   },
-   {
-    "name": "Luxurious Suite",
-    "uuid": "600a7965-649e-4acc-a0c0-9e6b75580097"
-   },
-   {
     "name": "Dingy Dwelling",
     "uuid": "a3ab32b9-ecdc-4bee-989b-463ec77f90dc"
    },
@@ -1135,6 +1079,34 @@
    {
     "name": "Dingy Residence",
     "uuid": "015be844-7ff2-4dea-94e1-831d5bc20a23"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "9e5b452d-4f8e-4aec-b74f-9dd3c217ea6d"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "d2342392-8ba3-41bf-a99d-e89e80f4fa70"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "600a7965-649e-4acc-a0c0-9e6b75580097"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "114b37aa-b1c8-45dd-a4e8-b593ae897763"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "7e6539aa-5e0f-4fd3-9454-856be22968b9"
+   },
+   {
+    "name": "Gloomy Suite",
+    "uuid": "9794338b-bc87-4ae8-b95d-534b009e8534"
+   },
+   {
+    "name": "Inconvenient Residence",
+    "uuid": "a05a9039-21fc-49a5-9da9-1e7a030a01f7"
    }
   ],
   "ranks": {

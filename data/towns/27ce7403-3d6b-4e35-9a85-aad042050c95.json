@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:43:08Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Yartville",
   "uuid": "27ce7403-3d6b-4e35-9a85-aad042050c95",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 96,
+   "numTownBlocks": 97,
    "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 5,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
@@ -474,6 +474,10 @@
     [
      -2001,
      -366
+    ],
+    [
+     -2003,
+     -367
     ]
    ],
    "worlds": {}
@@ -500,7 +504,12 @@
     "uuid": "025a86ea-c2a0-454b-be6d-dd5d3514cce9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "alktat",
+    "uuid": "e3819382-a969-4bdb-b34a-77f1699e41a2"
+   }
+  ],
   "outlaws": [
    {
     "name": "figtrees12",

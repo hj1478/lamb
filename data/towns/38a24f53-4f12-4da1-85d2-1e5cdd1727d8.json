@@ -1,31 +1,31 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Batupasir",
-  "uuid": "8d0ab6ab-f40c-4ec0-94e8-4fd769b98fda",
-  "board": "Manusia goa indonesia",
-  "founder": "GOAERAPIE",
+  "name": "Aottel",
+  "uuid": "38a24f53-4f12-4da1-85d2-1e5cdd1727d8",
+  "board": "/town set board [msg]",
+  "founder": "SDV15",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC2",
-   "uuid": "92d9b579-3d04-2049-aa80-cdb95d73003c"
+   "name": "NPC102",
+   "uuid": "b01c2643-023c-20ea-aa00-07aeb014d3a3"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786181606316,
+   "registered": 1791577970457,
    "joinedNationAt": null,
-   "ruinedAt": 1791280802729
+   "ruinedAt": 1791578352285
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": true,
    "isForSale": false,
    "hasNation": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,92 +80,32 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 37876.45153455207,
-    "y": 63.0,
-    "z": 10103.241815568212,
-    "pitch": 3.4500017,
-    "yaw": 155.8225
+    "x": -27209.371235473147,
+    "y": 81.0,
+    "z": -12234.4921778537,
+    "pitch": 37.95035,
+    "yaw": 79.136475
    },
    "homeBlock": [
-    2367,
-    631
+    -1701,
+    -765
    ],
    "townBlocks": [
     [
-     2365,
-     628
-    ],
-    [
-     2366,
-     631
-    ],
-    [
-     2366,
-     628
-    ],
-    [
-     2366,
-     630
-    ],
-    [
-     2366,
-     629
-    ],
-    [
-     2369,
-     629
-    ],
-    [
-     2369,
-     630
-    ],
-    [
-     2365,
-     629
-    ],
-    [
-     2368,
-     629
-    ],
-    [
-     2365,
-     630
-    ],
-    [
-     2368,
-     628
-    ],
-    [
-     2368,
-     631
-    ],
-    [
-     2368,
-     630
-    ],
-    [
-     2367,
-     629
-    ],
-    [
-     2367,
-     628
-    ],
-    [
-     2367,
-     631
-    ],
-    [
-     2367,
-     630
+     -1701,
+     -765
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC2",
-    "uuid": "92d9b579-3d04-2049-aa80-cdb95d73003c"
+    "name": "SDV15",
+    "uuid": "f3fc18f9-420c-47d4-af7c-97fdb62214dd"
+   },
+   {
+    "name": "NPC102",
+    "uuid": "b01c2643-023c-20ea-aa00-07aeb014d3a3"
    }
   ],
   "trusted": [],

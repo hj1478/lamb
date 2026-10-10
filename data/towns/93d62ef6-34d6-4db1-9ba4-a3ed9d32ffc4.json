@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Woodhurst",
   "uuid": "93d62ef6-34d6-4db1-9ba4-a3ed9d32ffc4",
@@ -12,12 +12,12 @@
    "uuid": "450adf54-c35b-4c53-a7c2-0cd3c20b76a7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
    "registered": 1791260804540,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791572166594,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 18.0,
+   "balance": 28.0,
    "forSalePrice": null
   },
   "perms": {

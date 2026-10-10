@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Dubai",
   "uuid": "bd26007e-922a-4c20-b835-1de6e12bfca4",
-  "board": "town forsale",
+  "board": "We have chocolate",
   "founder": "Szick",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "xooli",
-   "uuid": "0cf95f3c-3b95-4a1f-89be-a001dbcb8ce8"
+   "name": "GoodGuyEclipse",
+   "uuid": "d4a49ecf-0d2c-4b78-be7c-ed7a723a029d"
   },
   "nation": {
-   "name": "Arabia",
-   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
+   "name": "Umayyad",
+   "uuid": "db376132-ba17-4fb1-9d7c-244dd46454e1"
   },
   "timestamps": {
    "registered": 1776812549317,
-   "joinedNationAt": 1788051279112,
+   "joinedNationAt": 1791580752268,
    "ruinedAt": null
   },
   "status": {
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 132,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 10,
    "numResidents": 6,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
-   "forSalePrice": 1500.0
+   "balance": 157.0,
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -92,18 +92,6 @@
    ],
    "townBlocks": [
     [
-     1239,
-     -78
-    ],
-    [
-     1239,
-     -77
-    ],
-    [
-     1239,
-     -79
-    ],
-    [
      1241,
      -77
     ],
@@ -114,10 +102,6 @@
     [
      1241,
      -79
-    ],
-    [
-     1239,
-     -76
     ],
     [
      1241,
@@ -129,15 +113,15 @@
     ],
     [
      1240,
-     -76
-    ],
-    [
-     1240,
      -81
     ],
     [
      1240,
      -77
+    ],
+    [
+     1242,
+     -78
     ],
     [
      1240,
@@ -154,6 +138,78 @@
     [
      1240,
      -80
+    ],
+    [
+     1242,
+     -77
+    ],
+    [
+     1242,
+     -80
+    ],
+    [
+     1242,
+     -81
+    ],
+    [
+     1239,
+     -78
+    ],
+    [
+     1244,
+     -80
+    ],
+    [
+     1239,
+     -77
+    ],
+    [
+     1244,
+     -79
+    ],
+    [
+     1239,
+     -79
+    ],
+    [
+     1244,
+     -81
+    ],
+    [
+     1239,
+     -76
+    ],
+    [
+     1244,
+     -78
+    ],
+    [
+     1244,
+     -77
+    ],
+    [
+     1240,
+     -76
+    ],
+    [
+     1243,
+     -81
+    ],
+    [
+     1243,
+     -80
+    ],
+    [
+     1243,
+     -79
+    ],
+    [
+     1243,
+     -78
+    ],
+    [
+     1243,
+     -77
     ]
    ],
    "worlds": {}
@@ -168,10 +224,6 @@
     "uuid": "9c0a787a-7a32-4ad5-8f7f-b31cd80e89b0"
    },
    {
-    "name": "Greenman58",
-    "uuid": "434b4b57-1644-49aa-bfe4-2d1af4201221"
-   },
-   {
     "name": "Kaull",
     "uuid": "17943c13-27f7-4d89-92c3-3fe1219d0ae3"
    },
@@ -182,12 +234,20 @@
    {
     "name": "51goated",
     "uuid": "fc20232d-e308-4a44-b0c4-5e00879ad774"
+   },
+   {
+    "name": "GoodGuyEclipse",
+    "uuid": "d4a49ecf-0d2c-4b78-be7c-ed7a723a029d"
    }
   ],
   "trusted": [
    {
-    "name": "Szick",
-    "uuid": "9337b63c-8b9f-4690-a369-b7760521699a"
+    "name": "ysba",
+    "uuid": "ac23ee73-7d3a-4970-9634-81dbfe7acca7"
+   },
+   {
+    "name": "Jaroslave",
+    "uuid": "91b065f3-f380-4fa0-bec5-908b8307b0d6"
    }
   ],
   "outlaws": [],

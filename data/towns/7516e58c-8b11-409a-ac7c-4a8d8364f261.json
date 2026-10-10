@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "West_Berlin",
   "uuid": "7516e58c-8b11-409a-ac7c-4a8d8364f261",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 167,
-   "maxTownBlocks": 352,
+   "maxTownBlocks": 376,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 21,
+   "numResidents": 23,
    "numTrusted": 8,
    "numOutlaws": 7,
    "balance": 47.0,
@@ -846,6 +846,14 @@
    {
     "name": "Aegisario",
     "uuid": "8079f13b-33f9-48a8-b72e-82a99adfba90"
+   },
+   {
+    "name": "ParCellar",
+    "uuid": "b02ebd9f-8d33-428b-937b-b32810e11bf1"
+   },
+   {
+    "name": "meddo1605",
+    "uuid": "67589982-ee21-4abb-98dc-71d457ba7ddf"
    }
   ],
   "trusted": [
@@ -1068,6 +1076,10 @@
    {
     "name": "Inconvenient Suite",
     "uuid": "de0ba40c-6ff4-49f4-a9a5-04cb0bd87f30"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "3155d46e-1390-4817-a514-bac332bd7663"
    }
   ],
   "ranks": {
@@ -1095,7 +1107,20 @@
    ],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "Zaids_Shop",
+    "uuid": "8aba578c-8bbe-492c-bb71-7e9c13359f73",
+    "createdAt": 1791542040856,
+    "createdBy": "Addychi01",
+    "access": "NATION",
+    "location": {
+     "x": 4215,
+     "y": 66,
+     "z": -12808
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

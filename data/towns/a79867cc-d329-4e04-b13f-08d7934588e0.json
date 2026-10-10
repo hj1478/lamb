@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Albir",
   "uuid": "a79867cc-d329-4e04-b13f-08d7934588e0",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 0,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 10.0,
@@ -114,14 +114,6 @@
    {
     "name": "Macka2Packa",
     "uuid": "d8e71747-3320-4158-a486-7ca16cf8f5b2"
-   },
-   {
-    "name": "riomacrds",
-    "uuid": "90e71e0f-d8cc-46ce-92f2-f9cd05f6acd5"
-   },
-   {
-    "name": "imashadowclone",
-    "uuid": "d8814736-8b10-4e68-a780-e51489ec0742"
    }
   ],
   "trusted": [],
@@ -129,16 +121,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "riomacrds",
-     "uuid": "90e71e0f-d8cc-46ce-92f2-f9cd05f6acd5"
-    },
-    {
-     "name": "imashadowclone",
-     "uuid": "d8814736-8b10-4e68-a780-e51489ec0742"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Shangri-La",
   "uuid": "81d0adb6-218b-4fa9-8278-bbc6aee7ab24",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 181,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 182,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 117.0,
+   "balance": 91.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11903.079617769203,
-    "y": 63.0,
-    "z": -9903.737051551165,
-    "pitch": 17.099958,
-    "yaw": -28.500116
+    "x": 11904.425000011921,
+    "y": 63.25,
+    "z": -9936.443174782304,
+    "pitch": -1.2000188,
+    "yaw": 179.84991
    },
    "homeBlock": [
-    743,
-    -619
+    744,
+    -622
    ],
    "townBlocks": [
     [
@@ -458,6 +458,10 @@
     [
      746,
      -626
+    ],
+    [
+     737,
+     -629
     ],
     [
      741,
@@ -838,6 +842,10 @@
    {
     "name": "liyae",
     "uuid": "1ba1052c-8e17-4a91-9e56-274f6cb3fdf3"
+   },
+   {
+    "name": "caylusacc2",
+    "uuid": "097a6025-7a99-4f13-b29c-c42d5d2e3494"
    }
   ],
   "trusted": [
@@ -861,14 +869,6 @@
     "uuid": "6b53c769-f0ed-4df6-9d7c-d108d546c06e"
    },
    {
-    "name": "Gloomy Dwelling",
-    "uuid": "2078f848-b00f-4694-a151-44378e1b97b2"
-   },
-   {
-    "name": "Southeast Chamber 东南厢房",
-    "uuid": "bfbce658-392a-43aa-b77a-3ece78111e48"
-   },
-   {
     "name": "Southwest Chamber《西南厢房》",
     "uuid": "a04734da-e39e-4d23-b90f-bbf9eef8341c"
    },
@@ -879,6 +879,22 @@
    {
     "name": "Eastern Portal《東仙房》",
     "uuid": "6a556b7a-a612-4e7a-8090-23edcc6f67a6"
+   },
+   {
+    "name": "Southeast Chamber 东南厢房",
+    "uuid": "bfbce658-392a-43aa-b77a-3ece78111e48"
+   },
+   {
+    "name": "Public Dyes",
+    "uuid": "02e9970a-1cd0-40da-91a9-3740f9075eef"
+   },
+   {
+    "name": "Bulk Storage《储藏库》",
+    "uuid": "d3118d32-bd93-4887-a7d3-2b763c4ae447"
+   },
+   {
+    "name": "Smelter《熔炉厂》",
+    "uuid": "91b2bc53-66a1-4071-9f38-b47ff2ac87e5"
    }
   ],
   "ranks": {

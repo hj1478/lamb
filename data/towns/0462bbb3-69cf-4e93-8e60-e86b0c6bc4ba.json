@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Algarve",
   "uuid": "0462bbb3-69cf-4e93-8e60-e86b0c6bc4ba",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 140,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 453.0,
@@ -670,6 +670,10 @@
    {
     "name": "Dr_Carambolas",
     "uuid": "7d74f2ac-1f04-44bc-b48a-5f5a1b23c89d"
+   },
+   {
+    "name": "spzispre1",
+    "uuid": "720065c5-92fc-4d1d-93dc-f6e7da6ca39f"
    }
   ],
   "trusted": [
@@ -720,10 +724,6 @@
    {
     "name": "Torre Santo António - -1 B",
     "uuid": "ce4b7d10-71d7-48cd-9fcc-b54e6b82bd2e"
-   },
-   {
-    "name": "Casa Ruivo - 2",
-    "uuid": "e7b8fdde-3184-41c8-8be4-cfd900646631"
    },
    {
     "name": "Torre Santo António - 2",
@@ -796,6 +796,26 @@
    {
     "name": "Algarve National Prison",
     "uuid": "6b0d6eaf-d6f3-4ad9-adc0-f4fb1bc31cca"
+   },
+   {
+    "name": "Algarve National Prison: Block 4",
+    "uuid": "406c8fa1-3b67-4bbc-9e2d-211343fff632"
+   },
+   {
+    "name": "Algarve National Prison: Block 3",
+    "uuid": "478c76a2-f545-4348-9128-b8e9f81764d5"
+   },
+   {
+    "name": "Algarve National Prison: Block 2",
+    "uuid": "9a495d06-3a89-4158-8fb5-885ecf05e580"
+   },
+   {
+    "name": "Algarve National Prison: Block 1",
+    "uuid": "9a743f6d-ba8c-4d04-8085-94f5f94e8f8f"
+   },
+   {
+    "name": "Casa Ruivo - 2",
+    "uuid": "e7b8fdde-3184-41c8-8be4-cfd900646631"
    }
   ],
   "ranks": {

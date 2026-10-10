@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Baylon",
   "uuid": "8f350b8a-5820-463b-8648-071595063820",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 135,
-   "maxTownBlocks": 122,
+   "maxTownBlocks": 158,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 6,
+   "numResidents": 9,
    "numTrusted": 5,
    "numOutlaws": 5,
-   "balance": 139.0,
+   "balance": 154.0,
    "forSalePrice": null
   },
   "perms": {
@@ -640,6 +640,10 @@
     "uuid": "f3f85735-ec86-411c-8cd9-1e5de78be699"
    },
    {
+    "name": "Wexxu",
+    "uuid": "355cc08f-803d-4984-9534-5be9904634ab"
+   },
+   {
     "name": "kelppers",
     "uuid": "60f27c1a-c909-44af-a095-7c6e3bb33903"
    },
@@ -658,6 +662,14 @@
    {
     "name": "glebanovi4",
     "uuid": "45c4faed-1d2e-4c96-a4a4-0b084a1256d3"
+   },
+   {
+    "name": "BS2R",
+    "uuid": "44f30eaf-965c-40c5-9704-8c38ec0b0383"
+   },
+   {
+    "name": "broly_real",
+    "uuid": "a6dfb668-757e-4e67-af8d-85e6dbeb70f0"
    }
   ],
   "trusted": [
@@ -728,10 +740,6 @@
    {
     "name": "Government Offices",
     "uuid": "3c25056e-d5c1-4798-8f03-bcfeeae7c92c"
-   },
-   {
-    "name": "Enraging Residence",
-    "uuid": "b73fe320-8bd9-4f52-be61-81146fc55ec6"
    },
    {
     "name": "Room 303",
@@ -1056,6 +1064,10 @@
    {
     "name": "Dingy Flat",
     "uuid": "a3d1379e-34ce-49fb-a6ca-a12da8cc36ba"
+   },
+   {
+    "name": "Enraging Residence",
+    "uuid": "b73fe320-8bd9-4f52-be61-81146fc55ec6"
    }
   ],
   "ranks": {

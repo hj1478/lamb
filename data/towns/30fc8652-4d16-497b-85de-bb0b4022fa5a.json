@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:43:08Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "BOZKURTLAR",
   "uuid": "30fc8652-4d16-497b-85de-bb0b4022fa5a",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 60.0,
@@ -194,6 +194,10 @@
    {
     "name": "hmzkyrckr",
     "uuid": "08d3f420-e1bb-4147-b328-ebbc5a4065b2"
+   },
+   {
+    "name": "selose",
+    "uuid": "1c12ab52-5f00-430b-acc1-78258a62fbb5"
    }
   ],
   "trusted": [],
@@ -201,7 +205,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "selose",
+     "uuid": "1c12ab52-5f00-430b-acc1-78258a62fbb5"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

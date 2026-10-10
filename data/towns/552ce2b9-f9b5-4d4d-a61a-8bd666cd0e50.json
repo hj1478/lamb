@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Lawledge",
-  "uuid": "cc966c18-1184-4dc2-8a94-012c81a42536",
-  "board": "hi",
-  "founder": "Sheikh_Batu_Khan",
+  "name": "Porto_Velho",
+  "uuid": "552ce2b9-f9b5-4d4d-a61a-8bd666cd0e50",
+  "board": "/town set board [msg]",
+  "founder": "andreneco",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC129",
-   "uuid": "a9f95dbd-184b-2095-afbf-679db2e0cd94"
+   "name": "andreneco",
+   "uuid": "0a6659bd-e4f9-45ab-9e72-f91f6a1c8ed6"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787167383023,
+   "registered": 1791571710098,
    "joinedNationAt": null,
-   "ruinedAt": 1791309851496
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,109 +35,76 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
+    "pvp": false,
+    "explosion": false,
     "fire": true,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33798.801067478526,
+    "x": -22897.984003460057,
     "y": 63.0,
-    "z": -14745.846758393105,
-    "pitch": 22.049948,
-    "yaw": -57.5484
+    "z": 11212.686741677624,
+    "pitch": 40.949684,
+    "yaw": -160.83234
    },
    "homeBlock": [
-    -2113,
-    -922
+    -1432,
+    700
    ],
    "townBlocks": [
     [
-     -2113,
-     -923
-    ],
-    [
-     -2113,
-     -922
-    ],
-    [
-     -2113,
-     -921
-    ],
-    [
-     -2112,
-     -922
-    ],
-    [
-     -2114,
-     -922
-    ],
-    [
-     -2114,
-     -923
-    ],
-    [
-     -2112,
-     -923
-    ],
-    [
-     -2114,
-     -921
+     -1432,
+     700
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC129",
-    "uuid": "a9f95dbd-184b-2095-afbf-679db2e0cd94"
+    "name": "andreneco",
+    "uuid": "0a6659bd-e4f9-45ab-9e72-f91f6a1c8ed6"
    }
   ],
-  "trusted": [
-   {
-    "name": "zero_oil",
-    "uuid": "16625db2-07ee-4655-b494-04cad39b0817"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

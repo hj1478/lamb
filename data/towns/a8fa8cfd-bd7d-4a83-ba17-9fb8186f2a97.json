@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Great_Moravia",
   "uuid": "a8fa8cfd-bd7d-4a83-ba17-9fb8186f2a97",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 42,
+   "numTownBlocks": 43,
    "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 8,
    "numTrusted": 3,
    "numOutlaws": 2,
-   "balance": 7.0,
+   "balance": 68.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,9 +80,9 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6152.122086144791,
-    "y": 63.0,
-    "z": -11013.928977840722,
+    "x": 6152.12185314913,
+    "y": 64.0,
+    "z": -11014.080867262297,
     "pitch": 19.80055,
     "yaw": -0.09239054
    },
@@ -122,6 +122,10 @@
     [
      381,
      -687
+    ],
+    [
+     381,
+     -688
     ],
     [
      384,
@@ -352,7 +356,12 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "mitchellsmaid",
+     "uuid": "4959cb8b-fd64-4340-aac8-1e53215a0d2b"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

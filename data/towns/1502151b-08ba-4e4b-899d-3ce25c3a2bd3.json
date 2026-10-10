@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Kuwait",
+  "name": "Kuwait_City",
   "uuid": "1502151b-08ba-4e4b-899d-3ce25c3a2bd3",
   "board": "Welcome to kuwait!",
   "founder": "AddaadaAdda",
@@ -12,12 +12,12 @@
    "uuid": "6c8dd447-50fc-4cd4-9e7a-e89321d0ff05"
   },
   "nation": {
-   "name": "Arabia",
-   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778101149556,
-   "joinedNationAt": 1784041159278,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 125,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 98.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -602,13 +602,14 @@
    {
     "name": "All_in_Guy",
     "uuid": "b0c2b0cd-1467-4c54-bec7-ea0748393ea9"
-   },
+   }
+  ],
+  "trusted": [
    {
     "name": "MegalomaniacJack",
     "uuid": "5a2f0c92-df1d-4436-980a-7bd360ca694d"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
@@ -616,10 +617,6 @@
     {
      "name": "All_in_Guy",
      "uuid": "b0c2b0cd-1467-4c54-bec7-ea0748393ea9"
-    },
-    {
-     "name": "MegalomaniacJack",
-     "uuid": "5a2f0c92-df1d-4436-980a-7bd360ca694d"
     }
    ],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Bomadia",
   "uuid": "1d7b3019-2e9c-491c-9843-d6082374dbc3",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ChuegnzMan747",
-   "uuid": "04c60e60-d15f-4d7c-ae7c-cec259018cf5"
+   "name": "NPC103",
+   "uuid": "691b74ce-c5fd-209d-942e-b9a124c6c5d5"
   },
   "nation": {
-   "name": "Peru",
-   "uuid": "f0ee6f67-447c-46d3-93f0-ce53b46bbf48"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784935044689,
-   "joinedNationAt": 1785178028456,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791583265364
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 64.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,8 +136,8 @@
   },
   "residents": [
    {
-    "name": "ChuegnzMan747",
-    "uuid": "04c60e60-d15f-4d7c-ae7c-cec259018cf5"
+    "name": "NPC103",
+    "uuid": "691b74ce-c5fd-209d-942e-b9a124c6c5d5"
    }
   ],
   "trusted": [],

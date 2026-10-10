@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Valtherion",
   "uuid": "d8568bad-5d25-4f64-b5ae-0e7ce6486063",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13078.470794006598,
+    "x": 13078.40521203658,
     "y": 180.0,
-    "z": -13086.363704315689,
-    "pitch": 7.9498124,
-    "yaw": -178.11665
+    "z": -13085.343437418504,
+    "pitch": 23.849777,
+    "yaw": 177.98291
    },
    "homeBlock": [
     817,
@@ -198,6 +198,10 @@
    {
     "name": "BauiX2",
     "uuid": "f6f13473-e3d3-4b3e-898d-60a2d7af0dac"
+   },
+   {
+    "name": "Bafaex",
+    "uuid": "a5fb3cb9-6e93-440f-8e41-92a809e9c4dd"
    }
   ],
   "trusted": [],
@@ -207,9 +211,111 @@
     "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "a",
+    "uuid": "da2dcb6b-1957-4a21-a56c-1f030a289829"
+   },
+   {
+    "name": "A",
+    "uuid": "a5ed5813-b19b-47af-8fc8-63a8a7304141"
+   },
+   {
+    "name": "b",
+    "uuid": "bfed3aa1-eb9f-4b00-aecb-52d0439bc446"
+   },
+   {
+    "name": "B",
+    "uuid": "4cc81ec3-2c84-47ae-b9c5-7560139643bc"
+   },
+   {
+    "name": "c",
+    "uuid": "a76c81e9-7ed2-4153-a73b-1f120f342687"
+   },
+   {
+    "name": "C",
+    "uuid": "a84fa848-1a88-4f34-92fe-3a11013d4b39"
+   },
+   {
+    "name": "d",
+    "uuid": "827d5d36-75f7-436b-a054-ce9e47471cf0"
+   },
+   {
+    "name": "D",
+    "uuid": "9bf7619f-f697-4736-aab1-ceb306dae980"
+   },
+   {
+    "name": "e",
+    "uuid": "3d361906-5d65-4325-9e96-7f7f9ac2b056"
+   },
+   {
+    "name": "E",
+    "uuid": "dbb9083e-22f9-4a48-8acb-032726684949"
+   },
+   {
+    "name": "f",
+    "uuid": "b5773619-49f4-4840-9d01-534a76c2e2f3"
+   },
+   {
+    "name": "F",
+    "uuid": "59ad4d4b-e684-49a1-8433-e728555a741f"
+   },
+   {
+    "name": "g",
+    "uuid": "d514f820-5907-4197-bd01-af3bb3a7be9d"
+   },
+   {
+    "name": "G",
+    "uuid": "45fcdf01-417c-4dea-95a1-1f197e63661b"
+   },
+   {
+    "name": "h",
+    "uuid": "55abd613-89e7-4d88-96fe-5ae5f4adb463"
+   },
+   {
+    "name": "H",
+    "uuid": "496fd198-7920-4f58-bd2d-b8b6bdda9eda"
+   },
+   {
+    "name": "i",
+    "uuid": "8e99713d-fd1a-4043-835d-94e81d0411ba"
+   },
+   {
+    "name": "I",
+    "uuid": "22597214-e50e-41de-9333-8e4cf603b691"
+   },
+   {
+    "name": "j",
+    "uuid": "e132937a-0ec8-4ce1-9423-84fe294279e7"
+   },
+   {
+    "name": "J",
+    "uuid": "ce7a7ed8-e702-4869-8193-5716fa41a0f9"
+   },
+   {
+    "name": "k",
+    "uuid": "2ccabcf5-79bb-4d91-ab47-cb9aee082565"
+   },
+   {
+    "name": "K",
+    "uuid": "136fdaf0-b6f1-435c-80ef-e01775090355"
+   },
+   {
+    "name": "l",
+    "uuid": "afccf294-ce9f-452e-ab76-8675dd8b4d4f"
+   },
+   {
+    "name": "L",
+    "uuid": "40b75b4c-19ab-40fe-9ee8-964021812e9e"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Bafaex",
+     "uuid": "a5fb3cb9-6e93-440f-8e41-92a809e9c4dd"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

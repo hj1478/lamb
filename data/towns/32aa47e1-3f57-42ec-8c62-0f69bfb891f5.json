@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Northhaven",
-  "uuid": "cf28bdf7-92d8-429f-9f16-5e4422fcae3d",
-  "board": "Living up north",
-  "founder": "GohstAvalon",
+  "name": "Lumumba",
+  "uuid": "32aa47e1-3f57-42ec-8c62-0f69bfb891f5",
+  "board": "/town set board [msg]",
+  "founder": "chefPainPetit",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC40",
-   "uuid": "a0fb6f4d-08ad-2046-bd3b-38c54b9861b7"
+   "name": "chefPainPetit",
+   "uuid": "de7d1afb-79a1-4087-8fce-deed5c6d7f21"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
-   "registered": 1787527705595,
-   "joinedNationAt": null,
-   "ruinedAt": 1791280802262
+   "registered": 1791552100640,
+   "joinedNationAt": 1791558416569,
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,86 +26,90 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 47.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35601.22914563201,
-    "y": 68.0,
-    "z": -18254.566663956102,
-    "pitch": 32.550278,
-    "yaw": 81.56967
+    "x": 4589.59539989829,
+    "y": 16.0,
+    "z": 7495.436642733,
+    "pitch": 24.161089,
+    "yaw": 168.9198
    },
    "homeBlock": [
-    -2226,
-    -1141
+    286,
+    468
    ],
    "townBlocks": [
     [
-     -2226,
-     -1141
+     286,
+     467
     ],
     [
-     -2225,
-     -1141
+     286,
+     468
+    ],
+    [
+     285,
+     468
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC40",
-    "uuid": "a0fb6f4d-08ad-2046-bd3b-38c54b9861b7"
+    "name": "chefPainPetit",
+    "uuid": "de7d1afb-79a1-4087-8fce-deed5c6d7f21"
    }
   ],
   "trusted": [],

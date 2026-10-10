@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Blazzers",
   "uuid": "dee9a0b1-b36f-4184-bc02-c7679ce213d9",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 85,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -436,6 +436,10 @@
   },
   "residents": [
    {
+    "name": "Matthew_PvP_",
+    "uuid": "99870200-4c1f-4e24-9535-eef5bdbbfd4b"
+   },
+   {
     "name": "The_VoidReaper",
     "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
    },
@@ -497,6 +501,10 @@
    "Councillor": [],
    "Builder": [
     {
+     "name": "Matthew_PvP_",
+     "uuid": "99870200-4c1f-4e24-9535-eef5bdbbfd4b"
+    },
+    {
      "name": "The_VoidReaper",
      "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
     }
@@ -513,7 +521,12 @@
      "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
     }
    ],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "Matthew_PvP_",
+     "uuid": "99870200-4c1f-4e24-9535-eef5bdbbfd4b"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

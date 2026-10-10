@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Minneapolis",
   "uuid": "9ca23014-b43f-4d96-9280-39fa92a31866",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 66,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 67,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 195.0,
+   "balance": 201.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33398.596400073926,
-    "y": 61.875,
-    "z": -9255.53743837245,
-    "pitch": 11.849994,
-    "yaw": 94.27835
+    "x": -33476.15195408952,
+    "y": 65.0,
+    "z": -9274.272909406167,
+    "pitch": 48.15026,
+    "yaw": 173.20642
    },
    "homeBlock": [
-    -2088,
-    -579
+    -2093,
+    -580
    ],
    "townBlocks": [
     [
@@ -337,6 +337,10 @@
     ],
     [
      -2095,
+     -577
+    ],
+    [
+     -2095,
      -578
     ],
     [
@@ -364,6 +368,10 @@
     "uuid": "e1049674-d62a-44f0-b466-8f9c8f491132"
    },
    {
+    "name": "Chrysoprasus",
+    "uuid": "fbe5a05b-fd87-4cc2-9c66-654024c5f31c"
+   },
+   {
     "name": "Turtle9631",
     "uuid": "a2bf287c-c3d3-4647-a0cc-c0c37f2415d0"
    }
@@ -387,7 +395,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Chrysoprasus",
+     "uuid": "fbe5a05b-fd87-4cc2-9c66-654024c5f31c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

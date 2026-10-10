@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Kiba",
   "uuid": "99012b0c-550a-4e3e-b84a-8e07d739814c",
@@ -22,8 +22,8 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
-   "isNeutral": false,
+   "isOpen": true,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 54,
+   "numTownBlocks": 46,
+   "maxTownBlocks": 114,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 2,
-   "numTrusted": 4,
+   "numResidents": 7,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 255.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,7 +132,23 @@
      697
     ],
     [
+     728,
+     698
+    ],
+    [
      730,
+     697
+    ],
+    [
+     726,
+     698
+    ],
+    [
+     731,
+     698
+    ],
+    [
+     732,
      697
     ],
     [
@@ -148,12 +164,28 @@
      695
     ],
     [
+     725,
+     697
+    ],
+    [
+     732,
+     695
+    ],
+    [
      726,
      697
     ],
     [
      730,
      694
+    ],
+    [
+     725,
+     698
+    ],
+    [
+     732,
+     696
     ],
     [
      726,
@@ -181,7 +213,27 @@
     ],
     [
      727,
+     698
+    ],
+    [
+     727,
      693
+    ],
+    [
+     725,
+     695
+    ],
+    [
+     732,
+     693
+    ],
+    [
+     725,
+     696
+    ],
+    [
+     732,
+     694
     ],
     [
      727,
@@ -190,6 +242,14 @@
     [
      727,
      694
+    ],
+    [
+     725,
+     694
+    ],
+    [
+     730,
+     698
     ],
     [
      729,
@@ -202,6 +262,10 @@
     [
      729,
      697
+    ],
+    [
+     729,
+     698
     ],
     [
      729,
@@ -222,6 +286,26 @@
    {
     "name": "vixinities",
     "uuid": "1783885d-2dc0-4911-b504-92cbeb8affdb"
+   },
+   {
+    "name": "Tappolo",
+    "uuid": "570eed35-31f4-4ffa-9a19-b034c9ee5fe8"
+   },
+   {
+    "name": "ShadowStar912",
+    "uuid": "14e7b7a7-f1c1-4b8c-ae13-b1b949f52cc7"
+   },
+   {
+    "name": "GakuGaku0410",
+    "uuid": "c2b9406c-0565-49f9-bbc0-e00159668b68"
+   },
+   {
+    "name": "Kkai0427",
+    "uuid": "aa48c1e7-dbd7-44ae-848f-d227727872da"
+   },
+   {
+    "name": "Broshi9",
+    "uuid": "a290a9d7-287d-4b6e-ac9e-4afd6770fdfa"
    }
   ],
   "trusted": [
@@ -234,12 +318,28 @@
     "uuid": "123558b8-5eaa-4905-be85-cb83ec01deb7"
    },
    {
+    "name": "GakuGaku0410",
+    "uuid": "c2b9406c-0565-49f9-bbc0-e00159668b68"
+   },
+   {
     "name": "Lemon_Pot",
     "uuid": "397644d6-9189-420b-9060-73c3d2b71f9c"
    },
    {
     "name": "KataSheep",
     "uuid": "17272602-a57e-4c85-8708-04892c44b077"
+   },
+   {
+    "name": "Kkai0427",
+    "uuid": "aa48c1e7-dbd7-44ae-848f-d227727872da"
+   },
+   {
+    "name": "Broshi9",
+    "uuid": "a290a9d7-287d-4b6e-ac9e-4afd6770fdfa"
+   },
+   {
+    "name": "Tappolo",
+    "uuid": "570eed35-31f4-4ffa-9a19-b034c9ee5fe8"
    }
   ],
   "outlaws": [],

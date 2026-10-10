@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Newuk",
   "uuid": "fd3b3744-5dd8-4010-9032-bce1d940687a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "the_king_is_solo",
-   "uuid": "9b82da2e-538c-4d58-a75b-2105121a2506"
+   "name": "NPC101",
+   "uuid": "55ec5807-f446-209a-a745-2fb05170c9b7"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1791045269912,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791572494798
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 5,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 17.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -53,28 +53,28 @@
     true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     1329,
+     -335
+    ],
+    [
+     1328,
+     -335
+    ],
+    [
      1327,
      -335
     ],
@@ -108,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "the_king_is_solo",
-    "uuid": "9b82da2e-538c-4d58-a75b-2105121a2506"
+    "name": "NPC101",
+    "uuid": "55ec5807-f446-209a-a745-2fb05170c9b7"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Rhodes",
   "uuid": "a132f29d-ced5-4b72-b610-e617e4643e2f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "unitypilon_",
-   "uuid": "ad6ae0f1-a522-4a39-9cce-db20de3e1902"
+   "name": "resonity",
+   "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
   },
   "nation": {
    "name": "Byzantium",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 137,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 149,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 6,
+   "numResidents": 4,
+   "numTrusted": 7,
    "numOutlaws": 13,
-   "balance": 0.0,
+   "balance": 4944.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10020.472764079339,
-    "y": 67.0,
-    "z": -5572.453510238662,
-    "pitch": 1.973461,
-    "yaw": -178.45642
+    "x": 10023.537985495048,
+    "y": 49.0,
+    "z": -5559.765921876635,
+    "pitch": -0.60030013,
+    "yaw": -178.92468
    },
    "homeBlock": [
     626,
-    -349
+    -348
    ],
    "townBlocks": [
     [
@@ -164,12 +164,20 @@
      -349
     ],
     [
+     626,
+     -362
+    ],
+    [
      622,
      -344
     ],
     [
      627,
      -346
+    ],
+    [
+     626,
+     -363
     ],
     [
      622,
@@ -248,6 +256,14 @@
      -348
     ],
     [
+     624,
+     -362
+    ],
+    [
+     624,
+     -363
+    ],
+    [
      617,
      -348
     ],
@@ -292,6 +308,10 @@
      -347
     ],
     [
+     627,
+     -362
+    ],
+    [
      611,
      -365
     ],
@@ -304,8 +324,16 @@
      -348
     ],
     [
+     627,
+     -363
+    ],
+    [
      626,
      -341
+    ],
+    [
+     625,
+     -362
     ],
     [
      626,
@@ -318,6 +346,10 @@
     [
      626,
      -344
+    ],
+    [
+     625,
+     -363
     ],
     [
      627,
@@ -400,6 +432,10 @@
      -351
     ],
     [
+     622,
+     -363
+    ],
+    [
      621,
      -347
     ],
@@ -421,6 +457,10 @@
     ],
     [
      622,
+     -362
+    ],
+    [
+     622,
      -359
     ],
     [
@@ -438,6 +478,14 @@
     [
      623,
      -359
+    ],
+    [
+     623,
+     -362
+    ],
+    [
+     623,
+     -363
     ],
     [
      620,
@@ -654,12 +702,20 @@
    {
     "name": "resonity",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
+    "name": "ArdaTe_",
+    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
    }
   ],
   "trusted": [
    {
     "name": "unitypilon_",
     "uuid": "ad6ae0f1-a522-4a39-9cce-db20de3e1902"
+   },
+   {
+    "name": "Aras775",
+    "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
    },
    {
     "name": "BaroqueMan",
@@ -736,7 +792,12 @@
     "uuid": "1cdbdea6-100a-43ea-b536-3193e766092d"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Elegant Tenement",
+    "uuid": "c04b17dd-69d7-4354-947d-2917a5679020"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

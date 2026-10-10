@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:43:08Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Cavalcante",
   "uuid": "403f9181-6326-42bb-a1d9-cda796846422",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
+   "numTownBlocks": 31,
    "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 5,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 44.0,
+   "numOutlaws": 1,
+   "balance": 60.0,
    "forSalePrice": null
   },
   "perms": {
@@ -121,6 +121,10 @@
     ],
     [
      -1081,
+     784
+    ],
+    [
+     -1081,
      785
     ],
     [
@@ -169,6 +173,10 @@
     ],
     [
      -1082,
+     784
+    ],
+    [
+     -1082,
      785
     ],
     [
@@ -182,6 +190,10 @@
     [
      -1082,
      788
+    ],
+    [
+     -1083,
+     784
     ],
     [
      -1083,
@@ -225,16 +237,21 @@
     "uuid": "8182718d-123f-4e34-8ff6-6cfaedc52b71"
    },
    {
-    "name": "BLOCK_EJ",
-    "uuid": "0bd82090-4798-4896-a7f2-d2257df0c1fe"
-   },
-   {
     "name": "Anguilax",
     "uuid": "3fcc9fb1-c471-4de5-a768-a600e5e7e0e4"
+   },
+   {
+    "name": "Pedro_kexz",
+    "uuid": "f6609f0c-fdae-4fca-84e4-b47acd139837"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BLOCK_EJ",
+    "uuid": "0bd82090-4798-4896-a7f2-d2257df0c1fe"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

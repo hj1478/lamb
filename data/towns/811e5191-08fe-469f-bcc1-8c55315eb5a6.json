@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Pogorzyce",
   "uuid": "811e5191-08fe-469f-bcc1-8c55315eb5a6",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 132,
-   "maxTownBlocks": 152,
+   "numTownBlocks": 138,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 6,
-   "numTrusted": 2,
+   "numResidents": 9,
+   "numTrusted": 3,
    "numOutlaws": 5,
-   "balance": 161.0,
+   "balance": 80.0,
    "forSalePrice": null
   },
   "perms": {
@@ -173,7 +173,23 @@
     ],
     [
      421,
+     -732
+    ],
+    [
+     421,
      -728
+    ],
+    [
+     421,
+     -729
+    ],
+    [
+     421,
+     -730
+    ],
+    [
+     421,
+     -731
     ],
     [
      418,
@@ -548,6 +564,10 @@
      -719
     ],
     [
+     420,
+     -729
+    ],
+    [
      413,
      -718
     ],
@@ -618,6 +638,10 @@
     [
      420,
      -731
+    ],
+    [
+     420,
+     -732
     ]
    ],
    "worlds": {}
@@ -646,12 +670,28 @@
    {
     "name": "Dummypotato",
     "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
+   },
+   {
+    "name": "haker2024",
+    "uuid": "0ba15f25-d70e-4c47-bfd8-e78ed518a846"
+   },
+   {
+    "name": "shipthatilove",
+    "uuid": "9738a0be-d3b6-4701-af93-d5ca594660ea"
+   },
+   {
+    "name": "Theobre",
+    "uuid": "1f92fc00-a4c7-4e11-8f0c-5f8e4235af1a"
    }
   ],
   "trusted": [
    {
     "name": "Mrzqin67549",
     "uuid": "e255c0f0-2c74-41c5-9c6e-a29708450439"
+   },
+   {
+    "name": "Dummypotato",
+    "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
    },
    {
     "name": "BillyBJones",
@@ -682,28 +722,8 @@
   ],
   "quarters": [
    {
-    "name": "Luxurious Dwelling",
-    "uuid": "74a5dd5a-97b0-4564-890f-9391a70f28c9"
-   },
-   {
     "name": "Bland Suite",
     "uuid": "26622a5b-bdf8-4d82-aece-298bd88bef34"
-   },
-   {
-    "name": "Stylish Apartment",
-    "uuid": "867c8bcf-1709-478a-88a3-5929f55e8ee6"
-   },
-   {
-    "name": "Inconvenient Apartment",
-    "uuid": "9367c04c-cc45-464e-8229-f8320c207955"
-   },
-   {
-    "name": "Gloomy Apartment",
-    "uuid": "9391cb4b-92cb-426d-a8d3-87edf9ee6e37"
-   },
-   {
-    "name": "Stylish Flat",
-    "uuid": "078db2b2-76ef-4bac-ba60-0381325a670d"
    },
    {
     "name": "Dingy Suite",
@@ -741,7 +761,12 @@
      "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Theobre",
+     "uuid": "1f92fc00-a4c7-4e11-8f0c-5f8e4235af1a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

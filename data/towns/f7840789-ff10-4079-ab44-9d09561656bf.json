@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Jiadingqu",
-  "uuid": "5083d5db-2b6a-45a4-88fd-505891353929",
+  "name": "Benkun_Maa",
+  "uuid": "f7840789-ff10-4079-ab44-9d09561656bf",
   "board": "/town set board [msg]",
-  "founder": "swimmlarlar31",
+  "founder": "MATSONI123",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC46",
-   "uuid": "143884ae-45a6-2099-8397-d3f9830f3eb6"
+   "name": "MATSONI123",
+   "uuid": "bfb4dd0f-025e-4355-b3a4-4a154cbecfa3"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1781272224538,
+   "registered": 1791554377175,
    "joinedNationAt": null,
-   "ruinedAt": 1791280804275
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,93 +47,73 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43384.367828995186,
-    "y": 62.251347392056324,
-    "z": -3259.4721578944377,
-    "pitch": -1.4218217,
-    "yaw": -179.57458
+    "x": -24832.867016462053,
+    "y": 226.0,
+    "z": 17550.3287914126,
+    "pitch": 43.05004,
+    "yaw": 103.48505
    },
    "homeBlock": [
-    2711,
-    -204
+    -1553,
+    1096
    ],
    "townBlocks": [
     [
-     2709,
-     -206
+     -1553,
+     1096
     ],
     [
-     2709,
-     -204
-    ],
-    [
-     2710,
-     -205
-    ],
-    [
-     2711,
-     -204
-    ],
-    [
-     2709,
-     -205
-    ],
-    [
-     2710,
-     -204
-    ],
-    [
-     2710,
-     -206
-    ],
-    [
-     2711,
-     -206
-    ],
-    [
-     2711,
-     -205
+     -1552,
+     1096
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC46",
-    "uuid": "143884ae-45a6-2099-8397-d3f9830f3eb6"
+    "name": "MATSONI123",
+    "uuid": "bfb4dd0f-025e-4355-b3a4-4a154cbecfa3"
+   },
+   {
+    "name": "superpuma021",
+    "uuid": "3d8e0199-70f4-4739-9f41-0835d9a2eae4"
+   },
+   {
+    "name": "Fingvin",
+    "uuid": "4a58a86a-a068-4164-9a15-0516e285d221"
    }
   ],
   "trusted": [],
@@ -141,7 +121,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "superpuma021",
+     "uuid": "3d8e0199-70f4-4739-9f41-0835d9a2eae4"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Tree_Town",
-  "uuid": "23ede30a-c9be-480a-b0da-41b14db31c1e",
+  "name": "Edraria",
+  "uuid": "dd9b9f61-7f55-4907-99c7-c6364af05974",
   "board": "/town set board [msg]",
-  "founder": "FilleFNAF",
+  "founder": "Comrade_Goliath",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC10",
-   "uuid": "5793a3cc-3d4e-20e8-bbe6-d2209095f705"
+   "name": "Comrade_Goliath",
+   "uuid": "fd4f38b1-3a20-4d94-9a98-85258857f952"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787080974932,
+   "registered": 1791583899955,
    "joinedNationAt": null,
-   "ruinedAt": 1791280800971
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,85 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9851.099760425888,
-    "y": 68.0,
-    "z": -7864.453459630431,
-    "pitch": 1.9500028,
-    "yaw": 146.43396
+    "x": -27368.69510842065,
+    "y": 104.0,
+    "z": 11685.926089568513,
+    "pitch": 39.00002,
+    "yaw": -45.843746
    },
    "homeBlock": [
-    615,
-    -492
+    -1711,
+    730
    ],
    "townBlocks": [
     [
-     614,
-     -493
-    ],
-    [
-     614,
-     -492
-    ],
-    [
-     615,
-     -492
-    ],
-    [
-     615,
-     -493
+     -1711,
+     730
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC10",
-    "uuid": "5793a3cc-3d4e-20e8-bbe6-d2209095f705"
+    "name": "Comrade_Goliath",
+    "uuid": "fd4f38b1-3a20-4d94-9a98-85258857f952"
    }
   ],
   "trusted": [],

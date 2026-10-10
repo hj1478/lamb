@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Daiyakushin",
   "uuid": "7504ed26-24fe-42d4-a272-6c969a2f1bf8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TamagoEgg0319",
-   "uuid": "fc2b50b0-6146-4520-98c9-19a803cfdf42"
+   "name": "tamake512",
+   "uuid": "9ef60e42-bb10-4812-bd1f-a33110557763"
   },
   "nation": {
    "name": "Japan",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 11,
+   "numResidents": 3,
+   "numTrusted": 12,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43580.817865162135,
-    "y": 190.0,
-    "z": -2872.3292016513233,
-    "pitch": -4.069915,
-    "yaw": -89.99635
+    "x": 43559.59988603822,
+    "y": 62.9375,
+    "z": -2904.4386820891536,
+    "pitch": 11.797308,
+    "yaw": 87.01528
    },
    "homeBlock": [
-    2723,
-    -180
+    2722,
+    -182
    ],
    "townBlocks": [
     [
@@ -550,6 +550,10 @@
    {
     "name": "_Vryn",
     "uuid": "da9595ce-70fd-4385-aebd-f763b7cc627f"
+   },
+   {
+    "name": "tamake512",
+    "uuid": "9ef60e42-bb10-4812-bd1f-a33110557763"
    }
   ],
   "trusted": [
@@ -590,6 +594,10 @@
     "uuid": "9d1ec6c3-a2c9-45eb-bb65-1c4f2cfbf7d3"
    },
    {
+    "name": "Matchayan",
+    "uuid": "e832b88b-426f-4723-b2fc-f183f71d59ea"
+   },
+   {
     "name": "tamake512",
     "uuid": "9ef60e42-bb10-4812-bd1f-a33110557763"
    },
@@ -601,7 +609,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "TamagoEgg0319",
+     "uuid": "fc2b50b0-6146-4520-98c9-19a803cfdf42"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Blossom",
   "uuid": "0aae47e6-f277-4240-99ab-40ebfaf9dbe9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
+   "numTownBlocks": 33,
    "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 4,
    "numTrusted": 5,
    "numOutlaws": 13,
-   "balance": 110.0,
+   "balance": 116.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1457,
+     -976
+    ],
+    [
+     -1457,
      -977
     ],
     [
@@ -140,6 +144,14 @@
      -977
     ],
     [
+     -1456,
+     -976
+    ],
+    [
+     -1458,
+     -980
+    ],
+    [
      -1458,
      -981
     ],
@@ -154,6 +166,10 @@
     [
      -1455,
      -979
+    ],
+    [
+     -1455,
+     -976
     ],
     [
      -1455,
@@ -202,6 +218,10 @@
     [
      -1456,
      -983
+    ],
+    [
+     -1459,
+     -980
     ]
    ],
    "worlds": {}
@@ -226,16 +246,16 @@
   ],
   "trusted": [
    {
+    "name": "applepi__",
+    "uuid": "03a3f6e7-def3-48e8-91ac-087d17452f3b"
+   },
+   {
     "name": "TheBringerOfD00m",
     "uuid": "c4dac277-ad14-4521-b7b0-07f857ddd51b"
    },
    {
     "name": "MatyX6969",
     "uuid": "3b2408a3-1cd6-4349-9f28-5d20739bf371"
-   },
-   {
-    "name": "_tuttopassa_",
-    "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
    },
    {
     "name": "Papa_Rake",
@@ -300,7 +320,12 @@
     "uuid": "a7b1e177-37ed-45a0-b922-16b57f7900bd"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Maji Lane #1",
+    "uuid": "b8949cfd-656b-4f60-90c1-676a1e6b8a3d"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

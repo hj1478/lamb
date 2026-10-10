@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "LakeVille",
   "uuid": "f69c8b63-8f2a-45e8-8a8b-50c15dbc3014",
@@ -12,12 +12,12 @@
    "uuid": "ff2c4399-6d0b-42e0-9600-f9b4051e3ec5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1791143031989,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791581199365,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,10 @@
     -650
    ],
    "townBlocks": [
+    [
+     -1782,
+     -652
+    ],
     [
      -1783,
      -652

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Petrovina",
   "uuid": "cd7f1f2d-165a-45bb-b590-f758630c092e",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 5,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 30825.57551240858,
+    "x": 30826.862472094832,
     "y": 67.0,
-    "z": 746.099996794844,
-    "pitch": 19.557922,
-    "yaw": 57.526253
+    "z": 749.8924337414571,
+    "pitch": -32.836647,
+    "yaw": -61.594788
    },
    "homeBlock": [
     1926,
@@ -92,12 +92,20 @@
    ],
    "townBlocks": [
     [
+     1924,
+     47
+    ],
+    [
      1926,
      47
     ],
     [
      1926,
      46
+    ],
+    [
+     1925,
+     47
     ],
     [
      1925,

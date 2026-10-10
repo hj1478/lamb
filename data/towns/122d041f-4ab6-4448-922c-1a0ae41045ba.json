@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Leskhov",
   "uuid": "122d041f-4ab6-4448-922c-1a0ae41045ba",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,7 +41,7 @@
    "nationBonus": 60,
    "numResidents": 6,
    "numTrusted": 5,
-   "numOutlaws": 5,
+   "numOutlaws": 8,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -278,13 +278,21 @@
    {
     "name": "CrystallizerMC",
     "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   },
+   {
+    "name": "felixsgt",
+    "uuid": "fb727536-85ac-4e35-a8dd-f1eef6616f3a"
+   },
+   {
+    "name": "ItzGlazzy",
+    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+   },
+   {
+    "name": "maisaur",
+    "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
    }
   ],
   "quarters": [
-   {
-    "name": "Welcoming Apartment",
-    "uuid": "be8360ec-10f1-41a6-9412-44655a7fcbb4"
-   },
    {
     "name": "Gloomy Flat",
     "uuid": "e6429d06-c5e2-42a7-b912-26f5a129cfc9"
@@ -292,6 +300,14 @@
    {
     "name": "Bland Quarter",
     "uuid": "3a3ea93d-a2b3-42eb-b89c-c06b064ed8b2"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "6406a341-3fed-445f-92ea-4f8ae7dc9da7"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "be8360ec-10f1-41a6-9412-44655a7fcbb4"
    }
   ],
   "ranks": {

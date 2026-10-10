@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Rio",
   "uuid": "b98c4b7e-fbba-47e8-9e15-b0150fac72dc",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 678,
-   "maxTownBlocks": 908,
+   "numTownBlocks": 679,
+   "maxTownBlocks": 932,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 69,
+   "numResidents": 71,
    "numTrusted": 5,
    "numOutlaws": 8,
-   "balance": 353.0,
+   "balance": 389.0,
    "forSalePrice": null
   },
   "perms": {
@@ -678,6 +678,10 @@
     [
      -1876,
      -16
+    ],
+    [
+     -1868,
+     -3
     ],
     [
      -1894,
@@ -3087,6 +3091,14 @@
    {
     "name": "LamarIsMyName",
     "uuid": "7bb7dad1-8fea-494b-ba2d-2848567bc3a2"
+   },
+   {
+    "name": "Someus",
+    "uuid": "64a3b799-9b03-4e10-9f14-d760b79f2f51"
+   },
+   {
+    "name": "r201cu",
+    "uuid": "4edc4c76-0986-4e01-9e12-12ac0a84970a"
    }
   ],
   "trusted": [
@@ -3287,10 +3299,6 @@
     "uuid": "a219e7c1-b96b-48bc-9d4f-132fc2deb5cb"
    },
    {
-    "name": "Upbeat Dwelling",
-    "uuid": "397cd8e3-ca41-4eb4-bd0e-51567db6b44d"
-   },
-   {
     "name": "Gloomy Quarter",
     "uuid": "0b6185e7-43e7-49b4-a650-e5277fc2860e"
    },
@@ -3299,20 +3307,12 @@
     "uuid": "ddd560ea-b300-490d-8a00-4585f07fa48f"
    },
    {
-    "name": "Inconvenient Suite",
-    "uuid": "6bddd206-a865-444b-b799-360b0808b568"
-   },
-   {
     "name": "Cheerful Apartment",
     "uuid": "adfe7a47-1b02-429c-a990-28ded8762b4b"
    },
    {
     "name": "Perturbing Tenement",
     "uuid": "d28e16d5-3b22-4283-889d-a37b2e10c37e"
-   },
-   {
-    "name": "Welcoming Quarter",
-    "uuid": "2bc16c2a-55bc-4d4c-90a0-faac6ab0c6a8"
    },
    {
     "name": "Cheerful Dwelling",
@@ -3459,20 +3459,8 @@
     "uuid": "13222b3f-54f5-466b-9a6c-487af216bf6a"
    },
    {
-    "name": "mushroomStem",
-    "uuid": "2a0da29f-ff48-4075-812d-a4a452d2dacd"
-   },
-   {
     "name": "Luxurious Flat",
     "uuid": "11853119-d449-498a-8265-ca8af669a4c0"
-   },
-   {
-    "name": "Inviting Tenement",
-    "uuid": "14c25e59-b024-4d71-8e8c-ba8deece011d"
-   },
-   {
-    "name": "Dingy Residence",
-    "uuid": "42590a74-c2d3-4d3d-91e7-75fdfd355f84"
    },
    {
     "name": "Bland Quarter",
@@ -3487,20 +3475,8 @@
     "uuid": "8ca3a489-2921-4b41-8540-8e42afdd184b"
    },
    {
-    "name": "pale",
-    "uuid": "ea82b961-3b35-4975-b380-03f97cfdb830"
-   },
-   {
     "name": "Inviting Residence",
     "uuid": "72177c68-0203-4dc6-8ec2-fd36bf4e49b8"
-   },
-   {
-    "name": "birch",
-    "uuid": "9b3f41b5-bd02-4e36-85c7-f8fb8d430d65"
-   },
-   {
-    "name": "dark",
-    "uuid": "8be3acfb-5a81-4eee-9276-130c794aac69"
    },
    {
     "name": "Dull Tenement",
@@ -3539,32 +3515,12 @@
     "uuid": "d2a3f438-fc4f-49d0-b5b2-b270ade5f5da"
    },
    {
-    "name": "witherRose",
-    "uuid": "05575b70-c540-497b-9bbf-42b875a4b5a6"
-   },
-   {
     "name": "Luxurious Suite",
     "uuid": "94fd4fd9-a22e-42b7-b104-f99a3f931eeb"
    },
    {
     "name": "Dingy Property",
     "uuid": "bb71bce0-b483-472e-b360-3fc4657ed4c8"
-   },
-   {
-    "name": "spruce",
-    "uuid": "631b7337-d8d2-4c3a-a74e-0562e9249437"
-   },
-   {
-    "name": "jungle",
-    "uuid": "7ca319b4-cbfd-4946-b430-a000ade77e65"
-   },
-   {
-    "name": "acacia",
-    "uuid": "a3bfbb22-2466-475c-bebe-0d2bad96c9e9"
-   },
-   {
-    "name": "cherry",
-    "uuid": "58ca22fb-6b51-4fc7-a4a5-3b48e6150eea"
    },
    {
     "name": "carrot",
@@ -3583,28 +3539,8 @@
     "uuid": "da633684-74f1-460b-8334-7cb4361ee100"
    },
    {
-    "name": "Shop South Door",
-    "uuid": "47853b19-ac4a-4674-9434-d7ad413d30f0"
-   },
-   {
     "name": "potato",
     "uuid": "81ceac6b-473d-4e32-9a6e-431a40e4c8ef"
-   },
-   {
-    "name": "cobble",
-    "uuid": "412e497b-eede-4b54-a462-5c13316af374"
-   },
-   {
-    "name": "cobble",
-    "uuid": "7f429c2b-4625-4dcd-95e6-98e2fb3b3bf4"
-   },
-   {
-    "name": "oak",
-    "uuid": "fdd7b441-711d-4050-a8fa-e759c9bbc0b8"
-   },
-   {
-    "name": "Upbeat Quarter",
-    "uuid": "0d7cb1cc-d0af-4a8f-8c70-c2aee029240d"
    },
    {
     "name": "wheat",
@@ -3627,24 +3563,100 @@
     "uuid": "9d3b3608-3cc7-4d6c-a97c-52e5397bc6e4"
    },
    {
+    "name": "Perturbing Suite",
+    "uuid": "e6db9aaa-4ca3-422c-9ad7-6435826e1ff2"
+   },
+   {
+    "name": "Shop South Door",
+    "uuid": "47853b19-ac4a-4674-9434-d7ad413d30f0"
+   },
+   {
     "name": "iron",
     "uuid": "442b4636-ea83-4bee-9378-0643194d63e0"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "14c25e59-b024-4d71-8e8c-ba8deece011d"
+   },
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "0d7cb1cc-d0af-4a8f-8c70-c2aee029240d"
+   },
+   {
+    "name": "bone",
+    "uuid": "7f67d4ab-c659-4177-92c0-5deb912437f7"
+   },
+   {
+    "name": "pale",
+    "uuid": "ea82b961-3b35-4975-b380-03f97cfdb830"
    },
    {
     "name": "BambooWooooood",
     "uuid": "3b4f854d-d1c7-4a97-a9c0-b9565b8b3b90"
    },
    {
-    "name": "Perturbing Suite",
-    "uuid": "e6db9aaa-4ca3-422c-9ad7-6435826e1ff2"
+    "name": "cobble",
+    "uuid": "412e497b-eede-4b54-a462-5c13316af374"
+   },
+   {
+    "name": "cobble",
+    "uuid": "7f429c2b-4625-4dcd-95e6-98e2fb3b3bf4"
+   },
+   {
+    "name": "dark",
+    "uuid": "8be3acfb-5a81-4eee-9276-130c794aac69"
+   },
+   {
+    "name": "mushroomStem",
+    "uuid": "2a0da29f-ff48-4075-812d-a4a452d2dacd"
+   },
+   {
+    "name": "witherRose",
+    "uuid": "05575b70-c540-497b-9bbf-42b875a4b5a6"
+   },
+   {
+    "name": "cherry",
+    "uuid": "58ca22fb-6b51-4fc7-a4a5-3b48e6150eea"
+   },
+   {
+    "name": "spruce",
+    "uuid": "631b7337-d8d2-4c3a-a74e-0562e9249437"
+   },
+   {
+    "name": "oak",
+    "uuid": "fdd7b441-711d-4050-a8fa-e759c9bbc0b8"
+   },
+   {
+    "name": "jungle",
+    "uuid": "7ca319b4-cbfd-4946-b430-a000ade77e65"
+   },
+   {
+    "name": "acacia",
+    "uuid": "a3bfbb22-2466-475c-bebe-0d2bad96c9e9"
+   },
+   {
+    "name": "birch",
+    "uuid": "9b3f41b5-bd02-4e36-85c7-f8fb8d430d65"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "42590a74-c2d3-4d3d-91e7-75fdfd355f84"
    },
    {
     "name": "obsidian",
     "uuid": "aeb4bc15-db57-4f1d-a680-d450d5f595a5"
    },
    {
-    "name": "bone",
-    "uuid": "7f67d4ab-c659-4177-92c0-5deb912437f7"
+    "name": "Inconvenient Suite",
+    "uuid": "6bddd206-a865-444b-b799-360b0808b568"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "2bc16c2a-55bc-4d4c-90a0-faac6ab0c6a8"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "397cd8e3-ca41-4eb4-bd0e-51567db6b44d"
    }
   ],
   "ranks": {

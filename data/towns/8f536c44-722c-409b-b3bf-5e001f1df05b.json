@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-09T10:43:08Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "PCP-CBMR",
-  "uuid": "356c43cd-fa0f-43a2-be65-56440fdd876c",
+  "name": "Paradise_Island",
+  "uuid": "8f536c44-722c-409b-b3bf-5e001f1df05b",
   "board": "/town set board [msg]",
-  "founder": "Anoneko1509",
+  "founder": "Owenthelegendrie",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC42",
-   "uuid": "4597ee2c-990e-20a2-a347-43ae6d9f81a8"
+   "name": "Owenthelegendrie",
+   "uuid": "7acc832b-ae68-4378-8779-7373a30fa627"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786611995233,
+   "registered": 1791560547491,
    "joinedNationAt": null,
-   "ruinedAt": 1791280803832
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26741.636828766095,
-    "y": 100.0,
-    "z": 12321.330486624815,
-    "pitch": 14.700089,
-    "yaw": 91.99426
+    "x": 15993.493090051485,
+    "y": 62.9375,
+    "z": 29149.576873645758,
+    "pitch": 24.600016,
+    "yaw": -176.51933
    },
    "homeBlock": [
-    -1672,
-    770
+    999,
+    1821
    ],
    "townBlocks": [
     [
-     -1672,
-     770
+     999,
+     1821
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC42",
-    "uuid": "4597ee2c-990e-20a2-a347-43ae6d9f81a8"
+    "name": "Owenthelegendrie",
+    "uuid": "7acc832b-ae68-4378-8779-7373a30fa627"
    }
   ],
   "trusted": [],

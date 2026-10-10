@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Rhodopi",
   "uuid": "88770667-7550-4ed0-ad8b-894db6a87f7e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 113,
+   "numTownBlocks": 117,
    "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 5,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 56.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,6 +101,10 @@
     ],
     [
      562,
+     -480
+    ],
+    [
+     567,
      -480
     ],
     [
@@ -432,6 +436,10 @@
      -482
     ],
     [
+     566,
+     -481
+    ],
+    [
      551,
      -485
     ],
@@ -484,8 +492,16 @@
      -477
     ],
     [
+     566,
+     -480
+    ],
+    [
      555,
      -482
+    ],
+    [
+     566,
+     -479
     ],
     [
      553,
@@ -556,19 +572,24 @@
     "uuid": "d248efee-b913-4978-b761-008d78ac5cb0"
    },
    {
-    "name": "E_go2023",
-    "uuid": "071902e4-f8b6-40d2-b17a-8d545bdccb48"
-   },
-   {
     "name": "Flare_Craft",
     "uuid": "95d200c4-0dde-4432-b01e-c77f87555541"
    },
    {
     "name": "PROMY19",
     "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
+   },
+   {
+    "name": "Kurios_Peristeri",
+    "uuid": "0c299f37-9c79-4951-95c6-22244353f0d0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Kurios_Peristeri",
+    "uuid": "0c299f37-9c79-4951-95c6-22244353f0d0"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Tongcheng",
-  "uuid": "a440da26-30b4-4ba4-b3a0-9d12e41a0445",
+  "name": "Amari",
+  "uuid": "2d29c4b5-8dad-42df-986f-70c81e9cb78f",
   "board": "/town set board [msg]",
-  "founder": "FIASH1",
+  "founder": "prgi",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC27",
-   "uuid": "92cadce4-8d83-203c-9c55-5f7097b7a7ea"
+   "name": "prgi",
+   "uuid": "a7a68303-a501-4374-b0ed-46399a2fd292"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1781168007344,
+   "registered": 1791566789796,
    "joinedNationAt": null,
-   "ruinedAt": 1791280802188
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,101 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30458.079051757006,
-    "y": 68.0,
-    "z": -7622.299508634561,
-    "pitch": 12.600021,
-    "yaw": -175.87537
+    "x": 8667.809706232405,
+    "y": 65.0,
+    "z": -16156.591323295434,
+    "pitch": 22.12328,
+    "yaw": 87.16675
    },
    "homeBlock": [
-    -1904,
-    -477
+    541,
+    -1010
    ],
    "townBlocks": [
     [
-     -1903,
-     -476
-    ],
-    [
-     -1903,
-     -475
-    ],
-    [
-     -1904,
-     -477
-    ],
-    [
-     -1905,
-     -475
-    ],
-    [
-     -1904,
-     -476
-    ],
-    [
-     -1905,
-     -476
-    ],
-    [
-     -1905,
-     -477
-    ],
-    [
-     -1904,
-     -475
+     541,
+     -1010
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC27",
-    "uuid": "92cadce4-8d83-203c-9c55-5f7097b7a7ea"
+    "name": "prgi",
+    "uuid": "a7a68303-a501-4374-b0ed-46399a2fd292"
    }
   ],
   "trusted": [],

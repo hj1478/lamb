@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Milano",
   "uuid": "655f7445-e10d-4e7c-b0ea-1936c8c11726",
@@ -8,26 +8,26 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Batom0",
-   "uuid": "326580ef-317e-4f90-893a-1adc12fddbfc"
+   "name": "aegea__",
+   "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": "Genoa",
+   "uuid": "afa716a4-e6e1-4d7f-b16f-7e30ae1a7046"
   },
   "timestamps": {
    "registered": 1776494215392,
-   "joinedNationAt": 1780558194351,
+   "joinedNationAt": 1791579398388,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
-   "isOverClaimed": false,
+   "isCapital": true,
+   "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 95,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 7,
+   "numTrusted": 3,
    "numOutlaws": 13,
    "balance": 4.0,
-   "forSalePrice": 10000.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3113.5212847360176,
-    "y": 43.0,
-    "z": -9050.763056392869,
-    "pitch": 1.2000113,
-    "yaw": -179.14429
+    "x": 3115.2147609594135,
+    "y": 73.0,
+    "z": -9054.549564874918,
+    "pitch": 14.550028,
+    "yaw": -176.7876
    },
    "homeBlock": [
     194,
@@ -486,9 +486,38 @@
    {
     "name": "itsLambi09_",
     "uuid": "49443fb9-1d49-47e8-9014-df30d920e16d"
+   },
+   {
+    "name": "sinewavess",
+    "uuid": "fd57ec58-dde7-4543-921f-465a735fce9f"
+   },
+   {
+    "name": "CaptainRyna",
+    "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+   },
+   {
+    "name": "aegea__",
+    "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
+   },
+   {
+    "name": "ToonyWise",
+    "uuid": "ebbaee74-95e0-41c9-a7e1-95ec865b2706"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "CaptainRyna",
+    "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+   },
+   {
+    "name": "4daniel",
+    "uuid": "5078196f-ad1d-4d95-b536-8935d139eb40"
+   },
+   {
+    "name": "aegea__",
+    "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
+   }
+  ],
   "outlaws": [
    {
     "name": "blademaster163",

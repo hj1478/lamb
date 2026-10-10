@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Lake_House",
-  "uuid": "be43e495-c25f-4019-a104-2dac94511a6c",
+  "name": "NPHQ",
+  "uuid": "b1e2239d-3bd1-4e42-9fce-e15a96fc9dce",
   "board": "/town set board [msg]",
-  "founder": "kevinman0310",
+  "founder": "Ncgx",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC43",
-   "uuid": "dd1e16e9-70b7-202c-8bce-532cd1cec9ef"
+   "name": "Ncgx",
+   "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1783960954567,
+   "registered": 1791590051567,
    "joinedNationAt": null,
-   "ruinedAt": 1791280803991
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,61 +47,77 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 37610.083951091925,
-    "y": 71.0,
-    "z": -12446.578718149492,
-    "pitch": 30.135475,
-    "yaw": -13.167969
+    "x": 49339.873829318196,
+    "y": 72.0,
+    "z": -13961.220654491648,
+    "pitch": 27.97277,
+    "yaw": -174.68425
    },
    "homeBlock": [
-    2350,
-    -778
+    3083,
+    -873
    ],
    "townBlocks": [
     [
-     2350,
-     -778
+     3083,
+     -874
+    ],
+    [
+     3083,
+     -873
+    ],
+    [
+     3084,
+     -873
+    ],
+    [
+     3084,
+     -874
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC43",
-    "uuid": "dd1e16e9-70b7-202c-8bce-532cd1cec9ef"
+    "name": "Ncgx",
+    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
+   },
+   {
+    "name": "ilvyaz",
+    "uuid": "0a9efad0-d067-4a93-bd09-4207382fafb8"
    }
   ],
   "trusted": [],
@@ -109,7 +125,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "ilvyaz",
+     "uuid": "0a9efad0-d067-4a93-bd09-4207382fafb8"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

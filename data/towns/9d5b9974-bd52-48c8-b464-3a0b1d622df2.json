@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Khabez-Circassia",
   "uuid": "9d5b9974-bd52-48c8-b464-3a0b1d622df2",
@@ -8,8 +8,8 @@
   "wiki": "https://wiki.earthmc.net/wiki/Nostra:Circassia",
   "discord": null,
   "mayor": {
-   "name": "Liptink0",
-   "uuid": "a4ec7bc5-a582-4c87-8ac4-65c271347a46"
+   "name": "GamerCagri",
+   "uuid": "0b36d54b-aeaf-4e1b-978a-1828b843880a"
   },
   "nation": {
    "name": "Iberia",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 28,
-   "balance": 28.0,
+   "numTrusted": 5,
+   "numOutlaws": 30,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15285.263267932742,
-    "y": 314.0625,
-    "z": -8839.922558059689,
-    "pitch": 23.22341,
-    "yaw": 91.72302
+    "x": 15291.60401043025,
+    "y": 88.0,
+    "z": -8839.398746505143,
+    "pitch": -2.504455,
+    "yaw": -90.38318
    },
    "homeBlock": [
     955,
@@ -544,14 +544,22 @@
   },
   "residents": [
    {
-    "name": "Liptink0",
-    "uuid": "a4ec7bc5-a582-4c87-8ac4-65c271347a46"
+    "name": "GamerCagri",
+    "uuid": "0b36d54b-aeaf-4e1b-978a-1828b843880a"
    }
   ],
   "trusted": [
    {
+    "name": "GamerCagri",
+    "uuid": "0b36d54b-aeaf-4e1b-978a-1828b843880a"
+   },
+   {
     "name": "Hatuqay",
     "uuid": "d9ef0399-1a19-4a22-a6e4-6b6b64244d33"
+   },
+   {
+    "name": "Liptink0",
+    "uuid": "a4ec7bc5-a582-4c87-8ac4-65c271347a46"
    },
    {
     "name": "KatzeMango",
@@ -674,6 +682,14 @@
    {
     "name": "NNacheZs47",
     "uuid": "b6fd0607-fbed-42ca-871b-3e6e8ddc4789"
+   },
+   {
+    "name": "felixsgt",
+    "uuid": "fb727536-85ac-4e35-a8dd-f1eef6616f3a"
+   },
+   {
+    "name": "ItzGlazzy",
+    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
    }
   ],
   "quarters": [],

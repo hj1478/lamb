@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Aurelith",
   "uuid": "c1c7c6e3-143e-4b7f-9938-d025c546222b",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 6,
+   "numTrusted": 2,
+   "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35916.52508705485,
-    "y": 68.0,
-    "z": -12641.989482263865,
-    "pitch": 33.750034,
-    "yaw": -15.682129
+    "x": -35929.48295638948,
+    "y": 56.0,
+    "z": -12628.978430601686,
+    "pitch": 13.897665,
+    "yaw": 178.57361
    },
    "homeBlock": [
-    -2245,
-    -791
+    -2246,
+    -790
    ],
    "townBlocks": [
     [
@@ -216,6 +216,10 @@
    {
     "name": "SaladeKat",
     "uuid": "75007fe3-6a18-40c9-85c9-ebc65a9a50a3"
+   },
+   {
+    "name": "_Manly196898_",
+    "uuid": "f582a52f-226a-454d-b364-b438339904db"
    }
   ],
   "outlaws": [
@@ -242,6 +246,10 @@
    {
     "name": "Smarket",
     "uuid": "17cb6cf8-c153-4ec7-abba-91a683277c34"
+   },
+   {
+    "name": "TheRealPotatoGuy",
+    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
    }
   ],
   "quarters": [],

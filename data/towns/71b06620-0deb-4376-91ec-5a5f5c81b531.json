@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Strawberry_Roan",
-  "uuid": "fca2a5e7-7ede-48af-862b-8c17b52fdaa9",
+  "name": "Hawally",
+  "uuid": "71b06620-0deb-4376-91ec-5a5f5c81b531",
   "board": "/town set board [msg]",
-  "founder": "mrwide49",
+  "founder": "MegalomaniacJack",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC24",
-   "uuid": "cda9aba6-56f5-20a8-a268-f5fac537d8ff"
+   "name": "MegalomaniacJack",
+   "uuid": "5a2f0c92-df1d-4436-980a-7bd360ca694d"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1783834957693,
+   "registered": 1791560590389,
    "joinedNationAt": null,
-   "ruinedAt": 1791280801418
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,80 +35,93 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 3,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -38043.78741254849,
-    "y": 101.0,
-    "z": -7182.589740924042,
-    "pitch": 42.150005,
-    "yaw": 166.40625
+    "x": 17128.710288730326,
+    "y": 65.0,
+    "z": -2583.5991968474846,
+    "pitch": 2.0999825,
+    "yaw": 2.565979
    },
    "homeBlock": [
-    -2378,
-    -449
+    1070,
+    -162
    ],
    "townBlocks": [
     [
-     -2378,
-     -449
+     1071,
+     -163
     ],
     [
-     -2378,
-     -450
+     1070,
+     -162
+    ],
+    [
+     1070,
+     -163
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC24",
-    "uuid": "cda9aba6-56f5-20a8-a268-f5fac537d8ff"
+    "name": "MegalomaniacJack",
+    "uuid": "5a2f0c92-df1d-4436-980a-7bd360ca694d"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "All_in_Guy",
+    "uuid": "b0c2b0cd-1467-4c54-bec7-ea0748393ea9"
+   },
+   {
+    "name": "AddaadaAdda",
+    "uuid": "6c8dd447-50fc-4cd4-9e7a-e89321d0ff05"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

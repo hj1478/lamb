@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Belfast",
   "uuid": "66109419-c63e-4be8-8a21-69975e38ef7a",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 140,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 3,
    "balance": 0.0,
@@ -670,6 +670,10 @@
    {
     "name": "mad_trogis",
     "uuid": "57ba78b5-a4b1-443f-bd3b-b293d21fe859"
+   },
+   {
+    "name": "JackScullion",
+    "uuid": "6495f1c9-4eb7-4dac-a23b-f275e82a86a4"
    }
   ],
   "trusted": [],

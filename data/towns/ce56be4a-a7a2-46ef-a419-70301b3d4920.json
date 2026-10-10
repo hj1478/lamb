@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Zugdidi",
   "uuid": "ce56be4a-a7a2-46ef-a419-70301b3d4920",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 8,
+   "numTrusted": 9,
    "numOutlaws": 7,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15515.483942407109,
+    "x": 15512.097734344608,
     "y": 99.0,
-    "z": -8201.699999988079,
-    "pitch": 39.449997,
-    "yaw": 9.196035
+    "z": -8192.83199280414,
+    "pitch": 9.300012,
+    "yaw": -29.202854
    },
    "homeBlock": [
     969,
@@ -341,6 +341,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "Zgrift",
+    "uuid": "2fa067e3-c989-4b7a-9ee2-6093546ea58e"
+   },
    {
     "name": "VanilKedy",
     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"

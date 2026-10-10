@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "TheLand",
   "uuid": "88ea9546-011d-42d9-98bf-e33a5f37d7c3",
@@ -12,12 +12,12 @@
    "uuid": "90af7865-8cde-42d0-b0b8-81c2ab423629"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "RSA",
+   "uuid": "d1c8c00f-4c43-4527-a2e2-5d2aeb55809c"
   },
   "timestamps": {
    "registered": 1791138938654,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791583133071,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -91,6 +91,10 @@
     1200
    ],
    "townBlocks": [
+    [
+     580,
+     1201
+    ],
     [
      580,
      1200

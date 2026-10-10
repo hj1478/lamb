@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Sappho",
-  "uuid": "dbf8e4b0-1ceb-460f-8f92-d4d03c5655c3",
-  "board": "hello!!",
-  "founder": "ymirisi",
+  "name": "SolyLuna",
+  "uuid": "47607633-45d1-46d7-840e-bb7dc732d844",
+  "board": "/town set board [msg]",
+  "founder": "MedSim",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC44",
-   "uuid": "a231d740-9ab6-20b8-847a-1a9dedd79f32"
+   "name": "MedSim",
+   "uuid": "7331d249-ef67-4de3-a457-74da311395f4"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787552759608,
+   "registered": 1791548396780,
    "joinedNationAt": null,
-   "ruinedAt": 1791280804098
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,83 +36,92 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 24.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35671.96369244325,
+    "x": -21241.831474232284,
     "y": 63.0,
-    "z": 5366.632947082225,
-    "pitch": 15.239604,
-    "yaw": 134.69559
+    "z": 20445.03660097079,
+    "pitch": 17.849945,
+    "yaw": -165.32635
    },
    "homeBlock": [
-    2229,
-    335
+    -1328,
+    1277
    ],
    "townBlocks": [
     [
-     2229,
-     335
+     -1327,
+     1277
     ],
     [
-     2229,
-     336
+     -1328,
+     1277
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC44",
-    "uuid": "a231d740-9ab6-20b8-847a-1a9dedd79f32"
+    "name": "MedSim",
+    "uuid": "7331d249-ef67-4de3-a457-74da311395f4"
+   },
+   {
+    "name": "laLucyyy",
+    "uuid": "fe8bbfda-9d75-482f-a49f-ca736c571cad"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "laLucyyy",
+     "uuid": "fe8bbfda-9d75-482f-a49f-ca736c571cad"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

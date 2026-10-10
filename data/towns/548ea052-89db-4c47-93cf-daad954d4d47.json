@@ -1,115 +1,114 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Karaman",
-  "uuid": "f99bac08-4215-4064-9a9c-6d8f97259d65",
+  "name": "BP",
+  "uuid": "548ea052-89db-4c47-93cf-daad954d4d47",
   "board": "/town set board [msg]",
-  "founder": "intqrr",
+  "founder": "JetWarrior360",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC88",
-   "uuid": "cd5d2519-9d4c-20ce-94b1-975ce3f23b42"
+   "name": "JetWarrior360",
+   "uuid": "751d52ad-9391-4a12-af72-cf2d97155fb0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
-   "registered": 1790346390307,
-   "joinedNationAt": null,
-   "ruinedAt": 1791299917306
+   "registered": 1791571286754,
+   "joinedNationAt": 1791571297605,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11897.972240086654,
-    "y": 78.0,
-    "z": -5702.922385011069,
-    "pitch": 5.1111693,
-    "yaw": 122.11724
+    "x": 15976.152644259755,
+    "y": 84.0,
+    "z": 1426.6100405645966,
+    "pitch": 33.50481,
+    "yaw": -107.52149
    },
    "homeBlock": [
-    743,
-    -357
+    998,
+    89
    ],
    "townBlocks": [
     [
-     743,
-     -357
+     998,
+     88
+    ],
+    [
+     998,
+     89
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC88",
-    "uuid": "cd5d2519-9d4c-20ce-94b1-975ce3f23b42"
+    "name": "JetWarrior360",
+    "uuid": "751d52ad-9391-4a12-af72-cf2d97155fb0"
    }
   ],
-  "trusted": [
-   {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,115 +1,107 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Grzybowo",
-  "uuid": "d45910c1-70b5-47e8-b3ca-228a906a3318",
-  "board": "After the Grzybowo Beach!",
-  "founder": "HaxerXD",
+  "name": "Isafjord",
+  "uuid": "69d58e87-57fe-4514-b624-1103b67d28af",
+  "board": "/town set board [msg]",
+  "founder": "sidh1375",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC7",
-   "uuid": "69094071-cb8c-2054-b08b-e607f440f640"
+   "name": "sidh1375",
+   "uuid": "c2783a26-d1fe-4da3-8659-23cf25a426b0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Thule",
+   "uuid": "0c81bcac-39e7-4aa6-af2e-a8846849b3f4"
   },
   "timestamps": {
-   "registered": 1787187898841,
-   "joinedNationAt": null,
-   "ruinedAt": 1791280803644
+   "registered": 1791549036541,
+   "joinedNationAt": 1791549916044,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5621.699999988079,
-    "y": 64.0,
-    "z": -13466.146644822764,
-    "pitch": 19.887087,
-    "yaw": -178.07999
+    "x": -18594.36258492165,
+    "y": 63.0,
+    "z": -19022.344482483728,
+    "pitch": 15.045866,
+    "yaw": 157.81334
    },
    "homeBlock": [
-    351,
-    -842
+    -1163,
+    -1189
    ],
    "townBlocks": [
     [
-     351,
-     -844
-    ],
-    [
-     351,
-     -842
-    ],
-    [
-     351,
-     -843
+     -1163,
+     -1189
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC7",
-    "uuid": "69094071-cb8c-2054-b08b-e607f440f640"
+    "name": "sidh1375",
+    "uuid": "c2783a26-d1fe-4da3-8659-23cf25a426b0"
    }
   ],
   "trusted": [],

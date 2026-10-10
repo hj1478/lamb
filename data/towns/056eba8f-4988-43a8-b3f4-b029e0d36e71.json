@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Yellowstone",
   "uuid": "056eba8f-4988-43a8-b3f4-b029e0d36e71",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 249,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 20,
    "balance": 277.0,
@@ -1104,6 +1104,10 @@
     "uuid": "ddb54a50-d5e4-4f18-8f89-bd64754331e9"
    },
    {
+    "name": "Sgt_Xenon4",
+    "uuid": "bbee68bb-b9ef-402a-bddc-919e75c244c5"
+   },
+   {
     "name": "w_chr0nix",
     "uuid": "41c6063d-5313-4268-94a9-efd1b025bea9"
    },
@@ -1199,7 +1203,12 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "Sgt_Xenon4",
+     "uuid": "bbee68bb-b9ef-402a-bddc-919e75c244c5"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

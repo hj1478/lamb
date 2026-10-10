@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Space_City",
   "uuid": "e64a31c6-c065-4e7b-9640-a3ee4bf4033f",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 9,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 16.0,
    "forSalePrice": null
   },
@@ -120,6 +120,10 @@
      -191
     ],
     [
+     -2164,
+     -191
+    ],
+    [
      -2162,
      -189
     ]
@@ -137,7 +141,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Pumahawk",
+    "uuid": "bcd29861-f54e-494d-b753-7319edfd056d"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Augrabies",
   "uuid": "8d91a3f9-9ce9-43b7-8dbd-96f879d17e8f",
@@ -41,8 +41,8 @@
    "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 371.0,
+   "numOutlaws": 1,
+   "balance": 378.0,
    "forSalePrice": null
   },
   "perms": {
@@ -201,7 +201,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "skryll_seeker",
+    "uuid": "76fa3c8c-d0ab-4c3a-a270-657d2b0cb505"
+   }
+  ],
   "quarters": [
    {
     "name": "Welcome",

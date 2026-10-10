@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:42:55Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Sapporo",
   "uuid": "1f604643-4d6a-433f-9a63-da1bbfddbfce",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 440,
-   "maxTownBlocks": 440,
+   "maxTownBlocks": 416,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 30,
+   "numResidents": 28,
    "numTrusted": 10,
    "numOutlaws": 1,
    "balance": 373.0,
@@ -1896,10 +1896,6 @@
     "uuid": "dd4aec74-a472-497c-9dfc-ee848ffce546"
    },
    {
-    "name": "Rassezz259",
-    "uuid": "acd063d1-45e6-4a9a-bac1-b8a923106559"
-   },
-   {
     "name": "InterstellarGas",
     "uuid": "96dce50f-4d0c-4c61-82e2-25b4af41912d"
    },
@@ -1970,10 +1966,6 @@
    {
     "name": "neko8kawayoi22",
     "uuid": "a4566b12-db7d-4794-b27f-d48e38743cf4"
-   },
-   {
-    "name": "yukiyuura",
-    "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
    }
   ],
   "trusted": [
@@ -2026,12 +2018,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "yukiyuura",
-     "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

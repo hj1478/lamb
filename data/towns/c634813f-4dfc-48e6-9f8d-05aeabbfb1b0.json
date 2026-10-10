@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Sabac",
   "uuid": "c634813f-4dfc-48e6-9f8d-05aeabbfb1b0",
@@ -8,28 +8,28 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "aegea__",
-   "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
+   "name": "NPC104",
+   "uuid": "ac481a6b-ba67-20ed-b30a-113c6f78c8b4"
   },
   "nation": {
-   "name": "Serbia",
-   "uuid": "afa716a4-e6e1-4d7f-b16f-7e30ae1a7046"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786889716096,
-   "joinedNationAt": 1786889801473,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791583864046
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -47,44 +47,44 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7047.1618645672015,
-    "y": 200.0,
-    "z": -9119.587578700166,
-    "pitch": 1.8980261,
-    "yaw": 110.85807
+    "x": 7049.699705617311,
+    "y": 64.0,
+    "z": -9114.876622084605,
+    "pitch": 24.436235,
+    "yaw": -85.171814
    },
    "homeBlock": [
     440,
@@ -192,12 +192,12 @@
     "uuid": "67c93243-1c12-42cc-98c5-08c3b5427c59"
    },
    {
-    "name": "aegea__",
-    "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
-   },
-   {
     "name": "szilagyzsolti",
     "uuid": "8d69ef45-c06b-4362-b162-d7d891f35c80"
+   },
+   {
+    "name": "NPC104",
+    "uuid": "ac481a6b-ba67-20ed-b30a-113c6f78c8b4"
    }
   ],
   "trusted": [

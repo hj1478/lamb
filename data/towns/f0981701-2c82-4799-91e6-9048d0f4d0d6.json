@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
-  "name": "Riverfell",
-  "uuid": "b6b65167-8258-422f-9d07-2e0b0a76972c",
-  "board": "The North Remembers",
-  "founder": "KikoCapy",
+  "name": "Anhalt",
+  "uuid": "f0981701-2c82-4799-91e6-9048d0f4d0d6",
+  "board": "/town set board [msg]",
+  "founder": "coorslightyear",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC26",
-   "uuid": "3022091c-2b9f-2006-b980-dccee74b8763"
+   "name": "coorslightyear",
+   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Denmark",
+   "uuid": "73f18d06-0647-4146-a27b-cfa22b5792b2"
   },
   "timestamps": {
-   "registered": 1786452943000,
-   "joinedNationAt": null,
-   "ruinedAt": 1791280802135
+   "registered": 1791546966061,
+   "joinedNationAt": 1791546970459,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,93 +47,93 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8163.4897639779165,
-    "y": 63.0,
-    "z": -8894.915053281451,
-    "pitch": 12.30002,
-    "yaw": 28.744232
+    "x": 4160.5549095812285,
+    "y": 62.9375,
+    "z": -14839.482969629367,
+    "pitch": 53.90676,
+    "yaw": 138.16357
    },
    "homeBlock": [
-    510,
-    -556
+    260,
+    -928
    ],
    "townBlocks": [
     [
-     510,
-     -554
+     259,
+     -930
     ],
     [
-     510,
-     -555
+     259,
+     -929
     ],
     [
-     509,
-     -556
+     259,
+     -928
     ],
     [
-     508,
-     -554
+     258,
+     -929
     ],
     [
-     508,
-     -555
+     258,
+     -928
     ],
     [
-     509,
-     -554
+     258,
+     -930
     ],
     [
-     508,
-     -556
+     260,
+     -929
     ],
     [
-     509,
-     -555
+     260,
+     -930
     ],
     [
-     510,
-     -556
+     260,
+     -928
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC26",
-    "uuid": "3022091c-2b9f-2006-b980-dccee74b8763"
+    "name": "coorslightyear",
+    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
    }
   ],
   "trusted": [],

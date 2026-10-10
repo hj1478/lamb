@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T10:32:41Z",
+ "fetched_at": "2026-10-10T01:09:17Z",
  "data": {
   "name": "Akelia",
   "uuid": "81b528bd-e26b-414c-aa34-0ea83963822a",
@@ -23,7 +23,7 @@
   "status": {
    "isPublic": true,
    "isOpen": true,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
-   "maxTownBlocks": 120,
+   "numTownBlocks": 44,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 5,
-   "numTrusted": 1,
-   "numOutlaws": 13,
-   "balance": 43.0,
+   "numResidents": 7,
+   "numTrusted": 2,
+   "numOutlaws": 15,
+   "balance": 226.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,6 +104,10 @@
      -849
     ],
     [
+     3121,
+     -846
+    ],
+    [
      3115,
      -845
     ],
@@ -114,6 +118,10 @@
     [
      3118,
      -848
+    ],
+    [
+     3121,
+     -845
     ],
     [
      3115,
@@ -140,6 +148,10 @@
      -845
     ],
     [
+     3120,
+     -844
+    ],
+    [
      3115,
      -849
     ],
@@ -188,8 +200,16 @@
      -848
     ],
     [
+     3119,
+     -844
+    ],
+    [
      3116,
      -849
+    ],
+    [
+     3121,
+     -847
     ],
     [
      3119,
@@ -270,9 +290,21 @@
    {
     "name": "JOsh345568",
     "uuid": "125925b4-0060-4ebd-bde9-fc6ef29aa8da"
+   },
+   {
+    "name": "Dictaormbappe",
+    "uuid": "80b716de-a54c-4724-9fc0-07f5194c1d09"
+   },
+   {
+    "name": "Xx_Hazardous",
+    "uuid": "0168233e-0a05-40ba-8673-ffc9eaaaf65b"
    }
   ],
   "trusted": [
+   {
+    "name": "MasterEWild",
+    "uuid": "afc38883-d149-41c2-aea6-0942a42e96f3"
+   },
    {
     "name": "Daninatorw",
     "uuid": "c97e5351-be4b-43e7-bfc5-f28a99ede7a5"
@@ -330,6 +362,14 @@
    {
     "name": "MileysMilkers",
     "uuid": "6e80a7a1-3712-417e-8e66-89488ab7520e"
+   },
+   {
+    "name": "Ncgx",
+    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
+   },
+   {
+    "name": "ilvyaz",
+    "uuid": "0a9efad0-d067-4a93-bd09-4207382fafb8"
    }
   ],
   "quarters": [
@@ -366,7 +406,12 @@
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "Inquisitor_Vron",
+     "uuid": "d31196c7-05ba-4e3e-b989-a36809e750e5"
+    }
+   ],
    "Settler": [
     {
      "name": "_Monki____",
