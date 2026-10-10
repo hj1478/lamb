@@ -27,9 +27,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      # Check out the branch tip, not the run's original commit, so re-runs of old runs still push cleanly
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref }}
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -51,12 +54,13 @@ jobs:
             exit 0
           fi
           git commit -m "Update towns: cycle $(jq .cycle data/state.json), $(jq .last_run_fetched data/state.json) fetched"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
 
       - name: Publish map to GitHub Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: map
 
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
