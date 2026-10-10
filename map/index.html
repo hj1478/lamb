@@ -1,0 +1,434 @@
+<meta charset="utf-8">
+<title>EarthMC Spawn Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: full-bleed map canvas; floating control panel on the left (bottom sheet on phones); detail card for the selected town. Single dark "chart room" look, chosen deliberately. */
+:root {
+  --ink: #0b1119;          /* page / ocean-dark ground */
+  --panel: #121a25;        /* floating surfaces */
+  --panel-2: #1a2432;      /* inputs, rows on hover */
+  --line: #273345;         /* hairlines */
+  --fg: #e6ecf3;           /* primary text */
+  --muted: #8b99ab;        /* secondary text */
+  --beacon: #ffb547;       /* outsider-spawn accent */
+  --beacon-ink: #2a1a00;
+  --ok: #6fd39b;
+  --no: #ef7a7a;
+  --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--ink); color: var(--fg); font: 14px/1.45 var(--f-body); overflow: hidden; }
+#map { position: fixed; inset: 0; width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+#map.dragging { cursor: grabbing; }
+
+.panel {
+  position: fixed; left: 16px; top: calc(16px + env(safe-area-inset-top, 0px)); bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  width: 330px; max-width: calc(100% - 32px);
+  display: flex; flex-direction: column; gap: 12px;
+  background: color-mix(in srgb, var(--panel) 94%, transparent); backdrop-filter: blur(8px);
+  border: 1px solid var(--line); border-radius: 10px; padding: 16px; box-sizing: border-box;
+  box-shadow: 0 12px 40px rgba(0,0,0,.45);
+}
+h1 { margin: 0; font: 800 22px/1.1 var(--f-display); letter-spacing: -.01em; text-wrap: balance; }
+h1 span { color: var(--beacon); }
+.sub { margin: 4px 0 0; color: var(--muted); font-size: 12.5px; }
+.sub b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+.search { width: 100%; box-sizing: border-box; background: var(--panel-2); color: var(--fg); border: 1px solid var(--line); border-radius: 7px; padding: 9px 11px; font: inherit; }
+.search:focus-visible, button:focus-visible, .row:focus-visible, label:focus-within { outline: 2px solid var(--beacon); outline-offset: 1px; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; font-size: 12.5px; cursor: pointer; user-select: none; color: var(--muted); }
+.chip input { accent-color: var(--beacon); margin: 0; }
+.chip:has(input:checked) { color: var(--fg); border-color: color-mix(in srgb, var(--beacon) 55%, var(--line)); }
+
+.listhead { display: flex; justify-content: space-between; align-items: baseline; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.list { flex: 1; min-height: 0; overflow-y: auto; margin: 0 -8px; padding: 0; list-style: none; }
+.row { display: grid; grid-template-columns: 10px 1fr auto; gap: 2px 9px; align-items: center; padding: 6px 8px; border-radius: 6px; cursor: pointer; }
+.row:hover, .row[aria-selected="true"] { background: var(--panel-2); }
+.row .sw { width: 10px; height: 10px; border-radius: 2px; }
+.row .nm { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 500; }
+.row .co { font: 11.5px var(--f-mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.row .na { grid-column: 2 / 4; font-size: 12px; color: var(--muted); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 10px; }
+.legend i { display: inline-block; vertical-align: -1px; margin-right: 5px; }
+.lg-b { width: 9px; height: 9px; background: var(--beacon); transform: rotate(45deg); outline: 1.5px solid var(--beacon-ink); }
+.lg-d { width: 6px; height: 6px; border-radius: 50%; background: var(--fg); }
+.lg-c { width: 12px; height: 9px; background: linear-gradient(90deg, #d76b6b, #6b9bd7, #8fd76b); opacity: .8; }
+
+.card {
+  position: fixed; right: 16px; top: calc(16px + env(safe-area-inset-top, 0px)); width: 300px; max-width: calc(100% - 32px); box-sizing: border-box;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; box-shadow: 0 12px 40px rgba(0,0,0,.45);
+  display: grid; gap: 10px;
+}
+.card h2 { margin: 0; font: 800 20px/1.15 var(--f-display); overflow-wrap: anywhere; padding-right: 28px; }
+.card .nation { color: var(--muted); margin-top: -6px; }
+.close { position: absolute; right: 10px; top: 10px; width: 28px; height: 28px; border-radius: 6px; border: 0; background: transparent; color: var(--muted); font-size: 18px; cursor: pointer; }
+.close:hover { background: var(--panel-2); color: var(--fg); }
+.badges { display: flex; flex-wrap: wrap; gap: 5px; }
+.badge { font-size: 11.5px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
+.badge.yes { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 40%, var(--line)); }
+.badge.no { color: var(--no); border-color: color-mix(in srgb, var(--no) 35%, var(--line)); }
+.badge.beacon { background: var(--beacon); color: var(--beacon-ink); border-color: var(--beacon); font-weight: 600; }
+dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 13px; }
+dt { color: var(--muted); }
+dd { margin: 0; font-variant-numeric: tabular-nums; min-width: 0; overflow-wrap: anywhere; }
+dd.mono { font-family: var(--f-mono); font-size: 12.5px; }
+.cmd { display: flex; gap: 6px; }
+.cmd code { flex: 1; min-width: 0; overflow-x: auto; white-space: nowrap; background: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px; font: 12.5px var(--f-mono); user-select: all; }
+.btn { border: 1px solid var(--line); background: var(--panel-2); color: var(--fg); border-radius: 6px; padding: 6px 10px; font: 500 12.5px var(--f-body); cursor: pointer; white-space: nowrap; }
+.btn:hover { border-color: var(--muted); }
+.card a { color: var(--beacon); font-size: 12.5px; }
+
+.hud { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); display: flex; gap: 8px; align-items: center; }
+.coords { font: 12px var(--f-mono); background: color-mix(in srgb, var(--panel) 90%, transparent); border: 1px solid var(--line); border-radius: 6px; padding: 5px 9px; color: var(--muted); font-variant-numeric: tabular-nums; min-width: 9ch; text-align: center; }
+.zoom { display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.zoom button { width: 32px; height: 30px; border: 0; background: var(--panel); color: var(--fg); font-size: 17px; cursor: pointer; }
+.zoom button + button { border-top: 1px solid var(--line); }
+.zoom button:hover { background: var(--panel-2); }
+.tip { position: fixed; pointer-events: none; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px; font-size: 12.5px; white-space: nowrap; transform: translate(12px, 12px); }
+.tip small { color: var(--muted); }
+.loading { position: fixed; inset: 0; display: grid; place-items: center; color: var(--muted); font: 13px var(--f-mono); }
+
+@media (max-width: 720px) {
+  .panel { top: auto; left: 0; right: 0; bottom: 0; width: 100%; max-width: 100%; height: 42%; border-radius: 12px 12px 0 0; padding: 12px 16px calc(12px + env(safe-area-inset-bottom, 0px)); gap: 8px; }
+  h1 { font-size: 18px; }
+  .legend { display: none; }
+  .card { top: calc(12px + env(safe-area-inset-top, 0px)); right: 16px; left: 16px; width: auto; max-width: none; padding: 12px 14px; gap: 8px; }
+  .hud { bottom: calc(42% + 12px); }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+<canvas id="map" aria-label="Map of EarthMC towns"></canvas>
+<div class="loading" id="loading">Loading 5,800 towns…</div>
+
+<aside class="panel" aria-label="Town finder">
+  <div>
+    <h1>Spawn <span>Atlas</span></h1>
+    <p class="sub" id="summary">EarthMC towns you can teleport to as an outsider.</p>
+  </div>
+  <input class="search" id="q" type="search" placeholder="Search town, nation or mayor" autocomplete="off" spellcheck="false">
+  <div class="filters">
+    <label class="chip"><input type="checkbox" id="f-spawn" checked> Outsider spawn</label>
+    <label class="chip"><input type="checkbox" id="f-public"> Public</label>
+    <label class="chip"><input type="checkbox" id="f-open"> Open to join</label>
+  </div>
+  <div class="listhead"><span id="count">—</span><span>spawn x, z</span></div>
+  <ul class="list" id="list" role="listbox" aria-label="Matching towns"></ul>
+  <div class="legend">
+    <span><i class="lg-b"></i>Outsider spawn</span>
+    <span><i class="lg-d"></i>Other town</span>
+    <span><i class="lg-c"></i>Claims, by nation</span>
+  </div>
+</aside>
+
+<section class="card" id="card" hidden aria-live="polite"></section>
+
+<div class="hud">
+  <div class="coords" id="coords">x, z</div>
+  <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button></div>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+(() => {
+  // World geometry: blocks x ∈ [-64512, 64512), z ∈ [-32256, 32256); terrain image is 32 blocks/px.
+  const WX = -64512, WZ = -32256, WW = 129024, WH = 64512;
+  const F_SPAWN = 1, F_PUBLIC = 2, F_OPEN = 4, F_CAPITAL = 8, F_RUINED = 16, F_NEUTRAL = 32, F_SALE = 64;
+
+  const cv = document.getElementById('map'), ctx = cv.getContext('2d');
+  const $ = id => document.getElementById(id);
+  let W = 0, H = 0, dpr = 1;
+  let s = 0.01, ox = 0, oy = 0;           // screen = world * s + o
+  let img = null, data = null, towns = [], nations = [];
+  let chunkOwner = new Map();
+  let paths = [];                         // [{color, path, dim}]
+  let matches = [];                       // indices passing filters
+  let matchSet = new Set();
+  let selected = -1, hover = -1;
+
+  const hueOf = name => { let h = 2166136261; for (const c of name) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); } return (h >>> 0) % 360; };
+  const nationColor = i => i < 0 ? 'hsl(210 10% 72%)' : `hsl(${hueOf(nations[i])} 70% 58%)`;
+  const fmt = n => n.toLocaleString('en-US');
+
+  function resize() {
+    dpr = Math.min(window.devicePixelRatio || 1, 2);
+    W = cv.clientWidth; H = cv.clientHeight;
+    cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr);
+    draw();
+  }
+  function fit() {
+    const narrow = W <= 720;
+    const availW = narrow ? W : W - 362, availH = narrow ? H * 0.58 : H;
+    s = Math.min(availW / WW, availH / WH) * 0.98;
+    ox = (narrow ? 0 : 362) + (availW - WW * s) / 2 - WX * s;
+    oy = (availH - WH * s) / 2 - WZ * s;
+  }
+  const toWorld = (px, py) => [(px - ox) / s, (py - oy) / s];
+  function zoomAt(px, py, k) {
+    const ns = Math.max(0.004, Math.min(8, s * k));
+    k = ns / s; ox = px - (px - ox) * k; oy = py - (py - oy) * k; s = ns; draw();
+  }
+  function flyTo(i) {
+    const t = towns[i]; const ns = Math.max(s, 0.6);
+    const narrow = W <= 720;
+    const cx = narrow ? W / 2 : 362 + (W - 362) / 2, cy = narrow ? H * 0.3 : H / 2;
+    s = ns; ox = cx - t[5] * s; oy = cy - t[7] * s; draw();
+  }
+
+  function buildPaths() {
+    const groups = new Map();
+    for (let i = 0; i < towns.length; i++) {
+      const t = towns[i], on = matchSet.has(i);
+      const key = on ? t[1] : 'dim';
+      let p = groups.get(key); if (!p) groups.set(key, p = new Path2D());
+      const r = t[9];
+      for (let j = 0; j < r.length; j += 3) p.rect(r[j + 1] * 16, r[j] * 16, r[j + 2] * 16, 16);
+    }
+    paths = [...groups].map(([k, path]) => ({ path, dim: k === 'dim', color: k === 'dim' ? 'rgba(200,210,225,0.28)' : nationColor(k) }));
+    paths.sort((a, b) => b.dim - a.dim);
+  }
+  const key = (cx, cz) => (cx + 4096) * 8192 + (cz + 2048);
+  let outline = null;
+  function townOutline(i) {
+    // border segments: chunk edges whose neighbour belongs to another town (or none)
+    const p = new Path2D(), r = towns[i][9], mine = (cx, cz) => chunkOwner.get(key(cx, cz)) === i;
+    for (let j = 0; j < r.length; j += 3) {
+      const z = r[j];
+      for (let x = r[j + 1], e = x + r[j + 2]; x < e; x++) {
+        const X = x * 16, Z = z * 16;
+        if (!mine(x, z - 1)) { p.moveTo(X, Z); p.lineTo(X + 16, Z); }
+        if (!mine(x, z + 1)) { p.moveTo(X, Z + 16); p.lineTo(X + 16, Z + 16); }
+        if (!mine(x - 1, z)) { p.moveTo(X, Z); p.lineTo(X, Z + 16); }
+        if (!mine(x + 1, z)) { p.moveTo(X + 16, Z); p.lineTo(X + 16, Z + 16); }
+      }
+    }
+    return p;
+  }
+
+  let raf = 0;
+  function draw() { if (!raf) raf = requestAnimationFrame(render); }
+  function render() {
+    raf = 0;
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.fillStyle = '#0b1119'; ctx.fillRect(0, 0, W, H);
+    ctx.setTransform(s * dpr, 0, 0, s * dpr, ox * dpr, oy * dpr);
+    if (img) {
+      ctx.imageSmoothingEnabled = true; ctx.imageSmoothingQuality = 'high';
+      ctx.drawImage(img, WX, WZ, WW, WH);
+      ctx.fillStyle = 'rgba(8,13,20,0.42)'; ctx.fillRect(WX, WZ, WW, WH);
+    }
+    if (!data) return;
+    for (const g of paths) {
+      ctx.fillStyle = g.color; ctx.globalAlpha = g.dim ? 1 : 0.72; ctx.fill(g.path);
+    }
+    ctx.globalAlpha = 1;
+    if (selected >= 0) {
+      ctx.lineWidth = 2.5 / s; ctx.lineCap = 'square'; ctx.strokeStyle = '#ffffff'; ctx.stroke(outline);
+    }
+
+    // markers in screen space
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    const [x0, z0] = toWorld(-20, -20), [x1, z1] = toWorld(W + 20, H + 20);
+    const showDots = s > 0.03;
+    if (showDots) {
+      ctx.fillStyle = 'rgba(235,240,247,0.9)';
+      for (let i = 0; i < towns.length; i++) {
+        const t = towns[i]; if ((t[4] & F_SPAWN) && matchSet.has(i)) continue;
+        if (t[5] < x0 || t[5] > x1 || t[7] < z0 || t[7] > z1) continue;
+        ctx.beginPath(); ctx.arc(t[5] * s + ox, t[7] * s + oy, s > 0.3 ? 2.5 : 1.6, 0, 6.2832); ctx.fill();
+      }
+    }
+    const R = s > 0.15 ? 6 : s > 0.03 ? 4.5 : 3.2;
+    ctx.lineWidth = 1.5; ctx.strokeStyle = '#2a1a00'; ctx.fillStyle = '#ffb547';
+    for (const i of matches) {
+      const t = towns[i]; if (!(t[4] & F_SPAWN)) continue;
+      if (t[5] < x0 || t[5] > x1 || t[7] < z0 || t[7] > z1) continue;
+      const x = t[5] * s + ox, y = t[7] * s + oy;
+      ctx.beginPath(); ctx.moveTo(x, y - R); ctx.lineTo(x + R, y); ctx.lineTo(x, y + R); ctx.lineTo(x - R, y); ctx.closePath();
+      ctx.fill(); ctx.stroke();
+    }
+    // labels
+    if (s > 0.2) {
+      ctx.font = '500 12px "IBM Plex Sans", system-ui, sans-serif'; ctx.textBaseline = 'middle';
+      ctx.lineJoin = 'round'; ctx.lineWidth = 3.5; ctx.strokeStyle = 'rgba(8,13,20,0.9)';
+      const taken = [];
+      const order = matches.filter(i => towns[i][4] & F_SPAWN).concat(s > 0.5 ? towns.map((_, i) => i) : []);
+      const seen = new Set();
+      for (const i of order) {
+        if (seen.has(i)) continue; seen.add(i);
+        const t = towns[i]; if (t[5] < x0 || t[5] > x1 || t[7] < z0 || t[7] > z1) continue;
+        const x = t[5] * s + ox + 9, y = t[7] * s + oy, w = ctx.measureText(t[0]).width;
+        if (taken.some(b => x < b[2] && x + w > b[0] && y - 8 < b[3] && y + 8 > b[1])) continue;
+        taken.push([x, y - 8, x + w, y + 8]);
+        ctx.fillStyle = (t[4] & F_SPAWN) && matchSet.has(i) ? '#ffd28a' : '#dfe6ef';
+        ctx.strokeText(t[0].replace(/_/g, ' '), x, y); ctx.fillText(t[0].replace(/_/g, ' '), x, y);
+        if (taken.length > 400) break;
+      }
+    }
+    if (selected >= 0) {
+      const t = towns[selected], x = t[5] * s + ox, y = t[7] * s + oy;
+      ctx.lineWidth = 2; ctx.strokeStyle = '#ffffff';
+      ctx.beginPath(); ctx.arc(x, y, 11, 0, 6.2832); ctx.stroke();
+    }
+  }
+
+  // ---- filters + list
+  function applyFilters() {
+    const q = $('q').value.trim().toLowerCase();
+    const needSpawn = $('f-spawn').checked, needPublic = $('f-public').checked, needOpen = $('f-open').checked;
+    matches = [];
+    for (let i = 0; i < towns.length; i++) {
+      const t = towns[i], f = t[4];
+      if (needSpawn && !(f & F_SPAWN)) continue;
+      if (needPublic && !(f & F_PUBLIC)) continue;
+      if (needOpen && !(f & F_OPEN)) continue;
+      if (q && !(t[0].toLowerCase().includes(q) || (t[1] >= 0 && nations[t[1]].toLowerCase().includes(q)) || (t[2] || '').toLowerCase().includes(q))) continue;
+      matches.push(i);
+    }
+    matchSet = new Set(matches);
+    buildPaths(); renderList(); draw();
+  }
+  function renderList() {
+    $('count').textContent = `${fmt(matches.length)} town${matches.length === 1 ? '' : 's'}`;
+    const ul = $('list'); ul.textContent = '';
+    const frag = document.createDocumentFragment();
+    for (const i of matches.slice(0, 600)) {
+      const t = towns[i], li = document.createElement('li');
+      li.className = 'row'; li.tabIndex = 0; li.setAttribute('role', 'option'); li.dataset.i = i;
+      li.setAttribute('aria-selected', i === selected);
+      li.innerHTML = `<span class="sw"></span><span class="nm"></span><span class="co"></span><span class="na"></span>`;
+      li.children[0].style.background = nationColor(t[1]);
+      li.children[1].textContent = t[0].replace(/_/g, ' ');
+      li.children[2].textContent = `${t[5]}, ${t[7]}`;
+      li.children[3].textContent = (t[1] >= 0 ? nations[t[1]].replace(/_/g, ' ') : 'No nation') + ` · ${t[3]} resident${t[3] === 1 ? '' : 's'}`;
+      frag.appendChild(li);
+    }
+    if (matches.length > 600) { const li = document.createElement('li'); li.className = 'row'; li.innerHTML = `<span></span><span class="na" style="grid-column:2/4">Showing 600 of ${fmt(matches.length)}. Search to narrow.</span>`; frag.appendChild(li); }
+    ul.appendChild(frag);
+  }
+  $('list').addEventListener('click', e => { const li = e.target.closest('.row[data-i]'); if (li) select(+li.dataset.i, true); });
+  $('list').addEventListener('keydown', e => { if (e.key === 'Enter') { const li = e.target.closest('.row[data-i]'); if (li) select(+li.dataset.i, true); } });
+  ['f-spawn', 'f-public', 'f-open'].forEach(id => $(id).addEventListener('change', applyFilters));
+  let qt; $('q').addEventListener('input', () => { clearTimeout(qt); qt = setTimeout(applyFilters, 120); });
+  $('q').addEventListener('keydown', e => { if (e.key === 'Enter' && matches.length) select(matches[0], true); });
+
+  // ---- detail card
+  function select(i, fly) {
+    selected = i;
+    document.querySelectorAll('.row[aria-selected="true"]').forEach(r => r.setAttribute('aria-selected', 'false'));
+    const row = document.querySelector(`.row[data-i="${i}"]`); if (row) row.setAttribute('aria-selected', 'true');
+    outline = i >= 0 ? townOutline(i) : null;
+    if (i < 0) { $('card').hidden = true; draw(); return; }
+    const t = towns[i], f = t[4], card = $('card');
+    const chunks = t[9].reduce((a, v, j) => j % 3 === 2 ? a + v : a, 0);
+    const name = t[0];
+    const b = (on, yes, no) => `<span class="badge ${on ? 'yes' : 'no'}">${on ? yes : no}</span>`;
+    card.innerHTML = `
+      <button class="close" aria-label="Close">×</button>
+      <h2></h2><div class="nation"></div>
+      <div class="badges">
+        ${f & F_SPAWN ? '<span class="badge beacon">Outsider spawn on</span>' : '<span class="badge no">Outsider spawn off</span>'}
+        ${b(f & F_PUBLIC, 'Public', 'Private')}${b(f & F_OPEN, 'Open', 'Closed')}
+        ${f & F_CAPITAL ? '<span class="badge">Capital</span>' : ''}${f & F_RUINED ? '<span class="badge no">Ruined</span>' : ''}
+        ${f & F_NEUTRAL ? '<span class="badge">Neutral</span>' : ''}${f & F_SALE ? '<span class="badge">For sale</span>' : ''}
+      </div>
+      <dl>
+        <dt>Spawn</dt><dd class="mono">${t[5]}, ${t[6]}, ${t[7]}</dd>
+        <dt>Mayor</dt><dd class="mayor"></dd>
+        <dt>Residents</dt><dd>${fmt(t[3] ?? 0)}</dd>
+        <dt>Claims</dt><dd>${fmt(chunks)} chunks</dd>
+        <dt>Checked</dt><dd>${t[8].replace('T', ' ').replace(':00Z', '').replace('Z', '')} UTC</dd>
+      </dl>
+      <div class="cmd"><code></code><button class="btn" type="button">Copy</button></div>
+      <a target="_blank" rel="noopener" href="https://map.earthmc.net/?world=minecraft_overworld&zoom=5&x=${t[5]}&z=${t[7]}">Open on the live EarthMC map ↗</a>`;
+    card.querySelector('h2').textContent = name.replace(/_/g, ' ');
+    card.querySelector('.nation').textContent = t[1] >= 0 ? nations[t[1]].replace(/_/g, ' ') : 'No nation';
+    card.querySelector('.mayor').textContent = t[2] || '—';
+    const code = card.querySelector('code'); code.textContent = `/t spawn ${name}`;
+    const btn = card.querySelector('.btn');
+    btn.onclick = () => {
+      const done = () => { btn.textContent = 'Copied'; setTimeout(() => btn.textContent = 'Copy', 1400); };
+      try { navigator.clipboard.writeText(code.textContent).then(done, () => selectText(code)); } catch { selectText(code); }
+    };
+    card.querySelector('.close').onclick = () => select(-1);
+    card.hidden = false;
+    if (fly) flyTo(i); else draw();
+  }
+  function selectText(el) { const r = document.createRange(); r.selectNodeContents(el); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); }
+
+  // ---- hit testing
+  function townAt(px, py) {
+    // spawn markers first (screen distance), then claimed chunk
+    const R = 8; let best = -1, bd = R * R;
+    for (const i of matches) {
+      const t = towns[i]; if (!(t[4] & F_SPAWN)) continue;
+      const dx = t[5] * s + ox - px, dy = t[7] * s + oy - py, d = dx * dx + dy * dy;
+      if (d < bd) { bd = d; best = i; }
+    }
+    if (best >= 0) return best;
+    const [wx, wz] = toWorld(px, py);
+    const k = key(Math.floor(wx / 16), Math.floor(wz / 16));
+    return chunkOwner.has(k) ? chunkOwner.get(k) : -1;
+  }
+
+  // ---- pointer interaction
+  const pts = new Map(); let moved = false, pinch = 0;
+  cv.addEventListener('pointerdown', e => { cv.setPointerCapture(e.pointerId); pts.set(e.pointerId, [e.clientX, e.clientY]); moved = false; cv.classList.add('dragging'); });
+  cv.addEventListener('pointermove', e => {
+    const [wx, wz] = toWorld(e.clientX, e.clientY);
+    $('coords').textContent = `${Math.round(wx)}, ${Math.round(wz)}`;
+    if (!pts.has(e.pointerId)) {
+      if (e.pointerType === 'mouse' && data) {
+        const i = townAt(e.clientX, e.clientY), tip = $('tip');
+        if (i !== hover) { hover = i; if (i >= 0) { const t = towns[i]; tip.innerHTML = '<b></b> <small></small>'; tip.firstChild.textContent = t[0].replace(/_/g, ' '); tip.lastChild.textContent = t[1] >= 0 ? nations[t[1]].replace(/_/g, ' ') : ''; } tip.hidden = i < 0; }
+        if (i >= 0) { tip.style.left = e.clientX + 'px'; tip.style.top = e.clientY + 'px'; }
+        cv.style.cursor = i >= 0 ? 'pointer' : '';
+      }
+      return;
+    }
+    const prev = pts.get(e.pointerId); pts.set(e.pointerId, [e.clientX, e.clientY]);
+    if (pts.size === 2) {
+      const [a, b] = [...pts.values()], d = Math.hypot(a[0] - b[0], a[1] - b[1]);
+      if (pinch) zoomAt((a[0] + b[0]) / 2, (a[1] + b[1]) / 2, d / pinch);
+      pinch = d; moved = true; return;
+    }
+    const dx = e.clientX - prev[0], dy = e.clientY - prev[1];
+    if (Math.abs(dx) + Math.abs(dy) > 0) { if (Math.abs(dx) + Math.abs(dy) > 2) moved = true; ox += dx; oy += dy; draw(); }
+  });
+  const up = e => {
+    if (pts.has(e.pointerId) && !moved && pts.size === 1 && data && e.type === 'pointerup') select(townAt(e.clientX, e.clientY), false);
+    pts.delete(e.pointerId); if (pts.size < 2) pinch = 0; if (!pts.size) cv.classList.remove('dragging');
+  };
+  cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
+  cv.addEventListener('pointerleave', () => { $('tip').hidden = true; hover = -1; });
+  cv.addEventListener('wheel', e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY * (e.deltaMode ? 0.05 : 0.0018))); }, { passive: false });
+  cv.addEventListener('dblclick', e => zoomAt(e.clientX, e.clientY, 2));
+  $('zin').onclick = () => zoomAt(W / 2, H / 2, 1.6);
+  $('zout').onclick = () => zoomAt(W / 2, H / 2, 1 / 1.6);
+  addEventListener('keydown', e => { if (e.key === 'Escape') select(-1); });
+  addEventListener('resize', resize);
+
+  // ---- boot
+  resize(); fit(); draw();
+  const im = new Image(); im.onload = () => { img = im; draw(); }; im.src = 'terrain.jpg';
+  fetch('towns.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
+    data = d; towns = d.towns; nations = d.nations;
+    for (let i = 0; i < towns.length; i++) {
+      const r = towns[i][9];
+      for (let j = 0; j < r.length; j += 3) for (let x = r[j + 1], e = x + r[j + 2]; x < e; x++) chunkOwner.set(key(x, r[j]), i);
+    }
+    const nSpawn = towns.filter(t => t[4] & F_SPAWN).length;
+    const latest = towns.reduce((m, t) => t[8] > m ? t[8] : m, '').slice(0, 10);
+    $('summary').innerHTML = `<b>${fmt(nSpawn)}</b> of <b>${fmt(towns.length)}</b> towns allow outsider spawn. Data as of <b>${latest}</b>.`;
+    $('loading').remove();
+    applyFilters();
+  }).catch(err => { $('loading').textContent = `Could not load town data (${err.message}).`; });
+})();
+</script>

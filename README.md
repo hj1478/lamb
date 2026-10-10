@@ -27,3 +27,12 @@ staler data, not saved quota.
 
     python3 earthmc_towns.py                      # one rotation step
     python3 earthmc_towns.py --days-per-cycle 1   # full refresh
+
+## Map
+
+`map/index.html` is an interactive map: every town's claims coloured by nation, towns with outsider
+spawn marked, search and filters, and a `/t spawn` command for each town. `make_map.py` builds
+`map/towns.json` from the stored town files (the daily workflow runs it too). `map/terrain.jpg` is a
+one-time stitch of the 32 most zoomed-out tiles from map.earthmc.net. To view it locally:
+
+    cd map && python3 -m http.server   # then open http://localhost:8000
