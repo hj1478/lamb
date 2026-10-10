@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "Medford",
   "uuid": "6e6c7331-ced1-499b-9d38-4b57424cfa53",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 17,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 4.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -102,6 +102,10 @@
     [
      -1597,
      -522
+    ],
+    [
+     -1596,
+     -521
     ],
     [
      -1598,

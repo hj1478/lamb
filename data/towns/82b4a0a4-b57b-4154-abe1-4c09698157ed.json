@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "Blue_Compound",
-  "uuid": "3314e514-73a4-4f92-9b54-fc65bfa2a37b",
+  "name": "Blakwood",
+  "uuid": "82b4a0a4-b57b-4154-abe1-4c09698157ed",
   "board": "/town set board [msg]",
-  "founder": "DresAlt",
+  "founder": "lollopollo2013",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC49",
-   "uuid": "3686fe6d-9e2b-2061-8647-9ed1d9b259f1"
+   "name": "LordCocco",
+   "uuid": "643bea62-c4ab-4f62-9fe6-eceadb4e73d2"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787354718108,
+   "registered": 1791612405762,
    "joinedNationAt": null,
-   "ruinedAt": 1791367201924
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,91 +36,100 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 128.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26639.654746232096,
-    "y": 129.0,
-    "z": 5267.312546760423,
-    "pitch": 16.799923,
-    "yaw": -82.15494
+    "x": 16754.936321521374,
+    "y": 68.0,
+    "z": -13077.300000011921,
+    "pitch": 79.94999,
+    "yaw": -54.43579
    },
    "homeBlock": [
-    -1665,
-    329
+    1047,
+    -818
    ],
    "townBlocks": [
     [
-     -1665,
-     329
+     1047,
+     -818
     ],
     [
-     -1665,
-     330
+     1047,
+     -819
     ],
     [
-     -1666,
-     330
+     1046,
+     -819
     ],
     [
-     -1666,
-     329
+     1046,
+     -818
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC49",
-    "uuid": "3686fe6d-9e2b-2061-8647-9ed1d9b259f1"
+    "name": "lollopollo2013",
+    "uuid": "007bdd07-8c2b-44ed-99ce-05cc8490be5e"
+   },
+   {
+    "name": "LordCocco",
+    "uuid": "643bea62-c4ab-4f62-9fe6-eceadb4e73d2"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "lollopollo2013",
+     "uuid": "007bdd07-8c2b-44ed-99ce-05cc8490be5e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

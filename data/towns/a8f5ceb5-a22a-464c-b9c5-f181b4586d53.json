@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "Silver_Coast",
-  "uuid": "e903b3c5-29d7-4a36-bcee-11b4f94e0ed7",
+  "name": "Diomede",
+  "uuid": "a8f5ceb5-a22a-464c-b9c5-f181b4586d53",
   "board": "/town set board [msg]",
-  "founder": "eReJemre",
+  "founder": "SladerMC",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC133",
-   "uuid": "0c6b3675-f8b0-2080-b9bc-84079a9ed92f"
+   "name": "SladerMC",
+   "uuid": "c4dc4a86-52b6-4e2b-b752-ce29bf4b9a01"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787263445331,
+   "registered": 1791633618210,
    "joinedNationAt": null,
-   "ruinedAt": 1791367200427
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,66 +42,66 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 54913.88928906345,
-    "y": 63.0,
-    "z": 19099.253247187586,
-    "pitch": 15.90032,
-    "yaw": -57.89911
+    "x": -44150.38305665649,
+    "y": 99.0,
+    "z": -7716.37099650936,
+    "pitch": 43.200005,
+    "yaw": -2.0462852
    },
    "homeBlock": [
-    3432,
-    1193
+    -2760,
+    -483
    ],
    "townBlocks": [
     [
-     3432,
-     1193
+     -2760,
+     -483
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC133",
-    "uuid": "0c6b3675-f8b0-2080-b9bc-84079a9ed92f"
+    "name": "SladerMC",
+    "uuid": "c4dc4a86-52b6-4e2b-b752-ce29bf4b9a01"
    }
   ],
   "trusted": [],

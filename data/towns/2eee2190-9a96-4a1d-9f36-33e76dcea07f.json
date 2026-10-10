@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "New_Casino",
-  "uuid": "38381948-7f5c-41e1-9c65-9ccadda99e40",
-  "board": "The Great Atlanta Casino founded by Sl1nkerbell!",
-  "founder": "Sl1nkerbell",
+  "name": "Embassy_Of_MC",
+  "uuid": "2eee2190-9a96-4a1d-9f36-33e76dcea07f",
+  "board": "/town set board [msg]",
+  "founder": "SPLAXog",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC53",
-   "uuid": "8cf1eed9-1263-2077-9ef9-1c972b4cc08e"
+   "name": "SPLAXog",
+   "uuid": "00875017-bf44-4c47-b663-897e723f842e"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1778920351287,
+   "registered": 1791624831903,
    "joinedNationAt": null,
-   "ruinedAt": 1791367202708
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,97 +35,80 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30109.011256848924,
-    "y": 72.0,
-    "z": -4709.008335116399,
-    "pitch": 33.704884,
-    "yaw": -108.44841
+    "x": -29125.73180601349,
+    "y": 65.0,
+    "z": -371.7670715574292,
+    "pitch": 32.054207,
+    "yaw": -98.46637
    },
    "homeBlock": [
-    -1882,
-    -295
+    -1821,
+    -24
    ],
    "townBlocks": [
     [
-     -1882,
-     -294
+     -1821,
+     -25
     ],
     [
-     -1882,
-     -295
-    ],
-    [
-     -1881,
-     -295
-    ],
-    [
-     -1881,
-     -294
-    ],
-    [
-     -1883,
-     -295
+     -1821,
+     -24
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC53",
-    "uuid": "8cf1eed9-1263-2077-9ef9-1c972b4cc08e"
+    "name": "SPLAXog",
+    "uuid": "00875017-bf44-4c47-b663-897e723f842e"
    }
   ],
-  "trusted": [
-   {
-    "name": "MakRouss",
-    "uuid": "f08ba846-6de5-45e1-89f6-fa55e3a224ce"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

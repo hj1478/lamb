@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "Uppsala",
   "uuid": "895d1f3a-a707-45ac-9f90-f58fec025921",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 12,
    "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 5,
-   "numTrusted": 3,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 28.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     399,
+     -1036
+    ],
+    [
+     399,
+     -1035
+    ],
+    [
+     399,
+     -1038
+    ],
+    [
+     399,
+     -1037
+    ],
+    [
      400,
      -1037
     ],
@@ -109,6 +125,10 @@
     ],
     [
      401,
+     -1035
+    ],
+    [
+     401,
      -1036
     ],
     [
@@ -117,22 +137,6 @@
     ],
     [
      401,
-     -1037
-    ],
-    [
-     399,
-     -1036
-    ],
-    [
-     399,
-     -1035
-    ],
-    [
-     399,
-     -1038
-    ],
-    [
-     399,
      -1037
     ]
    ],
@@ -166,6 +170,10 @@
     "uuid": "5ba78eec-d730-4691-85f0-cf2b697187a3"
    },
    {
+    "name": "LilOzzyOzz",
+    "uuid": "250c2e1d-1107-495c-bcce-809ec3a5ddf8"
+   },
+   {
     "name": "Gustaf_MJR",
     "uuid": "906007d8-1ece-4bc5-a81b-4221b689abf8"
    },
@@ -185,10 +193,6 @@
     "uuid": "c06746cb-e09a-4d46-bab6-dc8c150e72c7"
    },
    {
-    "name": "Welcoming Dwelling",
-    "uuid": "d5b9d11a-9f57-4c76-b061-4ba8e3469d0e"
-   },
-   {
     "name": "Annoying Tenement",
     "uuid": "611cad89-7486-4bf7-ab79-98c3db3a9655"
    },
@@ -197,8 +201,20 @@
     "uuid": "0027a268-9b41-444d-991d-854bbe225154"
    },
    {
+    "name": "Welcoming Apartment",
+    "uuid": "954a6b63-1ead-429d-8d8a-a1adefb68d3e"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "56b87cfb-cac3-495a-8750-0ebc6b830e40"
+   },
+   {
     "name": "Welcoming Property",
     "uuid": "b8427547-98d5-4c3b-a2d9-d1313640fac9"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "d5b9d11a-9f57-4c76-b061-4ba8e3469d0e"
    }
   ],
   "ranks": {

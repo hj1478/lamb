@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "Daiyakushin",
   "uuid": "7504ed26-24fe-42d4-a272-6c969a2f1bf8",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 12,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -606,7 +606,12 @@
     "uuid": "de8e668b-24db-473f-a951-ccce2d22fee2"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "sudaniki",
+    "uuid": "8f1b4106-f4f0-40ee-8ea1-5595a229da5b"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "ELgrad",
   "uuid": "7c1f5d41-dfd4-4347-b51b-0d9a5536111d",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 38,
-   "maxTownBlocks": 184,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 8,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -156,6 +156,10 @@
      -733
     ],
     [
+     1099,
+     -733
+    ],
+    [
      1095,
      -735
     ],
@@ -174,6 +178,10 @@
     [
      1095,
      -733
+    ],
+    [
+     1098,
+     -736
     ],
     [
      1095,
@@ -274,10 +282,19 @@
    {
     "name": "Adde_orchid",
     "uuid": "ecd325c2-6b71-461d-a677-b1807c0e1aa1"
+   },
+   {
+    "name": "Mr_Green_Bean01",
+    "uuid": "ab057dd5-b268-4f2f-9a86-2e0d89e0d9eb"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "akabur",
+    "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

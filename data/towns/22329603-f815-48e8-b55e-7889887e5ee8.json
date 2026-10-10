@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "Chulinitas",
-  "uuid": "0c9ddab3-1817-414b-befb-c7313c5a4223",
+  "name": "Alcala",
+  "uuid": "22329603-f815-48e8-b55e-7889887e5ee8",
   "board": "/town set board [msg]",
-  "founder": "BlasterAAB",
+  "founder": "Marxary",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC57",
-   "uuid": "a67384b1-28ec-201d-80f9-137a55ecfee6"
+   "name": "Marxary",
+   "uuid": "ded17ed8-438d-4159-8a9f-89b7ab8a5743"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787617711037,
+   "registered": 1791603210556,
    "joinedNationAt": null,
-   "ruinedAt": 1791367202988
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,77 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 18.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1799.4218319440636,
-    "y": 65.0,
-    "z": -7768.825842831786,
-    "pitch": 42.14999,
-    "yaw": 160.54974
+    "x": -27308.268163410132,
+    "y": 85.0,
+    "z": 6548.617061308501,
+    "pitch": 17.101278,
+    "yaw": -87.62598
    },
    "homeBlock": [
-    -113,
-    -486
+    -1707,
+    409
    ],
    "townBlocks": [
     [
-     -113,
-     -486
-    ],
-    [
-     -112,
-     -486
+     -1707,
+     409
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC57",
-    "uuid": "a67384b1-28ec-201d-80f9-137a55ecfee6"
+    "name": "Marxary",
+    "uuid": "ded17ed8-438d-4159-8a9f-89b7ab8a5743"
    }
   ],
   "trusted": [],

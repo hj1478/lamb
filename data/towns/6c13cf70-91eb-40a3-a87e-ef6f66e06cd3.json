@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "Sho_Battai",
-  "uuid": "0f87534d-3a99-494e-b714-a5d48e874798",
-  "board": "A small town in the desert",
-  "founder": "FarmerBill1175",
+  "name": "Skeleton_Coast",
+  "uuid": "6c13cf70-91eb-40a3-a87e-ef6f66e06cd3",
+  "board": "/town set board [msg]",
+  "founder": "WideN1p",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC51",
-   "uuid": "b037e5b8-ecdb-2018-947a-82894805c81e"
+   "name": "WideN1p",
+   "uuid": "994628db-0c33-4f42-ac42-5e3fd62076b0"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1776467336602,
+   "registered": 1791611689891,
    "joinedNationAt": null,
-   "ruinedAt": 1791367202627
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,117 +35,93 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 569.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 30073.498984978338,
-    "y": 85.0,
-    "z": -6871.834371125688,
-    "pitch": 24.241526,
-    "yaw": -2.8238757
+    "x": 4598.300000011921,
+    "y": -14.0,
+    "z": 14321.260483480204,
+    "pitch": 13.049669,
+    "yaw": -27.732666
    },
    "homeBlock": [
-    1879,
-    -430
+    287,
+    895
    ],
    "townBlocks": [
     [
-     1880,
-     -430
+     287,
+     894
     ],
     [
-     1880,
-     -429
+     286,
+     895
     ],
     [
-     1878,
-     -429
+     287,
+     895
     ],
     [
-     1880,
-     -432
+     287,
+     896
     ],
     [
-     1880,
-     -431
+     288,
+     895
     ],
     [
-     1878,
-     -431
-    ],
-    [
-     1879,
-     -431
-    ],
-    [
-     1878,
-     -430
-    ],
-    [
-     1879,
-     -432
-    ],
-    [
-     1879,
-     -429
-    ],
-    [
-     1878,
-     -432
-    ],
-    [
-     1879,
-     -430
+     288,
+     896
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC51",
-    "uuid": "b037e5b8-ecdb-2018-947a-82894805c81e"
+    "name": "WideN1p",
+    "uuid": "994628db-0c33-4f42-ac42-5e3fd62076b0"
    }
   ],
   "trusted": [],

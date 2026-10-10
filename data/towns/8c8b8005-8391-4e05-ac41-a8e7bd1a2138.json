@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-10T12:41:26Z",
+ "data": {
+  "name": "Wakanda",
+  "uuid": "8c8b8005-8391-4e05-ac41-a8e7bd1a2138",
+  "board": "/town set board [msg]",
+  "founder": "PaperGoy",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "PaperGoy",
+   "uuid": "7e8e0087-3f36-4f8f-be9c-6725b358fed4"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791622767689,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 9337.576067072197,
+    "y": 86.0,
+    "z": 18827.040411736827,
+    "pitch": 20.250048,
+    "yaw": -100.924805
+   },
+   "homeBlock": [
+    583,
+    1176
+   ],
+   "townBlocks": [
+    [
+     583,
+     1176
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "PaperGoy",
+    "uuid": "7e8e0087-3f36-4f8f-be9c-6725b358fed4"
+   },
+   {
+    "name": "BENNY_DOVER88",
+    "uuid": "dedcdb9a-96ad-4d0d-b796-6691e4b657be"
+   },
+   {
+    "name": "Beekeeper_12",
+    "uuid": "1ff427ab-39f8-499c-bf10-8c5eac27366b"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "BENNY_DOVER88",
+    "uuid": "dedcdb9a-96ad-4d0d-b796-6691e4b657be"
+   },
+   {
+    "name": "BillyBJones",
+    "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

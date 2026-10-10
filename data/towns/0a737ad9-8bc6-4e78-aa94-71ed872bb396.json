@@ -1,127 +1,119 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "Riverville",
-  "uuid": "3871b06f-cc74-4b20-8aad-a931d9e62325",
-  "board": "just building",
-  "founder": "BlazingSauce18",
+  "name": "New_Springfield",
+  "uuid": "0a737ad9-8bc6-4e78-aa94-71ed872bb396",
+  "board": "/town set board [msg]",
+  "founder": "hym72",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC134",
-   "uuid": "272c5c44-167b-2089-9938-c684ad821a11"
+   "name": "hym72",
+   "uuid": "b036caff-9c4c-4214-ac6f-c29cb05b0382"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Kalaallit",
+   "uuid": "ea82be37-7775-4184-93e5-7053f546808f"
   },
   "timestamps": {
-   "registered": 1786285560282,
-   "joinedNationAt": null,
-   "ruinedAt": 1791367200494
+   "registered": 1791627348151,
+   "joinedNationAt": 1791627512793,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 29207.995646366522,
-    "y": 51.0,
-    "z": -16070.884209883863,
-    "pitch": 27.14994,
-    "yaw": 84.150444
+    "x": -8095.58450020587,
+    "y": 65.0,
+    "z": -27150.51692726461,
+    "pitch": 15.900047,
+    "yaw": -78.769714
    },
    "homeBlock": [
-    1825,
-    -1005
+    -506,
+    -1697
    ],
    "townBlocks": [
     [
-     1824,
-     -1005
+     -507,
+     -1697
     ],
     [
-     1824,
-     -1004
+     -506,
+     -1697
     ],
     [
-     1825,
-     -1004
+     -506,
+     -1698
     ],
     [
-     1823,
-     -1005
-    ],
-    [
-     1823,
-     -1004
-    ],
-    [
-     1825,
-     -1005
+     -507,
+     -1698
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC134",
-    "uuid": "272c5c44-167b-2089-9938-c684ad821a11"
+    "name": "hym72",
+    "uuid": "b036caff-9c4c-4214-ac6f-c29cb05b0382"
    }
   ],
   "trusted": [],

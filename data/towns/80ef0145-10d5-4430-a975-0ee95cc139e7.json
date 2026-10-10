@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "Snowy_Island",
   "uuid": "80ef0145-10d5-4430-a975-0ee95cc139e7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "maxymanmoon",
-   "uuid": "617119b6-1e46-4929-88b9-b5adbb0fb33a"
+   "name": "NPC42",
+   "uuid": "4f559f56-c3e3-2075-8bcc-a5838b6b85e1"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1784751703040,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791626402320
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": false,
+   "isOverClaimed": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,7 +36,7 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 0,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "maxymanmoon",
-    "uuid": "617119b6-1e46-4929-88b9-b5adbb0fb33a"
+    "name": "NPC42",
+    "uuid": "4f559f56-c3e3-2075-8bcc-a5838b6b85e1"
    }
   ],
   "trusted": [],

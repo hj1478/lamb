@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "Exterminatus",
   "uuid": "7def2ca1-47ec-4d7e-8f26-21dbf21440e6",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
+   "numTownBlocks": 22,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -124,6 +124,10 @@
      572
     ],
     [
+     -1273,
+     572
+    ],
+    [
      -1275,
      571
     ],
@@ -166,6 +170,14 @@
     [
      -1273,
      568
+    ],
+    [
+     -1276,
+     569
+    ],
+    [
+     -1274,
+     573
     ]
    ],
    "worlds": {}

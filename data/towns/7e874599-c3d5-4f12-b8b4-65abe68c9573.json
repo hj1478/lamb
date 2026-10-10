@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
-  "name": "River_Springs",
-  "uuid": "f446a9b3-538d-4d16-b8ec-8f04953ff145",
+  "name": "Isparta",
+  "uuid": "7e874599-c3d5-4f12-b8b4-65abe68c9573",
   "board": "/town set board [msg]",
-  "founder": "tuzeytrades",
+  "founder": "spookfalan",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC18",
-   "uuid": "fb6db9c1-cfb7-20c2-8a89-37fbf3d75f4c"
+   "name": "spookfalan",
+   "uuid": "6cf1f30e-1362-48d1-847b-4ce5bd17c263"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787633588279,
+   "registered": 1791628365798,
    "joinedNationAt": null,
-   "ruinedAt": 1791367200943
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,81 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40946.69999998808,
-    "y": 96.0,
-    "z": 7427.300000011921,
-    "pitch": -30.600016,
-    "yaw": 90.61035
+    "x": 11122.278113122466,
+    "y": 67.0,
+    "z": -6402.300000011921,
+    "pitch": 28.950016,
+    "yaw": 153.0097
    },
    "homeBlock": [
-    2559,
-    464
+    695,
+    -401
    ],
    "townBlocks": [
     [
-     2559,
-     467
-    ],
-    [
-     2559,
-     465
-    ],
-    [
-     2559,
-     466
-    ],
-    [
-     2560,
-     465
-    ],
-    [
-     2559,
-     463
-    ],
-    [
-     2559,
-     464
+     695,
+     -401
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC18",
-    "uuid": "fb6db9c1-cfb7-20c2-8a89-37fbf3d75f4c"
+    "name": "spookfalan",
+    "uuid": "6cf1f30e-1362-48d1-847b-4ce5bd17c263"
    }
   ],
   "trusted": [],

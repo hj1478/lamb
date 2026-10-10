@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T12:41:26Z",
  "data": {
   "name": "Arabia",
   "uuid": "82d33027-8964-4a3c-8f4c-ada102577443",
@@ -12,12 +12,12 @@
    "uuid": "44f685f3-417a-4c14-9607-a9287a170a5f"
   },
   "nation": {
-   "name": "Arabia",
-   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780826638399,
-   "joinedNationAt": 1790391585965,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 6,
    "numOutlaws": 2,
