@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-10T02:07:22Z",
  "data": {
-  "name": "DiddyChudVille",
-  "uuid": "eda25320-9f9d-4cea-9ddb-480856995249",
-  "board": "pig",
-  "founder": "36hoi",
+  "name": "Bay_Of_Fundy",
+  "uuid": "e6a7a2c8-1093-4798-aa09-2e3d47354635",
+  "board": "/town set board [msg]",
+  "founder": "HeyYa2",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC131",
-   "uuid": "ac516758-00a8-2022-99ca-e0d8a49bc892"
+   "name": "HeyYa2",
+   "uuid": "95d3051b-ca35-41be-881b-fb8171ad0330"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1791181403605,
+   "registered": 1791597070283,
    "joinedNationAt": null,
-   "ruinedAt": 1791332615216
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -40,76 +40,71 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3673.159264006487,
+    "x": -23183.79935314869,
     "y": 64.0,
-    "z": -4567.314708114126,
-    "pitch": 29.80954,
-    "yaw": 7.4599304
+    "z": -9355.991638993784,
+    "pitch": 14.185564,
+    "yaw": -168.39772
    },
    "homeBlock": [
-    229,
-    -286
+    -1449,
+    -585
    ],
    "townBlocks": [
     [
-     229,
-     -286
+     -1449,
+     -585
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC131",
-    "uuid": "ac516758-00a8-2022-99ca-e0d8a49bc892"
+    "name": "HeyYa2",
+    "uuid": "95d3051b-ca35-41be-881b-fb8171ad0330"
    }
   ],
-  "trusted": [
-   {
-    "name": "Enki_Ptah",
-    "uuid": "eef7b565-a508-4d4a-b286-8bf1bf9624fb"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
