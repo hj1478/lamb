@@ -12,6 +12,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: update-towns
@@ -21,6 +23,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -47,3 +52,11 @@ jobs:
           fi
           git commit -m "Update towns: cycle $(jq .cycle data/state.json), $(jq .last_run_fetched data/state.json) fetched"
           git push
+
+      - name: Publish map to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: map
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

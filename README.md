@@ -36,3 +36,5 @@ spawn marked, search and filters, and a `/t spawn` command for each town. `make_
 one-time stitch of the 32 most zoomed-out tiles from map.earthmc.net. To view it locally:
 
     cd map && python3 -m http.server   # then open http://localhost:8000
+
+Live copy (after enabling Pages with source "GitHub Actions"): https://hj1478.github.io/lamb/
