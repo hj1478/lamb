@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Tonco",
   "uuid": "b16a603c-eee0-4122-9ddc-f24a6bd1aae8",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FateEZ",
-   "uuid": "4d80e6ef-fb55-43f8-b3f7-1dd3812a56d8"
+   "name": "NPC120",
+   "uuid": "c4e8b448-4b2e-20d8-b1cf-89d72c833304"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778704644207,
-   "joinedNationAt": 1784651404129,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791713236798
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 93,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 1.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -468,16 +468,8 @@
   },
   "residents": [
    {
-    "name": "FateEZ",
-    "uuid": "4d80e6ef-fb55-43f8-b3f7-1dd3812a56d8"
-   },
-   {
-    "name": "samiege",
-    "uuid": "295246c9-e6fc-47f5-989f-f4417b4bf41c"
-   },
-   {
-    "name": "SirPug830",
-    "uuid": "a04cff05-9898-4860-8669-c7614912eae0"
+    "name": "NPC120",
+    "uuid": "c4e8b448-4b2e-20d8-b1cf-89d72c833304"
    }
   ],
   "trusted": [],

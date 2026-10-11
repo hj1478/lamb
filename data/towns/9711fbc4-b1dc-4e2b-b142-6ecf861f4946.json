@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Glungustopia",
   "uuid": "9711fbc4-b1dc-4e2b-b142-6ecf861f4946",
-  "board": "Come with us, we are getting more and more!",
+  "board": "Lets go faster and faster, riding on the Chollima!",
   "founder": "glaggle2001",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 58,
-   "maxTownBlocks": 86,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 14,
    "numOutlaws": 10,
-   "balance": 90.0,
+   "balance": 5.0,
    "forSalePrice": 999999999.0
   },
   "perms": {
@@ -297,7 +297,19 @@
     ],
     [
      3393,
+     -1004
+    ],
+    [
+     3393,
+     -1003
+    ],
+    [
+     3393,
      -1006
+    ],
+    [
+     3393,
+     -1005
     ],
     [
      3393,
@@ -338,6 +350,10 @@
    {
     "name": "DapperCheese",
     "uuid": "549cbaee-6a1c-4f5c-968c-b1079e32a1f4"
+   },
+   {
+    "name": "Happykid749",
+    "uuid": "778663a0-fe0a-47c9-8fa4-016dab7d6197"
    }
   ],
   "trusted": [
@@ -460,10 +476,23 @@
    {
     "name": "Inviting Quarter",
     "uuid": "fffaab8a-6f82-4827-83c4-d1a3200949b2"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "ab6d36ec-f76c-4bd6-9413-119bb2a8f8f5"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "f49eef7f-c30d-4840-975d-322a3f0bdd19"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "DapperCheese",
+     "uuid": "549cbaee-6a1c-4f5c-968c-b1079e32a1f4"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

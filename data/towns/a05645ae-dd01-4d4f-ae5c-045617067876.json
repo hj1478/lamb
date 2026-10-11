@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Shandong",
   "uuid": "a05645ae-dd01-4d4f-ae5c-045617067876",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "lordadr1an",
-   "uuid": "e9d37047-e63c-4fda-aa61-2a5f7b3f58e6"
+   "name": "NPC62",
+   "uuid": "ee0ed611-51a8-20fb-b256-e34502a913c7"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781113607983,
-   "joinedNationAt": 1781116238229,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712803364
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,8 +136,8 @@
   },
   "residents": [
    {
-    "name": "lordadr1an",
-    "uuid": "e9d37047-e63c-4fda-aa61-2a5f7b3f58e6"
+    "name": "NPC62",
+    "uuid": "ee0ed611-51a8-20fb-b256-e34502a913c7"
    }
   ],
   "trusted": [

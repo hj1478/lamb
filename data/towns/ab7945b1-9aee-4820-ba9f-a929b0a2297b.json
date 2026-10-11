@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "San_Diego",
   "uuid": "ab7945b1-9aee-4820-ba9f-a929b0a2297b",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JohnMinecraft_Jr",
-   "uuid": "8da17aa1-5f73-450d-85a8-844216f57513"
+   "name": "NPC48",
+   "uuid": "c6652673-fa88-20f1-831f-90d7a80b7439"
   },
   "nation": {
-   "name": "Pacific",
-   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782801481762,
-   "joinedNationAt": 1788066388847,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712802718
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 111,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 10,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -540,8 +540,8 @@
   },
   "residents": [
    {
-    "name": "JohnMinecraft_Jr",
-    "uuid": "8da17aa1-5f73-450d-85a8-844216f57513"
+    "name": "NPC48",
+    "uuid": "c6652673-fa88-20f1-831f-90d7a80b7439"
    }
   ],
   "trusted": [],
@@ -589,10 +589,6 @@
   ],
   "quarters": [
    {
-    "name": "Dingy Dwelling",
-    "uuid": "7871bf9a-2fb9-44be-8121-0e332b7bc29d"
-   },
-   {
     "name": "Lovely Flat",
     "uuid": "50ea6379-6a7b-4ced-9436-9eb1fdeb5e48"
    },
@@ -613,24 +609,8 @@
     "uuid": "a8294597-8e9b-4b65-b664-2968d0f2d744"
    },
    {
-    "name": "BIBI'S GOLD BLOCK BANANZA",
-    "uuid": "6a41d100-6b8c-4ea1-9d3b-ec30cbc8901e"
-   },
-   {
     "name": "Annoying Suite",
     "uuid": "ffdff797-0e40-4ecf-89f8-d28d3eae0c83"
-   },
-   {
-    "name": "SPIN THE LIGHTS",
-    "uuid": "6f6e69e4-c5ae-4334-9fad-a2c05b809e7c"
-   },
-   {
-    "name": "GIDDY UP SLOTS",
-    "uuid": "106ad797-2e8d-4b4d-b5da-e83b7be42fc7"
-   },
-   {
-    "name": "GIDDY UP SLOTS",
-    "uuid": "242fcb0a-ca9e-4b39-a4c8-16521e9b2fd0"
    },
    {
     "name": "Roulette",
@@ -651,6 +631,26 @@
    {
     "name": "slots",
     "uuid": "ed737352-91de-42ee-a1ff-ded647045792"
+   },
+   {
+    "name": "BIBI'S GOLD BLOCK BANANZA",
+    "uuid": "6a41d100-6b8c-4ea1-9d3b-ec30cbc8901e"
+   },
+   {
+    "name": "SPIN THE LIGHTS",
+    "uuid": "6f6e69e4-c5ae-4334-9fad-a2c05b809e7c"
+   },
+   {
+    "name": "GIDDY UP SLOTS",
+    "uuid": "106ad797-2e8d-4b4d-b5da-e83b7be42fc7"
+   },
+   {
+    "name": "GIDDY UP SLOTS",
+    "uuid": "242fcb0a-ca9e-4b39-a4c8-16521e9b2fd0"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "7871bf9a-2fb9-44be-8121-0e332b7bc29d"
    }
   ],
   "ranks": {

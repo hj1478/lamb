@@ -1,0 +1,142 @@
+{
+ "fetched_at": "2026-10-11T13:02:31Z",
+ "data": {
+  "name": "Point_Bigfoot",
+  "uuid": "cdd0fe88-e649-4fdb-8bf8-dae7ceebd43c",
+  "board": "/town set board [msg]",
+  "founder": "chylacupp",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "EndermanJamez",
+   "uuid": "34ca6135-a12d-4a9a-b653-554d7567adc8"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791693541562,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 29.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    true,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -37618.421015470725,
+    "y": 157.0,
+    "z": -5986.540791200198,
+    "pitch": 84.263794,
+    "yaw": 91.099976
+   },
+   "homeBlock": [
+    -2352,
+    -375
+   ],
+   "townBlocks": [
+    [
+     -2352,
+     -375
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "chylacupp",
+    "uuid": "33414827-690c-40e8-9693-8ebdb41de3a7"
+   },
+   {
+    "name": "EndermanJamez",
+    "uuid": "34ca6135-a12d-4a9a-b653-554d7567adc8"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "EndermanJamez",
+    "uuid": "34ca6135-a12d-4a9a-b653-554d7567adc8"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [
+    {
+     "name": "chylacupp",
+     "uuid": "33414827-690c-40e8-9693-8ebdb41de3a7"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "chylacupp",
+     "uuid": "33414827-690c-40e8-9693-8ebdb41de3a7"
+    }
+   ],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

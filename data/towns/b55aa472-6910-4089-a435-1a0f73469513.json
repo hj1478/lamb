@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Gym",
   "uuid": "b55aa472-6910-4089-a435-1a0f73469513",
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 4,
-   "numOutlaws": 0,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -566,7 +566,16 @@
     "uuid": "266126fd-39ee-4e77-b8ca-f92fd3cfc293"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "andriagela",
+    "uuid": "23b3da67-75a9-48dd-a55d-dbdd09b3d205"
+   },
+   {
+    "name": "QuakeI",
+    "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
+   }
+  ],
   "quarters": [
    {
     "name": "Vault D",
@@ -577,16 +586,16 @@
     "uuid": "31c39970-5543-4fb2-9362-639ac96cb404"
    },
    {
-    "name": "Vault B",
-    "uuid": "c3c3784e-a769-445c-a1fb-c6c7204395a7"
+    "name": "Vault A",
+    "uuid": "16f27de5-6fff-4a15-b1c9-7929fb066d25"
    },
    {
     "name": "Vault C",
     "uuid": "1b7e671c-a2e5-4c72-89ba-02d8d276f088"
    },
    {
-    "name": "Vault A",
-    "uuid": "16f27de5-6fff-4a15-b1c9-7929fb066d25"
+    "name": "Vault B",
+    "uuid": "c3c3784e-a769-445c-a1fb-c6c7204395a7"
    }
   ],
   "ranks": {

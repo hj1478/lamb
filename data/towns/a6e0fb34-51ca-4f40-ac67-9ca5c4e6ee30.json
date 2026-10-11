@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Akkadia",
   "uuid": "a6e0fb34-51ca-4f40-ac67-9ca5c4e6ee30",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 7,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 11.0,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": 100.0
   },
   "perms": {
@@ -108,6 +108,10 @@
      -388
     ],
     [
+     2830,
+     -387
+    ],
+    [
      2832,
      -387
     ],
@@ -125,7 +129,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "AtillaKagan",
+    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

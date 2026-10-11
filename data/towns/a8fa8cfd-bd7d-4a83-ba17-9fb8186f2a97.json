@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Great_Moravia",
   "uuid": "a8fa8cfd-bd7d-4a83-ba17-9fb8186f2a97",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 43,
+   "numTownBlocks": 47,
    "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 8,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 68.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,10 +132,18 @@
      -685
     ],
     [
+     381,
+     -689
+    ],
+    [
      384,
      -684
     ],
     [
+     381,
+     -690
+    ],
+    [
      384,
      -687
     ],
@@ -150,10 +158,18 @@
     [
      380,
      -687
+    ],
+    [
+     380,
+     -688
     ],
     [
      382,
      -684
+    ],
+    [
+     380,
+     -689
     ],
     [
      382,
@@ -284,10 +300,6 @@
     "uuid": "b5777926-6362-44e4-9ae5-6e67043c3b5e"
    },
    {
-    "name": "Tomino1CZ",
-    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
-   },
-   {
     "name": "Fighting_Beaver",
     "uuid": "f6a809e7-806e-487a-9dfa-30ec073c9ef4"
    },
@@ -298,6 +310,10 @@
    {
     "name": "McFishy_76",
     "uuid": "103c9d8e-13ce-403e-a45b-431518e04bd8"
+   },
+   {
+    "name": "Kronvall005",
+    "uuid": "9f69e1a0-90ed-4461-80e8-f032000f5eaf"
    }
   ],
   "trusted": [
@@ -308,10 +324,6 @@
    {
     "name": "That1_manus",
     "uuid": "d8fc4c71-1a27-46c0-8d68-7bfe636fe6fb"
-   },
-   {
-    "name": "Miro_moo",
-    "uuid": "624b7232-1cdf-4728-9bf3-eab3dcb385e0"
    }
   ],
   "outlaws": [
@@ -338,6 +350,14 @@
     "uuid": "627fe186-a317-45a4-a265-a3887359caf1"
    },
    {
+    "name": "Enraging Apartment",
+    "uuid": "2198c182-b329-4922-889d-d02c272c03fd"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "4182f09a-a979-47a0-a15c-e171e4379364"
+   },
+   {
     "name": "Stylish Property",
     "uuid": "8b428e02-3293-4411-b31a-bbd3bb18044c"
    },
@@ -346,12 +366,8 @@
     "uuid": "b0e85754-5cb3-43c1-b1c7-3b94a99b1640"
    },
    {
-    "name": "Enraging Apartment",
-    "uuid": "2198c182-b329-4922-889d-d02c272c03fd"
-   },
-   {
-    "name": "Inviting Dwelling",
-    "uuid": "4182f09a-a979-47a0-a15c-e171e4379364"
+    "name": "Upbeat Dwelling",
+    "uuid": "563ff312-3621-4727-b180-6dcbecf56911"
    }
   ],
   "ranks": {

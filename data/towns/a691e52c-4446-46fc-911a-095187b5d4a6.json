@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Hayq",
   "uuid": "a691e52c-4446-46fc-911a-095187b5d4a6",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 6,
-   "numTrusted": 3,
+   "numTrusted": 4,
    "numOutlaws": 10,
    "balance": 0.0,
    "forSalePrice": null
@@ -468,10 +468,6 @@
   },
   "residents": [
    {
-    "name": "xolarza",
-    "uuid": "c268c3a6-b921-4e9a-ab2a-78330941ca6b"
-   },
-   {
     "name": "Raine1231",
     "uuid": "4e8c6b8c-5a54-4658-8f9b-9dce44a59509"
    },
@@ -490,9 +486,17 @@
    {
     "name": "Boessie2005",
     "uuid": "19408bc2-73e4-4034-af66-00d2e923f704"
+   },
+   {
+    "name": "xolarza",
+    "uuid": "c268c3a6-b921-4e9a-ab2a-78330941ca6b"
    }
   ],
   "trusted": [
+   {
+    "name": "icedteaslurpee",
+    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
+   },
    {
     "name": "_Manly196898_",
     "uuid": "f582a52f-226a-454d-b364-b438339904db"
@@ -556,10 +560,6 @@
    {
     "name": "Lovely Property",
     "uuid": "d9308176-b66a-4b69-9d06-c41ed4e4b6fa"
-   },
-   {
-    "name": "doytnr",
-    "uuid": "69831106-9dd4-4b44-b228-cb709a723b2b"
    },
    {
     "name": "Luxurious Quarter",
@@ -674,14 +674,6 @@
     "uuid": "141b5121-05d5-4cb5-bf37-c0a153409d9f"
    },
    {
-    "name": "vault A",
-    "uuid": "b4576fbd-daa4-4587-a4ab-63b21a9ea78a"
-   },
-   {
-    "name": "vault B",
-    "uuid": "98761d13-ddda-4493-a025-0236f6f16bb3"
-   },
-   {
     "name": "Flat",
     "uuid": "246cb754-f8f9-479f-b216-a10b78cfb501"
    },
@@ -704,6 +696,22 @@
    {
     "name": "Stylish Apartment",
     "uuid": "49c69ae4-bd2b-4ff3-ab3a-ca00be3862be"
+   },
+   {
+    "name": "onebuilds",
+    "uuid": "69831106-9dd4-4b44-b228-cb709a723b2b"
+   },
+   {
+    "name": "Elegant Tenement",
+    "uuid": "1644ac15-a656-4479-9132-1aa21bee8ab4"
+   },
+   {
+    "name": "vault B",
+    "uuid": "98761d13-ddda-4493-a025-0236f6f16bb3"
+   },
+   {
+    "name": "vault A",
+    "uuid": "b4576fbd-daa4-4587-a4ab-63b21a9ea78a"
    }
   ],
   "ranks": {

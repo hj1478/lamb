@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "NPHQ",
   "uuid": "b1e2239d-3bd1-4e42-9fce-e15a96fc9dce",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 12,
    "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,23 +80,39 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 49339.873829318196,
+    "x": 49358.59710367975,
     "y": 72.0,
-    "z": -13961.220654491648,
-    "pitch": 27.97277,
-    "yaw": -174.68425
+    "z": -13959.618074370135,
+    "pitch": 10.738403,
+    "yaw": 93.15454
    },
    "homeBlock": [
-    3083,
+    3084,
     -873
    ],
    "townBlocks": [
     [
+     3085,
+     -874
+    ],
+    [
+     3085,
+     -875
+    ],
+    [
      3083,
      -874
     ],
     [
      3083,
+     -873
+    ],
+    [
+     3083,
+     -875
+    ],
+    [
+     3085,
      -873
     ],
     [
@@ -106,6 +122,22 @@
     [
      3084,
      -874
+    ],
+    [
+     3084,
+     -875
+    ],
+    [
+     3082,
+     -874
+    ],
+    [
+     3082,
+     -873
+    ],
+    [
+     3082,
+     -875
     ]
    ],
    "worlds": {}
@@ -120,8 +152,22 @@
     "uuid": "0a9efad0-d067-4a93-bd09-4207382fafb8"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "ChefStokes",
+    "uuid": "4c9da8a1-58d5-4921-93e3-f2fa17a7e907"
+   },
+   {
+    "name": "sobble1sgod",
+    "uuid": "8e10a836-9085-4040-a013-22767c78b1ad"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Thecaspergod",
+    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

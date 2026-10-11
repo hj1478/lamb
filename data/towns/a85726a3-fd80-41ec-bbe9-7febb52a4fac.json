@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Caldas",
   "uuid": "a85726a3-fd80-41ec-bbe9-7febb52a4fac",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 5,
-   "balance": 576.0,
+   "numOutlaws": 6,
+   "balance": 732.0,
    "forSalePrice": null
   },
   "perms": {
@@ -210,6 +210,10 @@
    {
     "name": "Smarket",
     "uuid": "17cb6cf8-c153-4ec7-abba-91a683277c34"
+   },
+   {
+    "name": "Ncgx",
+    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
    }
   ],
   "quarters": [],

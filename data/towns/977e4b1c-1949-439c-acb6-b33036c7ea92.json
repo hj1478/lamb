@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Toadwater",
   "uuid": "977e4b1c-1949-439c-acb6-b33036c7ea92",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 12,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,48 @@
    ],
    "townBlocks": [
     [
+     321,
+     -951
+    ],
+    [
      320,
      -950
     ],
     [
+     320,
+     -951
+    ],
+    [
+     321,
+     -950
+    ],
+    [
+     321,
+     -949
+    ],
+    [
+     322,
+     -949
+    ],
+    [
+     322,
+     -950
+    ],
+    [
+     322,
+     -951
+    ],
+    [
+     319,
+     -949
+    ],
+    [
      319,
      -950
+    ],
+    [
+     319,
+     -951
     ],
     [
      320,
@@ -133,13 +169,27 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Y4YK",
+     "uuid": "f92e2964-4338-4066-aa3b-50135ed102e2"
+    },
+    {
+     "name": "Entitilo_HTrek",
+     "uuid": "8b91826e-f359-4adf-8914-1a7be29fb3a3"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "Y4YK",
+     "uuid": "f92e2964-4338-4066-aa3b-50135ed102e2"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

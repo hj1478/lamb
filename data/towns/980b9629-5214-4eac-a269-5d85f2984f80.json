@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Ochotsk",
   "uuid": "980b9629-5214-4eac-a269-5d85f2984f80",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Zanin_",
-   "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
+   "name": "NPC22",
+   "uuid": "d84a7975-9042-20a8-ae59-084c15493686"
   },
   "nation": {
-   "name": "FE",
-   "uuid": "939ce868-d47c-444a-a467-4ace4a978814"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783779843558,
-   "joinedNationAt": 1783854900810,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791626401033
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 20,
-   "maxTownBlocks": 50,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -176,62 +176,22 @@
   },
   "residents": [
    {
-    "name": "Zanin_",
-    "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
+    "name": "NPC22",
+    "uuid": "d84a7975-9042-20a8-ae59-084c15493686"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Police": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Zanin_",
-     "uuid": "6fb6d898-caa6-4e85-8a09-547b880b8742"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

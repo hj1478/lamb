@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Alesund",
   "uuid": "a9a37e65-fe1c-4eeb-a43a-cbd5fff1037e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Optimus_Lazer",
-   "uuid": "b4c101b3-f082-4801-bb7f-485390105667"
+   "name": "NPC115",
+   "uuid": "32184224-e64a-2099-a00e-75f431718b34"
   },
   "nation": {
-   "name": "Norway",
-   "uuid": "c4716e9b-3ef3-45c3-8f33-0762c014fa7c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786117564640,
-   "joinedNationAt": 1786117612935,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712800218
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 22,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -184,16 +184,11 @@
   },
   "residents": [
    {
-    "name": "Optimus_Lazer",
-    "uuid": "b4c101b3-f082-4801-bb7f-485390105667"
+    "name": "NPC115",
+    "uuid": "32184224-e64a-2099-a00e-75f431718b34"
    }
   ],
-  "trusted": [
-   {
-    "name": "Optimus_Lazer",
-    "uuid": "b4c101b3-f082-4801-bb7f-485390105667"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

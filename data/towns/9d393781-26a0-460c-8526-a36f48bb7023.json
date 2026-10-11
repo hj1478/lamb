@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Kingswell",
   "uuid": "9d393781-26a0-460c-8526-a36f48bb7023",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 107,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 4.0,
    "forSalePrice": null
@@ -528,21 +528,39 @@
     "uuid": "8017de4d-07a3-45b1-a361-cae910d3d135"
    },
    {
+    "name": "NotAesthetical",
+    "uuid": "dd30a115-8c84-47b2-aca6-b184280ba60a"
+   },
+   {
     "name": "imParkstar",
     "uuid": "811b5a3d-a9e2-4c8c-a6a4-4d09e7f9f9fc"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Cy3pher",
+    "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [
     {
+     "name": "NotAesthetical",
+     "uuid": "dd30a115-8c84-47b2-aca6-b184280ba60a"
+    },
+    {
      "name": "imParkstar",
      "uuid": "811b5a3d-a9e2-4c8c-a6a4-4d09e7f9f9fc"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "NotAesthetical",
+     "uuid": "dd30a115-8c84-47b2-aca6-b184280ba60a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

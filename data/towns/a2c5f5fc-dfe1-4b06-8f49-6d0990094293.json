@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Abcd",
   "uuid": "a2c5f5fc-dfe1-4b06-8f49-6d0990094293",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 98,
-   "maxTownBlocks": 268,
+   "numTownBlocks": 102,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 15,
    "numTrusted": 0,
    "numOutlaws": 8,
-   "balance": 5.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,6 +104,14 @@
      1301
     ],
     [
+     -1305,
+     1286
+    ],
+    [
+     -1305,
+     1287
+    ],
+    [
      -1290,
      1301
     ],
@@ -229,6 +237,10 @@
     ],
     [
      -1304,
+     1291
+    ],
+    [
+     -1304,
      1290
     ],
     [
@@ -318,6 +330,10 @@
     [
      -1300,
      1296
+    ],
+    [
+     -1293,
+     1298
     ],
     [
      -1300,
@@ -504,10 +520,6 @@
     "uuid": "c65062bf-87d5-43bc-9cea-4499f83d238a"
    },
    {
-    "name": "adishastri",
-    "uuid": "ca9027ac-f9bb-4b55-b576-7bc4825d723c"
-   },
-   {
     "name": "Aposentadooo",
     "uuid": "fbd3578a-1d8e-4405-89e9-39849469e931"
    },
@@ -542,6 +554,14 @@
    {
     "name": "NetherNinja38",
     "uuid": "708ed08b-1799-4a57-af38-5ace950c1817"
+   },
+   {
+    "name": "TerrificAxolotl3",
+    "uuid": "80b3a0cb-5e98-4868-a932-61b2968842e9"
+   },
+   {
+    "name": "aq78ad",
+    "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
    }
   ],
   "trusted": [],
@@ -587,9 +607,18 @@
     {
      "name": "DefinableHook7",
      "uuid": "143e6cd6-9424-4860-93d0-52e86a366aa9"
+    },
+    {
+     "name": "aq78ad",
+     "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
     }
    ],
-   "Police": [],
+   "Police": [
+    {
+     "name": "aq78ad",
+     "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

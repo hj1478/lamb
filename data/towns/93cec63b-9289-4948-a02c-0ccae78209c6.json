@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Bali",
   "uuid": "93cec63b-9289-4948-a02c-0ccae78209c6",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 241,
-   "maxTownBlocks": 260,
+   "numTownBlocks": 242,
+   "maxTownBlocks": 284,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 15,
+   "numResidents": 17,
    "numTrusted": 7,
    "numOutlaws": 1,
-   "balance": 153.0,
+   "balance": 275.0,
    "forSalePrice": null
   },
   "perms": {
@@ -696,6 +696,10 @@
      689
     ],
     [
+     2591,
+     690
+    ],
+    [
      2580,
      692
     ],
@@ -1068,10 +1072,6 @@
     "uuid": "29d2e21b-d5b3-48c9-9a4d-806bcc567182"
    },
    {
-    "name": "snowballchan0",
-    "uuid": "622192cb-0dbe-442b-83fa-767e65236046"
-   },
-   {
     "name": "Levi94204",
     "uuid": "e01c9672-5e19-4b0a-818c-538e8f3c6448"
    },
@@ -1118,6 +1118,18 @@
    {
     "name": "Smimi89",
     "uuid": "9aa76705-a381-4b93-a4b0-d6aaf80ed7de"
+   },
+   {
+    "name": "javathebrave",
+    "uuid": "a83cf0be-2d4d-4ee3-a835-cef8c2e88f8b"
+   },
+   {
+    "name": "BeruangHutan",
+    "uuid": "389727af-149f-46c0-891e-eb50210b99ae"
+   },
+   {
+    "name": "HistoryGeek7",
+    "uuid": "28fb7af5-1902-45c5-9d7b-c3a7b570a040"
    }
   ],
   "trusted": [
@@ -1196,6 +1208,18 @@
    {
     "name": "Enraging Apartment",
     "uuid": "484d10f7-e32c-4623-bb21-720a1891fe7a"
+   },
+   {
+    "name": "Stylish Property",
+    "uuid": "5aa46518-522a-428a-8e47-6cffef12a4b3"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "2b38deb9-8158-4a43-a263-fec88bdf84b6"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "742a6cca-aa87-41e9-b449-fb379b11abed"
    }
   ],
   "ranks": {
@@ -1224,11 +1248,33 @@
     {
      "name": "Jaston",
      "uuid": "c53edd0e-655e-46e6-b18f-3ff9af92d8b7"
+    },
+    {
+     "name": "Smokingkoala420",
+     "uuid": "d6a4fd83-67af-46e3-847a-2071cb23e5c9"
     }
    ],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "Smokingkoala420",
+     "uuid": "d6a4fd83-67af-46e3-847a-2071cb23e5c9"
+    }
+   ]
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "Museum",
+    "uuid": "288f4abf-e50e-4aab-b038-a4da6ee55b3c",
+    "createdAt": 1791715803159,
+    "createdBy": "Jaston",
+    "access": "RESIDENT",
+    "location": {
+     "x": 41212,
+     "y": 75,
+     "z": 11018
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

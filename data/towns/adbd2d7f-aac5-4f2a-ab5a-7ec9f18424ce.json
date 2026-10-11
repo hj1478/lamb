@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Bahcesaray",
   "uuid": "adbd2d7f-aac5-4f2a-ab5a-7ec9f18424ce",
   "board": "Capital of Crimea",
   "founder": "HasanHasa",
   "wiki": null,
-  "discord": "https://discord.gg/BszNkWAU3P",
+  "discord": "https://discord.gg/nTQTVW9nS",
   "mayor": {
    "name": "Claus_7",
    "uuid": "69db075d-28ef-4981-a5a0-34ed80b915dd"
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 628,
-   "maxTownBlocks": 536,
+   "maxTownBlocks": 512,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 38,
+   "numResidents": 36,
    "numTrusted": 18,
    "numOutlaws": 9,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2620,10 +2620,6 @@
     "uuid": "7891d819-2d59-4db8-93bd-8447f146ba8d"
    },
    {
-    "name": "theZodann",
-    "uuid": "f5011951-cd75-4e54-8016-bf131948a6da"
-   },
-   {
     "name": "swhz",
     "uuid": "98a81fe8-2ebb-45cd-95c8-b1ba7b8f6ab4"
    },
@@ -2738,10 +2734,6 @@
    {
     "name": "V10_4ever",
     "uuid": "6d6f5f4e-d22f-4510-a904-60686054bb3c"
-   },
-   {
-    "name": "Ks0pp_",
-    "uuid": "172e426c-ea27-4421-b3ef-ac384bd5b82e"
    },
    {
     "name": "Ender44440123",
@@ -2901,7 +2893,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "res2",
+    "uuid": "432254f0-f335-4973-bedd-e14bdb5494d6",
+    "createdAt": 1791646053529,
+    "createdBy": "Claus_7",
+    "access": "NATION",
+    "location": {
+     "x": 12129,
+     "y": 63,
+     "z": -9630
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

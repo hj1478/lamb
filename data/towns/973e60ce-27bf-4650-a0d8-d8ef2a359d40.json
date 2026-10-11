@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Stockholm",
   "uuid": "973e60ce-27bf-4650-a0d8-d8ef2a359d40",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 279,
-   "maxTownBlocks": 428,
+   "maxTownBlocks": 392,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 29,
+   "numResidents": 26,
    "numTrusted": 4,
    "numOutlaws": 5,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1245,18 +1245,6 @@
     "uuid": "3dcb894e-a4f6-44d6-825f-307f5b3ff875"
    },
    {
-    "name": "Asianbooii",
-    "uuid": "f1dbf53b-21c1-4945-9694-9e03975993c4"
-   },
-   {
-    "name": "_Legomannen_",
-    "uuid": "83781b25-94dc-4338-9b5a-8fd4fe2ff89f"
-   },
-   {
-    "name": "Zendur4",
-    "uuid": "c946b02c-72f4-4494-8be2-ff047e519012"
-   },
-   {
     "name": "Tortan_",
     "uuid": "376765be-1fad-4522-b832-b234341864c7"
    },
@@ -1297,10 +1285,6 @@
     "uuid": "a296de09-4c6d-44c4-b760-abb3d78b9ca6"
    },
    {
-    "name": "Ryoshi_YT",
-    "uuid": "7684270a-4fb0-43d6-9108-f5a1c6212cdf"
-   },
-   {
     "name": "MrPankaka",
     "uuid": "e5a95b76-ec96-4dc5-856a-0f2a224e7809"
    },
@@ -1331,6 +1315,10 @@
    {
     "name": "CHARLIEBUS2009",
     "uuid": "c902e432-d80a-45ed-97a0-e4978c701e47"
+   },
+   {
+    "name": "EPlCAL",
+    "uuid": "9d0e3c36-3cbf-4510-b875-db4c35db4cb2"
    }
   ],
   "trusted": [
@@ -1595,10 +1583,6 @@
     "uuid": "8957272a-9f0b-42c8-8f62-62b428555bb6"
    },
    {
-    "name": "Bosatt Lane 12",
-    "uuid": "7ef458b1-e9e2-45c1-8cac-0823faff9c7a"
-   },
-   {
     "name": "Vasa Torg 24",
     "uuid": "aac82a59-beb3-4201-aeef-05201b0240e0"
    },
@@ -1745,6 +1729,14 @@
    {
     "name": "Bosatt Lane 1",
     "uuid": "b18e31cb-6f2b-4dfa-8d20-3d58f2cad568"
+   },
+   {
+    "name": "Cheerful Flat",
+    "uuid": "ababf403-7ad4-4602-bdac-75f8950e5e8b"
+   },
+   {
+    "name": "Bosatt Lane 12",
+    "uuid": "7ef458b1-e9e2-45c1-8cac-0823faff9c7a"
    }
   ],
   "ranks": {
@@ -1757,7 +1749,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "Shop",
+    "uuid": "f05d7a67-d019-4dda-b138-d5f9f7faf47a",
+    "createdAt": 1791714803745,
+    "createdBy": "ChrisNoSignal",
+    "access": "NATION",
+    "location": {
+     "x": 6393,
+     "y": 8,
+     "z": -16131
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

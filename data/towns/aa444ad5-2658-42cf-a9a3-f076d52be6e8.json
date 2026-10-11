@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Olomouc",
   "uuid": "aa444ad5-2658-42cf-a9a3-f076d52be6e8",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 139,
+   "numTownBlocks": 140,
    "maxTownBlocks": 230,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 15,
    "numTrusted": 2,
    "numOutlaws": 12,
-   "balance": 14.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -594,6 +594,10 @@
     [
      382,
      -704
+    ],
+    [
+     394,
+     -712
     ],
     [
      386,

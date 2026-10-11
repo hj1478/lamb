@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Mount_Washington",
   "uuid": "a86b7f8a-d556-490e-b55a-b11820ee1b8a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DCDylanc123410",
-   "uuid": "8aac4669-46f8-4355-a95d-07cbab3905fa"
+   "name": "zSxrryx",
+   "uuid": "5fddf4ee-d667-4d07-b795-456a7e00bb92"
   },
   "nation": {
    "name": "America",
@@ -17,11 +17,11 @@
   },
   "timestamps": {
    "registered": 1783067781909,
-   "joinedNationAt": 1783920219638,
+   "joinedNationAt": 1791719094412,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 78,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 1,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -408,15 +408,28 @@
   },
   "residents": [
    {
-    "name": "DCDylanc123410",
-    "uuid": "8aac4669-46f8-4355-a95d-07cbab3905fa"
-   },
-   {
-    "name": "helike1004",
-    "uuid": "eb482137-0735-4cf0-91ca-fb1e9387cfca"
+    "name": "zSxrryx",
+    "uuid": "5fddf4ee-d667-4d07-b795-456a7e00bb92"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "icedteaslurpee",
+    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
+   },
+   {
+    "name": "_Manly196898_",
+    "uuid": "f582a52f-226a-454d-b364-b438339904db"
+   },
+   {
+    "name": "pixeldddd",
+    "uuid": "b75fa0bf-e7a2-492e-a124-b70f7c0867ba"
+   },
+   {
+    "name": "Lambkill",
+    "uuid": "d450205e-d84e-4aeb-a23a-41a6c5fb085b"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

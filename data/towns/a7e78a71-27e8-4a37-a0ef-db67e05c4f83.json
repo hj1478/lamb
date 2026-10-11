@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Polska",
   "uuid": "a7e78a71-27e8-4a37-a0ef-db67e05c4f83",
@@ -42,7 +42,7 @@
    "numResidents": 12,
    "numTrusted": 0,
    "numOutlaws": 9,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10735.677700995891,
+    "x": 10735.535118672988,
     "y": 65.0,
-    "z": -12524.519247173015,
-    "pitch": 2.8623555,
-    "yaw": -89.46936
+    "z": -12525.247435241256,
+    "pitch": 20.412485,
+    "yaw": -89.02709
    },
    "homeBlock": [
     670,
@@ -439,7 +439,12 @@
     "uuid": "835d6c15-8627-4d30-8c5e-f1ebe73d455a"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Calcite",
+    "uuid": "f90e438b-d287-47cf-936f-7a72e72f2841"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

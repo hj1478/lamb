@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "The_Hague",
   "uuid": "b43400b5-ba5e-4960-a801-57e5138523b2",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheRhostBeeph",
-   "uuid": "8feddd29-2c52-47e2-9bec-1c277cccf4fe"
+   "name": "NPC124",
+   "uuid": "b9a92bbb-6dd7-20d7-9dbc-a291846a0979"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1780425732604,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791721294138
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": false,
+   "isOverClaimed": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,47 +108,23 @@
      -808
     ],
     [
-     140,
-     -809
-    ],
-    [
      141,
      -807
-    ],
-    [
-     141,
-     -809
     ],
     [
      143,
      -806
     ],
     [
-     139,
-     -807
-    ],
-    [
-     139,
-     -808
-    ],
-    [
      140,
      -807
     ],
     [
      142,
-     -809
-    ],
-    [
-     142,
      -807
     ],
     [
      142,
-     -808
-    ],
-    [
-     144,
      -808
     ],
     [
@@ -162,6 +138,10 @@
    {
     "name": "TheRhostBeeph",
     "uuid": "8feddd29-2c52-47e2-9bec-1c277cccf4fe"
+   },
+   {
+    "name": "NPC124",
+    "uuid": "b9a92bbb-6dd7-20d7-9dbc-a291846a0979"
    }
   ],
   "trusted": [],

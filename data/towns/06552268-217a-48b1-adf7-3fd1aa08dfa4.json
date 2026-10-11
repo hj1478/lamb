@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-11T13:02:31Z",
+ "data": {
+  "name": "GOMAMK",
+  "uuid": "06552268-217a-48b1-adf7-3fd1aa08dfa4",
+  "board": "MGS",
+  "founder": "luffybanana",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC123",
+   "uuid": "1798f5be-d3a6-207d-a20a-c0da251bac40"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791695554541,
+   "joinedNationAt": null,
+   "ruinedAt": 1791716215770
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 45607.99412774686,
+    "y": 64.0,
+    "z": -24185.380464973336,
+    "pitch": 29.550047,
+    "yaw": 1.5668945
+   },
+   "homeBlock": [
+    2850,
+    -1512
+   ],
+   "townBlocks": [
+    [
+     2850,
+     -1512
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC123",
+    "uuid": "1798f5be-d3a6-207d-a20a-c0da251bac40"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

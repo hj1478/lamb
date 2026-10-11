@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-11T13:02:31Z",
  "data": {
   "name": "Bank",
   "uuid": "93d7ddec-d153-4198-a3bc-4d126291c415",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 80,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 94,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2107.990270770384,
-    "y": 70.0,
-    "z": -12146.031163804646,
-    "pitch": -13.500054,
-    "yaw": -42.272858
+    "x": 2125.0682704503283,
+    "y": 67.0,
+    "z": -12095.965774652954,
+    "pitch": 32.999916,
+    "yaw": 32.877686
    },
    "homeBlock": [
-    131,
-    -760
+    132,
+    -756
    ],
    "townBlocks": [
     [
@@ -97,7 +97,19 @@
     ],
     [
      133,
+     -756
+    ],
+    [
+     133,
+     -755
+    ],
+    [
+     133,
      -758
+    ],
+    [
+     133,
+     -757
     ],
     [
      133,
@@ -116,12 +128,24 @@
      -761
     ],
     [
+     133,
+     -754
+    ],
+    [
+     134,
+     -754
+    ],
+    [
      129,
      -760
     ],
     [
      130,
      -760
+    ],
+    [
+     134,
+     -757
     ],
     [
      129,
@@ -132,16 +156,28 @@
      -759
     ],
     [
+     134,
+     -758
+    ],
+    [
      129,
      -758
     ],
     [
      130,
      -758
+    ],
+    [
+     134,
+     -755
     ],
     [
      130,
      -757
+    ],
+    [
+     134,
+     -756
     ],
     [
      129,
@@ -396,6 +432,14 @@
      -764
     ],
     [
+     135,
+     -755
+    ],
+    [
+     135,
+     -754
+    ],
+    [
      131,
      -757
     ],
@@ -408,8 +452,20 @@
      -756
     ],
     [
+     135,
+     -758
+    ],
+    [
      131,
      -755
+    ],
+    [
+     135,
+     -757
+    ],
+    [
+     135,
+     -756
     ]
    ],
    "worlds": {}
@@ -426,6 +482,10 @@
    {
     "name": "SquidEwastaken",
     "uuid": "5c34d7b1-e089-47c8-bc86-f6e7358f836c"
+   },
+   {
+    "name": "LouwX",
+    "uuid": "f33a44c1-51a0-453d-af87-568d33269086"
    }
   ],
   "trusted": [
