@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Cetatea_De_Otel",
   "uuid": "babdd7b5-3736-4da7-8dcb-1461c32fec8a",
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 49,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 50,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -204,6 +204,10 @@
      -631
     ],
     [
+     512,
+     -632
+    ],
+    [
      511,
      -631
     ],
@@ -296,16 +300,16 @@
     "uuid": "11b18541-542b-4792-8fca-1f5e57d18d4f"
    },
    {
-    "name": "VaxJoyer",
-    "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
-   },
-   {
     "name": "Noahrulz17",
     "uuid": "a24bbfa9-9783-4817-9d15-bae37d447b9e"
    },
    {
     "name": "RandomNPCskin",
     "uuid": "0f508c8d-26a3-4b38-a73c-8e03bc4e34ab"
+   },
+   {
+    "name": "VaxJoyer",
+    "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
    }
   ],
   "trusted": [],
@@ -318,33 +322,13 @@
      "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
     }
    ],
-   "Builder": [
-    {
-     "name": "VaxJoyer",
-     "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "VaxJoyer",
-     "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
-    }
-   ],
-   "Police": [
-    {
-     "name": "VaxJoyer",
-     "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
-    }
-   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "VaxJoyer",
-     "uuid": "e74493ec-8dfb-4dbc-a858-ff26c07aa4a5"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

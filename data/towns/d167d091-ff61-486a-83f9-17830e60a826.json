@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Pyramiden",
   "uuid": "d167d091-ff61-486a-83f9-17830e60a826",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Warspider_",
-   "uuid": "f7aa66f1-ec07-4ffb-b48f-d6617adfde46"
+   "name": "NPC39",
+   "uuid": "0f6f2f84-4fcf-201d-8413-f875dd0a7bc9"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1786221632196,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791626402082
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,7 +36,7 @@
   },
   "stats": {
    "numTownBlocks": 58,
-   "maxTownBlocks": 0,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -328,8 +328,8 @@
   },
   "residents": [
    {
-    "name": "Warspider_",
-    "uuid": "f7aa66f1-ec07-4ffb-b48f-d6617adfde46"
+    "name": "NPC39",
+    "uuid": "0f6f2f84-4fcf-201d-8413-f875dd0a7bc9"
    }
   ],
   "trusted": [],

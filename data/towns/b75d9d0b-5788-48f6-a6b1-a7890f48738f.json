@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Jambi_Baru",
   "uuid": "b75d9d0b-5788-48f6-a6b1-a7890f48738f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SkelkoWeltens",
-   "uuid": "0a417920-8bcd-48bf-840a-05fd9206a367"
+   "name": "supaMiner_64",
+   "uuid": "0ff536ab-ba4e-456d-87e3-32f6b87167e4"
   },
   "nation": {
    "name": "Lanfang",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
@@ -42,7 +42,7 @@
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 9,
-   "balance": 9.0,
+   "balance": 122.0,
    "forSalePrice": null
   },
   "perms": {
@@ -428,12 +428,12 @@
   },
   "residents": [
    {
-    "name": "SkelkoWeltens",
-    "uuid": "0a417920-8bcd-48bf-840a-05fd9206a367"
-   },
-   {
     "name": "supaMiner_64",
     "uuid": "0ff536ab-ba4e-456d-87e3-32f6b87167e4"
+   },
+   {
+    "name": "BrunoMayoB",
+    "uuid": "93f19bfe-2706-48d9-803b-b97dbfb57e50"
    }
   ],
   "trusted": [
@@ -486,10 +486,6 @@
     "uuid": "e7057019-4efd-4121-86c4-8b1a2693ab51"
    },
    {
-    "name": "Jalan Lanfang 3",
-    "uuid": "542dfa5c-d12e-41cd-99c7-2c7d84bb85a1"
-   },
-   {
     "name": "Jalan Lanfang 4",
     "uuid": "e49207bf-c66b-4a32-a16d-6d599bf99b12"
    },
@@ -518,12 +514,20 @@
     "uuid": "74d3a226-5b2e-43db-b579-72010de0835c"
    },
    {
+    "name": "Jalan Lanfang 3",
+    "uuid": "542dfa5c-d12e-41cd-99c7-2c7d84bb85a1"
+   },
+   {
     "name": "Jalan Port 1",
     "uuid": "0a1016cc-01ef-426d-97f0-59bdc9704497"
    },
    {
     "name": "Jalan Port 17 Community Centre",
     "uuid": "289478d5-99c0-41cb-8808-845873ee4a3e"
+   },
+   {
+    "name": "Jalan Merdeka",
+    "uuid": "79c1177d-15ad-4d5f-9ada-d08ce0779a5d"
    }
   ],
   "ranks": {

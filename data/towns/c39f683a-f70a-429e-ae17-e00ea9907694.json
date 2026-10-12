@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Kolding",
   "uuid": "c39f683a-f70a-429e-ae17-e00ea9907694",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 278,
-   "maxTownBlocks": 280,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
-   "numTrusted": 5,
+   "numResidents": 13,
+   "numTrusted": 6,
    "numOutlaws": 2,
-   "balance": 18.0,
+   "balance": 58.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1224,10 +1224,6 @@
     "uuid": "b94fbd50-eb02-4f6a-a5a4-22b78901e0c9"
    },
    {
-    "name": "meppey",
-    "uuid": "1b183210-9e22-45fe-95bd-8e7f8f3f26c2"
-   },
-   {
     "name": "BadSolarHalo_",
     "uuid": "e080dca5-2859-484f-bfb8-08e77daa567c"
    },
@@ -1262,10 +1258,6 @@
    {
     "name": "1NarutoUzumaki1",
     "uuid": "643a2699-1491-4879-a510-b47f85fc6d25"
-   },
-   {
-    "name": "Fyodorsson",
-    "uuid": "ce6072b4-973c-45a7-9dbd-62e2bd145dfd"
    }
   ],
   "trusted": [
@@ -1284,6 +1276,10 @@
    {
     "name": "Person777775",
     "uuid": "ea07ac82-9fe7-481d-ad10-9eef35d3700e"
+   },
+   {
+    "name": "32Jazper",
+    "uuid": "d6bfcd98-39e8-42bf-95ee-5a678fa81b8f"
    },
    {
     "name": "XLNuggets",

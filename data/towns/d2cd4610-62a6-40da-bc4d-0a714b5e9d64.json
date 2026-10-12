@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "SaintLouisDuHaHa",
   "uuid": "d2cd4610-62a6-40da-bc4d-0a714b5e9d64",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Indie_Fan_ererer",
-   "uuid": "7cad25f3-8163-48bc-bdcc-7797cebba037"
+   "name": "NPC106",
+   "uuid": "50f6215e-9284-20e2-abe2-d5e42960fe51"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786487062037,
-   "joinedNationAt": 1786489192188,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791626400460
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 100,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "Indie_Fan_ererer",
-    "uuid": "7cad25f3-8163-48bc-bdcc-7797cebba037"
+    "name": "NPC106",
+    "uuid": "50f6215e-9284-20e2-abe2-d5e42960fe51"
    }
   ],
   "trusted": [],

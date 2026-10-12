@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Forest_City",
   "uuid": "d9fa29fa-33de-4128-9ee2-ba6a3dcc741d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Jeors_Squire",
-   "uuid": "868f2b09-159b-4ca8-8a3b-7cc51c0e4f9e"
+   "name": "NPC86",
+   "uuid": "6e2a638b-4931-20fe-bbc7-bbdf56ebcdc9"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1786679052832,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791799202952
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "Jeors_Squire",
-    "uuid": "868f2b09-159b-4ca8-8a3b-7cc51c0e4f9e"
+    "name": "NPC86",
+    "uuid": "6e2a638b-4931-20fe-bbc7-bbdf56ebcdc9"
    }
   ],
   "trusted": [],

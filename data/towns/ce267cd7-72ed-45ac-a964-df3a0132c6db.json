@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Cincinnati",
   "uuid": "ce267cd7-72ed-45ac-a964-df3a0132c6db",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 182,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 7,
    "numTrusted": 3,
    "numOutlaws": 6,
-   "balance": 375.0,
+   "balance": 360.0,
    "forSalePrice": null
   },
   "perms": {
@@ -846,6 +846,10 @@
    {
     "name": "SOLO_LEIVEING234",
     "uuid": "3cd0fc79-76c3-4f61-9430-e3e80ebf5f24"
+   },
+   {
+    "name": "yourmoms_bicep",
+    "uuid": "f54e821d-31ed-4fff-a115-acaabdb43bb6"
    }
   ],
   "trusted": [

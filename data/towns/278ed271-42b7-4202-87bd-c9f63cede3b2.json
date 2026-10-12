@@ -1,0 +1,144 @@
+{
+ "fetched_at": "2026-10-12T15:40:19Z",
+ "data": {
+  "name": "Sunspire",
+  "uuid": "278ed271-42b7-4202-87bd-c9f63cede3b2",
+  "board": "/town set board [msg]",
+  "founder": "KingRobbie",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "KingRobbie",
+   "uuid": "49208748-dda1-4090-9c87-f23afd39201f"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1791768604525,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -5016.863540203727,
+    "y": 71.0,
+    "z": 1288.8104007812374,
+    "pitch": 16.349964,
+    "yaw": -178.66699
+   },
+   "homeBlock": [
+    -314,
+    80
+   ],
+   "townBlocks": [
+    [
+     -315,
+     80
+    ],
+    [
+     -314,
+     80
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "KingRobbie",
+    "uuid": "49208748-dda1-4090-9c87-f23afd39201f"
+   },
+   {
+    "name": "TeKxo",
+    "uuid": "a76d766a-39c6-4bc3-8951-d4f525b36d19"
+   },
+   {
+    "name": "jxckyys",
+    "uuid": "f2de8ea4-486e-4d74-a182-6130b4109785"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "TeKxo",
+     "uuid": "a76d766a-39c6-4bc3-8951-d4f525b36d19"
+    },
+    {
+     "name": "jxckyys",
+     "uuid": "f2de8ea4-486e-4d74-a182-6130b4109785"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

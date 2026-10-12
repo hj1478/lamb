@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Gateway",
   "uuid": "d65471b0-6878-47c5-bc23-bb6c33635e01",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 200,
-   "maxTownBlocks": 208,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
+   "numResidents": 8,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 440.0,
+   "balance": 425.0,
    "forSalePrice": null
   },
   "perms": {
@@ -902,10 +902,6 @@
    {
     "name": "SuperschweinKing",
     "uuid": "bec89fda-c131-4413-bbda-e3e9df2ad312"
-   },
-   {
-    "name": "SirTjakos",
-    "uuid": "09c516c8-c48e-48ca-b8f6-0455300577db"
    },
    {
     "name": "NPCrafter358",

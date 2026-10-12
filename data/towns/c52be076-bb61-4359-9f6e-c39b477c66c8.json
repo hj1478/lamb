@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "GardenFalls",
   "uuid": "c52be076-bb61-4359-9f6e-c39b477c66c8",
@@ -23,26 +23,26 @@
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
+   "numTownBlocks": 39,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13674.230663362292,
+    "x": 13666.693618547652,
     "y": 67.0,
-    "z": 12091.419328502376,
-    "pitch": 7.7110467,
-    "yaw": 140.1337
+    "z": 12087.665167217147,
+    "pitch": 33.7552,
+    "yaw": -19.277187
    },
    "homeBlock": [
     854,
@@ -116,6 +116,14 @@
      758
     ],
     [
+     856,
+     760
+    ],
+    [
+     853,
+     760
+    ],
+    [
      853,
      755
     ],
@@ -124,6 +132,10 @@
      754
     ],
     [
+     858,
+     757
+    ],
+    [
      857,
      756
     ],
@@ -134,6 +146,10 @@
     [
      855,
      759
+    ],
+    [
+     855,
+     760
     ],
     [
      855,
@@ -160,12 +176,48 @@
      759
     ],
     [
+     857,
+     760
+    ],
+    [
      854,
      756
     ],
     [
+     858,
+     759
+    ],
+    [
      854,
      755
+    ],
+    [
+     858,
+     758
+    ],
+    [
+     852,
+     757
+    ],
+    [
+     852,
+     758
+    ],
+    [
+     858,
+     760
+    ],
+    [
+     852,
+     759
+    ],
+    [
+     854,
+     760
+    ],
+    [
+     852,
+     760
     ],
     [
      854,

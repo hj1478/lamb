@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Vendetta",
   "uuid": "dad24a16-a65c-4044-b920-366f14aae2b1",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "felixfan342",
-   "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+   "name": "ElJefe5775",
+   "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
   },
   "nation": {
    "name": "Tuscany",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 4,
-   "numTrusted": 2,
+   "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 16.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3700.375351518373,
+    "x": 3714.405633808329,
     "y": 63.0,
-    "z": -4540.518286426727,
-    "pitch": 8.570382,
-    "yaw": 132.4632
+    "z": -4521.56612205016,
+    "pitch": -0.90001357,
+    "yaw": -178.63708
    },
    "homeBlock": [
-    231,
-    -284
+    232,
+    -283
    ],
    "townBlocks": [
     [
@@ -136,12 +136,12 @@
     "uuid": "3ae9ab2b-6e4b-4422-8db4-93ef94654410"
    },
    {
-    "name": "felixfan342",
-    "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
-   },
-   {
     "name": "ElJefe5775",
     "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "KingNikPro",
+    "uuid": "f01d34f3-2b7e-4270-9a80-4b02f094e80e"
    }
   ],
   "trusted": [
@@ -150,8 +150,20 @@
     "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
    },
    {
+    "name": "DRpellgg",
+    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   },
+   {
+    "name": "__lazii",
+    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   },
+   {
     "name": "ElJefe5775",
     "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "AJORDA",
+    "uuid": "7caebd15-e4f1-4bb4-b81b-100a2fed7369"
    }
   ],
   "outlaws": [
@@ -160,7 +172,24 @@
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Lovely Property",
+    "uuid": "adefa9d5-706a-451b-8c99-9e7748db28c6"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "ef872e5a-1979-470c-8449-1a4e72df2c0f"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "33c16303-a081-466a-a241-fb58e61fbd06"
+   },
+   {
+    "name": "Elegant Apartment",
+    "uuid": "c2c0594c-f1a6-4547-ac87-c6506e466ade"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Aurelith",
   "uuid": "c1c7c6e3-143e-4b7f-9938-d025c546222b",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 36,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 7,
-   "balance": 0.0,
+   "balance": 94.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,10 +108,26 @@
      -790
     ],
     [
+     -2248,
+     -792
+    ],
+    [
      -2243,
      -793
     ],
     [
+     -2248,
+     -793
+    ],
+    [
+     -2243,
+     -794
+    ],
+    [
+     -2248,
+     -794
+    ],
+    [
      -2245,
      -792
     ],
@@ -148,6 +164,10 @@
      -790
     ],
     [
+     -2247,
+     -794
+    ],
+    [
      -2244,
      -789
     ],
@@ -178,6 +198,18 @@
     [
      -2244,
      -793
+    ],
+    [
+     -2249,
+     -794
+    ],
+    [
+     -2249,
+     -793
+    ],
+    [
+     -2249,
+     -792
     ],
     [
      -2246,
@@ -210,6 +242,14 @@
    {
     "name": "TheLegend1st",
     "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
+   },
+   {
+    "name": "SirHolland",
+    "uuid": "65b95311-4447-4343-b99e-974747533a70"
+   },
+   {
+    "name": "Bob_142",
+    "uuid": "859dfa3e-1a8b-4e51-bf2c-a2a856aec5c9"
    }
   ],
   "trusted": [
@@ -220,6 +260,10 @@
    {
     "name": "_Manly196898_",
     "uuid": "f582a52f-226a-454d-b364-b438339904db"
+   },
+   {
+    "name": "SirHolland",
+    "uuid": "65b95311-4447-4343-b99e-974747533a70"
    }
   ],
   "outlaws": [
@@ -254,7 +298,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "SirHolland",
+     "uuid": "65b95311-4447-4343-b99e-974747533a70"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Narvik",
   "uuid": "cb80c4fc-dcd9-4570-8062-98444db9e14c",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 152,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 6,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 11,
    "balance": 0.0,
@@ -611,6 +611,14 @@
    {
     "name": "timerpillow",
     "uuid": "0744ccbf-50a2-463e-8ad7-0251daadd507"
+   },
+   {
+    "name": "bugpon",
+    "uuid": "06f48da7-4eed-4ebb-8bd9-548472d731db"
+   },
+   {
+    "name": "meowbloom",
+    "uuid": "b82eb40a-09bc-44da-934e-ff5611546701"
    }
   ],
   "trusted": [],
@@ -710,10 +718,6 @@
     "uuid": "55e13c24-e9b8-4872-ac4d-9d773993b164"
    },
    {
-    "name": "Elegant Residence",
-    "uuid": "d7de1a69-1ee4-4502-8a0f-38703537cb91"
-   },
-   {
     "name": "Inviting Quarter",
     "uuid": "9b17d13f-b763-4732-bb35-2f5ddc70fd3d"
    },
@@ -756,6 +760,10 @@
    {
     "name": "Elegant Suite",
     "uuid": "dba08fab-2e5e-44e8-88b8-3da892bbafe3"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "d7de1a69-1ee4-4502-8a0f-38703537cb91"
    }
   ],
   "ranks": {

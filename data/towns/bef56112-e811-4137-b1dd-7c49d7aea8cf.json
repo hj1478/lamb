@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Leonora",
   "uuid": "bef56112-e811-4137-b1dd-7c49d7aea8cf",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 6,
    "numTrusted": 4,
    "numOutlaws": 12,
-   "balance": 12.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -352,10 +352,6 @@
   },
   "residents": [
    {
-    "name": "fermandogan",
-    "uuid": "969fc742-ddf5-4eac-93c1-0e700bdd164d"
-   },
-   {
     "name": "georgievv",
     "uuid": "37c9d096-0509-4de8-8685-5ececfd8a6c1"
    },
@@ -616,6 +612,10 @@
    {
     "name": "APARTMENT 7",
     "uuid": "df8063aa-f640-426e-9ed3-85aeebeaa543"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "e6141eda-7d00-4012-907a-eb7bef1912a2"
    }
   ],
   "ranks": {

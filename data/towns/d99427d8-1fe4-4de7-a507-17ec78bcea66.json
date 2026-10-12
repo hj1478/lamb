@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Arbores",
   "uuid": "d99427d8-1fe4-4de7-a507-17ec78bcea66",
@@ -12,23 +12,23 @@
    "uuid": "f5b525d2-0eb0-47af-aad7-d834a7c3e362"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Amazon",
+   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
   },
   "timestamps": {
    "registered": 1788286996203,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791649850061,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 402.0,
+   "balance": 413.0,
    "forSalePrice": null
   },
   "perms": {

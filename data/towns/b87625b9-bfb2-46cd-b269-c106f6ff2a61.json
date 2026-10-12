@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "PANATHINAIKOS",
   "uuid": "b87625b9-bfb2-46cd-b269-c106f6ff2a61",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ummet_Ozcan",
-   "uuid": "4daee996-4e36-4c1d-90e1-11bb09912f19"
+   "name": "NPC45",
+   "uuid": "7512d6f4-c36e-207b-b141-5eefbb10694c"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1787785349727,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791626403612
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": false,
+   "isOverClaimed": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,7 +36,7 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 0,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "Ummet_Ozcan",
-    "uuid": "4daee996-4e36-4c1d-90e1-11bb09912f19"
+    "name": "NPC45",
+    "uuid": "7512d6f4-c36e-207b-b141-5eefbb10694c"
    }
   ],
   "trusted": [],

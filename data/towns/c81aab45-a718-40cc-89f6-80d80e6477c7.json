@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Green_Dirt",
   "uuid": "c81aab45-a718-40cc-89f6-80d80e6477c7",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1791135116456,
-   "joinedNationAt": 1791135281711,
+   "joinedNationAt": 1791742402565,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 4,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -110,6 +110,10 @@
     [
      451,
      758
+    ],
+    [
+     451,
+     757
     ]
    ],
    "worlds": {}
@@ -118,9 +122,25 @@
    {
     "name": "jeson_oficial",
     "uuid": "8e8f2ea8-f9f6-4924-bcf4-76571a61a7a0"
+   },
+   {
+    "name": "sang0ku",
+    "uuid": "a89e1637-5f9e-4548-9743-bb77c73bb9ee"
+   },
+   {
+    "name": "mistif0",
+    "uuid": "13f7ec3d-8b9a-4ded-b160-a9871058e13f"
+   },
+   {
+    "name": "Leopro8671",
+    "uuid": "25733f51-9d21-4bd7-a2c8-c310de68e5a8"
    }
   ],
   "trusted": [
+   {
+    "name": "twomoo1119",
+    "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
+   },
    {
     "name": "sky_skail",
     "uuid": "61924e41-5dec-4698-bfc5-e5b806542e26"

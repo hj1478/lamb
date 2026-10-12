@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Vale",
   "uuid": "c6f5975f-9232-462c-9faa-d0a373b18aed",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -656,7 +656,12 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "isbot1",
+     "uuid": "d27a9798-8735-41cd-a324-a7f63aaf44ae"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Raft_Town",
   "uuid": "c6bbdeff-fbb1-45d2-b941-cfc4c950976d",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "OwenSchlau",
-   "uuid": "1e50498f-f41d-448e-ba39-3758eefa2ba9"
+   "name": "NPC5",
+   "uuid": "1acf7f7c-1ab0-205b-9b20-f5e56b985173"
   },
   "nation": {
-   "name": "Micronesia",
-   "uuid": "478aa4e0-e72d-441e-a2f1-0e543f41cb5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786626662041,
-   "joinedNationAt": 1786645185872,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791799203932
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "OwenSchlau",
-    "uuid": "1e50498f-f41d-448e-ba39-3758eefa2ba9"
+    "name": "NPC5",
+    "uuid": "1acf7f7c-1ab0-205b-9b20-f5e56b985173"
    }
   ],
   "trusted": [],

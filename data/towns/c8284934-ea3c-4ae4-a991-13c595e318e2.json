@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Hyperion",
   "uuid": "c8284934-ea3c-4ae4-a991-13c595e318e2",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "pogKIiNg",
-   "uuid": "14a26789-58b1-47a2-a605-9b9ce0210ff7"
+   "name": "NPC27",
+   "uuid": "97f15c56-bfcf-2028-91a6-c1b061dcf022"
   },
   "nation": {
-   "name": "Oceania",
-   "uuid": "e227e0ab-923a-451f-a82f-635b2edd0ea8"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782985118150,
-   "joinedNationAt": 1782985127217,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791626401814
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 80,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,8 +136,8 @@
   },
   "residents": [
    {
-    "name": "pogKIiNg",
-    "uuid": "14a26789-58b1-47a2-a605-9b9ce0210ff7"
+    "name": "NPC27",
+    "uuid": "97f15c56-bfcf-2028-91a6-c1b061dcf022"
    }
   ],
   "trusted": [],

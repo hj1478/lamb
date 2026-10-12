@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Lleida",
   "uuid": "c8a42b3a-37be-468b-a8f0-5684538d798a",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 123,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 6,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 776.0,
    "forSalePrice": null
@@ -596,11 +596,27 @@
     "uuid": "7a0606ab-63cd-4b7b-80e0-4e3e7fdaea66"
    },
    {
+    "name": "Chikiniku",
+    "uuid": "fb5a2f63-a2f0-4358-a291-443a265db465"
+   },
+   {
     "name": "to8jk",
     "uuid": "87e3f83d-b0d0-4c14-806b-51583e792fd5"
+   },
+   {
+    "name": "XanPandee",
+    "uuid": "38e5cb2e-9d39-4357-a356-2c7a998c3ec0"
+   },
+   {
+    "name": "BurnyBurn",
+    "uuid": "347d5934-4d93-40ad-a1bb-cd23493c0c36"
    }
   ],
   "trusted": [
+   {
+    "name": "Chikiniku",
+    "uuid": "fb5a2f63-a2f0-4358-a291-443a265db465"
+   },
    {
     "name": "to8jk",
     "uuid": "87e3f83d-b0d0-4c14-806b-51583e792fd5"

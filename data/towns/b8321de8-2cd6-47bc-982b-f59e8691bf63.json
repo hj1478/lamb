@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Jingjiang",
   "uuid": "b8321de8-2cd6-47bc-982b-f59e8691bf63",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -30,7 +30,7 @@
    "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
-   "canPassiveMobsSpawn": true,
+   "canPassiveMobsSpawn": false,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 39486.924382322984,
+    "x": 39357.624580009615,
     "y": 300.0,
-    "z": -1408.0144625326536,
-    "pitch": 51.600048,
-    "yaw": -108.45001
+    "z": -1435.609998963507,
+    "pitch": 19.500189,
+    "yaw": 83.04708
    },
    "homeBlock": [
-    2467,
-    -89
+    2459,
+    -90
    ],
    "townBlocks": [
     [
@@ -500,10 +500,6 @@
   ],
   "outlaws": [
    {
-    "name": "XiJinPing_",
-    "uuid": "7766c54c-6e0c-4a41-8873-34c82cb30b1a"
-   },
-   {
     "name": "HenrySP9506",
     "uuid": "1983707b-bc77-49e9-8930-994c959d1e78"
    },
@@ -522,6 +518,10 @@
    {
     "name": "LuxxZenn",
     "uuid": "1c221470-115e-482b-a723-d8e70f5b0155"
+   },
+   {
+    "name": "Captain_Orin",
+    "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
    }
   ],
   "quarters": [],

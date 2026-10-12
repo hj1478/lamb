@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Garissa_Chieti",
   "uuid": "bc9fd7db-eefc-4b15-ba02-62569ebcbc9c",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
+   "numTownBlocks": 29,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -116,6 +116,10 @@
      515
     ],
     [
+     887,
+     516
+    ],
+    [
      891,
      511
     ],
@@ -148,8 +152,16 @@
      514
     ],
     [
+     890,
+     516
+    ],
+    [
      888,
      514
+    ],
+    [
+     889,
+     516
     ],
     [
      888,
@@ -158,6 +170,10 @@
     [
      889,
      515
+    ],
+    [
+     888,
+     516
     ],
     [
      888,
@@ -200,7 +216,24 @@
     "uuid": "64c1cbbd-3fe8-4355-b135-d16047e38779"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "SpookySpooner32",
+    "uuid": "3289e3f0-c44c-4562-a715-aae8e3bce064"
+   },
+   {
+    "name": "ReliantFrogling",
+    "uuid": "1a8321bc-f413-42b7-b021-0067079b9941"
+   },
+   {
+    "name": "mr_nuggem_",
+    "uuid": "84aaf560-6843-4cb5-b852-2923334d8faa"
+   },
+   {
+    "name": "CAMBAM418",
+    "uuid": "599235bd-0922-4bf2-a7ad-bbb5023c9a06"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Doncaster",
   "uuid": "c8549025-42bd-4da0-a2de-360a20d812ec",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
+   "numTownBlocks": 53,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 5,
-   "balance": 202.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -32,
+     -834
+    ],
+    [
+     -32,
      -833
     ],
     [
@@ -126,6 +130,10 @@
     [
      -34,
      -829
+    ],
+    [
+     -34,
+     -832
     ],
     [
      -34,
@@ -188,7 +196,23 @@
      -825
     ],
     [
+     -33,
+     -833
+    ],
+    [
+     -33,
+     -832
+    ],
+    [
      -31,
+     -833
+    ],
+    [
+     -31,
+     -834
+    ],
+    [
+     -30,
      -833
     ],
     [
@@ -217,6 +241,10 @@
     ],
     [
      -35,
+     -830
+    ],
+    [
+     -35,
      -827
     ],
     [
@@ -244,11 +272,44 @@
      -831
     ],
     [
+     -35,
+     -831
+    ],
+    [
      -31,
      -832
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -183,
+       -262
+      ],
+      [
+       -184,
+       -263
+      ],
+      [
+       -183,
+       -263
+      ],
+      [
+       -184,
+       -261
+      ],
+      [
+       -183,
+       -261
+      ],
+      [
+       -184,
+       -262
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -305,12 +366,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "CharlemagneHappy",
-     "uuid": "e5f685e3-38f3-49ed-b4de-52e55bd2b54d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

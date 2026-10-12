@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Valtherion",
   "uuid": "d8568bad-5d25-4f64-b5ae-0e7ce6486063",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
+   "numTownBlocks": 31,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 12.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,8 +108,16 @@
      -823
     ],
     [
+     816,
+     -824
+    ],
+    [
      817,
      -822
+    ],
+    [
+     816,
+     -823
     ],
     [
      817,
@@ -129,7 +137,23 @@
     ],
     [
      816,
+     -822
+    ],
+    [
+     815,
+     -820
+    ],
+    [
+     816,
      -821
+    ],
+    [
+     815,
+     -819
+    ],
+    [
+     815,
+     -818
     ],
     [
      816,
@@ -142,6 +166,10 @@
     [
      819,
      -819
+    ],
+    [
+     819,
+     -818
     ],
     [
      818,
@@ -307,6 +335,54 @@
    {
     "name": "L",
     "uuid": "40b75b4c-19ab-40fe-9ee8-964021812e9e"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "b822b9c0-46e6-4a31-945d-18a47f97e039"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "c1d135f2-3741-4f81-ab0d-a03cb05a18e4"
+   },
+   {
+    "name": "Enraging Residence",
+    "uuid": "79bb2b02-a053-4bed-8d99-dbfd8bb60f7a"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "396b0c5e-ebdc-446a-ab9c-a1e8c770cda6"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "9328c1df-bbba-425b-80f3-9432b2a9d5be"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "96cdee66-3588-4337-9bdc-583b0d06522c"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "0dabd005-2412-4b12-aba4-d18273241f8e"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "dc22461e-11bf-4380-bb23-5381e4631f43"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "298da422-46d9-4d04-af1c-bf87797e63f8"
+   },
+   {
+    "name": "Stylish Property",
+    "uuid": "88bd904a-a485-479f-a20b-54648a56b026"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "5e73e26a-29dd-4051-b7f1-6db9ba90296e"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "77b4eae6-3f85-49d1-81a4-d9405a03c1c9"
    }
   ],
   "ranks": {

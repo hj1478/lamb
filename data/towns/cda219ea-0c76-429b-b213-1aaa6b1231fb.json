@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Yongha",
   "uuid": "cda219ea-0c76-429b-b213-1aaa6b1231fb",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "foxesrsocute",
-   "uuid": "4195a5af-5711-49b9-a1a1-283a7d7b4398"
+   "name": "NPC47",
+   "uuid": "c03c864a-1dc5-20d9-9450-d1cf9e82afec"
   },
   "nation": {
-   "name": "DPRK",
-   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785483974763,
-   "joinedNationAt": 1785484177722,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712802270
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 22,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -184,8 +184,8 @@
   },
   "residents": [
    {
-    "name": "foxesrsocute",
-    "uuid": "4195a5af-5711-49b9-a1a1-283a7d7b4398"
+    "name": "NPC47",
+    "uuid": "c03c864a-1dc5-20d9-9450-d1cf9e82afec"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Kynograd",
   "uuid": "d863968d-42ce-426e-9cf9-2c827841fb1b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 53,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 70,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 8,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 55.0,
    "forSalePrice": null
   },
   "perms": {
@@ -149,6 +149,22 @@
     ],
     [
      959,
+     -950
+    ],
+    [
+     968,
+     -947
+    ],
+    [
+     968,
+     -948
+    ],
+    [
+     968,
+     -949
+    ],
+    [
+     959,
      -945
     ],
     [
@@ -197,6 +213,10 @@
     ],
     [
      957,
+     -950
+    ],
+    [
+     957,
      -949
     ],
     [
@@ -206,6 +226,18 @@
     [
      961,
      -952
+    ],
+    [
+     966,
+     -947
+    ],
+    [
+     966,
+     -948
+    ],
+    [
+     966,
+     -949
     ],
     [
      961,
@@ -224,7 +256,15 @@
      -944
     ],
     [
+     964,
+     -952
+    ],
+    [
      961,
+     -951
+    ],
+    [
+     964,
      -951
     ],
     [
@@ -250,6 +290,18 @@
     [
      964,
      -948
+    ],
+    [
+     967,
+     -948
+    ],
+    [
+     967,
+     -947
+    ],
+    [
+     967,
+     -949
     ],
     [
      960,
@@ -281,6 +333,10 @@
     ],
     [
      958,
+     -950
+    ],
+    [
+     958,
      -947
     ],
     [
@@ -292,12 +348,24 @@
      -952
     ],
     [
+     965,
+     -949
+    ],
+    [
      962,
      -951
     ],
     [
+     965,
+     -948
+    ],
+    [
      962,
      -950
+    ],
+    [
+     965,
+     -947
     ],
     [
      962,
@@ -336,8 +404,8 @@
     "uuid": "c62a0810-8c0c-4e0e-b6a0-e1e124eca1f5"
    },
    {
-    "name": "LucasMacdonald",
-    "uuid": "5f8c7e98-d12a-419b-920c-f07a0dc1a44e"
+    "name": "FlameyBoi_",
+    "uuid": "224e6bdc-7230-44fa-89d5-4e3dad705778"
    }
   ],
   "trusted": [
@@ -381,18 +449,6 @@
     "uuid": "48052112-d126-4963-82ec-25e5fdc9fc61"
    },
    {
-    "name": "Storage",
-    "uuid": "51258491-c2b8-4c0c-a423-222c6e1aec10"
-   },
-   {
-    "name": "Apartment",
-    "uuid": "6f32fc5a-092e-452d-9b38-49cd9a872757"
-   },
-   {
-    "name": "Apartment",
-    "uuid": "8fe937f6-2d3d-4e51-8c79-2c11e13f3dac"
-   },
-   {
     "name": "Upbeat Quarter",
     "uuid": "c12fc7e4-ba3e-4074-a5a1-828f1353cbd0"
    },
@@ -415,10 +471,26 @@
    {
     "name": "Lovely Tenement",
     "uuid": "671888fb-744b-4237-a26f-70f383515337"
+   },
+   {
+    "name": "Apartment",
+    "uuid": "6f32fc5a-092e-452d-9b38-49cd9a872757"
+   },
+   {
+    "name": "Apartment",
+    "uuid": "8fe937f6-2d3d-4e51-8c79-2c11e13f3dac"
+   },
+   {
+    "name": "Storage",
+    "uuid": "51258491-c2b8-4c0c-a423-222c6e1aec10"
    }
   ],
   "ranks": {
    "Councillor": [
+    {
+     "name": "Zaksmak8113",
+     "uuid": "08774863-2e77-4424-805d-6a1de5671c31"
+    },
     {
      "name": "GarrisonGrim",
      "uuid": "97638abe-1d13-41c8-ab38-1cd2a70a31c5"
@@ -434,6 +506,10 @@
     {
      "name": "Zaksmak8113",
      "uuid": "08774863-2e77-4424-805d-6a1de5671c31"
+    },
+    {
+     "name": "KyuIsHere",
+     "uuid": "8345d586-00f6-4201-9b7c-57ef120568f7"
     }
    ],
    "Tax-exempt": [],

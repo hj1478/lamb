@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Ptak",
   "uuid": "c12c6ca3-d733-40cf-a5b5-c8fea8746e1f",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
-   "numTrusted": 4,
+   "numResidents": 5,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 1301.0,
    "forSalePrice": null
@@ -580,6 +580,10 @@
     "uuid": "02de27f5-f80a-43c9-a3d4-2fa474e86027"
    },
    {
+    "name": "apollosh",
+    "uuid": "93f98fbe-7585-4082-affc-53d6c8a5f6c9"
+   },
+   {
     "name": "mcg_op",
     "uuid": "a0231b4e-a38b-4a51-888b-c9ec0a656b22"
    },
@@ -602,6 +606,10 @@
     "uuid": "da768299-7c5a-421c-930e-9a07b138a08a"
    },
    {
+    "name": "apollosh",
+    "uuid": "93f98fbe-7585-4082-affc-53d6c8a5f6c9"
+   },
+   {
     "name": "mcg_op",
     "uuid": "a0231b4e-a38b-4a51-888b-c9ec0a656b22"
    },
@@ -622,7 +630,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "apollosh",
+     "uuid": "93f98fbe-7585-4082-affc-53d6c8a5f6c9"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

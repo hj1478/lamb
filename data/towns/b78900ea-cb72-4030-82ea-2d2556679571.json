@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Pingelap_Village",
   "uuid": "b78900ea-cb72-4030-82ea-2d2556679571",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NotCyb3r",
-   "uuid": "3366aab4-1f88-46a3-90f9-adc7a8b37f9b"
+   "name": "NPC43",
+   "uuid": "83174771-df4a-204a-addb-a8c45a1268c0"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1787434294372,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791626402983
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": false,
+   "isOverClaimed": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,7 +36,7 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 0,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "NotCyb3r",
-    "uuid": "3366aab4-1f88-46a3-90f9-adc7a8b37f9b"
+    "name": "NPC43",
+    "uuid": "83174771-df4a-204a-addb-a8c45a1268c0"
    }
   ],
   "trusted": [],

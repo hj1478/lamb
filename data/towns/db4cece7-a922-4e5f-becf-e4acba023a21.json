@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Sinop",
   "uuid": "db4cece7-a922-4e5f-becf-e4acba023a21",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1785680543209,
-   "joinedNationAt": 1791365631996,
+   "joinedNationAt": 1791784624241,
    "ruinedAt": null
   },
   "status": {
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 162,
+   "numTownBlocks": 164,
    "maxTownBlocks": 244,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 12,
    "numTrusted": 4,
-   "numOutlaws": 18,
+   "numOutlaws": 19,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -146,6 +146,10 @@
     [
      773,
      -489
+    ],
+    [
+     769,
+     -488
     ],
     [
      773,
@@ -366,6 +370,10 @@
     [
      768,
      -498
+    ],
+    [
+     779,
+     -491
     ],
     [
      768,
@@ -752,7 +760,7 @@
     "uuid": "e189edea-320d-45db-8ff6-b0a81e97b4d4"
    },
    {
-    "name": "savaymerek",
+    "name": "rakuptka",
     "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    },
    {
@@ -806,7 +814,7 @@
     "uuid": "e189edea-320d-45db-8ff6-b0a81e97b4d4"
    },
    {
-    "name": "savaymerek",
+    "name": "rakuptka",
     "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],
@@ -882,6 +890,10 @@
    {
     "name": "Hatuqay",
     "uuid": "d9ef0399-1a19-4a22-a6e4-6b6b64244d33"
+   },
+   {
+    "name": "chenjiongming",
+    "uuid": "0519f0ed-7abd-4e6e-82cc-a91f02f0d628"
    }
   ],
   "quarters": [
@@ -957,7 +969,7 @@
      "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
     },
     {
-     "name": "savaymerek",
+     "name": "rakuptka",
      "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
     }
    ],

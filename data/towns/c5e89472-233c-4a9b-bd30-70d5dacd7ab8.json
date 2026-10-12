@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Weiyang",
   "uuid": "c5e89472-233c-4a9b-bd30-70d5dacd7ab8",
@@ -12,12 +12,12 @@
    "uuid": "baa0ba2b-9a0c-4e8f-8dbb-316444f5210c"
   },
   "nation": {
-   "name": "Ming",
-   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
+   "name": "Tang",
+   "uuid": "dbd533cf-1035-42c0-91f4-e2cb71bbf575"
   },
   "timestamps": {
    "registered": 1777653853740,
-   "joinedNationAt": 1783265877192,
+   "joinedNationAt": 1791764877784,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 131,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 127,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 4,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 13,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -156,10 +156,6 @@
      -301
     ],
     [
-     2406,
-     -302
-    ],
-    [
      2429,
      -299
     ],
@@ -228,14 +224,6 @@
      -289
     ],
     [
-     2407,
-     -301
-    ],
-    [
-     2407,
-     -302
-    ],
-    [
      2410,
      -301
     ],
@@ -262,10 +250,6 @@
     [
      2430,
      -292
-    ],
-    [
-     2408,
-     -301
     ],
     [
      2430,
@@ -630,10 +614,6 @@
    {
     "name": "Ethan_miauen",
     "uuid": "baa0ba2b-9a0c-4e8f-8dbb-316444f5210c"
-   },
-   {
-    "name": "MaxRebo04",
-    "uuid": "6ebb36d5-e36a-45c9-a337-946982f905d8"
    }
   ],
   "trusted": [

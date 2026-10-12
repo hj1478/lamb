@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-12T15:40:19Z",
  "data": {
   "name": "Sumadija",
   "uuid": "c2f26855-d187-4bd3-ae35-d953631525d7",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "heronikola10",
-   "uuid": "9e67d333-3e83-43a3-ad87-c13f7be0f82b"
+   "name": "NPC64",
+   "uuid": "9ddb2b2f-d7a3-2013-bc04-ef60c7166b04"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786115290227,
-   "joinedNationAt": 1786116391170,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712803754
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "heronikola10",
-    "uuid": "9e67d333-3e83-43a3-ad87-c13f7be0f82b"
+    "name": "NPC64",
+    "uuid": "9ddb2b2f-d7a3-2013-bc04-ef60c7166b04"
    }
   ],
   "trusted": [],
