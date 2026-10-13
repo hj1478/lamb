@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Corum",
   "uuid": "e53e4380-e84b-49f2-aaae-a009fbe5e2da",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 93,
+   "numTownBlocks": 94,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 87.0,
    "forSalePrice": null
   },
   "perms": {
@@ -462,6 +462,10 @@
     [
      773,
      -465
+    ],
+    [
+     774,
+     -470
     ]
    ],
    "worlds": {}
@@ -482,7 +486,7 @@
   ],
   "trusted": [
    {
-    "name": "savaymerek",
+    "name": "rakuptka",
     "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],

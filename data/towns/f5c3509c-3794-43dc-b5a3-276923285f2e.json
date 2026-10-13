@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Eunapolis-BA",
   "uuid": "f5c3509c-3794-43dc-b5a3-276923285f2e",
@@ -12,12 +12,12 @@
    "uuid": "69e21ae3-ad2e-4aca-a30c-3426ec68b0fc"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1791421130564,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791726314961,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     -889,
+     882
+    ],
+    [
+     -890,
+     882
+    ],
+    [
+     -890,
+     883
+    ],
+    [
      -891,
      882
+    ],
+    [
+     -891,
+     883
     ]
    ],
    "worlds": {}

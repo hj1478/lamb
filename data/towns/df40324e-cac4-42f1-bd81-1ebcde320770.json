@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Kurene",
   "uuid": "df40324e-cac4-42f1-bd81-1ebcde320770",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Brencival",
-   "uuid": "dfc4eb49-8ecb-418c-a2cc-5eb5bbf4a9ea"
+   "name": "NPC93",
+   "uuid": "62d801d3-8d18-20b6-a6e7-a22f2249d107"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788120932219,
-   "joinedNationAt": 1788120964727,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791799204630
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,8 +136,8 @@
   },
   "residents": [
    {
-    "name": "Brencival",
-    "uuid": "dfc4eb49-8ecb-418c-a2cc-5eb5bbf4a9ea"
+    "name": "NPC93",
+    "uuid": "62d801d3-8d18-20b6-a6e7-a22f2249d107"
    }
   ],
   "trusted": [],

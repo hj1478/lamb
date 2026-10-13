@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Zorik",
   "uuid": "ed7a92f0-7aae-4683-b4b8-58c4f2eb9f88",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 15,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -114,6 +114,18 @@
     [
      3898,
      -1345
+    ],
+    [
+     3899,
+     -1347
+    ],
+    [
+     3899,
+     -1345
+    ],
+    [
+     3899,
+     -1346
     ],
     [
      3897,

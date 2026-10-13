@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Twink_Town",
   "uuid": "e3d7f546-1eb7-4957-849d-09491c8180b9",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Arcturus__",
-   "uuid": "c802b4cb-c9f5-4a81-93e0-ee6427c86ddf"
+   "name": "NPC28",
+   "uuid": "387b1f51-a0b1-2013-aa91-288db7aa3daf"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782860747012,
-   "joinedNationAt": 1782860749269,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791885601739
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 186.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "Arcturus__",
-    "uuid": "c802b4cb-c9f5-4a81-93e0-ee6427c86ddf"
+    "name": "NPC28",
+    "uuid": "387b1f51-a0b1-2013-aa91-288db7aa3daf"
    }
   ],
   "trusted": [
@@ -124,10 +124,6 @@
    {
     "name": "twomoo1119",
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
-   },
-   {
-    "name": "Arcturus__",
-    "uuid": "c802b4cb-c9f5-4a81-93e0-ee6427c86ddf"
    }
   ],
   "outlaws": [],

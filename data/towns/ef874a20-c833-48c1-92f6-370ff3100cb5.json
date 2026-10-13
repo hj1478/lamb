@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Reverie",
   "uuid": "ef874a20-c833-48c1-92f6-370ff3100cb5",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 9,
-   "numTrusted": 14,
+   "numTrusted": 15,
    "numOutlaws": 0,
-   "balance": 1386.0,
+   "balance": 1611.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -17072.826189856023,
-    "y": 64.0,
-    "z": -32015.342273827606,
-    "pitch": 1.9498953,
-    "yaw": -90.48779
+    "x": -17239.49991389549,
+    "y": 72.0,
+    "z": -32072.529973774905,
+    "pitch": 0.450023,
+    "yaw": 0.043945312
    },
    "homeBlock": [
-    -1068,
-    -2001
+    -1078,
+    -2005
    ],
    "townBlocks": [
     [
@@ -879,6 +879,10 @@
     "uuid": "a5c6e7a3-71ea-483f-82b5-24f329ff72ac"
    },
    {
+    "name": "ka_tie",
+    "uuid": "3b846920-c1c9-4226-b2a5-c911d8248f3e"
+   },
+   {
     "name": "Lumpeeh",
     "uuid": "a03f71f9-625e-419f-9d16-0e5ab50414e4"
    },
@@ -954,7 +958,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "east",
+    "uuid": "3db9bb19-95cd-4b47-97be-a29d2cab8d3f",
+    "createdAt": 1791728383315,
+    "createdBy": "Luelia",
+    "access": "NATION",
+    "location": {
+     "x": -17072,
+     "y": 64,
+     "z": -32016
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

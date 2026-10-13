@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Wismar",
   "uuid": "fe01a7e8-2d05-4ad2-bcab-b32b042464bb",
-  "board": "/town set board [msg]",
+  "board": "Overly not locked in",
   "founder": "9rio",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "9rio",
-   "uuid": "511f2a56-f127-45a9-a457-64ebb46369c9"
+   "name": "Agarret898",
+   "uuid": "d6c64bf3-6876-41e0-9eaf-93e2df73ce47"
   },
   "nation": {
    "name": "Denmark",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1784988909666,
-   "joinedNationAt": 1784989098967,
+   "joinedNationAt": 1791846295858,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 11,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,19 @@
    "townBlocks": [
     [
      250,
+     -838
+    ],
+    [
+     250,
      -839
+    ],
+    [
+     250,
+     -836
+    ],
+    [
+     250,
+     -837
     ],
     [
      246,
@@ -116,15 +128,7 @@
      -841
     ],
     [
-     245,
-     -841
-    ],
-    [
      248,
-     -840
-    ],
-    [
-     245,
      -840
     ],
     [
@@ -132,11 +136,111 @@
      -839
     ],
     [
-     247,
-     -841
+     248,
+     -838
     ],
     [
      249,
+     -837
+    ],
+    [
+     251,
+     -835
+    ],
+    [
+     251,
+     -836
+    ],
+    [
+     249,
+     -836
+    ],
+    [
+     251,
+     -837
+    ],
+    [
+     251,
+     -838
+    ],
+    [
+     249,
+     -841
+    ],
+    [
+     251,
+     -839
+    ],
+    [
+     249,
+     -840
+    ],
+    [
+     249,
+     -839
+    ],
+    [
+     249,
+     -838
+    ],
+    [
+     252,
+     -839
+    ],
+    [
+     252,
+     -835
+    ],
+    [
+     252,
+     -836
+    ],
+    [
+     254,
+     -835
+    ],
+    [
+     252,
+     -837
+    ],
+    [
+     254,
+     -836
+    ],
+    [
+     252,
+     -838
+    ],
+    [
+     253,
+     -837
+    ],
+    [
+     253,
+     -836
+    ],
+    [
+     253,
+     -838
+    ],
+    [
+     245,
+     -841
+    ],
+    [
+     245,
+     -840
+    ],
+    [
+     253,
+     -835
+    ],
+    [
+     253,
+     -834
+    ],
+    [
+     247,
      -841
     ],
     [
@@ -144,15 +248,7 @@
      -840
     ],
     [
-     249,
-     -840
-    ],
-    [
-     249,
-     -839
-    ],
-    [
-     249,
+     247,
      -838
     ],
     [
@@ -170,12 +266,52 @@
    {
     "name": "9rio",
     "uuid": "511f2a56-f127-45a9-a457-64ebb46369c9"
+   },
+   {
+    "name": "Agarret898",
+    "uuid": "d6c64bf3-6876-41e0-9eaf-93e2df73ce47"
    }
   ],
   "trusted": [
    {
-    "name": "Vations",
-    "uuid": "0e96e0da-76b8-415c-82bd-f3c80383353b"
+    "name": "Lemoncy",
+    "uuid": "c652e8b5-b2e1-47d2-a37e-c690bb3b0340"
+   },
+   {
+    "name": "KATTIV",
+    "uuid": "fb8c5568-5017-4c3b-bf96-238d7c663146"
+   },
+   {
+    "name": "AD31",
+    "uuid": "8c7f58b3-c2bb-4a66-bf22-0b914331c006"
+   },
+   {
+    "name": "Agarret898",
+    "uuid": "d6c64bf3-6876-41e0-9eaf-93e2df73ce47"
+   },
+   {
+    "name": "YellowVictini",
+    "uuid": "204f2ae1-547b-48f7-8f09-af11224dceec"
+   },
+   {
+    "name": "rpr220",
+    "uuid": "efda09fe-9853-4ae6-b99d-ff4ed6a0da8e"
+   },
+   {
+    "name": "32Oln",
+    "uuid": "dde89363-0bda-4c57-8c4a-4bf4a8af57db"
+   },
+   {
+    "name": "Aradiante",
+    "uuid": "da8c04d6-ea79-4f2b-bb62-d263ab0e582a"
+   },
+   {
+    "name": "TheoToToTo",
+    "uuid": "5fa23b58-02b7-410e-bb53-f7dd4fafca7f"
+   },
+   {
+    "name": "32Jazper",
+    "uuid": "d6bfcd98-39e8-42bf-95ee-5a678fa81b8f"
    },
    {
     "name": "XLNuggets",

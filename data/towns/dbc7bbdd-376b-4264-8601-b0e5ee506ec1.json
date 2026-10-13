@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Leck",
   "uuid": "dbc7bbdd-376b-4264-8601-b0e5ee506ec1",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SleepyBeii",
-   "uuid": "350cd8b1-741d-45fe-9909-a5ee570e3dbb"
+   "name": "NPC112",
+   "uuid": "8b75863f-b849-20b7-aec8-0c93055f8278"
   },
   "nation": {
-   "name": "Denmark",
-   "uuid": "73f18d06-0647-4146-a27b-cfa22b5792b2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783807456966,
-   "joinedNationAt": 1783807469763,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791651542328
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -124,8 +124,8 @@
   },
   "residents": [
    {
-    "name": "SleepyBeii",
-    "uuid": "350cd8b1-741d-45fe-9909-a5ee570e3dbb"
+    "name": "NPC112",
+    "uuid": "8b75863f-b849-20b7-aec8-0c93055f8278"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Geneva",
   "uuid": "ebb695b9-8876-4c28-802f-d1a2c815b333",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 789,
-   "maxTownBlocks": 1312,
+   "maxTownBlocks": 1252,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 101,
+   "numResidents": 96,
    "numTrusted": 8,
    "numOutlaws": 6,
-   "balance": 2186.0,
+   "balance": 1481.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2404.474744665553,
+    "x": 2404.469755694982,
     "y": 98.0,
-    "z": -10158.46147014778,
-    "pitch": 8.506382,
-    "yaw": 177.47995
+    "z": -10158.518767926951,
+    "pitch": -9.643628,
+    "yaw": -134.67027
    },
    "homeBlock": [
     150,
@@ -3301,36 +3301,8 @@
     "uuid": "4c01a7d2-9d37-46f2-9446-86658d0d1492"
    },
    {
-    "name": "syxddd10001",
-    "uuid": "2d56e731-5fe1-4cad-8acf-b34b403141d6"
-   },
-   {
-    "name": "geniuspanda99",
-    "uuid": "74e2f555-48b7-43e7-82f5-ef460dc67532"
-   },
-   {
-    "name": "DeadlyOmni",
-    "uuid": "c3ae6e00-9c51-4a94-ac54-afd3bb6fe68e"
-   },
-   {
-    "name": "Romain3107",
-    "uuid": "4158d552-5773-418b-835d-aab5a5982952"
-   },
-   {
-    "name": "XEN_PY3RIO",
-    "uuid": "2254e3b0-59b4-4403-970a-5914715ac040"
-   },
-   {
     "name": "Neterza0",
     "uuid": "7b4d1cbb-5363-4e67-9310-8b2420b7506a"
-   },
-   {
-    "name": "Boran_Turkn",
-    "uuid": "8de3d3fc-c0e7-46dc-aafc-5c2d6e897d7b"
-   },
-   {
-    "name": "Merlin_r17",
-    "uuid": "b40f1f8c-0445-438e-b604-1c7778d183d6"
    },
    {
     "name": "SamakoBen76",
@@ -3659,6 +3631,14 @@
    {
     "name": "NoteBlockGamer",
     "uuid": "9ed40d90-3a2f-4d8c-8c52-7f44b334c2b7"
+   },
+   {
+    "name": "_POL4RR_",
+    "uuid": "b47de7b3-a6ab-4a45-a874-55336028a830"
+   },
+   {
+    "name": "Jimso29",
+    "uuid": "b51af8f4-e03f-4da7-9e64-2bf3b2b5934c"
    }
   ],
   "trusted": [
@@ -3835,10 +3815,6 @@
     "uuid": "8f1b30ca-b405-4d29-99c7-040600f643c0"
    },
    {
-    "name": "Inconvenient Suite",
-    "uuid": "d0c05bf1-040d-4a0f-bb34-35bda92c5400"
-   },
-   {
     "name": "Cheerful Suite",
     "uuid": "4a795880-e290-4e63-be76-576b09e52733"
    },
@@ -3907,10 +3883,6 @@
     "uuid": "d890fdd7-24bb-424d-8a8b-077d76ae171b"
    },
    {
-    "name": "Upbeat Suite",
-    "uuid": "9d372c0d-fae8-479e-a0be-2d00eb870484"
-   },
-   {
     "name": "Gloomy Dwelling",
     "uuid": "b3403d14-ab6e-4988-b541-92fdd20d2d6a"
    },
@@ -3949,10 +3921,6 @@
    {
     "name": "Enraging Suite",
     "uuid": "bd24f889-2a45-491a-8c1e-693dd960f4c1"
-   },
-   {
-    "name": "Cheerful Apartment",
-    "uuid": "9dcb3c1d-8a40-4ea0-91ee-5f20d4a47b6d"
    },
    {
     "name": "Stylish Flat",
@@ -4029,6 +3997,98 @@
    {
     "name": "Bland Residence",
     "uuid": "19b084c6-e3a5-4cdb-874f-612cd76ea7ad"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "9dcb3c1d-8a40-4ea0-91ee-5f20d4a47b6d"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "9d372c0d-fae8-479e-a0be-2d00eb870484"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "d0c05bf1-040d-4a0f-bb34-35bda92c5400"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "4fff36d0-fe1b-4fd5-be22-3ef98a14736f"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "5e737530-637a-4e28-af80-833ad159ab3f"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "c9fa5108-6285-421d-b44a-3ef302e4effd"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "8aa6f76f-8d38-4254-b8c8-fe874f98d8f8"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "7b939555-f267-42a8-8e02-3981c6a83c61"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "f0af3242-5083-4d8c-899a-ec4e3edf038b"
+   },
+   {
+    "name": "Bland Flat",
+    "uuid": "c8279c09-99ed-4870-ac9a-a558c965cc01"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "065cf05f-90bb-4697-a95b-44413be5ff37"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "e4f06e3a-92d1-44c1-a841-8296247658d0"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "c7756d63-ce3e-46a1-a3e5-c6418549b093"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "6430de66-69de-420d-97b4-ba203cf86d8a"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "d5bac599-31c2-45c4-92c6-d2a5220fc60d"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "666c7463-bf54-41bc-936c-35537e742362"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "fbd00554-6d53-45f0-93ae-541a4886401d"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "2f548b9c-603d-4a0b-bec3-bf176595d73b"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "4704daea-ca87-4940-afee-05814b1cbff7"
+   },
+   {
+    "name": "Annoying Tenement",
+    "uuid": "52c65a31-83ca-4462-ba73-83ce7b7b8fc3"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "24d92cb6-9e78-4763-8eac-a45c1edb4afa"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "c711fa63-1914-42fe-8e48-ce41e8735ac5"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "10715f8a-9680-475f-9b58-b413a97e774c"
    }
   ],
   "ranks": {

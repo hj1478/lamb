@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Witches_Swamp",
   "uuid": "e9eff6de-19c6-43d0-b9a0-2cf893cdd57e",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 9,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7846.986904902752,
-    "y": 83.0,
-    "z": 14737.060050545735,
-    "pitch": 61.349983,
-    "yaw": 164.81445
+    "x": 7846.831463050549,
+    "y": 83.5,
+    "z": 14735.907289168645,
+    "pitch": 1.9499615,
+    "yaw": -85.23544
    },
    "homeBlock": [
     490,
-    921
+    920
    ],
    "townBlocks": [
+    [
+     492,
+     920
+    ],
+    [
+     492,
+     921
+    ],
     [
      491,
      919
@@ -109,7 +117,15 @@
     ],
     [
      490,
+     922
+    ],
+    [
+     490,
      921
+    ],
+    [
+     491,
+     922
     ]
    ],
    "worlds": {}

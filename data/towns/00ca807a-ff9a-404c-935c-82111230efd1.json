@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Alaskan",
   "uuid": "00ca807a-ff9a-404c-935c-82111230efd1",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Nf_miracle",
-   "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
+   "name": "ShadowedOcelot",
+   "uuid": "366b5e34-d056-4067-ad98-9f630158dcd8"
   },
   "nation": {
    "name": "North_America",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 213,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 3,
    "numOutlaws": 26,
    "balance": 0.0,
@@ -952,10 +952,6 @@
     "uuid": "d5f39904-bfc4-422f-86ec-16b9ec7676ce"
    },
    {
-    "name": "The_OofLord",
-    "uuid": "9fb6b071-7480-4e62-930d-c466a99c823f"
-   },
-   {
     "name": "LordEryk123",
     "uuid": "62a5a835-46d2-4cef-8fac-305b37c26fe7"
    },
@@ -964,8 +960,8 @@
     "uuid": "88f0d4a0-d446-432d-895e-8f78d93f195e"
    },
    {
-    "name": "Nf_miracle",
-    "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
+    "name": "ShadowedOcelot",
+    "uuid": "366b5e34-d056-4067-ad98-9f630158dcd8"
    }
   ],
   "trusted": [
@@ -1092,12 +1088,7 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "The_OofLord",
-     "uuid": "9fb6b071-7480-4e62-930d-c466a99c823f"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

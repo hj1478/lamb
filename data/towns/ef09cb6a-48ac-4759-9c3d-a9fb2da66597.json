@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Kerma",
   "uuid": "ef09cb6a-48ac-4759-9c3d-a9fb2da66597",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ndk10",
-   "uuid": "e8161101-bf3b-420c-9f33-45e0791095e9"
+   "name": "NPC37",
+   "uuid": "e2b61466-3266-204d-8c8b-671d218f9d24"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777292260992,
-   "joinedNationAt": 1777292276492,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791885602722
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,18 +128,14 @@
   },
   "residents": [
    {
-    "name": "ndk10",
-    "uuid": "e8161101-bf3b-420c-9f33-45e0791095e9"
+    "name": "NPC37",
+    "uuid": "e2b61466-3266-204d-8c8b-671d218f9d24"
    }
   ],
   "trusted": [
    {
     "name": "muded_",
     "uuid": "501c1f68-062e-4259-b94f-6117cb2b7c99"
-   },
-   {
-    "name": "ndk10",
-    "uuid": "e8161101-bf3b-420c-9f33-45e0791095e9"
    }
   ],
   "outlaws": [],

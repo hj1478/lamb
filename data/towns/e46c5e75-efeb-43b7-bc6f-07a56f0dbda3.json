@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "GardenRoad",
   "uuid": "e46c5e75-efeb-43b7-bc6f-07a56f0dbda3",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SirHolland",
-   "uuid": "65b95311-4447-4343-b99e-974747533a70"
+   "name": "NPC109",
+   "uuid": "6af54750-fe4e-2016-b6b2-7e432988bfe2"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789150853255,
-   "joinedNationAt": 1789151796900,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791642298365
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 14,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,
@@ -71,10 +71,10 @@
     true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -152,8 +152,8 @@
   },
   "residents": [
    {
-    "name": "SirHolland",
-    "uuid": "65b95311-4447-4343-b99e-974747533a70"
+    "name": "NPC109",
+    "uuid": "6af54750-fe4e-2016-b6b2-7e432988bfe2"
    }
   ],
   "trusted": [

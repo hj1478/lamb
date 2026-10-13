@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Belle_River",
   "uuid": "ec598b10-c840-4e3d-b7f4-de3cff878408",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CTM0029",
-   "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
+   "name": "NPC134",
+   "uuid": "d01a0a6c-2b3e-2030-9d1c-e0969776c5be"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779638227492,
-   "joinedNationAt": 1779847416025,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791853568921
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -216,18 +216,18 @@
   },
   "residents": [
    {
-    "name": "CTM0029",
-    "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
-   },
-   {
-    "name": "Lukegvespa",
-    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
+    "name": "NPC134",
+    "uuid": "d01a0a6c-2b3e-2030-9d1c-e0969776c5be"
    }
   ],
   "trusted": [
    {
     "name": "twomoo1119",
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
+   },
+   {
+    "name": "Lukegvespa",
+    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    }
   ],
   "outlaws": [

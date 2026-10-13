@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Bay_Of_Fundy",
   "uuid": "e6a7a2c8-1093-4798-aa09-2e3d47354635",
@@ -12,37 +12,37 @@
    "uuid": "95d3051b-ca35-41be-881b-fb8171ad0330"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Acadia",
+   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
   },
   "timestamps": {
    "registered": 1791597070283,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791689156711,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23183.79935314869,
-    "y": 64.0,
-    "z": -9355.991638993784,
-    "pitch": 14.185564,
-    "yaw": -168.39772
+    "x": -23176.095801374715,
+    "y": 63.0,
+    "z": -9356.294843382828,
+    "pitch": 2.6184328,
+    "yaw": 0.9986894
    },
    "homeBlock": [
     -1449,
@@ -93,6 +93,26 @@
    "townBlocks": [
     [
      -1449,
+     -586
+    ],
+    [
+     -1448,
+     -586
+    ],
+    [
+     -1449,
+     -585
+    ],
+    [
+     -1448,
+     -585
+    ],
+    [
+     -1449,
+     -584
+    ],
+    [
+     -1450,
      -585
     ]
    ],

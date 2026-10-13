@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "LakeVille",
   "uuid": "f69c8b63-8f2a-45e8-8a8b-50c15dbc3014",
-  "board": "/town set board [msg]",
+  "board": "message hi",
   "founder": "Invador09",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28517.595917293896,
-    "y": 60.0,
-    "z": -10387.329443171719,
-    "pitch": -0.75016874,
-    "yaw": -91.78473
+    "x": -28516.466460031796,
+    "y": 63.0,
+    "z": -10391.420261897365,
+    "pitch": 19.34998,
+    "yaw": 146.25653
    },
    "homeBlock": [
     -1783,
@@ -92,11 +92,39 @@
    ],
    "townBlocks": [
     [
-     -1782,
+     -1783,
      -652
     ],
     [
      -1783,
+     -653
+    ],
+    [
+     -1783,
+     -650
+    ],
+    [
+     -1784,
+     -652
+    ],
+    [
+     -1783,
+     -651
+    ],
+    [
+     -1784,
+     -651
+    ],
+    [
+     -1784,
+     -653
+    ],
+    [
+     -1784,
+     -650
+    ],
+    [
+     -1782,
      -652
     ],
     [
@@ -108,11 +136,7 @@
      -650
     ],
     [
-     -1783,
-     -650
-    ],
-    [
-     -1783,
+     -1785,
      -651
     ]
    ],
@@ -124,23 +148,36 @@
     "uuid": "ff2c4399-6d0b-42e0-9600-f9b4051e3ec5"
    },
    {
-    "name": "DookiFARTS",
-    "uuid": "6241259d-8d08-4509-ad93-118e59c1c1fc"
+    "name": "CyberbladeY",
+    "uuid": "7628fba0-96eb-4d15-8a7c-e4d27b67101c"
+   },
+   {
+    "name": "MinionLoveBanana",
+    "uuid": "d5106a7b-3f7c-434b-bd52-b4c76c49f874"
+   },
+   {
+    "name": "Duck12553",
+    "uuid": "dcdf1127-6f4a-46b2-a2ba-64f803866c35"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
+   "Councillor": [],
+   "Builder": [
     {
-     "name": "DookiFARTS",
-     "uuid": "6241259d-8d08-4509-ad93-118e59c1c1fc"
+     "name": "MinionLoveBanana",
+     "uuid": "d5106a7b-3f7c-434b-bd52-b4c76c49f874"
     }
    ],
-   "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "MinionLoveBanana",
+     "uuid": "d5106a7b-3f7c-434b-bd52-b4c76c49f874"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

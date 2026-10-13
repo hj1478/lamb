@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Everest",
   "uuid": "e4027670-342a-4eaa-b296-963b9d991c19",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 77,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 3,
+   "numOutlaws": 4,
    "balance": 128.0,
    "forSalePrice": null
   },
@@ -59,9 +59,9 @@
     false
    ],
    "switch": [
+    true,
     false,
-    false,
-    false,
+    true,
     false
    ],
    "itemUse": [
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 30947.54031795756,
+    "x": 30940.04090353511,
     "y": 306.0,
-    "z": -2531.5195261523713,
-    "pitch": -13.350028,
-    "yaw": 155.1901
+    "z": -2536.0004025218223,
+    "pitch": -28.350042,
+    "yaw": 90.13281
    },
    "homeBlock": [
-    1934,
+    1933,
     -159
    ],
    "townBlocks": [
@@ -421,6 +421,10 @@
    {
     "name": "akabur",
     "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
+   },
+   {
+    "name": "SteelExpedition",
+    "uuid": "50691eee-3d8b-4b0c-aa7f-4151963bb08d"
    }
   ],
   "quarters": [
@@ -439,6 +443,10 @@
    {
     "name": "Transfer Lot #3",
     "uuid": "e36e516d-d62c-4f10-b31b-7b8f33a474d2"
+   },
+   {
+    "name": "Door",
+    "uuid": "512d5cbe-f7e1-41a7-b2fe-6ec22a1f6c80"
    }
   ],
   "ranks": {

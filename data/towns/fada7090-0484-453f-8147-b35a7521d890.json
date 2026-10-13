@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "ZZ",
   "uuid": "fada7090-0484-453f-8147-b35a7521d890",
@@ -12,12 +12,12 @@
    "uuid": "26ffb6fb-9c3e-4b50-bc80-1756aab1ed38"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
    "registered": 1791728351380,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791829086114,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 42.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     787,
+     698
+    ],
+    [
+     787,
+     697
+    ],
+    [
+     787,
+     699
+    ],
+    [
      786,
      697
+    ],
+    [
+     786,
+     699
     ],
     [
      786,
@@ -108,19 +124,11 @@
     "uuid": "26ffb6fb-9c3e-4b50-bc80-1756aab1ed38"
    },
    {
-    "name": "cadenvi120",
-    "uuid": "3a486121-d6d5-4908-b22f-a1ef06a989f0"
-   },
-   {
     "name": "linan0214",
     "uuid": "2d2faa5e-69f6-447a-b30a-5b71e41a54e3"
    }
   ],
   "trusted": [
-   {
-    "name": "cadenvi120",
-    "uuid": "3a486121-d6d5-4908-b22f-a1ef06a989f0"
-   },
    {
     "name": "linan0214",
     "uuid": "2d2faa5e-69f6-447a-b30a-5b71e41a54e3"

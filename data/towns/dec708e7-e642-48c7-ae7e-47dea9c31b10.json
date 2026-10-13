@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Chindia",
   "uuid": "dec708e7-e642-48c7-ae7e-47dea9c31b10",
@@ -12,12 +12,12 @@
    "uuid": "96e8a048-7821-4ed5-8ccc-f2aca42a0b3e"
   },
   "nation": {
-   "name": "Venezuela",
-   "uuid": "f4e5bdbd-4e6a-436f-8f32-bc2c2ea08916"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786487536755,
-   "joinedNationAt": 1789769707973,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 46,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 16,

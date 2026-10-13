@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Exeter",
   "uuid": "de3e635d-a01a-489d-b5b9-b4e06ec6e26e",
@@ -12,20 +12,20 @@
    "uuid": "e0ab023c-1534-493f-b0e7-abefd13e1d54"
   },
   "nation": {
-   "name": "England",
-   "uuid": "52f45acd-c016-4c21-9c53-acf48b134159"
+   "name": "United_Kingdom",
+   "uuid": "df91cddc-2d99-4a88-ab98-e44e490a21f3"
   },
   "timestamps": {
    "registered": 1777680261002,
-   "joinedNationAt": 1783258807405,
+   "joinedNationAt": 1791844279669,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 168,
-   "maxTownBlocks": 54,
+   "numTownBlocks": 140,
+   "maxTownBlocks": 164,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 103.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,34 +92,6 @@
    ],
    "townBlocks": [
     [
-     -69,
-     -758
-    ],
-    [
-     -68,
-     -759
-    ],
-    [
-     -69,
-     -757
-    ],
-    [
-     -68,
-     -760
-    ],
-    [
-     -68,
-     -757
-    ],
-    [
-     -69,
-     -759
-    ],
-    [
-     -68,
-     -758
-    ],
-    [
      -77,
      -762
     ],
@@ -245,19 +217,7 @@
     ],
     [
      -72,
-     -755
-    ],
-    [
-     -72,
-     -756
-    ],
-    [
-     -72,
      -753
-    ],
-    [
-     -72,
-     -754
     ],
     [
      -72,
@@ -364,10 +324,6 @@
      -762
     ],
     [
-     -67,
-     -760
-    ],
-    [
      -75,
      -760
     ],
@@ -385,35 +341,7 @@
     ],
     [
      -71,
-     -756
-    ],
-    [
-     -71,
      -757
-    ],
-    [
-     -71,
-     -754
-    ],
-    [
-     -71,
-     -755
-    ],
-    [
-     -78,
-     -753
-    ],
-    [
-     -78,
-     -752
-    ],
-    [
-     -78,
-     -755
-    ],
-    [
-     -78,
-     -754
     ],
     [
      -78,
@@ -440,24 +368,8 @@
      -760
     ],
     [
-     -67,
-     -758
-    ],
-    [
      -78,
      -762
-    ],
-    [
-     -67,
-     -759
-    ],
-    [
-     -78,
-     -757
-    ],
-    [
-     -78,
-     -756
     ],
     [
      -78,
@@ -534,10 +446,6 @@
     [
      -76,
      -754
-    ],
-    [
-     -80,
-     -760
     ],
     [
      -80,
@@ -630,10 +538,6 @@
     [
      -73,
      -759
-    ],
-    [
-     -73,
-     -754
     ],
     [
      -73,
@@ -653,10 +557,6 @@
     ],
     [
      -73,
-     -755
-    ],
-    [
-     -73,
      -744
     ],
     [
@@ -669,19 +569,7 @@
     ],
     [
      -79,
-     -760
-    ],
-    [
-     -79,
      -761
-    ],
-    [
-     -79,
-     -758
-    ],
-    [
-     -79,
-     -759
     ],
     [
      -77,
@@ -700,12 +588,12 @@
      -755
     ],
     [
-     -77,
-     -754
-    ],
-    [
      -73,
      -762
+    ],
+    [
+     -77,
+     -754
     ],
     [
      -77,
@@ -774,6 +662,26 @@
    {
     "name": "Crab_Is_Terror",
     "uuid": "90fd8c99-ff30-4842-a00c-040ea0c8e2c0"
+   },
+   {
+    "name": "_Quokkie",
+    "uuid": "251d9e63-c4f2-4db0-8cba-a57d1f385f55"
+   },
+   {
+    "name": "APieceOfLand",
+    "uuid": "72e82fe4-08e8-4940-9312-bb78a1d7abec"
+   },
+   {
+    "name": "M0lten_Explorer",
+    "uuid": "3de59967-6bcd-48f9-83a0-23d626d1da86"
+   },
+   {
+    "name": "Rosea__",
+    "uuid": "11493d9c-18a3-49d6-a7e6-26b8d08edd41"
+   },
+   {
+    "name": "ImrealRakso",
+    "uuid": "75beaf38-76a3-4597-9f43-e02f13fd9b9f"
    }
   ],
   "trusted": [],
@@ -825,6 +733,38 @@
     "uuid": "507729bb-b6f0-46eb-b095-6cba53315b93"
    },
    {
+    "name": "Elegant Tenement",
+    "uuid": "fb5ca5b6-6236-46e5-91be-df3f97b37b58"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "c5164a9a-0be6-46ca-b3b8-80ae17eecb4e"
+   },
+   {
+    "name": "Gloomy Property",
+    "uuid": "fa571e9b-e3bc-42d8-9350-048adaf0d459"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "748598f1-5b52-49b9-aa67-39cc59a6f6b9"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "059460e2-24e5-48aa-b147-15b24e5e448b"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "21eac860-e9fe-4082-ab6b-fbc731145dd3"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "df09e7df-d0dd-4f2c-a9d6-b35b1b1024d1"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "232e2965-d720-4f1d-8698-4d8b7ea94aff"
+   },
+   {
     "name": "Gloomy Dwelling",
     "uuid": "ff43ec51-79d3-4c9d-8fc5-d8166c6b1693"
    },
@@ -849,44 +789,12 @@
     "uuid": "eb351730-015b-459b-abac-71ab1b199d6d"
    },
    {
-    "name": "Elegant Tenement",
-    "uuid": "fb5ca5b6-6236-46e5-91be-df3f97b37b58"
-   },
-   {
-    "name": "Annoying Apartment",
-    "uuid": "c5164a9a-0be6-46ca-b3b8-80ae17eecb4e"
-   },
-   {
-    "name": "Gloomy Property",
-    "uuid": "fa571e9b-e3bc-42d8-9350-048adaf0d459"
-   },
-   {
-    "name": "Cheerful Tenement",
-    "uuid": "748598f1-5b52-49b9-aa67-39cc59a6f6b9"
-   },
-   {
-    "name": "Cheerful Residence",
-    "uuid": "232e2965-d720-4f1d-8698-4d8b7ea94aff"
-   },
-   {
-    "name": "Upbeat Dwelling",
-    "uuid": "df09e7df-d0dd-4f2c-a9d6-b35b1b1024d1"
-   },
-   {
-    "name": "Annoying Apartment",
-    "uuid": "21eac860-e9fe-4082-ab6b-fbc731145dd3"
-   },
-   {
     "name": "Inconvenient Residence",
     "uuid": "12a06eb6-dd9d-4ab5-8603-17719723a0a8"
    },
    {
     "name": "Inconvenient Dwelling",
     "uuid": "98ffb315-6d76-4b06-942c-d9a73bc8231c"
-   },
-   {
-    "name": "Welcoming Property",
-    "uuid": "059460e2-24e5-48aa-b147-15b24e5e448b"
    },
    {
     "name": "Dingy Quarter",
@@ -898,12 +806,30 @@
     {
      "name": "Crab_Is_Terror",
      "uuid": "90fd8c99-ff30-4842-a00c-040ea0c8e2c0"
+    },
+    {
+     "name": "APieceOfLand",
+     "uuid": "72e82fe4-08e8-4940-9312-bb78a1d7abec"
+    },
+    {
+     "name": "M0lten_Explorer",
+     "uuid": "3de59967-6bcd-48f9-83a0-23d626d1da86"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "_Quokkie",
+     "uuid": "251d9e63-c4f2-4db0-8cba-a57d1f385f55"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "_Quokkie",
+     "uuid": "251d9e63-c4f2-4db0-8cba-a57d1f385f55"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

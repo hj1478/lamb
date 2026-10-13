@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Mellon",
   "uuid": "e0d1e89f-9007-4249-9277-c66c1bacf8f2",
@@ -35,25 +35,25 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 7,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 0.0,
+   "numOutlaws": 4,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
@@ -65,7 +65,7 @@
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35342.48210725916,
+    "x": 35347.89903938352,
     "y": 73.0,
-    "z": 158.49107247937647,
-    "pitch": 13.800034,
-    "yaw": 172.3457
+    "z": 149.8157742171649,
+    "pitch": 16.199715,
+    "yaw": 73.483734
    },
    "homeBlock": [
-    2208,
+    2209,
     9
    ],
    "townBlocks": [
@@ -109,6 +109,14 @@
     ],
     [
      2209,
+     9
+    ],
+    [
+     2210,
+     10
+    ],
+    [
+     2210,
      9
     ]
    ],
@@ -133,6 +141,10 @@
    {
     "name": "forbedring",
     "uuid": "7d1c0aa6-4b12-4556-bd67-209c86d86cc1"
+   },
+   {
+    "name": "Netroja",
+    "uuid": "cf437855-bf69-4ece-b71b-d38c832d9d01"
    }
   ],
   "quarters": [

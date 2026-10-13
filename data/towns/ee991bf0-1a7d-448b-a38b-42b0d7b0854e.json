@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Baoji",
   "uuid": "ee991bf0-1a7d-448b-a38b-42b0d7b0854e",
@@ -12,20 +12,20 @@
    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
   },
   "nation": {
-   "name": "Tang",
-   "uuid": "dbd533cf-1035-42c0-91f4-e2cb71bbf575"
+   "name": "PRC",
+   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
   },
   "timestamps": {
    "registered": 1777660223032,
-   "joinedNationAt": 1791579711205,
+   "joinedNationAt": 1791641386723,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 284,
-   "maxTownBlocks": 284,
+   "numTownBlocks": 299,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 17,
-   "numTrusted": 10,
-   "numOutlaws": 17,
-   "balance": 269.0,
+   "nationBonus": 100,
+   "numResidents": 16,
+   "numTrusted": 11,
+   "numOutlaws": 18,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -116,12 +116,20 @@
      -314
     ],
     [
+     2401,
+     -315
+    ],
+    [
      2386,
      -297
     ],
     [
      2401,
      -310
+    ],
+    [
+     2397,
+     -315
     ],
     [
      2386,
@@ -150,6 +158,14 @@
     [
      2392,
      -314
+    ],
+    [
+     2392,
+     -315
+    ],
+    [
+     2386,
+     -306
     ],
     [
      2392,
@@ -385,6 +401,10 @@
     ],
     [
      2391,
+     -315
+    ],
+    [
+     2391,
      -312
     ],
     [
@@ -398,6 +418,10 @@
     [
      2393,
      -314
+    ],
+    [
+     2393,
+     -315
     ],
     [
      2391,
@@ -616,6 +640,10 @@
      -310
     ],
     [
+     2400,
+     -315
+    ],
+    [
      2398,
      -311
     ],
@@ -645,11 +673,19 @@
     ],
     [
      2390,
+     -315
+    ],
+    [
+     2390,
      -314
     ],
     [
      2400,
      -312
+    ],
+    [
+     2398,
+     -315
     ],
     [
      2400,
@@ -746,6 +782,10 @@
     [
      2398,
      -301
+    ],
+    [
+     2389,
+     -315
     ],
     [
      2389,
@@ -913,6 +953,10 @@
     ],
     [
      2395,
+     -315
+    ],
+    [
+     2395,
      -314
     ],
     [
@@ -953,7 +997,15 @@
     ],
     [
      2394,
+     -315
+    ],
+    [
+     2394,
      -314
+    ],
+    [
+     2387,
+     -307
     ],
     [
      2387,
@@ -1080,6 +1132,10 @@
      -307
     ],
     [
+     2399,
+     -315
+    ],
+    [
      2394,
      -306
     ],
@@ -1150,6 +1206,10 @@
     [
      2402,
      -314
+    ],
+    [
+     2402,
+     -315
     ],
     [
      2388,
@@ -1260,10 +1320,6 @@
     "uuid": "580cb79c-90a1-4210-bb09-199186e836e3"
    },
    {
-    "name": "Albertchen857",
-    "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
-   },
-   {
     "name": "GHJKLZ666",
     "uuid": "7ec0a570-81dc-440b-a7bf-884b07302d9c"
    },
@@ -1338,6 +1394,10 @@
     "uuid": "baa0ba2b-9a0c-4e8f-8dbb-316444f5210c"
    },
    {
+    "name": "Albertchen857",
+    "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
+   },
+   {
     "name": "SOME7HING",
     "uuid": "67b26d2e-5953-4637-9691-c646bb0ddd6d"
    }
@@ -1410,13 +1470,13 @@
    {
     "name": "vwlv",
     "uuid": "dd122a05-ea2f-4992-91b5-fd08ee840ac5"
+   },
+   {
+    "name": "liluoluoluoluo",
+    "uuid": "06075900-c95b-400e-8874-cb997ee513b4"
    }
   ],
   "quarters": [
-   {
-    "name": "西地下工业区B1内区",
-    "uuid": "784db253-47d1-4d6e-b378-db345f09a30e"
-   },
    {
     "name": "Stylish Residence",
     "uuid": "b515cc81-19e2-48e2-804f-3c3b427b0813"
@@ -1464,10 +1524,6 @@
    {
     "name": "103",
     "uuid": "f072b1ff-60b3-4707-9c05-3b1700cec092"
-   },
-   {
-    "name": "售货抽奖机",
-    "uuid": "1f58d334-98ce-49d6-af21-4dccd5930583"
    },
    {
     "name": "集装箱101",
@@ -1530,16 +1586,8 @@
     "uuid": "ddf17dad-63f3-46d0-8446-6ca4beb32ca9"
    },
    {
-    "name": "tool1",
-    "uuid": "b2670236-ef07-4518-be26-1c62c70f6dd0"
-   },
-   {
     "name": "佛山市驻宝鸡市大使馆",
     "uuid": "78adc87e-8bb6-4407-9ae0-e2087f50e361"
-   },
-   {
-    "name": "地图画",
-    "uuid": "f716751f-2873-4a4a-bf9c-a35407f3d56d"
    },
    {
     "name": "陸委會寶鷄辦事處",
@@ -1548,10 +1596,6 @@
    {
     "name": "IFS F25",
     "uuid": "0a53d343-7570-4985-b288-5d061f8cc365"
-   },
-   {
-    "name": "IFS 告示牌",
-    "uuid": "4c1c4ce2-3b44-4d11-91a2-ab6d786065ff"
    },
    {
     "name": "宝鸡市仙人掌大厦熔炼域",
@@ -1658,20 +1702,40 @@
     "uuid": "0219948f-0c90-4956-8e31-04f32eb9714b"
    },
    {
-    "name": "地下商店东电子门",
-    "uuid": "aadd465a-e77c-46e0-abe1-eafe2a5878a2"
-   },
-   {
     "name": "地下商店西电子门",
     "uuid": "abbd5432-7d91-46bc-b0fc-965f5d9848f7"
    },
    {
-    "name": "地图画平台",
-    "uuid": "a3d8391f-9a5f-4941-92de-c2fe9ec0a286"
-   },
-   {
     "name": "群玉阁",
     "uuid": "3f78c722-5447-46f8-abc4-925ec5911ed3"
+   },
+   {
+    "name": "地下商店东电子门",
+    "uuid": "aadd465a-e77c-46e0-abe1-eafe2a5878a2"
+   },
+   {
+    "name": "西地下工业区B1内区",
+    "uuid": "784db253-47d1-4d6e-b378-db345f09a30e"
+   },
+   {
+    "name": "售货抽奖机",
+    "uuid": "1f58d334-98ce-49d6-af21-4dccd5930583"
+   },
+   {
+    "name": "tool1",
+    "uuid": "b2670236-ef07-4518-be26-1c62c70f6dd0"
+   },
+   {
+    "name": "地图画",
+    "uuid": "f716751f-2873-4a4a-bf9c-a35407f3d56d"
+   },
+   {
+    "name": "IFS 告示牌",
+    "uuid": "4c1c4ce2-3b44-4d11-91a2-ab6d786065ff"
+   },
+   {
+    "name": "地图画平台",
+    "uuid": "a3d8391f-9a5f-4941-92de-c2fe9ec0a286"
    }
   ],
   "ranks": {
@@ -1679,10 +1743,6 @@
     {
      "name": "meng_yuyun",
      "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
-    },
-    {
-     "name": "Albertchen857",
-     "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
     },
     {
      "name": "LongXiang66",
@@ -1713,10 +1773,6 @@
     {
      "name": "imisedyou",
      "uuid": "10b76995-02dd-4532-85e0-bb9e88fc82a6"
-    },
-    {
-     "name": "Albertchen857",
-     "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
     },
     {
      "name": "ChaiTsama",

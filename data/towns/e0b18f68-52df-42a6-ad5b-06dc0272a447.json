@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "New_Caistor",
   "uuid": "e0b18f68-52df-42a6-ad5b-06dc0272a447",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 2,
-   "numOutlaws": 0,
+   "numResidents": 10,
+   "numTrusted": 3,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -128,6 +128,14 @@
      -762
     ],
     [
+     40,
+     -762
+    ],
+    [
+     40,
+     -761
+    ],
+    [
      41,
      -763
     ],
@@ -170,9 +178,29 @@
    {
     "name": "xZakk_",
     "uuid": "292a5121-ff28-4bd1-8f45-ad2a3ce0f3ed"
+   },
+   {
+    "name": "MITSUI414",
+    "uuid": "97acfb02-b2ed-41d3-959e-f4facdeb87a9"
+   },
+   {
+    "name": "xiaoyixintong",
+    "uuid": "a3b26101-619c-4aa3-ab93-916a46497771"
+   },
+   {
+    "name": "RS_Jstify",
+    "uuid": "338ca4d6-fcd9-4e6a-8b73-3320561f6009"
+   },
+   {
+    "name": "FrenchMan69",
+    "uuid": "d03172a1-5dbd-4460-abc0-151567dc785b"
    }
   ],
   "trusted": [
+   {
+    "name": "Ncgx",
+    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
+   },
    {
     "name": "TempoCM",
     "uuid": "9fa9b683-4107-4484-89fb-3cde8133ed15"
@@ -182,7 +210,20 @@
     "uuid": "c045389d-6318-4e0c-a8ac-60f3f003fdab"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "haitham16",
+    "uuid": "96a5d477-ac77-4f7e-9d0d-687b7b065f09"
+   },
+   {
+    "name": "Fallen12_",
+    "uuid": "a89f197f-3864-49b0-90a5-ed14b7d103d5"
+   },
+   {
+    "name": "RobertThanos",
+    "uuid": "1ea30704-4fcb-436e-85be-3296dd7d82ad"
+   }
+  ],
   "quarters": [
    {
     "name": "Room 2",
@@ -201,8 +242,16 @@
     "uuid": "0730eafb-81f3-4352-b9ba-880dc147a1f6"
    },
    {
-    "name": "Enraging Apartment",
-    "uuid": "e16305f5-7594-499f-b558-79f3a66bb995"
+    "name": "Cheerful Residence",
+    "uuid": "eae0f717-40c7-4fc6-b191-aa682e19ceca"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "16eff3a3-708f-4147-886e-a5c4023a5f0b"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "10342d96-dd09-415d-8fcb-58c1b481fa26"
    }
   ],
   "ranks": {

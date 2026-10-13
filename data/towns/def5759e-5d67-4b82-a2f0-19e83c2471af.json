@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Khaz_Modan",
   "uuid": "def5759e-5d67-4b82-a2f0-19e83c2471af",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AbsyntheFae",
-   "uuid": "2ec065db-b19a-4b9b-a79f-b37d50e331b1"
+   "name": "NPC99",
+   "uuid": "ca71f1d7-3ddf-20af-ac34-0c72325a0179"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776575840857,
-   "joinedNationAt": 1779130780566,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791799202415
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 70,
-   "maxTownBlocks": 100,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -376,8 +376,8 @@
   },
   "residents": [
    {
-    "name": "AbsyntheFae",
-    "uuid": "2ec065db-b19a-4b9b-a79f-b37d50e331b1"
+    "name": "NPC99",
+    "uuid": "ca71f1d7-3ddf-20af-ac34-0c72325a0179"
    }
   ],
   "trusted": [],

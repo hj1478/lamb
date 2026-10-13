@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Vichy",
   "uuid": "fdd7ad0f-542b-45db-b289-b3ac5204e32b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 124,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 18,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -594,10 +594,6 @@
    {
     "name": "MrWinRock",
     "uuid": "39daae20-ce0e-46a3-a7e3-873762d34043"
-   },
-   {
-    "name": "lea0fficiel",
-    "uuid": "74a8377a-365c-4737-ad4d-91ef76da75ed"
    }
   ],
   "trusted": [

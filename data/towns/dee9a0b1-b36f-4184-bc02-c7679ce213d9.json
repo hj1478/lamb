@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Blazzers",
   "uuid": "dee9a0b1-b36f-4184-bc02-c7679ce213d9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 85,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 4,
+   "nationBonus": 60,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -440,16 +440,8 @@
     "uuid": "99870200-4c1f-4e24-9535-eef5bdbbfd4b"
    },
    {
-    "name": "The_VoidReaper",
-    "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
-   },
-   {
     "name": "jojo_797",
     "uuid": "650925b1-42db-4704-b72b-7c0611eae710"
-   },
-   {
-    "name": "miniCW3L",
-    "uuid": "506f0a4f-8b32-4973-b816-a3342e164f4d"
    }
   ],
   "trusted": [],
@@ -503,24 +495,10 @@
     {
      "name": "Matthew_PvP_",
      "uuid": "99870200-4c1f-4e24-9535-eef5bdbbfd4b"
-    },
-    {
-     "name": "The_VoidReaper",
-     "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "The_VoidReaper",
-     "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
-    }
-   ],
-   "Police": [
-    {
-     "name": "The_VoidReaper",
-     "uuid": "cfb29b55-50ff-475c-b6c5-ce4984a3084a"
-    }
-   ],
+   "Recruiter": [],
+   "Police": [],
    "Tax-exempt": [
     {
      "name": "Matthew_PvP_",

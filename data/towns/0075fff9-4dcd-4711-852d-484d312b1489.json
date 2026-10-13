@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Flagstaff",
   "uuid": "0075fff9-4dcd-4711-852d-484d312b1489",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 70,
-   "maxTownBlocks": 90,
+   "numTownBlocks": 71,
+   "maxTownBlocks": 78,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 65.0,
+   "balance": 90.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -297,6 +297,10 @@
     ],
     [
      -2499,
+     -305
+    ],
+    [
+     -2499,
      -306
     ],
     [
@@ -378,10 +382,6 @@
    {
     "name": "InbidandaJones",
     "uuid": "685eb553-9a1b-4f40-b2ac-d25b3af4adef"
-   },
-   {
-    "name": "thebestever80",
-    "uuid": "6112f4ec-b103-4072-9110-8a3dc5924798"
    },
    {
     "name": "WombedBison4030",

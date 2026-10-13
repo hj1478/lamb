@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Pyongsong",
   "uuid": "e1a4303e-72bc-47bd-9251-cb67aa3f56de",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 120,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 119,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "numResidents": 6,
+   "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 25.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -228,14 +228,6 @@
      -431
     ],
     [
-     2819,
-     -434
-    ],
-    [
-     2819,
-     -433
-    ],
-    [
      2826,
      -439
     ],
@@ -252,20 +244,12 @@
      -435
     ],
     [
-     2834,
-     -431
-    ],
-    [
      2826,
      -438
     ],
     [
      2826,
      -437
-    ],
-    [
-     2834,
-     -433
     ],
     [
      2821,
@@ -336,6 +320,10 @@
      -439
     ],
     [
+     2830,
+     -440
+    ],
+    [
      2820,
      -434
     ],
@@ -358,6 +346,10 @@
     [
      2831,
      -439
+    ],
+    [
+     2831,
+     -440
     ],
     [
      2831,
@@ -454,6 +446,10 @@
     [
      2825,
      -437
+    ],
+    [
+     2829,
+     -440
     ],
     [
      2829,
@@ -580,22 +576,34 @@
     "uuid": "666afb79-7c4e-41e9-9766-e213ad2efbd0"
    },
    {
-    "name": "ZeroTwo1904",
-    "uuid": "c01713d2-68c2-4842-94d0-ed2386c606b5"
+    "name": "JustABoxOfCereal",
+    "uuid": "450d9b4c-ed68-48e5-9e66-b730c15f440e"
+   },
+   {
+    "name": "RKnowledge",
+    "uuid": "c5c6c413-3638-448b-a918-35a1195888c7"
    },
    {
     "name": "Forgotten_21",
     "uuid": "9ebdfb6a-4e9d-4466-8335-66b78aa0f453"
    },
    {
-    "name": "CmoreButs",
-    "uuid": "dee8ed95-69c7-41be-9d93-17adc8306c79"
+    "name": "MrScep5140",
+    "uuid": "cbe2fe18-cce2-4a36-97e9-4efae3441922"
+   },
+   {
+    "name": "MaciejW12",
+    "uuid": "1b34f327-bd41-4cf0-841b-260efdf5cf69"
    }
   ],
   "trusted": [
    {
-    "name": "ZeroTwo1904",
-    "uuid": "c01713d2-68c2-4842-94d0-ed2386c606b5"
+    "name": "RKnowledge",
+    "uuid": "c5c6c413-3638-448b-a918-35a1195888c7"
+   },
+   {
+    "name": "JustABoxOfCereal",
+    "uuid": "450d9b4c-ed68-48e5-9e66-b730c15f440e"
    },
    {
     "name": "Forgotten_21",
@@ -610,7 +618,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "JustABoxOfCereal",
+     "uuid": "450d9b4c-ed68-48e5-9e66-b730c15f440e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

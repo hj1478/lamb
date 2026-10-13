@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Kizuna_Town",
   "uuid": "feb8676f-d347-4080-863e-09f2de5d62fc",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MAIMAIGAMES",
-   "uuid": "62a2bd43-e174-4186-aad2-1f40750e12d4"
+   "name": "NPC54",
+   "uuid": "4ddeab5f-2bc4-206a-a1a4-89266ef91fa6"
   },
   "nation": {
-   "name": "Kingdom_Of_Spain",
-   "uuid": "ca8122c8-1009-480b-a29d-0a9dccb9f6c5"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777960741931,
-   "joinedNationAt": 1779506257411,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712801248
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -256,8 +256,8 @@
   },
   "residents": [
    {
-    "name": "MAIMAIGAMES",
-    "uuid": "62a2bd43-e174-4186-aad2-1f40750e12d4"
+    "name": "NPC54",
+    "uuid": "4ddeab5f-2bc4-206a-a1a4-89266ef91fa6"
    }
   ],
   "trusted": [],

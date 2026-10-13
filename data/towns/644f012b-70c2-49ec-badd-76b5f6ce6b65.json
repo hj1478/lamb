@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-10-13T14:21:19Z",
+ "data": {
+  "name": "Sealland",
+  "uuid": "644f012b-70c2-49ec-badd-76b5f6ce6b65",
+  "board": "/town set board [msg]",
+  "founder": "TzarPortal",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "TzarPortal",
+   "uuid": "8295a69a-6b59-4f19-98b1-a57cd4bd48a5"
+  },
+  "nation": {
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+  },
+  "timestamps": {
+   "registered": 1791852030934,
+   "joinedNationAt": 1791852096970,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 564.2598282236685,
+    "y": 62.0,
+    "z": -12479.464487788797,
+    "pitch": 28.050026,
+    "yaw": 78.85485
+   },
+   "homeBlock": [
+    35,
+    -780
+   ],
+   "townBlocks": [
+    [
+     34,
+     -780
+    ],
+    [
+     35,
+     -780
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "TzarPortal",
+    "uuid": "8295a69a-6b59-4f19-98b1-a57cd4bd48a5"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

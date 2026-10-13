@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Grussyi",
   "uuid": "e6c1b285-15dc-41c7-9815-5693072ef79d",
-  "board": "Do you realize what you have asked me? The only way to move it is to cut it from its roots! Only my husband knew that, so I guess that makes him you!",
+  "board": "Let the arrow fly, once you know that your aim is true. Cause Id rather die than grow old without the best of you.",
   "founder": "pengpy",
   "wiki": null,
   "discord": null,
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 232,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
+   "numResidents": 11,
    "numTrusted": 6,
    "numOutlaws": 14,
-   "balance": 0.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17481.512887485176,
-    "y": 28.0,
-    "z": -6522.768425670488,
-    "pitch": 31.420115,
-    "yaw": -179.96587
+    "x": 17480.505818308546,
+    "y": 8.0,
+    "z": -6609.38213284587,
+    "pitch": 8.062435,
+    "yaw": 0.34051514
    },
    "homeBlock": [
     1092,
-    -408
+    -414
    ],
    "townBlocks": [
     [
@@ -1067,6 +1067,10 @@
    {
     "name": "saje3n",
     "uuid": "adf44c1f-2710-489b-b9dc-9fd64e40fb03"
+   },
+   {
+    "name": "SmallGulliver",
+    "uuid": "d134afe5-934e-4e6c-a75c-87606fda0757"
    }
   ],
   "trusted": [
@@ -1185,6 +1189,10 @@
    {
     "name": "Dull Property",
     "uuid": "1bb4da21-44d9-4057-a949-3a83f371c9b2"
+   },
+   {
+    "name": "Trapdoor Switch",
+    "uuid": "4b5283b5-ff30-42ec-a71e-fd3b0d7a2495"
    }
   ],
   "ranks": {

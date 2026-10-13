@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Rapids",
   "uuid": "f1f22f3e-bd04-4958-8801-60c5a525d4e2",
@@ -12,12 +12,12 @@
    "uuid": "4bcfaf60-bea8-460d-b12a-55e684e93880"
   },
   "nation": {
-   "name": "Chicagoland",
-   "uuid": "b1992b2c-6e25-474a-955a-6b311cdfa39e"
+   "name": "New_York",
+   "uuid": "f5254fa5-98b8-41d9-9bc8-ed3ddb00c354"
   },
   "timestamps": {
    "registered": 1790484548250,
-   "joinedNationAt": 1791481111834,
+   "joinedNationAt": 1791679450691,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 312,
-   "maxTownBlocks": 344,
+   "maxTownBlocks": 376,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 22,
+   "nationBonus": 100,
+   "numResidents": 23,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 27.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1430,6 +1430,10 @@
    {
     "name": "Rynar_Kor",
     "uuid": "7d2647cd-1df1-4643-989e-6f0819e40759"
+   },
+   {
+    "name": "ChristmasG",
+    "uuid": "e9661607-2754-4cd0-80a6-95154a8c4ca9"
    }
   ],
   "trusted": [
@@ -1514,6 +1518,10 @@
     {
      "name": "Rynar_Kor",
      "uuid": "7d2647cd-1df1-4643-989e-6f0819e40759"
+    },
+    {
+     "name": "ChristmasG",
+     "uuid": "e9661607-2754-4cd0-80a6-95154a8c4ca9"
     }
    ],
    "Recruiter": [

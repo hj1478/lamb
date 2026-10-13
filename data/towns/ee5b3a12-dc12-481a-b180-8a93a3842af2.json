@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Augusta",
   "uuid": "ee5b3a12-dc12-481a-b180-8a93a3842af2",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 10,
    "numTrusted": 0,
-   "numOutlaws": 2,
-   "balance": 192.0,
+   "numOutlaws": 1,
+   "balance": 182.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1483,10 +1483,6 @@
   "trusted": [],
   "outlaws": [
    {
-    "name": "Vrodigy",
-    "uuid": "ce305b5b-b235-44fe-b1b1-f270d3e0cfe2"
-   },
-   {
     "name": "Sugar_U",
     "uuid": "79c991c8-07a4-4367-ad18-412eadd486fb"
    }
@@ -1829,10 +1825,6 @@
     "uuid": "ed255c07-ffcc-4842-8814-6af6e6d22bc7"
    },
    {
-    "name": "Unit 201",
-    "uuid": "aec405be-ea41-4e08-818c-f9d6a88abfce"
-   },
-   {
     "name": "Unit 203",
     "uuid": "3e937e40-494c-454e-a2df-e9bd2404b2af"
    },
@@ -1887,6 +1879,10 @@
    {
     "name": "Unit 304",
     "uuid": "3b7fe7a8-3e7c-47eb-9a59-0db61c849814"
+   },
+   {
+    "name": "Unit 201",
+    "uuid": "aec405be-ea41-4e08-818c-f9d6a88abfce"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Mljet",
   "uuid": "ddb3cbfa-dddd-413b-b2e5-16fe8322153d",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1791205625593,
-   "joinedNationAt": 1791379087925,
+   "joinedNationAt": 1791714169702,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 7,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6310.614627398988,
-    "y": 64.0,
-    "z": -8302.55216609376,
-    "pitch": 7.9500093,
-    "yaw": -138.68335
+    "x": 6288.300000011921,
+    "y": 66.0,
+    "z": -8300.852171954239,
+    "pitch": 7.949964,
+    "yaw": -84.69971
    },
    "homeBlock": [
-    394,
+    393,
     -519
    ],
    "townBlocks": [
@@ -100,6 +100,10 @@
      -519
     ],
     [
+     395,
+     -520
+    ],
+    [
      393,
      -520
     ],
@@ -110,6 +114,10 @@
     [
      394,
      -519
+    ],
+    [
+     394,
+     -520
     ]
    ],
    "worlds": {}

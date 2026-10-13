@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Creature_Cape",
   "uuid": "e9646463-802a-4cd4-8dec-65bd24c68f23",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Liveryy",
-   "uuid": "bd356172-b025-49fa-87e7-970c9c37a8fe"
+   "name": "NPC58",
+   "uuid": "8e11a04b-0c44-20bc-a445-1053ca7b512f"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780106803571,
-   "joinedNationAt": 1780114611444,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712801733
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 79,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -48,21 +48,21 @@
   "perms": {
    "build": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
@@ -71,10 +71,10 @@
     true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -412,20 +412,15 @@
   },
   "residents": [
    {
-    "name": "Liveryy",
-    "uuid": "bd356172-b025-49fa-87e7-970c9c37a8fe"
+    "name": "NPC58",
+    "uuid": "8e11a04b-0c44-20bc-a445-1053ca7b512f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Liveryy",
-     "uuid": "bd356172-b025-49fa-87e7-970c9c37a8fe"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

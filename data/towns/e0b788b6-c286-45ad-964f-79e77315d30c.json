@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-13T14:21:19Z",
  "data": {
   "name": "Obsidian_Castle",
   "uuid": "e0b788b6-c286-45ad-964f-79e77315d30c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Hos_Del_Est",
-   "uuid": "5679c26e-42ed-4d9f-8823-0653dd3b6af0"
+   "name": "NPC53",
+   "uuid": "204bab37-3c42-20f0-8e90-b773f115ac11"
   },
   "nation": {
-   "name": "United_States",
-   "uuid": "2195a091-cf72-42c3-8816-0860e5562f8d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786291016427,
-   "joinedNationAt": 1786291036935,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791712803086
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "Hos_Del_Est",
-    "uuid": "5679c26e-42ed-4d9f-8823-0653dd3b6af0"
+    "name": "NPC53",
+    "uuid": "204bab37-3c42-20f0-8e90-b773f115ac11"
    }
   ],
   "trusted": [
