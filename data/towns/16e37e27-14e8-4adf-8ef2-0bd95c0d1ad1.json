@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Thuwal",
   "uuid": "16e37e27-14e8-4adf-8ef2-0bd95c0d1ad1",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 107,
-   "maxTownBlocks": 192,
+   "maxTownBlocks": 248,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 11,
-   "numTrusted": 3,
-   "numOutlaws": 13,
+   "nationBonus": 80,
+   "numResidents": 14,
+   "numTrusted": 4,
+   "numOutlaws": 14,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14056.052641397784,
+    "x": 14050.760357065345,
     "y": 63.0,
-    "z": -72.34471033879883,
-    "pitch": 13.799983,
-    "yaw": -179.65787
+    "z": -176.16574283058907,
+    "pitch": 0.74998116,
+    "yaw": 90.79213
    },
    "homeBlock": [
     878,
-    -5
+    -12
    ],
    "townBlocks": [
     [
@@ -571,6 +571,18 @@
    {
     "name": "LuckyOrange33",
     "uuid": "aa914724-f01f-4fb3-b8f1-594be3376f8e"
+   },
+   {
+    "name": "poeting",
+    "uuid": "2337b141-f8b9-4042-9f56-5c92c26c7544"
+   },
+   {
+    "name": "spider_lol",
+    "uuid": "2aa42d57-0297-45d4-836a-ce865767a436"
+   },
+   {
+    "name": "V3XZA",
+    "uuid": "8bef04e6-5499-4e15-ada9-f0cc0fd74be7"
    }
   ],
   "trusted": [
@@ -583,15 +595,15 @@
     "uuid": "c2af5ad0-55da-490d-8199-ebee7edde54e"
    },
    {
+    "name": "RatMode3",
+    "uuid": "44f685f3-417a-4c14-9607-a9287a170a5f"
+   },
+   {
     "name": "36hoi",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
   "outlaws": [
-   {
-    "name": "Yim1_",
-    "uuid": "fef1a006-7b40-4561-8f15-fc9a166c3a9a"
-   },
    {
     "name": "89XD",
     "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
@@ -613,32 +625,40 @@
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "EthanTheParrot",
-    "uuid": "029720ea-ee38-428d-b833-6e04677ebc25"
-   },
-   {
     "name": "Taha_AbuObaida",
     "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
-   {
-    "name": "DoomsdayTbot",
-    "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
    },
    {
     "name": "Liu__Bang",
     "uuid": "5af1ec93-8651-4339-a677-421ddf7e3e59"
    },
    {
-    "name": "Zeldexy",
-    "uuid": "c0606a36-b061-4633-8c77-7e6fd1888a87"
-   },
-   {
     "name": "YrKD",
     "uuid": "d04b24be-0610-4c59-ad9f-082636817f17"
    },
    {
-    "name": "Iesk",
-    "uuid": "67d86ecc-662f-4f8c-8697-78dfda77fe8b"
+    "name": "invisible_panda2",
+    "uuid": "aeaee6f9-0b42-4f29-b76d-068915a46fa9"
+   },
+   {
+    "name": "M3L0nH34d",
+    "uuid": "8e86cb21-0b76-4072-88da-fb63babea247"
+   },
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "felixfan342",
+    "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+   },
+   {
+    "name": "Historian_Man",
+    "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
+   },
+   {
+    "name": "luffybanana",
+    "uuid": "e9d6ca5d-26a3-4a3b-8e8b-8ac18dad2e93"
    }
   ],
   "quarters": [
@@ -703,14 +723,6 @@
     "uuid": "35eed257-6745-49fc-b68e-95e4bea19f57"
    },
    {
-    "name": "Upbeat Dwelling",
-    "uuid": "1eb8573b-568a-484e-bc2c-33487c635b3a"
-   },
-   {
-    "name": "Upbeat Quarter",
-    "uuid": "d7295072-fe98-4c1a-8ccc-2e9cfa24ddc9"
-   },
-   {
     "name": "Elegant Residence",
     "uuid": "a9bb8fc7-2aff-4105-8af9-d003201c7461"
    },
@@ -737,10 +749,6 @@
    {
     "name": "Dingy Quarter",
     "uuid": "19c5dcba-3783-4077-8efb-2e4751e52cd6"
-   },
-   {
-    "name": "Enraging Dwelling",
-    "uuid": "50c33a32-6625-425a-9584-2d36e8c53961"
    },
    {
     "name": "Bland Tenement",
@@ -817,6 +825,18 @@
    {
     "name": "Cheerful Apartment",
     "uuid": "eacafc5c-9879-4187-a95c-2af36a3f4a15"
+   },
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "d7295072-fe98-4c1a-8ccc-2e9cfa24ddc9"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "1eb8573b-568a-484e-bc2c-33487c635b3a"
+   },
+   {
+    "name": "Enraging Dwelling",
+    "uuid": "50c33a32-6625-425a-9584-2d36e8c53961"
    }
   ],
   "ranks": {

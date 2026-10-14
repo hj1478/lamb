@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Yass",
   "uuid": "0ca66652-7d24-41f9-92a1-03fd3242ad34",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 8,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 6,
-   "numOutlaws": 0,
-   "balance": 65.0,
+   "numOutlaws": 1,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -113,6 +113,10 @@
     ],
     [
      3338,
+     1312
+    ],
+    [
+     3338,
      1314
     ],
     [
@@ -162,7 +166,12 @@
     "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "oum1",
+    "uuid": "faf1fa69-f876-497f-964c-444357f5ca87"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

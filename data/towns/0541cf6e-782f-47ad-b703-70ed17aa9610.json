@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Fih",
   "uuid": "0541cf6e-782f-47ad-b703-70ed17aa9610",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 236,
-   "maxTownBlocks": 416,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 28,
+   "nationBonus": 100,
+   "numResidents": 24,
    "numTrusted": 5,
-   "numOutlaws": 7,
-   "balance": 100.0,
+   "numOutlaws": 8,
+   "balance": 90.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1057,20 +1057,8 @@
     "uuid": "b12509e5-3ac7-4369-b20d-e97ec5f2357d"
    },
    {
-    "name": "maxcaw",
-    "uuid": "8759e45d-f392-49fc-99d7-4d7e20d5abd6"
-   },
-   {
     "name": "gddk",
     "uuid": "55245ea1-00fd-4f90-8422-f072bb2d4aa0"
-   },
-   {
-    "name": "relapsee_Vexzpx",
-    "uuid": "f6f744a0-01e9-4178-afd7-0469219bb4ce"
-   },
-   {
-    "name": "superlatejarif7",
-    "uuid": "8c77ab8e-a420-472a-8a4b-684ad0cf8480"
    },
    {
     "name": "_Melix_",
@@ -1117,10 +1105,6 @@
     "uuid": "d0db7914-a965-48c2-9642-a52e26852523"
    },
    {
-    "name": "Lukikuk21",
-    "uuid": "1953c50b-2ce3-4e41-9a71-74f0b8b3dd55"
-   },
-   {
     "name": "2468asdf",
     "uuid": "aecb0b32-1495-4032-9ab6-e98383470ad4"
    },
@@ -1145,16 +1129,16 @@
     "uuid": "43a3fb70-fafb-47bc-b90a-1af9dc7d7d49"
    },
    {
-    "name": "Marivanna",
-    "uuid": "6a44e77b-90ed-4dcd-ad59-fc7450c5bb23"
-   },
-   {
     "name": "SheepLIfe2000",
     "uuid": "e59104a1-7c43-423a-b312-f67f8ab2da8c"
    },
    {
     "name": "BugBA3726",
     "uuid": "73faad55-ee6b-4632-bf0a-8054c220886f"
+   },
+   {
+    "name": "izlohh",
+    "uuid": "59e10bf3-8da7-48ca-85eb-b9f8d98fe335"
    }
   ],
   "trusted": [
@@ -1207,6 +1191,10 @@
    {
     "name": "invisible_panda2",
     "uuid": "aeaee6f9-0b42-4f29-b76d-068915a46fa9"
+   },
+   {
+    "name": "oum1",
+    "uuid": "faf1fa69-f876-497f-964c-444357f5ca87"
    }
   ],
   "quarters": [
@@ -1299,10 +1287,6 @@
     "uuid": "0bdd4b2e-8c32-4c01-a54c-0373978e235a"
    },
    {
-    "name": "Gloomy Flat",
-    "uuid": "5c23bd12-8b6f-41b3-9bc8-f977b578d586"
-   },
-   {
     "name": "Dingy Property",
     "uuid": "59fc7d19-d15f-4da6-9a1b-285f6e2e7d7c"
    },
@@ -1319,20 +1303,12 @@
     "uuid": "d7042a0f-ca7f-4e21-90f7-c2eadf61e77d"
    },
    {
-    "name": "Lotto Winnings",
-    "uuid": "bb0bb500-d4bb-40ef-bd43-0f3beb61b374"
-   },
-   {
     "name": "Enraging Apartment",
     "uuid": "ba9170d5-80e4-463f-8051-103a720d1c77"
    },
    {
     "name": "Maximum",
     "uuid": "ba00c5fd-2384-4b12-855c-34c59fda084a"
-   },
-   {
-    "name": "Spruce Dub(5g)",
-    "uuid": "fda96af4-2ea2-4388-af1a-4aafa201e70d"
    },
    {
     "name": "Bamboo Logs(5g)",
@@ -1345,14 +1321,38 @@
    {
     "name": "Pale Oak(5g)",
     "uuid": "70684785-03ee-434d-83b7-927bf91a1674"
+   },
+   {
+    "name": "Spruce Dub(5g)",
+    "uuid": "fda96af4-2ea2-4388-af1a-4aafa201e70d"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "bf8ed61b-38a4-4f87-b9b2-95d03e8e4fc4"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "5c23bd12-8b6f-41b3-9bc8-f977b578d586"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "079f327c-acf3-4f25-a6e6-f5952f3da14b"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "28a76ac8-d6ad-4355-9332-1dfa3bfbda48"
+   },
+   {
+    "name": "Enraging Tenement",
+    "uuid": "7f964bb1-4363-4c83-b1d6-9e1be96e9013"
+   },
+   {
+    "name": "Lotto Winnings",
+    "uuid": "bb0bb500-d4bb-40ef-bd43-0f3beb61b374"
    }
   ],
   "ranks": {
    "Councillor": [
-    {
-     "name": "maxcaw",
-     "uuid": "8759e45d-f392-49fc-99d7-4d7e20d5abd6"
-    },
     {
      "name": "BugBA3726",
      "uuid": "73faad55-ee6b-4632-bf0a-8054c220886f"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Dusk",
   "uuid": "0fcb65a3-0cab-4521-8860-4f03a8703cda",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 1014.0,
@@ -202,13 +202,22 @@
    {
     "name": "PenutSmasher",
     "uuid": "f08153fe-e90f-43b8-983d-c3b721712533"
+   },
+   {
+    "name": "GIMMETHREEE",
+    "uuid": "8ecf43f8-cd50-4d5b-8931-48de88cc3245"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "GIMMETHREEE",
+     "uuid": "8ecf43f8-cd50-4d5b-8931-48de88cc3245"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

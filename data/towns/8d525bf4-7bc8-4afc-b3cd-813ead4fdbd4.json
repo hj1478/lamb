@@ -1,31 +1,31 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "GardenRoad",
-  "uuid": "e46c5e75-efeb-43b7-bc6f-07a56f0dbda3",
-  "board": "[The Path Continues lol]",
-  "founder": "SirHolland",
+  "name": "Devonport",
+  "uuid": "8d525bf4-7bc8-4afc-b3cd-813ead4fdbd4",
+  "board": "/town set board [msg]",
+  "founder": "Min1sterr",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC109",
-   "uuid": "6af54750-fe4e-2016-b6b2-7e432988bfe2"
+   "name": "NPC142",
+   "uuid": "7bf24dbf-89ce-2003-b647-6a99a5b9b368"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789150853255,
+   "registered": 1791960422858,
    "joinedNationAt": null,
-   "ruinedAt": 1791642298365
+   "ruinedAt": 1791962582863
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": true,
    "isForSale": false,
    "hasNation": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 48.0,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,94 +80,44 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -40520.040820677976,
-    "y": 68.0,
-    "z": -15640.858033460387,
-    "pitch": 55.65031,
-    "yaw": -3.2989807
+    "x": 52487.69999998808,
+    "y": 69.0,
+    "z": 24148.99528662754,
+    "pitch": -1.6500113,
+    "yaw": 89.11252
    },
    "homeBlock": [
-    -2533,
-    -978
+    3280,
+    1509
    ],
    "townBlocks": [
     [
-     -2531,
-     -978
+     3280,
+     1509
     ],
     [
-     -2531,
-     -977
+     3279,
+     1508
     ],
     [
-     -2534,
-     -976
+     3280,
+     1508
     ],
     [
-     -2534,
-     -978
-    ],
-    [
-     -2532,
-     -979
-    ],
-    [
-     -2534,
-     -977
-    ],
-    [
-     -2532,
-     -978
-    ],
-    [
-     -2534,
-     -979
-    ],
-    [
-     -2532,
-     -977
-    ],
-    [
-     -2532,
-     -976
-    ],
-    [
-     -2533,
-     -979
-    ],
-    [
-     -2533,
-     -977
-    ],
-    [
-     -2533,
-     -978
-    ],
-    [
-     -2533,
-     -976
+     3279,
+     1509
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC109",
-    "uuid": "6af54750-fe4e-2016-b6b2-7e432988bfe2"
+    "name": "NPC142",
+    "uuid": "7bf24dbf-89ce-2003-b647-6a99a5b9b368"
    }
   ],
-  "trusted": [
-   {
-    "name": "TheLegend1st",
-    "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
-   }
-  ],
-  "outlaws": [
-   {
-    "name": "TOSd",
-    "uuid": "436f6677-1793-4875-876d-9b6c0e5016f0"
-   }
-  ],
+  "trusted": [],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

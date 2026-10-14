@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Galicia",
   "uuid": "02fb5e70-eea8-4852-8d29-46ff034fd99b",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 3,
-   "balance": 95.0,
+   "balance": 42.0,
    "forSalePrice": null
   },
   "perms": {
@@ -202,10 +202,6 @@
     [
      -161,
      -539
-    ],
-    [
-     -149,
-     -540
     ],
     [
      -171,
@@ -828,7 +824,16 @@
      -538
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -919,
+       128
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {

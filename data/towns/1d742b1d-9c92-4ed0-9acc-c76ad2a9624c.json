@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Cephalonia",
   "uuid": "1d742b1d-9c92-4ed0-9acc-c76ad2a9624c",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ppm2004",
-   "uuid": "3c8b3837-a800-4529-8f45-1a26f25b43b9"
+   "name": "Whoovian",
+   "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
   },
   "nation": {
    "name": "Byzantium",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 98,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 92,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 9,
-   "numOutlaws": 0,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -104,6 +104,10 @@
      -388
     ],
     [
+     467,
+     -389
+    ],
+    [
      461,
      -406
     ],
@@ -153,10 +157,6 @@
     ],
     [
      464,
-     -393
-    ],
-    [
-     464,
      -392
     ],
     [
@@ -180,16 +180,8 @@
      -401
     ],
     [
-     464,
-     -395
-    ],
-    [
      458,
      -402
-    ],
-    [
-     464,
-     -394
     ],
     [
      458,
@@ -373,19 +365,7 @@
     ],
     [
      463,
-     -393
-    ],
-    [
-     463,
      -392
-    ],
-    [
-     463,
-     -395
-    ],
-    [
-     463,
-     -394
     ],
     [
      465,
@@ -406,14 +386,6 @@
     [
      463,
      -404
-    ],
-    [
-     465,
-     -395
-    ],
-    [
-     465,
-     -394
     ],
     [
      463,
@@ -464,6 +436,10 @@
      -400
     ],
     [
+     468,
+     -388
+    ],
+    [
      459,
      -401
     ],
@@ -498,6 +474,10 @@
    {
     "name": "Mr_Cheezebugre",
     "uuid": "335f00dd-69b9-485a-909b-e3f72e60adaa"
+   },
+   {
+    "name": "Whoovian",
+    "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
    }
   ],
   "trusted": [
@@ -538,7 +518,16 @@
     "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "gezdomovec",
+    "uuid": "25d9aa8a-2411-4688-9de7-fd54a27c2c8c"
+   },
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

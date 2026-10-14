@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Fremont",
   "uuid": "19c32688-b231-476d-82de-726a4c4ca200",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "realbuttonxyz",
-   "uuid": "ba1e6743-691e-4117-b75a-2be27e5566ec"
+   "name": "NPC105",
+   "uuid": "1cbc67f8-8799-205f-9d08-7958c3af3fb2"
   },
   "nation": {
-   "name": "Alabama",
-   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791850714088,
-   "joinedNationAt": 1791850740190,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791924352785
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,44 +47,44 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30985.26241863629,
+    "x": -30983.410755265075,
     "y": 63.0,
-    "z": -3995.029831910088,
-    "pitch": 9.450005,
-    "yaw": 159.18585
+    "z": -3994.6360843879224,
+    "pitch": 18.0,
+    "yaw": 179.88655
    },
    "homeBlock": [
     -1937,
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "realbuttonxyz",
-    "uuid": "ba1e6743-691e-4117-b75a-2be27e5566ec"
+    "name": "NPC105",
+    "uuid": "1cbc67f8-8799-205f-9d08-7958c3af3fb2"
    }
   ],
   "trusted": [

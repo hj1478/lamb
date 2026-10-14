@@ -1,111 +1,115 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Nanortalik",
-  "uuid": "b630eb82-7666-4fcf-9499-7f2c77ce3185",
+  "name": "New_Lerwick",
+  "uuid": "44b37030-5e8d-4813-8341-d237221c7460",
   "board": "/town set board [msg]",
-  "founder": "BetterAuto",
+  "founder": "SoggyTeaTowel",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC116",
-   "uuid": "f7123cb3-6c92-2026-88f3-2b4874464110"
+   "name": "SoggyTeaTowel",
+   "uuid": "4674c146-31a4-4c68-a16d-bea0785f2ed5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Solomon_Islands",
+   "uuid": "9aed3715-16cf-4e98-9692-b67b757836e0"
   },
   "timestamps": {
-   "registered": 1787781467760,
-   "joinedNationAt": null,
-   "ruinedAt": 1791712803879
+   "registered": 1791970992340,
+   "joinedNationAt": 1791971629441,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
+    "pvp": false,
+    "explosion": false,
     "fire": true,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -15542.29046990103,
-    "y": 77.0,
-    "z": -16661.346036692332,
-    "pitch": 3.000051,
-    "yaw": -83.19043
+    "x": 56716.66452672351,
+    "y": 69.0,
+    "z": 5545.177204654805,
+    "pitch": 27.299992,
+    "yaw": -125.40655
    },
    "homeBlock": [
-    -972,
-    -1042
+    3544,
+    346
    ],
    "townBlocks": [
     [
-     -973,
-     -1042
+     3544,
+     347
     ],
     [
-     -972,
-     -1042
+     3544,
+     346
+    ],
+    [
+     3543,
+     347
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC116",
-    "uuid": "f7123cb3-6c92-2026-88f3-2b4874464110"
+    "name": "SoggyTeaTowel",
+    "uuid": "4674c146-31a4-4c68-a16d-bea0785f2ed5"
    }
   ],
   "trusted": [],

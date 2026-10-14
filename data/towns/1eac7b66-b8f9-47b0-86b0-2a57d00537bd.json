@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "AecMusic",
   "uuid": "1eac7b66-b8f9-47b0-86b0-2a57d00537bd",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 89,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 10,
+   "numResidents": 5,
+   "numTrusted": 11,
    "numOutlaws": 3,
-   "balance": 8.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": true,
     "mobs": false
    }
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27527.049691078835,
-    "y": 64.0,
-    "z": -6027.163849348017,
-    "pitch": 52.79999,
-    "yaw": 121.26181
+    "x": -27574.243196110492,
+    "y": 63.0,
+    "z": -6145.539294590258,
+    "pitch": 35.399986,
+    "yaw": -29.768188
    },
    "homeBlock": [
-    -1721,
-    -377
+    -1724,
+    -385
    ],
    "townBlocks": [
     [
@@ -454,6 +454,22 @@
    {
     "name": "HaydenPcJev",
     "uuid": "73681062-3c49-48a4-a45f-07473fb341fb"
+   },
+   {
+    "name": "PNGlightning",
+    "uuid": "78bf6f38-190e-441a-9769-ba5598e229f5"
+   },
+   {
+    "name": "SSlayer_325",
+    "uuid": "3ce664a8-4a88-42a0-88c2-49fb9ead70a2"
+   },
+   {
+    "name": "knowingsouplol",
+    "uuid": "2cdbecc9-5807-4e9a-86ab-e24ed63042e5"
+   },
+   {
+    "name": "sunnerdabest",
+    "uuid": "eced73e9-0174-4e63-bfb7-33bf4ba54f4a"
    }
   ],
   "trusted": [
@@ -464,6 +480,10 @@
    {
     "name": "khyeloren",
     "uuid": "b161e5c1-a31d-43eb-99c4-3e5bd83aebd3"
+   },
+   {
+    "name": "SSlayer_325",
+    "uuid": "3ce664a8-4a88-42a0-88c2-49fb9ead70a2"
    },
    {
     "name": "thearbysworker",
@@ -535,8 +555,34 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "PNGlightning",
+     "uuid": "78bf6f38-190e-441a-9769-ba5598e229f5"
+    },
+    {
+     "name": "knowingsouplol",
+     "uuid": "2cdbecc9-5807-4e9a-86ab-e24ed63042e5"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "PNGlightning",
+     "uuid": "78bf6f38-190e-441a-9769-ba5598e229f5"
+    },
+    {
+     "name": "SSlayer_325",
+     "uuid": "3ce664a8-4a88-42a0-88c2-49fb9ead70a2"
+    },
+    {
+     "name": "knowingsouplol",
+     "uuid": "2cdbecc9-5807-4e9a-86ab-e24ed63042e5"
+    },
+    {
+     "name": "sunnerdabest",
+     "uuid": "eced73e9-0174-4e63-bfb7-33bf4ba54f4a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

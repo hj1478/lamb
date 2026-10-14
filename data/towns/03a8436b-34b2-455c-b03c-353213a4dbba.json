@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Chiayi",
   "uuid": "03a8436b-34b2-455c-b03c-353213a4dbba",
-  "board": "t spawn releh",
+  "board": "The Phantom of the Opera is there...inside your mind",
   "founder": "DoOoOonguri",
   "wiki": null,
   "discord": null,
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776490988965,
-   "joinedNationAt": 1791456080898,
+   "joinedNationAt": 1791781329105,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 11,
+   "numResidents": 6,
+   "numTrusted": 14,
    "numOutlaws": 9,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": true,
     "mobs": false
    }
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43127.179440781976,
+    "x": 43168.442531241126,
     "y": 64.0,
-    "z": -631.491143066642,
-    "pitch": 17.40006,
-    "yaw": 103.33838
+    "z": -546.5180150562254,
+    "pitch": 80.25012,
+    "yaw": -57.313324
    },
    "homeBlock": [
-    2695,
-    -40
+    2698,
+    -35
    ],
    "townBlocks": [
     [
@@ -544,6 +544,10 @@
   },
   "residents": [
    {
+    "name": "kusan1i",
+    "uuid": "ca64cb91-a9d2-4a0b-a33c-d117cf9f0fb0"
+   },
+   {
     "name": "dora590",
     "uuid": "b8400da3-5cef-45eb-971a-17712d1ad88f"
    },
@@ -570,24 +574,12 @@
     "uuid": "31000980-296c-463b-9e6a-2589d8a42a30"
    },
    {
-    "name": "meng_yuyun",
-    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
-   },
-   {
     "name": "LiZekaiii",
     "uuid": "1589b4fe-c8aa-4674-af8d-3f709d10b8e0"
    },
    {
     "name": "Cuohg",
     "uuid": "c160da2f-6c0e-401e-a634-dc829f412a0f"
-   },
-   {
-    "name": "Ehou03",
-    "uuid": "9605927f-b9cd-47a1-8f63-0580e3a4d489"
-   },
-   {
-    "name": "James_Redstone",
-    "uuid": "4bab3caa-564f-44a6-b76f-944af9ef2f7b"
    },
    {
     "name": "ItzAmiya",
@@ -600,6 +592,30 @@
    {
     "name": "TimeSpace_ZONE",
     "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
+   },
+   {
+    "name": "meng_yuyun",
+    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
+   },
+   {
+    "name": "U_N_Owen1939",
+    "uuid": "d557b767-a6dd-4784-b6ac-f40cb41e4fc7"
+   },
+   {
+    "name": "Sepflower",
+    "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
+   },
+   {
+    "name": "Ehou03",
+    "uuid": "9605927f-b9cd-47a1-8f63-0580e3a4d489"
+   },
+   {
+    "name": "James_Redstone",
+    "uuid": "4bab3caa-564f-44a6-b76f-944af9ef2f7b"
+   },
+   {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
    },
    {
     "name": "GuarD1an2250",

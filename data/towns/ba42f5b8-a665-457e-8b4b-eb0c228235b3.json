@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "New_Katoomba",
-  "uuid": "cd2c0863-f47a-4c05-b489-f3e6ef315668",
+  "name": "New_Bali",
+  "uuid": "ba42f5b8-a665-457e-8b4b-eb0c228235b3",
   "board": "/town set board [msg]",
-  "founder": "FunnyShib",
+  "founder": "HistoryGeek7",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC56",
-   "uuid": "ee262d3a-abb4-208a-b456-e712db1fb762"
+   "name": "HistoryGeek7",
+   "uuid": "28fb7af5-1902-45c5-9d7b-c3a7b570a040"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Lanfang",
+   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
   },
   "timestamps": {
-   "registered": 1783741475674,
-   "joinedNationAt": null,
-   "ruinedAt": 1791712801404
+   "registered": 1791908586241,
+   "joinedNationAt": 1791908624241,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,72 +36,72 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44388.63740402135,
-    "y": 71.0,
-    "z": 17140.05748811629,
-    "pitch": 31.179644,
-    "yaw": -177.34071
+    "x": 40976.913856110215,
+    "y": 65.0,
+    "z": 10568.133166402728,
+    "pitch": 16.200006,
+    "yaw": 148.25145
    },
    "homeBlock": [
-    2774,
-    1071
+    2561,
+    660
    ],
    "townBlocks": [
     [
-     2774,
-     1071
+     2561,
+     660
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC56",
-    "uuid": "ee262d3a-abb4-208a-b456-e712db1fb762"
+    "name": "HistoryGeek7",
+    "uuid": "28fb7af5-1902-45c5-9d7b-c3a7b570a040"
    }
   ],
   "trusted": [],

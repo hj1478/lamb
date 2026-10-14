@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Napier",
   "uuid": "14d33ab7-e04b-4836-932a-148e2668809b",
-  "board": "pretty dead town",
+  "board": "City Of Paradise",
   "founder": "mimchuxx",
   "wiki": null,
   "discord": "https://discord.gg/w3SRRqbccX",
@@ -13,18 +13,18 @@
   },
   "nation": {
    "name": "New_Zealand",
-   "uuid": "e72d0b2f-251f-4632-95cc-a4f37f19c9da"
+   "uuid": "42dfb8e2-1a33-4b60-b13d-88e0a1a336d9"
   },
   "timestamps": {
    "registered": 1776450980103,
-   "joinedNationAt": 1777388791396,
+   "joinedNationAt": 1791930051686,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": true,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 532,
-   "maxTownBlocks": 306,
+   "maxTownBlocks": 312,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 23,
+   "nationBonus": 60,
+   "numResidents": 21,
    "numTrusted": 3,
    "numOutlaws": 13,
    "balance": 3975.0,
@@ -2237,8 +2237,8 @@
     "uuid": "97199cf8-38c9-41b8-b855-319f7c0d55ee"
    },
    {
-    "name": "Syrrez",
-    "uuid": "6d8ea810-7ad4-49dc-a2a7-23fafa1b347d"
+    "name": "Phil7499",
+    "uuid": "b341ad6d-417a-4e97-bac4-c8469be5ec4c"
    },
    {
     "name": "JustRandomGuyll",
@@ -2261,10 +2261,6 @@
     "uuid": "0003fe3f-68f6-4948-b6c7-f44e69a2e081"
    },
    {
-    "name": "distafix",
-    "uuid": "fd930b3d-10a8-472b-bbd0-2df0d6e9b625"
-   },
-   {
     "name": "Furballen",
     "uuid": "ff9c130b-02d5-4513-9a9b-be4e82ab9b16"
    },
@@ -2279,10 +2275,6 @@
    {
     "name": "Cube625",
     "uuid": "994c8dde-cdfe-4833-93bb-a02ce317ca73"
-   },
-   {
-    "name": "Przemonn",
-    "uuid": "33b8a2e2-a08f-49c0-b476-5caf1ea8e4c3"
    },
    {
     "name": "itz_Paradas",
@@ -2305,10 +2297,6 @@
     "uuid": "9f01b6c6-4784-4e55-9f2f-65c15445b57a"
    },
    {
-    "name": "RyeTarq",
-    "uuid": "a2283914-9011-43bd-aefa-b3c1f02656f6"
-   },
-   {
     "name": "soapycheesejuice",
     "uuid": "2395243d-1ec6-4aab-9605-1bdc4310aada"
    },
@@ -2319,6 +2307,10 @@
    {
     "name": "huhwhatonearth",
     "uuid": "6298e4e0-fd21-481f-9032-5e58d459f2d7"
+   },
+   {
+    "name": "Syrrez",
+    "uuid": "6d8ea810-7ad4-49dc-a2a7-23fafa1b347d"
    }
   ],
   "trusted": [
@@ -2492,22 +2484,8 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Syrrez",
-     "uuid": "6d8ea810-7ad4-49dc-a2a7-23fafa1b347d"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "haylzjac",
-     "uuid": "97199cf8-38c9-41b8-b855-319f7c0d55ee"
-    },
-    {
-     "name": "Syrrez",
-     "uuid": "6d8ea810-7ad4-49dc-a2a7-23fafa1b347d"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Oaxaca",
-  "uuid": "1a7f08db-0959-40e5-b35a-05d3a2576296",
+  "name": "Rizztopia",
+  "uuid": "cc0ab99f-1c93-4bd4-9256-275d5f9d5087",
   "board": "/town set board [msg]",
-  "founder": "zachhueb",
+  "founder": "Jacobtime",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "zachhueb",
-   "uuid": "ac5bddc0-92d4-4304-8b70-b20e5b62ad76"
+   "name": "Jacobtime",
+   "uuid": "e3f752a6-287b-4fc5-9ffc-9583993c0954"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
-   "registered": 1786968500650,
-   "joinedNationAt": null,
+   "registered": 1791950017460,
+   "joinedNationAt": 1791950084201,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 23.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,47 +80,36 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27189.223982170453,
-    "y": 67.0,
-    "z": 10372.100672086062,
-    "pitch": 14.2505,
-    "yaw": -14.249298
+    "x": 3858.5559822957193,
+    "y": 71.0,
+    "z": -11205.923027591278,
+    "pitch": -2.076454,
+    "yaw": 169.29184
    },
    "homeBlock": [
-    -1700,
-    648
+    241,
+    -701
    ],
    "townBlocks": [
     [
-     -1700,
-     648
-    ],
-    [
-     -1700,
-     646
-    ],
-    [
-     -1700,
-     647
-    ],
-    [
-     -1701,
-     648
-    ],
-    [
-     -1701,
-     647
+     241,
+     -701
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "zachhueb",
-    "uuid": "ac5bddc0-92d4-4304-8b70-b20e5b62ad76"
+    "name": "Jacobtime",
+    "uuid": "e3f752a6-287b-4fc5-9ffc-9583993c0954"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Copppelia",
+    "uuid": "eaa28acb-f899-4a3e-a47c-f0b99b9b5a55"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

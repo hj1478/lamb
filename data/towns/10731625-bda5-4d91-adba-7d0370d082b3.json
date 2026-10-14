@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Starlight_Bay",
   "uuid": "10731625-bda5-4d91-adba-7d0370d082b3",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "OliverWS1",
-   "uuid": "f60bfb59-74ab-4531-bb17-d4ff61897d36"
+   "name": "NPC74",
+   "uuid": "05cfab72-2fa2-2074-8f62-3b89edcff2c1"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1779440483323,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791799201873
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,8 +128,8 @@
   },
   "residents": [
    {
-    "name": "OliverWS1",
-    "uuid": "f60bfb59-74ab-4531-bb17-d4ff61897d36"
+    "name": "NPC74",
+    "uuid": "05cfab72-2fa2-2074-8f62-3b89edcff2c1"
    }
   ],
   "trusted": [],

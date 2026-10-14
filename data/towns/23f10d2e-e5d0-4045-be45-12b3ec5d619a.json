@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "QingHangDao",
   "uuid": "23f10d2e-e5d0-4045-be45-12b3ec5d619a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CGliang0",
-   "uuid": "5fdff218-251a-4b70-8239-e830e46fb075"
+   "name": "NPC4",
+   "uuid": "f5140e29-dbda-202f-b010-50e8e56dabd7"
   },
   "nation": {
-   "name": "Yan",
-   "uuid": "e975894e-ce01-412f-9ddd-fe536c33be3d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786172775536,
-   "joinedNationAt": 1786184070606,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791799203853
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "CGliang0",
-    "uuid": "5fdff218-251a-4b70-8239-e830e46fb075"
+    "name": "NPC4",
+    "uuid": "f5140e29-dbda-202f-b010-50e8e56dabd7"
    }
   ],
   "trusted": [

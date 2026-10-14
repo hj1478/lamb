@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Arkhangelsk",
   "uuid": "19154f25-b5c8-47e1-a5a4-f41f5e572ab9",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 242,
-   "maxTownBlocks": 240,
+   "maxTownBlocks": 312,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 15,
-   "numTrusted": 6,
+   "numResidents": 21,
+   "numTrusted": 5,
    "numOutlaws": 17,
-   "balance": 201.0,
+   "balance": 89.0,
    "forSalePrice": null
   },
   "perms": {
@@ -500,10 +500,6 @@
      -1175
     ],
     [
-     859,
-     -1176
-    ],
-    [
      853,
      -1164
     ],
@@ -542,6 +538,10 @@
     [
      858,
      -1169
+    ],
+    [
+     859,
+     -1170
     ],
     [
      853,
@@ -716,12 +716,12 @@
      -1172
     ],
     [
-     845,
-     -1169
-    ],
-    [
      851,
      -1162
+    ],
+    [
+     845,
+     -1169
     ],
     [
      845,
@@ -1081,10 +1081,6 @@
     "uuid": "ec269473-f3a1-4605-898e-6ab5edb8cd4a"
    },
    {
-    "name": "mtw110",
-    "uuid": "bc16df44-3572-4775-b1a0-11e13bb2e942"
-   },
-   {
     "name": "skebleton",
     "uuid": "1913f4fb-d6ba-4d48-9a04-66a220207a6f"
    },
@@ -1125,8 +1121,36 @@
     "uuid": "034df2b7-9a36-41af-8cca-ea12f66b573b"
    },
    {
-    "name": "xE3x",
-    "uuid": "3a869d0f-c4f0-4f9b-b891-463e3cc4bef3"
+    "name": "charliekirk73",
+    "uuid": "4f04e41b-e05c-439a-8612-62082faeb88c"
+   },
+   {
+    "name": "el_shekito",
+    "uuid": "975253bc-98a3-4c59-b87e-9b240f7804f1"
+   },
+   {
+    "name": "PRM_Fox",
+    "uuid": "7b9f131f-afbf-4f4d-9509-8b240ece040e"
+   },
+   {
+    "name": "eggs_1233",
+    "uuid": "1e62d8c7-97bd-4a4e-9efd-ea2bbab11776"
+   },
+   {
+    "name": "Cepniss",
+    "uuid": "f5d3ae24-d644-428e-a491-58badafd6b86"
+   },
+   {
+    "name": "LiplessOrc",
+    "uuid": "7d552da8-b341-467b-b357-eaa1c0b8b7f4"
+   },
+   {
+    "name": "WyattNathanMine",
+    "uuid": "148ff7f3-e7fe-4451-92b6-cb58cd45038a"
+   },
+   {
+    "name": "White__Russia",
+    "uuid": "bf5ca3e7-89c5-40d7-bf2d-7f20d83c0c4d"
    }
   ],
   "trusted": [
@@ -1141,10 +1165,6 @@
    {
     "name": "XandrP123",
     "uuid": "d024922d-f5a8-4d9f-b103-516524bb5144"
-   },
-   {
-    "name": "ohMerxy",
-    "uuid": "ec269473-f3a1-4605-898e-6ab5edb8cd4a"
    },
    {
     "name": "Player_9880",
@@ -1193,10 +1213,6 @@
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
    },
    {
-    "name": "FireManBruno",
-    "uuid": "331fe1d3-e2a8-4089-bbfd-8dadefad0a57"
-   },
-   {
     "name": "Tomadzu",
     "uuid": "484d7cf8-bef4-4969-81a6-e13c6e636076"
    },
@@ -1223,6 +1239,10 @@
    {
     "name": "Niiko_X",
     "uuid": "1e8e8c15-4e73-41e7-a687-8796dc57fb81"
+   },
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
    }
   ],
   "quarters": [
@@ -1233,10 +1253,6 @@
    {
     "name": "Anchorage Embassy",
     "uuid": "a25ba0e6-2d7a-4d99-8da4-13a150047edf"
-   },
-   {
-    "name": "Perturbing Flat",
-    "uuid": "9a383079-9172-4000-bc6e-f139305e1d67"
    },
    {
     "name": "Bland Apartment",
@@ -1255,24 +1271,8 @@
     "uuid": "508c28b0-7b29-4da5-be82-daad489f228b"
    },
    {
-    "name": "Perturbing Apartment",
-    "uuid": "39fcdf34-1165-4ebb-99d6-56d5fa6ebff4"
-   },
-   {
-    "name": "Dingy Property",
-    "uuid": "0130c3e4-0191-45e6-9633-d0526126b5c6"
-   },
-   {
-    "name": "Inconvenient Tenement",
-    "uuid": "2fd2ed6f-b17f-438c-b7b3-88549c58138e"
-   },
-   {
     "name": "Enraging Property",
     "uuid": "b21b38c5-94c2-4bb0-ab04-5017afa5baf0"
-   },
-   {
-    "name": "Dingy Residence",
-    "uuid": "ceb56dc4-0549-4e7b-bd92-349ea7d0cecc"
    },
    {
     "name": "Elegant Dwelling",
@@ -1295,16 +1295,48 @@
     "uuid": "423a13bb-b2b9-402e-b2e5-339b3767c81f"
    },
    {
-    "name": "Dingy Quarter",
-    "uuid": "0a4fef79-74af-4966-947e-dcdfeea58075"
+    "name": "Enraging Residence",
+    "uuid": "c77eca1f-3db0-45f6-ac3c-a732087e8407"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "46fd4486-8deb-4000-838b-819fed98f9ab"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "0130c3e4-0191-45e6-9633-d0526126b5c6"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "39fcdf34-1165-4ebb-99d6-56d5fa6ebff4"
    },
    {
     "name": "Cheerful Tenement",
     "uuid": "d7616825-cef2-4553-b4f2-582d6a4c358d"
    },
    {
-    "name": "Cheerful Dwelling",
-    "uuid": "46fd4486-8deb-4000-838b-819fed98f9ab"
+    "name": "Dingy Residence",
+    "uuid": "ceb56dc4-0549-4e7b-bd92-349ea7d0cecc"
+   },
+   {
+    "name": "Perturbing Flat",
+    "uuid": "9a383079-9172-4000-bc6e-f139305e1d67"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "0a4fef79-74af-4966-947e-dcdfeea58075"
+   },
+   {
+    "name": "Inconvenient Tenement",
+    "uuid": "2fd2ed6f-b17f-438c-b7b3-88549c58138e"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "48f19caf-22db-44da-8765-dca6f3256f5d"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "2ac40181-dc9f-4857-be26-f4d27624425a"
    }
   ],
   "ranks": {

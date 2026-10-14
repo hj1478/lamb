@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Ekenas",
   "uuid": "0f3a4a93-a96e-49e2-80b0-08deef780f63",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 64,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 70,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 17.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -157,6 +157,14 @@
     ],
     [
      530,
+     -1045
+    ],
+    [
+     530,
+     -1044
+    ],
+    [
+     530,
      -1043
     ],
     [
@@ -184,8 +192,16 @@
      -1043
     ],
     [
+     529,
+     -1043
+    ],
+    [
      527,
      -1042
+    ],
+    [
+     529,
+     -1044
     ],
     [
      529,
@@ -246,6 +262,10 @@
     [
      527,
      -1040
+    ],
+    [
+     529,
+     -1034
     ],
     [
      527,
@@ -312,6 +332,10 @@
      -1034
     ],
     [
+     531,
+     -1044
+    ],
+    [
      525,
      -1039
     ],
@@ -354,9 +378,18 @@
    {
     "name": "Kosnieur",
     "uuid": "33d1c640-6c91-4862-834a-dffaa4a9c5c6"
+   },
+   {
+    "name": "poogitudkaktus",
+    "uuid": "31aad096-e588-414e-8f28-2ab09d09c19a"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "poogitudkaktus",
+    "uuid": "31aad096-e588-414e-8f28-2ab09d09c19a"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "CRG",
   "uuid": "1b3cc6bd-3ac1-4d28-8e99-bd1da87a03ca",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "QIUZIHAN",
-   "uuid": "d5457302-de13-46da-a676-0fbe9cba9d58"
+   "name": "NPC12",
+   "uuid": "1a734d98-c751-207c-a3bb-d65c15d9c2aa"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1784263048445,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791799201347
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "QIUZIHAN",
-    "uuid": "d5457302-de13-46da-a676-0fbe9cba9d58"
+    "name": "NPC12",
+    "uuid": "1a734d98-c751-207c-a3bb-d65c15d9c2aa"
    }
   ],
   "trusted": [],

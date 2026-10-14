@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Mar-A-Lago",
   "uuid": "044f31a2-bacf-4d4c-a5ad-4bf8066efd2f",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 100,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numTrusted": 1,
+   "numOutlaws": 10,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -140,8 +140,54 @@
     "uuid": "43722238-0b35-4cf5-b1ee-e76d40216210"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "icedteaslurpee",
+    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Gamerhallootjes",
+    "uuid": "95e58bdd-d396-405c-a14d-50f1fa40425a"
+   },
+   {
+    "name": "celexaprozac",
+    "uuid": "c6081d77-35ab-4404-aa54-9f970afdb6db"
+   },
+   {
+    "name": "VeridianPM",
+    "uuid": "adc924e4-3fe3-472f-befa-c4d5c01391b9"
+   },
+   {
+    "name": "Rocksthunder",
+    "uuid": "402d0a2d-c15f-4320-980e-2241d03d1927"
+   },
+   {
+    "name": "Reanger",
+    "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
+   },
+   {
+    "name": "Liptink0",
+    "uuid": "a4ec7bc5-a582-4c87-8ac4-65c271347a46"
+   },
+   {
+    "name": "HasanHasa",
+    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
+    "name": "gogicho",
+    "uuid": "6a1c1c3e-1a57-4fcc-be26-91a5d5666c9c"
+   },
+   {
+    "name": "Hatuqay",
+    "uuid": "d9ef0399-1a19-4a22-a6e4-6b6b64244d33"
+   },
+   {
+    "name": "Shrimpshin_TM",
+    "uuid": "fdf19cdf-fd4a-447b-9dfc-0bc0d7a6fe4c"
+   }
+  ],
   "quarters": [
    {
     "name": "Luxurious Property",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Rockhampton",
   "uuid": "1f5dfe5d-1359-4107-acbe-82cbd757a534",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 59.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -610,9 +610,18 @@
    {
     "name": "pwnings",
     "uuid": "28dae5e2-47c4-4149-a24e-9f3d76b6e320"
+   },
+   {
+    "name": "mircea992",
+    "uuid": "666eb417-e6fd-4ca9-a1f3-052fffa573ce"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ameberyl",
+    "uuid": "02172210-1982-4a03-914b-8a30a7bc61cd"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {

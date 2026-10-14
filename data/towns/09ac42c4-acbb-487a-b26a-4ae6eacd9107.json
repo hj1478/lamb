@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Iron_Forge",
+  "name": "Mauthausen",
   "uuid": "09ac42c4-acbb-487a-b26a-4ae6eacd9107",
   "board": "/town set board [msg]",
   "founder": "thunder792",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "thunder792",
-   "uuid": "b8e5dc4b-6f65-4652-9c48-e12ed9c83f6d"
+   "name": "Irp1s",
+   "uuid": "513e56ee-cb00-48d5-be9c-f67f0a34a4e9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Austria",
+   "uuid": "35d0680c-627b-46f6-9f00-bfc00d1266d2"
   },
   "timestamps": {
    "registered": 1778367343575,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791630084198,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 43,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 7.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,27 +73,55 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6043.066580204608,
-    "y": 65.0,
-    "z": -10765.040649322158,
-    "pitch": 27.3,
-    "yaw": 34.199768
+    "x": 6046.1686735338235,
+    "y": 67.0,
+    "z": -10769.267941006774,
+    "pitch": 17.85044,
+    "yaw": -35.54513
    },
    "homeBlock": [
     377,
-    -673
+    -674
    ],
    "townBlocks": [
     [
+     374,
+     -677
+    ],
+    [
+     374,
+     -678
+    ],
+    [
+     374,
+     -675
+    ],
+    [
+     374,
+     -676
+    ],
+    [
+     374,
+     -673
+    ],
+    [
+     374,
+     -674
+    ],
+    [
      376,
      -673
+    ],
+    [
+     376,
+     -672
     ],
     [
      376,
@@ -128,6 +156,10 @@
      -674
     ],
     [
+     377,
+     -677
+    ],
+    [
      375,
      -675
     ],
@@ -156,8 +188,16 @@
      -676
     ],
     [
+     375,
+     -678
+    ],
+    [
      377,
      -674
+    ],
+    [
+     377,
+     -672
     ],
     [
      378,
@@ -186,25 +226,62 @@
     [
      376,
      -676
+    ],
+    [
+     376,
+     -678
+    ],
+    [
+     372,
+     -677
+    ],
+    [
+     372,
+     -676
+    ],
+    [
+     372,
+     -675
+    ],
+    [
+     372,
+     -674
+    ],
+    [
+     373,
+     -677
+    ],
+    [
+     373,
+     -674
+    ],
+    [
+     373,
+     -676
+    ],
+    [
+     373,
+     -675
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "thunder792",
-    "uuid": "b8e5dc4b-6f65-4652-9c48-e12ed9c83f6d"
-   },
-   {
     "name": "Irp1s",
     "uuid": "513e56ee-cb00-48d5-be9c-f67f0a34a4e9"
    },
    {
-    "name": "Oliwer37",
-    "uuid": "dd98ad9b-187e-4d08-92b2-34873766cd8a"
+    "name": "Samenolek",
+    "uuid": "effa5403-41ae-40ed-9fa8-e5e34bd4aa03"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "0_Programmss_0",
+    "uuid": "79ad17dd-ddf4-43e0-af39-be4cae04573b"
+   }
+  ],
   "outlaws": [
    {
     "name": "SaloCorey",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Nuuk",
   "uuid": "119824b5-c968-4e4e-af70-f156e5f92c12",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -102,6 +102,10 @@
     [
      -911,
      -1194
+    ],
+    [
+     -911,
+     -1195
     ]
    ],
    "worlds": {}
@@ -114,7 +118,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Enraging Residence",
+    "uuid": "c5ce18c0-1405-4cee-80bf-9fb6e8f6fa9e"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Transsiberian_Hq",
   "uuid": "0dfc6105-bc6d-4ebf-89f3-88749a2a3fa6",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 4,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -130,9 +130,17 @@
    {
     "name": "Sushigoochi",
     "uuid": "6376b903-b379-46f8-90e6-d103d2dd5b7e"
+   },
+   {
+    "name": "HelloChat",
+    "uuid": "7009c20c-2243-4612-885c-167288ec3bb7"
    }
   ],
   "trusted": [
+   {
+    "name": "HelloChat",
+    "uuid": "7009c20c-2243-4612-885c-167288ec3bb7"
+   },
    {
     "name": "nyuhmumrik",
     "uuid": "29908e6b-eb4f-41e0-8ca3-b172e44f7348"

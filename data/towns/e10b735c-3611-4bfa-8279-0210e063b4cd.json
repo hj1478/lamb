@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Novosibirsk",
-  "uuid": "cf7489b8-5d24-4481-a26a-27fd31a1ba31",
-  "board": "THE SIBERIAN CAPITAL",
-  "founder": "Acqua_pizza",
+  "name": "Kabulo",
+  "uuid": "e10b735c-3611-4bfa-8279-0210e063b4cd",
+  "board": "/town set board [msg]",
+  "founder": "rjcminer",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC19",
-   "uuid": "a21bfc80-fbd6-2010-a5d5-017fe6edbd25"
+   "name": "rjcminer",
+   "uuid": "0300c569-065d-49be-8349-ec3e01d5f36f"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1777696980372,
+   "registered": 1791905539670,
    "joinedNationAt": null,
-   "ruinedAt": 1791712800920
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,109 +35,85 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 29732.381786490045,
-    "y": -56.0,
-    "z": -13895.491410088463,
-    "pitch": 89.85026,
-    "yaw": 95.06152
+    "x": 10562.374466128524,
+    "y": 79.0,
+    "z": 10377.507886626428,
+    "pitch": 31.082703,
+    "yaw": -92.86502
    },
    "homeBlock": [
-    1858,
-    -869
+    660,
+    648
    ],
    "townBlocks": [
     [
-     1859,
-     -871
+     659,
+     648
     ],
     [
-     1858,
-     -870
+     660,
+     647
     ],
     [
-     1858,
-     -869
+     659,
+     647
     ],
     [
-     1858,
-     -868
-    ],
-    [
-     1860,
-     -871
-    ],
-    [
-     1860,
-     -870
-    ],
-    [
-     1860,
-     -869
-    ],
-    [
-     1859,
-     -868
-    ],
-    [
-     1859,
-     -869
-    ],
-    [
-     1859,
-     -870
+     660,
+     648
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC19",
-    "uuid": "a21bfc80-fbd6-2010-a5d5-017fe6edbd25"
+    "name": "rjcminer",
+    "uuid": "0300c569-065d-49be-8349-ec3e01d5f36f"
    }
   ],
   "trusted": [],

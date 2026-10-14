@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Wellin",
-  "uuid": "9a55cca0-c1a7-44a1-b738-c7973e45ef7e",
+  "name": "Saurland",
+  "uuid": "bcd4a46a-e99d-4f3d-b8e2-f4d27f3aa326",
   "board": "/town set board [msg]",
-  "founder": "wellnessl",
+  "founder": "Unknown_scp10",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC18",
-   "uuid": "7501206a-089b-2004-bcdd-877bddc46a7a"
+   "name": "Unknown_scp10",
+   "uuid": "ddd727cd-98c6-4f54-8b70-19c69750b307"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786133966361,
+   "registered": 1791924814141,
    "joinedNationAt": null,
-   "ruinedAt": 1791712800795
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,104 +35,85 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12983.504027146617,
-    "y": 73.0,
-    "z": -6920.640159838328,
-    "pitch": 75.000145,
-    "yaw": 0.19604492
+    "x": 27406.415056626956,
+    "y": 63.0,
+    "z": -29299.30000001192,
+    "pitch": 75.75015,
+    "yaw": -81.36554
    },
    "homeBlock": [
-    811,
-    -433
+    1712,
+    -1832
    ],
    "townBlocks": [
     [
-     811,
-     -434
-    ],
-    [
-     811,
-     -433
-    ],
-    [
-     810,
-     -432
-    ],
-    [
-     810,
-     -433
-    ],
-    [
-     810,
-     -434
-    ],
-    [
-     811,
-     -432
-    ],
-    [
-     812,
-     -434
-    ],
-    [
-     812,
-     -433
+     1712,
+     -1832
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC18",
-    "uuid": "7501206a-089b-2004-bcdd-877bddc46a7a"
+    "name": "Unknown_scp10",
+    "uuid": "ddd727cd-98c6-4f54-8b70-19c69750b307"
+   },
+   {
+    "name": "Otto19Juni13",
+    "uuid": "92524841-6066-49ea-a74b-16d4a7d04447"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Otto19Juni13",
+    "uuid": "92524841-6066-49ea-a74b-16d4a7d04447"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

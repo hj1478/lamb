@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Kuwait_City",
   "uuid": "1502151b-08ba-4e4b-899d-3ce25c3a2bd3",
@@ -12,12 +12,12 @@
    "uuid": "6c8dd447-50fc-4cd4-9e7a-e89321d0ff05"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arabia",
+   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
   },
   "timestamps": {
    "registered": 1778101149556,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791824553205,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 125,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 39.0,
    "forSalePrice": null
   },
   "perms": {
@@ -600,8 +600,16 @@
     "uuid": "6c8dd447-50fc-4cd4-9e7a-e89321d0ff05"
    },
    {
+    "name": "PO1ITICZ",
+    "uuid": "3731e7d9-0518-46a2-96d4-7364c3cd0073"
+   },
+   {
     "name": "All_in_Guy",
     "uuid": "b0c2b0cd-1467-4c54-bec7-ea0748393ea9"
+   },
+   {
+    "name": "realfelixlover",
+    "uuid": "92b9c845-b7ac-4fd9-a449-88d647a6fd6d"
    }
   ],
   "trusted": [
@@ -615,8 +623,16 @@
   "ranks": {
    "Councillor": [
     {
+     "name": "PO1ITICZ",
+     "uuid": "3731e7d9-0518-46a2-96d4-7364c3cd0073"
+    },
+    {
      "name": "All_in_Guy",
      "uuid": "b0c2b0cd-1467-4c54-bec7-ea0748393ea9"
+    },
+    {
+     "name": "realfelixlover",
+     "uuid": "92b9c845-b7ac-4fd9-a449-88d647a6fd6d"
     }
    ],
    "Builder": [],

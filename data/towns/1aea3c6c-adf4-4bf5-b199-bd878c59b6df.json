@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Yukon_City",
   "uuid": "1aea3c6c-adf4-4bf5-b199-bd878c59b6df",
@@ -12,12 +12,12 @@
    "uuid": "1dc4dec2-d38d-41cc-9952-0aaf847c52d3"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784917363916,
-   "joinedNationAt": 1784917742467,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,

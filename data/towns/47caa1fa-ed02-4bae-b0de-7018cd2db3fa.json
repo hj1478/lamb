@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Banania",
-  "uuid": "87dccf13-5f77-4a37-9517-087d2b341a3b",
+  "name": "Denali",
+  "uuid": "47caa1fa-ed02-4bae-b0de-7018cd2db3fa",
   "board": "/town set board [msg]",
-  "founder": "colamonkey193",
+  "founder": "zs79",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Nossural",
-   "uuid": "cc685680-a7fe-4eff-8001-9d41dad0ec4f"
+   "name": "zs79",
+   "uuid": "37acdcff-e531-463f-869b-b5d4ca51625d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Alaska",
+   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
   },
   "timestamps": {
-   "registered": 1786471810968,
-   "joinedNationAt": null,
+   "registered": 1791941299640,
+   "joinedNationAt": 1791941305941,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 0,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,56 +80,35 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -46291.39779612664,
-    "y": 63.0,
-    "z": -13214.396602297156,
-    "pitch": 23.604073,
-    "yaw": 63.092285
+    "x": -53545.510091974495,
+    "y": 81.5625,
+    "z": -18307.304492432515,
+    "pitch": 1.5000275,
+    "yaw": -178.77654
    },
    "homeBlock": [
-    -2894,
-    -826
+    -3347,
+    -1145
    ],
    "townBlocks": [
     [
-     -2894,
-     -826
-    ],
-    [
-     -2894,
-     -828
-    ],
-    [
-     -2894,
-     -827
-    ],
-    [
-     -2893,
-     -828
-    ],
-    [
-     -2893,
-     -827
+     -3347,
+     -1145
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Nossural",
-    "uuid": "cc685680-a7fe-4eff-8001-9d41dad0ec4f"
+    "name": "zs79",
+    "uuid": "37acdcff-e531-463f-869b-b5d4ca51625d"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Nossural",
-     "uuid": "cc685680-a7fe-4eff-8001-9d41dad0ec4f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Lesotho",
   "uuid": "1125440f-caed-4310-928e-185feb806605",
-  "board": "/town set board [msg]",
+  "board": "Khotso, Pula, Nala",
   "founder": "Min1sterr",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Min1sterr",
-   "uuid": "15264ea1-3d55-4b5c-80f5-451053b48330"
+   "name": "NPC141",
+   "uuid": "4150d692-0371-20a0-8b2c-3c80ef0e6556"
   },
   "nation": {
-   "name": "Rhodesia",
-   "uuid": "21a64c19-1e38-480d-8dc3-c0621acd1e22"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791536788790,
-   "joinedNationAt": 1791536881241,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791931135528
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 219.0,
+   "numOutlaws": 12,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     642,
+     1188
+    ],
+    [
+     644,
+     1186
+    ],
+    [
+     640,
+     1188
+    ],
+    [
      641,
      1184
+    ],
+    [
+     644,
+     1185
+    ],
+    [
+     640,
+     1187
     ],
     [
      641,
@@ -106,6 +126,10 @@
     [
      641,
      1187
+    ],
+    [
+     641,
+     1188
     ],
     [
      643,
@@ -144,8 +168,8 @@
   },
   "residents": [
    {
-    "name": "Min1sterr",
-    "uuid": "15264ea1-3d55-4b5c-80f5-451053b48330"
+    "name": "NPC141",
+    "uuid": "4150d692-0371-20a0-8b2c-3c80ef0e6556"
    }
   ],
   "trusted": [],
@@ -153,6 +177,50 @@
    {
     "name": "xfw_x",
     "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "oum1",
+    "uuid": "faf1fa69-f876-497f-964c-444357f5ca87"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   },
+   {
+    "name": "0_jestyanka_0",
+    "uuid": "7f77c037-f3b3-4b4e-975d-be6be8004d53"
+   },
+   {
+    "name": "FeliksTV",
+    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
+   },
+   {
+    "name": "XPELAAJAX",
+    "uuid": "74b0f882-483d-4533-868c-eb822a837b1b"
+   },
+   {
+    "name": "Claus_7",
+    "uuid": "69db075d-28ef-4981-a5a0-34ed80b915dd"
+   },
+   {
+    "name": "Thecaspergod",
+    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
+   },
+   {
+    "name": "aq78ad",
+    "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
    }
   ],
   "quarters": [],

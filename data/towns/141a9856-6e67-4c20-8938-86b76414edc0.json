@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Chennai",
   "uuid": "141a9856-6e67-4c20-8938-86b76414edc0",
-  "board": "/town set board [msg]",
+  "board": "Namma Ooru",
   "founder": "Navigation2013",
   "wiki": null,
   "discord": null,
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 23,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 2,
+   "numResidents": 6,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 122.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,62 @@
    ],
    "townBlocks": [
     [
+     1794,
+     212
+    ],
+    [
+     1794,
+     213
+    ],
+    [
+     1795,
+     210
+    ],
+    [
+     1794,
+     214
+    ],
+    [
+     1795,
+     211
+    ],
+    [
+     1794,
+     215
+    ],
+    [
+     1795,
+     212
+    ],
+    [
+     1795,
+     213
+    ],
+    [
+     1795,
+     214
+    ],
+    [
+     1794,
+     211
+    ],
+    [
+     1795,
+     215
+    ],
+    [
+     1796,
+     215
+    ],
+    [
+     1795,
+     216
+    ],
+    [
+     1797,
+     211
+    ],
+    [
      1797,
      212
     ],
@@ -112,29 +168,25 @@
      212
     ],
     [
-     1795,
-     211
+     1794,
+     216
     ],
     [
-     1795,
-     212
+     1797,
+     210
     ],
     [
      1796,
      211
     ],
     [
-     1795,
-     213
+     1796,
+     210
     ]
    ],
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "Navigation2013",
-    "uuid": "aab815a9-2f51-4b63-b0b5-cfc8eb6c264f"
-   },
    {
     "name": "giacomause2",
     "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
@@ -144,12 +196,20 @@
     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
    },
    {
-    "name": "Lillwester",
-    "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+    "name": "sigma_boii",
+    "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
    },
    {
-    "name": "Tommydrummer78",
-    "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+    "name": "IIIIIMaXIIII",
+    "uuid": "a4ba77db-d842-41ce-ac8e-7505eef0eb60"
+   },
+   {
+    "name": "Navigation2013",
+    "uuid": "aab815a9-2f51-4b63-b0b5-cfc8eb6c264f"
+   },
+   {
+    "name": "Danny_362",
+    "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
    }
   ],
   "trusted": [
@@ -158,20 +218,32 @@
     "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
    },
    {
+    "name": "sigma_boii",
+    "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
+   },
+   {
     "name": "karl_pro_max300",
     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
+   },
+   {
+    "name": "IIIIIMaXIIII",
+    "uuid": "a4ba77db-d842-41ce-ac8e-7505eef0eb60"
+   },
+   {
+    "name": "Tommydrummer78",
+    "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
+   "Councillor": [],
+   "Builder": [
     {
-     "name": "Lillwester",
-     "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+     "name": "karl_pro_max300",
+     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
     }
    ],
-   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

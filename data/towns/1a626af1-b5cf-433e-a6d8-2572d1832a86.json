@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Beh",
   "uuid": "1a626af1-b5cf-433e-a6d8-2572d1832a86",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ybrk",
-   "uuid": "4ad22a5b-22d7-49d5-bb64-fc30eea7475b"
+   "name": "TrapDane",
+   "uuid": "03f8886d-f616-46ca-a238-e0920e10ce6c"
   },
   "nation": {
    "name": "Greenland",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 132,
+   "maxTownBlocks": 110,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 6,
+   "nationBonus": 50,
+   "numResidents": 5,
    "numTrusted": 17,
    "numOutlaws": 2,
-   "balance": 47.0,
+   "balance": 198.0,
    "forSalePrice": null
   },
   "perms": {
@@ -608,16 +608,8 @@
   },
   "residents": [
    {
-    "name": "Ybrk",
-    "uuid": "4ad22a5b-22d7-49d5-bb64-fc30eea7475b"
-   },
-   {
     "name": "TrapDane",
     "uuid": "03f8886d-f616-46ca-a238-e0920e10ce6c"
-   },
-   {
-    "name": "GoldLeaf_IX",
-    "uuid": "fefe123a-c8e4-4049-9745-058422daee27"
    },
    {
     "name": "TopShelfTonic",
@@ -630,6 +622,10 @@
    {
     "name": "kokiriglade",
     "uuid": "89c29c53-ef0c-4623-92cb-0f79930a97c2"
+   },
+   {
+    "name": "GoldLeaf_IX",
+    "uuid": "fefe123a-c8e4-4049-9745-058422daee27"
    }
   ],
   "trusted": [

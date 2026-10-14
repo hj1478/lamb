@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Leck",
-  "uuid": "dbc7bbdd-376b-4264-8601-b0e5ee506ec1",
+  "name": "Arctic_Legion",
+  "uuid": "2e76409b-5b27-4e6a-9fce-398a31d96ef4",
   "board": "/town set board [msg]",
-  "founder": "SleepyBeii",
+  "founder": "LordZamorak",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC112",
-   "uuid": "8b75863f-b849-20b7-aec8-0c93055f8278"
+   "name": "LordZamorak",
+   "uuid": "51688305-757b-4ad4-8bef-f61c40a2a2e0"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1783807456966,
+   "registered": 1791934468741,
    "joinedNationAt": null,
-   "ruinedAt": 1791651542328
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,97 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3256.319529799535,
-    "y": 64.0,
-    "z": -13932.67218938711,
-    "pitch": 34.950096,
-    "yaw": 3.2103271
+    "x": -29430.506269672635,
+    "y": 70.0,
+    "z": -26044.05946463869,
+    "pitch": 20.699997,
+    "yaw": -120.33081
    },
    "homeBlock": [
-    203,
-    -871
+    -1840,
+    -1628
    ],
    "townBlocks": [
     [
-     202,
-     -873
-    ],
-    [
-     201,
-     -872
-    ],
-    [
-     202,
-     -872
-    ],
-    [
-     202,
-     -871
-    ],
-    [
-     203,
-     -871
-    ],
-    [
-     203,
-     -872
-    ],
-    [
-     203,
-     -873
+     -1840,
+     -1628
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC112",
-    "uuid": "8b75863f-b849-20b7-aec8-0c93055f8278"
+    "name": "LordZamorak",
+    "uuid": "51688305-757b-4ad4-8bef-f61c40a2a2e0"
    }
   ],
   "trusted": [],

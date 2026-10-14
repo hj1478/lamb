@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "New_City",
   "uuid": "16ffc4c9-8f9b-4770-a1e9-94522a517f65",
@@ -12,12 +12,12 @@
    "uuid": "ac413be6-104d-40ef-87b3-c1af17e2e662"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
    "registered": 1791714215921,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791729147040,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 25.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -94,6 +94,26 @@
     [
      3162,
      1196
+    ],
+    [
+     3161,
+     1194
+    ],
+    [
+     3162,
+     1194
+    ],
+    [
+     3162,
+     1195
+    ],
+    [
+     3161,
+     1196
+    ],
+    [
+     3161,
+     1195
     ]
    ],
    "worlds": {}
@@ -102,14 +122,28 @@
    {
     "name": "mkw1_",
     "uuid": "ac413be6-104d-40ef-87b3-c1af17e2e662"
+   },
+   {
+    "name": "viva2024",
+    "uuid": "3031a42b-57ff-49f2-9d81-558019245a76"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "viva2024",
+    "uuid": "3031a42b-57ff-49f2-9d81-558019245a76"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "viva2024",
+     "uuid": "3031a42b-57ff-49f2-9d81-558019245a76"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

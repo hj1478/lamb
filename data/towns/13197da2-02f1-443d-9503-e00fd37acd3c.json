@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Scoutshill",
   "uuid": "13197da2-02f1-443d-9503-e00fd37acd3c",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Flukeman12",
-   "uuid": "dc73f804-d8d0-42e7-8bbf-86495084b97f"
+   "name": "NPC29",
+   "uuid": "8c3f9143-f696-200c-8bd1-34d3da969de2"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1788089940479,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791885601803
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Flukeman12",
-    "uuid": "dc73f804-d8d0-42e7-8bbf-86495084b97f"
+    "name": "NPC29",
+    "uuid": "8c3f9143-f696-200c-8bd1-34d3da969de2"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Newer_Quebec",
   "uuid": "01811e4f-729c-448f-8375-105b595dbb4a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheOnceler2014",
-   "uuid": "fb96602e-fea8-4f36-a169-351bb435e2cf"
+   "name": "NPC126",
+   "uuid": "6bb1c454-af59-2031-9f14-fab79b3000bf"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1788111200557,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791729257388
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "TheOnceler2014",
-    "uuid": "fb96602e-fea8-4f36-a169-351bb435e2cf"
+    "name": "NPC126",
+    "uuid": "6bb1c454-af59-2031-9f14-fab79b3000bf"
    }
   ],
   "trusted": [

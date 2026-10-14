@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Dune",
   "uuid": "21cb7817-c80a-477b-bc94-2aad6c51c435",
@@ -29,13 +29,13 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 17,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
@@ -114,6 +114,10 @@
     [
      -267,
      -53
+    ],
+    [
+     -269,
+     -51
     ],
     [
      -269,
@@ -232,6 +236,10 @@
    {
     "name": "Elegant Tenement",
     "uuid": "13703910-ce02-4f85-a21d-b1bde232fb33"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "89776266-b369-4d3f-8b2f-56c4791787f7"
    }
   ],
   "ranks": {

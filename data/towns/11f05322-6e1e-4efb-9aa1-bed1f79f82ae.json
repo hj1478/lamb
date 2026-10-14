@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Hollywood",
   "uuid": "11f05322-6e1e-4efb-9aa1-bed1f79f82ae",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DOGFAN3343456",
-   "uuid": "b05021f7-c9e6-495d-a141-d4458f3e631e"
+   "name": "NPC137",
+   "uuid": "2bf8bb5b-5920-20c3-8ad7-a230a104cede"
   },
   "nation": {
-   "name": "Pacific",
-   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785910634545,
-   "joinedNationAt": 1789895913097,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791872776131
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 5,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 3,
    "numOutlaws": 2,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -160,24 +160,16 @@
   },
   "residents": [
    {
-    "name": "DOGFAN3343456",
-    "uuid": "b05021f7-c9e6-495d-a141-d4458f3e631e"
-   },
-   {
     "name": "Ookahwookus",
     "uuid": "0e2ecea4-2063-4c1b-b65b-ed554bdb100b"
    },
    {
-    "name": "SuperMotsak",
-    "uuid": "ce032564-9c3e-4815-8481-4cc3cf090392"
-   },
-   {
-    "name": "RomieRome925",
-    "uuid": "8461a21d-1ac3-4b3c-892a-e6dfb230cbdd"
-   },
-   {
     "name": "Popsacola",
     "uuid": "dff3222e-b55e-4eb1-a4b8-09cd23f16901"
+   },
+   {
+    "name": "NPC137",
+    "uuid": "2bf8bb5b-5920-20c3-8ad7-a230a104cede"
    }
   ],
   "trusted": [
@@ -205,10 +197,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Upbeat Residence",
-    "uuid": "7ad38d20-5177-40c7-8b3c-c78e63463e3f"
-   },
    {
     "name": "Luxurious Tenement",
     "uuid": "e874938a-469e-44af-a1eb-75f102515d24"
@@ -268,6 +256,10 @@
    {
     "name": "Upbeat Suite",
     "uuid": "7a812bbd-1582-4855-81aa-956627d5863b"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "7ad38d20-5177-40c7-8b3c-c78e63463e3f"
    }
   ],
   "ranks": {

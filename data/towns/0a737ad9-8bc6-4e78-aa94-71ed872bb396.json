@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "New_Springfield",
   "uuid": "0a737ad9-8bc6-4e78-aa94-71ed872bb396",
   "board": "/town set board [msg]",
   "founder": "hym72",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/edXa3heQrq",
   "mayor": {
    "name": "hym72",
    "uuid": "b036caff-9c4c-4214-ac6f-c29cb05b0382"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 20.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,15 @@
    "townBlocks": [
     [
      -507,
+     -1696
+    ],
+    [
+     -507,
      -1697
+    ],
+    [
+     -506,
+     -1696
     ],
     [
      -506,
@@ -104,7 +112,19 @@
      -1698
     ],
     [
+     -508,
+     -1697
+    ],
+    [
+     -508,
+     -1696
+    ],
+    [
      -507,
+     -1698
+    ],
+    [
+     -508,
      -1698
     ]
    ],
@@ -114,20 +134,73 @@
    {
     "name": "hym72",
     "uuid": "b036caff-9c4c-4214-ac6f-c29cb05b0382"
+   },
+   {
+    "name": "godteri_1",
+    "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "JauneMaxWell",
+    "uuid": "b22af288-028a-45b2-bab1-31f5273b5a84"
+   },
+   {
+    "name": "Malingshu_0515",
+    "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
+   },
+   {
+    "name": "hatsune_mcqwq",
+    "uuid": "f6e24e20-dda2-4eba-8b46-b430e3a88265"
+   },
+   {
+    "name": "Rosuuko",
+    "uuid": "4a691b62-80ca-46bf-9d72-7cabbc61fe14"
+   },
+   {
+    "name": "xueshanger",
+    "uuid": "79b3e27c-e97f-440a-a173-f563f25eadc6"
+   },
+   {
+    "name": "_Victoria_DRINA",
+    "uuid": "582c9000-e3d5-46d3-a4aa-c919fc3e47f3"
+   },
+   {
+    "name": "xlh_123",
+    "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "godteri_1",
+     "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "godteri_1",
+     "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Realtor": [
+    {
+     "name": "godteri_1",
+     "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "godteri_1",
+     "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

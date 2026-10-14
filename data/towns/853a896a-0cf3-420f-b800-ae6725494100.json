@@ -1,41 +1,41 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Republic_Tropico",
-  "uuid": "a44c33cd-e420-4fac-b9c4-f277baf39c89",
-  "board": "A country founded by El Presidente that promises to prosper. Viva Tropico.",
-  "founder": "Mascaveno1313",
+  "name": "Curuvacoco",
+  "uuid": "853a896a-0cf3-420f-b800-ae6725494100",
+  "board": "/town set board [msg]",
+  "founder": "maximhz",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC59",
-   "uuid": "851ea975-e886-20ce-b822-6da5c04e7723"
+   "name": "maximhz",
+   "uuid": "48cc345f-f002-4f17-a48b-163d204e5539"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Costa_Rica",
+   "uuid": "956f81af-3c83-4ebb-bb63-96f8d2e72889"
   },
   "timestamps": {
-   "registered": 1787865171689,
-   "joinedNationAt": null,
-   "ruinedAt": 1791712801905
+   "registered": 1791951615520,
+   "joinedNationAt": 1791951667214,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 3,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,61 +47,69 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21978.445026700207,
-    "y": 65.0,
-    "z": 2493.49534918744,
-    "pitch": 25.800047,
-    "yaw": 25.649761
+    "x": -31079.324184422665,
+    "y": 63.0,
+    "z": 3653.4473543888585,
+    "pitch": 4.033228,
+    "yaw": 51.21277
    },
    "homeBlock": [
-    -1374,
-    155
+    -1943,
+    228
    ],
    "townBlocks": [
     [
-     -1374,
-     155
+     -1943,
+     228
+    ],
+    [
+     -1942,
+     228
+    ],
+    [
+     -1943,
+     229
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC59",
-    "uuid": "851ea975-e886-20ce-b822-6da5c04e7723"
+    "name": "maximhz",
+    "uuid": "48cc345f-f002-4f17-a48b-163d204e5539"
    }
   ],
   "trusted": [],

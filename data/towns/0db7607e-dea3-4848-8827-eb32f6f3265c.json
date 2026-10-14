@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Kobe",
   "uuid": "0db7607e-dea3-4848-8827-eb32f6f3265c",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 172,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 5,
    "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -802,10 +802,6 @@
    {
     "name": "PepeSotro_",
     "uuid": "a5ba3600-de0e-45cf-bf6b-dfaec3280ae4"
-   },
-   {
-    "name": "Libero0629",
-    "uuid": "8e680c1a-a0eb-46f8-bdf3-3ddbde316a11"
    }
   ],
   "trusted": [

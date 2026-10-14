@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Unitas",
-  "uuid": "2540ef80-1929-4eb6-a107-9cf2278ceba1",
-  "board": "SuSmAk BiR TeRcİhTiR",
-  "founder": "Xeyalet",
+  "name": "Managua",
+  "uuid": "09552fae-8772-48b5-9bba-f43244c1f992",
+  "board": "/town set board [msg]",
+  "founder": "HUGE_STINKER_",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Xeyalet",
-   "uuid": "65bad450-6c2a-4dec-a69f-5716626dd43f"
+   "name": "HUGE_STINKER_",
+   "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
   },
   "nation": {
-   "name": "Ukraine",
-   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
+   "name": "Costa_Rica",
+   "uuid": "956f81af-3c83-4ebb-bb63-96f8d2e72889"
   },
   "timestamps": {
-   "registered": 1783738454936,
-   "joinedNationAt": 1783919324614,
+   "registered": 1791946548903,
+   "joinedNationAt": 1791947392382,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,110 +80,80 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13053.507853582474,
+    "x": -30916.68686835485,
     "y": 63.0,
-    "z": -10100.522686851682,
-    "pitch": -1.2002319,
-    "yaw": 40.279785
+    "z": 3627.752941605033,
+    "pitch": 6.2999916,
+    "yaw": -171.48553
    },
    "homeBlock": [
-    815,
-    -632
+    -1933,
+    226
    ],
    "townBlocks": [
     [
-     814,
-     -633
+     -1931,
+     227
     ],
     [
-     815,
-     -633
+     -1931,
+     226
     ],
     [
-     814,
-     -631
+     -1932,
+     226
     ],
     [
-     815,
-     -632
+     -1932,
+     227
     ],
     [
-     815,
-     -631
+     -1932,
+     228
     ],
     [
-     814,
-     -632
+     -1931,
+     228
     ],
     [
-     817,
-     -632
+     -1930,
+     226
     ],
     [
-     816,
-     -632
+     -1933,
+     226
     ],
     [
-     817,
-     -631
+     -1933,
+     227
     ],
     [
-     816,
-     -631
+     -1930,
+     228
     ],
     [
-     816,
-     -633
+     -1930,
+     227
     ],
     [
-     813,
-     -631
-    ],
-    [
-     815,
-     -630
-    ],
-    [
-     814,
-     -630
-    ],
-    [
-     813,
-     -633
-    ],
-    [
-     813,
-     -632
+     -1933,
+     228
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Xeyalet",
-    "uuid": "65bad450-6c2a-4dec-a69f-5716626dd43f"
-   },
-   {
-    "name": "LEEBA_I",
-    "uuid": "66548ee7-8de2-4533-a023-28c585e3b9a3"
+    "name": "HUGE_STINKER_",
+    "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
    }
   ],
-  "trusted": [
-   {
-    "name": "Claus_7",
-    "uuid": "69db075d-28ef-4981-a5a0-34ed80b915dd"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Xeyalet",
-     "uuid": "65bad450-6c2a-4dec-a69f-5716626dd43f"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

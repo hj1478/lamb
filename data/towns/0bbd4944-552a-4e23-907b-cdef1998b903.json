@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Brno",
   "uuid": "0bbd4944-552a-4e23-907b-cdef1998b903",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 42,
-   "maxTownBlocks": 182,
+   "numTownBlocks": 44,
+   "maxTownBlocks": 206,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 11,
+   "numResidents": 13,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1612.0,
+   "balance": 1666.0,
    "forSalePrice": null
   },
   "perms": {
@@ -177,6 +177,10 @@
     ],
     [
      370,
+     -701
+    ],
+    [
+     370,
      -699
     ],
     [
@@ -226,6 +230,10 @@
     [
      374,
      -700
+    ],
+    [
+     371,
+     -701
     ],
     [
      374,
@@ -311,16 +319,43 @@
    {
     "name": "WedAxis",
     "uuid": "55722190-f6df-4d90-a8b4-9cc25703cda5"
+   },
+   {
+    "name": "SaintGambler",
+    "uuid": "dd98ad9b-187e-4d08-92b2-34873766cd8a"
+   },
+   {
+    "name": "Slavokostar",
+    "uuid": "d7be4841-f1fd-4a14-8d8d-82df37f9710f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Oldyzz",
+     "uuid": "741d1cff-bf42-4395-b127-8b0d783b2820"
+    },
+    {
+     "name": "SaintGambler",
+     "uuid": "dd98ad9b-187e-4d08-92b2-34873766cd8a"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
-   "Police": [],
+   "Recruiter": [
+    {
+     "name": "White_Monster123",
+     "uuid": "66a2b7c0-522f-48c1-b4b0-4069de354f68"
+    }
+   ],
+   "Police": [
+    {
+     "name": "White_Monster123",
+     "uuid": "66a2b7c0-522f-48c1-b4b0-4069de354f68"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

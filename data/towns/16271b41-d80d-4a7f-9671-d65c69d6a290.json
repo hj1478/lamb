@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Savaii",
   "uuid": "16271b41-d80d-4a7f-9671-d65c69d6a290",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 106,
-   "maxTownBlocks": 118,
+   "numTownBlocks": 107,
+   "maxTownBlocks": 106,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 9,
-   "numTrusted": 3,
-   "numOutlaws": 4,
-   "balance": 270.0,
+   "numResidents": 8,
+   "numTrusted": 2,
+   "numOutlaws": 6,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -516,7 +516,16 @@
      807
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -574,
+       -274
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -530,10 +539,6 @@
    {
     "name": "imbob09",
     "uuid": "528bc084-455f-4cd1-ad95-7013446ced12"
-   },
-   {
-    "name": "BobbyTheFemboy",
-    "uuid": "2158ecde-2980-485d-81a0-38a7757a315a"
    },
    {
     "name": "Fiapoko",
@@ -564,10 +569,6 @@
    {
     "name": "imbob09",
     "uuid": "528bc084-455f-4cd1-ad95-7013446ced12"
-   },
-   {
-    "name": "BobbyTheFemboy",
-    "uuid": "2158ecde-2980-485d-81a0-38a7757a315a"
    }
   ],
   "outlaws": [
@@ -584,8 +585,16 @@
     "uuid": "a3a4d2fe-aa5c-4a1d-832b-1cfdab47dd9b"
    },
    {
-    "name": "figtrees12",
+    "name": "jamari_aymara23",
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   },
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   },
+   {
+    "name": "Ssalg",
+    "uuid": "0352b43c-f2c9-45a4-8cc4-435cf2174147"
    }
   ],
   "quarters": [

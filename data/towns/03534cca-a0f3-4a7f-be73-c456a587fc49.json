@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Dagestann",
   "uuid": "03534cca-a0f3-4a7f-be73-c456a587fc49",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Swighted_",
-   "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
+   "name": "RustyStank",
+   "uuid": "2b831670-0d04-4811-8653-616947f8118c"
   },
   "nation": {
    "name": "Russian_Republic",
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 8,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 25.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 20.0
   },
   "perms": {
    "build": [
@@ -93,18 +93,6 @@
    "townBlocks": [
     [
      1117,
-     -1264
-    ],
-    [
-     1118,
-     -1264
-    ],
-    [
-     1117,
-     -1263
-    ],
-    [
-     1118,
      -1263
     ],
     [
@@ -116,19 +104,11 @@
      -1262
     ],
     [
-     1118,
-     -1262
-    ],
-    [
      1116,
      -1262
     ],
     [
      1117,
-     -1261
-    ],
-    [
-     1118,
      -1261
     ],
     [
@@ -140,34 +120,22 @@
      -1260
     ],
     [
-     1118,
-     -1260
-    ],
-    [
      1116,
      -1260
-    ],
-    [
-     1116,
-     -1264
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Swighted_",
-    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
+    "name": "RustyStank",
+    "uuid": "2b831670-0d04-4811-8653-616947f8118c"
    }
   ],
   "trusted": [
    {
-    "name": "Leskyow",
-    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
-   },
-   {
-    "name": "Saltiestspinach",
-    "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
+    "name": "artisansGrimoire",
+    "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
    }
   ],
   "outlaws": [

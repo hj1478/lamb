@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Motor_Lublin",
   "uuid": "19906dcb-e9a9-4c49-9df1-30e0e5a810ec",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,36 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8234.790814477015,
+    "x": 8221.264791488444,
     "y": 67.0,
-    "z": -12019.582082569088,
-    "pitch": 2.9695678,
-    "yaw": 66.34088
+    "z": -12040.060913360263,
+    "pitch": 7.8243165,
+    "yaw": -40.171867
    },
    "homeBlock": [
-    514,
-    -752
+    513,
+    -753
    ],
    "townBlocks": [
     [
      514,
+     -751
+    ],
+    [
+     514,
+     -753
+    ],
+    [
+     514,
      -752
+    ],
+    [
+     513,
+     -753
+    ],
+    [
+     513,
+     -751
     ],
     [
      513,

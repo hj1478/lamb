@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Telavi",
   "uuid": "258fe842-97fe-4aae-bb7b-95cffc0cf7d0",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 45,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16426.067506234835,
+    "x": 16425.783269932468,
     "y": 61.0,
-    "z": -7976.083769140112,
-    "pitch": 2.1772342,
-    "yaw": 89.33831
+    "z": -7976.005345975119,
+    "pitch": 10.881367,
+    "yaw": 89.815674
    },
    "homeBlock": [
     1026,
@@ -278,6 +278,10 @@
    {
     "name": "SammyTheGoat555",
     "uuid": "1d10cf5f-762d-4061-974c-e6772d2e0844"
+   },
+   {
+    "name": "scaionel",
+    "uuid": "04ce05c3-bb51-4a6b-8562-2bdc77e405a0"
    }
   ],
   "trusted": [],
@@ -310,6 +314,10 @@
    {
     "name": "Potions",
     "uuid": "3b23045c-ad37-43da-932d-3d23cf8a513a"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "f075b54c-a08a-47f2-99cf-98c970eacd6a"
    }
   ],
   "ranks": {

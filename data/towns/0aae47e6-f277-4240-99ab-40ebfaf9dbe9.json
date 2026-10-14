@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Blossom",
   "uuid": "0aae47e6-f277-4240-99ab-40ebfaf9dbe9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 33,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 44,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
-   "numTrusted": 5,
-   "numOutlaws": 13,
-   "balance": 116.0,
+   "numResidents": 6,
+   "numTrusted": 4,
+   "numOutlaws": 14,
+   "balance": 258.0,
    "forSalePrice": null
   },
   "perms": {
@@ -177,11 +177,19 @@
     ],
     [
      -1458,
+     -977
+    ],
+    [
+     -1458,
      -978
     ],
     [
      -1458,
      -979
+    ],
+    [
+     -1455,
+     -984
     ],
     [
      -1455,
@@ -206,6 +214,14 @@
     [
      -1455,
      -981
+    ],
+    [
+     -1454,
+     -984
+    ],
+    [
+     -1459,
+     -982
     ],
     [
      -1454,
@@ -217,11 +233,39 @@
     ],
     [
      -1456,
+     -984
+    ],
+    [
+     -1456,
      -983
+    ],
+    [
+     -1453,
+     -981
+    ],
+    [
+     -1459,
+     -978
+    ],
+    [
+     -1460,
+     -979
+    ],
+    [
+     -1459,
+     -979
+    ],
+    [
+     -1460,
+     -980
     ],
     [
      -1459,
      -980
+    ],
+    [
+     -1459,
+     -981
     ]
    ],
    "worlds": {}
@@ -242,16 +286,24 @@
    {
     "name": "MatyX6969",
     "uuid": "3b2408a3-1cd6-4349-9f28-5d20739bf371"
+   },
+   {
+    "name": "Jubaa07",
+    "uuid": "7f370c6d-cb43-43a8-a252-86bd7a99bd8f"
+   },
+   {
+    "name": "anya247",
+    "uuid": "0db42088-9da8-4806-b293-456172931379"
    }
   ],
   "trusted": [
    {
-    "name": "applepi__",
-    "uuid": "03a3f6e7-def3-48e8-91ac-087d17452f3b"
-   },
-   {
     "name": "TheBringerOfD00m",
     "uuid": "c4dac277-ad14-4521-b7b0-07f857ddd51b"
+   },
+   {
+    "name": "Jubaa07",
+    "uuid": "7f370c6d-cb43-43a8-a252-86bd7a99bd8f"
    },
    {
     "name": "MatyX6969",
@@ -260,10 +312,6 @@
    {
     "name": "Papa_Rake",
     "uuid": "7dc6cc4a-6c78-42e8-b4de-2ed3907d6d32"
-   },
-   {
-    "name": "Sealgram",
-    "uuid": "0e1c9a2a-b31f-4e26-a5b8-f5a3f0ce0005"
    }
   ],
   "outlaws": [
@@ -284,7 +332,7 @@
     "uuid": "1e8e8c15-4e73-41e7-a687-8796dc57fb81"
    },
    {
-    "name": "figtrees12",
+    "name": "jamari_aymara23",
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
    },
    {
@@ -318,12 +366,36 @@
    {
     "name": "522pk",
     "uuid": "a7b1e177-37ed-45a0-b922-16b57f7900bd"
+   },
+   {
+    "name": "nachoman267",
+    "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
    }
   ],
   "quarters": [
    {
     "name": "Maji Lane #1",
     "uuid": "b8949cfd-656b-4f60-90c1-676a1e6b8a3d"
+   },
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "15e00997-89a2-4832-bdd2-a1f42835f465"
+   },
+   {
+    "name": "Papa's Cafe",
+    "uuid": "224c94c3-f181-4f4d-a730-9549b200c7f8"
+   },
+   {
+    "name": "{Mayor's Residence}",
+    "uuid": "4c096084-0441-44cc-91eb-b99b4b9565dc"
+   },
+   {
+    "name": "Annoying Suite",
+    "uuid": "abe77ac0-cc53-4f4c-ba52-73149ff0461b"
+   },
+   {
+    "name": "Juba's House",
+    "uuid": "706bafb1-59f1-44db-9293-4a917d7641e6"
    }
   ],
   "ranks": {

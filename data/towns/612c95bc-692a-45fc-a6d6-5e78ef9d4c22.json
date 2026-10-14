@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "StarStream",
-  "uuid": "097fc163-3aa8-4339-9d8a-7d51ff1f8b2b",
-  "board": "Something big is in the works!",
-  "founder": "_Constellia_",
+  "name": "Frydek_Mistek",
+  "uuid": "612c95bc-692a-45fc-a6d6-5e78ef9d4c22",
+  "board": "/town set board [msg]",
+  "founder": "dinnerbone37665",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Constellia_",
-   "uuid": "4687efb2-6e5d-4c3b-ae58-fb4e60258210"
+   "name": "dinnerbone37665",
+   "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
   },
   "timestamps": {
-   "registered": 1787895720227,
-   "joinedNationAt": 1787895731778,
+   "registered": 1791903587665,
+   "joinedNationAt": 1791903613388,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 97.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,31 +80,44 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -46822.67460448823,
-    "y": 63.0,
-    "z": -13446.528042515385,
-    "pitch": 18.59998,
-    "yaw": 89.8999
+    "x": 6605.048813611924,
+    "y": 102.0,
+    "z": -11379.5731264831,
+    "pitch": 36.150013,
+    "yaw": -39.516113
    },
    "homeBlock": [
-    -2927,
-    -841
+    412,
+    -712
    ],
    "townBlocks": [
     [
-     -2927,
-     -841
+     412,
+     -712
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_Constellia_",
-    "uuid": "4687efb2-6e5d-4c3b-ae58-fb4e60258210"
+    "name": "dinnerbone37665",
+    "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "AlbireoCZ",
+    "uuid": "4275d88e-dc68-49af-8a47-2603da0a35f1"
+   },
+   {
+    "name": "Azor321",
+    "uuid": "791a21bb-1775-463c-b734-7a69c18dc152"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

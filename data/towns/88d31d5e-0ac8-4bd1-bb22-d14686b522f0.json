@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Shartford",
-  "uuid": "5e017b2d-08b9-44fd-845d-8bbb887667f4",
+  "name": "West_Memphis",
+  "uuid": "88d31d5e-0ac8-4bd1-bb22-d14686b522f0",
   "board": "/town set board [msg]",
-  "founder": "HighRegard",
+  "founder": "coorslightyear",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ethanmh4",
-   "uuid": "8e5c3117-8bb5-453d-84bd-7c8b7702b459"
+   "name": "coorslightyear",
+   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Texas",
+   "uuid": "059fcc8b-3db5-41b1-8f99-306150225850"
   },
   "timestamps": {
-   "registered": 1787447609011,
-   "joinedNationAt": null,
+   "registered": 1791938673701,
+   "joinedNationAt": 1791938712727,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 160.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,60 +80,47 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33383.01329448752,
-    "y": 70.0,
-    "z": -19944.230395302013,
-    "pitch": 18.450024,
-    "yaw": -178.74268
+    "x": -32532.708311407787,
+    "y": 63.0,
+    "z": -4852.946907768878,
+    "pitch": 7.337646,
+    "yaw": 105.72701
    },
    "homeBlock": [
-    -2087,
-    -1247
+    -2034,
+    -304
    ],
    "townBlocks": [
     [
-     -2087,
-     -1247
+     -2036,
+     -303
     ],
     [
-     -2087,
-     -1248
+     -2036,
+     -304
     ],
     [
-     -2087,
-     -1249
+     -2034,
+     -304
     ],
     [
-     -2086,
-     -1248
-    ],
-    [
-     -2086,
-     -1249
-    ],
-    [
-     -2086,
-     -1247
+     -2035,
+     -304
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ethanmh4",
-    "uuid": "8e5c3117-8bb5-453d-84bd-7c8b7702b459"
+    "name": "coorslightyear",
+    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "ethanmh4",
-     "uuid": "8e5c3117-8bb5-453d-84bd-7c8b7702b459"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

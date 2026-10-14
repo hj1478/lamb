@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Soderhamn",
   "uuid": "09b56ab5-e020-4062-8228-72876c6f483e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 188,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 9,
+   "numResidents": 8,
    "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -616,10 +616,6 @@
     "uuid": "eeafe74a-d9a6-4e9b-be71-a5898eb082f7"
    },
    {
-    "name": "Albert504",
-    "uuid": "58696a8d-c983-46dc-a954-e37af6fb95db"
-   },
-   {
     "name": "ITZ_LUCASI",
     "uuid": "80d62535-eadc-4ace-9342-3e0fb1e8956d"
    },
@@ -682,10 +678,6 @@
     "uuid": "e084bc81-a480-409c-af6a-99511fd414ee"
    },
    {
-    "name": "Welcoming Apartment",
-    "uuid": "6cf54110-f22a-42bd-b797-4645ed2300e5"
-   },
-   {
     "name": "Upbeat Suite",
     "uuid": "038ecb69-cfd8-420c-a049-99f07c8e89c6"
    },
@@ -700,10 +692,6 @@
    {
     "name": "Luxurious Property",
     "uuid": "67959ccc-5096-40e9-b587-221916875e13"
-   },
-   {
-    "name": "Stylish Apartment",
-    "uuid": "1b3867f2-d170-4288-ad77-e4f8a20bc07f"
    },
    {
     "name": "Welcoming Quarter",
@@ -760,6 +748,14 @@
    {
     "name": "Bland Property",
     "uuid": "71545468-b7b6-49a0-b419-57c6972bbe01"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "6cf54110-f22a-42bd-b797-4645ed2300e5"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "1b3867f2-d170-4288-ad77-e4f8a20bc07f"
    },
    {
     "name": "Inconvenient Apartment",

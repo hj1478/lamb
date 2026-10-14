@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Uusimaa",
   "uuid": "1606f26b-04df-4ea9-a120-e6a5dcf79cd2",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 37,
+   "numTownBlocks": 42,
    "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 5,
    "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -109,6 +109,10 @@
     ],
     [
      553,
+     -1049
+    ],
+    [
+     553,
      -1042
     ],
     [
@@ -124,8 +128,20 @@
      -1045
     ],
     [
+     549,
+     -1046
+    ],
+    [
+     549,
+     -1047
+    ],
+    [
      552,
      -1048
+    ],
+    [
+     552,
+     -1049
     ],
     [
      552,
@@ -218,6 +234,10 @@
     [
      551,
      -1046
+    ],
+    [
+     551,
+     -1049
     ],
     [
      554,
@@ -278,10 +298,20 @@
     "uuid": "59c1f98f-3f90-44fc-a66f-50d68d234546"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "superpuma021",
+    "uuid": "3d8e0199-70f4-4739-9f41-0835d9a2eae4"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Dansku13",
+     "uuid": "59c1f98f-3f90-44fc-a66f-50d68d234546"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

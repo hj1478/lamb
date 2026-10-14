@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Budapest",
   "uuid": "12725c77-8eb9-4a57-bab9-83cbc322f2b5",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 269,
-   "maxTownBlocks": 784,
+   "maxTownBlocks": 664,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 57,
-   "numTrusted": 3,
+   "numResidents": 47,
+   "numTrusted": 1,
    "numOutlaws": 13,
-   "balance": 0.0,
+   "balance": 33.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1184,10 +1184,6 @@
     "uuid": "3b0ac8f0-08bb-4ac3-b8e1-c35bb012e578"
    },
    {
-    "name": "turorudika",
-    "uuid": "97c3496e-6d08-4730-9f13-7d4215575319"
-   },
-   {
     "name": "Milka_cz",
     "uuid": "4d38767a-3c98-48cc-b946-a3fdd93de28f"
    },
@@ -1228,10 +1224,6 @@
     "uuid": "088e32d1-5bd7-484d-8316-8b2b25cd445c"
    },
    {
-    "name": "Power12345678910",
-    "uuid": "bd801db9-9c03-4b2c-a841-64eac9d26992"
-   },
-   {
     "name": "FakeSalvolin",
     "uuid": "f9ff7250-5f68-43ee-842c-6c975ba7f81d"
    },
@@ -1248,40 +1240,8 @@
     "uuid": "f0aadda6-2feb-47c2-b57a-92fa3600a470"
    },
    {
-    "name": "NanDy3821",
-    "uuid": "9dbc1b9c-5a96-4111-9c17-ab0a08c33f46"
-   },
-   {
     "name": "Fikos_Sk",
     "uuid": "991ee117-c26b-4669-acb6-c3f1942392c9"
-   },
-   {
-    "name": "iganiats",
-    "uuid": "c8c1f180-ea37-4ba6-8608-20f99f4b73c2"
-   },
-   {
-    "name": "ComicalStorm",
-    "uuid": "479987e8-12de-4360-8e7c-ae201503cfc9"
-   },
-   {
-    "name": "Dzsubek",
-    "uuid": "c7311061-b77e-42c9-b1da-9cff9521b335"
-   },
-   {
-    "name": "irishsnake",
-    "uuid": "2ab10363-fe6d-4dfd-a805-f8bd98ecb058"
-   },
-   {
-    "name": "Crazypasta17",
-    "uuid": "10a10f95-24aa-412f-817f-878673351364"
-   },
-   {
-    "name": "kimu0923",
-    "uuid": "617046f0-b1f8-45df-8fb8-0c78233b5202"
-   },
-   {
-    "name": "JusstThomas",
-    "uuid": "97db5368-94a6-4538-8184-b5d4f27b9b91"
    },
    {
     "name": "_Cossyy",
@@ -1404,14 +1364,6 @@
    {
     "name": "Don_Peanut",
     "uuid": "6e06731f-22b9-4898-985a-4d654ecd6420"
-   },
-   {
-    "name": "HMB7",
-    "uuid": "11671848-1004-4cf7-a4d8-3654bc105a9c"
-   },
-   {
-    "name": "32JoeCamel",
-    "uuid": "4f44b2ec-1174-4971-a11d-b7a7567e2da4"
    }
   ],
   "outlaws": [
@@ -1494,10 +1446,6 @@
     "uuid": "38213bb2-130e-4105-af86-cf17ad779fae"
    },
    {
-    "name": "Dark Oak Logs - 54 stacks",
-    "uuid": "363b0395-fb5d-4b69-b476-e8cdf12e1445"
-   },
-   {
     "name": "Azalea Leaves - 54 stacks",
     "uuid": "7ddc113a-1458-4d9b-990b-041e37baf2c4"
    },
@@ -1565,7 +1513,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "TrialChamber",
+    "uuid": "7033b971-f391-4042-ac1e-13b51058fbdd",
+    "createdAt": 1791831079233,
+    "createdBy": "Don_Peanut",
+    "access": "NATION",
+    "location": {
+     "x": 6607,
+     "y": -24,
+     "z": -10597
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

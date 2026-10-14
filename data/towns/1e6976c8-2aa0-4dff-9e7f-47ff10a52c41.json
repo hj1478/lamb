@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Harare",
   "uuid": "1e6976c8-2aa0-4dff-9e7f-47ff10a52c41",
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 644.0,
+   "numOutlaws": 1,
+   "balance": 857.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10079.365527618891,
-    "y": 85.0,
-    "z": 12487.958557057565,
-    "pitch": 16.534365,
-    "yaw": 87.27734
+    "x": 10056.073584969652,
+    "y": 84.0,
+    "z": 12506.657513305625,
+    "pitch": 3.149734,
+    "yaw": 178.62663
    },
    "homeBlock": [
-    629,
-    780
+    628,
+    781
    ],
    "townBlocks": [
     [
@@ -210,7 +210,12 @@
     "uuid": "99051524-a720-45e9-bb19-34650bde2451"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

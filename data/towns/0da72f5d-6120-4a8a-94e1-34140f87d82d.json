@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Gorna",
   "uuid": "0da72f5d-6120-4a8a-94e1-34140f87d82d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "IrysZ",
-   "uuid": "cbf46854-9754-40b6-9b86-90466fa0303b"
+   "name": "TyMeKiRyS",
+   "uuid": "cef3908b-3643-468a-9d8b-30f74fbee660"
   },
   "nation": {
    "name": "Poland",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 70,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -376,11 +376,32 @@
   },
   "residents": [
    {
+    "name": "TyMeKiRyS",
+    "uuid": "cef3908b-3643-468a-9d8b-30f74fbee660"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Mlecz",
+    "uuid": "56b03369-e1a6-46b8-9423-0b591a3d53c0"
+   },
+   {
+    "name": "Wolk__",
+    "uuid": "f8f81d09-96bb-4fc4-b8a1-80762eeb3303"
+   },
+   {
+    "name": "Kieubasiarz",
+    "uuid": "e320cb89-0fc4-4a9c-be94-1213c04e5a9a"
+   },
+   {
+    "name": "Bajzyl",
+    "uuid": "f81d5cbe-4eef-460b-8ec2-4e8811b86792"
+   },
+   {
     "name": "IrysZ",
     "uuid": "cbf46854-9754-40b6-9b86-90466fa0303b"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Sao_Luis",
   "uuid": "182b8db4-d4fd-446f-aab5-766d6221d752",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "EnglishFrog",
-   "uuid": "82bd4e62-ccf7-4074-b5f8-94afa962b41a"
+   "name": "NPC70",
+   "uuid": "090ab97a-8186-2087-bb2b-f5cc33ea4a3a"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779217710337,
-   "joinedNationAt": 1779217832489,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791799201733
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 88,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -448,8 +448,8 @@
   },
   "residents": [
    {
-    "name": "EnglishFrog",
-    "uuid": "82bd4e62-ccf7-4074-b5f8-94afa962b41a"
+    "name": "NPC70",
+    "uuid": "090ab97a-8186-2087-bb2b-f5cc33ea4a3a"
    }
   ],
   "trusted": [],

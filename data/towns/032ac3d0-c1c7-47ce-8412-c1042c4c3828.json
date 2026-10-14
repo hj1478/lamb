@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Mallorca",
   "uuid": "032ac3d0-c1c7-47ce-8412-c1042c4c3828",
@@ -41,8 +41,8 @@
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 7,
-   "numOutlaws": 1,
-   "balance": 2934.0,
+   "numOutlaws": 2,
+   "balance": 3119.0,
    "forSalePrice": null
   },
   "perms": {
@@ -338,6 +338,10 @@
    {
     "name": "MustangCricket",
     "uuid": "e554b5a2-2e48-4235-aa54-17e89940bc35"
+   },
+   {
+    "name": "Ncgx",
+    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
    }
   ],
   "quarters": [
@@ -458,64 +462,8 @@
     "uuid": "b1c58d58-97b0-4ef0-8cb2-a23744a59f8a"
    },
    {
-    "name": "Oak Log",
-    "uuid": "97c80c51-ad8c-4090-9160-3eb34132f4d6"
-   },
-   {
-    "name": "Spruce Log",
-    "uuid": "1d295517-f4d8-4289-b45f-79b9cb61a04c"
-   },
-   {
-    "name": "Birch Log",
-    "uuid": "7ddf487f-4a25-4799-bc3d-0770a3a44fba"
-   },
-   {
-    "name": "Dark Oak Log",
-    "uuid": "ae3ac9f9-a162-4962-a652-3284b1d78cd8"
-   },
-   {
-    "name": "Mangrove Log",
-    "uuid": "cbad6ea9-9384-4a7d-86fe-15098f73297b"
-   },
-   {
-    "name": "Dark Oak Log",
-    "uuid": "04213843-c3bb-4b25-bfc1-feecf268c1bd"
-   },
-   {
-    "name": "Cherry Log",
-    "uuid": "6d8be079-7483-4596-8858-a501e516aa30"
-   },
-   {
-    "name": "Cherry Log",
-    "uuid": "37a1aa99-d121-41fb-93b7-6fc0901357ff"
-   },
-   {
-    "name": "Large Door 1",
-    "uuid": "3be8a998-db6a-40d9-b2f2-59558a9f24fd"
-   },
-   {
-    "name": "Oak Log",
-    "uuid": "00f71848-4d3f-4ea6-b955-d7dead52b17a"
-   },
-   {
-    "name": "Spruce Log",
-    "uuid": "8d680149-b74a-4810-891b-a242cc6ac25b"
-   },
-   {
-    "name": "Birch Log",
-    "uuid": "789279ab-fad0-497e-a384-c1c50598acd5"
-   },
-   {
-    "name": "Room 3 Door",
-    "uuid": "7f18c6c7-4b5b-4edf-b94b-e605c2248a96"
-   },
-   {
     "name": "Premium Eggs",
     "uuid": "863a0dca-23bc-49ec-b05e-6590d758040d"
-   },
-   {
-    "name": "Oak Logs - 54 Stacks",
-    "uuid": "58f11dad-f0f1-4da9-a98f-444997d4d57f"
    },
    {
     "name": "Cherry Logs",
@@ -550,28 +498,12 @@
     "uuid": "5eab0093-c5fd-4575-82ea-fa55f4854a67"
    },
    {
-    "name": "Jungle Log - 54 Stacks",
-    "uuid": "856efc94-58c1-4714-9699-e1cbe95f6226"
-   },
-   {
-    "name": "Jungle Log - 54 Stacks",
-    "uuid": "6c71ac39-bb59-48f8-b5b6-797d23054767"
-   },
-   {
     "name": "Oak Log - 54 Stacks",
     "uuid": "bbed8310-a273-4a45-add4-08f623243108"
    },
    {
     "name": "Warped Stem - 54 Stacks",
     "uuid": "a5b3d037-a86f-4c2b-a762-58187ec62799"
-   },
-   {
-    "name": "Pale Oak Log - 54 Stacks",
-    "uuid": "1a71e44a-762a-45bb-9db8-b4fd862a763d"
-   },
-   {
-    "name": "Spruce Log - 54 Stacks",
-    "uuid": "c81c0632-ac92-4d15-8f0b-d3f186a9a731"
    },
    {
     "name": "Spruce Log - 54 Stacks",
@@ -586,36 +518,12 @@
     "uuid": "10f03b5a-f865-468a-b8fb-09b4c2219436"
    },
    {
-    "name": "Dark Oak Log - 54 Stacks",
-    "uuid": "1d59fdce-f903-4266-b53a-ec074dce4bb2"
-   },
-   {
-    "name": "Dark Oak Log - 54 Stacks",
-    "uuid": "46117f60-5413-4ca0-af70-0225e2446be4"
-   },
-   {
     "name": "Birch Log - 54 Stacks",
     "uuid": "b9af1960-f1c3-4f65-bc66-65721dc09f44"
    },
    {
     "name": "Birch Log - 54 Stacks",
     "uuid": "27a817a0-8601-48ee-9606-47b30dac5a22"
-   },
-   {
-    "name": "Pale Oak Log - 54 Stacks",
-    "uuid": "b2b2414a-4233-426b-a818-0245704b00a3"
-   },
-   {
-    "name": "Cherry Log - 54 Stacks",
-    "uuid": "8d179e0c-4666-4ec5-a197-86b79df6e35a"
-   },
-   {
-    "name": "Cherry Log - 54 Stacks",
-    "uuid": "9c02517e-cd81-4653-92fc-774361942499"
-   },
-   {
-    "name": "Crimson Stem - 54 Stacks",
-    "uuid": "9767bcb6-38e0-48be-8dad-24ca0b6dd028"
    },
    {
     "name": "Crimson Stem - 54 Stacks",
@@ -638,10 +546,6 @@
     "uuid": "8cec9af3-fa52-4972-8e86-0a64b8b266e7"
    },
    {
-    "name": "Spruce Log - 54 Stacks",
-    "uuid": "f8701698-8b01-4c38-ba6a-961a040fb663"
-   },
-   {
     "name": "Oak Log - 54 Stacks",
     "uuid": "15b06ee2-2291-4d6f-b7dc-020de82f0620"
    },
@@ -656,14 +560,6 @@
    {
     "name": "Azalea Leaves - 54 Stacks",
     "uuid": "8d7b699e-67d2-4ec6-8949-d6d1d95d1619"
-   },
-   {
-    "name": "Azalea Leaves - 54 Stacks",
-    "uuid": "d17b6eef-1b45-4c87-ac38-c79c3717e459"
-   },
-   {
-    "name": "-",
-    "uuid": "2bd31f16-58be-41b8-9c80-3f32a96005cc"
    },
    {
     "name": "-",
@@ -702,8 +598,116 @@
     "uuid": "cbec97eb-6d98-4ef6-b7f0-b231edddc60f"
    },
    {
-    "name": "Dark Oak Log - 54 Stacks",
-    "uuid": "003fef75-fdb6-4ea2-b664-1513015f3c02"
+    "name": "Birch Log - 54 Stacks",
+    "uuid": "8f8b2043-e7d5-45a4-a510-5895ec21c6aa"
+   },
+   {
+    "name": "Crimson Stem - 54 Stacks",
+    "uuid": "9767bcb6-38e0-48be-8dad-24ca0b6dd028"
+   },
+   {
+    "name": "Pale Oak Log - 54 Stacks",
+    "uuid": "1a71e44a-762a-45bb-9db8-b4fd862a763d"
+   },
+   {
+    "name": "Cherry Log - 54 Stacks",
+    "uuid": "9c02517e-cd81-4653-92fc-774361942499"
+   },
+   {
+    "name": "Cherry Log - 54 Stacks",
+    "uuid": "8d179e0c-4666-4ec5-a197-86b79df6e35a"
+   },
+   {
+    "name": "Azalea Leaves - 54 Stacks",
+    "uuid": "d17b6eef-1b45-4c87-ac38-c79c3717e459"
+   },
+   {
+    "name": "Jungle Log - 54 Stacks",
+    "uuid": "856efc94-58c1-4714-9699-e1cbe95f6226"
+   },
+   {
+    "name": "Jungle Log - 54 Stacks",
+    "uuid": "6c71ac39-bb59-48f8-b5b6-797d23054767"
+   },
+   {
+    "name": "-",
+    "uuid": "04213843-c3bb-4b25-bfc1-feecf268c1bd"
+   },
+   {
+    "name": "-",
+    "uuid": "ae3ac9f9-a162-4962-a652-3284b1d78cd8"
+   },
+   {
+    "name": "-",
+    "uuid": "37a1aa99-d121-41fb-93b7-6fc0901357ff"
+   },
+   {
+    "name": "-",
+    "uuid": "6d8be079-7483-4596-8858-a501e516aa30"
+   },
+   {
+    "name": "-",
+    "uuid": "cbad6ea9-9384-4a7d-86fe-15098f73297b"
+   },
+   {
+    "name": "Large Door 1",
+    "uuid": "3be8a998-db6a-40d9-b2f2-59558a9f24fd"
+   },
+   {
+    "name": "Spruce Leaves - 54 Stacks",
+    "uuid": "2bd31f16-58be-41b8-9c80-3f32a96005cc"
+   },
+   {
+    "name": "Stripped Spruce Log - 54 Stacks",
+    "uuid": "00f71848-4d3f-4ea6-b955-d7dead52b17a"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "97c80c51-ad8c-4090-9160-3eb34132f4d6"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "8d680149-b74a-4810-891b-a242cc6ac25b"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "1d295517-f4d8-4289-b45f-79b9cb61a04c"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "7ddf487f-4a25-4799-bc3d-0770a3a44fba"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "789279ab-fad0-497e-a384-c1c50598acd5"
+   },
+   {
+    "name": "Herbalism Farm",
+    "uuid": "1cd49382-81a7-4bf2-9c00-a2a110b1f1d2"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "c81c0632-ac92-4d15-8f0b-d3f186a9a731"
+   },
+   {
+    "name": "Amazon Sandstone Drop-off",
+    "uuid": "ddf9420d-783c-491d-bc71-f6cc382a1632"
+   },
+   {
+    "name": "Room 3 Door",
+    "uuid": "7f18c6c7-4b5b-4edf-b94b-e605c2248a96"
+   },
+   {
+    "name": "Mud Farm",
+    "uuid": "4a5be7b8-678f-48f5-a4c1-84a42db59c64"
+   },
+   {
+    "name": "Spruce Log - 54 Stacks",
+    "uuid": "f8701698-8b01-4c38-ba6a-961a040fb663"
+   },
+   {
+    "name": "Pale Oak Log - 54 Stacks",
+    "uuid": "b2b2414a-4233-426b-a818-0245704b00a3"
    },
    {
     "name": "Pale Oak Log - 54 Stacks",
@@ -714,8 +718,16 @@
     "uuid": "ad24cc96-9018-4abe-a362-72c888c2a57e"
    },
    {
-    "name": "Birch Log - 54 Stacks",
-    "uuid": "8f8b2043-e7d5-45a4-a510-5895ec21c6aa"
+    "name": "Dark Oak Log - 54 Stacks",
+    "uuid": "003fef75-fdb6-4ea2-b664-1513015f3c02"
+   },
+   {
+    "name": "Dark Oak Log - 54 Stacks",
+    "uuid": "1d59fdce-f903-4266-b53a-ec074dce4bb2"
+   },
+   {
+    "name": "Dark Oak Log - 54 Stacks",
+    "uuid": "46117f60-5413-4ca0-af70-0225e2446be4"
    }
   ],
   "ranks": {

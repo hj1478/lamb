@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Silverbank",
   "uuid": "02006b4d-c331-4e35-aa1f-3d7668e2de72",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 4,
    "balance": 3.0,
    "forSalePrice": null
@@ -202,26 +202,9 @@
    {
     "name": "Frostcarp",
     "uuid": "f73a333c-b9ce-404b-99b1-c18d822db4d5"
-   },
-   {
-    "name": "Mount789",
-    "uuid": "e20b1c82-2b0f-4c90-96c2-febf9382ca53"
-   },
-   {
-    "name": "trueRef",
-    "uuid": "bc04915b-7ea5-4b80-a934-50a3adbfc894"
    }
   ],
-  "trusted": [
-   {
-    "name": "SmilingOtter",
-    "uuid": "9861a774-4025-4ad4-83fa-0d9913d9adca"
-   },
-   {
-    "name": "Mount789",
-    "uuid": "e20b1c82-2b0f-4c90-96c2-febf9382ca53"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "Istant",

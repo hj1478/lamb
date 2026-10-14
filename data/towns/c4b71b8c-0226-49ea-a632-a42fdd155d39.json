@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Sumadija",
-  "uuid": "c2f26855-d187-4bd3-ae35-d953631525d7",
-  "board": "Rokeri s Moravu",
-  "founder": "heronikola10",
+  "name": "Perla_Blanca",
+  "uuid": "c4b71b8c-0226-49ea-a632-a42fdd155d39",
+  "board": "/town set board [msg]",
+  "founder": "dhalberstadt",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC64",
-   "uuid": "9ddb2b2f-d7a3-2013-bc04-ef60c7166b04"
+   "name": "dhalberstadt",
+   "uuid": "a0d1e343-1e13-47de-8db7-a74139626a29"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Venezuela",
+   "uuid": "f4e5bdbd-4e6a-436f-8f32-bc2c2ea08916"
   },
   "timestamps": {
-   "registered": 1786115290227,
-   "joinedNationAt": null,
-   "ruinedAt": 1791712803754
+   "registered": 1791902881727,
+   "joinedNationAt": 1791909873628,
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,102 +26,90 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 86.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "destroy": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "switch": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "itemUse": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7564.699999988079,
-    "y": 69.0,
-    "z": -8928.006530123943,
-    "pitch": 35.877525,
-    "yaw": 164.54977
+    "x": -23708.30000001192,
+    "y": 65.0,
+    "z": 3758.699999988079,
+    "pitch": 15.899931,
+    "yaw": -66.040855
    },
    "homeBlock": [
-    472,
-    -559
+    -1482,
+    234
    ],
    "townBlocks": [
     [
-     472,
-     -559
+     -1482,
+     234
     ],
     [
-     470,
-     -559
-    ],
-    [
-     472,
-     -558
-    ],
-    [
-     470,
-     -558
-    ],
-    [
-     471,
-     -559
-    ],
-    [
-     471,
-     -558
+     -1483,
+     234
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC64",
-    "uuid": "9ddb2b2f-d7a3-2013-bc04-ef60c7166b04"
+    "name": "dhalberstadt",
+    "uuid": "a0d1e343-1e13-47de-8db7-a74139626a29"
+   },
+   {
+    "name": "SamSchwark",
+    "uuid": "3cae35f6-e1c0-4c95-8dd0-e94f31dbc65a"
    }
   ],
   "trusted": [],

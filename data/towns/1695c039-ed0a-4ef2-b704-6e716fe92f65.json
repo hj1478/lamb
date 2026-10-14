@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Versailles",
   "uuid": "1695c039-ed0a-4ef2-b704-6e716fe92f65",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JohnPaulMonroe",
-   "uuid": "3f216d68-f060-4cb3-85a3-8527a16e8b05"
+   "name": "NPC26",
+   "uuid": "cb971887-fc31-209a-86d1-6b61e16c7162"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783150597091,
-   "joinedNationAt": 1783150647531,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791972003236
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 100,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "JohnPaulMonroe",
-    "uuid": "3f216d68-f060-4cb3-85a3-8527a16e8b05"
+    "name": "NPC26",
+    "uuid": "cb971887-fc31-209a-86d1-6b61e16c7162"
    }
   ],
   "trusted": [],

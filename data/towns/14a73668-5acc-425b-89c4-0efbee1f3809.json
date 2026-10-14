@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Emberson",
   "uuid": "14a73668-5acc-425b-89c4-0efbee1f3809",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Index_1",
-   "uuid": "e606e81a-f073-4053-818d-ec289b69899d"
+   "name": "NPC94",
+   "uuid": "8563a820-e340-20c4-8bc1-01e736e9ea35"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1788106742308,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791799204686
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "_Index_1",
-    "uuid": "e606e81a-f073-4053-818d-ec289b69899d"
+    "name": "NPC94",
+    "uuid": "8563a820-e340-20c4-8bc1-01e736e9ea35"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "GOLDEN_TOWN",
   "uuid": "0a551dfa-d935-448b-9660-7775754352b8",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "__lazii",
-   "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   "name": "DRpellgg",
+   "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784422807600,
-   "joinedNationAt": 1791584133524,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 35,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 23.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -236,10 +236,6 @@
   },
   "residents": [
    {
-    "name": "__lazii",
-    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
-   },
-   {
     "name": "DRpellgg",
     "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
    },
@@ -256,7 +252,12 @@
     "uuid": "ec154e8d-a073-44e5-b25e-5010cd2f6d65"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "__lazii",
+    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   }
+  ],
   "outlaws": [
    {
     "name": "TheMagicTom",

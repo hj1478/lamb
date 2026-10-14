@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Goonerville",
   "uuid": "0c95a740-5d23-4518-8d9a-1b60742fb488",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Bigpoppacarl",
-   "uuid": "c1d54669-6af9-4c7c-805c-87a4a0febd0e"
+   "name": "NPC139",
+   "uuid": "014b5fdd-9654-2022-9656-1acd9149aff3"
   },
   "nation": {
-   "name": "Florida",
-   "uuid": "6cbea29c-2f48-418c-89cf-0f1d2c76b825"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782790836116,
-   "joinedNationAt": 1782790886718,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791885601254
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 35,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -236,8 +236,8 @@
   },
   "residents": [
    {
-    "name": "Bigpoppacarl",
-    "uuid": "c1d54669-6af9-4c7c-805c-87a4a0febd0e"
+    "name": "NPC139",
+    "uuid": "014b5fdd-9654-2022-9656-1acd9149aff3"
    }
   ],
   "trusted": [],

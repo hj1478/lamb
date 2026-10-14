@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Prp",
   "uuid": "107a88ea-a651-4add-ac6c-dff8233b6cd9",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "shadowtwinonrage",
-   "uuid": "8b4ffe2c-7e08-4403-835c-f64c11eacf7d"
+   "name": "NPC129",
+   "uuid": "432ae5d1-9259-2087-bb05-07ce1fae869b"
   },
   "nation": {
-   "name": "Micronesia",
-   "uuid": "478aa4e0-e72d-441e-a2f1-0e543f41cb5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790289061247,
-   "joinedNationAt": 1790289120147,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791762946819
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "shadowtwinonrage",
-    "uuid": "8b4ffe2c-7e08-4403-835c-f64c11eacf7d"
+    "name": "NPC129",
+    "uuid": "432ae5d1-9259-2087-bb05-07ce1fae869b"
    }
   ],
   "trusted": [

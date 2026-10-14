@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "Tianshui",
-  "uuid": "2f6e87d5-6cdc-40b4-a645-97721696a439",
+  "name": "Adirondacks",
+  "uuid": "41d5178c-000d-4b70-94d9-c662a89036b6",
   "board": "/town set board [msg]",
-  "founder": "liluoluoluoluo",
+  "founder": "PrinceTyDy",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC110",
-   "uuid": "24ada1a7-bfbc-202b-9b21-2891ffb0ce24"
+   "name": "PrinceTyDy",
+   "uuid": "43b68b6b-14e5-4648-bca1-b585f4e8f46c"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1791647630642,
+   "registered": 1791946175058,
    "joinedNationAt": null,
-   "ruinedAt": 1791647794747
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 38083.09875590794,
-    "y": 83.0,
-    "z": -4899.645738318177,
-    "pitch": 7.5000005,
-    "yaw": 94.55151
+    "x": -26489.12483277179,
+    "y": 101.0,
+    "z": -8543.516012132508,
+    "pitch": 36.149994,
+    "yaw": -93.60015
    },
    "homeBlock": [
-    2380,
-    -307
+    -1656,
+    -534
    ],
    "townBlocks": [
     [
-     2380,
-     -307
+     -1656,
+     -534
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC110",
-    "uuid": "24ada1a7-bfbc-202b-9b21-2891ffb0ce24"
+    "name": "PrinceTyDy",
+    "uuid": "43b68b6b-14e5-4648-bca1-b585f4e8f46c"
    }
   ],
   "trusted": [],

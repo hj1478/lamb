@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
-  "name": "AMIKO",
-  "uuid": "50dc3543-dcc7-48bc-840e-1808d358c0d3",
-  "board": "saqartvelo",
-  "founder": "AMIKO22",
+  "name": "Baboonland",
+  "uuid": "1662d3bb-9920-4977-a971-5bb1c0a2c9ad",
+  "board": "/town set board [msg]",
+  "founder": "AJORDA",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AMIKO22",
-   "uuid": "a73d91b1-44bb-4c28-a98b-0876a85fe022"
+   "name": "AJORDA",
+   "uuid": "7caebd15-e4f1-4bb4-b81b-100a2fed7369"
   },
   "nation": {
-   "name": "Ukraine",
-   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
-   "registered": 1787428554678,
-   "joinedNationAt": 1787585328978,
+   "registered": 1791925315712,
+   "joinedNationAt": 1791925347006,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,35 +80,48 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11985.469901359744,
-    "y": 63.0,
-    "z": -11544.50852978586,
-    "pitch": 41.549957,
-    "yaw": -91.214905
+    "x": 4517.463412403938,
+    "y": -13.0,
+    "z": -4758.482536682496,
+    "pitch": 12.150151,
+    "yaw": -61.184128
    },
    "homeBlock": [
-    749,
-    -722
+    282,
+    -298
    ],
    "townBlocks": [
     [
-     748,
-     -722
+     282,
+     -298
     ],
     [
-     749,
-     -722
+     283,
+     -298
+    ],
+    [
+     282,
+     -297
+    ],
+    [
+     283,
+     -297
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "AMIKO22",
-    "uuid": "a73d91b1-44bb-4c28-a98b-0876a85fe022"
+    "name": "AJORDA",
+    "uuid": "7caebd15-e4f1-4bb4-b81b-100a2fed7369"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

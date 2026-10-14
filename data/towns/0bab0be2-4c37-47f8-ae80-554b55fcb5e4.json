@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "OHare_Air",
   "uuid": "0bab0be2-4c37-47f8-ae80-554b55fcb5e4",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MAIROLO",
-   "uuid": "f3e12e18-8cf2-4e41-8033-91412e46d977"
+   "name": "NPC104",
+   "uuid": "d3b9ec68-b73c-20ea-861a-e1767444e8a9"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790547186339,
-   "joinedNationAt": 1790547211089,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791919131947
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -102,6 +102,10 @@
    {
     "name": "MAIROLO",
     "uuid": "f3e12e18-8cf2-4e41-8033-91412e46d977"
+   },
+   {
+    "name": "NPC104",
+    "uuid": "d3b9ec68-b73c-20ea-861a-e1767444e8a9"
    }
   ],
   "trusted": [

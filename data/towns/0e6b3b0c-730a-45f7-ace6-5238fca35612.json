@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Animal_Planet",
   "uuid": "0e6b3b0c-730a-45f7-ace6-5238fca35612",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 5,
-   "balance": 15.0,
+   "numOutlaws": 6,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -501,6 +501,10 @@
    {
     "name": "Chrouched_",
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
+   },
+   {
+    "name": "36hoi",
+    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
   "quarters": [],

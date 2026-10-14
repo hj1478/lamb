@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-14T12:03:20Z",
  "data": {
   "name": "Tibetan_Troy",
   "uuid": "1739fa6d-4b39-4f67-b097-8e8809cfd2ac",
-  "board": "/town set board [msg]",
+  "board": null,
   "founder": "Lord_Gibraltar",
   "wiki": null,
   "discord": null,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 18,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
@@ -80,24 +80,52 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 31495.367353371086,
-    "y": 177.0,
-    "z": -2706.8846741498605,
-    "pitch": -33.463535,
-    "yaw": 90.50708
+    "x": 31505.403900223024,
+    "y": 169.0,
+    "z": -2670.6910574574144,
+    "pitch": 27.433098,
+    "yaw": 2.4335938
    },
    "homeBlock": [
-    1968,
-    -170
+    1969,
+    -167
    ],
    "townBlocks": [
+    [
+     1969,
+     -165
+    ],
+    [
+     1968,
+     -166
+    ],
+    [
+     1969,
+     -166
+    ],
+    [
+     1967,
+     -165
+    ],
     [
      1969,
      -167
     ],
     [
+     1967,
+     -166
+    ],
+    [
+     1968,
+     -165
+    ],
+    [
      1968,
      -168
+    ],
+    [
+     1967,
+     -167
     ],
     [
      1967,
