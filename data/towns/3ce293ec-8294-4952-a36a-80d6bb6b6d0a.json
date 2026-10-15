@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Delta",
   "uuid": "3ce293ec-8294-4952-a36a-80d6bb6b6d0a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MrDoggyHaven",
-   "uuid": "c495d617-2479-4455-97f6-ad2e405e1887"
+   "name": "NPC87",
+   "uuid": "0ec27806-fbba-202d-b25c-67419d3b5249"
   },
   "nation": {
-   "name": "Egypt",
-   "uuid": "157d7ef7-13db-46db-b20d-00cfd0b01155"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785016982409,
-   "joinedNationAt": 1785055282922,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791885603593
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 35,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -236,8 +236,8 @@
   },
   "residents": [
    {
-    "name": "MrDoggyHaven",
-    "uuid": "c495d617-2479-4455-97f6-ad2e405e1887"
+    "name": "NPC87",
+    "uuid": "0ec27806-fbba-202d-b25c-67419d3b5249"
    }
   ],
   "trusted": [],

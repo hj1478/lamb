@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Baoding",
   "uuid": "282095d5-4d02-4cb9-adf9-ef553f288e4d",
@@ -12,12 +12,12 @@
    "uuid": "92f6ce38-f89d-4626-a794-7af0252aa6fe"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Japan",
+   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
   },
   "timestamps": {
    "registered": 1787177341592,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792036934542,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

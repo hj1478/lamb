@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Sorel-Tracy",
   "uuid": "3df572fd-4ee5-4cc6-90b4-0658647d2518",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 91,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 92,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 256.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -456,7 +456,16 @@
      -607
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       144,
+       513
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -466,6 +475,10 @@
    {
     "name": "ryderoladipo",
     "uuid": "6b7cfb67-05c3-495c-a7cf-804c9e76f417"
+   },
+   {
+    "name": "thelilianpizza31",
+    "uuid": "0a2456ed-9e45-4277-b23d-5d74331731af"
    }
   ],
   "trusted": [],
@@ -548,8 +561,28 @@
     "uuid": "0ec6ec11-d2d1-42e3-908c-1f7084fb6ae8"
    },
    {
-    "name": "Inviting Residence",
-    "uuid": "4de78b69-f3c0-46ed-87b8-090a54a8988d"
+    "name": "Dull Property",
+    "uuid": "80993d03-f19f-46cd-8bfe-57a84d6111fe"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "acc3345e-2b1d-4337-8e99-5021750ffab6"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "e565c3a5-1938-45b6-9ca5-48eb84319316"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "8e362368-1b77-46c1-a909-da5ee4bd5452"
+   },
+   {
+    "name": "Inconvenient Residence",
+    "uuid": "61942138-1920-4fb8-8fb8-10b4bb9bc95b"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "15b55c18-a4c8-4cf8-9944-2df2c5fb6e7c"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Emus",
   "uuid": "3a8f4b4a-fe29-4a4d-ad50-e3c5ae2d752c",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 73,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 3,
+   "numResidents": 8,
+   "numTrusted": 4,
    "numOutlaws": 16,
-   "balance": 7.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -396,16 +396,20 @@
     "uuid": "b868ce1f-b99c-49b6-8507-dcc136f3ce57"
    },
    {
+    "name": "The_Avageek",
+    "uuid": "33e2920e-4f24-43b5-a797-1f44638a0f55"
+   },
+   {
+    "name": "wilhelm3005",
+    "uuid": "3771b998-ac18-4031-a305-a790abc1ee39"
+   },
+   {
     "name": "Cerneas",
     "uuid": "b8dab438-3a21-4807-a2a8-b1e8594538b8"
    },
    {
     "name": "fishsauce_1",
     "uuid": "d87c99a1-391d-44f1-9493-0dcdf0326dc6"
-   },
-   {
-    "name": "themostartist",
-    "uuid": "0ebf716e-a96b-4eeb-a806-2154d8537a5a"
    },
    {
     "name": "Pestzar",
@@ -417,6 +421,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "The_Avageek",
+    "uuid": "33e2920e-4f24-43b5-a797-1f44638a0f55"
+   },
    {
     "name": "2tman4",
     "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
@@ -558,10 +566,6 @@
     "uuid": "6b228df5-6fe6-40ab-b76d-56b9b6553e58"
    },
    {
-    "name": "Lovely Flat",
-    "uuid": "0883b8ae-a1f2-46e0-a9de-e8b7951f8ca0"
-   },
-   {
     "name": "Dull Suite",
     "uuid": "b37ef3e7-2058-4cff-8a3c-68b8c7185f9d"
    },
@@ -580,6 +584,10 @@
    {
     "name": "Enraging Apartment",
     "uuid": "129f8004-3fb6-4906-9f7c-e20bd669f169"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "0883b8ae-a1f2-46e0-a9de-e8b7951f8ca0"
    }
   ],
   "ranks": {
@@ -587,6 +595,10 @@
     {
      "name": "Localhost12",
      "uuid": "b868ce1f-b99c-49b6-8507-dcc136f3ce57"
+    },
+    {
+     "name": "The_Avageek",
+     "uuid": "33e2920e-4f24-43b5-a797-1f44638a0f55"
     },
     {
      "name": "Cerneas",

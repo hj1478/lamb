@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Oceanside",
   "uuid": "2a2dab95-5707-4598-a288-6ba5d8005a33",
@@ -12,12 +12,12 @@
    "uuid": "dbeb9c11-2316-4f41-a746-d0e403a8c3f6"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Pacific",
+   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
   },
   "timestamps": {
    "registered": 1791066469926,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791766334537,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,28 +92,44 @@
    ],
    "townBlocks": [
     [
-     -2623,
-     -262
-    ],
-    [
-     -2623,
-     -261
+     -2624,
+     -264
     ],
     [
      -2624,
      -262
     ],
     [
-     -2626,
-     -261
-    ],
-    [
-     -2626,
-     -262
+     -2624,
+     -263
     ],
     [
      -2624,
      -261
+    ],
+    [
+     -2623,
+     -262
+    ],
+    [
+     -2623,
+     -263
+    ],
+    [
+     -2623,
+     -261
+    ],
+    [
+     -2626,
+     -261
+    ],
+    [
+     -2625,
+     -263
+    ],
+    [
+     -2626,
+     -262
     ],
     [
      -2627,

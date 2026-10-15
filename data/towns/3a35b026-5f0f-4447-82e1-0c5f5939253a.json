@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "ShinytownII",
   "uuid": "3a35b026-5f0f-4447-82e1-0c5f5939253a",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "nationBonus": 60,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,19 +80,23 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5776.022800320816,
-    "y": 63.5,
-    "z": -12471.241185550054,
-    "pitch": 13.929886,
-    "yaw": 0.556114
+    "x": 5775.960677707187,
+    "y": 63.0,
+    "z": -12454.600711013676,
+    "pitch": -0.16429684,
+    "yaw": 178.25287
    },
    "homeBlock": [
-    361,
-    -780
+    360,
+    -779
    ],
    "townBlocks": [
     [
      360,
+     -781
+    ],
+    [
+     360,
      -780
     ],
     [
@@ -101,6 +105,10 @@
     ],
     [
      361,
+     -781
+    ],
+    [
+     361,
      -780
     ],
     [
@@ -114,6 +122,10 @@
     [
      359,
      -780
+    ],
+    [
+     359,
+     -781
     ]
    ],
    "worlds": {}
@@ -122,20 +134,12 @@
    {
     "name": "Sean_B_in_Japan",
     "uuid": "dfe80211-8bde-4b9b-872b-74b5ad6fa673"
-   },
-   {
-    "name": "ShallowKitty",
-    "uuid": "1b06b7ed-a0df-479c-b0dc-3f53884b9400"
    }
   ],
   "trusted": [
    {
     "name": "hyuga1125",
     "uuid": "26b0e90b-317f-436d-9bdc-52195a72453e"
-   },
-   {
-    "name": "ShallowKitty",
-    "uuid": "1b06b7ed-a0df-479c-b0dc-3f53884b9400"
    }
   ],
   "outlaws": [],

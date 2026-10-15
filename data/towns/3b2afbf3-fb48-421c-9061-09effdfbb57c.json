@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Woho",
   "uuid": "3b2afbf3-fb48-421c-9061-09effdfbb57c",
@@ -12,12 +12,12 @@
    "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1791621815539,
-   "joinedNationAt": 1791626412255,
+   "joinedNationAt": 1791906123997,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3952.7783430430054,
-    "y": 18.0,
-    "z": -4786.077494026133,
-    "pitch": 12.749969,
-    "yaw": 4.810547
+    "x": 3953.095957235146,
+    "y": -12.0,
+    "z": -4806.165351298656,
+    "pitch": 46.94999,
+    "yaw": 163.05951
    },
    "homeBlock": [
     247,
-    -300
+    -301
    ],
    "townBlocks": [
     [
@@ -150,8 +150,20 @@
   ],
   "trusted": [
    {
+    "name": "DRpellgg",
+    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   },
+   {
+    "name": "__lazii",
+    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   },
+   {
     "name": "ElJefe5775",
     "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "AJORDA",
+    "uuid": "7caebd15-e4f1-4bb4-b81b-100a2fed7369"
    }
   ],
   "outlaws": [],

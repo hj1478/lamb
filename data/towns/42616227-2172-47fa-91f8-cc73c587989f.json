@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Arx_Nilli",
   "uuid": "42616227-2172-47fa-91f8-cc73c587989f",
-  "board": "/town set board [msg]",
+  "board": "The Jewel of the Desert!",
   "founder": "ArthARF",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "8c0e5e99-c980-486a-9ca8-5b14b6cd6722"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Egypt",
+   "uuid": "157d7ef7-13db-46db-b20d-00cfd0b01155"
   },
   "timestamps": {
    "registered": 1791826567214,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792020198270,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 60.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,23 +92,59 @@
    ],
    "townBlocks": [
     [
+     711,
+     -114
+    ],
+    [
+     711,
+     -115
+    ],
+    [
+     709,
+     -115
+    ],
+    [
+     709,
+     -114
+    ],
+    [
+     709,
+     -113
+    ],
+    [
+     709,
+     -112
+    ],
+    [
+     710,
+     -115
+    ],
+    [
+     708,
+     -115
+    ],
+    [
      710,
      -113
     ],
     [
+     708,
+     -114
+    ],
+    [
      710,
      -114
+    ],
+    [
+     711,
+     -112
     ],
     [
      710,
      -112
     ],
     [
-     709,
-     -114
-    ],
-    [
-     709,
+     711,
      -113
     ]
    ],

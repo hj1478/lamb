@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Ceylon",
   "uuid": "4834b188-c02c-489b-8285-fe1925c6d22a",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 131,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 3,
+   "nationBonus": 100,
+   "numResidents": 4,
    "numTrusted": 3,
    "numOutlaws": 3,
-   "balance": 5.0,
+   "balance": 5544.0,
    "forSalePrice": null
   },
   "perms": {
@@ -630,6 +630,10 @@
    {
     "name": "Verzinal",
     "uuid": "6b8a5401-5812-4f6c-b34a-684cbfb04b0e"
+   },
+   {
+    "name": "Flaurion",
+    "uuid": "0b7b3bed-0dd2-477f-ac84-1a43ff63a3fb"
    }
   ],
   "trusted": [
@@ -662,7 +666,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Flaurion",
+     "uuid": "0b7b3bed-0dd2-477f-ac84-1a43ff63a3fb"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

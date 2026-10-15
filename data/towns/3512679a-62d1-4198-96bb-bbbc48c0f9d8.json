@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "New_Delhi",
   "uuid": "3512679a-62d1-4198-96bb-bbbc48c0f9d8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "wheelyUwU",
-   "uuid": "53405d66-fce5-4c15-9fe8-4c11611c1050"
+   "name": "cheezus69",
+   "uuid": "31b85f46-331a-4353-b19b-a7ccfd32dccb"
   },
   "nation": {
    "name": "Narmada",
@@ -22,25 +22,25 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -96,12 +96,12 @@
      -161
     ],
     [
-     1732,
-     -160
-    ],
-    [
      1730,
      -161
+    ],
+    [
+     1732,
+     -160
     ],
     [
      1730,
@@ -164,11 +164,15 @@
   },
   "residents": [
    {
-    "name": "wheelyUwU",
-    "uuid": "53405d66-fce5-4c15-9fe8-4c11611c1050"
+    "name": "cheezus69",
+    "uuid": "31b85f46-331a-4353-b19b-a7ccfd32dccb"
    }
   ],
   "trusted": [
+   {
+    "name": "wheelyUwU",
+    "uuid": "53405d66-fce5-4c15-9fe8-4c11611c1050"
+   },
    {
     "name": "_Melix_",
     "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"

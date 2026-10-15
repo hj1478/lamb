@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Adirondacks",
   "uuid": "41d5178c-000d-4b70-94d9-c662a89036b6",
@@ -12,12 +12,12 @@
    "uuid": "43b68b6b-14e5-4648-bca1-b585f4e8f46c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "New_York",
+   "uuid": "f5254fa5-98b8-41d9-9bc8-ed3ddb00c354"
   },
   "timestamps": {
    "registered": 1791946175058,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792029294568,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1656,
+     -534
+    ],
+    [
+     -1657,
      -534
     ]
    ],

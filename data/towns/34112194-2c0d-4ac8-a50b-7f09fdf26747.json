@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "OttomanEmp",
   "uuid": "34112194-2c0d-4ac8-a50b-7f09fdf26747",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "tobyeyy",
-   "uuid": "41f0b230-7bd1-46ff-b3ef-109532c3f25b"
+   "name": "NPC25",
+   "uuid": "bff97d94-81bb-20b8-9463-1aeedbfd27cc"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1784217911243,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791972002910
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -188,8 +188,8 @@
   },
   "residents": [
    {
-    "name": "tobyeyy",
-    "uuid": "41f0b230-7bd1-46ff-b3ef-109532c3f25b"
+    "name": "NPC25",
+    "uuid": "bff97d94-81bb-20b8-9463-1aeedbfd27cc"
    }
   ],
   "trusted": [],

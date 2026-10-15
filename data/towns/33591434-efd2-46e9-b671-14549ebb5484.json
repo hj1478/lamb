@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Longgang",
   "uuid": "33591434-efd2-46e9-b671-14549ebb5484",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "cynvo",
-   "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
+   "name": "BUGCAT_TW",
+   "uuid": "b1766e34-0feb-48f0-b1ce-fccef2ed4cbd"
   },
   "nation": {
    "name": "Tang",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": false,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 102,
-   "maxTownBlocks": 188,
+   "maxTownBlocks": 200,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 9,
-   "numTrusted": 6,
+   "numResidents": 10,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -504,10 +504,6 @@
   },
   "residents": [
    {
-    "name": "cynvo",
-    "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
-   },
-   {
     "name": "Mentaikonigiri",
     "uuid": "ffe5ecca-6b4f-4bb1-aa3f-554c33de7c1d"
    },
@@ -538,20 +534,20 @@
    {
     "name": "edemata",
     "uuid": "86530be0-52b5-4577-85db-e9b3f401acff"
+   },
+   {
+    "name": "hoan773",
+    "uuid": "40fdb42f-6a44-48ec-8577-e56a39c676ff"
+   },
+   {
+    "name": "BUGCAT_TW",
+    "uuid": "b1766e34-0feb-48f0-b1ce-fccef2ed4cbd"
    }
   ],
   "trusted": [
    {
-    "name": "meng_yuyun",
-    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
-   },
-   {
     "name": "ItzYunwu",
     "uuid": "6111d9ec-6c40-417e-8cc6-47d282f6da53"
-   },
-   {
-    "name": "GreatRZ",
-    "uuid": "3a4ee232-14a5-425b-9bee-2606d517ab29"
    },
    {
     "name": "ZDself",
@@ -569,35 +565,25 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "mapart",
-    "uuid": "311f4c20-ce7e-4d0e-8413-668dd7b3e1cb"
-   },
-   {
     "name": "Perturbing Dwelling",
     "uuid": "44b2f848-7d1f-40b7-937a-f2d4f673ecf5"
    },
    {
     "name": ":D",
     "uuid": "ab2e8751-43f5-4e3e-ae7a-04dbaaa3641d"
+   },
+   {
+    "name": "mapart",
+    "uuid": "311f4c20-ce7e-4d0e-8413-668dd7b3e1cb"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "cynvo",
-     "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "cynvo",
-     "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

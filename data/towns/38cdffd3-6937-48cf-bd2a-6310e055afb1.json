@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Pigeon_Island",
   "uuid": "38cdffd3-6937-48cf-bd2a-6310e055afb1",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 55,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
+   "numResidents": 8,
    "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 323.0,
+   "numOutlaws": 2,
+   "balance": 293.0,
    "forSalePrice": null
   },
   "perms": {
@@ -325,20 +325,12 @@
     "uuid": "d1bf300c-3af9-45fe-a64c-895b6c7e834b"
    },
    {
-    "name": "electricalYT",
-    "uuid": "5d29cb12-1fbc-4e48-8695-24aaa7eb1aa4"
-   },
-   {
     "name": "sstreit",
     "uuid": "4198fa39-8b38-4ed4-b584-abee1cbf3bfb"
    },
    {
     "name": "TaLez4353",
     "uuid": "cb9575d6-d28a-46c8-803b-7885aa7393be"
-   },
-   {
-    "name": "vanhalendobrasil",
-    "uuid": "b8a5a385-8041-40d5-84b7-47feb1cd3336"
    },
    {
     "name": "MecaChar",
@@ -370,10 +362,6 @@
    {
     "name": "felixfan342",
     "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
-   },
-   {
-    "name": "NoBanThanks",
-    "uuid": "cf005eb7-a6a7-42f3-9f1a-e4959ad93d58"
    }
   ],
   "quarters": [],
@@ -382,12 +370,7 @@
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "electricalYT",
-     "uuid": "5d29cb12-1fbc-4e48-8695-24aaa7eb1aa4"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

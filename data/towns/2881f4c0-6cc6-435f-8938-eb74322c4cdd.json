@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Riyadh",
   "uuid": "2881f4c0-6cc6-435f-8938-eb74322c4cdd",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 41,
-   "maxTownBlocks": 118,
+   "maxTownBlocks": 130,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 9,
+   "numResidents": 10,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 340.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 3100.0
   },
   "perms": {
    "build": [
@@ -294,6 +294,10 @@
    {
     "name": "IbrAba",
     "uuid": "daf0a563-f49c-48ba-9ae0-8fc555c992d5"
+   },
+   {
+    "name": "Abdullah59661",
+    "uuid": "e9a09d9d-c7c5-4dea-ad76-3f153b046037"
    }
   ],
   "trusted": [],

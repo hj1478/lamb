@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Gold",
   "uuid": "30b52fe8-bf6d-4897-8fef-1a2f7e43012b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 334,
-   "maxTownBlocks": 328,
+   "maxTownBlocks": 352,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 19,
+   "numResidents": 21,
    "numTrusted": 6,
    "numOutlaws": 58,
-   "balance": 18777.0,
+   "balance": 26339.0,
    "forSalePrice": 1000000.0
   },
   "perms": {
@@ -1440,8 +1440,8 @@
     "uuid": "51b4e09d-e68a-43b7-8a04-d48a39ee1721"
    },
    {
-    "name": "Cristian090902",
-    "uuid": "9c2d3ee3-e0f2-49b6-bf12-b9073b0d6dbd"
+    "name": "TheKiller2023",
+    "uuid": "11fe2061-b437-42dd-8d6f-279bc3f3c8dc"
    },
    {
     "name": "Gautomy",
@@ -1492,10 +1492,6 @@
     "uuid": "6ffc0ddc-4008-49a2-bbd7-1f8b3ac94506"
    },
    {
-    "name": "Zxbear26",
-    "uuid": "65cb3edd-c689-42fe-b253-00d6df8f7f25"
-   },
-   {
     "name": "RockyToady",
     "uuid": "4c2300dd-8010-4616-a13a-4a4441258d51"
    },
@@ -1506,6 +1502,18 @@
    {
     "name": "Bizhle",
     "uuid": "eae12441-16a3-43d2-b6dd-ed1f9eb32ec1"
+   },
+   {
+    "name": "Yashenn",
+    "uuid": "6bca276c-7416-456f-8db3-4fba54ce129a"
+   },
+   {
+    "name": "ok8super",
+    "uuid": "c94cd196-866c-4afd-8751-cdbd856e8101"
+   },
+   {
+    "name": "BigFloppySausage",
+    "uuid": "5e6c6dce-64b8-497a-bd7c-17e5670ede27"
    }
   ],
   "trusted": [
@@ -1538,10 +1546,6 @@
    {
     "name": "Olivio90",
     "uuid": "aca7163c-1dc6-40be-accb-59055ffa71a7"
-   },
-   {
-    "name": "leviboy2477",
-    "uuid": "aa4040f7-5ee9-43b8-891f-701fc373eb95"
    },
    {
     "name": "Enki_Ptah",
@@ -1600,7 +1604,7 @@
     "uuid": "1f547520-a8b7-4593-840d-fb96d584db08"
    },
    {
-    "name": "Javaman47",
+    "name": "Lukas_Schuster",
     "uuid": "a6cddb12-a2f0-4ac5-8129-53084aab1e29"
    },
    {
@@ -1766,6 +1770,10 @@
    {
     "name": "brunettebaddies",
     "uuid": "fcd61342-5fde-4184-89d2-995bebaf3da6"
+   },
+   {
+    "name": "Gamerhallootjes",
+    "uuid": "95e58bdd-d396-405c-a14d-50f1fa40425a"
    }
   ],
   "quarters": [
@@ -1818,20 +1826,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Farms",
-    "uuid": "e93a1e44-025a-402a-9cf7-c189a9ed2b56",
-    "createdAt": 1784567776858,
-    "createdBy": "Gautomy",
-    "access": "NATION",
-    "location": {
-     "x": 49165,
-     "y": 64,
-     "z": 21487
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

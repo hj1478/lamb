@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Ponikos",
   "uuid": "34090b2d-d220-46e2-9c8a-be326aa5687b",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 159,
-   "maxTownBlocks": 240,
+   "numTownBlocks": 168,
+   "maxTownBlocks": 180,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 15,
+   "numResidents": 10,
    "numTrusted": 1,
    "numOutlaws": 17,
-   "balance": 32.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -105,6 +105,10 @@
     ],
     [
      2836,
+     -793
+    ],
+    [
+     2836,
      -781
     ],
     [
@@ -312,6 +316,10 @@
      -786
     ],
     [
+     2841,
+     -794
+    ],
+    [
      2840,
      -785
     ],
@@ -433,6 +441,10 @@
     ],
     [
      2835,
+     -784
+    ],
+    [
+     2835,
      -783
     ],
     [
@@ -444,12 +456,16 @@
      -796
     ],
     [
+     2835,
+     -794
+    ],
+    [
      2836,
      -795
     ],
     [
      2835,
-     -794
+     -793
     ],
     [
      2836,
@@ -493,6 +509,10 @@
     ],
     [
      2834,
+     -784
+    ],
+    [
+     2834,
      -783
     ],
     [
@@ -506,6 +526,14 @@
     [
      2834,
      -797
+    ],
+    [
+     2833,
+     -796
+    ],
+    [
+     2833,
+     -795
     ],
     [
      2839,
@@ -670,6 +698,14 @@
     [
      2837,
      -788
+    ],
+    [
+     2837,
+     -789
+    ],
+    [
+     2837,
+     -790
     ],
     [
      2837,
@@ -737,10 +773,6 @@
   },
   "residents": [
    {
-    "name": "_JustReuben",
-    "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
-   },
-   {
     "name": "WizzMop",
     "uuid": "f8e33883-9db8-464d-8390-207dd2efa7df"
    },
@@ -751,22 +783,6 @@
    {
     "name": "Safavid_Ludvig",
     "uuid": "5863d0c6-6348-4c25-a084-ba9b7be49147"
-   },
-   {
-    "name": "Wisezo",
-    "uuid": "153da667-7987-4174-baa5-885602f37484"
-   },
-   {
-    "name": "Glebatron",
-    "uuid": "a98d7931-dff0-4d03-8dcf-ab95d87956e7"
-   },
-   {
-    "name": "SPOONFAM",
-    "uuid": "adf05e14-a5b5-4324-ae15-eef57f87c3eb"
-   },
-   {
-    "name": "sigiemka16promax",
-    "uuid": "8f3aaee1-a4d4-4929-b035-941676d2b1ac"
    },
    {
     "name": "Patrick68503",
@@ -916,10 +932,6 @@
    ],
    "Builder": [
     {
-     "name": "_JustReuben",
-     "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
-    },
-    {
      "name": "GenjiGallyV12",
      "uuid": "a4993ee1-a919-44d2-a9cc-008a637d8138"
     },
@@ -933,10 +945,6 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [
-    {
-     "name": "_JustReuben",
-     "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
-    },
     {
      "name": "Daninatorw",
      "uuid": "c97e5351-be4b-43e7-bfc5-f28a99ede7a5"

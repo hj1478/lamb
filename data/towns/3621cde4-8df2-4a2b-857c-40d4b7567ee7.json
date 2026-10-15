@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Bjornoya",
   "uuid": "3621cde4-8df2-4a2b-857c-40d4b7567ee7",
-  "board": "/town set board [msg]",
+  "board": "The most isolated town in Svalbard!",
   "founder": "Huggah7",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6822.80261078979,
+    "x": 6826.499183341531,
     "y": 63.0,
-    "z": -25412.869938432905,
-    "pitch": 28.799953,
-    "yaw": -118.75454
+    "z": -25421.586412074746,
+    "pitch": 70.95011,
+    "yaw": -43.75333
    },
    "homeBlock": [
     426,
@@ -93,7 +93,31 @@
    "townBlocks": [
     [
      426,
+     -1590
+    ],
+    [
+     426,
      -1589
+    ],
+    [
+     426,
+     -1588
+    ],
+    [
+     425,
+     -1589
+    ],
+    [
+     425,
+     -1588
+    ],
+    [
+     426,
+     -1587
+    ],
+    [
+     427,
+     -1588
     ],
     [
      427,
@@ -106,10 +130,24 @@
    {
     "name": "Huggah7",
     "uuid": "c8647271-6043-45b6-8418-5f875945a927"
+   },
+   {
+    "name": "riot690",
+    "uuid": "cad1485c-d26b-42f9-b844-1ebd2f052fa5"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "riot690",
+    "uuid": "cad1485c-d26b-42f9-b844-1ebd2f052fa5"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "AvocadoApache",
+    "uuid": "a3a4d2fe-aa5c-4a1d-832b-1cfdab47dd9b"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Zhangjiako",
   "uuid": "342219d5-12b4-42e3-83d4-a77a67298a57",
@@ -12,12 +12,12 @@
    "uuid": "8f9646ab-61b2-4ad9-8c22-f9e6a7b68c67"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "PRC",
+   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
   },
   "timestamps": {
    "registered": 1791638840036,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791732387488,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 21.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,16 +100,20 @@
      -492
     ],
     [
-     2588,
-     -492
-    ],
-    [
      2587,
      -493
     ],
     [
+     2588,
+     -492
+    ],
+    [
      2586,
      -492
+    ],
+    [
+     2586,
+     -491
     ],
     [
      2587,

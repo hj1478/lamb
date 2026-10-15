@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Chunk",
   "uuid": "3c2f435e-9514-497f-a742-7d614b89b51f",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "gezdomovec",
-   "uuid": "25d9aa8a-2411-4688-9de7-fd54a27c2c8c"
+   "name": "NPC100",
+   "uuid": "5bd716ea-3182-2009-87ec-22943815beb6"
   },
   "nation": {
-   "name": "Greece",
-   "uuid": "dcdefdf8-ae51-4436-903a-4eb88c58087a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791728857995,
-   "joinedNationAt": 1791791121541,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791821178803
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "gezdomovec",
-    "uuid": "25d9aa8a-2411-4688-9de7-fd54a27c2c8c"
+    "name": "NPC100",
+    "uuid": "5bd716ea-3182-2009-87ec-22943815beb6"
    }
   ],
   "trusted": [],

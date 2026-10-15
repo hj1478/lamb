@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Badiraguato",
   "uuid": "361b27d5-9d15-45b8-8090-a9bbcb346254",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -38258.45959835881,
+    "x": -38265.97156357015,
     "y": 69.0,
-    "z": -924.3590180742406,
-    "pitch": -17.4,
-    "yaw": 89.54998
+    "z": -948.5137309624793,
+    "pitch": 11.699952,
+    "yaw": -179.99957
    },
    "homeBlock": [
     -2392,
-    -58
+    -60
    ],
    "townBlocks": [
     [

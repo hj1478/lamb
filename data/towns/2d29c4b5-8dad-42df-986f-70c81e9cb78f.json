@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Amari",
   "uuid": "2d29c4b5-8dad-42df-986f-70c81e9cb78f",
-  "board": "/town set board [msg]",
+  "board": "Elagu Eesti!",
   "founder": "prgi",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,60 @@
    ],
    "townBlocks": [
     [
+     542,
+     -1009
+    ],
+    [
+     541,
+     -1008
+    ],
+    [
+     539,
+     -1008
+    ],
+    [
+     539,
+     -1009
+    ],
+    [
+     539,
+     -1010
+    ],
+    [
+     541,
+     -1009
+    ],
+    [
      541,
      -1010
+    ],
+    [
+     540,
+     -1010
+    ],
+    [
+     538,
+     -1008
+    ],
+    [
+     540,
+     -1009
+    ],
+    [
+     540,
+     -1008
+    ],
+    [
+     540,
+     -1007
+    ],
+    [
+     538,
+     -1009
+    ],
+    [
+     539,
+     -1007
     ]
    ],
    "worlds": {}
@@ -102,20 +154,67 @@
    {
     "name": "prgi",
     "uuid": "a7a68303-a501-4374-b0ed-46399a2fd292"
+   },
+   {
+    "name": "oliveeris7890",
+    "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+   },
+   {
+    "name": "Aegis_FNS",
+    "uuid": "bbe1249d-2228-45f7-a73d-53d4caec6931"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Aegis_FNS",
+    "uuid": "bbe1249d-2228-45f7-a73d-53d4caec6931"
+   },
+   {
+    "name": "oliveeris7890",
+    "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
+   "Councillor": [
+    {
+     "name": "oliveeris7890",
+     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "oliveeris7890",
+     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "oliveeris7890",
+     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    }
+   ],
+   "Police": [
+    {
+     "name": "oliveeris7890",
+     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Realtor": [
+    {
+     "name": "oliveeris7890",
+     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "oliveeris7890",
+     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

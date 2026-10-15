@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Diamond_Casino",
   "uuid": "2d7ffcba-3cef-4313-9f8f-b262bc3d5f30",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "feinnein",
-   "uuid": "000106a7-e7ac-443f-a953-64b4723970fd"
+   "name": "chkr1212",
+   "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
   },
   "nation": {
    "name": "Argentina",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1779641738125,
-   "joinedNationAt": 1780091233327,
+   "joinedNationAt": 1791687104650,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 133,
-   "maxTownBlocks": 236,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
-   "numTrusted": 2,
+   "numResidents": 8,
+   "numTrusted": 1,
    "numOutlaws": 7,
-   "balance": 1.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -633,10 +633,6 @@
   },
   "residents": [
    {
-    "name": "feinnein",
-    "uuid": "000106a7-e7ac-443f-a953-64b4723970fd"
-   },
-   {
     "name": "Zdoinx",
     "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
    },
@@ -653,46 +649,26 @@
     "uuid": "02ac94dd-bf2e-430e-85ab-ea5a53b91ebd"
    },
    {
-    "name": "HairBrianKING",
-    "uuid": "7960187c-6e14-4c34-8b87-0bb3c463055a"
-   },
-   {
-    "name": "roseinastorm",
-    "uuid": "8c49587a-e4fe-4e68-9e1b-e502e6208da9"
-   },
-   {
     "name": "JGoldenPig",
     "uuid": "0f7bcc95-cb22-4513-b0ea-1fe453507d69"
-   },
-   {
-    "name": "BartyPart2000",
-    "uuid": "0724bb53-fc79-43a5-8da9-1793475d5ac9"
-   },
-   {
-    "name": "Yoneleshan",
-    "uuid": "ba8c4cb0-9fb6-443a-a6a2-5fec926e94c5"
-   },
-   {
-    "name": "Shreder0028",
-    "uuid": "b94775fe-b75d-4731-8acf-d0bdf466de96"
    },
    {
     "name": "w4rcrim3s",
     "uuid": "d8d646a2-76c5-4745-b36b-a9e2b19d24fb"
    },
    {
-    "name": "JustMartyMcfly",
-    "uuid": "03aa8111-8642-4bbb-bf6d-9ce8dab58923"
+    "name": "chkr1212",
+    "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
+   },
+   {
+    "name": "boomsplat6000",
+    "uuid": "a701bf15-2145-4f2c-a882-b314cd53cd43"
    }
   ],
   "trusted": [
    {
-    "name": "VannyVanMan",
-    "uuid": "3110cd84-e89c-485a-8fda-5c4275fa4537"
-   },
-   {
-    "name": "Zdoinx",
-    "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
    }
   ],
   "outlaws": [
@@ -717,12 +693,12 @@
     "uuid": "069dec3a-9f16-4f50-9b37-d40197e438e0"
    },
    {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   },
-   {
     "name": "MCDREAMBOY",
     "uuid": "d2a469e2-4068-4afe-b0af-e34595cadd25"
+   },
+   {
+    "name": "feinnein",
+    "uuid": "000106a7-e7ac-443f-a953-64b4723970fd"
    }
   ],
   "quarters": [
@@ -760,43 +736,14 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Zdoinx",
-     "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "feinnein",
-     "uuid": "000106a7-e7ac-443f-a953-64b4723970fd"
-    },
-    {
-     "name": "Zdoinx",
-     "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "Zdoinx",
-     "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [
-    {
-     "name": "Zdoinx",
-     "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Zdoinx",
-     "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
-    }
-   ]
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

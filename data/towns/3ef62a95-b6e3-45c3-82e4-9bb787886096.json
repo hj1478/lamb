@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Oviedo",
   "uuid": "3ef62a95-b6e3-45c3-82e4-9bb787886096",
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 7,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 15.0,
    "forSalePrice": null
   },
@@ -501,7 +501,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "0Miura",
+    "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

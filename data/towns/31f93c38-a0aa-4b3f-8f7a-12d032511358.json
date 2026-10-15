@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Hazelmare",
   "uuid": "31f93c38-a0aa-4b3f-8f7a-12d032511358",
-  "board": "/town set board [msg]",
+  "board": "Please Ask For An Invite!",
   "founder": "JesusIsTuff",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "3e0d0e74-be34-4723-9e4b-878720737f01"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
    "registered": 1791723338546,
-   "joinedNationAt": 1791723354707,
+   "joinedNationAt": 1792048761213,
    "ruinedAt": null
   },
   "status": {
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3849.3799592950986,
-    "y": 65.0,
-    "z": -13188.416290050656,
-    "pitch": 34.50006,
-    "yaw": 139.36685
+    "x": 3853.3136240482468,
+    "y": 63.0,
+    "z": -13192.409390965493,
+    "pitch": -7.9500337,
+    "yaw": -88.612305
    },
    "homeBlock": [
     240,
@@ -92,7 +92,15 @@
    ],
    "townBlocks": [
     [
+     242,
+     -825
+    ],
+    [
      240,
+     -825
+    ],
+    [
+     241,
      -825
     ]
    ],
@@ -106,7 +114,28 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Lovely Quarter",
+    "uuid": "1c1efd37-8a8b-4444-8871-7f2cd3c59fc6"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "c7c2c324-34d0-4503-84ef-5cfde240fe7f"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "8c3f73f0-a5ce-46eb-9175-6fa64a0f0f0d"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "24f2c068-989c-4420-a704-c97e7002f596"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "083602d4-3ff3-4327-99a6-e07e86777b51"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

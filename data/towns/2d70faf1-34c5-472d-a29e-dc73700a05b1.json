@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Argentina",
   "uuid": "2d70faf1-34c5-472d-a29e-dc73700a05b1",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
-   "numTrusted": 3,
+   "numResidents": 15,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23278.69361059134,
-    "y": 134.0,
-    "z": 16570.659769115206,
-    "pitch": 28.14159,
-    "yaw": -179.11511
+    "x": -23288.078892849408,
+    "y": 137.0,
+    "z": 16573.486796156612,
+    "pitch": 69.06485,
+    "yaw": -90.8432
    },
    "homeBlock": [
-    -1455,
+    -1456,
     1035
    ],
    "townBlocks": [
@@ -134,10 +134,6 @@
    {
     "name": "jastqu",
     "uuid": "8d49d3eb-9881-4194-b9ec-395e4b1a2577"
-   },
-   {
-    "name": "NahunPH",
-    "uuid": "0f13b245-6190-49bf-bc4a-0405afc8cf8f"
    },
    {
     "name": "Santy1325",
@@ -208,6 +204,14 @@
    {
     "name": "Meshly",
     "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
+   },
+   {
+    "name": "Mega4343",
+    "uuid": "036b5522-c0fc-4290-bdd8-6c395a37f9bd"
+   },
+   {
+    "name": "MellowJello123",
+    "uuid": "a22cbddc-c9f7-4ed5-a7fd-efd38e864dc5"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Paradis",
   "uuid": "30394139-c4f8-4fe8-9532-68a2d72e9592",
@@ -25,22 +25,22 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 15,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17304.44119111198,
+    "x": 17304.46345961468,
     "y": 63.0,
-    "z": -20287.31319109125,
-    "pitch": 7.296621,
-    "yaw": -2.60437
+    "z": -20287.541539900783,
+    "pitch": -0.1718972,
+    "yaw": -179.90297
    },
    "homeBlock": [
     1081,
@@ -104,12 +104,20 @@
      -1270
     ],
     [
+     1082,
+     -1271
+    ],
+    [
      1080,
      -1267
     ],
     [
      1080,
      -1268
+    ],
+    [
+     1080,
+     -1271
     ],
     [
      1080,
@@ -134,6 +142,10 @@
     [
      1081,
      -1270
+    ],
+    [
+     1081,
+     -1271
     ],
     [
      1082,
@@ -148,20 +160,7 @@
     "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
    }
   ],
-  "trusted": [
-   {
-    "name": "Leskyow",
-    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
-   },
-   {
-    "name": "Saltiestspinach",
-    "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
-   },
-   {
-    "name": "sobrem4res",
-    "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

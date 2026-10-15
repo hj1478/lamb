@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Inverness",
   "uuid": "38570280-9e21-49c6-a6bf-98ecd20d14e5",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 224,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 6,
+   "numResidents": 4,
+   "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -996,10 +996,6 @@
     "uuid": "e4721066-8a0f-4044-a4fc-569cc98948cb"
    },
    {
-    "name": "mrbeefyy",
-    "uuid": "12f9b082-532f-4dee-9889-50cb03a01180"
-   },
-   {
     "name": "itsJykes",
     "uuid": "a0e02194-e2af-4ef7-ae2b-526c3b3451dc"
    },
@@ -1008,23 +1004,11 @@
     "uuid": "3706e333-a5b7-4c4d-99cb-09d0eaebd06f"
    },
    {
-    "name": "dietcokeu",
-    "uuid": "b58b7a2d-4724-4c94-886e-4535c3cb4459"
-   },
-   {
-    "name": "AiTingYun",
-    "uuid": "f8871605-ab8b-4435-be09-26133fa0a987"
-   },
-   {
     "name": "Tent4i",
     "uuid": "dfd34440-d032-4cf9-bf99-133437ca7328"
    }
   ],
   "trusted": [
-   {
-    "name": "WSZN",
-    "uuid": "3d247407-a6da-4bba-a2f6-a2369aacbc0d"
-   },
    {
     "name": "itsJykes",
     "uuid": "a0e02194-e2af-4ef7-ae2b-526c3b3451dc"
@@ -1082,32 +1066,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Parkour",
-    "uuid": "a8417ccc-4c4a-4ca6-83d1-000df967a87f",
-    "createdAt": 1791021886256,
-    "createdBy": "itsJykes",
-    "access": "NATION",
-    "location": {
-     "x": -1403,
-     "y": 141,
-     "z": -15137
-    }
-   },
-   {
-    "name": "Residents",
-    "uuid": "f096e5a6-406a-4a5b-bd22-949fa10dc4bd",
-    "createdAt": 1790394577622,
-    "createdBy": "itsJykes",
-    "access": "RESIDENT",
-    "location": {
-     "x": -1448,
-     "y": 64,
-     "z": -15241
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

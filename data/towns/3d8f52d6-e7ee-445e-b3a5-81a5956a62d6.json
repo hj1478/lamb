@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Hispaniola",
   "uuid": "3d8f52d6-e7ee-445e-b3a5-81a5956a62d6",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 338,
-   "maxTownBlocks": 328,
+   "maxTownBlocks": 316,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 19,
-   "numTrusted": 5,
+   "numResidents": 18,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 4134.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -1452,16 +1452,8 @@
     "uuid": "f3077215-8f5e-4397-939c-097348723372"
    },
    {
-    "name": "the_champ777",
-    "uuid": "63f17f69-3b63-4a02-b9c5-2672893cf8d9"
-   },
-   {
     "name": "Jack_Puel",
     "uuid": "f9fc885d-e497-426b-8f37-80d6e28146ae"
-   },
-   {
-    "name": "Blazicken",
-    "uuid": "0a017711-0a9d-4ad1-855b-45ddaa309aec"
    },
    {
     "name": "_Moe",
@@ -1522,6 +1514,10 @@
    {
     "name": "SEALEADER",
     "uuid": "ef34c679-9a10-4732-8c4f-f1e47015cbbf"
+   },
+   {
+    "name": "the_champ777",
+    "uuid": "63f17f69-3b63-4a02-b9c5-2672893cf8d9"
    }
   ],
   "trusted": [
@@ -1530,20 +1526,8 @@
     "uuid": "96f759f4-793f-4fc5-9101-9224f74750ab"
    },
    {
-    "name": "Jack_Puel",
-    "uuid": "f9fc885d-e497-426b-8f37-80d6e28146ae"
-   },
-   {
-    "name": "500500",
-    "uuid": "bcd00793-3055-487c-9153-acfc693c1ca3"
-   },
-   {
     "name": "Ew4nz",
     "uuid": "73dfc183-b890-4bd7-b1a9-6b696d281968"
-   },
-   {
-    "name": "the_champ777",
-    "uuid": "63f17f69-3b63-4a02-b9c5-2672893cf8d9"
    }
   ],
   "outlaws": [],

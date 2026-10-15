@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Makedon",
   "uuid": "3fab613d-ec55-4000-b17b-4776deafad0e",
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -43,7 +43,7 @@
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 400.0
   },
   "perms": {
    "build": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Jabalpur",
   "uuid": "2d17bd7a-2d2f-462b-8b2c-5e08aca4d9b0",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     1825,
+     -24
+    ],
+    [
+     1825,
+     -23
+    ],
+    [
+     1827,
+     -24
+    ],
+    [
      1826,
      -24
+    ],
+    [
+     1826,
+     -25
+    ],
+    [
+     1826,
+     -23
     ]
    ],
    "worlds": {}
@@ -102,13 +122,27 @@
    {
     "name": "FaithfulDane",
     "uuid": "58eb70f9-4935-408a-af7d-0391edd526df"
+   },
+   {
+    "name": "Phanes___",
+    "uuid": "5945ff7e-c6cf-4ce5-ad60-63ef8a621b43"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "JoelTheBigMac",
+    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Phanes___",
+     "uuid": "5945ff7e-c6cf-4ce5-ad60-63ef8a621b43"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

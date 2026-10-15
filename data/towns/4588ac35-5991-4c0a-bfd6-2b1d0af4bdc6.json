@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Gairloch",
   "uuid": "4588ac35-5991-4c0a-bfd6-2b1d0af4bdc6",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 193,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 1,
+   "numResidents": 8,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 2322.0,
+   "balance": 1345.0,
    "forSalePrice": null
   },
   "perms": {
@@ -892,11 +892,19 @@
     "uuid": "94f28eff-8130-4000-828b-4ba3d5749e7d"
    },
    {
-    "name": "F_exe",
-    "uuid": "c1b37387-757f-4f78-a669-9192bbb1841f"
+    "name": "Axolotom",
+    "uuid": "7ff15f9d-12dc-42a3-87e8-298e2cd93364"
+   },
+   {
+    "name": "cchris97",
+    "uuid": "e7d7a264-11ea-4666-a874-c23bc4dd89e8"
    }
   ],
   "trusted": [
+   {
+    "name": "F_exe",
+    "uuid": "c1b37387-757f-4f78-a669-9192bbb1841f"
+   },
    {
     "name": "ProGolden",
     "uuid": "cd8a38f1-5ddf-4abc-9552-d54dc092fbcd"
@@ -909,10 +917,6 @@
     "uuid": "1ffee232-1e96-4a36-bb37-0c7b5ba3d5cd"
    },
    {
-    "name": "Welcoming Property",
-    "uuid": "1b46a430-fec8-46d7-bca9-c8f1d5e4ff86"
-   },
-   {
     "name": "Enraging Quarter",
     "uuid": "8a35de55-7897-4525-bf51-5871feb6ffa4"
    },
@@ -923,6 +927,10 @@
    {
     "name": "Enraging Apartment",
     "uuid": "4f5ae200-e4a3-48cb-a58f-eb0b552b8f24"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "1b46a430-fec8-46d7-bca9-c8f1d5e4ff86"
    }
   ],
   "ranks": {
@@ -930,10 +938,6 @@
     {
      "name": "Zuchtschwein",
      "uuid": "94f28eff-8130-4000-828b-4ba3d5749e7d"
-    },
-    {
-     "name": "F_exe",
-     "uuid": "c1b37387-757f-4f78-a669-9192bbb1841f"
     }
    ],
    "Builder": [

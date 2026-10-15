@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Malindi",
   "uuid": "3a2a3805-ce53-42fe-9720-c9937d304b77",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -104,7 +104,16 @@
     "uuid": "40c2a350-d943-4773-b624-dd788a761c6f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DwightGalluzzi",
+    "uuid": "9fb94d6e-fad5-427d-890e-a4ec44ffd365"
+   },
+   {
+    "name": "mr_nuggem_",
+    "uuid": "84aaf560-6843-4cb5-b852-2923334d8faa"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

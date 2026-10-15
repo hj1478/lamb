@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
-  "name": "Apple_Inc",
+  "name": "Ulanhot",
   "uuid": "45f33479-2e31-4cd5-96e0-c40e7e041970",
-  "board": "Only Apple can do.",
+  "board": "Manchuria",
   "founder": "BrojiBroji",
   "wiki": null,
   "discord": null,
@@ -27,7 +27,7 @@
    "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 216,
-   "maxTownBlocks": 82,
+   "maxTownBlocks": 94,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 6,
-   "numTrusted": 12,
+   "numResidents": 7,
+   "numTrusted": 9,
    "numOutlaws": 6,
    "balance": 0.0,
-   "forSalePrice": 999999999.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -964,6 +964,10 @@
     "uuid": "d3810c77-0cb2-4ea7-a60c-0fd393ddf8a4"
    },
    {
+    "name": "ChTY_lin",
+    "uuid": "d42d2b83-1162-4d55-819b-5f1d970fc5dd"
+   },
+   {
     "name": "MrSandwich_1234",
     "uuid": "561ec92f-eb47-4a22-9480-05347578f800"
    },
@@ -972,42 +976,34 @@
     "uuid": "4118e8a7-d652-49de-ba8b-d1ac50414ced"
    },
    {
-    "name": "FL_Chu_Gongzi",
-    "uuid": "1831d6ff-daff-4001-9882-86e52156ef16"
-   },
-   {
     "name": "Tkmaurirere",
     "uuid": "d65723ce-0592-437b-b2e0-56a858cef27a"
    },
    {
-    "name": "JiangHuan666",
-    "uuid": "4198c912-eb8a-43d6-935f-3c7fa4a83fa9"
+    "name": "Zuolin_ZHANG",
+    "uuid": "3ca657e0-0b73-49c3-b29a-96b8b6a0154e"
+   },
+   {
+    "name": "Civary",
+    "uuid": "a0880bbf-0119-45ae-b1cf-0349135219e1"
    }
   ],
   "trusted": [
-   {
-    "name": "C_A_Xi",
-    "uuid": "31000980-296c-463b-9e6a-2589d8a42a30"
-   },
    {
     "name": "Feibai_",
     "uuid": "dc0e63a1-4ba0-4ec0-b819-863d1c94e03e"
    },
    {
-    "name": "Mapleland25244",
-    "uuid": "f41d1dcf-2ee0-4bd7-9e48-274e562a29aa"
+    "name": "FengqianYun",
+    "uuid": "567f71c5-7ee6-4b58-bf32-2789dbd3c9ed"
    },
    {
     "name": "LiZekaiii",
     "uuid": "1589b4fe-c8aa-4674-af8d-3f709d10b8e0"
    },
    {
-    "name": "ZDself",
-    "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
-   },
-   {
-    "name": "AstrInk",
-    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+    "name": "JiangHuan666",
+    "uuid": "4198c912-eb8a-43d6-935f-3c7fa4a83fa9"
    },
    {
     "name": "Ehou03",
@@ -1018,20 +1014,16 @@
     "uuid": "a4ee3d0b-41d0-4134-8069-8851e02d713e"
    },
    {
-    "name": "TimeSpace_ZONE",
-    "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
+    "name": "Zuolin_ZHANG",
+    "uuid": "3ca657e0-0b73-49c3-b29a-96b8b6a0154e"
    },
    {
     "name": "GuarD1an2250",
     "uuid": "7283ee68-d09d-4b81-a562-b03b0e914b24"
    },
    {
-    "name": "ChrisLin719",
-    "uuid": "f2cfa9d4-a9b2-473b-b872-ed58f74a4e4f"
-   },
-   {
-    "name": "Duolingoose",
-    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
+    "name": "Tkmaurirere",
+    "uuid": "d65723ce-0592-437b-b2e0-56a858cef27a"
    }
   ],
   "outlaws": [
@@ -1079,13 +1071,17 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [
+   "Councillor": [
     {
-     "name": "FL_Chu_Gongzi",
-     "uuid": "1831d6ff-daff-4001-9882-86e52156ef16"
+     "name": "Tkmaurirere",
+     "uuid": "d65723ce-0592-437b-b2e0-56a858cef27a"
+    },
+    {
+     "name": "Zuolin_ZHANG",
+     "uuid": "3ca657e0-0b73-49c3-b29a-96b8b6a0154e"
     }
    ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

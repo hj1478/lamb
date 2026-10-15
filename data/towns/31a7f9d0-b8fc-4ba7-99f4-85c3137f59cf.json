@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "CabinTown",
   "uuid": "31a7f9d0-b8fc-4ba7-99f4-85c3137f59cf",
@@ -12,12 +12,12 @@
    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791916294217,
-   "joinedNationAt": 1791959030091,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 19.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     2855,
+     1072
+    ],
+    [
+     2854,
+     1071
+    ],
+    [
      2853,
      1072
     ],
@@ -106,6 +114,10 @@
     [
      2853,
      1073
+    ],
+    [
+     2855,
+     1071
     ]
    ],
    "worlds": {}

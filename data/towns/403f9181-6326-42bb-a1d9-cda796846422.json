@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Cavalcante",
   "uuid": "403f9181-6326-42bb-a1d9-cda796846422",
-  "board": "Brazils Best Spawl",
+  "board": "Brazils Fastest Growing town!",
   "founder": "iemkz",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 31,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 14,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 60.0,
+   "balance": 177.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -17274.468862275884,
+    "x": -17276.44144964986,
     "y": 63.0,
-    "z": 12614.637825246651,
-    "pitch": 22.848389,
-    "yaw": 90.168945
+    "z": 12605.374778256562,
+    "pitch": 86.59837,
+    "yaw": -24.881134
    },
    "homeBlock": [
     -1080,
-    788
+    787
    ],
    "townBlocks": [
     [
@@ -116,12 +116,12 @@
      787
     ],
     [
-     -1079,
-     788
-    ],
-    [
      -1081,
      784
+    ],
+    [
+     -1079,
+     788
     ],
     [
      -1081,
@@ -186,14 +186,14 @@
     [
      -1082,
      787
-    ],
-    [
-     -1082,
-     788
     ],
     [
      -1083,
      784
+    ],
+    [
+     -1082,
+     788
     ],
     [
      -1083,
@@ -243,6 +243,42 @@
    {
     "name": "Pedro_kexz",
     "uuid": "f6609f0c-fdae-4fca-84e4-b47acd139837"
+   },
+   {
+    "name": "ANHER0",
+    "uuid": "c3815865-8220-4b9e-8ce1-ea64c1e55ac7"
+   },
+   {
+    "name": "KOLGIG98",
+    "uuid": "df03056f-0732-4dea-94e9-2425a6aee566"
+   },
+   {
+    "name": "Cheesyest",
+    "uuid": "295a1176-4656-464c-aad7-6841412bfee0"
+   },
+   {
+    "name": "T_IsBoss",
+    "uuid": "35affcff-c5fb-4ecf-9b55-890417be6a12"
+   },
+   {
+    "name": "ChalieKirk6767",
+    "uuid": "87eb2816-5979-413c-8570-abb9ccc15dec"
+   },
+   {
+    "name": "ThiagoGT",
+    "uuid": "e86f221c-59ca-468d-a609-5ea3471df016"
+   },
+   {
+    "name": "SaintLaurentBong",
+    "uuid": "508012d2-9e68-41ed-bc91-d198281dde12"
+   },
+   {
+    "name": "Bounty_zxy",
+    "uuid": "a2386f42-9bf8-46b3-9133-6dffc353e21f"
+   },
+   {
+    "name": "Mr_bacon67",
+    "uuid": "40f4d397-7531-45eb-844a-26a58aea9b17"
    }
   ],
   "trusted": [],
@@ -255,7 +291,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Bounty_zxy",
+     "uuid": "a2386f42-9bf8-46b3-9133-6dffc353e21f"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

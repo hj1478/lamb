@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Likasi",
   "uuid": "302b9e85-75bb-46af-8392-d298341d67d2",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 102,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 122,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 50,
    "numResidents": 6,
-   "numTrusted": 3,
+   "numTrusted": 4,
    "numOutlaws": 5,
-   "balance": 4.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9646.355499747788,
+    "x": 9641.05919947986,
     "y": 84.0,
-    "z": 12086.934989884503,
-    "pitch": -0.9000786,
-    "yaw": 89.54553
+    "z": 12104.258416795956,
+    "pitch": -36.149994,
+    "yaw": 179.84529
    },
    "homeBlock": [
     602,
-    755
+    756
    ],
    "townBlocks": [
     [
@@ -120,8 +120,20 @@
      754
     ],
     [
+     604,
+     755
+    ],
+    [
      601,
      755
+    ],
+    [
+     604,
+     754
+    ],
+    [
+     604,
+     756
     ],
     [
      603,
@@ -153,10 +165,6 @@
     "uuid": "17272602-a57e-4c85-8708-04892c44b077"
    },
    {
-    "name": "AgentMich",
-    "uuid": "dea206b1-180c-463d-8fd0-ca7d8d4993ab"
-   },
-   {
     "name": "MackAndCheese143",
     "uuid": "9ab3d0f0-4a4f-4ad4-9d8a-66f0347d1cd6"
    },
@@ -171,12 +179,20 @@
    {
     "name": "zDinosPipoca",
     "uuid": "b72cab5a-21b3-420f-a30e-e943928bacba"
+   },
+   {
+    "name": "EDATY",
+    "uuid": "4d694769-8528-4023-b57c-30c2d5c12305"
    }
   ],
   "trusted": [
    {
     "name": "Andakira",
     "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
+   {
+    "name": "MrPickle26",
+    "uuid": "ef634f59-3102-4352-9a80-b7b4a606569a"
    },
    {
     "name": "Lemon_Pot",

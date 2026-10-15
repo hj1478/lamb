@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Lucca",
   "uuid": "3e573546-0575-4a2a-a7d7-bc4c3729d96a",
-  "board": "Italy is SPQR",
+  "board": "Italy is LassoL",
   "founder": "TikTakMine1992",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RObby6996",
-   "uuid": "c48f9613-7b37-4e59-8ae3-12feaf04e4fb"
+   "name": "LassqL",
+   "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
   },
   "nation": {
    "name": "SPQR",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 236,
-   "maxTownBlocks": 280,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
-   "numTrusted": 0,
-   "numOutlaws": 8,
+   "numResidents": 14,
+   "numTrusted": 2,
+   "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -1052,10 +1052,6 @@
     "uuid": "37eac3fb-b0b5-4351-92b0-e074485905d0"
    },
    {
-    "name": "G1ovi",
-    "uuid": "21261e88-a833-4cd4-866c-ff8b8407bb8c"
-   },
-   {
     "name": "noob194724",
     "uuid": "849d7b27-6b1e-45da-b9b7-d0d01b9f17dc"
    },
@@ -1092,23 +1088,28 @@
     "uuid": "d8e02492-6da8-4441-be4b-3a12e5c0712e"
    },
    {
+    "name": "Can_Ahmet",
+    "uuid": "9c8d27ff-aec4-49f9-86ca-0bffbb1277d5"
+   },
+   {
+    "name": "LassqL",
+    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
+   }
+  ],
+  "trusted": [
+   {
     "name": "RObby6996",
     "uuid": "c48f9613-7b37-4e59-8ae3-12feaf04e4fb"
    },
    {
-    "name": "Can_Ahmet",
-    "uuid": "9c8d27ff-aec4-49f9-86ca-0bffbb1277d5"
+    "name": "LassqL",
+    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
    }
   ],
-  "trusted": [],
   "outlaws": [
    {
     "name": "BenedictXVIII",
     "uuid": "50d10dfc-9726-4270-92ce-2e58de1423f1"
-   },
-   {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
    },
    {
     "name": "InuYasha_Plays",

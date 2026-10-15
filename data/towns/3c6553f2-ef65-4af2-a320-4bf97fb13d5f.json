@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Visa",
   "uuid": "3c6553f2-ef65-4af2-a320-4bf97fb13d5f",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 108,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42119.90517940856,
-    "y": 70.0,
-    "z": -5287.880338548862,
-    "pitch": -11.290649,
-    "yaw": -90.69086
+    "x": 42120.0175112622,
+    "y": 69.0,
+    "z": -5287.993535077956,
+    "pitch": 14.521359,
+    "yaw": -90.07034
    },
    "homeBlock": [
     2632,
@@ -534,9 +534,38 @@
    {
     "name": "ash_likes_frogs8",
     "uuid": "50295e48-f6e9-4d1a-9639-6054cff8df23"
+   },
+   {
+    "name": "Necozou",
+    "uuid": "f58cdfe9-01f8-4dbd-b726-ad04326f71df"
+   },
+   {
+    "name": "seyureee",
+    "uuid": "e4f69dbb-3eb9-40c4-8ac0-9b7f508b69df"
+   },
+   {
+    "name": "Fainma",
+    "uuid": "fe1c2fca-0f64-4b65-b936-e7cba92601b9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "nznh",
+    "uuid": "29d162aa-ff2d-4665-8087-439ae7dd0261"
+   },
+   {
+    "name": "173BIGMAC",
+    "uuid": "dd7f1960-4404-4c70-8dcd-f380cdf423e5"
+   },
+   {
+    "name": "fox_kitsune_dog",
+    "uuid": "d2ade4ac-135d-4c7b-a758-44f4c036ded5"
+   },
+   {
+    "name": "George_Plus",
+    "uuid": "35df6153-8d00-49b4-b0a2-cc5c86ebf486"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

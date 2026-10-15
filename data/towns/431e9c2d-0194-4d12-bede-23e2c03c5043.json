@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Serifos",
   "uuid": "431e9c2d-0194-4d12-bede-23e2c03c5043",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 134,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 6,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -631,10 +631,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "kontolodonHD",
-    "uuid": "0143e226-ceab-4c0a-aae6-ca40abf3f61a"
-   },
    {
     "name": "OBILdieHurtige",
     "uuid": "c66d6d2b-eb9e-4f39-bb04-a27f34d492f7"

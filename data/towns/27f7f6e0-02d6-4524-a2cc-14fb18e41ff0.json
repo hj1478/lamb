@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Malacca",
   "uuid": "27f7f6e0-02d6-4524-a2cc-14fb18e41ff0",
-  "board": "Former fishing town by the straits",
+  "board": "Venice of the East",
   "founder": "JediMxsterSSR_16",
   "wiki": null,
   "discord": null,
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 99,
-   "maxTownBlocks": 106,
+   "numTownBlocks": 103,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 8,
    "numTrusted": 3,
    "numOutlaws": 4,
-   "balance": 132.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -168,8 +168,16 @@
      450
     ],
     [
+     2279,
+     442
+    ],
+    [
      2285,
      447
+    ],
+    [
+     2279,
+     441
     ],
     [
      2289,
@@ -336,12 +344,16 @@
      442
     ],
     [
-     2286,
-     449
+     2281,
+     441
     ],
     [
      2281,
      444
+    ],
+    [
+     2286,
+     449
     ],
     [
      2281,
@@ -384,12 +396,12 @@
      448
     ],
     [
-     2293,
-     449
-    ],
-    [
      2283,
      444
+    ],
+    [
+     2293,
+     449
     ],
     [
      2283,
@@ -421,6 +433,10 @@
     ],
     [
      2280,
+     441
+    ],
+    [
+     2280,
      442
     ],
     [
@@ -476,11 +492,11 @@
      444
     ],
     [
-     2287,
+     2282,
      445
     ],
     [
-     2282,
+     2287,
      445
     ],
     [
@@ -491,10 +507,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "hotdog_guy66",
-    "uuid": "f99ff159-3660-4107-a7dd-e39d5be4888f"
-   },
    {
     "name": "1_Silverbolttt",
     "uuid": "6d41063b-90b0-4213-8a11-4a944b5d07d8"
@@ -522,6 +534,10 @@
    {
     "name": "Jackymoe",
     "uuid": "ab8a40fe-8619-4ec8-944d-9e64e4049891"
+   },
+   {
+    "name": "aren_hitsync",
+    "uuid": "d185c70c-ae59-453b-a6b8-b2bc953d72a7"
    }
   ],
   "trusted": [
@@ -530,7 +546,7 @@
     "uuid": "4d443a6b-f21c-4181-8082-3c72d2e1c0b7"
    },
    {
-    "name": "whevo",
+    "name": "Whevo",
     "uuid": "5f747fe9-d1e0-45ee-b52e-7b4a90546f0b"
    },
    {
@@ -558,12 +574,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "hotdog_guy66",
-     "uuid": "f99ff159-3660-4107-a7dd-e39d5be4888f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

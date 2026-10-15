@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Lunde",
   "uuid": "3e097197-e18a-4d3b-b793-9709f6a7668d",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 24.0,
@@ -586,6 +586,10 @@
    {
     "name": "Stronious",
     "uuid": "68a87d5d-9847-46a7-9429-c8bda6790336"
+   },
+   {
+    "name": "AlolanPiplup",
+    "uuid": "fad29022-87e9-4414-829a-7344a0bb54b7"
    }
   ],
   "trusted": [],

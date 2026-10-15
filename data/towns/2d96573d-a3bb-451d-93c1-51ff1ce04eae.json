@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "TITICACA",
   "uuid": "2d96573d-a3bb-451d-93c1-51ff1ce04eae",
-  "board": "/town set board [msg]",
+  "board": "i need tp for my bunghole",
   "founder": "Syntox0",
   "wiki": null,
   "discord": null,
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 32,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 51,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 999999999.0
   },
   "perms": {
    "build": [
@@ -80,35 +80,31 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42385.39098459595,
+    "x": 42477.13199774716,
     "y": 63.0,
-    "z": -18565.408931987542,
-    "pitch": -1.5485365,
-    "yaw": -78.81348
+    "z": -18596.414105174194,
+    "pitch": 42.550888,
+    "yaw": 4.7753906
    },
    "homeBlock": [
-    2649,
-    -1161
+    2654,
+    -1163
    ],
    "townBlocks": [
     [
-     2649,
-     -1160
+     2653,
+     -1165
     ],
     [
-     2649,
-     -1162
-    ],
-    [
-     2649,
-     -1161
+     2645,
+     -1159
     ],
     [
      2645,
      -1160
     ],
     [
-     2650,
+     2647,
      -1162
     ],
     [
@@ -118,14 +114,6 @@
     [
      2647,
      -1160
-    ],
-    [
-     2650,
-     -1160
-    ],
-    [
-     2650,
-     -1161
     ],
     [
      2651,
@@ -148,11 +136,7 @@
      -1162
     ],
     [
-     2652,
-     -1161
-    ],
-    [
-     2652,
+     2643,
      -1160
     ],
     [
@@ -176,32 +160,112 @@
      -1160
     ],
     [
+     2655,
+     -1163
+    ],
+    [
      2646,
      -1161
     ],
     [
+     2655,
+     -1162
+    ],
+    [
      2646,
      -1162
     ],
     [
-     2652,
-     -1163
+     2643,
+     -1159
     ],
     [
-     2652,
-     -1162
+     2655,
+     -1164
     ],
     [
      2646,
      -1159
     ],
     [
+     2645,
+     -1161
+    ],
+    [
+     2645,
+     -1162
+    ],
+    [
+     2649,
+     -1160
+    ],
+    [
+     2649,
+     -1162
+    ],
+    [
+     2644,
+     -1162
+    ],
+    [
+     2644,
+     -1161
+    ],
+    [
+     2649,
+     -1161
+    ],
+    [
+     2649,
+     -1163
+    ],
+    [
+     2650,
+     -1162
+    ],
+    [
+     2650,
+     -1163
+    ],
+    [
+     2650,
+     -1164
+    ],
+    [
+     2650,
+     -1160
+    ],
+    [
+     2650,
+     -1161
+    ],
+    [
+     2652,
+     -1161
+    ],
+    [
+     2652,
+     -1160
+    ],
+    [
+     2652,
+     -1163
+    ],
+    [
+     2652,
+     -1162
+    ],
+    [
+     2652,
+     -1165
+    ],
+    [
      2652,
      -1164
     ],
     [
-     2645,
-     -1161
+     2654,
+     -1162
     ],
     [
      2654,
@@ -210,6 +274,18 @@
     [
      2654,
      -1163
+    ],
+    [
+     2644,
+     -1160
+    ],
+    [
+     2648,
+     -1162
+    ],
+    [
+     2644,
+     -1159
     ],
     [
      2648,
@@ -226,14 +302,17 @@
    {
     "name": "Syntox0",
     "uuid": "f80a8972-d838-417f-b462-c31c246d3530"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "Xavi22210",
-    "uuid": "7fe70a90-8a58-4f60-908e-2c28a44da74d"
+    "name": "Qelu",
+    "uuid": "711afb86-b7a1-4f12-88ba-6a682f830dec"
+   },
+   {
+    "name": "catmanof10",
+    "uuid": "c211e973-6117-401a-8332-16f36af30588"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

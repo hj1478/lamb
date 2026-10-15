@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Nordvail",
   "uuid": "28f66de5-c3cc-485e-8234-03bfdbd9d013",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 116,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 366.0,
@@ -562,34 +562,17 @@
    {
     "name": "apelorare",
     "uuid": "d65c87ee-c677-4372-9a01-8cc101e0ef60"
-   },
-   {
-    "name": "sashka2896",
-    "uuid": "fb8b9573-688f-45fc-946c-175c6dac60af"
-   },
-   {
-    "name": "1D4M1AN1",
-    "uuid": "34c5c1db-4269-40f6-ba12-aac4cdb029e1"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "sashka2896",
-     "uuid": "fb8b9573-688f-45fc-946c-175c6dac60af"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "apelorare",
      "uuid": "d65c87ee-c677-4372-9a01-8cc101e0ef60"
-    },
-    {
-     "name": "1D4M1AN1",
-     "uuid": "34c5c1db-4269-40f6-ba12-aac4cdb029e1"
     }
    ],
    "Recruiter": [],
@@ -598,10 +581,6 @@
     {
      "name": "apelorare",
      "uuid": "d65c87ee-c677-4372-9a01-8cc101e0ef60"
-    },
-    {
-     "name": "sashka2896",
-     "uuid": "fb8b9573-688f-45fc-946c-175c6dac60af"
     }
    ],
    "Treasurer": [],
@@ -610,10 +589,6 @@
     {
      "name": "apelorare",
      "uuid": "d65c87ee-c677-4372-9a01-8cc101e0ef60"
-    },
-    {
-     "name": "sashka2896",
-     "uuid": "fb8b9573-688f-45fc-946c-175c6dac60af"
     }
    ]
   },

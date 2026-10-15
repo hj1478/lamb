@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Sichuan",
   "uuid": "2f51c696-0d31-44e5-b8ad-2dc49f6f56c3",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 36,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 355.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 37914.30825376561,
-    "y": 71.0,
-    "z": -3494.8099268237415,
-    "pitch": -5.1512256,
-    "yaw": -85.00879
+    "x": 37925.13499230336,
+    "y": 70.0,
+    "z": -3501.5775284678766,
+    "pitch": 1.982541,
+    "yaw": 101.966835
    },
    "homeBlock": [
-    2369,
+    2370,
     -219
    ],
    "townBlocks": [
     [
      2372,
      -218
+    ],
+    [
+     2379,
+     -220
+    ],
+    [
+     2379,
+     -219
     ],
     [
      2371,
@@ -110,6 +118,14 @@
     [
      2370,
      -219
+    ],
+    [
+     2378,
+     -219
+    ],
+    [
+     2378,
+     -218
     ],
     [
      2371,
@@ -204,6 +220,10 @@
      -218
     ],
     [
+     2378,
+     -220
+    ],
+    [
      2373,
      -218
     ],
@@ -222,12 +242,20 @@
    {
     "name": "cynvo",
     "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
+   },
+   {
+    "name": "taozijian",
+    "uuid": "0510abeb-8c04-4ece-9586-e9bd7a29f85b"
    }
   ],
   "trusted": [
    {
     "name": "Shrimp_PiPi",
     "uuid": "b72de7c2-4ae5-4f19-8ec2-c56cf510a92f"
+   },
+   {
+    "name": "Ethan_miauen",
+    "uuid": "baa0ba2b-9a0c-4e8f-8dbb-316444f5210c"
    }
   ],
   "outlaws": [],

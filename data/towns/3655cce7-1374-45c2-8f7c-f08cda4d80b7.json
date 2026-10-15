@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Emerita",
   "uuid": "3655cce7-1374-45c2-8f7c-f08cda4d80b7",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 102,
-   "maxTownBlocks": 304,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 17,
+   "numResidents": 14,
    "numTrusted": 0,
-   "numOutlaws": 19,
-   "balance": 31.0,
+   "numOutlaws": 18,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -512,18 +512,6 @@
     "uuid": "bd40ac39-ffd1-442b-ad16-0ef8f9a12c78"
    },
    {
-    "name": "Spetthro",
-    "uuid": "25609d22-ef31-41e5-96b5-77b3d4ccafc7"
-   },
-   {
-    "name": "CigCigarillo",
-    "uuid": "4b094c2a-a141-4491-95a7-7b4de5137fb0"
-   },
-   {
-    "name": "Pedro_0212",
-    "uuid": "7f95ca7d-cf27-47a0-906a-c94d07c1382c"
-   },
-   {
     "name": "Datel17",
     "uuid": "b15d0083-ff87-4812-9dbf-9edefa1a0b76"
    },
@@ -574,10 +562,6 @@
   ],
   "trusted": [],
   "outlaws": [
-   {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   },
    {
     "name": "PuPu94",
     "uuid": "ff6c3ed2-0b9f-4526-a8c8-ea23826a63e0"
@@ -665,14 +649,6 @@
     "uuid": "1b2bc7b9-cacc-45bc-8df5-0c44e3191450"
    },
    {
-    "name": "Annoying Property",
-    "uuid": "6e22eb8f-c123-40c8-9f24-66207137cda5"
-   },
-   {
-    "name": "Via Lusitania 3",
-    "uuid": "61e8d120-bc8b-412a-831a-54c526186fae"
-   },
-   {
     "name": "Luxurious Residence",
     "uuid": "79b938fd-325e-44ed-8397-a9667d123460"
    },
@@ -749,10 +725,6 @@
     "uuid": "e38a5587-dbec-4d96-affa-5157e8f4a46d"
    },
    {
-    "name": "RESIDENTS ONLY",
-    "uuid": "7cc18037-53e8-43a1-95b8-affcbaa18ed0"
-   },
-   {
     "name": "Malaysian Embassy House",
     "uuid": "63da3e28-6e3d-496f-9acc-e7ed35f56b4f"
    },
@@ -827,6 +799,18 @@
    {
     "name": "Upbeat Tenement",
     "uuid": "d2468f57-53bf-487b-8188-afc908671c90"
+   },
+   {
+    "name": "Annoying Property",
+    "uuid": "6e22eb8f-c123-40c8-9f24-66207137cda5"
+   },
+   {
+    "name": "Via Lusitania 3",
+    "uuid": "61e8d120-bc8b-412a-831a-54c526186fae"
+   },
+   {
+    "name": "RESIDENTS ONLY",
+    "uuid": "7cc18037-53e8-43a1-95b8-affcbaa18ed0"
    }
   ],
   "ranks": {

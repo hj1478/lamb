@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
-  "name": "Espelkamp",
-  "uuid": "379b5ea7-f2b1-45e2-ac51-480a213dcb55",
-  "board": "/town set board [msg]",
-  "founder": "henry092011",
+  "name": "Nyala",
+  "uuid": "b117a7f6-fc24-43c6-ba5c-51299b85feae",
+  "board": "Nyala comback incoming",
+  "founder": "Les_Fromages",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "henry092011",
-   "uuid": "f3504d14-0c97-4cb6-8066-af194b55e4a2"
+   "name": "Les_Fromages",
+   "uuid": "fcb0fe42-b3bb-4527-9a07-937329078857"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
-   "registered": 1791205790299,
-   "joinedNationAt": null,
+   "registered": 1792030700735,
+   "joinedNationAt": 1792030705536,
    "ruinedAt": null
   },
   "status": {
@@ -28,44 +28,44 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
+   "nationBonus": 100,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 119.0,
+   "balance": 152.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "destroy": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
@@ -80,52 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3382.300000011921,
-    "y": 68.0,
-    "z": -11196.240846935343,
-    "pitch": 32.999954,
-    "yaw": -89.433044
+    "x": 9398.984849453867,
+    "y": 72.0,
+    "z": 4802.368214533508,
+    "pitch": -1.2785196e-05,
+    "yaw": 179.95049
    },
    "homeBlock": [
-    211,
-    -700
+    587,
+    300
    ],
    "townBlocks": [
     [
-     211,
-     -700
-    ],
-    [
-     211,
-     -701
-    ],
-    [
-     212,
-     -701
-    ],
-    [
-     212,
-     -700
+     587,
+     300
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "henry092011",
-    "uuid": "f3504d14-0c97-4cb6-8066-af194b55e4a2"
-   },
-   {
-    "name": "Meha07",
-    "uuid": "c5642d47-be8a-4c1a-ba9a-5613b60a369a"
-   },
-   {
-    "name": "Symtor",
-    "uuid": "50866648-9fed-4b17-9de9-0c3bf932e6bd"
-   },
-   {
-    "name": "Bohnenarne",
-    "uuid": "0a5579db-8efc-4dc3-b0eb-bf564b38ed64"
+    "name": "Les_Fromages",
+    "uuid": "fcb0fe42-b3bb-4527-9a07-937329078857"
    }
   ],
   "trusted": [],

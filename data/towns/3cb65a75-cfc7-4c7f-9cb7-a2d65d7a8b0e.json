@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T01:09:17Z",
+ "fetched_at": "2026-10-15T11:40:11Z",
  "data": {
   "name": "Olympian",
   "uuid": "3cb65a75-cfc7-4c7f-9cb7-a2d65d7a8b0e",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
+   "numTownBlocks": 16,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 18.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,15 +92,19 @@
    ],
    "townBlocks": [
     [
+     -935,
+     687
+    ],
+    [
      -931,
      688
     ],
     [
-     -931,
+     -932,
      689
     ],
     [
-     -932,
+     -931,
      689
     ],
     [
@@ -137,11 +141,19 @@
     ],
     [
      -933,
+     687
+    ],
+    [
+     -933,
      688
     ],
     [
      -934,
      688
+    ],
+    [
+     -934,
+     687
     ]
    ],
    "worlds": {}
