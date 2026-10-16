@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Chudville",
   "uuid": "4f5edc00-fc4b-4e8c-8419-a92cbe9a2a51",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "tkzq",
-   "uuid": "7444c865-6f26-40b1-a98e-942501a6d1e0"
+   "name": "NPC89",
+   "uuid": "3c7a5b9a-f6b9-20c9-b0c6-575f2bae52a3"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786500693532,
-   "joinedNationAt": 1786500703134,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791986276928
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -216,18 +216,14 @@
   },
   "residents": [
    {
-    "name": "tkzq",
-    "uuid": "7444c865-6f26-40b1-a98e-942501a6d1e0"
+    "name": "NPC89",
+    "uuid": "3c7a5b9a-f6b9-20c9-b0c6-575f2bae52a3"
    }
   ],
   "trusted": [
    {
     "name": "AndyTheChief",
     "uuid": "daab6664-b838-4d0b-9476-73c28bcbaa23"
-   },
-   {
-    "name": "tkzq",
-    "uuid": "7444c865-6f26-40b1-a98e-942501a6d1e0"
    },
    {
     "name": "NotQC1",

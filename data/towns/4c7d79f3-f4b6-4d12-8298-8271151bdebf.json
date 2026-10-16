@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Blumenau",
   "uuid": "4c7d79f3-f4b6-4d12-8298-8271151bdebf",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,6 +108,10 @@
      1123
     ],
     [
+     -1096,
+     1124
+    ],
+    [
      -1098,
      1124
     ],
@@ -128,8 +132,8 @@
      1122
     ],
     [
-     -1099,
-     1124
+     -1097,
+     1120
     ],
     [
      -1101,
@@ -156,12 +160,8 @@
      1124
     ],
     [
-     -1099,
-     1122
-    ],
-    [
-     -1099,
-     1123
+     -1095,
+     1124
     ],
     [
      -1100,
@@ -172,16 +172,32 @@
      1123
     ],
     [
-     -1100,
-     1121
+     -1095,
+     1123
     ],
     [
-     -1099,
+     -1100,
      1121
     ],
     [
      -1097,
      1124
+    ],
+    [
+     -1099,
+     1124
+    ],
+    [
+     -1099,
+     1122
+    ],
+    [
+     -1099,
+     1123
+    ],
+    [
+     -1099,
+     1121
     ]
    ],
    "worlds": {}
@@ -202,11 +218,48 @@
    {
     "name": "GabrielXtroll22",
     "uuid": "e235e77c-e930-47eb-b705-69a37e1e68bd"
+   },
+   {
+    "name": "Gusbolado",
+    "uuid": "45168293-89c2-4951-9a8e-c9a797e36ddb"
+   },
+   {
+    "name": "belelem",
+    "uuid": "6c552e28-0b32-45cd-8f93-791a548ba8ac"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "3",
+    "uuid": "6ffe2d1d-94d4-4d35-927f-91364e854e4c"
+   },
+   {
+    "name": "4",
+    "uuid": "e1721a6b-2bc2-4f23-9a41-956d9aa8c394"
+   },
+   {
+    "name": "5",
+    "uuid": "bda50a95-3bab-47ad-9860-19ce9db6dcdd"
+   },
+   {
+    "name": "1",
+    "uuid": "572e2dff-5e19-403f-a102-3c773af51f64"
+   },
+   {
+    "name": "6",
+    "uuid": "67946224-7f54-47ab-bb7e-6169a5b5913e"
+   },
+   {
+    "name": "Plot",
+    "uuid": "e74a839e-a31c-4dea-b866-7c74eec49203"
+   },
+   {
+    "name": "2",
+    "uuid": "ed60552a-5861-40fa-9fa9-9554cca0b2a5"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

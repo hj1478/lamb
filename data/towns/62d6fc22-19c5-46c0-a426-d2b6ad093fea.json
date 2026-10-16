@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Dunetown",
   "uuid": "62d6fc22-19c5-46c0-a426-d2b6ad093fea",
@@ -8,87 +8,87 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "HUGE_STINKER_",
-   "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
+   "name": "NPC106",
+   "uuid": "45bf6736-88a8-20d1-9aab-ce6c47721571"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779975664435,
-   "joinedNationAt": 1785163494927,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792000399121
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 28,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13313.016663075963,
+    "x": 13312.725093619709,
     "y": 64.0,
-    "z": 655.3332321353437,
-    "pitch": -1.8000226,
-    "yaw": 0.39248657
+    "z": 628.0693547003946,
+    "pitch": -1.0499911,
+    "yaw": -179.34021
    },
    "homeBlock": [
     832,
-    40
+    39
    ],
    "townBlocks": [
     [
@@ -172,6 +172,10 @@
      39
     ],
     [
+     833,
+     36
+    ],
+    [
      830,
      36
     ],
@@ -204,12 +208,8 @@
   },
   "residents": [
    {
-    "name": "83845t456",
-    "uuid": "e111a53d-9403-47d4-9e41-710ea573e0f8"
-   },
-   {
-    "name": "HUGE_STINKER_",
-    "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
+    "name": "NPC106",
+    "uuid": "45bf6736-88a8-20d1-9aab-ce6c47721571"
    }
   ],
   "trusted": [],

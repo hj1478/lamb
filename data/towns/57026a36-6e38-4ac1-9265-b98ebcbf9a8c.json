@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "O_Block",
   "uuid": "57026a36-6e38-4ac1-9265-b98ebcbf9a8c",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -170,18 +170,9 @@
    {
     "name": "CircularCube19",
     "uuid": "d953f66c-fca3-488e-a43d-5334e2c84c4c"
-   },
-   {
-    "name": "Ullark35",
-    "uuid": "1ae5cf2a-ad36-40a5-9ad6-ed21357a98d9"
    }
   ],
-  "trusted": [
-   {
-    "name": "Ullark35",
-    "uuid": "1ae5cf2a-ad36-40a5-9ad6-ed21357a98d9"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "diffex",
@@ -206,12 +197,7 @@
    "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "Ullark35",
-     "uuid": "1ae5cf2a-ad36-40a5-9ad6-ed21357a98d9"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

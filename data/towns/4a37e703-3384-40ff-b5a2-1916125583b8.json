@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Istros",
   "uuid": "4a37e703-3384-40ff-b5a2-1916125583b8",
@@ -12,12 +12,12 @@
    "uuid": "0446fb26-1fed-470f-b2a1-bcff408f21ae"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
   },
   "timestamps": {
    "registered": 1781856643854,
-   "joinedNationAt": 1786593888567,
+   "joinedNationAt": 1792027328741,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 174,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -796,10 +796,6 @@
     "uuid": "1102b602-9cce-4bca-b63e-be8972f8807d"
    },
    {
-    "name": "JOKERMCPOKER",
-    "uuid": "2f434c2e-a498-445d-a34d-4cb1066d0d48"
-   },
-   {
     "name": "burgertart",
     "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
    },
@@ -809,10 +805,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "ThePokeSniper",
-    "uuid": "e11a68b2-8510-4983-9cc1-3ded52803cf7"
-   },
    {
     "name": "Iffyhat96196",
     "uuid": "4a99b8e3-325d-4ca0-b103-715739555504"

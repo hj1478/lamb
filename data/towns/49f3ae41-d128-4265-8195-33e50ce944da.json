@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Persici",
   "uuid": "49f3ae41-d128-4265-8195-33e50ce944da",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 171,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 184,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 7,
    "numTrusted": 4,
    "numOutlaws": 4,
-   "balance": 61.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -200,8 +200,16 @@
      930
     ],
     [
+     -1122,
+     926
+    ],
+    [
      -1120,
      931
+    ],
+    [
+     -1122,
+     925
     ],
     [
      -1120,
@@ -214,6 +222,10 @@
     [
      -1120,
      926
+    ],
+    [
+     -1112,
+     924
     ],
     [
      -1120,
@@ -254,6 +266,10 @@
     [
      -1122,
      922
+    ],
+    [
+     -1122,
+     921
     ],
     [
      -1122,
@@ -308,14 +324,14 @@
      935
     ],
     [
-     -1116,
-     934
-    ],
-    [
      -1117,
      939
     ],
     [
+     -1116,
+     934
+    ],
+    [
      -1112,
      932
     ],
@@ -452,12 +468,24 @@
      937
     ],
     [
+     -1111,
+     925
+    ],
+    [
      -1114,
      934
     ],
     [
+     -1111,
+     927
+    ],
+    [
      -1114,
      933
+    ],
+    [
+     -1111,
+     926
     ],
     [
      -1115,
@@ -468,12 +496,20 @@
      936
     ],
     [
+     -1111,
+     929
+    ],
+    [
      -1115,
      923
     ],
     [
      -1114,
      935
+    ],
+    [
+     -1111,
+     928
     ],
     [
      -1114,
@@ -486,6 +522,10 @@
     [
      -1114,
      929
+    ],
+    [
+     -1111,
+     930
     ],
     [
      -1114,
@@ -554,6 +594,10 @@
     [
      -1115,
      924
+    ],
+    [
+     -1114,
+     922
     ],
     [
      -1115,
@@ -578,6 +622,10 @@
     [
      -1121,
      925
+    ],
+    [
+     -1121,
+     926
     ],
     [
      -1121,
@@ -722,6 +770,10 @@
     [
      -1113,
      925
+    ],
+    [
+     -1113,
+     922
     ],
     [
      -1113,
@@ -801,6 +853,10 @@
     "uuid": "434e7689-8fd4-41f9-a855-fa6959f83fbf"
    },
    {
+    "name": "HugoRock7",
+    "uuid": "fb76983c-a2aa-4891-a650-2112896f2e7f"
+   },
+   {
     "name": "I_Am_Inevanable",
     "uuid": "553f9c59-b6bb-4642-9bb0-162374f3068a"
    },
@@ -863,10 +919,6 @@
     "uuid": "05eb0360-cde6-4a09-b5d2-66d6e22b0865"
    },
    {
-    "name": "Persici Commons Room 202",
-    "uuid": "113ec423-5501-43c7-98aa-584d6b5a829b"
-   },
-   {
     "name": "Persici Commons Unit 302",
     "uuid": "e2ee8b6e-a7bd-4ec3-9551-4329ca873fb9"
    },
@@ -911,14 +963,6 @@
     "uuid": "c6066d69-d5f7-46c1-acb6-7918c9a7ab8f"
    },
    {
-    "name": "Persici Commons Room 201",
-    "uuid": "525073b6-9b1c-49c6-baf0-7935326c5a19"
-   },
-   {
-    "name": "Entrance Gate",
-    "uuid": "520a49b1-80d5-4305-838e-bad8bad8d357"
-   },
-   {
     "name": "Enchanted Book Deposit",
     "uuid": "8ce8107f-ecc8-4736-a09d-d466cd886a21"
    },
@@ -933,6 +977,22 @@
    {
     "name": "Stylish Residence",
     "uuid": "a008ecdc-4970-4c2d-b916-c342bf935acc"
+   },
+   {
+    "name": "Persici Commons Room 203A",
+    "uuid": "84a8c604-5d3f-40d4-b63c-1599c222cdc7"
+   },
+   {
+    "name": "Persici Commons Room 203B",
+    "uuid": "f7baa412-de14-46d9-a78a-9447a7d6f168"
+   },
+   {
+    "name": "Entrance Gate",
+    "uuid": "520a49b1-80d5-4305-838e-bad8bad8d357"
+   },
+   {
+    "name": "Persici Commons Room 201",
+    "uuid": "525073b6-9b1c-49c6-baf0-7935326c5a19"
    }
   ],
   "ranks": {
@@ -986,7 +1046,7 @@
     "uuid": "8c3da1d7-6463-4e89-a7f7-2e8b273972b7",
     "createdAt": 1789967686952,
     "createdBy": "IGotsMyM0j0",
-    "access": "NATION",
+    "access": "RESIDENT",
     "location": {
      "x": -17867,
      "y": -9,

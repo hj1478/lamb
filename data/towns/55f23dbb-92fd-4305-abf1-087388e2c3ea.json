@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Mexico",
   "uuid": "55f23dbb-92fd-4305-abf1-087388e2c3ea",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "guestex",
-   "uuid": "f02055f0-190c-452c-9df5-3becf9b3a2af"
+   "name": "Mr_One_Punch",
+   "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
   },
   "nation": {
    "name": "Mexico",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 77,
-   "maxTownBlocks": 252,
+   "numTownBlocks": 79,
+   "maxTownBlocks": 276,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 16,
-   "numTrusted": 10,
-   "numOutlaws": 5,
-   "balance": 0.0,
+   "numResidents": 18,
+   "numTrusted": 11,
+   "numOutlaws": 4,
+   "balance": 121.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35258.57957518881,
-    "y": 82.0,
-    "z": 1337.1406575477595,
-    "pitch": 4.3500166,
-    "yaw": -177.29456
+    "x": -35235.46979859615,
+    "y": 151.0,
+    "z": 1376.4391346912096,
+    "pitch": 10.050004,
+    "yaw": -8.390381
    },
    "homeBlock": [
-    -2204,
-    83
+    -2203,
+    86
    ],
    "townBlocks": [
     [
@@ -233,6 +233,10 @@
     ],
     [
      -2203,
+     92
+    ],
+    [
+     -2203,
      89
     ],
     [
@@ -270,6 +274,10 @@
     [
      -2204,
      89
+    ],
+    [
+     -2204,
+     92
     ],
     [
      -2204,
@@ -466,6 +474,14 @@
    {
     "name": "Mr_One_Punch",
     "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
+   },
+   {
+    "name": "javathan13",
+    "uuid": "950f85d9-1249-4ca7-b50c-8f15e468b88c"
+   },
+   {
+    "name": "legendemi",
+    "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
    }
   ],
   "trusted": [
@@ -508,6 +524,10 @@
    {
     "name": "InYourSoul",
     "uuid": "5583be4c-39a2-442d-8e28-4c87a6b90b6b"
+   },
+   {
+    "name": "legendemi",
+    "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
    }
   ],
   "outlaws": [
@@ -518,10 +538,6 @@
    {
     "name": "Litashie",
     "uuid": "6cd5fc91-a16d-4e7f-a546-69280c4a3d8b"
-   },
-   {
-    "name": "ethanbottom5",
-    "uuid": "093d42a3-8b19-49e0-a141-58ff9a055a2d"
    },
    {
     "name": "braylonRockSolid",
@@ -546,6 +562,10 @@
     {
      "name": "ER3KO",
      "uuid": "0bdf5d83-635e-4254-a91d-c319bc8aa942"
+    },
+    {
+     "name": "Mr_One_Punch",
+     "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
     }
    ],
    "Builder": [],

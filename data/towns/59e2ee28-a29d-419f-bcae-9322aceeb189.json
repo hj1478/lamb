@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "A_A",
   "uuid": "59e2ee28-a29d-419f-bcae-9322aceeb189",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 101,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 5,
+   "numTrusted": 6,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -510,6 +510,14 @@
    {
     "name": "Daviros76",
     "uuid": "74f7596f-de09-4cdf-820d-954929a54582"
+   },
+   {
+    "name": "LucasMacdonald",
+    "uuid": "5f8c7e98-d12a-419b-920c-f07a0dc1a44e"
+   },
+   {
+    "name": "ECHOVOeee",
+    "uuid": "cbd3e0c2-faba-436e-8582-70f1e58957c9"
    }
   ],
   "trusted": [
@@ -522,12 +530,57 @@
     "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
    },
    {
+    "name": "suannais",
+    "uuid": "9f6b678a-3290-4417-9f7a-34cefba0da87"
+   },
+   {
+    "name": "rippes_mc",
+    "uuid": "72fa0138-fc47-4c8b-b6ad-51656308aa1b"
+   },
+   {
+    "name": "King_Marx",
+    "uuid": "a73b5ee6-00cf-4103-ab39-74a641e3c5b8"
+   },
+   {
     "name": "chunrisheng",
     "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dingy Tenement",
+    "uuid": "f65d854e-ba8a-4152-918e-2cbe70d1a386"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "a935c2fe-d308-414a-9e6c-c10aa426c1d0"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "380687f7-024c-49e2-920f-d45f55cd1463"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "c432aced-75c3-4d08-bf40-4d7d2bfe7618"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "6145d154-3bc2-4635-83e4-0f59f1ab1f6d"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "05110093-8588-4502-9b13-ea8654c4fd2d"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "0a0105af-299b-440b-9540-59e9d57c9cb5"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "4b836687-d0e6-476e-8752-ef20db68b811"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "City_Seventeen",
   "uuid": "6032d905-ca0f-4fd2-9703-0c88b10fb5d5",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 25,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -15833.401731155274,
+    "x": -15833.486395566175,
     "y": 71.0,
-    "z": -31251.796829427494,
-    "pitch": 54.44994,
-    "yaw": -175.69064
+    "z": -31248.977320515205,
+    "pitch": -11.549991,
+    "yaw": -176.40002
    },
    "homeBlock": [
     -990,

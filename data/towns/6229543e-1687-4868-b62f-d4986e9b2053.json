@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Rosa",
   "uuid": "6229543e-1687-4868-b62f-d4986e9b2053",
@@ -12,12 +12,12 @@
    "uuid": "74b99a41-83de-4032-a68e-d616b7f19243"
   },
   "nation": {
-   "name": "Argentina",
-   "uuid": "a37b3e38-02af-4d98-af67-7f44630d1139"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780007260121,
-   "joinedNationAt": 1780087949568,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 224,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -1045,10 +1045,6 @@
     "uuid": "5b9f4a6b-4d1d-428d-8668-15f480ff1b32"
    },
    {
-    "name": "Dingy Flat",
-    "uuid": "d1971a61-9bef-400e-8e7d-3debd18a0c50"
-   },
-   {
     "name": "Welcoming Dwelling",
     "uuid": "e159e74f-a507-4ed8-a88a-be23b51f0fc5"
    },
@@ -1103,6 +1099,10 @@
    {
     "name": "Luxurious Residence",
     "uuid": "86fd977d-631c-432e-8d74-c2d60b0e6e66"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "d1971a61-9bef-400e-8e7d-3debd18a0c50"
    }
   ],
   "ranks": {

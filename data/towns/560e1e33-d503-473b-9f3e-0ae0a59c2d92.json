@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Miravella",
   "uuid": "560e1e33-d503-473b-9f3e-0ae0a59c2d92",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mr_Yoghurt",
-   "uuid": "2f9aabe8-2ab8-49ad-ad64-8db16233b8f8"
+   "name": "LightOx57849294",
+   "uuid": "266df051-af7e-4c41-8a94-bba86e896640"
   },
   "nation": {
    "name": "Oceania",
@@ -17,29 +17,29 @@
   },
   "timestamps": {
    "registered": 1787835391190,
-   "joinedNationAt": 1791570409540,
+   "joinedNationAt": 1791656469352,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 38,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46426.738134758554,
-    "y": 63.0,
-    "z": 8074.470950826191,
-    "pitch": 54.150112,
-    "yaw": -179.02591
+    "x": 46438.25582184861,
+    "y": 10.0,
+    "z": 8057.43439755065,
+    "pitch": 48.599957,
+    "yaw": 176.29967
    },
    "homeBlock": [
-    2901,
-    504
+    2902,
+    503
    ],
    "townBlocks": [
     [
@@ -148,19 +148,19 @@
      501
     ],
     [
-     2902,
-     502
-    ],
-    [
-     2904,
-     503
-    ],
-    [
      2899,
      500
     ],
     [
      2902,
+     502
+    ],
+    [
+     2904,
+     503
+    ],
+    [
+     2902,
      503
     ],
     [
@@ -168,19 +168,15 @@
      504
     ],
     [
-     2902,
-     504
-    ],
-    [
-     2904,
-     505
-    ],
-    [
      2899,
      502
     ],
     [
      2902,
+     504
+    ],
+    [
+     2904,
      505
     ],
     [
@@ -188,8 +184,8 @@
      501
     ],
     [
-     2900,
-     504
+     2902,
+     505
     ],
     [
      2899,
@@ -197,10 +193,14 @@
     ],
     [
      2900,
+     504
+    ],
+    [
+     2899,
      503
     ],
     [
-     2899,
+     2900,
      503
     ],
     [
@@ -248,12 +248,8 @@
   },
   "residents": [
    {
-    "name": "Mr_Yoghurt",
-    "uuid": "2f9aabe8-2ab8-49ad-ad64-8db16233b8f8"
-   },
-   {
-    "name": "Art3155",
-    "uuid": "5eb28afa-da5d-40df-b265-80ffdf4652dd"
+    "name": "LightOx57849294",
+    "uuid": "266df051-af7e-4c41-8a94-bba86e896640"
    }
   ],
   "trusted": [],
@@ -261,12 +257,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Art3155",
-     "uuid": "5eb28afa-da5d-40df-b265-80ffdf4652dd"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

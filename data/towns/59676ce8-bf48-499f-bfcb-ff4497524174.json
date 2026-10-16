@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Mayskiy",
   "uuid": "59676ce8-bf48-499f-bfcb-ff4497524174",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Moizyy",
-   "uuid": "6452ceaa-b633-478b-a173-29a5b5039c53"
+   "name": "NPC144",
+   "uuid": "562480d3-fe6e-2099-bd1f-fc09d02b7e5f"
   },
   "nation": {
-   "name": "Chaunsky",
-   "uuid": "01e122a6-d149-402a-a638-e682bb8558b3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786297449994,
-   "joinedNationAt": 1786297552295,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791972000506
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "Moizyy",
-    "uuid": "6452ceaa-b633-478b-a173-29a5b5039c53"
+    "name": "NPC144",
+    "uuid": "562480d3-fe6e-2099-bd1f-fc09d02b7e5f"
    }
   ],
   "trusted": [

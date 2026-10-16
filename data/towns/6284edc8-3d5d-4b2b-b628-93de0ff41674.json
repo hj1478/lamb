@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Hasselt",
   "uuid": "6284edc8-3d5d-4b2b-b628-93de0ff41674",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 332,
-   "maxTownBlocks": 364,
+   "maxTownBlocks": 304,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 22,
-   "numTrusted": 3,
+   "numResidents": 17,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 234.0,
    "forSalePrice": null
@@ -80,9 +80,9 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2018.5106244366386,
+    "x": 2018.5099212773007,
     "y": 66.0,
-    "z": -11970.947452302094,
+    "z": -11970.512864512231,
     "pitch": 0.45002764,
     "yaw": 0.1701355
    },
@@ -1428,18 +1428,6 @@
     "uuid": "deb3d2c4-18cd-4bf9-ae38-590e3d86ea08"
    },
    {
-    "name": "NottzSpartan",
-    "uuid": "0ae4b95a-f5ba-44cb-b94f-a74dc68c5fa5"
-   },
-   {
-    "name": "bored_face_the_3",
-    "uuid": "54fdf8dd-8c67-494a-830c-4006ebb93d62"
-   },
-   {
-    "name": "ItsChocoPlays",
-    "uuid": "68b1e7d5-f3c9-4d2a-b8fe-50a3257c0ac6"
-   },
-   {
     "name": "Lummoot",
     "uuid": "2118a51e-8e16-4355-bae6-ddff23c641f7"
    },
@@ -1448,28 +1436,12 @@
     "uuid": "96f512c7-c019-4b4b-bcba-7f4e062aff26"
    },
    {
-    "name": "CalGabrie1",
-    "uuid": "7c42151c-2b4f-4257-a2a0-cb00faf227a0"
-   },
-   {
-    "name": "A_Xrayer",
-    "uuid": "469407ea-d606-42cc-85ba-5bf6595fddc2"
-   },
-   {
     "name": "zabeille",
     "uuid": "43921d0c-ef25-4ded-bbb3-33528f9bada7"
    },
    {
     "name": "Pizzarex2025",
     "uuid": "76cb3a43-4d5a-46ee-90c7-7ff35fcde91e"
-   },
-   {
-    "name": "Strainul001",
-    "uuid": "82453d11-0cfd-4a68-b073-84e91b9c5500"
-   },
-   {
-    "name": "rouzesaredead",
-    "uuid": "e24281b5-dcc3-4ea5-bc44-e83896bd1b70"
    },
    {
     "name": "MTJZ",
@@ -1510,13 +1482,17 @@
    {
     "name": "A_Typical_Gaymer",
     "uuid": "6c45f226-f98d-4fcc-aaf9-8a0f2fc035c2"
+   },
+   {
+    "name": "RaisedLynx2314",
+    "uuid": "14e9a94e-2dd1-4706-a876-82d5be12baf4"
+   },
+   {
+    "name": "DuckLordX_YT",
+    "uuid": "a5cfd427-182f-4315-aece-ae1b2458fea6"
    }
   ],
   "trusted": [
-   {
-    "name": "NottzSpartan",
-    "uuid": "0ae4b95a-f5ba-44cb-b94f-a74dc68c5fa5"
-   },
    {
     "name": "MattieMirakel",
     "uuid": "502f8595-d724-4d43-b9c0-79950281abae"
@@ -1593,12 +1569,7 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "NottzSpartan",
-     "uuid": "0ae4b95a-f5ba-44cb-b94f-a74dc68c5fa5"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

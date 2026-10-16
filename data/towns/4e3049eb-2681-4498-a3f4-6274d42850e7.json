@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Suez",
   "uuid": "4e3049eb-2681-4498-a3f4-6274d42850e7",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 264,
-   "maxTownBlocks": 256,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 13,
-   "numTrusted": 1,
+   "numResidents": 15,
+   "numTrusted": 2,
    "numOutlaws": 3,
    "balance": 552.0,
    "forSalePrice": null
@@ -1202,12 +1202,24 @@
    {
     "name": "TheDangelo07",
     "uuid": "c88662af-85f6-403b-bdc5-e9ec68adf991"
+   },
+   {
+    "name": "westoe_1333333",
+    "uuid": "6fdcb54d-e8b9-4878-b284-2e9f8bf22967"
+   },
+   {
+    "name": "mzoard13",
+    "uuid": "f582dfe3-d310-49d5-a234-dfa7f83fc444"
    }
   ],
   "trusted": [
    {
     "name": "Andre1098",
     "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
+   },
+   {
+    "name": "MalekMG",
+    "uuid": "070e7140-3892-4730-a338-5fe3f134791e"
    }
   ],
   "outlaws": [

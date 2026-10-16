@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Vancouver",
   "uuid": "5f890041-93aa-43e3-8577-8baee8e2d1db",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 405,
-   "maxTownBlocks": 568,
+   "maxTownBlocks": 496,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 39,
+   "numResidents": 33,
    "numTrusted": 24,
    "numOutlaws": 5,
    "balance": 104.0,
@@ -1724,16 +1724,16 @@
     "uuid": "bbd090cb-0c54-446b-b223-d8aa7f71b577"
    },
    {
+    "name": "PaNd0Ra__b0X",
+    "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
+   },
+   {
     "name": "ReshiiMC",
     "uuid": "cf1f85e1-575c-467c-90bb-966e6d97da85"
    },
    {
     "name": "LaFamigliaITA10",
     "uuid": "47e4cb30-5a0c-45c5-b9b3-cab193dad75e"
-   },
-   {
-    "name": "bob133ian",
-    "uuid": "080c73f7-f348-4a76-ac14-a16d4da9c852"
    },
    {
     "name": "drizeory",
@@ -1756,10 +1756,6 @@
     "uuid": "da319180-0eeb-4fcf-a902-9abe3486bf22"
    },
    {
-    "name": "Bibium_Tornto",
-    "uuid": "21dc1c68-0c06-4c90-854e-715a10c30279"
-   },
-   {
     "name": "BountyHunter1418",
     "uuid": "4c95ef5a-6aa0-44e2-a1cf-3bc22acbc4d4"
    },
@@ -1780,32 +1776,8 @@
     "uuid": "f4bc4cab-acb3-4a42-a01f-16478f36215b"
    },
    {
-    "name": "Pigman444",
-    "uuid": "6e750b75-da1f-40da-939a-f4a91ebdd303"
-   },
-   {
-    "name": "Dr3gonZ",
-    "uuid": "b59c67ad-9af1-4424-93fd-b7a06854d357"
-   },
-   {
-    "name": "Angelmegapro",
-    "uuid": "335ed075-3e9c-4779-8b59-c6962b97dc56"
-   },
-   {
-    "name": "SpringSummerFall",
-    "uuid": "dfa6d091-3057-4252-9980-db5b5aea16b0"
-   },
-   {
-    "name": "Thedogeking459",
-    "uuid": "efea02f6-960c-4391-aeea-6667d9671089"
-   },
-   {
     "name": "ACamachoGaming",
     "uuid": "8fd3d3b3-7a29-4ec9-8a62-032480efd169"
-   },
-   {
-    "name": "norf0",
-    "uuid": "9518fe7e-796c-4e5e-909c-830d01196f90"
    },
    {
     "name": "TheIronWhite",
@@ -1870,6 +1842,10 @@
    {
     "name": "Bokoploop",
     "uuid": "fcd5822b-4807-4f68-8d05-719793a074a5"
+   },
+   {
+    "name": "wastelvnd",
+    "uuid": "295e595d-10ff-4f35-a7a0-7b54fc9b7af4"
    }
   ],
   "trusted": [
@@ -2294,10 +2270,6 @@
     "uuid": "aff9e44f-ab17-4863-ae24-be3388ea2e6f"
    },
    {
-    "name": "sakominc",
-    "uuid": "31264b09-17fe-489e-8187-3efe47870385"
-   },
-   {
     "name": "Cheerful Quarter",
     "uuid": "dc430120-2e65-401e-a415-d68afff04a0e"
    },
@@ -2404,16 +2376,49 @@
    {
     "name": "Luxurious Tenement",
     "uuid": "708194ce-80b1-4717-8ec1-318ed6055176"
+   },
+   {
+    "name": "sakominc",
+    "uuid": "31264b09-17fe-489e-8187-3efe47870385"
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Councillor": [
+    {
+     "name": "PaNd0Ra__b0X",
+     "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "PaNd0Ra__b0X",
+     "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "PaNd0Ra__b0X",
+     "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
+    },
+    {
+     "name": "Nautical77",
+     "uuid": "1e729d8e-5e10-42f5-87b1-7445d02db7b5"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
+   "Treasurer": [
+    {
+     "name": "Nautical77",
+     "uuid": "1e729d8e-5e10-42f5-87b1-7445d02db7b5"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "PaNd0Ra__b0X",
+     "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

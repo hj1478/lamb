@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Granada",
   "uuid": "4be4c842-1004-4a92-90a7-ce5faa81f22d",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 143,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 7,
+   "numResidents": 8,
    "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 30.0,
@@ -668,12 +668,24 @@
   },
   "residents": [
    {
+    "name": "GMeur",
+    "uuid": "5dbb897e-95d7-4252-9571-9d800d749365"
+   },
+   {
     "name": "Juvia0rJules",
     "uuid": "1b46d0d3-972b-4aad-b42f-b9f13f5ead39"
    },
    {
+    "name": "Zackay",
+    "uuid": "fd21b1a5-73e3-4c4f-b75f-fd3735efae12"
+   },
+   {
     "name": "Cyanea",
     "uuid": "d9edb425-2333-4d95-ab87-9ddd40c33b05"
+   },
+   {
+    "name": "Mister_144",
+    "uuid": "c739b4d8-2221-4da5-b319-7ac3a3ce1a11"
    },
    {
     "name": "FualtedWings941",
@@ -682,14 +694,6 @@
    {
     "name": "Shrutz_S1",
     "uuid": "30c659d5-1192-4565-8647-46e35397c3cd"
-   },
-   {
-    "name": "borrachoyputero",
-    "uuid": "219bd8f8-3019-462f-846f-a09b48a4e14a"
-   },
-   {
-    "name": "facundox1fps",
-    "uuid": "acc2d5f9-4b51-4410-89ef-ae8fa5f8ef63"
    },
    {
     "name": "Hamsgo",
@@ -727,6 +731,10 @@
   ],
   "ranks": {
    "Councillor": [
+    {
+     "name": "GMeur",
+     "uuid": "5dbb897e-95d7-4252-9571-9d800d749365"
+    },
     {
      "name": "Juvia0rJules",
      "uuid": "1b46d0d3-972b-4aad-b42f-b9f13f5ead39"

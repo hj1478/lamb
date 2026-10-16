@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Qurayat",
   "uuid": "5e8a8c63-1c59-4149-a828-915d3db73eb3",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kayleigh09",
-   "uuid": "5f44c933-83dd-4754-95f0-21d00e8fcdf3"
+   "name": "gangster1221",
+   "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arabia",
+   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
   },
   "timestamps": {
    "registered": 1779105702414,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792144852489,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
+   "numTrusted": 0,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -132,21 +132,29 @@
   },
   "residents": [
    {
-    "name": "kayleigh09",
-    "uuid": "5f44c933-83dd-4754-95f0-21d00e8fcdf3"
+    "name": "gangster1221",
+    "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
    }
   ],
-  "trusted": [
+  "trusted": [],
+  "outlaws": [
    {
-    "name": "ItzKurdii",
-    "uuid": "df695d8d-f21d-4ed9-bcfc-b7a75dcceb35"
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
    },
    {
-    "name": "Vict0r_DaBoi",
-    "uuid": "cce8e4bf-9e8d-4771-a94a-e02c52ba6f9e"
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   },
+   {
+    "name": "MuchJester",
+    "uuid": "c8103fce-800b-4c9f-882f-27cd3cbb0cd2"
+   },
+   {
+    "name": "QueenOfDance",
+    "uuid": "75587256-0177-44f1-b08c-e40a6e405819"
    }
   ],
-  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

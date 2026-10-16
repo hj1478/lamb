@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Skiros",
   "uuid": "49d21a73-98e6-4ee8-a300-4c90632d64a0",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -194,6 +194,10 @@
    {
     "name": "Relaxsy",
     "uuid": "60da0625-f126-47c0-9475-92846a80f33c"
+   },
+   {
+    "name": "Mwanzapou",
+    "uuid": "4f3ce09f-ec33-40e4-9c6c-4b264db99c3b"
    }
   ],
   "trusted": [

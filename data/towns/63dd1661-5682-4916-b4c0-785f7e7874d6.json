@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Lake_Chad",
   "uuid": "63dd1661-5682-4916-b4c0-785f7e7874d6",
@@ -12,12 +12,12 @@
    "uuid": "fb949647-1858-4327-9903-3646bc3c8d8d"
   },
   "nation": {
-   "name": "Mauretania",
-   "uuid": "1144631f-3d54-4d8a-b107-8fb89b020cca"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788669078856,
-   "joinedNationAt": 1788671045152,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 43,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 98.0,
+   "balance": 140.0,
    "forSalePrice": null
   },
   "perms": {

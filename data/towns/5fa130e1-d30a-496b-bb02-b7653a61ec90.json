@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Olsztyn",
   "uuid": "5fa130e1-d30a-496b-bb02-b7653a61ec90",
@@ -12,12 +12,12 @@
    "uuid": "a84bb8bc-3f0d-4d57-967c-0c13fb9f6528"
   },
   "nation": {
-   "name": "Poland",
-   "uuid": "a7d37910-0663-4399-a2b5-cb9caf032652"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1777920364469,
-   "joinedNationAt": 1780403370201,
+   "joinedNationAt": 1791922152437,
    "ruinedAt": null
   },
   "status": {
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 88,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -447,6 +447,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "Adiraael",
+    "uuid": "10c2b8bd-a453-48d3-abc9-aa894619fed2"
+   },
    {
     "name": "VintoxTZK",
     "uuid": "a84bb8bc-3f0d-4d57-967c-0c13fb9f6528"

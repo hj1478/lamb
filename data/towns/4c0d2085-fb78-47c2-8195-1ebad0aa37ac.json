@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Ingleside",
   "uuid": "4c0d2085-fb78-47c2-8195-1ebad0aa37ac",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -582,9 +582,17 @@
    {
     "name": "UGDLK",
     "uuid": "0b12c8db-bc43-4225-a127-9a083176c91b"
+   },
+   {
+    "name": "LITTLEBEARMK",
+    "uuid": "b6832d37-8d8d-4e9f-a6fb-3aa2c699450d"
    }
   ],
   "trusted": [
+   {
+    "name": "LITTLEBEARMK",
+    "uuid": "b6832d37-8d8d-4e9f-a6fb-3aa2c699450d"
+   },
    {
     "name": "dynm",
     "uuid": "f374e7bd-ede5-49a4-ab09-f0e81d755240"

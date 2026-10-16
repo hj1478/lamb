@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Anergo_Xwrio",
   "uuid": "63b89f9f-418e-45f6-8d4e-35e50e04767a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Jim20205",
-   "uuid": "10360eca-9488-4b2b-8d82-f7b406ddc858"
+   "name": "NPC75",
+   "uuid": "5fda8b30-ed62-20be-93c1-7be15c6221c4"
   },
   "nation": {
-   "name": "Macedon",
-   "uuid": "5fe29aeb-b6d3-49e1-8725-0c408741d342"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780945089971,
-   "joinedNationAt": 1781097301981,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144801727
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -268,8 +268,8 @@
   },
   "residents": [
    {
-    "name": "Jim20205",
-    "uuid": "10360eca-9488-4b2b-8d82-f7b406ddc858"
+    "name": "NPC75",
+    "uuid": "5fda8b30-ed62-20be-93c1-7be15c6221c4"
    }
   ],
   "trusted": [],

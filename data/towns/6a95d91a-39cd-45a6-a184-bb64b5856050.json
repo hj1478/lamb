@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Ponderosa",
   "uuid": "6a95d91a-39cd-45a6-a184-bb64b5856050",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NetherWarp_",
-   "uuid": "4f962a7d-bcc1-4c4a-915e-9eeef8a574d8"
+   "name": "RIP1C",
+   "uuid": "2ed48015-d22c-42c0-acf2-8f0f0d414634"
   },
   "nation": {
    "name": "Cariboo",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 367,
-   "maxTownBlocks": 380,
+   "maxTownBlocks": 360,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 25,
    "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "numOutlaws": 1,
+   "balance": 2645.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1585,14 +1585,6 @@
     "uuid": "2f0fb558-b8b8-4244-bd00-e67fbf3ce152"
    },
    {
-    "name": "STOPNOU",
-    "uuid": "a3dade9f-ac4a-4510-b6bc-45f178aa75cf"
-   },
-   {
-    "name": "Dark_bed",
-    "uuid": "84dad97a-838e-4ba9-8e17-ced1df41df7e"
-   },
-   {
     "name": "NetherWarp_",
     "uuid": "4f962a7d-bcc1-4c4a-915e-9eeef8a574d8"
    },
@@ -1601,16 +1593,8 @@
     "uuid": "abbe8fd6-9115-4c40-834c-ac1c970bd6fd"
    },
    {
-    "name": "tootsmaloots",
-    "uuid": "88f8a829-1104-4fd3-bcfb-bf9e1a737cb6"
-   },
-   {
     "name": "cargoxyz",
     "uuid": "e99d8d0f-4e29-41d9-a95a-6dfc27626350"
-   },
-   {
-    "name": "Gronk_Stone",
-    "uuid": "769375fb-8189-44fc-805a-7abe8ea48f09"
    },
    {
     "name": "GIGARIDE1027",
@@ -1667,6 +1651,22 @@
    {
     "name": "MrBoomBarkus",
     "uuid": "52f2deaa-5565-49c0-8afb-4a4e199c38d6"
+   },
+   {
+    "name": "RIP1C",
+    "uuid": "2ed48015-d22c-42c0-acf2-8f0f0d414634"
+   },
+   {
+    "name": "jotapuy",
+    "uuid": "d0c33ec4-41ca-455b-9609-57b723c6293a"
+   },
+   {
+    "name": "Hovedgade",
+    "uuid": "fa9a9d13-0ee9-4371-a9c0-2c0cacfc35c0"
+   },
+   {
+    "name": "shokoanimelover",
+    "uuid": "182d9688-8212-4aec-97e4-c84cc220ef66"
    }
   ],
   "trusted": [
@@ -1683,7 +1683,12 @@
     "uuid": "2ed48015-d22c-42c0-acf2-8f0f0d414634"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "SweetPopov",
+    "uuid": "e04453e3-a645-4e78-9dbf-a1050b466cdd"
+   }
+  ],
   "quarters": [
    {
     "name": "Gloomy Quarter",

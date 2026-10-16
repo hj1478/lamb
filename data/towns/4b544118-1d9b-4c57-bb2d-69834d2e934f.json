@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Wellesley",
   "uuid": "4b544118-1d9b-4c57-bb2d-69834d2e934f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Aras775",
-   "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
+   "name": "NPC118",
+   "uuid": "05717c4a-56dd-20d7-b98a-ed81092780fb"
   },
   "nation": {
    "name": null,
@@ -18,63 +18,63 @@
   "timestamps": {
    "registered": 1792063546717,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792081822886
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     3112,
+     882
+    ],
+    [
      3113,
      882
     ]
@@ -100,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "Aras775",
-    "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
+    "name": "NPC118",
+    "uuid": "05717c4a-56dd-20d7-b98a-ed81092780fb"
    }
   ],
   "trusted": [

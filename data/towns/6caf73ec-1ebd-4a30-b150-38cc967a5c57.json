@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Marbella",
   "uuid": "6caf73ec-1ebd-4a30-b150-38cc967a5c57",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 9,
    "numTrusted": 3,
    "numOutlaws": 16,
-   "balance": 22.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -929,10 +929,6 @@
     "uuid": "b7626d62-7f03-49aa-83fb-027b9fa56034"
    },
    {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   },
-   {
     "name": "nasser271",
     "uuid": "71690bc3-6622-44c0-823c-cf988f03eaf6"
    },
@@ -947,6 +943,10 @@
    {
     "name": "Bl4ckM4ll3t",
     "uuid": "862a84a0-7650-4265-b9df-de843428c9fe"
+   },
+   {
+    "name": "doughoyo",
+    "uuid": "06cb2a84-4796-4eed-a866-c569fdad4b2e"
    }
   ],
   "trusted": [
@@ -1031,20 +1031,8 @@
   ],
   "quarters": [
    {
-    "name": "Piso 2",
-    "uuid": "2be03c3a-1729-47f5-ac93-8ed95cb27537"
-   },
-   {
-    "name": "Piso 3",
-    "uuid": "de9176dd-d32f-4524-a410-37748810c84d"
-   },
-   {
     "name": "Piso 5",
     "uuid": "31a98cbf-bf4f-4f9d-87eb-8f9298b02950"
-   },
-   {
-    "name": "Piso 6",
-    "uuid": "492429bd-7fff-4dcf-9ed8-773db339348f"
    },
    {
     "name": "Adosado A",
@@ -1079,14 +1067,6 @@
     "uuid": "e1e324e2-97a4-4a69-9041-3f8fc6015c41"
    },
    {
-    "name": "Piso 7",
-    "uuid": "e357306e-72b5-4be5-8950-5599c9e7903e"
-   },
-   {
-    "name": "Piso 8",
-    "uuid": "0c105f70-9ea9-4dec-b8d8-646c9aaf4c58"
-   },
-   {
     "name": "Piso 1",
     "uuid": "14ee0eda-bc46-4bf5-bc8b-1869bcbdca0d"
    },
@@ -1103,12 +1083,32 @@
     "uuid": "3089e63d-6b77-4379-abc8-a396c9efc204"
    },
    {
-    "name": "Piso 1",
-    "uuid": "6edff8b2-99fe-49df-acb4-08d3e1be16aa"
+    "name": "Piso 6",
+    "uuid": "492429bd-7fff-4dcf-9ed8-773db339348f"
+   },
+   {
+    "name": "Piso 7",
+    "uuid": "e357306e-72b5-4be5-8950-5599c9e7903e"
+   },
+   {
+    "name": "Piso 8",
+    "uuid": "0c105f70-9ea9-4dec-b8d8-646c9aaf4c58"
    },
    {
     "name": "Piso 4",
     "uuid": "631aa7e0-1b3c-45ac-9636-251c66311b1d"
+   },
+   {
+    "name": "Piso 3",
+    "uuid": "de9176dd-d32f-4524-a410-37748810c84d"
+   },
+   {
+    "name": "Piso 2",
+    "uuid": "2be03c3a-1729-47f5-ac93-8ed95cb27537"
+   },
+   {
+    "name": "Piso 1",
+    "uuid": "6edff8b2-99fe-49df-acb4-08d3e1be16aa"
    }
   ],
   "ranks": {

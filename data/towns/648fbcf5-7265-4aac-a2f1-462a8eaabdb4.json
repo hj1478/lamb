@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Castro",
   "uuid": "648fbcf5-7265-4aac-a2f1-462a8eaabdb4",
@@ -12,12 +12,12 @@
    "uuid": "8e4110ab-7029-4540-83de-3732edca9bf2"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Chile",
+   "uuid": "daac39a3-7edf-4cc0-90b7-16971ff37055"
   },
   "timestamps": {
    "registered": 1791181869790,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791797316069,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 12,
    "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 113.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,16 @@
    ],
    "townBlocks": [
     [
-     -1654,
+     -1651,
      1514
     ],
     [
-     -1653,
-     1515
+     -1651,
+     1513
+    ],
+    [
+     -1654,
+     1514
     ],
     [
      -1654,
@@ -109,6 +113,30 @@
     ],
     [
      -1653,
+     1514
+    ],
+    [
+     -1653,
+     1513
+    ],
+    [
+     -1652,
+     1515
+    ],
+    [
+     -1653,
+     1516
+    ],
+    [
+     -1652,
+     1513
+    ],
+    [
+     -1653,
+     1515
+    ],
+    [
+     -1652,
      1514
     ]
    ],
@@ -128,7 +156,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "lknoixx",
+     "uuid": "1ece4b6a-4558-400e-8eb6-e876283e64ca"
+    }
+   ],
    "Builder": [
     {
      "name": "lknoixx",
@@ -138,7 +171,12 @@
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "lknoixx",
+     "uuid": "1ece4b6a-4558-400e-8eb6-e876283e64ca"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Clermont",
   "uuid": "4b3738b0-e547-4c14-87bc-b8aa8aab8e08",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 5,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 387.55040056281894,
+    "x": 396.4924275457821,
     "y": 63.0,
-    "z": -9233.24682890711,
-    "pitch": 4.817186,
-    "yaw": -90.79907
+    "z": -9243.724627762678,
+    "pitch": 2.0877228,
+    "yaw": 179.69543
    },
    "homeBlock": [
     24,
@@ -498,6 +498,22 @@
    {
     "name": "BaroqueMan",
     "uuid": "cbfefb43-fd35-4db5-b2f3-e2e919d55d96"
+   },
+   {
+    "name": "maryamii",
+    "uuid": "c45fd773-cb45-4290-8947-0d59bec6e162"
+   },
+   {
+    "name": "raviprokral",
+    "uuid": "354a3650-d6ac-4761-8d31-77ca7cbdd290"
+   },
+   {
+    "name": "BayHamburger",
+    "uuid": "084228a6-fef4-44e3-9094-d616de63d73e"
+   },
+   {
+    "name": "PoshPringle97",
+    "uuid": "5e2d8415-d8bf-4be0-829b-9bae5a09afad"
    }
   ],
   "trusted": [
@@ -506,8 +522,16 @@
     "uuid": "9c0dfd99-d7b1-4f7b-b32d-1bddc10f94a1"
    },
    {
-    "name": "resonity",
+    "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
+    "name": "Mystikaosss",
+    "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
+   },
+   {
+    "name": "Pelle_Nomme",
+    "uuid": "96722925-6c17-4f31-81e0-47eb156f2578"
    }
   ],
   "outlaws": [],

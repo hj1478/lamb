@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
-  "name": "Songnim",
+  "name": "Vault",
   "uuid": "619eb370-e025-444a-a819-071e1b083793",
   "board": "/town set board [msg]",
   "founder": "Gonorlo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Gonorlo",
-   "uuid": "896f6472-8a68-4715-b976-99c7f7882e1d"
+   "name": "DarkBeaux",
+   "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
   },
   "nation": {
-   "name": "DPRK",
-   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
+   "name": "Ming",
+   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
   },
   "timestamps": {
    "registered": 1785479001888,
-   "joinedNationAt": 1785479284391,
+   "joinedNationAt": 1791839504142,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 54,
+   "numTownBlocks": 28,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "nationBonus": 100,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45155.25808186506,
+    "x": 45140.31107215211,
     "y": 66.0,
-    "z": -6501.925619597954,
-    "pitch": 1.199979,
-    "yaw": -96.87569
+    "z": -6493.889679213256,
+    "pitch": 39.89997,
+    "yaw": -177.87544
    },
    "homeBlock": [
-    2822,
-    -407
+    2821,
+    -406
    ],
    "townBlocks": [
     [
@@ -96,6 +96,50 @@
      -410
     ],
     [
+     2820,
+     -404
+    ],
+    [
+     2820,
+     -405
+    ],
+    [
+     2820,
+     -406
+    ],
+    [
+     2820,
+     -407
+    ],
+    [
+     2820,
+     -408
+    ],
+    [
+     2820,
+     -409
+    ],
+    [
+     2822,
+     -405
+    ],
+    [
+     2822,
+     -406
+    ],
+    [
+     2822,
+     -407
+    ],
+    [
+     2822,
+     -408
+    ],
+    [
+     2822,
+     -404
+    ],
+    [
      2821,
      -409
     ],
@@ -120,60 +164,44 @@
      -408
     ],
     [
-     2820,
-     -405
-    ],
-    [
      2821,
      -404
     ],
     [
-     2820,
-     -406
-    ],
-    [
      2822,
      -409
     ],
     [
-     2820,
-     -407
-    ],
-    [
-     2820,
-     -408
-    ],
-    [
-     2820,
-     -409
-    ],
-    [
      2822,
-     -405
+     -410
     ],
     [
-     2822,
-     -406
-    ],
-    [
-     2822,
-     -407
-    ],
-    [
-     2822,
-     -408
-    ],
-    [
-     2822,
+     2823,
      -404
     ],
     [
      2823,
+     -405
+    ],
+    [
+     2823,
      -408
     ],
     [
      2823,
+     -409
+    ],
+    [
+     2823,
+     -406
+    ],
+    [
+     2823,
      -407
+    ],
+    [
+     2823,
+     -410
     ]
    ],
    "worlds": {}
@@ -186,20 +214,16 @@
    {
     "name": "DarkBeaux",
     "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
+   },
+   {
+    "name": "Komora_Gazowa55",
+    "uuid": "2a528017-460c-48e6-9c90-b8b62150480c"
    }
   ],
   "trusted": [
    {
-    "name": "Viarynn_ye",
-    "uuid": "7561fe0a-e1cf-47af-9431-e033b72cbe80"
-   },
-   {
-    "name": "foxesrsocute",
-    "uuid": "4195a5af-5711-49b9-a1a1-283a7d7b4398"
-   },
-   {
-    "name": "lemursrsocute123",
-    "uuid": "f5822a5e-0379-4adf-81d6-7ac682c55321"
+    "name": "Reese0328",
+    "uuid": "a586478d-7670-4212-a9ce-7224b46edcb5"
    }
   ],
   "outlaws": [

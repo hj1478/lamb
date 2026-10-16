@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Tampere",
   "uuid": "683d1a59-da55-41eb-8ead-43429b055563",
   "board": "as the owner of this town im not from tampere. Emc Tampere, join us! (Reminder im not from tampere)",
   "founder": "_Computermouse",
   "wiki": "https://wiki.earthmc.net/wiki/Nostra:Tampere",
-  "discord": null,
+  "discord": "https://discord.gg/4uQe3G7CE7",
   "mayor": {
    "name": "_Computermouse",
    "uuid": "cdef12f1-c175-481b-b0bc-f6c3650533df"
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -96,11 +96,47 @@
      -1080
     ],
     [
+     531,
+     -1081
+    ],
+    [
+     530,
+     -1079
+    ],
+    [
+     531,
+     -1082
+    ],
+    [
+     533,
+     -1081
+    ],
+    [
      532,
      -1080
     ],
     [
+     533,
+     -1080
+    ],
+    [
+     532,
+     -1081
+    ],
+    [
+     533,
+     -1079
+    ],
+    [
      531,
+     -1078
+    ],
+    [
+     532,
+     -1078
+    ],
+    [
+     533,
      -1078
     ],
     [
@@ -110,6 +146,10 @@
     [
      532,
      -1079
+    ],
+    [
+     532,
+     -1082
     ]
    ],
    "worlds": {}
@@ -122,9 +162,18 @@
    {
     "name": "Juusto468",
     "uuid": "faeea23e-19c8-4c2d-ada7-831018c1359f"
+   },
+   {
+    "name": "kmk1kma",
+    "uuid": "58fa8fa5-15e3-44fe-829c-a905d7055b6f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "VikkeVintero1931",
+    "uuid": "e94a7f57-645d-4fd4-aae7-27853d7a227f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

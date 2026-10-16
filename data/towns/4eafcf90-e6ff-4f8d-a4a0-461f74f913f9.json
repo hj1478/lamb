@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Maceio",
   "uuid": "4eafcf90-e6ff-4f8d-a4a0-461f74f913f9",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 61,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 38.0,
@@ -342,13 +342,22 @@
    {
     "name": "zlotinho",
     "uuid": "9fe782ab-0909-4f5b-8722-cc988fbcac7a"
+   },
+   {
+    "name": "Niki123oo",
+    "uuid": "c58e321e-0425-48df-bc0f-39ebb271e2fb"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Niki123oo",
+     "uuid": "c58e321e-0425-48df-bc0f-39ebb271e2fb"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

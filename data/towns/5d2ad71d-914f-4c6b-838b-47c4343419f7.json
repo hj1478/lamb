@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Lincolnshire",
   "uuid": "5d2ad71d-914f-4c6b-838b-47c4343419f7",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 191,
-   "maxTownBlocks": 232,
+   "numTownBlocks": 184,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
+   "numResidents": 6,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 1078.0,
+   "balance": 893.0,
    "forSalePrice": null
   },
   "perms": {
@@ -189,15 +189,7 @@
     ],
     [
      -8,
-     -836
-    ],
-    [
-     -8,
      -834
-    ],
-    [
-     -8,
-     -835
     ],
     [
      -2,
@@ -509,14 +501,6 @@
     ],
     [
      -9,
-     -836
-    ],
-    [
-     -9,
-     -835
-    ],
-    [
-     -9,
      -834
     ],
     [
@@ -546,14 +530,6 @@
     [
      -10,
      -834
-    ],
-    [
-     -10,
-     -835
-    ],
-    [
-     -10,
-     -836
     ],
     [
      -12,
@@ -586,10 +562,6 @@
     [
      -12,
      -828
-    ],
-    [
-     -11,
-     -836
     ],
     [
      -11,
@@ -860,32 +832,12 @@
   },
   "residents": [
    {
-    "name": "xcanwashere",
-    "uuid": "36391f93-4a25-4636-9c4b-7d4efa219b94"
-   },
-   {
     "name": "BeePixel",
     "uuid": "2ab82f37-83d4-4513-86c1-c04750575b3a"
    },
    {
     "name": "BenHallyb",
     "uuid": "01cb8db2-374b-4b22-8443-d665d1e964df"
-   },
-   {
-    "name": "SWOXZY35",
-    "uuid": "3399f445-fa11-433c-8596-f41d92bf0669"
-   },
-   {
-    "name": "EddiesLife247",
-    "uuid": "635a899a-1aea-4eb8-aa1b-d6ef3121dcdb"
-   },
-   {
-    "name": "APK121",
-    "uuid": "e00ddfc6-667c-4069-8f61-850ab690847d"
-   },
-   {
-    "name": "_Monor",
-    "uuid": "37993e8d-a055-4943-8185-cc22be9eb06d"
    },
    {
     "name": "Krest1204",
@@ -913,12 +865,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "xcanwashere",
-     "uuid": "36391f93-4a25-4636-9c4b-7d4efa219b94"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "BeePixel",

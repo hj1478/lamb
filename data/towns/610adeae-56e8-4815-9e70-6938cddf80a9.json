@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Darfur",
   "uuid": "610adeae-56e8-4815-9e70-6938cddf80a9",
@@ -12,12 +12,12 @@
    "uuid": "dd41b750-79b3-4798-a7e2-c9eeb71c8210"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
    "registered": 1791735604496,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791997268006,
    "ruinedAt": null
   },
   "status": {
@@ -28,20 +28,20 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 9,
-   "numTrusted": 8,
-   "numOutlaws": 1,
+   "nationBonus": 100,
+   "numResidents": 11,
+   "numTrusted": 10,
+   "numOutlaws": 2,
    "balance": 13.0,
    "forSalePrice": null
   },
@@ -92,48 +92,88 @@
    ],
    "townBlocks": [
     [
-     487,
-     233
+     486,
+     231
     ],
     [
      488,
      233
+    ],
+    [
+     486,
+     230
     ],
     [
      488,
      234
     ],
     [
-     487,
-     232
-    ],
-    [
      486,
      233
-    ],
-    [
-     487,
-     231
     ],
     [
      488,
      231
     ],
     [
+     486,
+     232
+    ],
+    [
      488,
      232
     ],
     [
-     486,
-     232
+     485,
+     233
+    ],
+    [
+     485,
+     234
     ],
     [
      486,
      234
+    ],
+    [
+     488,
+     230
+    ],
+    [
+     485,
+     232
+    ],
+    [
+     487,
+     233
+    ],
+    [
+     487,
+     232
+    ],
+    [
+     487,
+     231
+    ],
+    [
+     487,
+     230
+    ],
+    [
+     487,
+     235
     ],
     [
      487,
      234
+    ],
+    [
+     489,
+     232
+    ],
+    [
+     488,
+     235
     ]
    ],
    "worlds": {}
@@ -172,6 +212,14 @@
     "uuid": "1588bdec-1aa7-4309-9818-58e950b8f54d"
    },
    {
+    "name": "BowenIsTheGoat",
+    "uuid": "9e529643-2598-475f-9212-c1beb67a4057"
+   },
+   {
+    "name": "Nfiw",
+    "uuid": "838bc711-992f-4e54-af7e-5b35a6baa881"
+   },
+   {
     "name": "AIK_SIU",
     "uuid": "fc978354-a7dc-4402-b9f8-22ead6057ff9"
    }
@@ -180,6 +228,10 @@
    {
     "name": "Kobran_138",
     "uuid": "41f3e10e-6980-4ea7-bb05-d2644dc0de3a"
+   },
+   {
+    "name": "Nfiw",
+    "uuid": "838bc711-992f-4e54-af7e-5b35a6baa881"
    },
    {
     "name": "ProGamerGucci",
@@ -198,6 +250,10 @@
     "uuid": "fc978354-a7dc-4402-b9f8-22ead6057ff9"
    },
    {
+    "name": "BowenIsTheGoat",
+    "uuid": "9e529643-2598-475f-9212-c1beb67a4057"
+   },
+   {
     "name": "Andreydie",
     "uuid": "ae6d38a2-b435-49f7-aecc-4178f62d38b8"
    },
@@ -214,11 +270,19 @@
    {
     "name": "MekkeBarry",
     "uuid": "133ef34e-4861-45f7-bd04-ee529aee8fc3"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
    }
   ],
   "quarters": [],
   "ranks": {
    "Councillor": [
+    {
+     "name": "bebismorris",
+     "uuid": "dd41b750-79b3-4798-a7e2-c9eeb71c8210"
+    },
     {
      "name": "M4rcusDero",
      "uuid": "aafdc606-a53d-4660-b3dc-10b5bd38867a"
@@ -231,6 +295,10 @@
    "Builder": [],
    "Recruiter": [],
    "Police": [
+    {
+     "name": "bebismorris",
+     "uuid": "dd41b750-79b3-4798-a7e2-c9eeb71c8210"
+    },
     {
      "name": "ProGamerGucci",
      "uuid": "e24d16ae-091b-4854-a9c5-d97175ccd416"

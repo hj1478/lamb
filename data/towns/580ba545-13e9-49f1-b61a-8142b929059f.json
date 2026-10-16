@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Gordons_Bay",
   "uuid": "580ba545-13e9-49f1-b61a-8142b929059f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "retrodogowa",
-   "uuid": "a85cce71-1253-4da1-be7d-59292bf809ea"
+   "name": "NPC24",
+   "uuid": "d3deec8a-196f-2075-81bc-0c69cd19d287"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1783382102462,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791972002558
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 81.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,24 +140,15 @@
   },
   "residents": [
    {
-    "name": "retrodogowa",
-    "uuid": "a85cce71-1253-4da1-be7d-59292bf809ea"
-   },
-   {
-    "name": "RoccoRovito",
-    "uuid": "26db84d3-b583-43b5-8edb-8cc1cdc316e3"
+    "name": "NPC24",
+    "uuid": "d3deec8a-196f-2075-81bc-0c69cd19d287"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "RoccoRovito",
-     "uuid": "26db84d3-b583-43b5-8edb-8cc1cdc316e3"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Lithuania",
   "uuid": "60e8f61d-b155-40e6-a54c-bf8d05d229cd",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MasterFaustino",
-   "uuid": "11898411-13a0-4fe3-88e6-7635f2f78fc5"
+   "name": "NPC73",
+   "uuid": "f4ce42ef-70e0-2091-92f0-2decab1a98bf"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783205562829,
-   "joinedNationAt": 1783205707131,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144801496
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -160,8 +160,8 @@
   },
   "residents": [
    {
-    "name": "MasterFaustino",
-    "uuid": "11898411-13a0-4fe3-88e6-7635f2f78fc5"
+    "name": "NPC73",
+    "uuid": "f4ce42ef-70e0-2091-92f0-2decab1a98bf"
    }
   ],
   "trusted": [],

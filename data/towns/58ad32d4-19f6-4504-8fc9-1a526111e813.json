@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "CAMPFINE",
   "uuid": "58ad32d4-19f6-4504-8fc9-1a526111e813",
@@ -35,38 +35,38 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 130.0,
+   "balance": 418.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
     false,
-    false,
+    true,
     false,
     false
    ],
    "destroy": [
     false,
-    false,
+    true,
     false,
     false
    ],
    "switch": [
     false,
-    false,
+    true,
     false,
     false
    ],
    "itemUse": [
     false,
-    false,
+    true,
     false,
     false
    ],
@@ -80,21 +80,17 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 34009.365025303465,
+    "x": 34010.370857878486,
     "y": 64.9375,
-    "z": -18871.505349860436,
-    "pitch": 10.708269,
-    "yaw": 146.7263
+    "z": -18862.37071296028,
+    "pitch": 76.78654,
+    "yaw": -179.25948
    },
    "homeBlock": [
     2125,
-    -1180
+    -1179
    ],
    "townBlocks": [
-    [
-     2126,
-     -1179
-    ],
     [
      2125,
      -1183
@@ -104,20 +100,20 @@
      -1182
     ],
     [
-     2123,
-     -1180
-    ],
-    [
      2122,
      -1181
     ],
     [
+     2122,
+     -1180
+    ],
+    [
      2125,
      -1181
     ],
     [
-     2125,
-     -1180
+     2121,
+     -1182
     ],
     [
      2122,
@@ -125,7 +121,15 @@
     ],
     [
      2125,
+     -1180
+    ],
+    [
+     2125,
      -1179
+    ],
+    [
+     2121,
+     -1181
     ],
     [
      2127,
@@ -136,8 +140,16 @@
      -1182
     ],
     [
+     2127,
+     -1179
+    ],
+    [
      2124,
      -1181
+    ],
+    [
+     2127,
+     -1180
     ],
     [
      2124,
@@ -153,6 +165,10 @@
     ],
     [
      2126,
+     -1184
+    ],
+    [
+     2126,
      -1183
     ],
     [
@@ -164,7 +180,23 @@
      -1181
     ],
     [
+     2127,
+     -1183
+    ],
+    [
      2126,
+     -1180
+    ],
+    [
+     2127,
+     -1184
+    ],
+    [
+     2126,
+     -1179
+    ],
+    [
+     2123,
      -1180
     ]
    ],
@@ -182,17 +214,9 @@
    {
     "name": "An_1diot_",
     "uuid": "ebd7e55f-bb91-4c81-92c1-de5c4ed8dbdc"
-   },
-   {
-    "name": "gifzn",
-    "uuid": "60b87267-000e-4145-9194-6b2067533bf8"
    }
   ],
   "trusted": [
-   {
-    "name": "gifzn",
-    "uuid": "60b87267-000e-4145-9194-6b2067533bf8"
-   },
    {
     "name": "WMS2009",
     "uuid": "b34c1c80-64b5-429b-9368-cf86ab1bf08b"
@@ -201,20 +225,45 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Stylish Residence",
-    "uuid": "34bcd90f-c612-4ad8-a680-6967f9f5c278"
-   },
-   {
     "name": "Stylish Apartment",
     "uuid": "765ba767-984e-453a-b01d-d2e90db1d99a"
    },
    {
+    "name": "Stylish Residence",
+    "uuid": "34bcd90f-c612-4ad8-a680-6967f9f5c278"
+   },
+   {
     "name": "Upbeat Quarter",
     "uuid": "4acdf5db-1693-4d8a-8b4b-57d519d11154"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "b795a24c-8ca8-4745-85bd-86c2d71dce77"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "3ec252ca-8a07-42d0-8ebf-040997f8cfbb"
+   },
+   {
+    "name": "Cheerful Flat",
+    "uuid": "1fd317a3-48e0-4e13-9a38-2e18bc4e365a"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "45f726db-06ad-4f85-989d-96cf9d9e741b"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "331770fb-b796-40d7-afc6-83664a41ec1d"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "WMS2009",
+     "uuid": "b34c1c80-64b5-429b-9368-cf86ab1bf08b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

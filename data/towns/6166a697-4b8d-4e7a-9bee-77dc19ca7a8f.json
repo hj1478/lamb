@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Regensburg",
   "uuid": "6166a697-4b8d-4e7a-9bee-77dc19ca7a8f",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DABBIED",
-   "uuid": "50b988e2-24b8-44d0-b2ff-77cda4fec130"
+   "name": "NPC117",
+   "uuid": "f387eaa6-5d75-200e-a27b-e4ae9b18baca"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777661848167,
-   "joinedNationAt": 1785176286697,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792078228515
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 79,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 76,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 71.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -94,10 +94,6 @@
     [
      279,
      -652
-    ],
-    [
-     272,
-     -657
     ],
     [
      272,
@@ -245,15 +241,7 @@
     ],
     [
      274,
-     -657
-    ],
-    [
-     274,
      -656
-    ],
-    [
-     273,
-     -657
     ],
     [
      274,
@@ -412,11 +400,15 @@
   },
   "residents": [
    {
-    "name": "DABBIED",
-    "uuid": "50b988e2-24b8-44d0-b2ff-77cda4fec130"
+    "name": "NPC117",
+    "uuid": "f387eaa6-5d75-200e-a27b-e4ae9b18baca"
    }
   ],
   "trusted": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
    {
     "name": "DogTheDogIsNice",
     "uuid": "b556e3b9-9b71-4f5c-b30d-f4a56e5a9114"
@@ -424,6 +416,10 @@
    {
     "name": "MikYoutube",
     "uuid": "bd2e2462-bc66-49a1-9158-08242db4a4b5"
+   },
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
    }
   ],
   "outlaws": [

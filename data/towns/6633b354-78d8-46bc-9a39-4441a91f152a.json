@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Tahran",
   "uuid": "6633b354-78d8-46bc-9a39-4441a91f152a",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 70,
-   "maxTownBlocks": 482,
+   "numTownBlocks": 77,
+   "maxTownBlocks": 446,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 36,
+   "numResidents": 33,
    "numTrusted": 2,
-   "numOutlaws": 1,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -113,6 +113,10 @@
     ],
     [
      1171,
+     -309
+    ],
+    [
+     1171,
      -310
     ],
     [
@@ -122,6 +126,10 @@
     [
      1171,
      -312
+    ],
+    [
+     1171,
+     -313
     ],
     [
      1174,
@@ -292,6 +300,10 @@
      -314
     ],
     [
+     1169,
+     -311
+    ],
+    [
      1177,
      -315
     ],
@@ -314,6 +326,10 @@
     [
      1176,
      -315
+    ],
+    [
+     1170,
+     -309
     ],
     [
      1176,
@@ -342,6 +358,18 @@
     [
      1170,
      -311
+    ],
+    [
+     1170,
+     -310
+    ],
+    [
+     1170,
+     -313
+    ],
+    [
+     1170,
+     -312
     ]
    ],
    "worlds": {
@@ -385,28 +413,12 @@
     "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
    },
    {
-    "name": "Vicxis",
-    "uuid": "a4aa5a82-9937-41ba-a82b-be5ddf0afe89"
-   },
-   {
     "name": "SirSefidak",
     "uuid": "5e6b698c-21d3-4de7-af0b-7fa4377dfc08"
    },
    {
     "name": "Scralled",
     "uuid": "5654eff7-8f23-4b5b-85ae-4a327c99d4f4"
-   },
-   {
-    "name": "GrandCow148",
-    "uuid": "aa13b888-e7a9-45e5-a919-dc96897189cb"
-   },
-   {
-    "name": "ELFURBY",
-    "uuid": "bb41f2b8-2e74-4ab0-bafe-ab21f747321c"
-   },
-   {
-    "name": "_BigJohnson",
-    "uuid": "74e07fec-70cf-4b60-90f8-5337714dea22"
    },
    {
     "name": "zomzom1234",
@@ -465,10 +477,6 @@
     "uuid": "eeb460c8-7824-41b7-b918-c1254e71cca9"
    },
    {
-    "name": "TheParadoxx_",
-    "uuid": "23e079ed-feb5-40c8-be19-758e9f3eece1"
-   },
-   {
     "name": "MichelDufort",
     "uuid": "4141b5b5-bf02-4d5c-b9f6-142b3f2fa12e"
    },
@@ -521,8 +529,16 @@
     "uuid": "62f0bf6b-1c37-4d11-a771-c6e37e3adc34"
    },
    {
-    "name": "lava_dumper",
-    "uuid": "4b43b319-bc27-40f4-86a8-78a618cd70b6"
+    "name": "DamjanRudez",
+    "uuid": "8f70ae73-69fd-410d-a811-a663ac226335"
+   },
+   {
+    "name": "Samuel5065",
+    "uuid": "f45d9068-b212-4917-a4fc-02304a336973"
+   },
+   {
+    "name": "theartsyuke",
+    "uuid": "7ba805de-b3a1-4dc2-a1e2-1e950feb1435"
    }
   ],
   "trusted": [
@@ -535,12 +551,7 @@
     "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
    }
   ],
-  "outlaws": [
-   {
-    "name": "Bigwonq",
-    "uuid": "3259ee7e-42af-4c6a-a834-8c00301f80ca"
-   }
-  ],
+  "outlaws": [],
   "quarters": [
    {
     "name": "Perturbing Suite",
@@ -579,10 +590,6 @@
     "uuid": "d473cb18-ae40-4dda-b9cd-9eb5fb6d1e17"
    },
    {
-    "name": "Cheerful Suite",
-    "uuid": "822872ce-7013-413c-ab49-438061640691"
-   },
-   {
     "name": "Welcoming Property",
     "uuid": "c0531f2a-84ec-4264-90b7-04d709d79722"
    },
@@ -607,10 +614,6 @@
     "uuid": "5b2d0502-ec1f-4460-b1b8-81689b7e3517"
    },
    {
-    "name": "Cheerful Apartment",
-    "uuid": "54ca18e1-b92a-4c42-8e03-fed9e417f7eb"
-   },
-   {
     "name": "Luxurious Quarter",
     "uuid": "69b3d278-bdbc-406c-b705-92efb5117c71"
    },
@@ -633,6 +636,14 @@
    {
     "name": "Elegant Property",
     "uuid": "d188d1b6-a788-4d5c-a1f7-eae1b7b07c07"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "54ca18e1-b92a-4c42-8e03-fed9e417f7eb"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "822872ce-7013-413c-ab49-438061640691"
    }
   ],
   "ranks": {

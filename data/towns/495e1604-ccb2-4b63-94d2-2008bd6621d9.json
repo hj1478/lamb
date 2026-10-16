@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "New_Vienna",
   "uuid": "495e1604-ccb2-4b63-94d2-2008bd6621d9",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 33,
+   "numTownBlocks": 35,
    "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
    "numTrusted": 3,
-   "numOutlaws": 2,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -141,7 +141,15 @@
     ],
     [
      3315,
+     1482
+    ],
+    [
+     3315,
      1484
+    ],
+    [
+     3315,
+     1483
     ],
     [
      3315,
@@ -266,6 +274,10 @@
    {
     "name": "Drtterbdjs",
     "uuid": "ca7d39fc-0991-47f1-8e3c-50234d36a9db"
+   },
+   {
+    "name": "diffex",
+    "uuid": "6a12e341-2602-4462-ba78-c4fdab5cd190"
    }
   ],
   "quarters": [
@@ -298,16 +310,16 @@
     "uuid": "97a9a8a8-edfc-4bd2-9567-e7d221061de0"
    },
    {
-    "name": "Upbeat Quarter",
-    "uuid": "71a44e0b-2cab-448d-b35f-c560e42fb48f"
-   },
-   {
     "name": "Stylish Flat",
     "uuid": "33545ebb-4ec8-4495-bd3f-d3b9dc5477e0"
    },
    {
     "name": "Gloomy Apartment",
     "uuid": "235c1c0b-23f7-4e26-ac96-57196391fd94"
+   },
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "71a44e0b-2cab-448d-b35f-c560e42fb48f"
    }
   ],
   "ranks": {

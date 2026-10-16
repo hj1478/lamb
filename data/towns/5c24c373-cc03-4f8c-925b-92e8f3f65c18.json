@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Norrkoping",
   "uuid": "5c24c373-cc03-4f8c-925b-92e8f3f65c18",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 270,
-   "maxTownBlocks": 236,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
-   "numTrusted": 1,
+   "numResidents": 11,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -1188,10 +1188,6 @@
     "uuid": "859c7dce-532d-4872-82fb-5de7ba24b412"
    },
    {
-    "name": "Laynic_",
-    "uuid": "526baca3-17db-4f07-be06-8d1c04c58d5c"
-   },
-   {
     "name": "Folxter",
     "uuid": "18afd748-5265-4b1f-85a4-a252264e56f5"
    },
@@ -1208,16 +1204,12 @@
     "uuid": "a51da590-f2b6-4e9c-9c95-d7345be2fd42"
    },
    {
+    "name": "Faceless_Bacon",
+    "uuid": "3cf2893c-6092-401c-bb04-c121394fde10"
+   },
+   {
     "name": "Simon_Pilz",
     "uuid": "047615ea-b587-4204-a5e2-9f59ac7628ac"
-   },
-   {
-    "name": "Minixl9358",
-    "uuid": "b8227865-f94f-44aa-ac34-ec921a029f22"
-   },
-   {
-    "name": "Theo_Censing",
-    "uuid": "2e869710-1722-4dad-afd0-4f00bf7f7e96"
    },
    {
     "name": "_RanRan_",
@@ -1228,12 +1220,7 @@
     "uuid": "2842c56b-de6d-456e-bf50-d94a8392afd2"
    }
   ],
-  "trusted": [
-   {
-    "name": "Laynic_",
-    "uuid": "526baca3-17db-4f07-be06-8d1c04c58d5c"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
    {
@@ -1498,18 +1485,8 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Laynic_",
-     "uuid": "526baca3-17db-4f07-be06-8d1c04c58d5c"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Laynic_",
-     "uuid": "526baca3-17db-4f07-be06-8d1c04c58d5c"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [
     {
      "name": "SimonHasMC",

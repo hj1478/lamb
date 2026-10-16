@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Rorikstead",
   "uuid": "64121e08-a920-4b80-b1a2-220ce0afa15f",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 57,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 59,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 9.0,
+   "numOutlaws": 0,
+   "balance": 17.0,
    "forSalePrice": null
   },
   "perms": {
@@ -188,6 +188,10 @@
      -653
     ],
     [
+     464,
+     -655
+    ],
+    [
      458,
      -654
     ],
@@ -218,6 +222,10 @@
     [
      462,
      -654
+    ],
+    [
+     463,
+     -655
     ],
     [
      462,
@@ -328,8 +336,16 @@
     "uuid": "a7f8c3b8-a339-4d08-ba7f-33ed1941e1c0"
    },
    {
+    "name": "Chocobean22",
+    "uuid": "4bc591e0-889e-4511-9021-02a257f71aff"
+   },
+   {
     "name": "janbooo",
     "uuid": "3a9256fe-6da0-4789-8f57-c6baf62d6792"
+   },
+   {
+    "name": "Hipnozer",
+    "uuid": "8b58c629-2567-4c2b-b2b1-67b8663cfec4"
    }
   ],
   "trusted": [
@@ -338,15 +354,14 @@
     "uuid": "3a9256fe-6da0-4789-8f57-c6baf62d6792"
    }
   ],
-  "outlaws": [
-   {
-    "name": "Detorium",
-    "uuid": "c3923344-0016-477b-a5ca-25cc2e1975ea"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [
+    {
+     "name": "Chocobean22",
+     "uuid": "4bc591e0-889e-4511-9021-02a257f71aff"
+    },
     {
      "name": "janbooo",
      "uuid": "3a9256fe-6da0-4789-8f57-c6baf62d6792"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Monumenta",
   "uuid": "655da40d-de45-4e0c-ad6b-90b1c026e858",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 86,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 44.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,40 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 47768.5698235923,
-    "y": 88.875,
-    "z": -21291.416399907033,
-    "pitch": 43.38015,
-    "yaw": 179.46191
+    "x": 47795.73333355573,
+    "y": 84.0,
+    "z": -21273.059676894416,
+    "pitch": 2.880076,
+    "yaw": 2.6137695
    },
    "homeBlock": [
-    2985,
-    -1331
+    2987,
+    -1330
    ],
    "townBlocks": [
     [
-     2987,
-     -1329
-    ],
-    [
-     2988,
-     -1329
-    ],
-    [
-     2987,
-     -1331
-    ],
-    [
-     2987,
-     -1330
-    ],
-    [
      2984,
      -1330
     ],
     [
      2984,
      -1331
+    ],
+    [
+     2984,
+     -1328
     ],
     [
      2984,
@@ -124,8 +112,12 @@
      -1332
     ],
     [
-     2987,
-     -1332
+     2983,
+     -1329
+    ],
+    [
+     2983,
+     -1328
     ],
     [
      2985,
@@ -144,8 +136,36 @@
      -1330
     ],
     [
+     2983,
+     -1331
+    ],
+    [
+     2986,
+     -1327
+    ],
+    [
+     2983,
+     -1330
+    ],
+    [
+     2985,
+     -1328
+    ],
+    [
+     2986,
+     -1328
+    ],
+    [
      2988,
      -1332
+    ],
+    [
+     2986,
+     -1333
+    ],
+    [
+     2985,
+     -1333
     ],
     [
      2985,
@@ -170,6 +190,30 @@
     [
      2988,
      -1331
+    ],
+    [
+     2987,
+     -1329
+    ],
+    [
+     2988,
+     -1329
+    ],
+    [
+     2987,
+     -1328
+    ],
+    [
+     2987,
+     -1331
+    ],
+    [
+     2987,
+     -1330
+    ],
+    [
+     2987,
+     -1332
     ]
    ],
    "worlds": {
@@ -195,32 +239,24 @@
    {
     "name": "Shaver__",
     "uuid": "1e37bf2c-fef7-405a-a0a7-38cd3931ba7f"
+   },
+   {
+    "name": "luffybanana",
+    "uuid": "e9d6ca5d-26a3-4a3b-8e8b-8ac18dad2e93"
    }
   ],
   "trusted": [
    {
     "name": "StJohnOfPatmos",
     "uuid": "91f11631-12a4-4a9a-b5c9-c1cd573def8f"
+   },
+   {
+    "name": "General_Hvid",
+    "uuid": "bc566193-d65d-4eca-af1d-079607c9e54d"
    }
   ],
   "outlaws": [],
   "quarters": [
-   {
-    "name": "Office storage room",
-    "uuid": "7f63f6db-78dc-4c56-b67a-2394cbc8d322"
-   },
-   {
-    "name": "Perturbing Tenement",
-    "uuid": "b22c1524-91cb-466d-b5cd-f27596df6fe7"
-   },
-   {
-    "name": "Enraging Suite",
-    "uuid": "3d94d40e-be04-4ed7-9772-606785d8e205"
-   },
-   {
-    "name": "Gloomy Property",
-    "uuid": "b7e1b7ec-2e4b-447e-8e4d-34395cdbae07"
-   },
    {
     "name": "Monumenta Station",
     "uuid": "171f0fc0-0db8-4386-95ff-af7e66832174"
@@ -231,6 +267,10 @@
     {
      "name": "Shaver__",
      "uuid": "1e37bf2c-fef7-405a-a0a7-38cd3931ba7f"
+    },
+    {
+     "name": "luffybanana",
+     "uuid": "e9d6ca5d-26a3-4a3b-8e8b-8ac18dad2e93"
     }
    ],
    "Builder": [],

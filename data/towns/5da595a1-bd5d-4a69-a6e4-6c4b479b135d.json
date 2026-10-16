@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Boston",
   "uuid": "5da595a1-bd5d-4a69-a6e4-6c4b479b135d",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 797,
-   "maxTownBlocks": 664,
+   "maxTownBlocks": 424,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 47,
-   "numTrusted": 3,
+   "numResidents": 27,
+   "numTrusted": 7,
    "numOutlaws": 2,
    "balance": 1.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -3284,6 +3284,10 @@
   },
   "residents": [
    {
+    "name": "satxrn__",
+    "uuid": "730f797f-f46d-44c4-ad02-8d0723fcd429"
+   },
+   {
     "name": "irhozao",
     "uuid": "d08de811-04e8-4156-94a9-b8b98b9ae9e1"
    },
@@ -3296,92 +3300,8 @@
     "uuid": "190935d8-d327-4693-a0e1-56a2e31586ee"
    },
    {
-    "name": "Neroarchergaming",
-    "uuid": "9ee65950-e006-4479-89ac-a3be0fe54764"
-   },
-   {
     "name": "Joigrama",
     "uuid": "3555abbe-ce54-4925-9ce7-cfa718c53dab"
-   },
-   {
-    "name": "oik976",
-    "uuid": "420ef473-34ce-4c6d-847d-47ff567e98a5"
-   },
-   {
-    "name": "rekrap1",
-    "uuid": "ed20aa29-7295-48aa-ab13-ba9dc21d45ca"
-   },
-   {
-    "name": "SmAcK0S2343",
-    "uuid": "d5243435-bc32-435d-a5c5-a7857ba1eddd"
-   },
-   {
-    "name": "BlackCatqqq",
-    "uuid": "02588e94-4bd8-4964-939c-8edcda9285f0"
-   },
-   {
-    "name": "JIC1MC",
-    "uuid": "9005334a-a249-417e-baed-f4fd27582836"
-   },
-   {
-    "name": "LDN_K",
-    "uuid": "1b611f08-03b2-454b-9f67-8d6eb7291960"
-   },
-   {
-    "name": "Majkins_",
-    "uuid": "ebca5110-36ba-4afe-b214-bb0732704e35"
-   },
-   {
-    "name": "Paul4729",
-    "uuid": "2d1c43a9-5a6c-462a-b827-2831b8a21612"
-   },
-   {
-    "name": "jujunder",
-    "uuid": "e7b28d6c-d774-4e47-94e0-3d78fece78e5"
-   },
-   {
-    "name": "KindaClxudy",
-    "uuid": "0b302fae-1c0a-4195-aee5-4c453f22d473"
-   },
-   {
-    "name": "LinhAshk3wUwU",
-    "uuid": "46294e94-3464-4f7c-b4a2-90ce2d8ecf24"
-   },
-   {
-    "name": "EchoBlight",
-    "uuid": "fc9b2560-500c-401e-80ee-ed49c99ecb52"
-   },
-   {
-    "name": "Savaboy321",
-    "uuid": "318558c2-3aa0-46df-bcc9-20f887713765"
-   },
-   {
-    "name": "KingKCool",
-    "uuid": "276d5363-f215-451a-9675-706cef4fe377"
-   },
-   {
-    "name": "yuli1012",
-    "uuid": "07dce495-df32-4b66-84e7-87eb2db295ea"
-   },
-   {
-    "name": "Bagellio",
-    "uuid": "0d0e4b45-9b91-4b53-a588-1c085828fcc6"
-   },
-   {
-    "name": "KattyIsNotOld",
-    "uuid": "7ce4e528-3b9b-434d-9f98-bf586a540159"
-   },
-   {
-    "name": "rx7700xt",
-    "uuid": "642c823f-b188-48c0-8eea-f987e8464516"
-   },
-   {
-    "name": "stream2012",
-    "uuid": "2d80520f-3253-4e1c-9301-114e7bcd51b3"
-   },
-   {
-    "name": "RemovedGalaxy89",
-    "uuid": "27e8e970-19be-4625-8ee3-817f5adda9f8"
    },
    {
     "name": "charliequasar_",
@@ -3390,10 +3310,6 @@
    {
     "name": "Paonnex",
     "uuid": "5c0718e8-ef80-4965-8c41-801542f4b8f3"
-   },
-   {
-    "name": "FlimsySpinsy",
-    "uuid": "bb084baa-ab68-4d7c-96c6-8a3ee5c12917"
    },
    {
     "name": "Konradeal",
@@ -3470,6 +3386,10 @@
    {
     "name": "Mijentyo",
     "uuid": "f2ea9c63-f1de-42dc-ac09-e063d138b031"
+   },
+   {
+    "name": "Rubbishwitch",
+    "uuid": "4c4fba0e-0986-4f58-a5c9-6899cb0ec6fc"
    }
   ],
   "trusted": [
@@ -3478,12 +3398,28 @@
     "uuid": "3555abbe-ce54-4925-9ce7-cfa718c53dab"
    },
    {
+    "name": "ka_tie",
+    "uuid": "3b846920-c1c9-4226-b2a5-c911d8248f3e"
+   },
+   {
     "name": "Paonnex",
     "uuid": "5c0718e8-ef80-4965-8c41-801542f4b8f3"
    },
    {
     "name": "red_bubba",
     "uuid": "7e413f01-cd3c-4d4a-9729-71d89ab84766"
+   },
+   {
+    "name": "Hambellux",
+    "uuid": "ae787cfa-5108-4572-9996-5e1771716871"
+   },
+   {
+    "name": "wishful_",
+    "uuid": "0c16f3f8-59c2-413e-9327-8f4b1f7f44cf"
+   },
+   {
+    "name": "Bergenline",
+    "uuid": "8dc93ad6-b2fe-451f-94ea-9140ee003daa"
    }
   ],
   "outlaws": [

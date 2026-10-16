@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Beacon",
   "uuid": "50b21add-3384-48c4-9415-34f45ebb6690",
   "board": "The Beacon of Light",
   "founder": "MasterEWild",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/Nostra:Beacon",
   "discord": "https://discord.gg/jv3NDtws5a",
   "mayor": {
    "name": "MasterEWild",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -557,6 +557,10 @@
    {
     "name": "BOBM EMBASSY OF RIP1C CARIBOO",
     "uuid": "a7c319a0-647e-4946-8e95-c6180f919b8d"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "6bc64994-3c75-4299-bc0f-20b232543e42"
    }
   ],
   "ranks": {

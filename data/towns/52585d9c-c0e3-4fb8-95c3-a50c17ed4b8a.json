@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Ok",
   "uuid": "52585d9c-c0e3-4fb8-95c3-a50c17ed4b8a",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 139,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
+   "nationBonus": 50,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 6241.0,
+   "balance": 6206.0,
    "forSalePrice": null
   },
   "perms": {
@@ -654,6 +654,10 @@
    {
     "name": "AngelEclipse",
     "uuid": "682a8da7-42ff-494e-9cd3-f6b2d1edc3ef"
+   },
+   {
+    "name": "GaussianWonder",
+    "uuid": "5176a3b2-71ea-4a98-bb5b-300ccea061ae"
    }
   ],
   "trusted": [],
@@ -706,7 +710,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "GaussianWonder",
+     "uuid": "5176a3b2-71ea-4a98-bb5b-300ccea061ae"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

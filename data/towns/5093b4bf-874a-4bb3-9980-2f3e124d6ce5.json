@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Lamia",
   "uuid": "5093b4bf-874a-4bb3-9980-2f3e124d6ce5",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 115,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -558,10 +558,6 @@
    {
     "name": "Totemgood",
     "uuid": "f25024f8-d4c1-4401-8ec9-bab7ffdab9cd"
-   },
-   {
-    "name": "VoidedYT1",
-    "uuid": "97e01ed7-59e0-4dac-a69f-23b8f5d20fb3"
    }
   ],
   "trusted": [

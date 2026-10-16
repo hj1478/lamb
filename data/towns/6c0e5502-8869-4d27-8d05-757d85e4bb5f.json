@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Drottningstad",
   "uuid": "6c0e5502-8869-4d27-8d05-757d85e4bb5f",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
+   "numTownBlocks": 33,
    "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 25.0,
+   "balance": 36.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -113,11 +113,19 @@
     ],
     [
      355,
+     -1012
+    ],
+    [
+     355,
      -1011
     ],
     [
      355,
      -1010
+    ],
+    [
+     353,
+     -1015
     ],
     [
      353,
@@ -148,8 +156,16 @@
      -1009
     ],
     [
+     352,
+     -1015
+    ],
+    [
      354,
      -1014
+    ],
+    [
+     354,
+     -1015
     ],
     [
      352,
@@ -194,6 +210,18 @@
     [
      352,
      -1009
+    ],
+    [
+     356,
+     -1012
+    ],
+    [
+     356,
+     -1013
+    ],
+    [
+     356,
+     -1014
     ]
    ],
    "worlds": {}

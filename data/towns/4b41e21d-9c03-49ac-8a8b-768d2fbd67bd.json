@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Galveston",
   "uuid": "4b41e21d-9c03-49ac-8a8b-768d2fbd67bd",
   "board": "Open town join and outsider spawn enabled. Come visit the Texas coast!",
   "founder": "JoeJoet7",
   "wiki": null,
-  "discord": "https://discord.gg/CnnFCjCdhy",
+  "discord": null,
   "mayor": {
    "name": "LizC864",
    "uuid": "6d656f0f-9061-401d-9d81-8adb05ff9da8"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 101,
-   "maxTownBlocks": 236,
+   "numTownBlocks": 104,
+   "maxTownBlocks": 284,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
+   "numResidents": 17,
    "numTrusted": 1,
    "numOutlaws": 7,
-   "balance": 934.0,
+   "balance": 908.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33903.5973680616,
-    "y": 63.0,
-    "z": -2943.6687043723655,
-    "pitch": -0.19187382,
-    "yaw": -27.15567
+    "x": -33861.45809535537,
+    "y": 63.0625,
+    "z": -2967.9975906516565,
+    "pitch": 1.660485,
+    "yaw": -90.598175
    },
    "homeBlock": [
-    -2119,
-    -184
+    -2117,
+    -186
    ],
    "townBlocks": [
     [
@@ -188,6 +188,10 @@
      -183
     ],
     [
+     -2107,
+     -186
+    ],
+    [
      -2115,
      -185
     ],
@@ -240,6 +244,10 @@
      -182
     ],
     [
+     -2107,
+     -185
+    ],
+    [
      -2118,
      -183
     ],
@@ -266,18 +274,22 @@
     [
      -2118,
      -188
-    ],
-    [
-     -2122,
-     -182
-    ],
-    [
-     -2122,
-     -183
     ],
     [
      -2114,
      -188
+    ],
+    [
+     -2108,
+     -185
+    ],
+    [
+     -2108,
+     -186
+    ],
+    [
+     -2108,
+     -184
     ],
     [
      -2113,
@@ -550,6 +562,22 @@
    {
     "name": "_Meskis_",
     "uuid": "593bf420-e4f5-4ed9-b851-2be2051cfa8e"
+   },
+   {
+    "name": "Umbrus_knight",
+    "uuid": "77a0bf57-7d37-4978-aae2-781e1e35236f"
+   },
+   {
+    "name": "toszwajcar7",
+    "uuid": "b9951ba2-19c0-4b1e-b5e8-b4758420de76"
+   },
+   {
+    "name": "SUBMedal",
+    "uuid": "7760c7d6-5907-4dbe-aa90-26a450bb2e9d"
+   },
+   {
+    "name": "keane_2002",
+    "uuid": "eb36499e-e05b-489d-a85b-1b48981bf69f"
    }
   ],
   "trusted": [
@@ -596,10 +624,6 @@
    {
     "name": "Inviting Tenement",
     "uuid": "21a4a643-c914-4b34-875a-508dbac87be1"
-   },
-   {
-    "name": "Welcoming Quarter",
-    "uuid": "907593d6-0a4e-4680-804b-06bfd844d553"
    },
    {
     "name": "Upbeat Tenement",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Pornic",
   "uuid": "6875da7d-ac8b-4020-beac-6e231ef39a30",
@@ -12,12 +12,12 @@
    "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
   },
   "nation": {
-   "name": "United_Kingdom",
-   "uuid": "df91cddc-2d99-4a88-ab98-e44e490a21f3"
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
   },
   "timestamps": {
    "registered": 1777677046319,
-   "joinedNationAt": 1787511547139,
+   "joinedNationAt": 1791740722577,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 220,
-   "maxTownBlocks": 232,
+   "maxTownBlocks": 244,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
+   "numResidents": 12,
    "numTrusted": 1,
    "numOutlaws": 23,
-   "balance": 160.0,
+   "balance": 29.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -706.4761731020707,
-    "y": 63.0,
-    "z": -10167.829474444101,
-    "pitch": 16.649918,
-    "yaw": 179.31448
+    "x": -545.500766071903,
+    "y": 63.875,
+    "z": -10189.630411793214,
+    "pitch": 8.250095,
+    "yaw": -177.53522
    },
    "homeBlock": [
-    -45,
-    -636
+    -35,
+    -637
    ],
    "townBlocks": [
     [
@@ -980,10 +980,6 @@
     "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
    },
    {
-    "name": "Guibsadminshalla",
-    "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
-   },
-   {
     "name": "VantaMaw",
     "uuid": "9bc5fa46-294b-4b79-8b8f-1ad1e227bda7"
    },
@@ -1018,12 +1014,20 @@
    {
     "name": "P4blett3",
     "uuid": "44ce513c-e8e6-4b88-bcbb-1eefcf0bc3cc"
+   },
+   {
+    "name": "KKK_Kyle",
+    "uuid": "36cc75cd-2cb5-4885-ae54-386d168a108b"
+   },
+   {
+    "name": "allbawlznoshaft",
+    "uuid": "802b6678-d0e1-4440-8f90-ff0f7cbee784"
    }
   ],
   "trusted": [
    {
-    "name": "StayzGG",
-    "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+    "name": "Guibsadminshalla",
+    "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
    }
   ],
   "outlaws": [
@@ -1096,10 +1100,6 @@
     "uuid": "9fdb7d77-f449-43a2-83ea-5cbfa6bcc552"
    },
    {
-    "name": "iam1nn",
-    "uuid": "3e28cbd0-6efc-4703-a713-83e303fb249b"
-   },
-   {
     "name": "Vladie57",
     "uuid": "4c629589-e2db-476b-a1b7-934c17f97074"
    },
@@ -1118,6 +1118,10 @@
    {
     "name": "Calendreta",
     "uuid": "b00ca2ee-4ba6-4235-926b-0e51dfaf47a5"
+   },
+   {
+    "name": "StayzGG",
+    "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
    }
   ],
   "quarters": [],

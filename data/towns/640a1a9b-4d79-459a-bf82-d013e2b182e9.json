@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Toldijk",
   "uuid": "640a1a9b-4d79-459a-bf82-d013e2b182e9",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791887592171,
-   "joinedNationAt": 1791887748406,
+   "joinedNationAt": 1792143874982,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,11 +101,19 @@
     ],
     [
      238,
+     -784
+    ],
+    [
+     238,
      -785
     ],
     [
      240,
      -784
+    ],
+    [
+     240,
+     -785
     ]
    ],
    "worlds": {}
@@ -114,10 +122,19 @@
    {
     "name": "JurassicKaiju23",
     "uuid": "e83fe3a8-a06c-402e-be42-13eb603b3f24"
+   },
+   {
+    "name": "blauwtje2242",
+    "uuid": "d0a6bdec-6e85-40e5-9b31-d50422696493"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

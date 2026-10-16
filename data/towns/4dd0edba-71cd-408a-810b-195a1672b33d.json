@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Capstick",
   "uuid": "4dd0edba-71cd-408a-810b-195a1672b33d",
@@ -42,7 +42,7 @@
    "numResidents": 19,
    "numTrusted": 4,
    "numOutlaws": 7,
-   "balance": 143.0,
+   "balance": 985.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1313,7 +1313,7 @@
     "uuid": "891678fd-de7d-43c6-b792-ac63a4cfde98"
    },
    {
-    "name": "gooberleo",
+    "name": "Ohnopurple",
     "uuid": "f4732422-9606-4cf0-adf0-9150a9251ae5"
    },
    {
@@ -1323,10 +1323,6 @@
    {
     "name": "bupkuskhakis",
     "uuid": "52191362-ccb3-4076-8cad-299179d247a2"
-   },
-   {
-    "name": "DoxJPN",
-    "uuid": "d7411595-8b8e-4627-b3dd-df972cde575a"
    },
    {
     "name": "7BrewLover",
@@ -1373,8 +1369,12 @@
     "uuid": "6116cc79-7fab-426e-9518-ae0403fcc7d2"
    },
    {
-    "name": "NepoIsTheName",
-    "uuid": "04c58d2c-e4d1-4342-a2c8-5d3844a9ca69"
+    "name": "lucasinn",
+    "uuid": "8121e1f3-2d23-4e2b-bb56-02ff8bad3844"
+   },
+   {
+    "name": "G4ss_0",
+    "uuid": "a2d8f855-1e54-459f-9c24-13a9bebe0d48"
    }
   ],
   "trusted": [
@@ -1523,20 +1523,8 @@
     "uuid": "90322472-0555-497a-ac13-b783089b24e1"
    },
    {
-    "name": "Dull Suite",
-    "uuid": "60506b65-873a-4203-a5ac-fbf28e6934c4"
-   },
-   {
     "name": "VAULT #7",
     "uuid": "ec6be3ca-b3c5-4090-a5a9-4b7de1c25457"
-   },
-   {
-    "name": "Gloomy Residence",
-    "uuid": "5d33a955-add4-4334-8b21-d3d8d8298214"
-   },
-   {
-    "name": "Gloomy Apartment",
-    "uuid": "cf1d50a7-9e9a-4ef6-a40b-eef574e24abd"
    },
    {
     "name": "VAULT #2",
@@ -1545,10 +1533,6 @@
    {
     "name": "Cheerful Property",
     "uuid": "df66accf-1729-4e0d-b450-05b53644166c"
-   },
-   {
-    "name": "Lovely Apartment",
-    "uuid": "0e8d1325-ab7b-4d88-95e6-7c5e2475820c"
    },
    {
     "name": "Inconvenient Suite",
@@ -1563,18 +1547,6 @@
     "uuid": "7b15705c-95aa-4244-aea7-1e584208b4f1"
    },
    {
-    "name": "Elegant Apartment",
-    "uuid": "e72840e5-d189-4125-a45b-ec030725e963"
-   },
-   {
-    "name": "Cheerful Quarter",
-    "uuid": "a9409670-3a05-4794-b3d6-ea0ef9f99049"
-   },
-   {
-    "name": "Inviting Quarter",
-    "uuid": "77e52366-6bc3-4df7-bb8e-708164830449"
-   },
-   {
     "name": "Welcoming Tenement",
     "uuid": "432519b3-af92-45dc-baf4-e5f45a88e110"
    },
@@ -1587,24 +1559,12 @@
     "uuid": "439e27a8-4ac0-41ed-ac72-8da8dc73463d"
    },
    {
-    "name": "Welcoming Dwelling",
-    "uuid": "6f8f29e5-5954-4b99-a142-c2eeac1a3096"
-   },
-   {
-    "name": "Gloomy Suite",
-    "uuid": "d34018f2-47d7-4d17-905e-1f431c88e7bb"
-   },
-   {
     "name": "Perturbing Flat",
     "uuid": "69d9697e-0d68-441a-a282-17ab647fdb52"
    },
    {
     "name": ".",
     "uuid": "a972f180-9e23-435b-8eb9-235d8b7ab22e"
-   },
-   {
-    "name": "Luxurious Property",
-    "uuid": "8718d2a2-7fac-437e-945e-83bb7175c6a4"
    },
    {
     "name": "Upbeat Flat",
@@ -1619,10 +1579,6 @@
     "uuid": "62ddacc3-04f6-4371-9d4a-9d7ccc4e6e9a"
    },
    {
-    "name": "Perturbing Tenement",
-    "uuid": "4546607a-ce6d-4f6f-88a3-ce1e1e25b489"
-   },
-   {
     "name": "Elegant Residence",
     "uuid": "58ca8c4f-644c-449a-9334-e8b503e01636"
    },
@@ -1631,16 +1587,60 @@
     "uuid": "a9b9b6be-0bb9-4b71-9051-fdd3a4ccb605"
    },
    {
-    "name": "Perturbing Apartment",
-    "uuid": "420d284a-2689-47eb-af0b-1aa9e7e793af"
-   },
-   {
     "name": "Stylish Property",
     "uuid": "059636f9-d7bc-49e0-9365-9405384231b7"
    },
    {
     "name": "Welcoming Tenement",
     "uuid": "af52c08b-a370-4f3d-845d-366304185233"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "420d284a-2689-47eb-af0b-1aa9e7e793af"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "60506b65-873a-4203-a5ac-fbf28e6934c4"
+   },
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "a9409670-3a05-4794-b3d6-ea0ef9f99049"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "0e8d1325-ab7b-4d88-95e6-7c5e2475820c"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "4546607a-ce6d-4f6f-88a3-ce1e1e25b489"
+   },
+   {
+    "name": "Elegant Apartment",
+    "uuid": "e72840e5-d189-4125-a45b-ec030725e963"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "8718d2a2-7fac-437e-945e-83bb7175c6a4"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "cf1d50a7-9e9a-4ef6-a40b-eef574e24abd"
+   },
+   {
+    "name": "Gloomy Suite",
+    "uuid": "d34018f2-47d7-4d17-905e-1f431c88e7bb"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "77e52366-6bc3-4df7-bb8e-708164830449"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "5d33a955-add4-4334-8b21-d3d8d8298214"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "6f8f29e5-5954-4b99-a142-c2eeac1a3096"
    }
   ],
   "ranks": {

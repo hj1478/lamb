@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Como",
   "uuid": "59ae5b0b-3c32-48af-8e9e-aa8989f7d2dd",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791003776172,
-   "joinedNationAt": 1791003788423,
+   "joinedNationAt": 1791910997922,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 14,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2937.195237569114,
+    "x": 2933.0325822010427,
     "y": 63.0,
-    "z": -5827.406752121389,
-    "pitch": -3.6644592,
-    "yaw": -2.089793
+    "z": -5825.170917481335,
+    "pitch": -7.0614524,
+    "yaw": -179.57574
    },
    "homeBlock": [
     183,
@@ -92,6 +92,30 @@
    ],
    "townBlocks": [
     [
+     192,
+     -366
+    ],
+    [
+     192,
+     -365
+    ],
+    [
+     192,
+     -364
+    ],
+    [
+     192,
+     -363
+    ],
+    [
+     190,
+     -362
+    ],
+    [
+     190,
+     -363
+    ],
+    [
      184,
      -362
     ],
@@ -104,7 +128,15 @@
      -363
     ],
     [
+     190,
+     -364
+    ],
+    [
      185,
+     -365
+    ],
+    [
+     190,
      -365
     ],
     [
@@ -112,7 +144,15 @@
      -363
     ],
     [
+     189,
+     -364
+    ],
+    [
      185,
+     -362
+    ],
+    [
+     189,
      -362
     ],
     [
@@ -132,7 +172,19 @@
      -362
     ],
     [
+     191,
+     -362
+    ],
+    [
      186,
+     -363
+    ],
+    [
+     188,
+     -362
+    ],
+    [
+     191,
      -363
     ],
     [
@@ -140,8 +192,16 @@
      -362
     ],
     [
+     186,
+     -364
+    ],
+    [
      188,
      -363
+    ],
+    [
+     191,
+     -364
     ],
     [
      183,
@@ -152,6 +212,14 @@
      -364
     ],
     [
+     191,
+     -365
+    ],
+    [
+     191,
+     -366
+    ],
+    [
      187,
      -364
     ],
@@ -170,6 +238,10 @@
     [
      183,
      -365
+    ],
+    [
+     187,
+     -362
     ],
     [
      182,
@@ -192,19 +264,67 @@
   },
   "residents": [
    {
-    "name": "itsZcraft",
-    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
-   },
-   {
     "name": "AlexSmith_",
     "uuid": "0524c7c4-6b9f-466d-8078-39b0c2f6a983"
    },
    {
     "name": "Brian0937",
     "uuid": "71861df8-d8cd-4bdc-853e-323044a5661b"
+   },
+   {
+    "name": "DBoy340",
+    "uuid": "fefa6e75-d958-408e-8c0f-c70a49e5f60b"
+   },
+   {
+    "name": "Otterlune",
+    "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
+   },
+   {
+    "name": "penguinsontop123",
+    "uuid": "6cfe32ee-bf61-4ca5-9b13-913c01ab8467"
+   },
+   {
+    "name": "TemoIsTheGoat",
+    "uuid": "e55649c4-2eb0-47e1-bb85-b5da6679da60"
+   },
+   {
+    "name": "St4rDust_YT",
+    "uuid": "f6df32e7-0919-4337-a36f-7c4a7976d5fc"
+   },
+   {
+    "name": "DFPNLYT",
+    "uuid": "a90c4172-bd5d-4d6d-94fa-f65780a82c38"
+   },
+   {
+    "name": "green_bl0ck",
+    "uuid": "dffdf9af-b76a-449b-88ef-f36d15f8dffd"
+   },
+   {
+    "name": "egon_o",
+    "uuid": "a4b8e2f7-83bf-417b-9202-be0d1e2a3ca6"
+   },
+   {
+    "name": "EpicWormDude",
+    "uuid": "ed3b1029-7ce9-4615-9afe-db619ef286dd"
+   },
+   {
+    "name": "LeonJustLeon",
+    "uuid": "03ab27d9-8bc6-42c3-adb6-cfe92a550ee8"
+   },
+   {
+    "name": "vitorbelesso",
+    "uuid": "bb78cbbd-b928-4087-a441-d35d2fcb1e95"
+   },
+   {
+    "name": "itsZcraft",
+    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
    }
   ],
   "trusted": [
+   {
+    "name": "ArsaMC",
+    "uuid": "ce46b4ce-ea31-43c2-b3f5-f6429ae4db9a"
+   },
    {
     "name": "eliteblackskyJ",
     "uuid": "2b3c49c2-eacd-4cd4-b3fe-90b2996c18e1"
@@ -219,22 +339,17 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "itsZcraft",
-     "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
+     "name": "Otterlune",
+     "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
     }
    ],
    "Builder": [
     {
-     "name": "itsZcraft",
-     "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
+     "name": "Otterlune",
+     "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "itsZcraft",
-     "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Greenlands_Guild",
   "uuid": "4b962a06-e060-48ab-8581-db984009369e",
@@ -35,40 +35,40 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -92,14 +92,6 @@
    ],
    "townBlocks": [
     [
-     -888,
-     -1534
-    ],
-    [
-     -888,
-     -1535
-    ],
-    [
      -887,
      -1536
     ],
@@ -112,12 +104,44 @@
      -1535
     ],
     [
+     -888,
+     -1534
+    ],
+    [
+     -889,
+     -1536
+    ],
+    [
+     -889,
+     -1535
+    ],
+    [
+     -888,
+     -1536
+    ],
+    [
+     -888,
+     -1535
+    ],
+    [
      -886,
      -1534
     ],
     [
      -886,
      -1535
+    ],
+    [
+     -885,
+     -1535
+    ],
+    [
+     -885,
+     -1536
+    ],
+    [
+     -886,
+     -1536
     ]
    ],
    "worlds": {}
@@ -130,6 +154,10 @@
    {
     "name": "CRAZYBULL12",
     "uuid": "322dd152-51fb-4b36-a745-5116120d6739"
+   },
+   {
+    "name": "duppan",
+    "uuid": "be61dc4f-f657-4679-b691-e8a7b3f5251d"
    }
   ],
   "trusted": [],
@@ -145,7 +173,16 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "CRAZYBULL12",
+     "uuid": "322dd152-51fb-4b36-a745-5116120d6739"
+    },
+    {
+     "name": "duppan",
+     "uuid": "be61dc4f-f657-4679-b691-e8a7b3f5251d"
+    }
+   ],
    "Builder": [
     {
      "name": "CRAZYBULL12",

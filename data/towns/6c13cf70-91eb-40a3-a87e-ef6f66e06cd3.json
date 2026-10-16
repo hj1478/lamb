@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Skeleton_Coast",
   "uuid": "6c13cf70-91eb-40a3-a87e-ef6f66e06cd3",
@@ -12,12 +12,12 @@
    "uuid": "994628db-0c33-4f42-ac42-5e3fd62076b0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Angola",
+   "uuid": "641750a3-3704-48f6-8a99-5660b1388797"
   },
   "timestamps": {
    "registered": 1791611689891,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791772681973,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      287,
+     897
+    ],
+    [
+     286,
      894
     ],
     [
@@ -101,7 +105,19 @@
     ],
     [
      287,
+     894
+    ],
+    [
+     286,
+     896
+    ],
+    [
+     287,
      895
+    ],
+    [
+     286,
+     897
     ],
     [
      287,
@@ -109,11 +125,19 @@
     ],
     [
      288,
+     894
+    ],
+    [
+     288,
      895
     ],
     [
      288,
      896
+    ],
+    [
+     285,
+     895
     ]
    ],
    "worlds": {}

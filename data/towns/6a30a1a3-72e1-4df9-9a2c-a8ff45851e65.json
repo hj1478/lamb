@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Galaxy",
   "uuid": "6a30a1a3-72e1-4df9-9a2c-a8ff45851e65",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,8 +92,36 @@
    ],
    "townBlocks": [
     [
+     -7,
+     -658
+    ],
+    [
+     -6,
+     -661
+    ],
+    [
+     -7,
+     -659
+    ],
+    [
+     -5,
+     -661
+    ],
+    [
+     -6,
+     -657
+    ],
+    [
      -5,
      -659
+    ],
+    [
+     -6,
+     -658
+    ],
+    [
+     -5,
+     -660
     ],
     [
      -6,
@@ -102,6 +130,34 @@
     [
      -6,
      -660
+    ],
+    [
+     -5,
+     -658
+    ],
+    [
+     -8,
+     -660
+    ],
+    [
+     -8,
+     -661
+    ],
+    [
+     -8,
+     -658
+    ],
+    [
+     -7,
+     -660
+    ],
+    [
+     -8,
+     -659
+    ],
+    [
+     -7,
+     -661
     ]
    ],
    "worlds": {}
@@ -110,12 +166,20 @@
    {
     "name": "GalaxyCat2014",
     "uuid": "ecb5cde3-7a19-4a62-8457-4875ab7e93f2"
+   },
+   {
+    "name": "TheVXR",
+    "uuid": "5d62fe95-3663-4d4c-b41c-85559d322062"
    }
   ],
   "trusted": [
    {
     "name": "karakan31",
     "uuid": "9c0dfd99-d7b1-4f7b-b32d-1bddc10f94a1"
+   },
+   {
+    "name": "TheVXR",
+    "uuid": "5d62fe95-3663-4d4c-b41c-85559d322062"
    }
   ],
   "outlaws": [],

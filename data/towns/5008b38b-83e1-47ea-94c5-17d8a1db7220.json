@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Puebla_York",
   "uuid": "5008b38b-83e1-47ea-94c5-17d8a1db7220",
@@ -31,18 +31,18 @@
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
-   "hasSnowAccumulation": true,
+   "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
+   "numTownBlocks": 27,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "explosion": true,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,6 +92,78 @@
    ],
    "townBlocks": [
     [
+     -2144,
+     88
+    ],
+    [
+     -2142,
+     90
+    ],
+    [
+     -2141,
+     90
+    ],
+    [
+     -2142,
+     91
+    ],
+    [
+     -2141,
+     91
+    ],
+    [
+     -2142,
+     88
+    ],
+    [
+     -2141,
+     88
+    ],
+    [
+     -2142,
+     89
+    ],
+    [
+     -2141,
+     89
+    ],
+    [
+     -2142,
+     94
+    ],
+    [
+     -2141,
+     94
+    ],
+    [
+     -2142,
+     95
+    ],
+    [
+     -2141,
+     95
+    ],
+    [
+     -2142,
+     92
+    ],
+    [
+     -2141,
+     92
+    ],
+    [
+     -2142,
+     93
+    ],
+    [
+     -2141,
+     93
+    ],
+    [
+     -2143,
+     87
+    ],
+    [
      -2143,
      88
     ],
@@ -100,6 +172,10 @@
      89
     ],
     [
+     -2142,
+     87
+    ],
+    [
      -2143,
      90
     ],
@@ -112,76 +188,16 @@
      92
     ],
     [
-     -2142,
-     90
-    ],
-    [
-     -2141,
-     90
-    ],
-    [
      -2143,
      93
-    ],
-    [
-     -2142,
-     91
-    ],
-    [
-     -2141,
-     91
     ],
     [
      -2143,
      94
     ],
     [
-     -2142,
-     88
-    ],
-    [
      -2143,
      95
-    ],
-    [
-     -2142,
-     89
-    ],
-    [
-     -2141,
-     89
-    ],
-    [
-     -2142,
-     94
-    ],
-    [
-     -2141,
-     94
-    ],
-    [
-     -2142,
-     95
-    ],
-    [
-     -2141,
-     95
-    ],
-    [
-     -2142,
-     92
-    ],
-    [
-     -2141,
-     92
-    ],
-    [
-     -2142,
-     93
-    ],
-    [
-     -2141,
-     93
     ]
    ],
    "worlds": {}

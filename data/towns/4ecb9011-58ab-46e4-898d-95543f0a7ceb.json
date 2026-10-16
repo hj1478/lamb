@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Fethiye",
   "uuid": "4ecb9011-58ab-46e4-898d-95543f0a7ceb",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "28st",
-   "uuid": "5699652a-7ff4-4054-8b88-4b719ed17f1a"
+   "name": "_lengyel",
+   "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
   },
   "nation": {
-   "name": "Sicily",
-   "uuid": "f58a652f-7b66-446f-9fe7-5fa233d03630"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1777297904962,
-   "joinedNationAt": 1790867720027,
+   "joinedNationAt": 1791654654178,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 254,
-   "maxTownBlocks": 256,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 13,
+   "numResidents": 14,
    "numTrusted": 3,
-   "numOutlaws": 10,
-   "balance": 94.0,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10443.950721854993,
+    "x": 10445.462837544988,
     "y": 64.0,
-    "z": -5739.048402089153,
-    "pitch": -2.083273,
-    "yaw": -91.29126
+    "z": -5739.559443902223,
+    "pitch": 16.366783,
+    "yaw": -90.09119
    },
    "homeBlock": [
     652,
@@ -1117,16 +1117,12 @@
   },
   "residents": [
    {
-    "name": "28st",
-    "uuid": "5699652a-7ff4-4054-8b88-4b719ed17f1a"
+    "name": "Nlonw",
+    "uuid": "dcbef47a-72df-4c47-a3ec-d17bebe3fb6e"
    },
    {
     "name": "Zeyf25",
     "uuid": "260de467-9832-455b-9360-0411659f50a1"
-   },
-   {
-    "name": "LoraDL",
-    "uuid": "f291c588-ff13-475f-9f63-ad8c2c33644f"
    },
    {
     "name": "veskopesa",
@@ -1167,20 +1163,28 @@
    {
     "name": "Tzontzison",
     "uuid": "fdce881a-dbce-4013-95f3-b52bc228bfa5"
+   },
+   {
+    "name": "v4laki",
+    "uuid": "7fc90092-09b7-4589-a9dd-59c1511c0ecd"
+   },
+   {
+    "name": "_lengyel",
+    "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
    }
   ],
   "trusted": [
    {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+    "name": "Irnik_hun",
+    "uuid": "62825565-8e18-4cc1-a07c-acee006e6825"
    },
    {
-    "name": "sabi250",
-    "uuid": "67f557b3-c57d-4c51-903c-9193480a1247"
+    "name": "Cosner1777",
+    "uuid": "b4f55a23-b219-4506-bf14-4291440178c1"
    },
    {
-    "name": "nAiLLeh",
-    "uuid": "5cc0bb11-08ec-48e9-85d8-e4d92ab7e83a"
+    "name": "k7r9m",
+    "uuid": "3cd52480-05aa-4764-b237-50ce4fbb5a65"
    }
   ],
   "outlaws": [
@@ -1213,10 +1217,6 @@
     "uuid": "efd71f8e-3304-4cb9-87c9-a660eb66fef8"
    },
    {
-    "name": "ArdaTe_",
-    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-   },
-   {
     "name": "xTheZemZem0",
     "uuid": "feb21926-0c28-4d72-8d9c-71ba387bc87f"
    },
@@ -1227,109 +1227,20 @@
   ],
   "quarters": [
    {
-    "name": "lapis",
-    "uuid": "2a1045a7-9333-4636-9466-28698c207ec2"
+    "name": "Enraging Suite",
+    "uuid": "88044ef7-b988-4f70-8637-dafa9a5fef72"
    },
    {
-    "name": "Inconvenient Dwelling",
-    "uuid": "5b9f03d6-9de7-4626-95e5-6cfa8f208e38"
+    "name": "Welcoming Dwelling",
+    "uuid": "d5fb7ce1-9060-4743-8ca6-a9c969930fcb"
    },
    {
-    "name": "Lovely Tenement",
-    "uuid": "14e18a56-5ed0-451d-9a6d-e813e6e4aeb4"
-   },
-   {
-    "name": "Dingy Property",
-    "uuid": "1467ceea-0d82-44fb-8327-150abd48d944"
-   },
-   {
-    "name": "Perturbing Apartment",
-    "uuid": "98bbc247-2a87-4b4d-8ed8-9cacfa0f8a73"
-   },
-   {
-    "name": "Cheerful Suite",
-    "uuid": "cc4c0bf2-ed6e-4548-81d4-a238ca5d1c33"
-   },
-   {
-    "name": "Gloomy Residence",
-    "uuid": "821ab61f-b3c5-4a11-9cc6-6ec0979cc398"
-   },
-   {
-    "name": "Dingy Flat",
-    "uuid": "31e6aa9c-fe62-439f-b9ab-639b8d92e61f"
-   },
-   {
-    "name": "Lovely Dwelling",
-    "uuid": "a6e07ea6-fb1a-413e-8b0d-671b26437b72"
-   },
-   {
-    "name": "Annoying Property",
-    "uuid": "ca6c6d91-686e-4870-92c4-0ab1e9aac2b0"
-   },
-   {
-    "name": "Annoying Suite",
-    "uuid": "987a24b6-ddfa-4e5c-a9a2-5f9f5a22ea8e"
-   },
-   {
-    "name": "Bland Tenement",
-    "uuid": "4fb76321-f8cc-4718-83de-c7fee3797bdf"
-   },
-   {
-    "name": "Dull Apartment",
-    "uuid": "59e5d3e1-3124-439a-92bb-ceefa99c7b83"
-   },
-   {
-    "name": "Annoying Apartment",
-    "uuid": "a355af73-5f13-40f1-ae6d-d3eebc245d32"
-   },
-   {
-    "name": "Cheerful Apartment",
-    "uuid": "ba211b44-341d-4315-a1ed-567e73b308a2"
-   },
-   {
-    "name": "Gloomy Flat",
-    "uuid": "2dd3707d-f66b-463a-9b8d-14d1300af2b5"
-   },
-   {
-    "name": "Bland Tenement",
-    "uuid": "ff4e951a-d5ee-4e52-b18d-3b8c4028aa75"
-   },
-   {
-    "name": "Gloomy Quarter",
-    "uuid": "0138aa18-504a-4acf-befd-4d698832b8a0"
-   },
-   {
-    "name": "Enraging Tenement",
-    "uuid": "a4b32b4a-842e-4a71-bb9a-fc219eac7685"
-   },
-   {
-    "name": "Dingy Apartment",
-    "uuid": "296b680e-c690-4428-922d-49ce7d412aae"
-   },
-   {
-    "name": "Dull Tenement",
-    "uuid": "cbf5f1fe-90d4-4995-ac40-83d68014ceac"
-   },
-   {
-    "name": "Annoying Tenement",
-    "uuid": "e72e2648-e82f-4d7d-91e7-e23a1f710b35"
-   },
-   {
-    "name": "Cheerful Apartment",
-    "uuid": "62c05df2-9916-4fe3-85ac-95501ed4a370"
-   },
-   {
-    "name": "Inviting Suite",
-    "uuid": "e1d14684-85f5-4bd8-b1f3-79eb0dc347fa"
+    "name": "Bland Dwelling",
+    "uuid": "f8584eb5-f467-4a10-8f63-fc1b2dba59ba"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "28st",
-     "uuid": "5699652a-7ff4-4054-8b88-4b719ed17f1a"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
-  "name": "Skylandia",
+  "name": "Lunar_Shield",
   "uuid": "66f86a84-7897-4991-ae56-b8f586c696d3",
   "board": "/town set board [msg]",
   "founder": "ProPancakes14",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 4,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -74,21 +74,21 @@
     "pvp": false,
     "explosion": false,
     "fire": true,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29972.952509769333,
-    "y": 43.0,
-    "z": -8139.768765928683,
-    "pitch": 19.510551,
-    "yaw": 138.66635
+    "x": -29970.194132096032,
+    "y": 42.0,
+    "z": -8150.842678834867,
+    "pitch": 21.20903,
+    "yaw": 66.33902
    },
    "homeBlock": [
     -1874,
-    -509
+    -510
    ],
    "townBlocks": [
     [
@@ -128,7 +128,16 @@
      -509
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -43,
+       376
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -138,10 +147,6 @@
   ],
   "trusted": [],
   "outlaws": [
-   {
-    "name": "_Chadi_",
-    "uuid": "9fd73dd0-e96f-4edb-8944-4be963cac6bb"
-   },
    {
     "name": "ArdaTe_",
     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"

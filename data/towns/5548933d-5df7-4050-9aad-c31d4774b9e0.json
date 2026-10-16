@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Tilburg",
   "uuid": "5548933d-5df7-4050-9aad-c31d4774b9e0",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "yissaaa",
-   "uuid": "b2221215-e998-4dde-8d81-d26e312fb62b"
+   "name": "NPC45",
+   "uuid": "903faac0-1aa2-20d4-ba10-545546762ebc"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787804140126,
-   "joinedNationAt": 1787804153651,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791972004255
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,20 +144,11 @@
   },
   "residents": [
    {
-    "name": "yissaaa",
-    "uuid": "b2221215-e998-4dde-8d81-d26e312fb62b"
-   },
-   {
-    "name": "Xeeum",
-    "uuid": "1bbb05d1-309e-4e77-bbcb-0348a473f5f6"
+    "name": "NPC45",
+    "uuid": "903faac0-1aa2-20d4-ba10-545546762ebc"
    }
   ],
-  "trusted": [
-   {
-    "name": "Xeeum",
-    "uuid": "1bbb05d1-309e-4e77-bbcb-0348a473f5f6"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

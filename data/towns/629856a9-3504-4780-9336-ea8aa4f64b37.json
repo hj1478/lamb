@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Greater_Sydney",
   "uuid": "629856a9-3504-4780-9336-ea8aa4f64b37",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Sir_milkman7",
-   "uuid": "3aa0a214-695c-4e9e-9253-10c3103f6223"
+   "name": "NPC16",
+   "uuid": "d4647644-2142-20d1-b8bf-d14231983947"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779543615214,
-   "joinedNationAt": 1783543294232,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791885601523
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "Sir_milkman7",
-    "uuid": "3aa0a214-695c-4e9e-9253-10c3103f6223"
+    "name": "NPC16",
+    "uuid": "d4647644-2142-20d1-b8bf-d14231983947"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Sanok",
   "uuid": "57a55bb6-7ac4-441e-86cd-ba6139a41727",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AquaLikeWater",
-   "uuid": "e694120a-bd7a-44c7-8102-dec42f268efd"
+   "name": "NPC39",
+   "uuid": "ae5e77fe-3180-202f-8f89-6ec3edde0c78"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780429982816,
-   "joinedNationAt": 1780430044966,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791972003406
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 73,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -388,8 +388,8 @@
   },
   "residents": [
    {
-    "name": "AquaLikeWater",
-    "uuid": "e694120a-bd7a-44c7-8102-dec42f268efd"
+    "name": "NPC39",
+    "uuid": "ae5e77fe-3180-202f-8f89-6ec3edde0c78"
    }
   ],
   "trusted": [

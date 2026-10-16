@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Tugun",
   "uuid": "4f787d1f-0049-4d5e-a1f8-c6282c605da3",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JosephMumma",
-   "uuid": "72ac20c1-29d1-4ce9-a55f-6cbe9a67b55a"
+   "name": "NPC112",
+   "uuid": "40b4a333-0c29-204d-a618-55df21b56f41"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788006723990,
-   "joinedNationAt": 1788008340233,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792058400624
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 11.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,12 +140,8 @@
   },
   "residents": [
    {
-    "name": "JosephMumma",
-    "uuid": "72ac20c1-29d1-4ce9-a55f-6cbe9a67b55a"
-   },
-   {
-    "name": "BigFootBassy",
-    "uuid": "e18bf638-cc20-4bce-9fb2-89edbfd221ff"
+    "name": "NPC112",
+    "uuid": "40b4a333-0c29-204d-a618-55df21b56f41"
    }
   ],
   "trusted": [],
@@ -153,12 +149,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "BigFootBassy",
-     "uuid": "e18bf638-cc20-4bce-9fb2-89edbfd221ff"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

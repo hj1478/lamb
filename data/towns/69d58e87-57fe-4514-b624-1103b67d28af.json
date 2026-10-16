@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Isafjord",
   "uuid": "69d58e87-57fe-4514-b624-1103b67d28af",
@@ -41,7 +41,7 @@
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -105,7 +105,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "AtillaKagan",
+    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

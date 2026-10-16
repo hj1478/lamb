@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Cadiz",
   "uuid": "63cf8bf6-ec63-4aa2-92f1-f28defa32a6a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 252,
-   "maxTownBlocks": 400,
+   "maxTownBlocks": 424,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 25,
-   "numTrusted": 14,
-   "numOutlaws": 24,
-   "balance": 0.0,
+   "numResidents": 27,
+   "numTrusted": 17,
+   "numOutlaws": 23,
+   "balance": 165.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1207,6 +1207,14 @@
    {
     "name": "fidopram",
     "uuid": "7734f5ed-68b8-4f51-8549-2c589df8f7f1"
+   },
+   {
+    "name": "Baviera_III",
+    "uuid": "0733843f-4cbe-42d6-a820-5e84ef159e32"
+   },
+   {
+    "name": "MCAlex064823",
+    "uuid": "85d6a62f-0bc8-4622-857b-60b2f0c31448"
    }
   ],
   "trusted": [
@@ -1225,6 +1233,10 @@
    {
     "name": "ADHD_DIN00",
     "uuid": "dce2fffc-60ad-482b-b171-5ffb556ca558"
+   },
+   {
+    "name": "Baviera_III",
+    "uuid": "0733843f-4cbe-42d6-a820-5e84ef159e32"
    },
    {
     "name": "Shedleski",
@@ -1255,12 +1267,20 @@
     "uuid": "40c2a8a6-38ff-4268-9196-937cf42079b6"
    },
    {
+    "name": "MCAlex064823",
+    "uuid": "85d6a62f-0bc8-4622-857b-60b2f0c31448"
+   },
+   {
     "name": "Walnutty",
     "uuid": "7a1e0ab9-8658-41a2-891b-2783caba252d"
    },
    {
     "name": "ikon_blitz",
     "uuid": "c4666162-bf2a-45c6-b784-6189c482c153"
+   },
+   {
+    "name": "23kobe",
+    "uuid": "3963bfde-a3c7-4cd0-a8f4-cfb595eda7f0"
    },
    {
     "name": "aFrung",
@@ -1271,10 +1291,6 @@
    {
     "name": "LotaPandaPoo",
     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-   },
-   {
-    "name": "PeytonNaomi",
-    "uuid": "fecd1185-bb8f-45c9-a06a-d74a30befb8b"
    },
    {
     "name": "Swightness",
@@ -1337,7 +1353,7 @@
     "uuid": "bd41db46-767e-409e-b175-7cfb9e4be61d"
    },
    {
-    "name": "figtrees12",
+    "name": "jamari_aymara23",
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
    },
    {
@@ -1373,10 +1389,6 @@
    {
     "name": "Inconvenient Residence",
     "uuid": "aee0dde2-1553-4510-a2aa-6a97670e2a6c"
-   },
-   {
-    "name": "Inviting Apartment",
-    "uuid": "93b556fd-b124-4275-bc53-a873d982992d"
    },
    {
     "name": "Inconvenient Tenement",
@@ -1429,6 +1441,10 @@
    {
     "name": "Elegant Tenement",
     "uuid": "f13d50e2-7348-4df2-90b1-5e109208cfe9"
+   },
+   {
+    "name": "Inviting Apartment",
+    "uuid": "93b556fd-b124-4275-bc53-a873d982992d"
    }
   ],
   "ranks": {

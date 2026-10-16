@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T02:07:22Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "New_Mora",
   "uuid": "5b88f46d-205b-451b-b055-42a6d654df51",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SmilingOtter",
-   "uuid": "9861a774-4025-4ad4-83fa-0d9913d9adca"
+   "name": "NPC42",
+   "uuid": "e6909d40-545d-20e7-b0c7-26f82a42acd5"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1783721244607,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1791972003858
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -40,41 +40,41 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,15 +120,11 @@
   },
   "residents": [
    {
-    "name": "SmilingOtter",
-    "uuid": "9861a774-4025-4ad4-83fa-0d9913d9adca"
+    "name": "NPC42",
+    "uuid": "e6909d40-545d-20e7-b0c7-26f82a42acd5"
    }
   ],
   "trusted": [
-   {
-    "name": "SmilingOtter",
-    "uuid": "9861a774-4025-4ad4-83fa-0d9913d9adca"
-   },
    {
     "name": "Frostcarp",
     "uuid": "f73a333c-b9ce-404b-99b1-c18d822db4d5"

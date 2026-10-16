@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-16T11:33:59Z",
  "data": {
   "name": "Anzac",
   "uuid": "6cb46d89-51bd-499e-a13e-209bfe563c9f",
@@ -12,33 +12,33 @@
    "uuid": "b0a3452a-106e-4d80-bcf4-5b78712f8601"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
   },
   "timestamps": {
    "registered": 1791723588874,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791743626741,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -91,6 +91,10 @@
     -1072
    ],
    "townBlocks": [
+    [
+     1031,
+     -1072
+    ],
     [
      1032,
      -1072
