@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Medford",
   "uuid": "6e6c7331-ced1-499b-9d38-4b57424cfa53",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1789141411276,
-   "joinedNationAt": 1789141436254,
+   "joinedNationAt": 1791734105404,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
+   "numTownBlocks": 18,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,6 +101,10 @@
     ],
     [
      -1597,
+     -522
+    ],
+    [
+     -1596,
      -522
     ],
     [
@@ -179,7 +183,24 @@
     "uuid": "94bf9925-a28e-45f4-826e-f28563472be0"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "386ad161-f2ef-4b1b-9c92-844b0f3e943b"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "693b8788-03c8-446d-b87a-c984b36ed25e"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "b654a7e3-c0f7-4c67-b415-225eb1bcdb17"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "8bb81f9e-506a-4e6b-a2ed-f49dc5b9ef40"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

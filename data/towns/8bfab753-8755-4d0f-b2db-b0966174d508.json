@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "The_Last_City",
   "uuid": "8bfab753-8755-4d0f-b2db-b0966174d508",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mommy169",
-   "uuid": "b39e0a84-2c71-4211-b7e0-f7ca31db7c97"
+   "name": "NPC4",
+   "uuid": "56000411-9d87-2017-b598-e4911bc38b3c"
   },
   "nation": {
-   "name": "Argentina",
-   "uuid": "a37b3e38-02af-4d98-af67-7f44630d1139"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777658148287,
-   "joinedNationAt": 1777837664177,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144802963
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 86,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 1932.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -440,24 +440,11 @@
   },
   "residents": [
    {
-    "name": "zinx195",
-    "uuid": "02ab6109-bd92-4376-bcd2-24b2226ba2a8"
-   },
-   {
-    "name": "mommy169",
-    "uuid": "b39e0a84-2c71-4211-b7e0-f7ca31db7c97"
+    "name": "NPC4",
+    "uuid": "56000411-9d87-2017-b598-e4911bc38b3c"
    }
   ],
-  "trusted": [
-   {
-    "name": "zinx195",
-    "uuid": "02ab6109-bd92-4376-bcd2-24b2226ba2a8"
-   },
-   {
-    "name": "mommy169",
-    "uuid": "b39e0a84-2c71-4211-b7e0-f7ca31db7c97"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "Raining_Oranges",

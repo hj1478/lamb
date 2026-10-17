@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Tete",
   "uuid": "7125e2b2-f04e-46ba-a12d-268706ec4785",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 165.0,
    "forSalePrice": null
@@ -156,7 +156,12 @@
     "uuid": "807c5a56-6d81-4b2c-a493-b0bbdd62019e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Kabancik",
+    "uuid": "ea6deec5-8090-4edc-988a-34ba9cf5eb0b"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

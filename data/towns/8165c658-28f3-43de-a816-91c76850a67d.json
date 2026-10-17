@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Raykota",
   "uuid": "8165c658-28f3-43de-a816-91c76850a67d",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Benektheperson",
-   "uuid": "cbbc2561-8e69-488b-8442-dfc36a1f9f26"
+   "name": "NPC85",
+   "uuid": "0bd7dd2c-74f4-206b-8c69-b1c65e2118de"
   },
   "nation": {
-   "name": "India",
-   "uuid": "f5fdf99c-751b-4f57-a791-adadd1609eff"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788008262398,
-   "joinedNationAt": 1788121239822,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144802806
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 13.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,24 +112,15 @@
   },
   "residents": [
    {
-    "name": "Benektheperson",
-    "uuid": "cbbc2561-8e69-488b-8442-dfc36a1f9f26"
-   },
-   {
-    "name": "PatrickisAkinG",
-    "uuid": "f65fcc6b-f693-4b1b-a228-db1339490450"
+    "name": "NPC85",
+    "uuid": "0bd7dd2c-74f4-206b-8c69-b1c65e2118de"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "PatrickisAkinG",
-     "uuid": "f65fcc6b-f693-4b1b-a228-db1339490450"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

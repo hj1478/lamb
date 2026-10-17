@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Vault_Thirteen",
   "uuid": "7d68d230-61bb-4b6d-917c-3311417180d5",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 27.0,
@@ -159,6 +159,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "shrub420",
+    "uuid": "9e7f9582-5ad9-4c58-aec0-e3c147d17f57"
+   },
    {
     "name": "DubBoy2p0",
     "uuid": "aecfb24f-b802-4e02-aa45-a06dd1fb666a"

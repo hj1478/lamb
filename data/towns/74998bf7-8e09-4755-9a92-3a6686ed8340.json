@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Moscopole",
   "uuid": "74998bf7-8e09-4755-9a92-3a6686ed8340",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LikeThePro",
-   "uuid": "f8a7e5fc-8d20-46f5-a329-0d3d56cc94ac"
+   "name": "NPC80",
+   "uuid": "b89b2b0a-9baa-2042-9ad4-d932d4db0bd6"
   },
   "nation": {
-   "name": "Liao",
-   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787487826918,
-   "joinedNationAt": 1787652065795,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144802264
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 14,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -152,8 +152,8 @@
   },
   "residents": [
    {
-    "name": "LikeThePro",
-    "uuid": "f8a7e5fc-8d20-46f5-a329-0d3d56cc94ac"
+    "name": "NPC80",
+    "uuid": "b89b2b0a-9baa-2042-9ad4-d932d4db0bd6"
    }
   ],
   "trusted": [],

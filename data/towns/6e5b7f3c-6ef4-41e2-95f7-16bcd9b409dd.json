@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Store",
   "uuid": "6e5b7f3c-6ef4-41e2-95f7-16bcd9b409dd",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 140,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 54.0,
+   "balance": 19.0,
    "forSalePrice": null
   },
   "perms": {
@@ -670,6 +670,10 @@
    {
     "name": "jayjaynr1",
     "uuid": "ec94112b-7cd8-4073-9942-d27e4f303478"
+   },
+   {
+    "name": "Sandra_1224",
+    "uuid": "0848e012-f7e0-48ce-8e59-9080716df2c9"
    }
   ],
   "trusted": [
@@ -745,16 +749,16 @@
     "uuid": "0299d264-84c7-4791-9b43-0cc226fad3c2"
    },
    {
-    "name": "Perturbing Apartment",
-    "uuid": "c26ae0fc-636e-4fa7-b5be-26b09fc8a54a"
-   },
-   {
     "name": "Dull Flat",
     "uuid": "7c32b50f-e91a-40f6-bef1-09ba9cb64a41"
    },
    {
     "name": "Annoying Property",
     "uuid": "ec7633e5-c42b-425b-8402-4abf2ac79de6"
+   },
+   {
+    "name": "Annoying Suite",
+    "uuid": "85faa7b5-3b7e-403c-9efd-25543df691d9"
    }
   ],
   "ranks": {

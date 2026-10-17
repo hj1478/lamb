@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Halloria",
   "uuid": "89cb52ca-47a8-429b-a316-5efa2948f84c",
-  "board": "/town set board [msg]",
+  "board": "Hey",
   "founder": "Gamerhallootjes",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 25,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numResidents": 5,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31051.60137248403,
-    "y": 67.0,
-    "z": -12283.345127301294,
-    "pitch": 90.0,
-    "yaw": 177.74867
+    "x": -31050.552419874457,
+    "y": 66.0,
+    "z": -12281.560266049484,
+    "pitch": -0.051054522,
+    "yaw": -91.370514
    },
    "homeBlock": [
     -1941,
@@ -92,32 +92,104 @@
    ],
    "townBlocks": [
     [
+     -1947,
+     -768
+    ],
+    [
+     -1947,
+     -769
+    ],
+    [
+     -1947,
+     -767
+    ],
+    [
+     -1943,
+     -770
+    ],
+    [
      -1943,
      -768
     ],
     [
+     -1943,
+     -769
+    ],
+    [
+     -1941,
+     -770
+    ],
+    [
+     -1945,
+     -768
+    ],
+    [
      -1941,
      -769
     ],
     [
-     -1942,
+     -1943,
      -767
+    ],
+    [
+     -1945,
+     -767
+    ],
+    [
+     -1945,
+     -769
     ],
     [
      -1941,
      -768
     ],
     [
-     -1942,
-     -769
-    ],
-    [
      -1941,
      -767
     ],
     [
      -1942,
+     -767
+    ],
+    [
+     -1942,
+     -769
+    ],
+    [
+     -1942,
      -768
+    ],
+    [
+     -1942,
+     -770
+    ],
+    [
+     -1946,
+     -767
+    ],
+    [
+     -1944,
+     -767
+    ],
+    [
+     -1940,
+     -768
+    ],
+    [
+     -1944,
+     -768
+    ],
+    [
+     -1944,
+     -769
+    ],
+    [
+     -1946,
+     -768
+    ],
+    [
+     -1946,
+     -769
     ]
    ],
    "worlds": {}
@@ -128,27 +200,39 @@
     "uuid": "95e58bdd-d396-405c-a14d-50f1fa40425a"
    },
    {
-    "name": "EndAttackMc",
-    "uuid": "e022a9c6-30f0-4bec-85de-0801fb13747b"
+    "name": "DeM4rCuS13",
+    "uuid": "14c1408c-60ff-4ff6-98fb-ba69adc315c4"
    },
    {
-    "name": "TommieBL",
-    "uuid": "75a5bcf1-b577-4f49-aa60-2544de280afc"
+    "name": "AngieDaBabyYoda",
+    "uuid": "8b1b7a51-db2f-48c4-8e17-66eb5c398ac7"
+   },
+   {
+    "name": "POVROBOT10",
+    "uuid": "45618bbe-a2e7-44ff-8ed3-b309d69d65ca"
+   },
+   {
+    "name": "Rafavh04",
+    "uuid": "0c7d55f3-6d07-4d94-875d-754ce619052c"
    }
   ],
   "trusted": [
+   {
+    "name": "TheLegend1st",
+    "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
+   },
    {
     "name": "SaladeKat",
     "uuid": "75007fe3-6a18-40c9-85c9-ebc65a9a50a3"
    }
   ],
-  "outlaws": [],
-  "quarters": [
+  "outlaws": [
    {
-    "name": "Starter_Tools",
-    "uuid": "fbf044f8-3a25-4ef0-a65e-16954dc4f6c8"
+    "name": "icedteaslurpee",
+    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
    }
   ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

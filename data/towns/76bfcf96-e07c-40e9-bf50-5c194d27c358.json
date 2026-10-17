@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Liepaja",
   "uuid": "76bfcf96-e07c-40e9-bf50-5c194d27c358",
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 12,
    "numTrusted": 3,
-   "numOutlaws": 8,
+   "numOutlaws": 6,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -936,12 +936,8 @@
   },
   "residents": [
    {
-    "name": "Guanakin321",
-    "uuid": "eaa09c1f-1ce7-480c-8669-05f4e23158ba"
-   },
-   {
-    "name": "Allen1060226",
-    "uuid": "58d471a8-5e59-4471-b981-38d7d3214f22"
+    "name": "MozarellaHi",
+    "uuid": "260f5b9d-c633-4681-bfd2-817f2d543c58"
    },
    {
     "name": "vksman",
@@ -982,6 +978,10 @@
    {
     "name": "ShadowK_12",
     "uuid": "b77dc1e6-6a4e-43ad-aa1e-7255e11529a5"
+   },
+   {
+    "name": "whatmilo",
+    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
    }
   ],
   "trusted": [
@@ -1004,10 +1004,6 @@
     "uuid": "3c7205b0-4a19-4dec-a490-6352d9094ceb"
    },
    {
-    "name": "BIG_ALL_IN",
-    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
-   },
-   {
     "name": "FranciZH",
     "uuid": "c65a9d37-30e1-41bf-a7fd-5813c483529c"
    },
@@ -1026,17 +1022,9 @@
    {
     "name": "SpyingBigfoot39",
     "uuid": "43d05a08-7fa0-4fb5-9e5f-a19679e2acd2"
-   },
-   {
-    "name": "droetker1",
-    "uuid": "4f0c1e55-36d0-45d0-8604-3e8045636c0c"
    }
   ],
   "quarters": [
-   {
-    "name": "Dingy Residence",
-    "uuid": "aa54b45b-24fa-4712-8b41-7e51a69eb3e1"
-   },
    {
     "name": "Bland Quarter",
     "uuid": "f14259ec-854f-4e88-877d-1fa6afee5b0c"
@@ -1062,12 +1050,16 @@
     "uuid": "78cc932e-d454-41db-940b-7736339632d3"
    },
    {
+    "name": "Dull Quarter",
+    "uuid": "024ee231-0cf9-478f-ac13-da36c1c567e2"
+   },
+   {
     "name": "Enraging Suite",
     "uuid": "47918dcc-30c3-440d-b378-1c91de81e90d"
    },
    {
-    "name": "Dull Quarter",
-    "uuid": "024ee231-0cf9-478f-ac13-da36c1c567e2"
+    "name": "Dingy Residence",
+    "uuid": "aa54b45b-24fa-4712-8b41-7e51a69eb3e1"
    }
   ],
   "ranks": {

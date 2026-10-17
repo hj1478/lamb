@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Bula-Kerema",
   "uuid": "8a4a0baa-a4e5-4a2d-b1ac-bdc79584fce8",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 52,
+   "numTownBlocks": 57,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 12,
-   "numOutlaws": 5,
-   "balance": 0.0,
+   "numTrusted": 6,
+   "numOutlaws": 6,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -97,6 +97,10 @@
     ],
     [
      3150,
+     695
+    ],
+    [
+     3150,
      697
     ],
     [
@@ -181,11 +185,23 @@
     ],
     [
      3156,
+     701
+    ],
+    [
+     3156,
      702
     ],
     [
      3156,
      699
+    ],
+    [
+     3156,
+     700
+    ],
+    [
+     3149,
+     695
     ],
     [
      3154,
@@ -196,15 +212,15 @@
      704
     ],
     [
-     3155,
-     703
-    ],
-    [
      3154,
      696
     ],
     [
      3155,
+     703
+    ],
+    [
+     3155,
      702
     ],
     [
@@ -222,6 +238,10 @@
     [
      3155,
      699
+    ],
+    [
+     3148,
+     695
     ],
     [
      3155,
@@ -280,12 +300,12 @@
      696
     ],
     [
-     3151,
-     697
-    ],
-    [
      3149,
      698
+    ],
+    [
+     3151,
+     697
     ],
     [
      3151,
@@ -318,28 +338,8 @@
     "uuid": "6403fdb2-9e2f-4842-8829-2eb2c118b16e"
    },
    {
-    "name": "Rhone_",
-    "uuid": "5ae4f54f-dd82-41a3-b118-32a460d17544"
-   },
-   {
-    "name": "Wekkaani",
-    "uuid": "2d739f75-4eb1-4d10-a086-7be37e6aa1fd"
-   },
-   {
-    "name": "misterio6",
-    "uuid": "41c65b51-3ed0-45f2-ad12-678878fe75b6"
-   },
-   {
     "name": "ToxicShole",
     "uuid": "cae7d76a-5466-4aa8-acf3-e77ef63f3c29"
-   },
-   {
-    "name": "JPumpkinH34b",
-    "uuid": "49fea90a-acea-4a2c-87d2-293fc5e5ccb3"
-   },
-   {
-    "name": "Lodotzip",
-    "uuid": "2d5766ba-57b4-4a89-87da-5aa9763370ea"
    },
    {
     "name": "Hmanth",
@@ -348,10 +348,6 @@
    {
     "name": "HuntianaJones",
     "uuid": "d77695a1-0c2f-46f1-878f-3e9f8a8843da"
-   },
-   {
-    "name": "8iwh0",
-    "uuid": "5c5a3c43-74f8-4db9-b593-aed441867882"
    },
    {
     "name": "EnderDucky17",
@@ -378,6 +374,10 @@
    {
     "name": "ElJefe5775",
     "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "BillyBJones",
+    "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
    }
   ],
   "quarters": [],

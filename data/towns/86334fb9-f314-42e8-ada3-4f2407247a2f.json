@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Riga",
   "uuid": "86334fb9-f314-42e8-ada3-4f2407247a2f",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 341,
-   "maxTownBlocks": 532,
+   "maxTownBlocks": 520,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 36,
-   "numTrusted": 7,
+   "numResidents": 35,
+   "numTrusted": 8,
    "numOutlaws": 11,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8746.513087144926,
-    "y": 68.0,
-    "z": -15012.682477980596,
-    "pitch": 10.050001,
-    "yaw": 128.98792
+    "x": 8753.50984006724,
+    "y": 69.0,
+    "z": -15010.195536475749,
+    "pitch": -51.35422,
+    "yaw": 0.049835205
    },
    "homeBlock": [
-    546,
+    547,
     -939
    ],
    "townBlocks": [
@@ -1489,6 +1489,10 @@
     "uuid": "205b2b2a-736e-4c07-bc6d-81592eccc4a8"
    },
    {
+    "name": "TheFIREND",
+    "uuid": "a03de56e-36f3-49a2-899a-eb76f4326b0e"
+   },
+   {
     "name": "ToxBytes",
     "uuid": "88688fec-eac4-4d07-8ea9-16a245b97538"
    },
@@ -1497,16 +1501,8 @@
     "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    },
    {
-    "name": "KARLISMS",
-    "uuid": "6f062be1-5d1a-4999-a736-c39d0ac9115c"
-   },
-   {
     "name": "MariaOktawia",
     "uuid": "5ce6bc43-c8f8-4ba5-adea-a9e960d986f8"
-   },
-   {
-    "name": "kristerszb",
-    "uuid": "9dd594b7-6499-4178-94ba-8585e4dd45f7"
    },
    {
     "name": "LJB1116",
@@ -1527,10 +1523,6 @@
    {
     "name": "luponeroalfa",
     "uuid": "b01df412-6f94-47a8-8986-397340400646"
-   },
-   {
-    "name": "prodream435",
-    "uuid": "adf6def4-86f1-4023-af0b-7bcecd386f1f"
    },
    {
     "name": "Piotrunia16",
@@ -1607,9 +1599,17 @@
    {
     "name": "Karlislab",
     "uuid": "9ac1bfc7-b6b5-4cd5-8f60-e1468e3667f5"
+   },
+   {
+    "name": "VanillaBlizard",
+    "uuid": "5bd04e3d-759d-4748-a50f-db3188ea1b7a"
    }
   ],
   "trusted": [
+   {
+    "name": "TheFIREND",
+    "uuid": "a03de56e-36f3-49a2-899a-eb76f4326b0e"
+   },
    {
     "name": "TomasBomas123",
     "uuid": "c9233f8a-438b-4726-bbe5-106486474ad7"

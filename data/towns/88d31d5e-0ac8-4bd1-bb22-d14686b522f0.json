@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "West_Memphis",
   "uuid": "88d31d5e-0ac8-4bd1-bb22-d14686b522f0",
-  "board": "/town set board [msg]",
+  "board": "Most Muslim town in Texas",
   "founder": "coorslightyear",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -41,8 +41,8 @@
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 2,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,7 +117,16 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Captain_Orin",
+    "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
+   },
+   {
+    "name": "jotjotj0t",
+    "uuid": "47f6623a-e74a-4bef-9d49-d206fff12578"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

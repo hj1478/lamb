@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Spudlandia",
   "uuid": "8d6d0e5b-8bf7-49d6-899e-a07425fb35df",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 52,
+   "numTownBlocks": 56,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9007.61515305661,
-    "y": 12.0625,
-    "z": 13321.187627735964,
-    "pitch": 34.6501,
-    "yaw": 177.60011
+    "x": 9090.232585626096,
+    "y": -19.0,
+    "z": 13316.195852533287,
+    "pitch": 11.250029,
+    "yaw": -89.85025
    },
    "homeBlock": [
-    562,
+    568,
     832
    ],
    "townBlocks": [
@@ -133,6 +133,14 @@
     ],
     [
      566,
+     830
+    ],
+    [
+     566,
+     831
+    ],
+    [
+     566,
      834
     ],
     [
@@ -142,6 +150,10 @@
     [
      566,
      835
+    ],
+    [
+     560,
+     834
     ],
     [
      566,
@@ -149,14 +161,10 @@
     ],
     [
      560,
-     834
-    ],
-    [
-     566,
      833
     ],
     [
-     560,
+     566,
      833
     ],
     [
@@ -230,6 +238,10 @@
     [
      562,
      834
+    ],
+    [
+     565,
+     830
     ],
     [
      565,
@@ -274,6 +286,10 @@
     [
      561,
      830
+    ],
+    [
+     568,
+     835
     ],
     [
      568,
@@ -362,6 +378,14 @@
    {
     "name": "Spudlandia Access Point",
     "uuid": "37c805f0-8fcd-40ce-8137-135762949415"
+   },
+   {
+    "name": "De Basilica De Tonknowledy",
+    "uuid": "f580765b-6d8d-428b-a8ca-c630042b4e95"
+   },
+   {
+    "name": "Basilica De Tonkowledy Balcony",
+    "uuid": "82d6f03a-bef4-4191-a02b-62b447cb48ff"
    }
   ],
   "ranks": {

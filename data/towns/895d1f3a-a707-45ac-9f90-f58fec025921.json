@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Uppsala",
   "uuid": "895d1f3a-a707-45ac-9f90-f58fec025921",
@@ -29,13 +29,13 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 15,
    "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     398,
+     -1037
+    ],
+    [
+     398,
+     -1035
+    ],
+    [
+     398,
+     -1036
+    ],
+    [
      399,
      -1036
     ],
@@ -128,12 +140,12 @@
      -1035
     ],
     [
-     401,
-     -1036
-    ],
-    [
      400,
      -1035
+    ],
+    [
+     401,
+     -1036
     ],
     [
      401,
@@ -201,20 +213,20 @@
     "uuid": "0027a268-9b41-444d-991d-854bbe225154"
    },
    {
-    "name": "Welcoming Apartment",
+    "name": "Welcoming Dwelling",
+    "uuid": "d5b9d11a-9f57-4c76-b061-4ba8e3469d0e"
+   },
+   {
+    "name": "cozy apartment",
     "uuid": "954a6b63-1ead-429d-8d8a-a1adefb68d3e"
    },
    {
-    "name": "Cheerful Tenement",
+    "name": "Cozy Apartment",
     "uuid": "56b87cfb-cac3-495a-8750-0ebc6b830e40"
    },
    {
-    "name": "Welcoming Property",
+    "name": "epstein_island",
     "uuid": "b8427547-98d5-4c3b-a2d9-d1313640fac9"
-   },
-   {
-    "name": "Welcoming Dwelling",
-    "uuid": "d5b9d11a-9f57-4c76-b061-4ba8e3469d0e"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Minas",
   "uuid": "8d4951c8-48fd-4ed9-86cf-856494909eb5",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ooows",
-   "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
+   "name": "Lu_flower23",
+   "uuid": "4c405ce5-b5bf-459b-8c08-a9eedbab96e0"
   },
   "nation": {
    "name": "Uruguay",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -20035.69999998808,
-    "y": 64.0,
-    "z": 20869.557971574846,
-    "pitch": 8.249972,
-    "yaw": -158.59912
+    "x": -20035.412944863176,
+    "y": 63.0,
+    "z": 20863.019258662345,
+    "pitch": 19.350004,
+    "yaw": 10.001251
    },
    "homeBlock": [
     -1253,
-    1304
+    1303
    ],
    "townBlocks": [
+    [
+     -1256,
+     1302
+    ],
+    [
+     -1256,
+     1301
+    ],
     [
      -1253,
      1304
@@ -104,28 +112,132 @@
      1302
     ],
     [
-     -1252,
-     1305
+     -1253,
+     1301
     ],
     [
-     -1252,
-     1303
+     -1253,
+     1306
     ],
     [
      -1253,
      1305
     ],
     [
+     -1256,
+     1300
+    ],
+    [
+     -1251,
+     1304
+    ],
+    [
+     -1254,
+     1299
+    ],
+    [
+     -1254,
+     1301
+    ],
+    [
+     -1257,
+     1301
+    ],
+    [
+     -1254,
+     1300
+    ],
+    [
+     -1254,
+     1303
+    ],
+    [
+     -1253,
+     1300
+    ],
+    [
+     -1254,
+     1302
+    ],
+    [
+     -1253,
+     1299
+    ],
+    [
+     -1254,
+     1305
+    ],
+    [
+     -1254,
+     1304
+    ],
+    [
+     -1255,
+     1303
+    ],
+    [
+     -1255,
+     1302
+    ],
+    [
+     -1255,
+     1301
+    ],
+    [
+     -1252,
+     1305
+    ],
+    [
+     -1255,
+     1300
+    ],
+    [
+     -1252,
+     1306
+    ],
+    [
+     -1252,
+     1303
+    ],
+    [
      -1252,
      1304
+    ],
+    [
+     -1252,
+     1301
+    ],
+    [
+     -1252,
+     1302
+    ],
+    [
+     -1252,
+     1299
+    ],
+    [
+     -1252,
+     1300
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "Lu_flower23",
+    "uuid": "4c405ce5-b5bf-459b-8c08-a9eedbab96e0"
+   },
+   {
     "name": "ooows",
     "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
+   },
+   {
+    "name": "ManoDasPlay",
+    "uuid": "e3178a54-1fb4-417d-b8fb-43f798649b4f"
+   },
+   {
+    "name": "MaulShadowLord",
+    "uuid": "70dedf09-3546-477d-94f3-1bacf2bd768f"
    }
   ],
   "trusted": [
@@ -141,7 +253,16 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Lu_flower23",
+     "uuid": "4c405ce5-b5bf-459b-8c08-a9eedbab96e0"
+    },
+    {
+     "name": "ooows",
+     "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

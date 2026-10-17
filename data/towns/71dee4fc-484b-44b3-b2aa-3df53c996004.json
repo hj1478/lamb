@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Pantheon",
   "uuid": "71dee4fc-484b-44b3-b2aa-3df53c996004",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,35 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12342.888419401294,
+    "x": 12357.185029743992,
     "y": 89.0,
-    "z": 11530.41669081288,
-    "pitch": 10.62907,
-    "yaw": -174.67474
+    "z": 11539.365613774135,
+    "pitch": 5.30683,
+    "yaw": -20.657928
    },
    "homeBlock": [
-    771,
-    720
+    772,
+    721
    ],
    "townBlocks": [
     [
+     774,
+     723
+    ],
+    [
      771,
+     721
+    ],
+    [
+     774,
+     722
+    ],
+    [
+     771,
+     722
+    ],
+    [
+     774,
      721
     ],
     [
@@ -102,6 +118,14 @@
     [
      771,
      720
+    ],
+    [
+     770,
+     722
+    ],
+    [
+     770,
+     721
     ],
     [
      772,
@@ -116,6 +140,10 @@
      721
     ],
     [
+     770,
+     720
+    ],
+    [
      772,
      721
     ],
@@ -126,6 +154,10 @@
     [
      773,
      719
+    ],
+    [
+     772,
+     723
     ],
     [
      772,
@@ -134,6 +166,10 @@
     [
      773,
      722
+    ],
+    [
+     773,
+     723
     ]
    ],
    "worlds": {}
@@ -142,13 +178,22 @@
    {
     "name": "THMS_L",
     "uuid": "8697ed1d-52d7-4243-9541-0f65dfb6230f"
+   },
+   {
+    "name": "UNIZ0U",
+    "uuid": "79ff4833-10d8-4c64-bbe3-d4e33bac83c7"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "UNIZ0U",
+     "uuid": "79ff4833-10d8-4c64-bbe3-d4e33bac83c7"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

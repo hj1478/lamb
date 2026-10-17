@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Nicaragua_Taiwan",
   "uuid": "75308331-5146-40d9-af69-84374b43ed2d",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 16.0,
    "forSalePrice": null
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -145,10 +145,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "2437441657",
-    "uuid": "49009f12-be00-4e1a-bf36-91f951591b39"
-   },
    {
     "name": "ROCTWN",
     "uuid": "7e756fc2-5663-43bb-9b8b-53939ffb3f25"

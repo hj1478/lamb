@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Serbia",
   "uuid": "81bf3822-1517-424f-9389-128064e6bfaa",
@@ -12,23 +12,23 @@
    "uuid": "f74fd6f2-2c0d-4965-a1a6-235c9a109777"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Yugoslavia",
+   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
   },
   "timestamps": {
    "registered": 1778755086369,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791873919532,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": true,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 99,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 8,
+   "nationBonus": 60,
+   "numResidents": 7,
    "numTrusted": 5,
    "numOutlaws": 3,
    "balance": 1.0,
@@ -514,10 +514,6 @@
    {
     "name": "GrayisBalls",
     "uuid": "f74fd6f2-2c0d-4965-a1a6-235c9a109777"
-   },
-   {
-    "name": "Elmodernista",
-    "uuid": "fe7cd09d-9c6c-4082-a4b0-b1e5331dc8d1"
    },
    {
     "name": "Rxqi_",

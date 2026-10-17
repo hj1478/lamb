@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Pormpuraaw",
   "uuid": "87493434-5017-423c-98ad-1b8390a489af",
@@ -25,24 +25,24 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 2,
-   "numOutlaws": 1,
-   "balance": 29.0,
+   "numOutlaws": 3,
+   "balance": 19.0,
    "forSalePrice": null
   },
   "perms": {
@@ -178,6 +178,14 @@
    {
     "name": "36hoi",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
+   },
+   {
+    "name": "7BrewLover",
+    "uuid": "a7926920-95f5-467f-aa8a-2f51c045d210"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    }
   ],
   "quarters": [],

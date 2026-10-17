@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Kunlun",
   "uuid": "7b434b16-87c9-4b0b-b921-889a5cc7e306",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 75,
+   "numTownBlocks": 76,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 280.0,
+   "numTrusted": 1,
+   "numOutlaws": 4,
+   "balance": 247.0,
    "forSalePrice": null
   },
   "perms": {
@@ -392,7 +392,16 @@
      -289
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -49,
+       430
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -408,7 +417,12 @@
     "uuid": "cca34cef-9ad2-4b54-ad47-d13566cd3019"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Poschin",
+    "uuid": "aae76970-918d-4632-9439-e9ab7140ea05"
+   }
+  ],
   "outlaws": [
    {
     "name": "36hoi",
@@ -421,6 +435,10 @@
    {
     "name": "whosgianna0w0",
     "uuid": "85384984-b78f-4e27-b675-9fa4adfc551c"
+   },
+   {
+    "name": "QuakeI",
+    "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
    }
   ],
   "quarters": [

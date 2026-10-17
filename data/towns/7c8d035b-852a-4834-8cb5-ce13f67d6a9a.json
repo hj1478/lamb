@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Bazaar",
   "uuid": "7c8d035b-852a-4834-8cb5-ce13f67d6a9a",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 156,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 13,
-   "numTrusted": 4,
-   "numOutlaws": 0,
+   "numResidents": 14,
+   "numTrusted": 5,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -580,14 +580,6 @@
   },
   "residents": [
    {
-    "name": "alperenjungle",
-    "uuid": "5286ce8a-928e-4318-aa3e-58d5505dea57"
-   },
-   {
-    "name": "Robin_rak",
-    "uuid": "54e760ea-e6c8-4731-ba35-1394b7164cc3"
-   },
-   {
     "name": "mavryz",
     "uuid": "27f0243b-ce7e-4c69-8441-a8792c204a06"
    },
@@ -630,6 +622,18 @@
    {
     "name": "Sigeon_ThePigeon",
     "uuid": "7e676e3b-e5aa-4d8f-86a0-657ced929159"
+   },
+   {
+    "name": "Hitze04",
+    "uuid": "1ac8eb4c-3a5c-4bc6-830e-40861456f55c"
+   },
+   {
+    "name": "Weed525",
+    "uuid": "9e8020c6-af58-4bb7-a8d9-1692799249ea"
+   },
+   {
+    "name": "Toroslar3380",
+    "uuid": "f44a82d5-c841-46da-a846-aba8028a8966"
    }
   ],
   "trusted": [
@@ -646,11 +650,20 @@
     "uuid": "1e45656c-8dec-4681-bf90-ef2d224c68f1"
    },
    {
+    "name": "Weed525",
+    "uuid": "9e8020c6-af58-4bb7-a8d9-1692799249ea"
+   },
+   {
     "name": "Aracnedix",
     "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "0Miura",
+    "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
+   }
+  ],
   "quarters": [
    {
     "name": "Upbeat Residence",
@@ -663,12 +676,21 @@
    {
     "name": "Welcoming Tenement",
     "uuid": "1b7582df-5452-48ef-9dc8-f108a1bbfd12"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "5b76e727-d3f2-4b47-895e-aaceb5f8d21e"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "Weed525",
+     "uuid": "9e8020c6-af58-4bb7-a8d9-1692799249ea"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

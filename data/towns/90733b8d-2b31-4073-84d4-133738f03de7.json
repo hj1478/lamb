@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Crna_Gora",
   "uuid": "90733b8d-2b31-4073-84d4-133738f03de7",
@@ -12,12 +12,12 @@
    "uuid": "79adb2e5-8066-4c62-80b9-92ef2909c4e2"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Yugoslavia",
+   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
   },
   "timestamps": {
    "registered": 1792095896120,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792233112140,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -98,6 +98,14 @@
     [
      432,
      -511
+    ],
+    [
+     431,
+     -511
+    ],
+    [
+     431,
+     -510
     ]
    ],
    "worlds": {}

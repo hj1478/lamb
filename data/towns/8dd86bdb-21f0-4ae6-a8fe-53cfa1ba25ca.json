@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Valdouris",
   "uuid": "8dd86bdb-21f0-4ae6-a8fe-53cfa1ba25ca",
   "board": "Cidade da Sabedoria icone e sede do governo do Paraguai",
   "founder": "Moddey2013",
   "wiki": null,
-  "discord": "https://discord.gg/eRCJeHFcQ",
+  "discord": "https://discord.gg/Wq4amzQy3",
   "mayor": {
    "name": "Moddey2013",
    "uuid": "49b5cb10-3a34-49fc-b5b5-866ba989fc8f"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 17.0,
+   "numResidents": 7,
+   "numTrusted": 1,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21928.30000001192,
+    "x": -21928.542732290403,
     "y": 69.0,
-    "z": 15271.627857414507,
-    "pitch": 51.450027,
-    "yaw": -177.05264
+    "z": 15270.520883777648,
+    "pitch": 3.9000487,
+    "yaw": -178.69446
    },
    "homeBlock": [
     -1371,
@@ -164,6 +164,14 @@
      952
     ],
     [
+     -1374,
+     954
+    ],
+    [
+     -1374,
+     953
+    ],
+    [
      -1371,
      957
     ],
@@ -222,9 +230,38 @@
    {
     "name": "Moddey2013",
     "uuid": "49b5cb10-3a34-49fc-b5b5-866ba989fc8f"
+   },
+   {
+    "name": "MsMeohMay",
+    "uuid": "c2be919e-5923-440f-9bdb-2e28f29c8488"
+   },
+   {
+    "name": "Knite2016",
+    "uuid": "c97553be-4e2b-4f35-ad32-0575c8ffc522"
+   },
+   {
+    "name": "Thebrosrog1",
+    "uuid": "e035b074-1713-4cba-9507-f6edfef212ec"
+   },
+   {
+    "name": "aurzic",
+    "uuid": "86a77924-1465-456f-8ea5-126a140549c9"
+   },
+   {
+    "name": "MesterAmir",
+    "uuid": "850e7c8c-f4b9-45dc-a3cd-71d37bf27faa"
+   },
+   {
+    "name": "x2neph",
+    "uuid": "d4c4f036-4008-458b-831a-bb1565f65e14"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Meshly",
+    "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
+   }
+  ],
   "outlaws": [
    {
     "name": "0_ggmaster_0",
@@ -233,17 +270,27 @@
    {
     "name": "dedodegorila30cm",
     "uuid": "9f5ad137-7858-4525-aa08-03c265e5e8a1"
-   },
-   {
-    "name": "PeytonNaomi",
-    "uuid": "fecd1185-bb8f-45c9-a06a-d74a30befb8b"
    }
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Moddey2013",
+     "uuid": "49b5cb10-3a34-49fc-b5b5-866ba989fc8f"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "Moddey2013",
+     "uuid": "49b5cb10-3a34-49fc-b5b5-866ba989fc8f"
+    },
+    {
+     "name": "MsMeohMay",
+     "uuid": "c2be919e-5923-440f-9bdb-2e28f29c8488"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

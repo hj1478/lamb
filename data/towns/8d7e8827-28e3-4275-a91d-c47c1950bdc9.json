@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "UQAC",
   "uuid": "8d7e8827-28e3-4275-a91d-c47c1950bdc9",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 52,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 81.0,
@@ -308,6 +308,10 @@
     "uuid": "b4ba577a-2ddf-49c7-8070-177009c8938a"
    },
    {
+    "name": "NatheGreat",
+    "uuid": "a4583066-8b9d-42aa-8276-8d1ccd95ae03"
+   },
+   {
     "name": "Djonat50",
     "uuid": "f0a0a1e7-755e-4350-8c98-9f7c4e8b9e1f"
    }
@@ -318,6 +322,10 @@
   "ranks": {
    "Councillor": [
     {
+     "name": "NatheGreat",
+     "uuid": "a4583066-8b9d-42aa-8276-8d1ccd95ae03"
+    },
+    {
      "name": "Djonat50",
      "uuid": "f0a0a1e7-755e-4350-8c98-9f7c4e8b9e1f"
     }
@@ -325,7 +333,12 @@
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "NatheGreat",
+     "uuid": "a4583066-8b9d-42aa-8276-8d1ccd95ae03"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

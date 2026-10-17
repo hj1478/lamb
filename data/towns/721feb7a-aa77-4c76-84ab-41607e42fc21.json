@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Lappeenranta",
   "uuid": "721feb7a-aa77-4c76-84ab-41607e42fc21",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 205.0,
    "forSalePrice": null
@@ -388,7 +388,12 @@
     "uuid": "47bc7a02-a381-4b89-97ea-eb6d9a31f4e0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "VikkeVintero1931",
+    "uuid": "e94a7f57-645d-4fd4-aae7-27853d7a227f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Lafayette",
   "uuid": "7af93c0e-5422-4c64-9d28-e14e58aee6e7",
@@ -12,12 +12,12 @@
    "uuid": "c731a83b-1150-4ee1-b07d-d18bb272e077"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Gulf_Union",
+   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
    "registered": 1791762149749,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791855957443,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -93,7 +93,23 @@
    "townBlocks": [
     [
      -2062,
+     -208
+    ],
+    [
+     -2062,
      -207
+    ],
+    [
+     -2063,
+     -205
+    ],
+    [
+     -2063,
+     -206
+    ],
+    [
+     -2064,
+     -206
     ],
     [
      -2063,
@@ -106,6 +122,18 @@
     [
      -2063,
      -208
+    ],
+    [
+     -2064,
+     -208
+    ],
+    [
+     -2062,
+     -206
+    ],
+    [
+     -2065,
+     -207
     ]
    ],
    "worlds": {}

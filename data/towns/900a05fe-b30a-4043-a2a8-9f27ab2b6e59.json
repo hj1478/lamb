@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Moxoene",
   "uuid": "900a05fe-b30a-4043-a2a8-9f27ab2b6e59",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
-   "maxTownBlocks": 140,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 5,
-   "numTrusted": 8,
-   "numOutlaws": 0,
-   "balance": 25.0,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -200,6 +200,10 @@
      -395
     ],
     [
+     929,
+     -400
+    ],
+    [
      928,
      -396
     ],
@@ -212,12 +216,12 @@
      -398
     ],
     [
-     929,
-     -397
-    ],
-    [
      928,
      -394
+    ],
+    [
+     929,
+     -397
     ],
     [
      928,
@@ -282,31 +286,20 @@
     "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
    },
    {
-    "name": "Yerevan_773",
-    "uuid": "7c66e9de-3184-44f6-a006-6e39b21201d0"
-   },
-   {
     "name": "ungenerated",
     "uuid": "50dc736c-4d9f-49fb-9184-960519220f9d"
    },
    {
-    "name": "0_ggmaster_0",
-    "uuid": "e67a17c8-8afa-4956-b3d7-2e1f90f89fd5"
-   },
-   {
     "name": "Illmenia",
     "uuid": "f5b1ddd5-afdf-4e86-b7b3-d8f0b870e8d3"
-   },
-   {
-    "name": "Tldigi",
-    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
-   },
-   {
-    "name": "sanya_solyarka",
-    "uuid": "74008241-19c4-4b51-be84-3dd2270778db"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MoonkeyEcho",
+    "uuid": "7a648029-731b-4976-8ebb-97d70987d890"
+   }
+  ],
   "quarters": [
    {
     "name": "apartment 2",

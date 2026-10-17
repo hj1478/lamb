@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Frogs",
   "uuid": "76d096b0-c373-4b23-b39b-79053898d868",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
+   "nationBonus": 50,
+   "numResidents": 1,
    "numTrusted": 8,
    "numOutlaws": 7,
-   "balance": 75.0,
+   "balance": 40.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -15968.390243910502,
+    "x": -15965.364273409063,
     "y": 46.0,
-    "z": -28093.821207188033,
-    "pitch": -7.141076,
-    "yaw": -0.85491127
+    "z": -28091.852368934058,
+    "pitch": 0.14056009,
+    "yaw": -177.33603
    },
    "homeBlock": [
-    -999,
+    -998,
     -1756
    ],
    "townBlocks": [
@@ -354,10 +354,6 @@
    {
     "name": "Uberstrase",
     "uuid": "fff1c1e2-842c-44bf-981d-32d9ca9bff5e"
-   },
-   {
-    "name": "nyahlist",
-    "uuid": "caa2a69d-c7c8-4b8b-bef9-3ba5d63e3dc3"
    }
   ],
   "trusted": [

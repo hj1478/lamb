@@ -1,0 +1,144 @@
+{
+ "fetched_at": "2026-10-17T10:54:14Z",
+ "data": {
+  "name": "Makurdi",
+  "uuid": "9776d29c-34e1-4a0e-bc62-b79a43d44297",
+  "board": "/town set board [msg]",
+  "founder": "Kekinator",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Kekinator",
+   "uuid": "681982af-530f-401f-bae1-1ef4e422196d"
+  },
+  "nation": {
+   "name": "Aba",
+   "uuid": "138a2f97-8a4e-4c33-84fb-b101161ef99f"
+  },
+  "timestamps": {
+   "registered": 1792199402067,
+   "joinedNationAt": 1792200150162,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 96,
+   "bonusBlocks": 0,
+   "nationBonus": 60,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 1.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": true,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 3622.545702184179,
+    "y": 54.0,
+    "z": 5038.745307136533,
+    "pitch": 28.145384,
+    "yaw": 137.69327
+   },
+   "homeBlock": [
+    226,
+    314
+   ],
+   "townBlocks": [
+    [
+     226,
+     315
+    ],
+    [
+     226,
+     314
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Kekinator",
+    "uuid": "681982af-530f-401f-bae1-1ef4e422196d"
+   },
+   {
+    "name": "MartinArthurFick",
+    "uuid": "acd72126-6917-419f-a9c3-4877c800c7bb"
+   },
+   {
+    "name": "Lebaon",
+    "uuid": "f22962d4-c996-4f9f-9a03-d685f5b425e8"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "MartinArthurFick",
+     "uuid": "acd72126-6917-419f-a9c3-4877c800c7bb"
+    },
+    {
+     "name": "Lebaon",
+     "uuid": "f22962d4-c996-4f9f-9a03-d685f5b425e8"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

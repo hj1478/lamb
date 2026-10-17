@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Keta",
   "uuid": "7c424507-7d50-4a9c-9bac-cd6ade729565",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 152,
-   "maxTownBlocks": 164,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 7,
+   "nationBonus": 60,
+   "numResidents": 6,
    "numTrusted": 9,
    "numOutlaws": 6,
    "balance": 0.0,
@@ -716,20 +716,16 @@
     "uuid": "5c380da7-7f22-4109-bc4c-fc5970cdca50"
    },
    {
-    "name": "bartek151",
-    "uuid": "5d391a77-8efe-4f50-95ab-7789da52c5b2"
-   },
-   {
-    "name": "Matugaa_",
-    "uuid": "59dd5025-b94b-4dd4-abcd-868f24e9a9bc"
-   },
-   {
     "name": "BebeBrunko",
     "uuid": "0ed0ae09-402b-46f5-b3bb-104dc6b8b8d9"
    },
    {
     "name": "cheesey0000",
     "uuid": "7fdbc7ea-5d1d-4d6f-b567-4ece4acc8615"
+   },
+   {
+    "name": "bartek151",
+    "uuid": "5d391a77-8efe-4f50-95ab-7789da52c5b2"
    }
   ],
   "trusted": [
@@ -811,10 +807,6 @@
     {
      "name": "Ethanol113",
      "uuid": "5c380da7-7f22-4109-bc4c-fc5970cdca50"
-    },
-    {
-     "name": "bartek151",
-     "uuid": "5d391a77-8efe-4f50-95ab-7789da52c5b2"
     }
    ],
    "Builder": [],

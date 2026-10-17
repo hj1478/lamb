@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Curuvacoco",
   "uuid": "853a896a-0cf3-420f-b800-ae6725494100",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "maximhz",
-   "uuid": "48cc345f-f002-4f17-a48b-163d204e5539"
+   "name": "NPC107",
+   "uuid": "ad249a3e-f619-2030-9f33-479580982ba5"
   },
   "nation": {
-   "name": "Costa_Rica",
-   "uuid": "956f81af-3c83-4ebb-bb63-96f8d2e72889"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791951615520,
-   "joinedNationAt": 1791951667214,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792009156236
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "maximhz",
-    "uuid": "48cc345f-f002-4f17-a48b-163d204e5539"
+    "name": "NPC107",
+    "uuid": "ad249a3e-f619-2030-9f33-479580982ba5"
    }
   ],
   "trusted": [],

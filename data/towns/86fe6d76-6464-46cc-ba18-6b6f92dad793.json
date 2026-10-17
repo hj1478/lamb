@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Nizhny_Novgorod",
   "uuid": "86fe6d76-6464-46cc-ba18-6b6f92dad793",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 61,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 29,
-   "balance": 269.0,
+   "balance": 328.0,
    "forSalePrice": null
   },
   "perms": {
@@ -350,6 +350,14 @@
    {
     "name": "Stxrshade",
     "uuid": "4fc7ccff-197b-4c04-a5d1-b3a073b76c62"
+   },
+   {
+    "name": "Arctic5411",
+    "uuid": "dd4ca6a2-5901-4dfa-bb24-57c627cd7ede"
+   },
+   {
+    "name": "rhymes_w_garden",
+    "uuid": "6ff50625-399b-467f-9164-d61056cf38d8"
    }
   ],
   "trusted": [
@@ -404,10 +412,6 @@
     "uuid": "215aca8a-9727-4e4c-89d2-c71f088dc7ea"
    },
    {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   },
-   {
     "name": "MalekTheGoat1",
     "uuid": "069dec3a-9f16-4f50-9b37-d40197e438e0"
    },
@@ -420,7 +424,7 @@
     "uuid": "00bc5f30-28a7-44e3-af79-674d47d16d4d"
    },
    {
-    "name": "figtrees12",
+    "name": "jamari_aymara23",
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
    },
    {
@@ -440,7 +444,7 @@
     "uuid": "a7926920-95f5-467f-aa8a-2f51c045d210"
    },
    {
-    "name": "AnastasiaONIR",
+    "name": "CrowKol",
     "uuid": "7c142e84-aade-4395-a9d0-5c9c27e27280"
    },
    {
@@ -474,6 +478,10 @@
    {
     "name": "poszan",
     "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+   },
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
    }
   ],
   "quarters": [
@@ -542,10 +550,6 @@
     "uuid": "01a3c7a5-3889-4dfd-aee9-8a9c4cd382e9"
    },
    {
-    "name": "Fishing Pier",
-    "uuid": "4c5589dd-361e-4092-8365-368ea5f041ba"
-   },
-   {
     "name": "Docks",
     "uuid": "f1768e5d-837a-4d02-9d9c-20bb56135597"
    },
@@ -586,14 +590,6 @@
     "uuid": "a1ef15f3-b3a8-487c-bdb2-bc79ddf9610a"
    },
    {
-    "name": "Apartment #00001",
-    "uuid": "b4e7f9b0-f12c-480f-94e7-d59dc3840f85"
-   },
-   {
-    "name": "Apartment #00002",
-    "uuid": "d5aa40c8-c816-437b-b1f8-8e996eadfadd"
-   },
-   {
     "name": "Apartment #00005",
     "uuid": "a4375f74-e4b1-43f2-900b-65c145fdd204"
    },
@@ -614,16 +610,8 @@
     "uuid": "67cd6df1-7d39-4063-9b81-9f646efa7e55"
    },
    {
-    "name": "Wheat Farm",
-    "uuid": "1ecea6c0-599d-4413-8ead-dbaad161e5b2"
-   },
-   {
     "name": "Carrot Farm",
     "uuid": "5f4ee146-d33f-4258-af80-2c3fedd1e8a0"
-   },
-   {
-    "name": "Potatoe Farm",
-    "uuid": "750a3c72-e32e-4c8a-b41f-7f653c407d88"
    },
    {
     "name": "Lovely Quarter",
@@ -642,12 +630,52 @@
     "uuid": "f01b1f2b-a4d1-4a27-bea4-838dcba8c9c9"
    },
    {
-    "name": "Public Mine Entrance",
-    "uuid": "4f768627-9c8f-4a50-9717-ddc8eda66d87"
+    "name": "Apartment #00001",
+    "uuid": "b4e7f9b0-f12c-480f-94e7-d59dc3840f85"
+   },
+   {
+    "name": "Resident Bulk Access",
+    "uuid": "55ed7e7e-43b5-4a08-84f3-b2b1f2d2761c"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "a48cc2ff-4409-4397-98da-e36178f9bc94"
+   },
+   {
+    "name": "Apartment #00002",
+    "uuid": "d5aa40c8-c816-437b-b1f8-8e996eadfadd"
+   },
+   {
+    "name": "Enraging Dwelling",
+    "uuid": "d0a704b4-db64-4354-a376-eb90a80d5acb"
+   },
+   {
+    "name": "Auto Sorter Farm Main",
+    "uuid": "a4d22d1b-ac13-42c7-8004-da8f658808eb"
    },
    {
     "name": "Auto Sorter",
     "uuid": "a8e5e8cc-5a0f-48c5-b945-31bff081e1d9"
+   },
+   {
+    "name": "Public Mine Entrance",
+    "uuid": "4f768627-9c8f-4a50-9717-ddc8eda66d87"
+   },
+   {
+    "name": "Communal TV",
+    "uuid": "83c73eeb-36db-49cd-ab60-56c7e6e8bc2c"
+   },
+   {
+    "name": "Fishing Pier",
+    "uuid": "4c5589dd-361e-4092-8365-368ea5f041ba"
+   },
+   {
+    "name": "Vault A",
+    "uuid": "c9fa0141-836d-477b-aeaa-e28e30deff4b"
+   },
+   {
+    "name": "clay farm",
+    "uuid": "55b2731a-74d5-405d-bb8a-dddd1248d531"
    }
   ],
   "ranks": {

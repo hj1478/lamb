@@ -1,0 +1,128 @@
+{
+ "fetched_at": "2026-10-17T10:54:14Z",
+ "data": {
+  "name": "Bedrock_City",
+  "uuid": "4cfb5682-9a86-40ec-b980-98d52ceb81dc",
+  "board": "/town set board [msg]",
+  "founder": "Applebees2013",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Applebees2013",
+   "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+  },
+  "nation": {
+   "name": "FE",
+   "uuid": "939ce868-d47c-444a-a467-4ace4a978814"
+  },
+  "timestamps": {
+   "registered": 1792164339377,
+   "joinedNationAt": 1792164348377,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 72,
+   "bonusBlocks": 0,
+   "nationBonus": 60,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 55091.49506815437,
+    "y": 74.0,
+    "z": -17780.408021318566,
+    "pitch": 36.749935,
+    "yaw": 138.13956
+   },
+   "homeBlock": [
+    3443,
+    -1112
+   ],
+   "townBlocks": [
+    [
+     3443,
+     -1112
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Applebees2013",
+    "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "G3mnistic",
+    "uuid": "c574c62c-e9c5-4b01-b958-5644d85e92fb"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

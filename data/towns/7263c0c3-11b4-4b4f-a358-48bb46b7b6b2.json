@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "St_Peters_Harbor",
   "uuid": "7263c0c3-11b4-4b4f-a358-48bb46b7b6b2",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DIRECT_JELLY",
-   "uuid": "6a85d381-6085-42b3-9d30-9af8e607eb46"
+   "name": "123SMELLMYFEET",
+   "uuid": "36f568cb-e45c-46eb-9f66-efbb88ea8740"
   },
   "nation": {
    "name": "Alaska",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -40,10 +40,10 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 3,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 7,
    "balance": 0.0,
-   "forSalePrice": 128.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -268,7 +268,12 @@
     "uuid": "36f568cb-e45c-46eb-9f66-efbb88ea8740"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "artisansGrimoire",
+    "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
+   }
+  ],
   "outlaws": [
    {
     "name": "FindItCooper",
@@ -399,32 +404,12 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "HUBYBUBBY",
-     "uuid": "d809d53c-668a-4fa5-9195-8a0a080885f2"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "HUBYBUBBY",
-     "uuid": "d809d53c-668a-4fa5-9195-8a0a080885f2"
-    }
-   ],
-   "Police": [
-    {
-     "name": "HUBYBUBBY",
-     "uuid": "d809d53c-668a-4fa5-9195-8a0a080885f2"
-    }
-   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [
-    {
-     "name": "HUBYBUBBY",
-     "uuid": "d809d53c-668a-4fa5-9195-8a0a080885f2"
-    }
-   ],
+   "Realtor": [],
    "Settler": []
   },
   "warps": [],

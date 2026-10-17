@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Azure_Docks",
   "uuid": "904f8407-69d6-422a-b1c5-4409f197900f",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 80.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,32 +92,84 @@
    ],
    "townBlocks": [
     [
-     683,
-     686
+     679,
+     684
     ],
     [
      684,
      684
     ],
     [
-     683,
+     684,
      685
     ],
     [
-     684,
+     680,
      685
+    ],
+    [
+     679,
+     686
     ],
     [
      684,
      686
     ],
     [
-     683,
-     687
+     680,
+     684
+    ],
+    [
+     679,
+     685
     ],
     [
      684,
      687
+    ],
+    [
+     680,
+     687
+    ],
+    [
+     680,
+     686
+    ],
+    [
+     683,
+     686
+    ],
+    [
+     683,
+     685
+    ],
+    [
+     683,
+     687
+    ],
+    [
+     683,
+     684
+    ],
+    [
+     681,
+     685
+    ],
+    [
+     681,
+     684
+    ],
+    [
+     681,
+     687
+    ],
+    [
+     681,
+     686
+    ],
+    [
+     682,
+     686
     ],
     [
      682,
@@ -128,12 +180,12 @@
      685
     ],
     [
-     685,
-     686
+     682,
+     684
     ],
     [
-     683,
-     684
+     685,
+     686
     ]
    ],
    "worlds": {}
@@ -142,6 +194,10 @@
    {
     "name": "Freestyler2208",
     "uuid": "bf871ded-c2ca-4b50-a854-227064e4bc2d"
+   },
+   {
+    "name": "Alexkup",
+    "uuid": "ab273687-1611-48b3-ab31-76f2aaf986cc"
    }
   ],
   "trusted": [
@@ -158,7 +214,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Alexkup",
+     "uuid": "ab273687-1611-48b3-ab31-76f2aaf986cc"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

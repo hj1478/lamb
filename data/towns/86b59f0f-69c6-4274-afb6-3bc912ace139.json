@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Brookfield",
   "uuid": "86b59f0f-69c6-4274-afb6-3bc912ace139",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 7,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 0.0,
+   "balance": 49.0,
    "forSalePrice": null
   },
   "perms": {
@@ -242,6 +242,10 @@
   ],
   "trusted": [
    {
+    "name": "Rip_man321",
+    "uuid": "8c127e39-8882-4dce-bd72-5e0c79cf1773"
+   },
+   {
     "name": "SaintStrxy",
     "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
    }
@@ -299,7 +303,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "El_Supreme6",
+     "uuid": "1757d1a1-7bc8-4bc9-b73d-99f24d3c5ba1"
+    }
+   ],
    "Builder": [
     {
      "name": "FordGeeTee",
@@ -308,7 +317,12 @@
    ],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "FordGeeTee",
+     "uuid": "7f5af714-ba4b-4075-a7ae-96a7fe15925d"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

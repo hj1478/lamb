@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Serra_Da_Estrela",
   "uuid": "7298c4d3-7da7-40b9-9960-9a96191f4d60",
-  "board": "/town set board [msg]",
+  "board": "Serra da Estrela THE BETTER PLACE TO LIVE",
   "founder": "ADVOGADOGAMER",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 6.0,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,20 +96,36 @@
      -449
     ],
     [
-     -169,
-     -449
+     -166,
+     -451
+    ],
+    [
+     -165,
+     -451
     ],
     [
      -166,
      -449
     ],
     [
-     -169,
+     -165,
      -450
     ],
     [
      -166,
      -450
+    ],
+    [
+     -165,
+     -449
+    ],
+    [
+     -168,
+     -452
+    ],
+    [
+     -168,
+     -451
     ],
     [
      -168,
@@ -126,6 +142,26 @@
     [
      -167,
      -449
+    ],
+    [
+     -169,
+     -451
+    ],
+    [
+     -169,
+     -452
+    ],
+    [
+     -167,
+     -452
+    ],
+    [
+     -169,
+     -449
+    ],
+    [
+     -169,
+     -450
     ]
    ],
    "worlds": {}
@@ -134,15 +170,34 @@
    {
     "name": "ADVOGADOGAMER",
     "uuid": "acfc52cd-4a66-4ebc-84c0-89fb9ba31ed4"
+   },
+   {
+    "name": "xxr_Fabio",
+    "uuid": "4e392829-b3ce-490b-8df8-c4b9c4eeca23"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "underrrr",
+    "uuid": "f81a5599-0947-42d9-b2b2-7f051b780208"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "xxr_Fabio",
+     "uuid": "4e392829-b3ce-490b-8df8-c4b9c4eeca23"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

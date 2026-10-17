@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Briansk",
   "uuid": "80daca20-9177-4640-b9c3-936d3823c859",
@@ -12,12 +12,12 @@
    "uuid": "26e66d70-4d95-4576-89e8-5b8340791dc3"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
   },
   "timestamps": {
    "registered": 1789361274992,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791734242639,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 56.0,
+   "balance": 71.0,
    "forSalePrice": null
   },
   "perms": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Santa_Pacifica",
   "uuid": "8b24cad4-72d8-4e76-97b5-b99e614cebad",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 2.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28122.30000001192,
+    "x": -28118.229079271783,
     "y": 64.0,
-    "z": -189.54237392951765,
-    "pitch": 29.699955,
-    "yaw": 54.843906
+    "z": -197.16481991468203,
+    "pitch": 16.799965,
+    "yaw": 5.199341
    },
    "homeBlock": [
     -1758,
-    -12
+    -13
    ],
    "townBlocks": [
     [
@@ -109,6 +109,10 @@
     ],
     [
      -1758,
+     -11
+    ],
+    [
+     -1758,
      -12
     ],
     [
@@ -122,6 +126,10 @@
    {
     "name": "LordDuckMC",
     "uuid": "d38f59e4-8396-4e6f-8581-4e38a546a9c1"
+   },
+   {
+    "name": "Doc_blunt",
+    "uuid": "6a63e3c7-4e85-4d4f-9f8c-818d1f993ee9"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Thanks_Nostra",
   "uuid": "8f501f02-7da9-461e-ab01-672c9d507cbb",
@@ -12,12 +12,12 @@
    "uuid": "7c8ecea7-3d45-4819-97c9-b7639ab7087b"
   },
   "nation": {
-   "name": "PRC",
-   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
+   "name": "Tang",
+   "uuid": "dbd533cf-1035-42c0-91f4-e2cb71bbf575"
   },
   "timestamps": {
    "registered": 1778115250031,
-   "joinedNationAt": 1791248926140,
+   "joinedNationAt": 1791776373447,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 0,
-   "numOutlaws": 19,
-   "balance": 121.0,
+   "numOutlaws": 20,
+   "balance": 254.0,
    "forSalePrice": 999999999.0
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43144.80931303672,
+    "x": 43145.276811691816,
     "y": -38.0,
-    "z": -2178.4425109161953,
-    "pitch": 5.8499875,
-    "yaw": -3.7636719
+    "z": -2178.3575202837437,
+    "pitch": 3.3000047,
+    "yaw": -4.6250305
    },
    "homeBlock": [
     2696,
@@ -548,8 +548,16 @@
     "uuid": "7c8ecea7-3d45-4819-97c9-b7639ab7087b"
    },
    {
+    "name": "zichenzeng",
+    "uuid": "137eab35-0710-4146-a94b-baad09e0c69c"
+   },
+   {
     "name": "DrAvery13",
     "uuid": "7736aebd-4283-4503-824c-99298f5c0687"
+   },
+   {
+    "name": "ComboKiwi",
+    "uuid": "e597e0e8-d9ce-4095-bfc7-5cf4679098ab"
    }
   ],
   "trusted": [],
@@ -629,6 +637,10 @@
    {
     "name": "Bob92876",
     "uuid": "2ed51470-4579-4a4d-8ca8-ae5ed0a0e800"
+   },
+   {
+    "name": "Saltiestspinach",
+    "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
    }
   ],
   "quarters": [
@@ -647,7 +659,12 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "zichenzeng",
+     "uuid": "137eab35-0710-4146-a94b-baad09e0c69c"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

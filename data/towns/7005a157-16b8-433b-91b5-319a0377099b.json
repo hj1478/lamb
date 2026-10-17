@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Coyote",
   "uuid": "7005a157-16b8-433b-91b5-319a0377099b",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 65,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 66,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 30,
    "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 62.0,
+   "balance": 46.0,
    "forSalePrice": null
   },
   "perms": {
@@ -110,6 +110,10 @@
     [
      -2508,
      -96
+    ],
+    [
+     -2508,
+     -97
     ],
     [
      -2514,

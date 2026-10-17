@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Mangystau",
   "uuid": "8b569fe0-d566-43fb-83b8-8bafba916218",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Pinkbear327",
-   "uuid": "fa392cfd-107b-42ce-a850-c4ec6a6fe53b"
+   "name": "NPC56",
+   "uuid": "60028e50-cdf5-207b-b7df-c213ff1a5746"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1780607174096,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792058401977
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,8 +128,8 @@
   },
   "residents": [
    {
-    "name": "Pinkbear327",
-    "uuid": "fa392cfd-107b-42ce-a850-c4ec6a6fe53b"
+    "name": "NPC56",
+    "uuid": "60028e50-cdf5-207b-b7df-c213ff1a5746"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Poznan",
   "uuid": "8ffd79e2-9c30-47a2-86c1-a8bc9504aca2",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "33grey",
+   "name": "nixps",
    "uuid": "f499a3fc-f7dc-4af1-b049-7c27acf3b453"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Poland",
+   "uuid": "a7d37910-0663-4399-a2b5-cb9caf032652"
   },
   "timestamps": {
    "registered": 1777129743894,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792107170342,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 60,
+   "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 2.0,
@@ -156,12 +156,16 @@
   },
   "residents": [
    {
-    "name": "33grey",
+    "name": "nixps",
     "uuid": "f499a3fc-f7dc-4af1-b049-7c27acf3b453"
    },
    {
     "name": "jeruusaleem",
     "uuid": "1847fab4-acbb-4f8e-9a1f-0a900b507fba"
+   },
+   {
+    "name": "Grubgonzola",
+    "uuid": "8a0a7421-24e5-43da-9ec2-7d9bc0d5867c"
    }
   ],
   "trusted": [

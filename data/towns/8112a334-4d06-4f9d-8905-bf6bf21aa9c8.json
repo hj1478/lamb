@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Mantiqueira",
   "uuid": "8112a334-4d06-4f9d-8905-bf6bf21aa9c8",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1006,
+     1009
+    ],
+    [
+     -1006,
      1011
     ],
     [
@@ -122,13 +126,22 @@
    {
     "name": "Kallixtus_JP",
     "uuid": "b2a6a376-5ea4-4df9-8c13-7097b68ad951"
+   },
+   {
+    "name": "op_Gaby_124",
+    "uuid": "3f171758-18a3-46ba-af92-e72cb9a12e9a"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "op_Gaby_124",
+     "uuid": "3f171758-18a3-46ba-af92-e72cb9a12e9a"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Adama",
   "uuid": "7a932161-5d44-4d44-9e6d-f461670aac5b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 33,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 9,
    "numOutlaws": 4,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -230,6 +230,10 @@
    {
     "name": "Minecrafters232",
     "uuid": "372c3470-f97b-4d72-a985-352f83119596"
+   },
+   {
+    "name": "sls12III",
+    "uuid": "0435d335-2de1-482f-8899-dd63a1227120"
    }
   ],
   "trusted": [

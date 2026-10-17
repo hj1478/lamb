@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Casino_Regno",
   "uuid": "86a3d03d-3d1b-43a1-8042-941e8562115b",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "nationBonus": 30,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 14,
    "balance": 3.0,
    "forSalePrice": null
@@ -168,11 +168,19 @@
   },
   "residents": [
    {
+    "name": "Oto456",
+    "uuid": "fbfc33d9-c13e-4567-a1e6-4abff06d81a9"
+   },
+   {
     "name": "P_A_N_D_A_0",
     "uuid": "fc4380d0-4e0c-4ad4-ad39-602ee6983dff"
    }
   ],
   "trusted": [
+   {
+    "name": "Oto456",
+    "uuid": "fbfc33d9-c13e-4567-a1e6-4abff06d81a9"
+   },
    {
     "name": "P_A_N_D_A_0",
     "uuid": "fc4380d0-4e0c-4ad4-ad39-602ee6983dff"
@@ -238,7 +246,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Oto456",
+     "uuid": "fbfc33d9-c13e-4567-a1e6-4abff06d81a9"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

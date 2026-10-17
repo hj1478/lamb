@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Skien",
   "uuid": "7127f869-de7b-4d02-9459-7651319d9e1d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 138,
-   "maxTownBlocks": 132,
+   "numTownBlocks": 139,
+   "maxTownBlocks": 122,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 6,
    "numTrusted": 4,
-   "numOutlaws": 7,
-   "balance": 30.0,
+   "numOutlaws": 6,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -532,6 +532,10 @@
      -1008
     ],
     [
+     208,
+     -1013
+    ],
+    [
      209,
      -1011
     ],
@@ -705,16 +709,12 @@
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
    },
    {
-    "name": "BIG_ALL_IN",
-    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
-   },
-   {
     "name": "TobiasDuVed",
     "uuid": "d2520abb-fde4-48b3-b630-4c53f11a6bfc"
    },
    {
-    "name": "PeytonNaomi",
-    "uuid": "fecd1185-bb8f-45c9-a06a-d74a30befb8b"
+    "name": "__naagy",
+    "uuid": "56ecaf42-50c3-4bb2-b014-2be7eb81ec63"
    },
    {
     "name": "0xMilord",
@@ -822,60 +822,22 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    },
-    {
      "name": "c7nnamon",
      "uuid": "020ba2fc-bc86-4e15-8249-3034223e9022"
     }
    ],
    "Builder": [
     {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    },
-    {
      "name": "LettiLetti",
      "uuid": "a1be1f4c-c923-49c6-9624-1493d91def03"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    }
-   ],
-   "Police": [
-    {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Smafolk",
-     "uuid": "81249b12-fa4c-49df-938f-f28573bc45a6"
-    }
-   ]
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

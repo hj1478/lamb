@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-10-17T10:54:14Z",
+ "data": {
+  "name": "The_Walled_City",
+  "uuid": "5ca065a4-d5e2-49bd-bfc8-dc0501a16906",
+  "board": "/town set board [msg]",
+  "founder": "SilverSword2000",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "SilverSword2000",
+   "uuid": "f7080f11-6e8a-4dd0-94bd-85463f103b57"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792201318711,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 2.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 23979.416413512252,
+    "y": 65.0,
+    "z": -8887.966772794607,
+    "pitch": 26.589441,
+    "yaw": 64.75708
+   },
+   "homeBlock": [
+    1498,
+    -556
+   ],
+   "townBlocks": [
+    [
+     1498,
+     -556
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "SilverSword2000",
+    "uuid": "f7080f11-6e8a-4dd0-94bd-85463f103b57"
+   },
+   {
+    "name": "Shadow_Wolf64",
+    "uuid": "0acdcbd3-48c7-407d-84fc-6d8fc8e9dd02"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Shadow_Wolf64",
+    "uuid": "0acdcbd3-48c7-407d-84fc-6d8fc8e9dd02"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

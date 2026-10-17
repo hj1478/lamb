@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
-  "name": "Eestifur",
+  "name": "Lower-Eestifur",
   "uuid": "8d2e8a9e-d07b-485a-acde-32af9d2b8ee9",
-  "board": "Reborn!",
+  "board": "Eestifur Down Town",
   "founder": "ArcRinny",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 72,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 73,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 3,
    "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 1202.0,
+   "numOutlaws": 4,
+   "balance": 1747.0,
    "forSalePrice": null
   },
   "perms": {
@@ -304,6 +304,10 @@
      -1205
     ],
     [
+     1344,
+     -1207
+    ],
+    [
      1343,
      -1202
     ],
@@ -394,10 +398,6 @@
    {
     "name": "l_ARSTOTZKA_l",
     "uuid": "930566b9-8d80-46cb-85ea-c91098fe7c26"
-   },
-   {
-    "name": "TimFo",
-    "uuid": "50d93bdb-b500-467d-9391-77fc4e58d989"
    }
   ],
   "trusted": [
@@ -418,6 +418,10 @@
    {
     "name": "Huxf",
     "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
+   },
+   {
+    "name": "akabur",
+    "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
    }
   ],
   "quarters": [
@@ -436,21 +440,12 @@
     {
      "name": "l_ARSTOTZKA_l",
      "uuid": "930566b9-8d80-46cb-85ea-c91098fe7c26"
-    },
-    {
-     "name": "TimFo",
-     "uuid": "50d93bdb-b500-467d-9391-77fc4e58d989"
     }
    ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "TimFo",
-     "uuid": "50d93bdb-b500-467d-9391-77fc4e58d989"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

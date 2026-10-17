@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Lizard_Point",
   "uuid": "7a4f2ac7-e18b-46df-812d-0e9acee97f6b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 116,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 120,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 15.0,
+   "balance": 110.0,
    "forSalePrice": null
   },
   "perms": {
@@ -66,9 +66,9 @@
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1777.9754944685294,
+    "x": -1773.3918591253114,
     "y": 50.0,
-    "z": -11783.953101835019,
-    "pitch": -0.30000317,
-    "yaw": 90.444824
+    "z": -11784.458314444995,
+    "pitch": 35.529182,
+    "yaw": 90.44481
    },
    "homeBlock": [
-    -112,
+    -111,
     -737
    ],
    "townBlocks": [
@@ -138,6 +138,10 @@
     [
      -113,
      -727
+    ],
+    [
+     -114,
+     -735
     ],
     [
      -113,
@@ -536,12 +540,20 @@
      -734
     ],
     [
+     -115,
+     -734
+    ],
+    [
      -112,
      -735
     ],
     [
      -119,
      -728
+    ],
+    [
+     -115,
+     -735
     ],
     [
      -112,
@@ -554,6 +566,10 @@
     [
      -112,
      -733
+    ],
+    [
+     -116,
+     -734
     ]
    ],
    "worlds": {}
@@ -566,17 +582,9 @@
    {
     "name": "GeeDaisy29",
     "uuid": "9515caa8-7e4b-42db-99d7-c335e014e203"
-   },
-   {
-    "name": "rambo27100",
-    "uuid": "811f2c45-ff3f-4f24-87b5-ede65b03b0d1"
    }
   ],
   "trusted": [
-   {
-    "name": "rambo27100",
-    "uuid": "811f2c45-ff3f-4f24-87b5-ede65b03b0d1"
-   },
    {
     "name": "GeeDaisy29",
     "uuid": "9515caa8-7e4b-42db-99d7-c335e014e203"
@@ -619,10 +627,6 @@
     {
      "name": "GeeDaisy29",
      "uuid": "9515caa8-7e4b-42db-99d7-c335e014e203"
-    },
-    {
-     "name": "rambo27100",
-     "uuid": "811f2c45-ff3f-4f24-87b5-ede65b03b0d1"
     }
    ],
    "Builder": [],

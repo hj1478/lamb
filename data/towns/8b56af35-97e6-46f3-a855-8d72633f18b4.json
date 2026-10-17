@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Vltaniz",
   "uuid": "8b56af35-97e6-46f3-a855-8d72633f18b4",
-  "board": "Lies on the Vltava River!",
+  "board": "Lies on the Elbe River!",
   "founder": "testingplace17",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 13,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numTrusted": 4,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,11 +92,55 @@
    ],
    "townBlocks": [
     [
+     313,
+     -748
+    ],
+    [
+     313,
+     -746
+    ],
+    [
+     313,
+     -747
+    ],
+    [
      312,
      -748
     ],
     [
+     314,
+     -746
+    ],
+    [
      312,
+     -746
+    ],
+    [
+     314,
+     -748
+    ],
+    [
+     312,
+     -747
+    ],
+    [
+     314,
+     -747
+    ],
+    [
+     311,
+     -746
+    ],
+    [
+     310,
+     -747
+    ],
+    [
+     311,
+     -748
+    ],
+    [
+     311,
      -747
     ]
    ],
@@ -110,11 +154,32 @@
   ],
   "trusted": [
    {
+    "name": "extreme_33337",
+    "uuid": "1ab4a974-972e-429f-945f-a43434adeff6"
+   },
+   {
+    "name": "Addychi01",
+    "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
+   },
+   {
     "name": "lizzel_ruby",
     "uuid": "0cf49a40-1784-43ca-9182-d4fb471aecbc"
+   },
+   {
+    "name": "BlueOpossum9399",
+    "uuid": "5123ce22-04b7-49ab-bdfc-28db8c6e39ba"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "Oldyzz",
+    "uuid": "741d1cff-bf42-4395-b127-8b0d783b2820"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Hurghada",
   "uuid": "710f3b40-79bb-462e-9ba8-475e9e3e2227",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "omarsobot",
-   "uuid": "ef5ffd02-d76d-40bf-bf66-d9a8f16621ff"
+   "name": "NPC27",
+   "uuid": "2d9cc968-949e-2099-8afe-1ddccad58fd0"
   },
   "nation": {
-   "name": "Egypt",
-   "uuid": "157d7ef7-13db-46db-b20d-00cfd0b01155"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787700258870,
-   "joinedNationAt": 1787703386642,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1791972003339
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "omarsobot",
-    "uuid": "ef5ffd02-d76d-40bf-bf66-d9a8f16621ff"
+    "name": "NPC27",
+    "uuid": "2d9cc968-949e-2099-8afe-1ddccad58fd0"
    }
   ],
   "trusted": [],

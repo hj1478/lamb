@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Raid_Farm",
   "uuid": "8275da16-2bdf-47bb-894c-6e3c819a804a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Orfalord",
-   "uuid": "dea45649-20cb-46e4-96ae-c4e6c1c163da"
+   "name": "NPC74",
+   "uuid": "fe570d72-1b11-2052-951d-fbd3cc2cb9fc"
   },
   "nation": {
-   "name": "Hawaii",
-   "uuid": "b1d72cb1-4935-4e54-98f8-767ad795f584"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786124143942,
-   "joinedNationAt": 1786124433216,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144801684
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "_Orfalord",
-    "uuid": "dea45649-20cb-46e4-96ae-c4e6c1c163da"
+    "name": "NPC74",
+    "uuid": "fe570d72-1b11-2052-951d-fbd3cc2cb9fc"
    }
   ],
   "trusted": [

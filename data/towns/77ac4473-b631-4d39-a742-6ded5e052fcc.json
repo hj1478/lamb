@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Mountainsidemen",
   "uuid": "77ac4473-b631-4d39-a742-6ded5e052fcc",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kyan_E_Joyce",
-   "uuid": "5fb07a28-482d-4040-b1cd-3d4ad63b1889"
+   "name": "NPC54",
+   "uuid": "faef0b88-bf49-20e8-8c7e-feaa0f868ec7"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1786667470207,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792058401863
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -50,31 +50,31 @@
     true,
     true,
     true,
-    false
+    true
    ],
    "destroy": [
     true,
     true,
     true,
-    false
+    true
    ],
    "switch": [
     true,
     true,
     true,
-    false
+    true
    ],
    "itemUse": [
     true,
     true,
     true,
-    false
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,8 +140,8 @@
   },
   "residents": [
    {
-    "name": "Kyan_E_Joyce",
-    "uuid": "5fb07a28-482d-4040-b1cd-3d4ad63b1889"
+    "name": "NPC54",
+    "uuid": "faef0b88-bf49-20e8-8c7e-feaa0f868ec7"
    }
   ],
   "trusted": [],

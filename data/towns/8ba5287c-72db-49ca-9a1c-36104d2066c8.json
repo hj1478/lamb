@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Launchmoon",
   "uuid": "8ba5287c-72db-49ca-9a1c-36104d2066c8",
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 3,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -91,6 +91,14 @@
     626
    ],
    "townBlocks": [
+    [
+     3366,
+     626
+    ],
+    [
+     3366,
+     625
+    ],
     [
      3365,
      626

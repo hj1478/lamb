@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Snopa",
   "uuid": "78942a87-6b98-4091-a508-9d3af026cb0f",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 7,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 3,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,23 @@
    "townBlocks": [
     [
      1041,
+     -1277
+    ],
+    [
+     1043,
+     -1278
+    ],
+    [
+     1041,
      -1278
     ],
     [
      1041,
      -1279
+    ],
+    [
+     1042,
+     -1277
     ],
     [
      1042,
@@ -126,8 +138,12 @@
   ],
   "trusted": [
    {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+    "name": "eboat",
+    "uuid": "83519e3f-d43f-42ab-b684-914e83172d13"
+   },
+   {
+    "name": "Saltiestspinach",
+    "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
    }
   ],
   "outlaws": [],

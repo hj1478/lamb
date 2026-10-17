@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Shchyrka",
   "uuid": "866f3fbc-f5eb-4973-ba48-99aae1d8a2d9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 59,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 144.0,
+   "balance": 294.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,7 +59,7 @@
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8811.44934567819,
-    "y": 64.0,
-    "z": -11219.226377152128,
-    "pitch": 60.885048,
-    "yaw": -110.31641
+    "x": 8792.343867700927,
+    "y": 32.0,
+    "z": -11224.075502759119,
+    "pitch": 10.039411,
+    "yaw": -89.072716
    },
    "homeBlock": [
-    550,
+    549,
     -702
    ],
    "townBlocks": [
@@ -237,6 +237,10 @@
     ],
     [
      554,
+     -701
+    ],
+    [
+     554,
      -702
     ],
     [
@@ -292,6 +296,10 @@
      -702
     ],
     [
+     555,
+     -703
+    ],
+    [
      548,
      -701
     ],
@@ -336,8 +344,20 @@
     "uuid": "31cf55f1-7ba7-4c10-a414-079725ab38e9"
    },
    {
-    "name": "JustLayingAround",
-    "uuid": "5c816039-ccfc-4eaa-b016-ebdd99742a92"
+    "name": "Flat_Grille",
+    "uuid": "a7a97230-d8e2-4c2c-8077-41bca7184273"
+   },
+   {
+    "name": "CREL43",
+    "uuid": "d88ed073-9bcb-4247-86e7-364b60a2108b"
+   },
+   {
+    "name": "Emyrgumbyy",
+    "uuid": "b66011b2-a54d-4114-8219-ea0414591c05"
+   },
+   {
+    "name": "Diguinhobn",
+    "uuid": "cf817720-f0b7-4812-9b73-50f390ced0b9"
    }
   ],
   "trusted": [],
@@ -361,12 +381,24 @@
     "uuid": "306b25fa-d71a-40cf-aa0f-88a3fcc6a467"
    },
    {
-    "name": "Elegant Property",
-    "uuid": "aa717cbf-39ba-46fd-9bd4-e2f6a21b2ac6"
+    "name": "Perturbing Quarter",
+    "uuid": "4af526d8-7af4-4b34-ac8c-f26941799e50"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "1bf0804a-c8c8-4c28-a284-9c529e1efd41"
    },
    {
     "name": "Dingy Property",
     "uuid": "5e83a007-49ef-4c24-8dda-a4563479d246"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "2a08da20-520d-414f-95cf-d75fb694b8e8"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "c9d955e1-c1fc-46f4-b5f9-6a4425b4ba0e"
    }
   ],
   "ranks": {

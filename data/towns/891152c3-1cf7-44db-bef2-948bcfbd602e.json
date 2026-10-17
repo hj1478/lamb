@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Skiafrin",
   "uuid": "891152c3-1cf7-44db-bef2-948bcfbd602e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "D2OG_",
-   "uuid": "de895d08-bf88-4193-a378-ce067e08e8d7"
+   "name": "NPC87",
+   "uuid": "1a230e49-1ab7-20b0-82e8-733613d7dad4"
   },
   "nation": {
-   "name": "Oceania",
-   "uuid": "e227e0ab-923a-451f-a82f-635b2edd0ea8"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778282010362,
-   "joinedNationAt": 1779295670940,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792231205413
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -216,8 +216,8 @@
   },
   "residents": [
    {
-    "name": "D2OG_",
-    "uuid": "de895d08-bf88-4193-a378-ce067e08e8d7"
+    "name": "NPC87",
+    "uuid": "1a230e49-1ab7-20b0-82e8-733613d7dad4"
    }
   ],
   "trusted": [],

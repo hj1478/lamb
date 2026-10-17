@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Pogorzyce",
   "uuid": "811e5191-08fe-469f-bcc1-8c55315eb5a6",
@@ -12,12 +12,12 @@
    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
   },
   "nation": {
-   "name": "Poland",
-   "uuid": "a7d37910-0663-4399-a2b5-cb9caf032652"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1778341312669,
-   "joinedNationAt": 1790859783139,
+   "joinedNationAt": 1792092047667,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 138,
-   "maxTownBlocks": 188,
+   "numTownBlocks": 140,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 9,
+   "nationBonus": 100,
+   "numResidents": 8,
    "numTrusted": 3,
-   "numOutlaws": 5,
-   "balance": 75.0,
+   "numOutlaws": 4,
+   "balance": 143.0,
    "forSalePrice": null
   },
   "perms": {
@@ -268,8 +268,16 @@
      -729
     ],
     [
+     422,
+     -732
+    ],
+    [
      414,
      -726
+    ],
+    [
+     422,
+     -731
     ],
     [
      414,
@@ -364,12 +372,12 @@
      -720
     ],
     [
-     416,
-     -719
-    ],
-    [
      415,
      -732
+    ],
+    [
+     416,
+     -719
     ],
     [
      415,
@@ -668,10 +676,6 @@
     "uuid": "7f7006ca-75c0-4b00-9303-2cccf0dc4d6d"
    },
    {
-    "name": "Dummypotato",
-    "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
-   },
-   {
     "name": "haker2024",
     "uuid": "0ba15f25-d70e-4c47-bfd8-e78ed518a846"
    },
@@ -706,10 +710,6 @@
    {
     "name": "YrKD",
     "uuid": "d04b24be-0610-4c59-ad9f-082636817f17"
-   },
-   {
-    "name": "Bobo_Babis",
-    "uuid": "749c51dc-423f-476b-8b74-e5741d062344"
    },
    {
     "name": "ABDR2022",
@@ -751,14 +751,6 @@
     {
      "name": "Mrzqin67549",
      "uuid": "e255c0f0-2c74-41c5-9c6e-a29708450439"
-    },
-    {
-     "name": "_xorbit",
-     "uuid": "7f7006ca-75c0-4b00-9303-2cccf0dc4d6d"
-    },
-    {
-     "name": "Dummypotato",
-     "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
     }
    ],
    "Builder": [
@@ -768,7 +760,12 @@
     }
    ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "_xorbit",
+     "uuid": "7f7006ca-75c0-4b00-9303-2cccf0dc4d6d"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

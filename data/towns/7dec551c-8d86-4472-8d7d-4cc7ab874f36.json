@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Gonder",
   "uuid": "7dec551c-8d86-4472-8d7d-4cc7ab874f36",
@@ -8,22 +8,22 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SmileyyMO_Ace",
+   "name": "CaveVaultSteve",
    "uuid": "4a1a30b2-9764-44f7-9b7f-b525724305c0"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": "Ethiopia",
+   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
   },
   "timestamps": {
    "registered": 1791449826013,
-   "joinedNationAt": 1791450685572,
+   "joinedNationAt": 1791967785940,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,17 +80,29 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14182.676208759955,
+    "x": 14183.470955182778,
     "y": 138.0,
-    "z": 3189.0891588315226,
-    "pitch": 19.350094,
-    "yaw": -32.302246
+    "z": 3194.583649143425,
+    "pitch": 29.249983,
+    "yaw": -0.65338135
    },
    "homeBlock": [
     886,
     199
    ],
    "townBlocks": [
+    [
+     885,
+     199
+    ],
+    [
+     885,
+     198
+    ],
+    [
+     886,
+     198
+    ],
     [
      886,
      199
@@ -100,12 +112,17 @@
   },
   "residents": [
    {
-    "name": "SmileyyMO_Ace",
+    "name": "CaveVaultSteve",
     "uuid": "4a1a30b2-9764-44f7-9b7f-b525724305c0"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xolarza",
+    "uuid": "c268c3a6-b921-4e9a-ab2a-78330941ca6b"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

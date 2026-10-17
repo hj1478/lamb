@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Ur",
   "uuid": "71cdd96c-23b9-4406-847f-a5cc621a7018",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Sargon_of_Dees",
-   "uuid": "fed92ed0-3082-455a-8ca2-de8e7b6a6563"
+   "name": "keinigetakiss",
+   "uuid": "bcf537fa-2225-4261-b81c-169e07a0a5a4"
   },
   "nation": {
-   "name": "UAE",
-   "uuid": "7c48b77f-01e8-4c76-8fff-08104b930cc2"
+   "name": "Sumer",
+   "uuid": "bfb0b0ce-26c6-492e-a161-4a3f86079da8"
   },
   "timestamps": {
    "registered": 1776474396332,
-   "joinedNationAt": 1778687722225,
+   "joinedNationAt": 1792079059855,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 49,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 51,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 50,
+   "numResidents": 1,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 34.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -65,10 +65,10 @@
     false
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -98,6 +98,14 @@
     [
      1055,
      -213
+    ],
+    [
+     1055,
+     -215
+    ],
+    [
+     1055,
+     -212
     ],
     [
      1057,
@@ -292,15 +300,40 @@
   },
   "residents": [
    {
-    "name": "Sargon_of_Dees",
-    "uuid": "fed92ed0-3082-455a-8ca2-de8e7b6a6563"
-   },
-   {
     "name": "keinigetakiss",
     "uuid": "bcf537fa-2225-4261-b81c-169e07a0a5a4"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "SWORDBREAKER633",
+    "uuid": "3f67bb56-254c-405a-af4e-ad0fd6e550f3"
+   },
+   {
+    "name": "ThebestM1",
+    "uuid": "c952d7e8-a1ac-4d05-b746-3fbe48585393"
+   },
+   {
+    "name": "Andakira",
+    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
+   {
+    "name": "Arsonixum",
+    "uuid": "8acc9bf6-17c3-4473-8f7b-081c595d1581"
+   },
+   {
+    "name": "Mine_bee",
+    "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
+   },
+   {
+    "name": "Andariyen",
+    "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
+   },
+   {
+    "name": "Threnodie",
+    "uuid": "dfc5d1e1-e11b-409f-9b38-67f86e2af310"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

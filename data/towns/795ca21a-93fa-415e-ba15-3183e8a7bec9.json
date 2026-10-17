@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Utopia",
   "uuid": "795ca21a-93fa-415e-ba15-3183e8a7bec9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 23,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 22.0,
+   "numResidents": 5,
+   "numTrusted": 5,
+   "numOutlaws": 1,
+   "balance": 142.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      2035,
+     -1907
+    ],
+    [
+     2035,
+     -1908
+    ],
+    [
+     2035,
      -1909
     ],
     [
@@ -108,11 +116,19 @@
      -1909
     ],
     [
+     2034,
+     -1907
+    ],
+    [
      2032,
      -1908
     ],
     [
      2033,
+     -1908
+    ],
+    [
+     2034,
      -1908
     ],
     [
@@ -120,6 +136,14 @@
      -1909
     ],
     [
+     2033,
+     -1907
+    ],
+    [
+     2032,
+     -1911
+    ],
+    [
      2032,
      -1910
     ],
@@ -128,8 +152,28 @@
      -1910
     ],
     [
+     2034,
+     -1911
+    ],
+    [
+     2032,
+     -1907
+    ],
+    [
+     2033,
+     -1911
+    ],
+    [
      2033,
      -1910
+    ],
+    [
+     2031,
+     -1907
+    ],
+    [
+     2031,
+     -1908
     ],
     [
      2031,
@@ -146,11 +190,58 @@
    {
     "name": "Alianaka",
     "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
+   },
+   {
+    "name": "_alex0898",
+    "uuid": "aa0596eb-16b2-42fe-8448-a5de52a88811"
+   },
+   {
+    "name": "Strisvagen",
+    "uuid": "1d4b7d41-2533-40e5-ba89-2508b0347253"
+   },
+   {
+    "name": "Bang_dian_dian",
+    "uuid": "54792766-bf6f-4a7d-8a38-a3dc06f9ac29"
+   },
+   {
+    "name": "Ramza50",
+    "uuid": "5e45622a-7a83-4b60-8b7b-55c8d5ac3fa5"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
-  "quarters": [],
+  "trusted": [
+   {
+    "name": "STARDUCK_ZXY",
+    "uuid": "1e0e7c69-0085-4e96-b1db-312cb8c70de2"
+   },
+   {
+    "name": "CXchaoxiXC",
+    "uuid": "fe9dffcd-8373-447a-a671-52c59da9efec"
+   },
+   {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
+    "name": "NullSelfice",
+    "uuid": "31c3985e-0a3a-46be-810d-838b7d997c08"
+   },
+   {
+    "name": "Alianaka",
+    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Inviting Quarter",
+    "uuid": "b12cc184-d6e9-4dd7-babe-2f05def6283b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

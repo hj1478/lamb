@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Shangri-La",
   "uuid": "81d0adb6-218b-4fa9-8278-bbc6aee7ab24",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 182,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 71.0,
+   "balance": 61.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11904.425000011921,
+    "x": 11904.487528949076,
     "y": 63.25,
-    "z": -9936.443174782304,
-    "pitch": -1.2000188,
-    "yaw": 179.84991
+    "z": -9936.425000011921,
+    "pitch": 27.750048,
+    "yaw": 179.70023
    },
    "homeBlock": [
     744,
@@ -452,16 +452,16 @@
      -627
     ],
     [
+     737,
+     -629
+    ],
+    [
      741,
      -621
     ],
     [
      746,
      -626
-    ],
-    [
-     737,
-     -629
     ],
     [
      741,
@@ -840,10 +840,6 @@
     "uuid": "fd4444b6-40c9-4d01-a006-d66a12d35564"
    },
    {
-    "name": "liyae",
-    "uuid": "1ba1052c-8e17-4a91-9e56-274f6cb3fdf3"
-   },
-   {
     "name": "caylusacc2",
     "uuid": "097a6025-7a99-4f13-b29c-c42d5d2e3494"
    }
@@ -873,10 +869,6 @@
     "uuid": "a04734da-e39e-4d23-b90f-bbf9eef8341c"
    },
    {
-    "name": "Western Archives《西书房》",
-    "uuid": "f8c6418b-72bb-424b-8727-dbc4cb1aec93"
-   },
-   {
     "name": "Eastern Portal《東仙房》",
     "uuid": "6a556b7a-a612-4e7a-8090-23edcc6f67a6"
    },
@@ -897,8 +889,16 @@
     "uuid": "91b2bc53-66a1-4071-9f38-b47ff2ac87e5"
    },
    {
-    "name": "Stylish Apartment",
-    "uuid": "b448732d-995a-4b6e-a97d-52e19cb6ffb4"
+    "name": "Western Archive《西书房》",
+    "uuid": "977ff816-2bd7-4e6a-8acb-520dcf7a3364"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "e445fe8a-8c15-4568-aa61-09c2b06a3274"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "76a683a6-ee42-4ebf-a1db-c606d200d9ce"
    }
   ],
   "ranks": {

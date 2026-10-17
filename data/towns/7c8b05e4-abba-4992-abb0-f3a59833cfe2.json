@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Malikipuram",
   "uuid": "7c8b05e4-abba-4992-abb0-f3a59833cfe2",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Tommydrummer78",
-   "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+   "name": "Hollow_Soul_303",
+   "uuid": "a0f3d2f0-9bce-4ae8-a1c9-0bda13613928"
   },
   "nation": {
    "name": "Narmada",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 4,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 37.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 29122.912100213318,
-    "y": 65.0,
-    "z": 2115.4445676961864,
-    "pitch": 22.795252,
-    "yaw": -31.86914
+    "x": 29125.45747514262,
+    "y": 46.9375,
+    "z": 2117.4657197064475,
+    "pitch": 0.858984,
+    "yaw": -45.056427
    },
    "homeBlock": [
     1820,
@@ -108,6 +108,14 @@
      132
     ],
     [
+     1820,
+     131
+    ],
+    [
+     1821,
+     131
+    ],
+    [
      1819,
      132
     ]
@@ -116,14 +124,30 @@
   },
   "residents": [
    {
+    "name": "Hollow_Soul_303",
+    "uuid": "a0f3d2f0-9bce-4ae8-a1c9-0bda13613928"
+   },
+   {
     "name": "Tommydrummer78",
     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
    }
   ],
   "trusted": [
    {
+    "name": "karl_pro_max300",
+    "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
+   },
+   {
+    "name": "AdrI_20",
+    "uuid": "69d560e5-447a-4e0a-8e79-9c0c025e339f"
+   },
+   {
     "name": "leonzombiiey67",
     "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
+   },
+   {
+    "name": "_Melix_",
+    "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
    },
    {
     "name": "Navigation2013",

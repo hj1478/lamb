@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-10T12:41:26Z",
+ "fetched_at": "2026-10-17T10:54:14Z",
  "data": {
   "name": "Hawally",
   "uuid": "71b06620-0deb-4376-91ec-5a5f5c81b531",
-  "board": "/town set board [msg]",
+  "board": "Highest population Urban district of kuwait_City",
   "founder": "MegalomaniacJack",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "5a2f0c92-df1d-4436-980a-7bd360ca694d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arabia",
+   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
   },
   "timestamps": {
    "registered": 1791560590389,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791824583803,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,18 @@
    "townBlocks": [
     [
      1071,
+     -162
+    ],
+    [
+     1071,
+     -163
+    ],
+    [
+     1071,
+     -164
+    ],
+    [
+     1069,
      -163
     ],
     [
@@ -102,6 +114,14 @@
     [
      1070,
      -163
+    ],
+    [
+     1072,
+     -163
+    ],
+    [
+     1070,
+     -164
     ]
    ],
    "worlds": {}
