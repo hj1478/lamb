@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Zonguldak",
   "uuid": "a8931178-2998-4cd6-8b19-76fad2b0a458",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Boztegin1451",
-   "uuid": "62d9f501-bbfb-4750-ab2d-5256c4066a9c"
+   "name": "NPC38",
+   "uuid": "ba7943f8-bc38-2026-a48e-cfbd49a4260b"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777756211106,
-   "joinedNationAt": 1777756264209,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792231204889
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -256,8 +256,8 @@
   },
   "residents": [
    {
-    "name": "Boztegin1451",
-    "uuid": "62d9f501-bbfb-4750-ab2d-5256c4066a9c"
+    "name": "NPC38",
+    "uuid": "ba7943f8-bc38-2026-a48e-cfbd49a4260b"
    }
   ],
   "trusted": [],

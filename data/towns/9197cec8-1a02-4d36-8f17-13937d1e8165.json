@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Brisbane_Empire",
   "uuid": "9197cec8-1a02-4d36-8f17-13937d1e8165",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 37,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 38,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 31.0,
+   "numOutlaws": 1,
+   "balance": 35.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 54891.17798763249,
+    "x": 54889.76374653908,
     "y": 64.0,
-    "z": 17592.011352742273,
-    "pitch": 22.45818,
-    "yaw": 93.99634
+    "z": 17591.8892755501,
+    "pitch": 24.672153,
+    "yaw": -88.32837
    },
    "homeBlock": [
     3430,
@@ -221,6 +221,10 @@
     ],
     [
      3430,
+     1100
+    ],
+    [
+     3430,
      1097
     ],
     [
@@ -258,14 +262,15 @@
    {
     "name": "misskanan00",
     "uuid": "7d9fb924-fe96-42e3-8476-88be82acb64b"
-   },
-   {
-    "name": "Armiguy",
-    "uuid": "c4716363-bbae-43f4-b09c-e858a7008a02"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Saim01",
+    "uuid": "5a6d7cfe-e9d9-4af3-bed6-c6b967773a0d"
+   }
+  ],
   "quarters": [
    {
     "name": "Lovely Flat",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Kiba",
   "uuid": "99012b0c-550a-4e3e-b84a-8e07d739814c",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 46,
-   "maxTownBlocks": 134,
+   "numTownBlocks": 56,
+   "maxTownBlocks": 114,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 30,
    "numResidents": 7,
-   "numTrusted": 9,
+   "numTrusted": 12,
    "numOutlaws": 0,
-   "balance": 250.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,18 +80,26 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11655.699999988079,
-    "y": 81.0,
-    "z": 11124.305690150975,
-    "pitch": 46.73592,
-    "yaw": 147.30078
+    "x": 11665.626351058723,
+    "y": 84.0,
+    "z": 11089.690404987225,
+    "pitch": 18.31242,
+    "yaw": 1.0332664
    },
    "homeBlock": [
-    728,
-    695
+    729,
+    693
    ],
    "townBlocks": [
     [
+     729,
+     699
+    ],
+    [
+     729,
+     700
+    ],
+    [
      728,
      695
     ],
@@ -112,8 +120,16 @@
      693
     ],
     [
+     728,
+     699
+    ],
+    [
      731,
      694
+    ],
+    [
+     728,
+     700
     ],
     [
      731,
@@ -126,17 +142,13 @@
     [
      731,
      696
-    ],
-    [
-     731,
-     697
     ],
     [
      728,
      698
     ],
     [
-     730,
+     731,
      697
     ],
     [
@@ -144,16 +156,24 @@
      698
     ],
     [
+     730,
+     697
+    ],
+    [
      731,
      698
     ],
     [
-     732,
-     697
+     726,
+     699
     ],
     [
      730,
      696
+    ],
+    [
+     725,
+     697
     ],
     [
      726,
@@ -165,11 +185,7 @@
     ],
     [
      725,
-     697
-    ],
-    [
-     732,
-     695
+     698
     ],
     [
      726,
@@ -178,14 +194,6 @@
     [
      730,
      694
-    ],
-    [
-     725,
-     698
-    ],
-    [
-     732,
-     696
     ],
     [
      726,
@@ -204,6 +212,34 @@
      693
     ],
     [
+     725,
+     695
+    ],
+    [
+     725,
+     696
+    ],
+    [
+     725,
+     694
+    ],
+    [
+     727,
+     700
+    ],
+    [
+     732,
+     697
+    ],
+    [
+     732,
+     695
+    ],
+    [
+     732,
+     696
+    ],
+    [
      727,
      697
     ],
@@ -213,6 +249,10 @@
     ],
     [
      727,
+     699
+    ],
+    [
+     727,
      698
     ],
     [
@@ -220,18 +260,10 @@
      693
     ],
     [
-     725,
-     695
-    ],
-    [
      732,
      693
     ],
     [
-     725,
-     696
-    ],
-    [
      732,
      694
     ],
@@ -241,15 +273,19 @@
     ],
     [
      727,
-     694
-    ],
-    [
-     725,
      694
     ],
     [
      730,
+     699
+    ],
+    [
+     730,
      698
+    ],
+    [
+     728,
+     692
     ],
     [
      729,
@@ -266,6 +302,10 @@
     [
      729,
      698
+    ],
+    [
+     729,
+     692
     ],
     [
      729,
@@ -288,10 +328,6 @@
     "uuid": "1783885d-2dc0-4911-b504-92cbeb8affdb"
    },
    {
-    "name": "Tappolo",
-    "uuid": "570eed35-31f4-4ffa-9a19-b034c9ee5fe8"
-   },
-   {
     "name": "ShadowStar912",
     "uuid": "14e7b7a7-f1c1-4b8c-ae13-b1b949f52cc7"
    },
@@ -304,8 +340,12 @@
     "uuid": "aa48c1e7-dbd7-44ae-848f-d227727872da"
    },
    {
-    "name": "Broshi9",
-    "uuid": "a290a9d7-287d-4b6e-ac9e-4afd6770fdfa"
+    "name": "Versus_Evil",
+    "uuid": "c22eff7c-daf4-4c8b-8461-d2d938de9cb0"
+   },
+   {
+    "name": "SockMin84",
+    "uuid": "d7970f33-6641-4973-82e5-39c7e7646371"
    }
   ],
   "trusted": [
@@ -314,8 +354,16 @@
     "uuid": "1783885d-2dc0-4911-b504-92cbeb8affdb"
    },
    {
+    "name": "SockMin84",
+    "uuid": "d7970f33-6641-4973-82e5-39c7e7646371"
+   },
+   {
     "name": "wildbeast2008",
     "uuid": "123558b8-5eaa-4905-be85-cb83ec01deb7"
+   },
+   {
+    "name": "Lutaq28",
+    "uuid": "8038d994-f75e-4ff5-807c-48787d2312c5"
    },
    {
     "name": "GakuGaku0410",
@@ -332,6 +380,10 @@
    {
     "name": "_tuttopassa_",
     "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
+   },
+   {
+    "name": "Versus_Evil",
+    "uuid": "c22eff7c-daf4-4c8b-8461-d2d938de9cb0"
    },
    {
     "name": "KataSheep",

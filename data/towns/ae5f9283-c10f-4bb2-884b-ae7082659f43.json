@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "New_Litopia",
   "uuid": "ae5f9283-c10f-4bb2-884b-ae7082659f43",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 8,
+   "numTrusted": 9,
    "numOutlaws": 3,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 18203.475658016607,
-    "y": 0.0,
-    "z": 3968.113997975397,
-    "pitch": 6.776932,
-    "yaw": 90.13159
+    "x": 18241.66548602665,
+    "y": 86.0,
+    "z": 3968.5173926710318,
+    "pitch": 12.378039,
+    "yaw": -89.98825
    },
    "homeBlock": [
-    1137,
+    1140,
     248
    ],
    "townBlocks": [
@@ -492,6 +492,10 @@
    {
     "name": "DyniaDyniowski24",
     "uuid": "5efafed0-382d-48f7-95b1-28f18e5975ae"
+   },
+   {
+    "name": "ItsFrizy",
+    "uuid": "a8fef508-8d94-45cc-b4b0-1a822eb8f1ae"
    },
    {
     "name": "4Gamerbros",

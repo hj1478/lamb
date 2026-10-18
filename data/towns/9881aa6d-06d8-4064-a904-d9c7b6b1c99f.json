@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Nordungava",
   "uuid": "9881aa6d-06d8-4064-a904-d9c7b6b1c99f",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ninjaxpow12",
+   "name": "Martyyrr",
    "uuid": "5ab791c8-3e77-4149-8deb-b1a0276e1453"
   },
   "nation": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 3,
-   "numOutlaws": 2,
-   "balance": 0.0,
+   "numResidents": 4,
+   "numTrusted": 5,
+   "numOutlaws": 4,
+   "balance": 277.0,
    "forSalePrice": null
   },
   "perms": {
@@ -133,6 +133,10 @@
     ],
     [
      -1450,
+     -1052
+    ],
+    [
+     -1450,
      -1051
     ],
     [
@@ -188,6 +192,10 @@
      -1052
     ],
     [
+     -1448,
+     -1052
+    ],
+    [
      -1447,
      -1047
     ],
@@ -208,21 +216,37 @@
   },
   "residents": [
    {
-    "name": "Ninjaxpow12",
+    "name": "Martyyrr",
     "uuid": "5ab791c8-3e77-4149-8deb-b1a0276e1453"
    },
    {
     "name": "fellfardown",
     "uuid": "b589ffe0-726d-4482-90d1-e69f75e5c591"
+   },
+   {
+    "name": "jonasjugoslav",
+    "uuid": "59a690fe-fd24-40c8-bb09-cf2e62129220"
+   },
+   {
+    "name": "__The_Overlord__",
+    "uuid": "6f7ae3bf-e03a-4662-8811-740102374576"
    }
   ],
   "trusted": [
+   {
+    "name": "FinfinJAC1",
+    "uuid": "5e09f2f0-b04a-4579-b144-5322e88ebcc1"
+   },
+   {
+    "name": "Poopypoop112",
+    "uuid": "f9afddbe-d369-4a32-b58a-fd4e8abcc264"
+   },
    {
     "name": "GregHates",
     "uuid": "be79e3b9-27b4-4702-ad3e-44106f526772"
    },
    {
-    "name": "Icebreaker775",
+    "name": "__The_Overlord__",
     "uuid": "6f7ae3bf-e03a-4662-8811-740102374576"
    },
    {
@@ -238,9 +262,34 @@
    {
     "name": "djjosuedebolas",
     "uuid": "b64db51e-c53d-4fae-b84d-f54ecf0287fd"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "ThePaleoGuy",
+    "uuid": "5e73d54b-8536-4cab-8ed2-20ff72eb9c76"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dull Apartment",
+    "uuid": "b590cd53-0d7e-4467-9f7f-0c773a6796f8"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "8b6d7d16-340b-4808-8e4d-649ba9b188ed"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "58c98487-92e0-4d6c-ac5b-2831fd794b17"
+   },
+   {
+    "name": "Annoying Property",
+    "uuid": "4ac7e3d7-f802-4acf-84c8-83c0e49ff7db"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

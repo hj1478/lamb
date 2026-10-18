@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Ariminum",
   "uuid": "ae4c4136-00c8-4308-9166-a6b2d353fafe",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -102,13 +102,26 @@
    {
     "name": "CAL273376",
     "uuid": "075392e1-a5f7-4efa-82d1-93e6aad83703"
+   },
+   {
+    "name": "Colton7738",
+    "uuid": "50100d75-4f45-4526-8ea9-fe0560d60dcf"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "CAL273376",
+     "uuid": "075392e1-a5f7-4efa-82d1-93e6aad83703"
+    },
+    {
+     "name": "Colton7738",
+     "uuid": "50100d75-4f45-4526-8ea9-fe0560d60dcf"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

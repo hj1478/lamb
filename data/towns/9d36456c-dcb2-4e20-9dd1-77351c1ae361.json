@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Yaroslavl",
   "uuid": "9d36456c-dcb2-4e20-9dd1-77351c1ae361",
-  "board": "Glory to Neoclassicism",
+  "board": "Glory to Stalin",
   "founder": "3xcellentOG",
   "wiki": null,
   "discord": null,
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 345,
-   "maxTownBlocks": 356,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 23,
-   "numTrusted": 3,
-   "numOutlaws": 6,
-   "balance": 9.0,
+   "nationBonus": 100,
+   "numResidents": 16,
+   "numTrusted": 4,
+   "numOutlaws": 7,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14364.3015868243,
-    "y": -26.0,
-    "z": -15448.291814177592,
-    "pitch": 11.8677025,
-    "yaw": 0.21633911
+    "x": 14002.435025750145,
+    "y": 64.5,
+    "z": -15348.518325181782,
+    "pitch": -37.01911,
+    "yaw": -0.27757624
    },
    "homeBlock": [
-    897,
-    -966
+    875,
+    -960
    ],
    "townBlocks": [
     [
@@ -1280,16 +1280,16 @@
      -968
     ],
     [
+     874,
+     -960
+    ],
+    [
      890,
      -960
     ],
     [
      893,
      -969
-    ],
-    [
-     874,
-     -960
     ],
     [
      874,
@@ -1312,11 +1312,11 @@
      -955
     ],
     [
-     890,
+     874,
      -956
     ],
     [
-     874,
+     890,
      -956
     ],
     [
@@ -1508,20 +1508,12 @@
     "uuid": "51d31aa8-6e50-4213-a9b6-00bbdbf92643"
    },
    {
-    "name": "mia_chelangelo",
-    "uuid": "fea0c73e-e852-454f-a265-16b7239bacec"
-   },
-   {
     "name": "fndfn",
     "uuid": "0b2e7512-98e7-44b3-b74e-1cc7c0005226"
    },
    {
     "name": "Mazin2010",
     "uuid": "1058c8d6-cfef-405f-a6e1-16010d1f8705"
-   },
-   {
-    "name": "xaeyll",
-    "uuid": "255704b1-51de-4216-ae93-44ce37edd1e7"
    },
    {
     "name": "originalBobb",
@@ -1532,10 +1524,6 @@
     "uuid": "faf7151a-182c-4aeb-81ac-33bdcd1c3959"
    },
    {
-    "name": "Askedland",
-    "uuid": "b0a30aaa-40cf-4bc3-8cac-960217390103"
-   },
-   {
     "name": "CHICKENMAN3302",
     "uuid": "e562626a-1d0c-4e82-ae9b-8a2742f9996f"
    },
@@ -1544,24 +1532,8 @@
     "uuid": "2eb8be1d-3840-4016-903f-6be5e0d12307"
    },
    {
-    "name": "Claire_ST4R",
-    "uuid": "234d79a7-d438-4a82-9245-19692bbf5bf2"
-   },
-   {
-    "name": "Trixlix5",
-    "uuid": "0fb17c4c-0b10-4c99-84ca-ff82deb34942"
-   },
-   {
-    "name": "SwiftYuu",
-    "uuid": "df94ceff-1821-4078-8df2-825c5421f47c"
-   },
-   {
     "name": "Mr_Calcestruzzo",
     "uuid": "afaa787b-e414-4036-bf9e-36ae800fbc22"
-   },
-   {
-    "name": "KFaughter43",
-    "uuid": "bd6b9fab-7f5b-495a-826c-10fd5b90bbd1"
    },
    {
     "name": "BluePolyDev",
@@ -1576,6 +1548,10 @@
    {
     "name": "Ahsisr",
     "uuid": "2299d652-b3b2-4ec0-a2f1-29e64b464f74"
+   },
+   {
+    "name": "kylaxial",
+    "uuid": "e1e3b7bd-1d92-45f9-8dac-497676d5f1d6"
    },
    {
     "name": "soloveiko1",
@@ -1606,6 +1582,10 @@
    {
     "name": "lilbludthetaxman",
     "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
    }
   ],
   "quarters": [
@@ -1892,6 +1872,10 @@
    {
     "name": "Rybinsk_Storage",
     "uuid": "a2e75d3a-24c5-4933-b7df-bd5f8e132a39"
+   },
+   {
+    "name": "The People's National Library",
+    "uuid": "fb4f2f17-3345-4922-bbcb-85f819ef3b27"
    }
   ],
   "ranks": {
@@ -1909,10 +1893,6 @@
     {
      "name": "ilijablabla",
      "uuid": "565285a5-58cb-4bf5-8c05-82bc5facab65"
-    },
-    {
-     "name": "mia_chelangelo",
-     "uuid": "fea0c73e-e852-454f-a265-16b7239bacec"
     },
     {
      "name": "misha_GG_AWP",

@@ -1,0 +1,128 @@
+{
+ "fetched_at": "2026-10-18T11:19:29Z",
+ "data": {
+  "name": "IceYeBurg",
+  "uuid": "6e4ef93a-6340-4f96-bf4e-a70525cba06a",
+  "board": "/town set board [msg]",
+  "founder": "BugBA3726",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC104",
+   "uuid": "25eff8f3-6496-20f1-95ee-7954892cdb0f"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792251280613,
+   "joinedNationAt": null,
+   "ruinedAt": 1792281599834
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -42771.271643287386,
+    "y": 107.0,
+    "z": -11313.484453051307,
+    "pitch": 28.104292,
+    "yaw": -172.56123
+   },
+   "homeBlock": [
+    -2674,
+    -708
+   ],
+   "townBlocks": [
+    [
+     -2674,
+     -708
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC104",
+    "uuid": "25eff8f3-6496-20f1-95ee-7954892cdb0f"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "maxcaw",
+    "uuid": "8759e45d-f392-49fc-99d7-4d7e20d5abd6"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

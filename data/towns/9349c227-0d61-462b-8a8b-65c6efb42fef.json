@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "BeiPing",
   "uuid": "9349c227-0d61-462b-8a8b-65c6efb42fef",
@@ -12,12 +12,12 @@
    "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
   },
   "nation": {
-   "name": "China",
-   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786216072638,
-   "joinedNationAt": 1791694475110,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 73,
-   "maxTownBlocks": 380,
+   "maxTownBlocks": 300,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 25,
-   "numTrusted": 6,
-   "numOutlaws": 3,
+   "numTrusted": 7,
+   "numOutlaws": 4,
    "balance": 434.0,
    "forSalePrice": null
   },
@@ -144,16 +144,12 @@
      -452
     ],
     [
-     2613,
-     -450
-    ],
-    [
      2609,
      -449
     ],
     [
      2613,
-     -451
+     -450
     ],
     [
      2609,
@@ -161,7 +157,7 @@
     ],
     [
      2613,
-     -452
+     -451
     ],
     [
      2609,
@@ -169,11 +165,15 @@
     ],
     [
      2613,
-     -453
+     -452
     ],
     [
      2609,
      -450
+    ],
+    [
+     2613,
+     -453
     ],
     [
      2609,
@@ -456,10 +456,6 @@
     "uuid": "d64619e7-80e3-4c86-b512-5c43f917d073"
    },
    {
-    "name": "suannais",
-    "uuid": "9f6b678a-3290-4417-9f7a-34cefba0da87"
-   },
-   {
     "name": "chunrisheng",
     "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
    },
@@ -480,12 +476,16 @@
     "uuid": "3b97a4b9-eeb4-45f6-b69f-1b92a7f1996b"
    },
    {
-    "name": "MEAXfeng",
-    "uuid": "8e1df68d-a5f9-4c6c-8bd5-dc3d3a30421c"
-   },
-   {
     "name": "S_bong",
     "uuid": "94108a57-87af-4852-b06c-c0a7ef98c406"
+   },
+   {
+    "name": "EliasFN1",
+    "uuid": "bfefc978-d4ae-4ab5-aef9-c6050661730d"
+   },
+   {
+    "name": "TheCryBlock_awa",
+    "uuid": "38a2f739-d28f-4bf1-a25f-9870ec25ec40"
    }
   ],
   "trusted": [
@@ -510,6 +510,10 @@
     "uuid": "72fa0138-fc47-4c8b-b6ad-51656308aa1b"
    },
    {
+    "name": "King_Marx",
+    "uuid": "a73b5ee6-00cf-4103-ab39-74a641e3c5b8"
+   },
+   {
     "name": "chunrisheng",
     "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
    }
@@ -526,12 +530,16 @@
    {
     "name": "Tsunlam123",
     "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+   },
+   {
+    "name": "Captain_Orin",
+    "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
    }
   ],
   "quarters": [
    {
-    "name": "Dingy Residence",
-    "uuid": "33d8df50-d33a-4772-aba3-d90330813647"
+    "name": "Bland Quarter",
+    "uuid": "eded7663-c657-45e6-aa67-62cfcf1f3f45"
    }
   ],
   "ranks": {

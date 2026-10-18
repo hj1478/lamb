@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Heywood",
   "uuid": "a7ec88e6-a150-4bd6-88d1-ad80bfa28f7e",
-  "board": "/town set board [msg]",
+  "board": "Yo, pass some eddies choom",
   "founder": "Luca_1226",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Luca_1226",
-   "uuid": "fe677ffb-593a-4195-b0d2-3a4d688819ca"
+   "name": "DesireShower",
+   "uuid": "9f11820e-7183-40fe-a8a3-9250a099c6f1"
   },
   "nation": {
    "name": "Australia",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -348,16 +348,12 @@
      1308
     ],
     [
-     3236,
-     1311
-    ],
-    [
      3232,
      1310
     ],
     [
      3236,
-     1312
+     1311
     ],
     [
      3232,
@@ -365,7 +361,7 @@
     ],
     [
      3236,
-     1309
+     1312
     ],
     [
      3232,
@@ -373,7 +369,15 @@
     ],
     [
      3236,
+     1309
+    ],
+    [
+     3236,
      1310
+    ],
+    [
+     3232,
+     1314
     ],
     [
      3236,
@@ -381,7 +385,7 @@
     ],
     [
      3232,
-     1314
+     1313
     ],
     [
      3236,
@@ -389,23 +393,19 @@
     ],
     [
      3232,
-     1313
-    ],
-    [
-     3236,
-     1313
-    ],
-    [
-     3232,
      1312
     ],
     [
      3236,
-     1314
+     1313
     ],
     [
      3232,
      1311
+    ],
+    [
+     3236,
+     1314
     ],
     [
      3240,
@@ -544,11 +544,16 @@
   },
   "residents": [
    {
-    "name": "Luca_1226",
-    "uuid": "fe677ffb-593a-4195-b0d2-3a4d688819ca"
+    "name": "DesireShower",
+    "uuid": "9f11820e-7183-40fe-a8a3-9250a099c6f1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DesireShower",
+    "uuid": "9f11820e-7183-40fe-a8a3-9250a099c6f1"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

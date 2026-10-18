@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Waterdeep",
   "uuid": "96ead83e-c2c4-43b7-87d4-711a5f3aac41",
-  "board": "City of Splendors",
+  "board": "Waterdeep was sold......",
   "founder": "EFECDE",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "EFECDE",
-   "uuid": "26fae260-3dbf-41a2-8c60-d4afcc79b516"
+   "name": "Dnit_Rukio",
+   "uuid": "315298a1-55f2-445e-9f41-34b914fd5192"
   },
   "nation": {
    "name": "PRC",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1779111855828,
-   "joinedNationAt": 1779111860339,
+   "joinedNationAt": 1792286367754,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 90,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 5,
+   "numResidents": 2,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -456,16 +456,12 @@
   },
   "residents": [
    {
-    "name": "EFECDE",
-    "uuid": "26fae260-3dbf-41a2-8c60-d4afcc79b516"
-   },
-   {
-    "name": "japaneseempire78",
-    "uuid": "de216319-c796-46f1-aced-2a1bdb25a424"
-   },
-   {
     "name": "Hoshino_Shinnako",
     "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
+   },
+   {
+    "name": "Dnit_Rukio",
+    "uuid": "315298a1-55f2-445e-9f41-34b914fd5192"
    }
   ],
   "trusted": [
@@ -486,6 +482,10 @@
     "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
    },
    {
+    "name": "Hoshino_Shinnako",
+    "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
+   },
+   {
     "name": "32_5",
     "uuid": "a6b59075-966a-4180-bd99-96da586d389b"
    }
@@ -493,7 +493,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Hoshino_Shinnako",
+     "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

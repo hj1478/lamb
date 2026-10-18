@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Glungustopia",
   "uuid": "9711fbc4-b1dc-4e2b-b142-6ecf861f4946",
-  "board": "Lets go faster and faster, riding on the Chollima!",
+  "board": "Terra Nova, So far, far away...",
   "founder": "glaggle2001",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "glaggle2001",
-   "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
+   "name": "Akaviry",
+   "uuid": "84a3c552-c000-47d7-8085-019d9dd9199b"
   },
   "nation": {
    "name": "FE",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1788017968340,
-   "joinedNationAt": 1788024550912,
+   "joinedNationAt": 1791915536609,
    "ruinedAt": null
   },
   "status": {
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 61,
-   "maxTownBlocks": 98,
+   "numTownBlocks": 63,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 4,
-   "numTrusted": 14,
+   "numTrusted": 15,
    "numOutlaws": 10,
-   "balance": 5.0,
-   "forSalePrice": 999999999.0
+   "balance": 11.0,
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 54185.850611404734,
-    "y": 64.0,
-    "z": -16061.761824699513,
-    "pitch": 14.699946,
-    "yaw": -89.10025
+    "x": 54209.31120828404,
+    "y": 50.0,
+    "z": -16068.417683252539,
+    "pitch": 45.6001,
+    "yaw": 104.10007
    },
    "homeBlock": [
-    3386,
-    -1004
+    3388,
+    -1005
    ],
    "townBlocks": [
     [
@@ -172,6 +172,10 @@
      -1002
     ],
     [
+     3394,
+     -1007
+    ],
+    [
      3389,
      -1007
     ],
@@ -297,6 +301,10 @@
     ],
     [
      3393,
+     -1002
+    ],
+    [
+     3393,
      -1004
     ],
     [
@@ -340,10 +348,6 @@
   },
   "residents": [
    {
-    "name": "glaggle2001",
-    "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
-   },
-   {
     "name": "Togo68PL",
     "uuid": "c183d26b-ec99-4bca-ac66-c57214e6c15e"
    },
@@ -354,6 +358,10 @@
    {
     "name": "Happykid749",
     "uuid": "778663a0-fe0a-47c9-8fa4-016dab7d6197"
+   },
+   {
+    "name": "Akaviry",
+    "uuid": "84a3c552-c000-47d7-8085-019d9dd9199b"
    }
   ],
   "trusted": [
@@ -410,6 +418,10 @@
     "uuid": "bc566193-d65d-4eca-af1d-079607c9e54d"
    },
    {
+    "name": "HasanHasa",
+    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
     "name": "DapperCheese",
     "uuid": "549cbaee-6a1c-4f5c-968c-b1079e32a1f4"
    }
@@ -432,10 +444,6 @@
     "uuid": "23d9b023-dfa7-427b-b48d-7e7a0138eaf9"
    },
    {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   },
-   {
     "name": "WokeBob",
     "uuid": "a85b5327-51b6-412b-b505-0ce6b30331ef"
    },
@@ -454,13 +462,13 @@
    {
     "name": "Taha_AbuObaida",
     "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
+   {
+    "name": "1CritZ",
+    "uuid": "ccafe371-584d-4c90-92cd-e74f340cc388"
    }
   ],
   "quarters": [
-   {
-    "name": "gambling lever",
-    "uuid": "8feb18fd-e8f3-4fe4-b7a3-ec1cc9c249a2"
-   },
    {
     "name": "Inviting Apartment",
     "uuid": "5beb4d71-e18e-4ec5-b856-548c16b02d08"
@@ -484,6 +492,14 @@
    {
     "name": "Elegant Property",
     "uuid": "f49eef7f-c30d-4840-975d-322a3f0bdd19"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "1572363b-ec20-4765-b8c0-1757b2af4f68"
+   },
+   {
+    "name": "gambling lever",
+    "uuid": "8feb18fd-e8f3-4fe4-b7a3-ec1cc9c249a2"
    }
   ],
   "ranks": {

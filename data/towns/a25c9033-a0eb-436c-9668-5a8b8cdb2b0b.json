@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Winkler",
   "uuid": "a25c9033-a0eb-436c-9668-5a8b8cdb2b0b",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 6,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -93,7 +93,23 @@
    "townBlocks": [
     [
      -1865,
+     -732
+    ],
+    [
+     -1865,
      -731
+    ],
+    [
+     -1865,
+     -730
+    ],
+    [
+     -1864,
+     -731
+    ],
+    [
+     -1864,
+     -730
     ],
     [
      -1866,
@@ -108,7 +124,12 @@
     "uuid": "75a5bcf1-b577-4f49-aa60-2544de280afc"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "TOSd",
+    "uuid": "436f6677-1793-4875-876d-9b6c0e5016f0"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

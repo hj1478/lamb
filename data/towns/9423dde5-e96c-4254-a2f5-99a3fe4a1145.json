@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Delta-base",
   "uuid": "9423dde5-e96c-4254-a2f5-99a3fe4a1145",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 52,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26887.379317500756,
-    "y": 65.0,
-    "z": -433.5664170948356,
-    "pitch": 80.24992,
-    "yaw": -93.77319
+    "x": -26903.752769546518,
+    "y": 63.0,
+    "z": -431.9395282303225,
+    "pitch": 5.849705,
+    "yaw": -91.74658
    },
    "homeBlock": [
-    -1681,
-    -28
+    -1682,
+    -27
    ],
    "townBlocks": [
     [
@@ -308,23 +308,32 @@
     "uuid": "eb492e70-4b7a-42e5-8afb-f47c4c571210"
    },
    {
-    "name": "BreyDN_",
-    "uuid": "e96c8557-cef2-4535-95c5-493777c92afa"
-   },
-   {
     "name": "Maz3_",
     "uuid": "477fe1d3-bdc5-4e46-84e0-1e632def79b0"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Building Reception",
+    "uuid": "a29ad90f-4749-4b47-b699-e1033ecad681"
+   },
+   {
+    "name": "Security",
+    "uuid": "dbc5ef65-5686-4ce6-a945-f609c249c119"
+   },
+   {
+    "name": "Central Executive",
+    "uuid": "94e8234b-1769-4464-9c95-14c5cf7b8ec9"
+   },
+   {
+    "name": "Building Entry",
+    "uuid": "91832492-05af-417c-a0a1-86cbe6abbd37"
+   }
+  ],
   "ranks": {
    "Councillor": [
-    {
-     "name": "BreyDN_",
-     "uuid": "e96c8557-cef2-4535-95c5-493777c92afa"
-    },
     {
      "name": "Maz3_",
      "uuid": "477fe1d3-bdc5-4e46-84e0-1e632def79b0"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Thessaloniki",
   "uuid": "b09d52ce-c5ee-45f0-b7e6-2c6265d4a17f",
@@ -12,17 +12,17 @@
    "uuid": "39c5d27d-359c-4f43-b722-5054a61e1d71"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": "Greece",
+   "uuid": "dcdefdf8-ae51-4436-903a-4eb88c58087a"
   },
   "timestamps": {
    "registered": 1776793816947,
-   "joinedNationAt": 1791678194328,
+   "joinedNationAt": 1791837141037,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 210,
-   "maxTownBlocks": 400,
+   "maxTownBlocks": 312,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 25,
-   "numTrusted": 17,
-   "numOutlaws": 4,
+   "nationBonus": 60,
+   "numResidents": 21,
+   "numTrusted": 16,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -716,12 +716,12 @@
      -461
     ],
     [
-     501,
-     -463
-    ],
-    [
      509,
      -464
+    ],
+    [
+     501,
+     -463
     ],
     [
      501,
@@ -940,18 +940,6 @@
     "uuid": "7f76e935-4ffb-4485-aaa7-0ee960623a13"
    },
    {
-    "name": "sMerkur",
-    "uuid": "603607c6-d634-47ab-ba22-df3d00b8a986"
-   },
-   {
-    "name": "Guvn0r_UK",
-    "uuid": "d5097a36-e1f6-4c7a-ae64-4ba040652569"
-   },
-   {
-    "name": "steliosdam",
-    "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
-   },
-   {
     "name": "SamVZS",
     "uuid": "6d8a7860-1d14-4c7c-8abb-41f1584a9b77"
    },
@@ -978,10 +966,6 @@
    {
     "name": "fotisp279",
     "uuid": "acbfb1b1-121f-4685-a97e-135a88d100f6"
-   },
-   {
-    "name": "TudorGhe123",
-    "uuid": "018be918-de89-4cf8-b6e4-d2d181977eff"
    },
    {
     "name": "Petrus_2",
@@ -1037,10 +1021,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "human_after_all2",
-    "uuid": "43d4d39d-6547-4fde-8adf-71adb3ee0b0e"
-   },
    {
     "name": "Flossus",
     "uuid": "4fee6cd9-73f1-4e4e-b801-82977eb1fcac"
@@ -1116,22 +1096,13 @@
     "uuid": "d2520abb-fde4-48b3-b630-4c53f11a6bfc"
    },
    {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   },
-   {
     "name": "Randommania115",
     "uuid": "14a23ff1-11e2-4c9d-b6de-d469cbf3fcff"
    }
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "steliosdam",
-     "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "ItsDreXD",

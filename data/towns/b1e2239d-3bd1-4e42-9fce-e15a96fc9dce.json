@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
-  "name": "NPHQ",
+  "name": "Torom",
   "uuid": "b1e2239d-3bd1-4e42-9fce-e15a96fc9dce",
   "board": "/town set board [msg]",
   "founder": "Ncgx",
@@ -12,37 +12,37 @@
    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Karafuto",
+   "uuid": "25c9850a-5b7a-4b90-8ef9-1c1f58dbde54"
   },
   "timestamps": {
    "registered": 1791590051567,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791773193853,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 2,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numResidents": 5,
+   "numTrusted": 4,
+   "numOutlaws": 16,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 49358.59710367975,
-    "y": 72.0,
-    "z": -13959.618074370135,
-    "pitch": 10.738403,
-    "yaw": 93.15454
+    "x": 49351.32939164927,
+    "y": 100.0,
+    "z": -13960.004265526277,
+    "pitch": 0.43464404,
+    "yaw": 89.83252
    },
    "homeBlock": [
     3084,
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     3083,
+     -868
+    ],
+    [
+     3081,
+     -876
+    ],
+    [
      3085,
      -874
+    ],
+    [
+     3083,
+     -870
+    ],
+    [
+     3081,
+     -877
+    ],
+    [
+     3082,
+     -877
     ],
     [
      3085,
@@ -101,11 +121,59 @@
     ],
     [
      3083,
+     -869
+    ],
+    [
+     3083,
+     -872
+    ],
+    [
+     3085,
+     -876
+    ],
+    [
+     3083,
+     -871
+    ],
+    [
+     3083,
      -874
+    ],
+    [
+     3081,
+     -872
+    ],
+    [
+     3085,
+     -870
+    ],
+    [
+     3081,
+     -873
     ],
     [
      3083,
      -873
+    ],
+    [
+     3085,
+     -871
+    ],
+    [
+     3081,
+     -874
+    ],
+    [
+     3083,
+     -876
+    ],
+    [
+     3085,
+     -872
+    ],
+    [
+     3081,
+     -875
     ],
     [
      3083,
@@ -114,6 +182,46 @@
     [
      3085,
      -873
+    ],
+    [
+     3082,
+     -872
+    ],
+    [
+     3085,
+     -868
+    ],
+    [
+     3085,
+     -869
+    ],
+    [
+     3082,
+     -874
+    ],
+    [
+     3082,
+     -873
+    ],
+    [
+     3082,
+     -876
+    ],
+    [
+     3082,
+     -875
+    ],
+    [
+     3080,
+     -874
+    ],
+    [
+     3084,
+     -876
+    ],
+    [
+     3084,
+     -872
     ],
     [
      3084,
@@ -128,16 +236,20 @@
      -875
     ],
     [
-     3082,
-     -874
+     3084,
+     -868
     ],
     [
-     3082,
-     -873
+     3084,
+     -869
     ],
     [
-     3082,
-     -875
+     3084,
+     -870
+    ],
+    [
+     3084,
+     -871
     ]
    ],
    "worlds": {}
@@ -150,27 +262,112 @@
    {
     "name": "ilvyaz",
     "uuid": "0a9efad0-d067-4a93-bd09-4207382fafb8"
+   },
+   {
+    "name": "coconutpluto",
+    "uuid": "5d9f8bdf-07c2-49a8-9c74-2121251a02b5"
+   },
+   {
+    "name": "GREENJELLO123",
+    "uuid": "aca9aa60-91d9-4dcb-97cb-c8c2531ed7f1"
+   },
+   {
+    "name": "BIGTANKAEASTON",
+    "uuid": "96df7c59-0c05-40aa-8600-2dceeda0da00"
    }
   ],
   "trusted": [
+   {
+    "name": "coconutpluto",
+    "uuid": "5d9f8bdf-07c2-49a8-9c74-2121251a02b5"
+   },
    {
     "name": "ChefStokes",
     "uuid": "4c9da8a1-58d5-4921-93e3-f2fa17a7e907"
    },
    {
-    "name": "sobble1sgod",
-    "uuid": "8e10a836-9085-4040-a013-22767c78b1ad"
+    "name": "BIGTANKAEASTON",
+    "uuid": "96df7c59-0c05-40aa-8600-2dceeda0da00"
+   },
+   {
+    "name": "GREENJELLO123",
+    "uuid": "aca9aa60-91d9-4dcb-97cb-c8c2531ed7f1"
    }
   ],
   "outlaws": [
    {
     "name": "Thecaspergod",
     "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
+   },
+   {
+    "name": "axieyoel",
+    "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
+   },
+   {
+    "name": "_DucKnight_",
+    "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"
+   },
+   {
+    "name": "rhymes_w_garden",
+    "uuid": "6ff50625-399b-467f-9164-d61056cf38d8"
+   },
+   {
+    "name": "Unbidleaf",
+    "uuid": "52289180-9ef9-415f-a69a-651867ce3cda"
+   },
+   {
+    "name": "xolarza",
+    "uuid": "c268c3a6-b921-4e9a-ab2a-78330941ca6b"
+   },
+   {
+    "name": "Reese0328",
+    "uuid": "a586478d-7670-4212-a9ce-7224b46edcb5"
+   },
+   {
+    "name": "Chamberlain_232",
+    "uuid": "7ae93c2d-b7a8-426a-8539-5cb89c82a1f8"
+   },
+   {
+    "name": "Chrouched_",
+    "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
+   },
+   {
+    "name": "Sean_B_in_Japan",
+    "uuid": "dfe80211-8bde-4b9b-872b-74b5ad6fa673"
+   },
+   {
+    "name": "Fallen12_",
+    "uuid": "a89f197f-3864-49b0-90a5-ed14b7d103d5"
+   },
+   {
+    "name": "4daniel",
+    "uuid": "5078196f-ad1d-4d95-b536-8935d139eb40"
+   },
+   {
+    "name": "n3b4",
+    "uuid": "e18a7d21-d39c-4245-8dd7-d37836d65dd8"
+   },
+   {
+    "name": "_Manly196898_",
+    "uuid": "f582a52f-226a-454d-b364-b438339904db"
+   },
+   {
+    "name": "SilverZinc",
+    "uuid": "2f314adc-7edc-431b-bd53-2794e2290636"
+   },
+   {
+    "name": "EWisawesome",
+    "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
    }
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ilvyaz",
+     "uuid": "0a9efad0-d067-4a93-bd09-4207382fafb8"
+    }
+   ],
    "Builder": [
     {
      "name": "ilvyaz",

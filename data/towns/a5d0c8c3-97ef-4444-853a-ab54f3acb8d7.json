@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Patan_Darbar",
   "uuid": "a5d0c8c3-97ef-4444-853a-ab54f3acb8d7",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MCDREAMBOY",
-   "uuid": "d2a469e2-4068-4afe-b0af-e34595cadd25"
+   "name": "NPC26",
+   "uuid": "6ea94518-0682-2014-b661-840e7579bba2"
   },
   "nation": {
-   "name": "Nepal",
-   "uuid": "cfcb82b0-ad84-4db7-a434-9b41402d49eb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788541270395,
-   "joinedNationAt": 1788541298745,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317601233
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "MCDREAMBOY",
-    "uuid": "d2a469e2-4068-4afe-b0af-e34595cadd25"
+    "name": "NPC26",
+    "uuid": "6ea94518-0682-2014-b661-840e7579bba2"
    }
   ],
   "trusted": [],

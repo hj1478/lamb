@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Koln",
   "uuid": "973ea2df-04ea-46b2-8cad-1f31fd197f22",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FakeYapper",
-   "uuid": "311b2d2c-f1f7-46e4-ac13-73b7341cf604"
+   "name": "NPC76",
+   "uuid": "61af9960-5607-20ff-84f5-03fd847725b9"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776450710763,
-   "joinedNationAt": 1776690639284,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144801915
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 100,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -124,8 +124,8 @@
   },
   "residents": [
    {
-    "name": "FakeYapper",
-    "uuid": "311b2d2c-f1f7-46e4-ac13-73b7341cf604"
+    "name": "NPC76",
+    "uuid": "61af9960-5607-20ff-84f5-03fd847725b9"
    }
   ],
   "trusted": [],

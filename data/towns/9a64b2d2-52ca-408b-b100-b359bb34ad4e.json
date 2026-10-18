@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Blackbeards_Cove",
   "uuid": "9a64b2d2-52ca-408b-b100-b359bb34ad4e",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 83,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 88,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 2,
+   "numOutlaws": 1,
    "balance": 12.0,
    "forSalePrice": null
   },
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     -1635,
+     53
+    ],
+    [
+     -1635,
+     54
+    ],
+    [
      -1636,
      55
     ],
@@ -120,8 +128,16 @@
      52
     ],
     [
+     -1634,
+     55
+    ],
+    [
      -1643,
      51
+    ],
+    [
+     -1634,
+     54
     ],
     [
      -1643,
@@ -130,6 +146,10 @@
     [
      -1643,
      49
+    ],
+    [
+     -1635,
+     55
     ],
     [
      -1642,
@@ -434,18 +454,10 @@
    {
     "name": "goobl_snoobert67",
     "uuid": "2e23bcce-2550-414d-af1a-2001bae7cf1a"
-   },
-   {
-    "name": "Muchstrange32",
-    "uuid": "e5ad2644-6d66-4ba0-8271-33abab01704c"
    }
   ],
   "trusted": [],
   "outlaws": [
-   {
-    "name": "PeytonNaomi",
-    "uuid": "fecd1185-bb8f-45c9-a06a-d74a30befb8b"
-   },
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
@@ -457,10 +469,6 @@
     {
      "name": "TheIrishPotatoII",
      "uuid": "a1aa5487-265d-41cf-ba0f-2c330df25a20"
-    },
-    {
-     "name": "Muchstrange32",
-     "uuid": "e5ad2644-6d66-4ba0-8271-33abab01704c"
     }
    ],
    "Builder": [

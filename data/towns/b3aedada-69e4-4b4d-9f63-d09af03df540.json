@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Corsica",
   "uuid": "b3aedada-69e4-4b4d-9f63-d09af03df540",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 268,
-   "maxTownBlocks": 232,
+   "maxTownBlocks": 340,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
+   "numResidents": 20,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3168.5046646533538,
-    "y": 40.0,
-    "z": -7895.526635523416,
-    "pitch": 0.14992113,
-    "yaw": 90.10779
+    "x": 3299.61339896352,
+    "y": 75.0,
+    "z": -7912.491469249883,
+    "pitch": 19.799898,
+    "yaw": -90.042854
    },
    "homeBlock": [
-    198,
-    -494
+    206,
+    -495
    ],
    "townBlocks": [
     [
@@ -1172,6 +1172,10 @@
     "uuid": "be525263-d15a-466d-a998-01f988e88ce3"
    },
    {
+    "name": "CptCuba",
+    "uuid": "742db0f7-fcd1-4b01-96b0-c9117a41a9a4"
+   },
+   {
     "name": "Runuway2008",
     "uuid": "7fa65f99-4453-401d-aed3-140460105c26"
    },
@@ -1210,6 +1214,38 @@
    {
     "name": "dragonmeep",
     "uuid": "a91a3585-9603-42a8-9391-8a31beb1d2d8"
+   },
+   {
+    "name": "musti26",
+    "uuid": "ad8e0098-9411-4e08-ab26-a3caa50b83c6"
+   },
+   {
+    "name": "xbeart",
+    "uuid": "3e4d0c34-6deb-4b4e-8f6b-2e475b65f3c0"
+   },
+   {
+    "name": "GillianOsterberg",
+    "uuid": "9a328e1a-52d3-4b80-ab77-db7d96b00c76"
+   },
+   {
+    "name": "Dano403",
+    "uuid": "df1b9cfb-8bb7-4dec-96fb-5ac66239aa0f"
+   },
+   {
+    "name": "OnyR_IC",
+    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
+   },
+   {
+    "name": "Myshinyjin",
+    "uuid": "9bdeefa3-08fd-4091-a606-ca105d303705"
+   },
+   {
+    "name": "pizza_chocolate",
+    "uuid": "62ad2966-3517-438c-b972-8349e1e1917f"
+   },
+   {
+    "name": "Vicxis",
+    "uuid": "a4aa5a82-9937-41ba-a82b-be5ddf0afe89"
    }
   ],
   "trusted": [
@@ -1235,6 +1271,10 @@
   ],
   "ranks": {
    "Councillor": [
+    {
+     "name": "CptCuba",
+     "uuid": "742db0f7-fcd1-4b01-96b0-c9117a41a9a4"
+    },
     {
      "name": "Runuway2008",
      "uuid": "7fa65f99-4453-401d-aed3-140460105c26"

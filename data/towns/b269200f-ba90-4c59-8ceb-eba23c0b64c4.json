@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Orfusville",
   "uuid": "b269200f-ba90-4c59-8ceb-eba23c0b64c4",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 64,
+   "numTownBlocks": 65,
    "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -320,6 +320,10 @@
      -563
     ],
     [
+     -2200,
+     -560
+    ],
+    [
      -2204,
      -560
     ],
@@ -368,12 +372,7 @@
     "uuid": "3e35eaa2-f383-4329-b73f-9d0d88150bca"
    }
   ],
-  "trusted": [
-   {
-    "name": "_Orfalord",
-    "uuid": "dea45649-20cb-46e4-96ae-c4e6c1c163da"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "snowad68",

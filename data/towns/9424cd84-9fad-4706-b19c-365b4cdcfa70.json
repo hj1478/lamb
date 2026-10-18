@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Daphne",
   "uuid": "9424cd84-9fad-4706-b19c-365b4cdcfa70",
@@ -12,7 +12,7 @@
    "uuid": "f245f6ce-49f4-4293-92c1-7c9eca6d6113"
   },
   "nation": {
-   "name": "Alabama",
+   "name": "Gulf_Union",
    "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 35,
-   "maxTownBlocks": 144,
+   "numTownBlocks": 49,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 7,
+   "numResidents": 15,
    "numTrusted": 1,
-   "numOutlaws": 7,
-   "balance": 61.0,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -116,32 +116,24 @@
      -204
     ],
     [
-     -1970,
-     -207
-    ],
-    [
-     -1970,
-     -206
-    ],
-    [
-     -1970,
-     -205
-    ],
-    [
-     -1970,
-     -204
-    ],
-    [
      -1971,
      -204
     ],
     [
-     -1970,
-     -203
-    ],
-    [
      -1971,
      -205
+    ],
+    [
+     -1965,
+     -200
+    ],
+    [
+     -1965,
+     -201
+    ],
+    [
+     -1965,
+     -202
     ],
     [
      -1965,
@@ -158,6 +150,10 @@
     [
      -1965,
      -206
+    ],
+    [
+     -1968,
+     -208
     ],
     [
      -1968,
@@ -176,19 +172,11 @@
      -206
     ],
     [
-     -1969,
-     -204
-    ],
-    [
      -1968,
      -204
     ],
     [
      -1966,
-     -203
-    ],
-    [
-     -1969,
      -203
     ],
     [
@@ -198,10 +186,6 @@
     [
      -1966,
      -204
-    ],
-    [
-     -1969,
-     -206
     ],
     [
      -1968,
@@ -212,10 +196,6 @@
      -201
     ],
     [
-     -1969,
-     -205
-    ],
-    [
      -1968,
      -203
     ],
@@ -224,12 +204,88 @@
      -202
     ],
     [
+     -1966,
+     -200
+    ],
+    [
+     -1963,
+     -202
+    ],
+    [
+     -1963,
+     -203
+    ],
+    [
+     -1963,
+     -201
+    ],
+    [
+     -1970,
+     -208
+    ],
+    [
+     -1970,
+     -207
+    ],
+    [
+     -1970,
+     -206
+    ],
+    [
+     -1970,
+     -205
+    ],
+    [
+     -1970,
+     -204
+    ],
+    [
+     -1970,
+     -203
+    ],
+    [
+     -1964,
+     -202
+    ],
+    [
+     -1964,
+     -203
+    ],
+    [
+     -1964,
+     -200
+    ],
+    [
+     -1964,
+     -201
+    ],
+    [
+     -1969,
+     -204
+    ],
+    [
+     -1969,
+     -203
+    ],
+    [
+     -1969,
+     -206
+    ],
+    [
+     -1969,
+     -205
+    ],
+    [
      -1969,
      -208
     ],
     [
      -1969,
      -207
+    ],
+    [
+     -1969,
+     -209
     ]
    ],
    "worlds": {}
@@ -252,16 +308,48 @@
     "uuid": "8c7fac69-6c5f-4b87-bd6c-5a89c7e107e7"
    },
    {
-    "name": "UltimateUniverse",
-    "uuid": "9a4dc5d2-e805-4926-a2bb-b64fec0c82a2"
+    "name": "PhoenixArr",
+    "uuid": "141c2422-b38b-4d98-bc6a-66aaf5d4ebfc"
+   },
+   {
+    "name": "whatevs19",
+    "uuid": "e0bc0d8a-36ab-44a1-b80f-f6826856526f"
+   },
+   {
+    "name": "dwarvenking1",
+    "uuid": "ba10286d-d3b9-40af-9fdb-4ef55a16c4bc"
+   },
+   {
+    "name": "tayngerous",
+    "uuid": "fbdaafd3-da80-452d-b162-6f1ad3500b56"
+   },
+   {
+    "name": "VNatPro",
+    "uuid": "03285788-addb-4186-bd07-8381dadaea9f"
+   },
+   {
+    "name": "Taosii",
+    "uuid": "4070105c-3d70-479b-8483-3c15c72da3fd"
    },
    {
     "name": "BowenJ19",
     "uuid": "2a260415-393f-46d2-878a-ab4584067d67"
    },
    {
-    "name": "PhoenixArr",
-    "uuid": "141c2422-b38b-4d98-bc6a-66aaf5d4ebfc"
+    "name": "AliFlashBoy",
+    "uuid": "ff596361-8364-485a-961e-54a5bbb91518"
+   },
+   {
+    "name": "8PactrA8",
+    "uuid": "2e73d0ee-e8b7-40e0-b008-81a0bce79678"
+   },
+   {
+    "name": "AUS_GOD",
+    "uuid": "ffe03ab0-7735-4dd9-92ad-ad8a1013f68c"
+   },
+   {
+    "name": "enderramdagon",
+    "uuid": "37fb7640-5628-4262-b898-60c3f458b433"
    }
   ],
   "trusted": [
@@ -298,17 +386,17 @@
    {
     "name": "PibExtreme",
     "uuid": "696dee7f-4e8b-43b1-adc6-4da121256946"
+   },
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   },
+   {
+    "name": "RealbuttonXYZ",
+    "uuid": "ba1e6743-691e-4117-b75a-2be27e5566ec"
    }
   ],
   "quarters": [
-   {
-    "name": "Welcoming Quarter",
-    "uuid": "8f7b0753-7e4a-4b43-a2dd-ea52b5bb8218"
-   },
-   {
-    "name": "Annoying Residence",
-    "uuid": "8116140d-ea78-4a90-bec5-d1898c623387"
-   },
    {
     "name": "Cheerful Tenement",
     "uuid": "b95fd58c-163c-4c33-9429-6f2feba104f0"
@@ -316,6 +404,22 @@
    {
     "name": "Lovely Tenement",
     "uuid": "56bbf9a9-799a-4c87-84ed-48b3359fc146"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "8f7b0753-7e4a-4b43-a2dd-ea52b5bb8218"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "f72eb05f-0ed5-4a62-88de-25cd4d4faef6"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "6372c9d8-d5fd-4cb9-8c80-6aed6b724900"
+   },
+   {
+    "name": "Annoying Residence",
+    "uuid": "8116140d-ea78-4a90-bec5-d1898c623387"
    }
   ],
   "ranks": {

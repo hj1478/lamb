@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Kalamazoo",
   "uuid": "9e491244-29fe-4912-80a9-fc4409012a3b",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 40,
+   "numTownBlocks": 42,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30613.615217424303,
+    "x": -30607.91078999039,
     "y": 68.0,
-    "z": -8162.87046282997,
-    "pitch": 16.500032,
-    "yaw": -2.8476562
+    "z": -8136.079318177457,
+    "pitch": 9.599981,
+    "yaw": -0.60025024
    },
    "homeBlock": [
-    -1914,
-    -511
+    -1913,
+    -509
    ],
    "townBlocks": [
     [
@@ -152,7 +152,15 @@
      -511
     ],
     [
+     -1911,
+     -513
+    ],
+    [
      -1913,
+     -512
+    ],
+    [
+     -1911,
      -512
     ],
     [

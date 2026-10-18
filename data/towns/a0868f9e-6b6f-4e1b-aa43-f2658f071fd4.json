@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Irontown",
   "uuid": "a0868f9e-6b6f-4e1b-aa43-f2658f071fd4",
@@ -12,12 +12,12 @@
    "uuid": "0c9a6fb4-a588-40cc-bbfe-830942fa88e1"
   },
   "nation": {
-   "name": "Georgia",
-   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1791997840911,
-   "joinedNationAt": 1791997876287,
+   "joinedNationAt": 1792301970848,
    "ruinedAt": null
   },
   "status": {
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 4.0,
    "forSalePrice": null
   },
@@ -117,7 +117,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xTheZemZem0",
+    "uuid": "feb21926-0c28-4d72-8d9c-71ba387bc87f"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

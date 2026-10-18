@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Gods_Lake",
   "uuid": "a850623c-994e-4753-956c-5683e2cf8409",
@@ -12,12 +12,12 @@
    "uuid": "5a351e4f-8c03-4fae-a306-527377bcf002"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791284749014,
-   "joinedNationAt": 1791285127415,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -106,6 +106,10 @@
     [
      -2109,
      -865
+    ],
+    [
+     -2108,
+     -866
     ]
    ],
    "worlds": {}

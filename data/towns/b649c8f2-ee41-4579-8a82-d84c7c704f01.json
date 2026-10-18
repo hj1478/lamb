@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Gibraltar",
   "uuid": "b649c8f2-ee41-4579-8a82-d84c7c704f01",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 303,
-   "maxTownBlocks": 384,
+   "numTownBlocks": 305,
+   "maxTownBlocks": 396,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 27,
-   "numTrusted": 11,
+   "numResidents": 28,
+   "numTrusted": 10,
    "numOutlaws": 1,
-   "balance": 60.0,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -1124,6 +1124,14 @@
      -326
     ],
     [
+     -137,
+     -348
+    ],
+    [
+     -137,
+     -349
+    ],
+    [
      -136,
      -329
     ],
@@ -1333,10 +1341,6 @@
     "uuid": "d420394f-eea6-4eba-b6c6-0a832e1aabab"
    },
    {
-    "name": "SmellyVillagers",
-    "uuid": "ff71fca8-3f4b-4816-8383-221359820e17"
-   },
-   {
     "name": "SleepyArmadilo",
     "uuid": "11e7a3ef-7aed-4d33-89bc-cb6b65ebc9c1"
    },
@@ -1357,12 +1361,8 @@
     "uuid": "3c5c479a-9d1f-429f-9b2b-b4168d5a1af2"
    },
    {
-    "name": "Proser",
-    "uuid": "8f90a970-90de-407d-b4e7-0d9fde10f51a"
-   },
-   {
-    "name": "DutchVerDerLine",
-    "uuid": "58f145cd-9aa5-4060-98fb-96005e6906a6"
+    "name": "silverfox3302",
+    "uuid": "bdaa63a2-7eb5-485e-bd84-6c07558c491e"
    },
    {
     "name": "Kripollo",
@@ -1371,10 +1371,6 @@
    {
     "name": "Arcangeist",
     "uuid": "62e0528d-85e9-46a1-93bd-d90a96e00d92"
-   },
-   {
-    "name": "zgrad91",
-    "uuid": "efe9dfc5-699c-4f8e-a17e-a2b3e387d0ad"
    },
    {
     "name": "Arman1z",
@@ -1419,6 +1415,22 @@
    {
     "name": "rainbowmasterc",
     "uuid": "1c3537e9-1b09-450f-8bce-bfa2f0a88c65"
+   },
+   {
+    "name": "kayke1235",
+    "uuid": "d732291a-5289-43c9-b80d-fa5ceee268dc"
+   },
+   {
+    "name": "JUSTaTANKIE",
+    "uuid": "0dca4990-de4c-4e8b-b279-85221f030282"
+   },
+   {
+    "name": "OSRUBU",
+    "uuid": "f9b978ab-1392-455f-9839-d0e8c9ad092e"
+   },
+   {
+    "name": "poyo0601",
+    "uuid": "0c16f20a-49f6-49d5-a503-95cd35973bba"
    }
   ],
   "trusted": [
@@ -1437,10 +1449,6 @@
    {
     "name": "skydog609",
     "uuid": "89b25e0b-a652-4da5-8ae4-56c82280ba10"
-   },
-   {
-    "name": "__Rae__",
-    "uuid": "99109870-55a7-4462-bc9b-0af7a73c92d6"
    },
    {
     "name": "TheatreArt",
@@ -1475,14 +1483,6 @@
   ],
   "quarters": [
    {
-    "name": "Warehouse",
-    "uuid": "b394085b-78cc-4007-9e7a-22da63424176"
-   },
-   {
-    "name": "Market stall",
-    "uuid": "657daccd-b004-483f-a9a3-18814a432b58"
-   },
-   {
     "name": "Market stall",
     "uuid": "7a598b69-b6c2-4edc-876c-beb88b954c03"
    },
@@ -1496,11 +1496,19 @@
    },
    {
     "name": "Market stall",
-    "uuid": "d29ce2df-4afb-47e2-9104-c8d1bab5b049"
+    "uuid": "8c4d49f1-2dfe-4665-8107-218029e779ad"
    },
    {
     "name": "Market stall",
     "uuid": "24552b1c-98fa-4262-8da2-ece1bce8ee21"
+   },
+   {
+    "name": "Market stall",
+    "uuid": "b42d2cb0-fd3c-43e1-a1db-9bddd670ba8c"
+   },
+   {
+    "name": "Gibraltar Warehouse",
+    "uuid": "5bff0b7b-daa8-488d-99f0-2d7f2c0148a7"
    }
   ],
   "ranks": {
@@ -1514,12 +1522,12 @@
      "uuid": "566ab227-eb1c-4239-a303-e84f29851c7b"
     },
     {
-     "name": "lobys1769",
-     "uuid": "4b6f260f-4214-4087-8e5b-ad455e127270"
+     "name": "Sword_3300",
+     "uuid": "af2e0d75-7aed-4459-be89-91fda8eeaaeb"
     },
     {
-     "name": "Proser",
-     "uuid": "8f90a970-90de-407d-b4e7-0d9fde10f51a"
+     "name": "lobys1769",
+     "uuid": "4b6f260f-4214-4087-8e5b-ad455e127270"
     },
     {
      "name": "Kripollo",
@@ -1528,6 +1536,10 @@
     {
      "name": "Arcangeist",
      "uuid": "62e0528d-85e9-46a1-93bd-d90a96e00d92"
+    },
+    {
+     "name": "OSRUBU",
+     "uuid": "f9b978ab-1392-455f-9839-d0e8c9ad092e"
     }
    ],
    "Builder": [
@@ -1538,13 +1550,13 @@
     {
      "name": "lobys1769",
      "uuid": "4b6f260f-4214-4087-8e5b-ad455e127270"
+    },
+    {
+     "name": "kayke1235",
+     "uuid": "d732291a-5289-43c9-b80d-fa5ceee268dc"
     }
    ],
    "Recruiter": [
-    {
-     "name": "Sword_3300",
-     "uuid": "af2e0d75-7aed-4459-be89-91fda8eeaaeb"
-    },
     {
      "name": "lobys1769",
      "uuid": "4b6f260f-4214-4087-8e5b-ad455e127270"
@@ -1552,6 +1564,10 @@
     {
      "name": "Kripollo",
      "uuid": "20f9b80a-3504-477d-b7cb-6d61a6e99529"
+    },
+    {
+     "name": "kayke1235",
+     "uuid": "d732291a-5289-43c9-b80d-fa5ceee268dc"
     }
    ],
    "Police": [],

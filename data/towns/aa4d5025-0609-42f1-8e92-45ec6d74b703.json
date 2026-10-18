@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Cenzur",
   "uuid": "aa4d5025-0609-42f1-8e92-45ec6d74b703",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -150,6 +150,14 @@
   ],
   "trusted": [
    {
+    "name": "pixeldddd",
+    "uuid": "b75fa0bf-e7a2-492e-a124-b70f7c0867ba"
+   },
+   {
+    "name": "Leskyow",
+    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
+   },
+   {
     "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
    },
@@ -159,7 +167,20 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Lovely Tenement",
+    "uuid": "3ee02df1-f2e9-4ed2-b57e-364fd0fbe15c"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "922abeca-1639-46df-94c7-ee45f14a219a"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "db19b8d5-cf04-45d6-84bd-762a8af1b951"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

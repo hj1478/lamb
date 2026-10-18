@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Arezzo",
   "uuid": "a3321a0d-f02b-4fad-9aa4-205146e18662",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 56,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 64,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 5,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numResidents": 8,
+   "numTrusted": 3,
+   "numOutlaws": 5,
+   "balance": 283.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,6 +101,10 @@
     ],
     [
      208,
+     -348
+    ],
+    [
+     208,
      -347
     ],
     [
@@ -110,6 +114,10 @@
     [
      208,
      -346
+    ],
+    [
+     210,
+     -348
     ],
     [
      208,
@@ -165,6 +173,10 @@
     ],
     [
      204,
+     -348
+    ],
+    [
+     204,
      -347
     ],
     [
@@ -212,12 +224,20 @@
      -341
     ],
     [
+     207,
+     -348
+    ],
+    [
      204,
      -341
     ],
     [
      209,
      -347
+    ],
+    [
+     209,
+     -348
     ],
     [
      207,
@@ -230,6 +250,10 @@
     [
      207,
      -343
+    ],
+    [
+     205,
+     -348
     ],
     [
      209,
@@ -262,6 +286,14 @@
     [
      206,
      -347
+    ],
+    [
+     211,
+     -348
+    ],
+    [
+     206,
+     -348
     ],
     [
      206,
@@ -328,26 +360,34 @@
     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
    },
    {
-    "name": "Otterlune",
-    "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
-   },
-   {
     "name": "C1P0T34NCH0",
     "uuid": "fcad9f60-91f5-4389-a394-ed77c7c240c8"
+   },
+   {
+    "name": "ColorinDM",
+    "uuid": "3581dd1f-1a6f-4513-a840-b7461416e723"
+   },
+   {
+    "name": "ZeleznaRudaCZ",
+    "uuid": "6b88ecc2-644a-4288-b83d-211cc73fb890"
+   },
+   {
+    "name": "Sammy_boi1",
+    "uuid": "b27d8b88-dc45-48df-8977-038503ba2811"
+   },
+   {
+    "name": "cooperthejedi",
+    "uuid": "3ae5a1ea-e5f8-43c6-9d60-a6b997c859b6"
+   },
+   {
+    "name": "Bruggie_14",
+    "uuid": "17f2262a-f9f1-4090-95db-95c6000c95a6"
    }
   ],
   "trusted": [
    {
     "name": "Larkira",
     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
-   },
-   {
-    "name": "Otterlune",
-    "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
-   },
-   {
-    "name": "ArsaMC",
-    "uuid": "ce46b4ce-ea31-43c2-b3f5-f6429ae4db9a"
    },
    {
     "name": "eliteblackskyJ",
@@ -358,7 +398,28 @@
     "uuid": "fcad9f60-91f5-4389-a394-ed77c7c240c8"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "__lazii",
+    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   },
+   {
+    "name": "felixfan342",
+    "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+   },
+   {
+    "name": "DRpellgg",
+    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -367,21 +428,52 @@
      "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
     },
     {
-     "name": "Otterlune",
-     "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
-    },
-    {
      "name": "C1P0T34NCH0",
      "uuid": "fcad9f60-91f5-4389-a394-ed77c7c240c8"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Builder": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ],
+   "Police": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Larkira",
+     "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

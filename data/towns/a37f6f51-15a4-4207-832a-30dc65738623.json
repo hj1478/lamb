@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Kelowna",
   "uuid": "a37f6f51-15a4-4207-832a-30dc65738623",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 100,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 12,
+   "numResidents": 1,
+   "numTrusted": 13,
    "numOutlaws": 0,
    "balance": 101.0,
    "forSalePrice": null
@@ -585,10 +585,6 @@
   },
   "residents": [
    {
-    "name": "Chiosisi",
-    "uuid": "0ff2faff-aa30-4bd0-997e-950f77d66709"
-   },
-   {
     "name": "Drixla",
     "uuid": "6eb12c59-5387-4520-8e58-6409ae2f9d42"
    }
@@ -609,6 +605,10 @@
    {
     "name": "KARN4",
     "uuid": "dc061b85-da48-4679-bed7-a5439cbaeb53"
+   },
+   {
+    "name": "PaNd0Ra__b0X",
+    "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
    },
    {
     "name": "nahember",

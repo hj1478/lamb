@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Makatyria",
   "uuid": "ad2e1a05-4730-4f9a-9506-93b81e18b0f5",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MYKYMAUS",
-   "uuid": "6d5587b1-c426-4a1f-aa49-ba503383c43d"
+   "name": "NPC57",
+   "uuid": "7d4d7ccd-62d3-20b9-ad9c-8b1083d8fc6b"
   },
   "nation": {
-   "name": "Kerguelen",
-   "uuid": "2a8fd5cb-5643-4a25-bf53-173025a374cb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788179553171,
-   "joinedNationAt": 1788179957276,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792058403438
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "MYKYMAUS",
-    "uuid": "6d5587b1-c426-4a1f-aa49-ba503383c43d"
+    "name": "NPC57",
+    "uuid": "7d4d7ccd-62d3-20b9-ad9c-8b1083d8fc6b"
    }
   ],
   "trusted": [],

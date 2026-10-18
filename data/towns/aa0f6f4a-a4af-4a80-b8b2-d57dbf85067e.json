@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Jelenec",
   "uuid": "aa0f6f4a-a4af-4a80-b8b2-d57dbf85067e",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1788880155809,
-   "joinedNationAt": 1790953872214,
+   "joinedNationAt": 1792078986610,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 16,
    "maxTownBlocks": 74,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 3.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -116,6 +116,14 @@
      -666
     ],
     [
+     449,
+     -667
+    ],
+    [
+     449,
+     -664
+    ],
+    [
      447,
      -664
     ],
@@ -132,8 +140,16 @@
      -667
     ],
     [
+     447,
+     -663
+    ],
+    [
      446,
      -665
+    ],
+    [
+     446,
+     -664
     ],
     [
      446,

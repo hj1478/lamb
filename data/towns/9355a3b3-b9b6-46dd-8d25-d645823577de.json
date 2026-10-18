@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Castellavera",
   "uuid": "9355a3b3-b9b6-46dd-8d25-d645823577de",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 38,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -250,9 +250,18 @@
    {
     "name": "Nachtfall",
     "uuid": "9d7d23ce-0c17-424a-979c-f18110fde9e7"
+   },
+   {
+    "name": "DaDuckyGod",
+    "uuid": "5aa16142-8021-40e3-bc30-9e6cf3803437"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DaDuckyGod",
+    "uuid": "5aa16142-8021-40e3-bc30-9e6cf3803437"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

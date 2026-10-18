@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Belambiro",
   "uuid": "a85be7c1-ecc6-4387-95a8-ae9b948c42e5",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 198,
-   "maxTownBlocks": 200,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 10,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 594.0,
+   "balance": 581.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15564.728637278127,
-    "y": 67.0,
-    "z": 15927.283113823087,
-    "pitch": 31.880278,
-    "yaw": 166.37477
+    "x": 15585.463474205668,
+    "y": 66.0,
+    "z": 15867.709312046194,
+    "pitch": -0.3545285,
+    "yaw": -93.460754
    },
    "homeBlock": [
-    972,
-    995
+    974,
+    991
    ],
    "townBlocks": [
     [
@@ -284,12 +284,12 @@
      996
     ],
     [
-     981,
-     997
-    ],
-    [
      977,
      988
+    ],
+    [
+     981,
+     997
     ],
     [
      981,
@@ -664,20 +664,20 @@
      990
     ],
     [
-     980,
-     1005
-    ],
-    [
      976,
      987
     ],
     [
      980,
-     1004
+     1005
     ],
     [
      976,
      988
+    ],
+    [
+     980,
+     1004
     ],
     [
      976,
@@ -908,10 +908,6 @@
     "uuid": "cf615168-b06a-49f0-ab69-61962daf09f8"
    },
    {
-    "name": "5illyWilly",
-    "uuid": "ece37feb-2a0f-4ccc-a566-bed62ab3cf51"
-   },
-   {
     "name": "SkiBlade",
     "uuid": "3990b257-f1b6-470e-85f6-c955fd9fdda8"
    },
@@ -922,10 +918,6 @@
    {
     "name": "Dugruss",
     "uuid": "cbaa001b-53c3-495d-a92a-f554f3f9da06"
-   },
-   {
-    "name": "Chamberlain_232",
-    "uuid": "7ae93c2d-b7a8-426a-8539-5cb89c82a1f8"
    }
   ],
   "trusted": [],

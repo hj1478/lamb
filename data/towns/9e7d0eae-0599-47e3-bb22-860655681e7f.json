@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Moose_River",
   "uuid": "9e7d0eae-0599-47e3-bb22-860655681e7f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "__Frank2856__",
-   "uuid": "a4fe6d4b-f7b0-4e28-8de7-744392783481"
+   "name": "NPC67",
+   "uuid": "889472b5-6ef5-202f-ba98-c8ce3c15230b"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780255793626,
-   "joinedNationAt": 1786724722936,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144800793
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -288,12 +288,8 @@
   },
   "residents": [
    {
-    "name": "__Frank2856__",
-    "uuid": "a4fe6d4b-f7b0-4e28-8de7-744392783481"
-   },
-   {
-    "name": "Regalaxy1019",
-    "uuid": "ff9f90ef-bd38-41a2-8aaf-fa87054496a8"
+    "name": "NPC67",
+    "uuid": "889472b5-6ef5-202f-ba98-c8ce3c15230b"
    }
   ],
   "trusted": [],
@@ -321,27 +317,17 @@
     "uuid": "c3be5bd7-e6c9-43a4-999d-1e060ef44ce6"
    },
    {
-    "name": "Storerooms",
-    "uuid": "2eecccec-3b7d-49c3-8bdd-ed5236995202"
-   },
-   {
     "name": "Grim Guesthouse",
     "uuid": "365bde9b-5ba3-4c96-9f6d-81eeb43813b3"
+   },
+   {
+    "name": "Storerooms",
+    "uuid": "2eecccec-3b7d-49c3-8bdd-ed5236995202"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Regalaxy1019",
-     "uuid": "ff9f90ef-bd38-41a2-8aaf-fa87054496a8"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Regalaxy1019",
-     "uuid": "ff9f90ef-bd38-41a2-8aaf-fa87054496a8"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

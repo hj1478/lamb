@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Akkadia",
   "uuid": "a6e0fb34-51ca-4f40-ac67-9ca5c4e6ee30",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
@@ -43,7 +43,7 @@
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 1.0,
-   "forSalePrice": 100.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45306.096946758276,
-    "y": 64.0,
-    "z": -6198.797466330217,
-    "pitch": 19.800005,
-    "yaw": -88.8186
+    "x": 45316.551832277626,
+    "y": 68.0,
+    "z": -6187.323573697803,
+    "pitch": 29.549988,
+    "yaw": 94.78143
    },
    "homeBlock": [
-    2831,
-    -388
+    2832,
+    -387
    ],
    "townBlocks": [
     [
@@ -104,12 +104,12 @@
      -388
     ],
     [
-     2831,
-     -388
-    ],
-    [
      2830,
      -387
+    ],
+    [
+     2831,
+     -388
     ],
     [
      2832,

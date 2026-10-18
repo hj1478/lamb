@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Great_Moravia",
   "uuid": "a8fa8cfd-bd7d-4a83-ba17-9fb8186f2a97",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 47,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 52,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 9,
    "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 25.0,
+   "numOutlaws": 3,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,14 +92,6 @@
    ],
    "townBlocks": [
     [
-     382,
-     -689
-    ],
-    [
-     382,
-     -690
-    ],
-    [
      384,
      -689
     ],
@@ -112,36 +104,16 @@
      -690
     ],
     [
-     381,
-     -685
-    ],
-    [
-     381,
-     -686
-    ],
-    [
-     381,
-     -687
-    ],
-    [
-     381,
-     -688
+     384,
+     -683
     ],
     [
      384,
      -685
-    ],
-    [
-     381,
-     -689
     ],
     [
      384,
      -684
-    ],
-    [
-     381,
-     -690
     ],
     [
      384,
@@ -162,34 +134,10 @@
     [
      380,
      -688
-    ],
-    [
-     382,
-     -684
     ],
     [
      380,
      -689
-    ],
-    [
-     382,
-     -685
-    ],
-    [
-     382,
-     -686
-    ],
-    [
-     382,
-     -687
-    ],
-    [
-     382,
-     -688
-    ],
-    [
-     381,
-     -684
     ],
     [
      380,
@@ -222,6 +170,70 @@
     [
      386,
      -690
+    ],
+    [
+     382,
+     -689
+    ],
+    [
+     382,
+     -690
+    ],
+    [
+     381,
+     -685
+    ],
+    [
+     381,
+     -686
+    ],
+    [
+     381,
+     -687
+    ],
+    [
+     381,
+     -688
+    ],
+    [
+     381,
+     -689
+    ],
+    [
+     381,
+     -690
+    ],
+    [
+     382,
+     -684
+    ],
+    [
+     382,
+     -685
+    ],
+    [
+     382,
+     -686
+    ],
+    [
+     382,
+     -687
+    ],
+    [
+     381,
+     -684
+    ],
+    [
+     382,
+     -688
+    ],
+    [
+     379,
+     -686
+    ],
+    [
+     379,
+     -687
     ],
     [
      383,
@@ -254,6 +266,10 @@
     [
      385,
      -684
+    ],
+    [
+     385,
+     -683
     ],
     [
      385,
@@ -280,7 +296,16 @@
      -687
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -614,
+       -126
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -314,6 +339,10 @@
    {
     "name": "Kronvall005",
     "uuid": "9f69e1a0-90ed-4461-80e8-f032000f5eaf"
+   },
+   {
+    "name": "Henrisek15",
+    "uuid": "c372de24-5b20-4022-b74e-680da5785735"
    }
   ],
   "trusted": [
@@ -334,13 +363,13 @@
    {
     "name": "KingIvanII",
     "uuid": "fcebbf17-19dc-4475-9de3-694fc7ea189f"
+   },
+   {
+    "name": "Tomino1CZ",
+    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
    }
   ],
   "quarters": [
-   {
-    "name": "Inconvenient Residence",
-    "uuid": "d7d36585-73db-44a6-ab0b-5b4e1b8c6565"
-   },
    {
     "name": "Gloomy Dwelling",
     "uuid": "48dc8887-3930-41cc-8e4d-d80a4199d3aa"
@@ -366,12 +395,77 @@
     "uuid": "b0e85754-5cb3-43c1-b1c7-3b94a99b1640"
    },
    {
+    "name": "Inconvenient Residence",
+    "uuid": "d7d36585-73db-44a6-ab0b-5b4e1b8c6565"
+   },
+   {
     "name": "Upbeat Dwelling",
     "uuid": "563ff312-3621-4727-b180-6dcbecf56911"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "8ba11596-e0c1-43d4-937a-95ac3dd2797f"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "a8d16b8f-8ba7-4929-b44e-7b02086ac1cc"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "854d3ddd-239d-4faf-80cb-a53cf4204eea"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "6d640cdb-3836-4bc7-8507-60a030d88094"
+   },
+   {
+    "name": "Elegant Apartment",
+    "uuid": "a90b9e3a-6e99-4792-b391-b3195083bc33"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "c8fb8bce-d3e3-4b5b-aa13-5bb9825a3b25"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "6f12ff57-cd2d-4ce6-854d-7313821ea09e"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "153d3350-2476-464e-a6c5-c698d94f85eb"
+   },
+   {
+    "name": "Bland Tenement",
+    "uuid": "bd7fb7e1-bd28-413a-9442-1cf2db9ac5a5"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "dd0ae590-a240-4a0a-bc1e-dcc2cc2ff070"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "0a02f9c0-3f08-4c95-9b44-efb1f520d578"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "327d2bb8-2ce5-44cc-9922-2a4d7abc3c13"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "9e822ddb-1908-4af1-adf8-d3a4b2ed4b6d"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "0b633b9b-3692-4274-b29d-c81ff94ef475"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Kronvall005",
+     "uuid": "9f69e1a0-90ed-4461-80e8-f032000f5eaf"
+    }
+   ],
    "Builder": [
     {
      "name": "mitchellsmaid",

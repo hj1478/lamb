@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Kallithea",
   "uuid": "b3e81522-08f4-4fb9-9c29-e2ac40697e30",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 265.0,
+   "balance": 311.0,
    "forSalePrice": null
   },
   "perms": {
@@ -544,7 +544,12 @@
     "uuid": "ac510bbe-ad50-4d71-97c4-87aa7386482e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "PROMY19",
+    "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

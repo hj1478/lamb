@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Dyer_Bay",
   "uuid": "920e2300-b618-4a92-8709-4789c0e78e6b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "M0motaros",
-   "uuid": "0dcc6886-ccca-4e2b-9a06-be927cf7a563"
+   "name": "NPC19",
+   "uuid": "8d182704-b16a-20d1-8d72-aa28867be6e3"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1778003826756,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792058401307
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -176,8 +176,8 @@
   },
   "residents": [
    {
-    "name": "M0motaros",
-    "uuid": "0dcc6886-ccca-4e2b-9a06-be927cf7a563"
+    "name": "NPC19",
+    "uuid": "8d182704-b16a-20d1-8d72-aa28867be6e3"
    }
   ],
   "trusted": [],
@@ -190,10 +190,6 @@
    {
     "name": "Lovely Property",
     "uuid": "156cbed6-e0dc-453e-8cdc-0df2a4b1e919"
-   },
-   {
-    "name": "Cheerful Dwelling",
-    "uuid": "4e52a9e7-0673-4ecf-8a52-9ccbcabb2a01"
    },
    {
     "name": "Stylish Residence",
@@ -214,17 +210,16 @@
    {
     "name": "Gloomy Property",
     "uuid": "d142049b-f08a-49ab-86a7-cd5903aa548f"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "4e52a9e7-0673-4ecf-8a52-9ccbcabb2a01"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "M0motaros",
-     "uuid": "0dcc6886-ccca-4e2b-9a06-be927cf7a563"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

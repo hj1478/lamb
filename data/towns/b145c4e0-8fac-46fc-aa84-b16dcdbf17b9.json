@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Gokurakucho",
   "uuid": "b145c4e0-8fac-46fc-aa84-b16dcdbf17b9",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "3wetlandnumber",
+   "name": "Kazu_exe",
    "uuid": "878b2bda-0cb9-47f4-a002-c4ffe2982867"
   },
   "nation": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 55,
+   "numTownBlocks": 75,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 18.0,
+   "balance": 226.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -92,8 +92,32 @@
    ],
    "townBlocks": [
     [
+     3004,
+     546
+    ],
+    [
+     3005,
+     545
+    ],
+    [
+     3005,
+     546
+    ],
+    [
+     3004,
+     545
+    ],
+    [
      3000,
      552
+    ],
+    [
+     3005,
+     547
+    ],
+    [
+     3005,
+     548
     ],
     [
      3000,
@@ -104,6 +128,10 @@
      553
     ],
     [
+     3004,
+     550
+    ],
+    [
      3000,
      553
     ],
@@ -112,8 +140,20 @@
      554
     ],
     [
+     3004,
+     549
+    ],
+    [
+     3004,
+     548
+    ],
+    [
      3001,
      552
+    ],
+    [
+     3004,
+     547
     ],
     [
      3002,
@@ -124,12 +164,32 @@
      552
     ],
     [
+     3002,
+     551
+    ],
+    [
      3005,
      553
     ],
     [
      3005,
      554
+    ],
+    [
+     3005,
+     549
+    ],
+    [
+     3003,
+     545
+    ],
+    [
+     3005,
+     550
+    ],
+    [
+     3005,
+     551
     ],
     [
      3002,
@@ -144,12 +204,28 @@
      552
     ],
     [
+     3003,
+     549
+    ],
+    [
      2999,
      553
     ],
     [
+     3003,
+     548
+    ],
+    [
      2999,
      554
+    ],
+    [
+     3003,
+     547
+    ],
+    [
+     3003,
+     546
     ],
     [
      2999,
@@ -178,6 +254,10 @@
     [
      2999,
      551
+    ],
+    [
+     3003,
+     550
     ],
     [
      2998,
@@ -316,14 +396,30 @@
   },
   "residents": [
    {
-    "name": "3wetlandnumber",
+    "name": "Kazu_exe",
     "uuid": "878b2bda-0cb9-47f4-a002-c4ffe2982867"
    }
   ],
   "trusted": [
    {
+    "name": "DONGjp",
+    "uuid": "ed8e3355-207c-4312-8960-b100e8872386"
+   },
+   {
+    "name": "DKK_Channel",
+    "uuid": "cb2b1dd0-8281-44a3-b71e-b06c2042f15f"
+   },
+   {
     "name": "_Reitou",
     "uuid": "40b0fcac-1748-44e5-9894-c15c5d4886ba"
+   },
+   {
+    "name": "Tau_Ceti_e",
+    "uuid": "d90ddfea-7783-4a25-bccc-9ee495ed137f"
+   },
+   {
+    "name": "Mugitan7712",
+    "uuid": "9ff6d626-1833-4483-be4a-636a2307baeb"
    }
   ],
   "outlaws": [],

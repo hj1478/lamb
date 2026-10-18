@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Netherland",
   "uuid": "a1ab2f71-7125-4cfd-9df1-9817f67386a6",
-  "board": "To know your enemy, you must become your enemy. Sun Tzu",
+  "board": "yo",
   "founder": "MikYoutube",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "bd2e2462-bc66-49a1-9158-08242db4a4b5"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1782832543557,
-   "joinedNationAt": 1784978263664,
+   "joinedNationAt": 1792078325249,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 232,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 316,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
-   "numTrusted": 2,
-   "numOutlaws": 5,
-   "balance": 147.0,
+   "numResidents": 18,
+   "numTrusted": 4,
+   "numOutlaws": 6,
+   "balance": 405.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2853.5642420195136,
+    "x": 2853.5027186998786,
     "y": 66.0,
-    "z": -11706.396352345892,
-    "pitch": -48.749783,
-    "yaw": 91.77371
+    "z": -11706.033610852068,
+    "pitch": 20.999416,
+    "yaw": 99.406006
    },
    "homeBlock": [
     178,
@@ -392,16 +392,12 @@
      -732
     ],
     [
-     180,
-     -731
-    ],
-    [
      177,
      -750
     ],
     [
      180,
-     -730
+     -731
     ],
     [
      177,
@@ -409,11 +405,15 @@
     ],
     [
      180,
-     -729
+     -730
     ],
     [
      177,
      -748
+    ],
+    [
+     180,
+     -729
     ],
     [
      177,
@@ -704,16 +704,12 @@
      -735
     ],
     [
-     179,
-     -736
-    ],
-    [
      176,
      -748
     ],
     [
      179,
-     -733
+     -736
     ],
     [
      176,
@@ -721,11 +717,15 @@
     ],
     [
      179,
-     -734
+     -733
     ],
     [
      176,
      -750
+    ],
+    [
+     179,
+     -734
     ],
     [
      176,
@@ -1028,10 +1028,6 @@
     "uuid": "bd2e2462-bc66-49a1-9158-08242db4a4b5"
    },
    {
-    "name": "XXNugget007",
-    "uuid": "052dfe5a-9aac-448a-835a-0c78cdf81aca"
-   },
-   {
     "name": "CripSKY__",
     "uuid": "7c8515e5-e040-4900-96c6-4bd3a4693781"
    },
@@ -1086,12 +1082,32 @@
    {
     "name": "Raykowicz",
     "uuid": "473ecf44-47bf-4c80-af12-5a9b6e18b264"
+   },
+   {
+    "name": "GeleEend1",
+    "uuid": "28934f94-338f-430e-9a77-fdf53291e015"
+   },
+   {
+    "name": "Jeff97381",
+    "uuid": "0c480549-d654-4887-8f44-1517e00440d0"
+   },
+   {
+    "name": "Iamzachary008",
+    "uuid": "084b4ced-4314-4424-b1dc-7dc5096d6f88"
    }
   ],
   "trusted": [
    {
     "name": "Masterplan28",
     "uuid": "2dde1485-ee7f-40d6-ba04-57b32468eb1f"
+   },
+   {
+    "name": "Addychi01",
+    "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
+   },
+   {
+    "name": "AlexTheBest048",
+    "uuid": "d3fc9bb3-f77d-4e50-a98b-e69d81d8b5b9"
    },
    {
     "name": "Skaless",
@@ -1118,6 +1134,10 @@
    {
     "name": "Chrouched_",
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
+   },
+   {
+    "name": "DABBIED",
+    "uuid": "50b988e2-24b8-44d0-b2ff-77cda4fec130"
    }
   ],
   "quarters": [
@@ -1206,10 +1226,6 @@
     "uuid": "aed825cf-347c-4f53-9f92-cd1429e7f05d"
    },
    {
-    "name": "Upbeat Suite",
-    "uuid": "de37d68b-bdd9-4299-9cc1-b1ea19218d30"
-   },
-   {
     "name": "U1 Tram Line",
     "uuid": "5ba50863-f9bd-445f-b41b-1c9f42e8908e"
    },
@@ -1222,10 +1238,6 @@
     "uuid": "b4834905-d81d-42da-8d79-1906268dd18b"
    },
    {
-    "name": "Elegant Quarter",
-    "uuid": "fba972d6-c8f6-4a5e-b004-53789a7fe956"
-   },
-   {
     "name": "Enraging Apartment",
     "uuid": "4af62989-3e60-424f-8114-44e44b6efedc"
    },
@@ -1234,16 +1246,32 @@
     "uuid": "36aa1b76-07bd-4f66-8f93-e4c3548e1723"
    },
    {
-    "name": "Gloomy Dwelling",
-    "uuid": "1c47434f-532e-4e81-991c-976fbe8ff812"
+    "name": "Upbeat Dwelling",
+    "uuid": "b88f88d2-d626-44ba-a592-20d629c2b5fd"
    },
    {
     "name": "Lovely Apartment",
     "uuid": "f4d3bac0-c065-4ae7-bf4c-1e5b6e567fbb"
    },
    {
-    "name": "Upbeat Dwelling",
-    "uuid": "b88f88d2-d626-44ba-a592-20d629c2b5fd"
+    "name": "Upbeat Suite",
+    "uuid": "de37d68b-bdd9-4299-9cc1-b1ea19218d30"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "1c47434f-532e-4e81-991c-976fbe8ff812"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "fba972d6-c8f6-4a5e-b004-53789a7fe956"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "45469f96-36ef-4179-8ab4-82669c4ecc5c"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "880cfbc1-3721-4b4f-8d12-7dcffb97cc00"
    }
   ],
   "ranks": {

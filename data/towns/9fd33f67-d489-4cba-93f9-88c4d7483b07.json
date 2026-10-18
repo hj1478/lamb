@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Malet_E_Dibres",
   "uuid": "9fd33f67-d489-4cba-93f9-88c4d7483b07",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Sh3h1",
-   "uuid": "7318a7a3-ef2f-438a-872d-452c697664ef"
+   "name": "NPC72",
+   "uuid": "55e0f46e-8c87-204f-aa5e-b6f03732c7eb"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783440894713,
-   "joinedNationAt": 1787328556589,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792144801284
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 14,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -152,8 +152,8 @@
   },
   "residents": [
    {
-    "name": "Sh3h1",
-    "uuid": "7318a7a3-ef2f-438a-872d-452c697664ef"
+    "name": "NPC72",
+    "uuid": "55e0f46e-8c87-204f-aa5e-b6f03732c7eb"
    }
   ],
   "trusted": [],

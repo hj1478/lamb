@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Beira",
   "uuid": "a34b25be-abf5-4e73-81ca-af2335b023e4",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 295,
-   "maxTownBlocks": 596,
+   "numTownBlocks": 305,
+   "maxTownBlocks": 584,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 43,
-   "numTrusted": 8,
+   "numResidents": 42,
+   "numTrusted": 7,
    "numOutlaws": 4,
-   "balance": 159.0,
+   "balance": 140.0,
    "forSalePrice": null
   },
   "perms": {
@@ -432,8 +432,20 @@
      933
     ],
     [
+     790,
+     942
+    ],
+    [
      797,
      935
+    ],
+    [
+     790,
+     941
+    ],
+    [
+     790,
+     940
     ],
     [
      797,
@@ -1068,28 +1080,48 @@
      935
     ],
     [
+     791,
+     942
+    ],
+    [
      799,
      934
+    ],
+    [
+     791,
+     941
+    ],
+    [
+     791,
+     940
     ],
     [
      799,
      933
     ],
     [
+     791,
+     939
+    ],
+    [
      799,
      932
+    ],
+    [
+     791,
+     938
     ],
     [
      799,
      931
     ],
     [
-     799,
-     930
-    ],
-    [
      791,
      937
+    ],
+    [
+     799,
+     930
     ],
     [
      803,
@@ -1124,8 +1156,16 @@
      921
     ],
     [
+     792,
+     941
+    ],
+    [
      803,
      920
+    ],
+    [
+     792,
+     942
     ],
     [
      803,
@@ -1285,10 +1325,6 @@
     "uuid": "622410a6-3164-4f6e-9c7b-3ab6af4cf834"
    },
    {
-    "name": "LenSsheepish",
-    "uuid": "535e2cb6-bc27-4560-afb7-551546bdf5c2"
-   },
-   {
     "name": "Aperk155",
     "uuid": "1d053bb8-6715-4574-baff-bc0b998a93f6"
    },
@@ -1315,14 +1351,6 @@
    {
     "name": "ALEX5w5",
     "uuid": "d5577f29-9a98-4748-a0d2-2fc8e1741329"
-   },
-   {
-    "name": "Jaimepi221212",
-    "uuid": "e0b2e76f-1956-41c4-9154-fefcf712f36c"
-   },
-   {
-    "name": "Mochkai_Mochi",
-    "uuid": "c323800e-0547-4b49-a023-734e7f574375"
    },
    {
     "name": "UnixUser_",
@@ -1409,10 +1437,6 @@
     "uuid": "8e62ab71-911e-43c7-96c5-5b6beb91a04c"
    },
    {
-    "name": "Cy3pher",
-    "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
-   },
-   {
     "name": "TengoldXXIV",
     "uuid": "0725dff3-7317-42ba-9003-369a2fc67bd3"
    },
@@ -1451,6 +1475,18 @@
    {
     "name": "xTrachea",
     "uuid": "bff71734-b5cf-412e-8fd4-06644d1ba8ff"
+   },
+   {
+    "name": "pulque_parrot",
+    "uuid": "4a25a6f0-369c-4a05-b72f-c9b9e54af540"
+   },
+   {
+    "name": "ShadowMiner3",
+    "uuid": "e512c379-8d3a-413c-956b-dcbbff3a6e29"
+   },
+   {
+    "name": "BerryLemonAid",
+    "uuid": "139266a5-9969-4283-b091-52f87390a6d8"
    }
   ],
   "trusted": [
@@ -1477,10 +1513,6 @@
    {
     "name": "AlexeyPegasus",
     "uuid": "ca850762-36fc-4a7f-800a-1beb974f8f3d"
-   },
-   {
-    "name": "Kabancik",
-    "uuid": "ea6deec5-8090-4edc-988a-34ba9cf5eb0b"
    },
    {
     "name": "_TNTBlake_",
@@ -1517,10 +1549,6 @@
    {
     "name": "Beira Station",
     "uuid": "aa4bd451-ee1d-4370-b61c-fe9df8a781f7"
-   },
-   {
-    "name": "Inviting Suite",
-    "uuid": "8c41a016-8ee1-4f21-8d21-f145d6f86353"
    },
    {
     "name": "Enraging Tenement",
@@ -1589,6 +1617,10 @@
    {
     "name": "Gloomy Residence",
     "uuid": "d8ae5038-85e5-4842-b715-ac99aa915ae6"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "8c41a016-8ee1-4f21-8d21-f145d6f86353"
    }
   ],
   "ranks": {

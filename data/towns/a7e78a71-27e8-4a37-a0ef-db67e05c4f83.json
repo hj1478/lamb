@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Polska",
   "uuid": "a7e78a71-27e8-4a37-a0ef-db67e05c4f83",
-  "board": "Glory to Polish Lithuanian Commonwealth!",
+  "board": "PLC",
   "founder": "whatmilo",
   "wiki": null,
-  "discord": "https://discord.gg/FjKcsMSjh",
+  "discord": null,
   "mayor": {
-   "name": "whatmilo",
-   "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
+   "name": "Underground0908",
+   "uuid": "c1526d2d-c6b0-426b-b7d0-549aca36fd37"
   },
   "nation": {
    "name": "PLC",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1790362262354,
-   "joinedNationAt": 1791584942517,
+   "joinedNationAt": 1792078920197,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 244,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
-   "numTrusted": 0,
+   "numResidents": 11,
+   "numTrusted": 1,
    "numOutlaws": 9,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10735.535118672988,
-    "y": 65.0,
-    "z": -12525.247435241256,
-    "pitch": 20.412485,
-    "yaw": -89.02709
+    "x": 10742.103463021997,
+    "y": 67.0,
+    "z": -12559.618645985496,
+    "pitch": -11.099976,
+    "yaw": 1.6416626
    },
    "homeBlock": [
-    670,
-    -783
+    671,
+    -785
    ],
    "townBlocks": [
     [
@@ -352,10 +352,6 @@
   },
   "residents": [
    {
-    "name": "whatmilo",
-    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
-   },
-   {
     "name": "Dominic333143",
     "uuid": "010b6464-529a-4c9c-9b12-0be903a1af53"
    },
@@ -400,7 +396,12 @@
     "uuid": "548585d4-203f-4a36-ac8f-d209f1e47ab0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "whatmilo",
+    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
+   }
+  ],
   "outlaws": [
    {
     "name": "Wolk__",
@@ -419,10 +420,6 @@
     "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
    },
    {
-    "name": "gogicho",
-    "uuid": "6a1c1c3e-1a57-4fcc-be26-91a5d5666c9c"
-   },
-   {
     "name": "Tldigi",
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    },
@@ -437,14 +434,13 @@
    {
     "name": "MCGamer12365",
     "uuid": "835d6c15-8627-4d30-8c5e-f1ebe73d455a"
-   }
-  ],
-  "quarters": [
+   },
    {
-    "name": "Calcite",
-    "uuid": "f90e438b-d287-47cf-936f-7a72e72f2841"
+    "name": "KajoGrzybek",
+    "uuid": "b1d630b8-f007-418f-b29d-48b142cded65"
    }
   ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

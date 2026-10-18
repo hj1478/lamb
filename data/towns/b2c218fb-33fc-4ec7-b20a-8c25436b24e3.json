@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Magnus_Bay",
   "uuid": "b2c218fb-33fc-4ec7-b20a-8c25436b24e3",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 38.0,
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -331.8929485432528,
+    "x": -350.53716579505107,
     "y": 63.0,
-    "z": -16899.49691156464,
-    "pitch": 20.136478,
-    "yaw": 91.13379
+    "z": -16898.513970672142,
+    "pitch": 3.338338,
+    "yaw": 91.22647
    },
    "homeBlock": [
-    -21,
+    -22,
     -1057
    ],
    "townBlocks": [
@@ -188,12 +188,20 @@
      -1055
     ],
     [
+     -21,
+     -1056
+    ],
+    [
      -26,
      -1054
     ],
     [
      -24,
      -1056
+    ],
+    [
+     -21,
+     -1055
     ],
     [
      -24,
@@ -209,6 +217,10 @@
     ],
     [
      -22,
+     -1055
+    ],
+    [
+     -22,
      -1056
     ]
    ],
@@ -218,10 +230,6 @@
    {
     "name": "iSerxue",
     "uuid": "97bea094-108f-4efa-8b62-00b665a5992d"
-   },
-   {
-    "name": "plaer44",
-    "uuid": "891c9ab3-e4f6-41ee-9e46-ff032ca8daaf"
    },
    {
     "name": "The_Pr0t0typ3",
@@ -237,10 +245,6 @@
   ],
   "quarters": [
    {
-    "name": "Cheerful Tenement",
-    "uuid": "fb716bb1-50e3-4379-a805-29d7d23252f2"
-   },
-   {
     "name": "Upbeat Dwelling",
     "uuid": "54ad29ca-bd92-46b2-8c12-cedf1957f477"
    },
@@ -255,6 +259,10 @@
    {
     "name": "castle inn",
     "uuid": "2c8a92f3-59da-4dc5-a562-278d3cad179f"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "fb716bb1-50e3-4379-a805-29d7d23252f2"
    }
   ],
   "ranks": {

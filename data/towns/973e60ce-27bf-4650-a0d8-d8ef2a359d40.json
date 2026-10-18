@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Stockholm",
   "uuid": "973e60ce-27bf-4650-a0d8-d8ef2a359d40",
@@ -42,7 +42,7 @@
    "numResidents": 26,
    "numTrusted": 4,
    "numOutlaws": 5,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1737,6 +1737,10 @@
    {
     "name": "Bosatt Lane 12",
     "uuid": "7ef458b1-e9e2-45c1-8cac-0823faff9c7a"
+   },
+   {
+    "name": "Fittaville",
+    "uuid": "c6d245d1-8a05-437c-a119-f27fcb3be67f"
    }
   ],
   "ranks": {
@@ -1749,20 +1753,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Shop",
-    "uuid": "f05d7a67-d019-4dda-b138-d5f9f7faf47a",
-    "createdAt": 1791714803745,
-    "createdBy": "ChrisNoSignal",
-    "access": "NATION",
-    "location": {
-     "x": 6393,
-     "y": 8,
-     "z": -16131
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

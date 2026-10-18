@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Axolotl_Paradise",
   "uuid": "a275cc8b-21ed-455d-a010-2eb2dbdb27f2",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 54,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 59,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 4,
-   "numOutlaws": 5,
+   "numResidents": 3,
+   "numTrusted": 5,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26530.54138426251,
+    "x": -26531.1423508332,
     "y": 70.0,
-    "z": -9333.328906314999,
-    "pitch": -1.790694,
-    "yaw": 91.07141
+    "z": -9333.788795501485,
+    "pitch": 14.765121,
+    "yaw": 94.151764
    },
    "homeBlock": [
     -1659,
@@ -96,6 +96,10 @@
      -584
     ],
     [
+     -1656,
+     -580
+    ],
+    [
      -1659,
      -583
     ],
@@ -193,6 +197,10 @@
     ],
     [
      -1657,
+     -580
+    ],
+    [
+     -1657,
      -581
     ],
     [
@@ -216,8 +224,16 @@
      -582
     ],
     [
+     -1654,
+     -581
+    ],
+    [
      -1661,
      -586
+    ],
+    [
+     -1654,
+     -580
     ],
     [
      -1658,
@@ -254,6 +270,10 @@
     [
      -1654,
      -585
+    ],
+    [
+     -1655,
+     -580
     ],
     [
      -1660,
@@ -320,10 +340,6 @@
     "uuid": "74bfffe6-f170-4243-9d8e-3ea6912f2345"
    },
    {
-    "name": "drtestimuncher",
-    "uuid": "6e6656b8-2435-4e72-a1b9-e92403a906ac"
-   },
-   {
     "name": "HydroSquirtle",
     "uuid": "b8da8716-91b8-4f7b-b991-f2f684313197"
    }
@@ -336,6 +352,10 @@
    {
     "name": "Fallen12_",
     "uuid": "a89f197f-3864-49b0-90a5-ed14b7d103d5"
+   },
+   {
+    "name": "TheLegend1st",
+    "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
    },
    {
     "name": "diegolefou88",
@@ -362,10 +382,6 @@
    {
     "name": "Saltiestspinach",
     "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
-   },
-   {
-    "name": "TheRealPotatoGuy",
-    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
    }
   ],
   "quarters": [
@@ -464,6 +480,10 @@
    {
     "name": "Luxurious Property",
     "uuid": "bc018e16-75cb-438e-8afe-5d14c15eb46a"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "7abe8966-b6bb-473d-be93-0c94e12fc3e7"
    }
   ],
   "ranks": {

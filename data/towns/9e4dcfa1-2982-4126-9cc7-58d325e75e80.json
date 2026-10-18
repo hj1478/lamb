@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Caria",
   "uuid": "9e4dcfa1-2982-4126-9cc7-58d325e75e80",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 116,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 124,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 4,
+   "numResidents": 7,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 38.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10171.817898290003,
-    "y": 68.0,
-    "z": -5859.7948263310855,
-    "pitch": 3.299908,
-    "yaw": 124.55987
+    "x": 10138.559864204604,
+    "y": 64.5,
+    "z": -5828.262378580763,
+    "pitch": 13.499933,
+    "yaw": 96.95572
    },
    "homeBlock": [
-    635,
-    -367
+    633,
+    -365
    ],
    "townBlocks": [
+    [
+     627,
+     -360
+    ],
     [
      634,
      -369
@@ -160,6 +164,10 @@
      -365
     ],
     [
+     629,
+     -358
+    ],
+    [
      641,
      -368
     ],
@@ -172,12 +180,20 @@
      -364
     ],
     [
+     628,
+     -359
+    ],
+    [
      629,
      -364
     ],
     [
      641,
      -365
+    ],
+    [
+     628,
+     -358
     ],
     [
      629,
@@ -194,6 +210,10 @@
     [
      641,
      -367
+    ],
+    [
+     629,
+     -359
     ],
     [
      629,
@@ -204,8 +224,20 @@
      -361
     ],
     [
+     628,
+     -361
+    ],
+    [
      641,
      -363
+    ],
+    [
+     628,
+     -360
+    ],
+    [
+     629,
+     -362
     ],
     [
      640,
@@ -574,6 +606,18 @@
    {
     "name": "iSadxier",
     "uuid": "abdd06ed-6826-451d-92e0-77e4edcffcda"
+   },
+   {
+    "name": "Pitcaa",
+    "uuid": "c99a33b3-f1b4-49aa-a1fb-e0ad2030547c"
+   },
+   {
+    "name": "WaferPie",
+    "uuid": "50bb5b09-454b-4858-ab7c-f89a78fed4c0"
+   },
+   {
+    "name": "ManoahL12",
+    "uuid": "18ac5f7d-b8ae-4768-8789-72a0258dfa53"
    }
   ],
   "trusted": [
@@ -582,12 +626,20 @@
     "uuid": "e02bf1cc-9a80-44c4-bf8b-9be92634aad7"
    },
    {
+    "name": "WaferPie",
+    "uuid": "50bb5b09-454b-4858-ab7c-f89a78fed4c0"
+   },
+   {
     "name": "iSadxier",
     "uuid": "abdd06ed-6826-451d-92e0-77e4edcffcda"
    },
    {
     "name": "Efium",
     "uuid": "a6cd529d-aecf-436a-9c95-9cc59738aec0"
+   },
+   {
+    "name": "Pitcaa",
+    "uuid": "c99a33b3-f1b4-49aa-a1fb-e0ad2030547c"
    },
    {
     "name": "Infamous_Xer0",
@@ -603,10 +655,19 @@
    {
     "name": "Gloomy Residence",
     "uuid": "0dccd174-a685-4d2f-8d64-fbba5b3e2f34"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "8e51e4ef-cbe8-488d-908d-42a74823ffbc"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Efium",
+     "uuid": "a6cd529d-aecf-436a-9c95-9cc59738aec0"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

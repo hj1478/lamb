@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Yurlo",
   "uuid": "9bb23fd3-efc3-46e2-bb56-283ae39b0733",
-  "board": "/town set board [msg]",
+  "board": "The home of the fish with antlers",
   "founder": "MotionZee",
   "wiki": null,
   "discord": null,
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 9.0,
+   "numOutlaws": 1,
+   "balance": 38.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,43 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -22835.50553106058,
-    "y": 67.0,
-    "z": -15679.465213028596,
-    "pitch": 45.14999,
-    "yaw": 82.20261
+    "x": -22807.594841402704,
+    "y": 63.0,
+    "z": -15673.368259294877,
+    "pitch": 71.39999,
+    "yaw": 97.79962
    },
    "homeBlock": [
-    -1428,
+    -1426,
     -980
    ],
    "townBlocks": [
     [
+     -1426,
+     -979
+    ],
+    [
+     -1425,
+     -979
+    ],
+    [
+     -1426,
+     -980
+    ],
+    [
      -1427,
+     -980
+    ],
+    [
+     -1425,
+     -981
+    ],
+    [
+     -1427,
+     -979
+    ],
+    [
+     -1425,
      -980
     ],
     [
@@ -110,6 +134,14 @@
     [
      -1428,
      -980
+    ],
+    [
+     -1426,
+     -981
+    ],
+    [
+     -1428,
+     -979
     ]
    ],
    "worlds": {}
@@ -118,10 +150,19 @@
    {
     "name": "MotionZee",
     "uuid": "4d3b00c2-44a3-426f-9fc6-94c44e1de037"
+   },
+   {
+    "name": "radio_knight500",
+    "uuid": "cfe9245c-025b-463d-a79e-9828cd84d9cb"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jamari_aymara23",
+    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

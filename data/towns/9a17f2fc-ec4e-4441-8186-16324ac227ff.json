@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Africa",
   "uuid": "9a17f2fc-ec4e-4441-8186-16324ac227ff",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 165,
-   "maxTownBlocks": 238,
+   "numTownBlocks": 178,
+   "maxTownBlocks": 322,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 19,
+   "numResidents": 26,
    "numTrusted": 1,
    "numOutlaws": 4,
-   "balance": 7049.0,
+   "balance": 8878.0,
    "forSalePrice": null
   },
   "perms": {
@@ -184,6 +184,14 @@
      651
     ],
     [
+     542,
+     660
+    ],
+    [
+     542,
+     661
+    ],
+    [
      547,
      655
     ],
@@ -205,11 +213,19 @@
     ],
     [
      547,
+     660
+    ],
+    [
+     547,
      657
     ],
     [
      547,
      658
+    ],
+    [
+     547,
+     661
     ],
     [
      536,
@@ -329,6 +345,10 @@
     ],
     [
      541,
+     659
+    ],
+    [
+     541,
      658
     ],
     [
@@ -413,6 +433,14 @@
     ],
     [
      543,
+     661
+    ],
+    [
+     543,
+     660
+    ],
+    [
+     543,
      659
     ],
     [
@@ -426,6 +454,14 @@
     [
      533,
      654
+    ],
+    [
+     545,
+     661
+    ],
+    [
+     545,
+     660
     ],
     [
      545,
@@ -492,6 +528,10 @@
      654
     ],
     [
+     544,
+     660
+    ],
+    [
      545,
      647
     ],
@@ -578,6 +618,10 @@
     [
      545,
      653
+    ],
+    [
+     544,
+     661
     ],
     [
      545,
@@ -680,8 +724,16 @@
      650
     ],
     [
+     546,
+     661
+    ],
+    [
      537,
      651
+    ],
+    [
+     546,
+     660
     ],
     [
      537,
@@ -824,12 +876,40 @@
     "uuid": "cbeddc54-0657-4583-804b-bf2980840225"
    },
    {
-    "name": "ISRAMARK",
-    "uuid": "00c0d74d-4960-4c67-9397-9ed88e5106b6"
-   },
-   {
     "name": "SayKudYT",
     "uuid": "eb518f38-04ba-41cb-8e86-8490d5b87243"
+   },
+   {
+    "name": "Gabel_ist_cool",
+    "uuid": "65cc1c6f-9fb0-435c-9d72-0a9be206c1e2"
+   },
+   {
+    "name": "2GOD_BLOCKBOY",
+    "uuid": "4a648917-74d0-46a2-a600-e8ee47c7a400"
+   },
+   {
+    "name": "Elifivesix",
+    "uuid": "2f31496c-71fe-40cd-ad00-a0edaaf1902a"
+   },
+   {
+    "name": "MrSlavv",
+    "uuid": "2927e689-560d-4b10-b7a3-f27e0e6b4405"
+   },
+   {
+    "name": "CjRock67",
+    "uuid": "35ff83da-0a24-4f0a-a14a-4bb77b833c01"
+   },
+   {
+    "name": "realreeseactual",
+    "uuid": "4f441699-c585-4792-b9d4-f17c1a6426fa"
+   },
+   {
+    "name": "Yacine65439",
+    "uuid": "dd3f5ba9-aa8a-42a1-a4df-783e1210f874"
+   },
+   {
+    "name": "jaffergirl",
+    "uuid": "ad23dbe8-da83-48b0-b39b-070e5d926869"
    }
   ],
   "trusted": [
@@ -857,14 +937,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Quarter1",
-    "uuid": "c0fc2994-1854-4c3c-beef-5573a71e9ce7"
-   },
-   {
-    "name": "Inviting Apartment",
-    "uuid": "5f235933-ea68-4bb1-a70f-c47132392667"
-   },
    {
     "name": "Inconvenient Residence",
     "uuid": "8081bc6f-4695-4ace-b269-dcd7728c8675"
@@ -946,16 +1018,8 @@
     "uuid": "bd866cb1-1bae-4388-8864-2ff483b21d96"
    },
    {
-    "name": "54 stack Andesite",
-    "uuid": "7a0412ae-0a9a-4ae2-b5d4-c0809f882cb2"
-   },
-   {
     "name": "Dull Property",
     "uuid": "8d483cc9-2a4b-43cf-bb52-737a4aaa802f"
-   },
-   {
-    "name": "54 Stack Spruce Log",
-    "uuid": "b24b7a5b-04b5-4ff7-b8d5-515b99c9779b"
    },
    {
     "name": "Bulk Glass | 54 stack",
@@ -970,16 +1034,116 @@
     "uuid": "64592389-9b4d-4e79-975b-78a8fa5d1d3e"
    },
    {
-    "name": "Bulk Glass | 54 stack",
-    "uuid": "3978499a-fc9d-4832-839a-08409987dae0"
-   },
-   {
-    "name": "Bulk Glass | 54 stack",
-    "uuid": "c80d42fc-bd64-4839-8add-c591e83a9516"
-   },
-   {
     "name": "Perturbing Residence",
     "uuid": "c054b104-afc7-44c8-b52c-1366777e7d96"
+   },
+   {
+    "name": "Bulk Glass | 54 stack",
+    "uuid": "fc71f79b-ab86-4ca4-9c85-99ce6b1c4b45"
+   },
+   {
+    "name": "54 stack Pale Oak Log",
+    "uuid": "bed0fba2-4872-4bd6-afd7-ed15ff50b7d8"
+   },
+   {
+    "name": "Bulk Crimson Stem Log | 54 Stack",
+    "uuid": "1f60b3ea-1b1b-4321-a628-aaf424f109a9"
+   },
+   {
+    "name": "Bulk Warped Stem Log | 54 Stack",
+    "uuid": "8be90ae3-251a-4084-a537-3032996b4452"
+   },
+   {
+    "name": "Bulk Cherry Log | 54 Stack",
+    "uuid": "e821a7cf-7140-4fbf-8cad-a655d2a84aed"
+   },
+   {
+    "name": "54 Stack Spruce Log",
+    "uuid": "b24b7a5b-04b5-4ff7-b8d5-515b99c9779b"
+   },
+   {
+    "name": "Bulk Jungle Log | 54 Stack",
+    "uuid": "723fe6a7-8496-4629-8662-4a706b4c4fcb"
+   },
+   {
+    "name": "Bulk Jungle Log | 54 Stack",
+    "uuid": "dd0ad7d2-a2db-4db8-ba7d-cbe79e35a7b0"
+   },
+   {
+    "name": "Bulk Dark Oak Log | 54 Stack",
+    "uuid": "6beb37cb-e2fa-4356-a5ca-77f68bf5669e"
+   },
+   {
+    "name": "Bulk Warped Stem Log | 54 Stack",
+    "uuid": "28a9a9e5-ab23-457b-97af-d4c2ff6a01b1"
+   },
+   {
+    "name": "Bulk Crimson Stem Log | 54 Stack",
+    "uuid": "bc070490-330d-4223-a09c-a95c1b223123"
+   },
+   {
+    "name": "Bulk Birch Log | 54 Stack",
+    "uuid": "320e21f0-a56b-41af-89fd-803d15b437cb"
+   },
+   {
+    "name": "Bulk Acacia Log | 54 Stack",
+    "uuid": "2baae0c5-a603-4ba4-988f-5b5b3d1db8e2"
+   },
+   {
+    "name": "Bulk Dark Oak Log | 54 Stack",
+    "uuid": "4aa33416-2cf8-4646-a174-a307db030e86"
+   },
+   {
+    "name": "Bulk Pale Oak Log | 54 Stack",
+    "uuid": "cdb869e7-ddc7-4f57-b8d3-403ac8d22b6a"
+   },
+   {
+    "name": "54 stack Andesite",
+    "uuid": "7a0412ae-0a9a-4ae2-b5d4-c0809f882cb2"
+   },
+   {
+    "name": "Bulk Pale Oak Log | 54 Stack",
+    "uuid": "e1485fac-1a41-499b-a224-7c13da9e45ca"
+   },
+   {
+    "name": "Bulk Mangrove Log | 54 Stack",
+    "uuid": "3c2d8b5e-c50f-474f-8ed4-f20eae62f4b3"
+   },
+   {
+    "name": "Bulk Oak Log | 54 Stack",
+    "uuid": "dc876c9b-3591-4455-83d8-3b9c1f3ed6e3"
+   },
+   {
+    "name": "Bulk Mangrove Log | 54 Stack",
+    "uuid": "ef4fe045-677b-4563-acc9-1aba94b993f9"
+   },
+   {
+    "name": "Bulk Spruce Log | 54 Stack",
+    "uuid": "3634b6b3-ec31-4c1f-933b-ead5144f55aa"
+   },
+   {
+    "name": "Bulk Cherry Log | 54 Stack",
+    "uuid": "a485ee89-3c98-490c-9f47-f55de7eb8768"
+   },
+   {
+    "name": "Bulk Acacia Log | 54 Stack",
+    "uuid": "c48364e7-60d7-42bf-8caf-a0dc502791b2"
+   },
+   {
+    "name": "Bulk Birch Log | 54 Stack",
+    "uuid": "255ea88c-fd56-4eac-b84b-3f0ab149bcd7"
+   },
+   {
+    "name": "Bulk Oak Log | 54 Stack",
+    "uuid": "4037860b-7946-49ad-8d60-7e45f4c681e0"
+   },
+   {
+    "name": "Bulk Spruce Log | 54 Stack",
+    "uuid": "2e0cd9ac-ee91-4ff1-ba08-3bb7ad604396"
+   },
+   {
+    "name": "Bulk Spruce Log | 54 Stack",
+    "uuid": "087a4e9f-aa81-4c42-a848-af0ea2b36374"
    },
    {
     "name": "Bulk Glass | 54 stack",
@@ -987,11 +1151,15 @@
    },
    {
     "name": "Bulk Glass | 54 stack",
-    "uuid": "fc71f79b-ab86-4ca4-9c85-99ce6b1c4b45"
+    "uuid": "3978499a-fc9d-4832-839a-08409987dae0"
    },
    {
     "name": "Bulk Glass | 54 stack",
-    "uuid": "ebd32228-dbd9-4a61-a25f-ade5db42e071"
+    "uuid": "7e7d0a3f-5b4e-413a-be21-f46d2eb3bb5a"
+   },
+   {
+    "name": "Bulk Glass | 54 stack",
+    "uuid": "c80d42fc-bd64-4839-8add-c591e83a9516"
    },
    {
     "name": "Bulk Glass | 54 stack",
@@ -1011,7 +1179,7 @@
    },
    {
     "name": "Bulk Glass | 54 stack",
-    "uuid": "8e67e193-c0de-478e-bb03-3eec39028756"
+    "uuid": "e0fd21ec-e408-4f8e-a8bc-3c850f9045ad"
    },
    {
     "name": "Bulk Glass | 54 stack",
@@ -1019,15 +1187,15 @@
    },
    {
     "name": "Bulk Glass | 54 stack",
-    "uuid": "7e7d0a3f-5b4e-413a-be21-f46d2eb3bb5a"
+    "uuid": "8e67e193-c0de-478e-bb03-3eec39028756"
    },
    {
-    "name": "54 stack Pale Oak Log",
-    "uuid": "bed0fba2-4872-4bd6-afd7-ed15ff50b7d8"
+    "name": "Bulk Oak Log | 54 Stack",
+    "uuid": "d67850ce-072d-4e46-a53b-723ab13891d8"
    },
    {
     "name": "Bulk Glass | 54 stack",
-    "uuid": "e0fd21ec-e408-4f8e-a8bc-3c850f9045ad"
+    "uuid": "ebd32228-dbd9-4a61-a25f-ade5db42e071"
    }
   ],
   "ranks": {

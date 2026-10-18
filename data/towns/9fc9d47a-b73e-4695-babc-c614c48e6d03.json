@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Cefalu",
   "uuid": "9fc9d47a-b73e-4695-babc-c614c48e6d03",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 250,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 252,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 8,
+   "numResidents": 14,
+   "numTrusted": 13,
    "numOutlaws": 0,
-   "balance": 146.0,
+   "balance": 51.0,
    "forSalePrice": null
   },
   "perms": {
@@ -905,6 +905,14 @@
     ],
     [
      201,
+     -427
+    ],
+    [
+     201,
+     -428
+    ],
+    [
+     201,
      -429
     ],
     [
@@ -1112,23 +1120,59 @@
     "uuid": "05f1f19d-f10c-4dbe-984d-293c33a05e11"
    },
    {
+    "name": "MinerLazloe",
+    "uuid": "11c67e13-3186-4fa1-8aae-30e55c8abd08"
+   },
+   {
+    "name": "PFox1",
+    "uuid": "a6c8895f-88e1-4be4-bc9d-79b5aa7a3273"
+   },
+   {
     "name": "immaNOMs",
     "uuid": "6fcd2174-7497-442b-8592-60dd993c5fef"
+   },
+   {
+    "name": "sgamer_1232",
+    "uuid": "63dd4f01-0aa4-4129-9fe1-400ff4db97e4"
    },
    {
     "name": "puppyali",
     "uuid": "604ed592-c160-4f12-8850-19f46df43d2e"
    },
    {
+    "name": "Niaz2503",
+    "uuid": "c91edd1e-b205-4247-90f0-b7c69d10e6e1"
+   },
+   {
     "name": "Medkit1",
     "uuid": "888e7cfb-4a7a-47cc-80b5-8cc2653ab141"
    },
    {
-    "name": "StarWarsGuy4",
-    "uuid": "ba6a01e2-95b0-4280-af8a-2b0b26978ee2"
+    "name": "tornado3872",
+    "uuid": "53ff7935-458b-4503-ae58-3455b1d42499"
+   },
+   {
+    "name": "DreaSelene7",
+    "uuid": "047e44a9-c86d-4129-8a10-9d05b16333e0"
+   },
+   {
+    "name": "muserlen",
+    "uuid": "0f163fd1-ea12-4112-9606-3abbf63d022b"
    }
   ],
   "trusted": [
+   {
+    "name": "sgamer_1232",
+    "uuid": "63dd4f01-0aa4-4129-9fe1-400ff4db97e4"
+   },
+   {
+    "name": "tornado3872",
+    "uuid": "53ff7935-458b-4503-ae58-3455b1d42499"
+   },
+   {
+    "name": "DreaSelene7",
+    "uuid": "047e44a9-c86d-4129-8a10-9d05b16333e0"
+   },
    {
     "name": "Coorisnar",
     "uuid": "9d5dfb20-ff3d-47ac-970c-e6ed1b6c3c48"
@@ -1154,8 +1198,16 @@
     "uuid": "604ed592-c160-4f12-8850-19f46df43d2e"
    },
    {
+    "name": "PFox1",
+    "uuid": "a6c8895f-88e1-4be4-bc9d-79b5aa7a3273"
+   },
+   {
     "name": "immaNOMs",
     "uuid": "6fcd2174-7497-442b-8592-60dd993c5fef"
+   },
+   {
+    "name": "MinerLazloe",
+    "uuid": "11c67e13-3186-4fa1-8aae-30e55c8abd08"
    },
    {
     "name": "bigfaticy",
@@ -1185,12 +1237,25 @@
    ],
    "Builder": [
     {
+     "name": "PFox1",
+     "uuid": "a6c8895f-88e1-4be4-bc9d-79b5aa7a3273"
+    },
+    {
      "name": "immaNOMs",
      "uuid": "6fcd2174-7497-442b-8592-60dd993c5fef"
+    },
+    {
+     "name": "sgamer_1232",
+     "uuid": "63dd4f01-0aa4-4129-9fe1-400ff4db97e4"
     }
    ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "tornado3872",
+     "uuid": "53ff7935-458b-4503-ae58-3455b1d42499"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

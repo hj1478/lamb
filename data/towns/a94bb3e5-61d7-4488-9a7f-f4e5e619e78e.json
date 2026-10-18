@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Andaman",
   "uuid": "a94bb3e5-61d7-4488-9a7f-f4e5e619e78e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 0.0,
+   "balance": 166.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      2082,
+     204
+    ],
+    [
+     2082,
      205
     ],
     [
@@ -142,6 +146,10 @@
     [
      2079,
      209
+    ],
+    [
+     2083,
+     204
     ],
     [
      2079,
@@ -180,6 +188,10 @@
      209
     ],
     [
+     2080,
+     210
+    ],
+    [
      2078,
      208
     ],
@@ -189,11 +201,15 @@
     ],
     [
      2078,
-     209
+     210
     ],
     [
      2079,
      204
+    ],
+    [
+     2078,
+     209
     ]
    ],
    "worlds": {}
@@ -202,9 +218,18 @@
    {
     "name": "QuakeI",
     "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
+   },
+   {
+    "name": "Elas67",
+    "uuid": "70a7487b-70a8-4260-999c-be916aeadba5"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Elas67",
+    "uuid": "70a7487b-70a8-4260-999c-be916aeadba5"
+   }
+  ],
   "outlaws": [
    {
     "name": "invisible_panda2",

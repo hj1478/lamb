@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Mannheim",
   "uuid": "b2c2a784-42ae-4cd7-a6d0-5e95680682d5",
@@ -12,37 +12,37 @@
    "uuid": "6b8e4aa7-ac73-4722-b470-1ff96c0cc196"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1791772770193,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792171863126,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,120 @@
    ],
    "townBlocks": [
     [
+     205,
+     -720
+    ],
+    [
+     205,
+     -719
+    ],
+    [
+     205,
+     -718
+    ],
+    [
+     205,
+     -717
+    ],
+    [
+     204,
+     -721
+    ],
+    [
+     204,
+     -720
+    ],
+    [
+     204,
+     -719
+    ],
+    [
+     204,
+     -718
+    ],
+    [
+     205,
+     -721
+    ],
+    [
+     201,
+     -719
+    ],
+    [
+     201,
+     -720
+    ],
+    [
+     201,
+     -721
+    ],
+    [
+     204,
+     -717
+    ],
+    [
+     201,
+     -716
+    ],
+    [
+     201,
+     -717
+    ],
+    [
+     201,
+     -718
+    ],
+    [
+     202,
+     -721
+    ],
+    [
+     202,
+     -720
+    ],
+    [
+     202,
+     -719
+    ],
+    [
+     202,
+     -718
+    ],
+    [
+     202,
+     -717
+    ],
+    [
+     203,
+     -720
+    ],
+    [
+     203,
+     -721
+    ],
+    [
+     200,
+     -719
+    ],
+    [
+     203,
+     -717
+    ],
+    [
+     203,
+     -718
+    ],
+    [
+     200,
+     -718
+    ],
+    [
      203,
      -719
+    ],
+    [
+     200,
+     -717
     ]
    ],
    "worlds": {}

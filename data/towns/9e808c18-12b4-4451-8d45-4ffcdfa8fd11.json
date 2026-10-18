@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:02:31Z",
+ "fetched_at": "2026-10-18T11:19:29Z",
  "data": {
   "name": "Kita",
   "uuid": "9e808c18-12b4-4451-8d45-4ffcdfa8fd11",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 180,
-   "maxTownBlocks": 110,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 5,
    "numTrusted": 3,
    "numOutlaws": 16,
-   "balance": 1678.0,
+   "balance": 1639.0,
    "forSalePrice": null
   },
   "perms": {
@@ -922,10 +922,6 @@
     "uuid": "49772f68-165e-4ee9-8367-222eedc18da6"
    },
    {
-    "name": "Rares2821",
-    "uuid": "1b55bbff-e0fa-483b-9b6c-796191e4a4a6"
-   },
-   {
     "name": "Dull Quarter",
     "uuid": "eead4ff4-617e-4e6e-a05c-4107f77fb4ba"
    },
@@ -936,6 +932,10 @@
    {
     "name": "nijica Ticket Gate",
     "uuid": "083fcde5-e60c-4e5a-b2f9-5a1e06ea8080"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "2eb55cfc-0af0-4310-a055-fd413bfe5d0d"
    }
   ],
   "ranks": {
@@ -943,9 +943,18 @@
     {
      "name": "Chitonator",
      "uuid": "69ee7250-0658-4266-bb1f-ffca5bd0e1ef"
+    },
+    {
+     "name": "Amehibi",
+     "uuid": "24a63c6e-d799-4bdb-802c-562ef34c292c"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Amehibi",
+     "uuid": "24a63c6e-d799-4bdb-802c-562ef34c292c"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
