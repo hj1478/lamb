@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "La_Llanura",
   "uuid": "c8192c72-1fab-46ce-833e-a8bb58489025",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 174.0,
+   "balance": 214.0,
    "forSalePrice": null
   },
   "perms": {
@@ -312,12 +312,12 @@
     "uuid": "6a29a8da-f78d-4cf6-9fde-84a0e809dd58"
    },
    {
-    "name": "PRR628",
-    "uuid": "4e8dc9d7-58d8-4ab7-ad73-636f98447b43"
+    "name": "Sikamechanico",
+    "uuid": "cf0740a3-d5f1-4198-ba30-885e7da0d4e9"
    },
    {
-    "name": "IcystormYT",
-    "uuid": "3d63e4ee-0654-4fa1-8094-a1010e8a78e2"
+    "name": "PRR628",
+    "uuid": "4e8dc9d7-58d8-4ab7-ad73-636f98447b43"
    }
   ],
   "trusted": [],
@@ -334,6 +334,10 @@
   "quarters": [],
   "ranks": {
    "Councillor": [
+    {
+     "name": "Sikamechanico",
+     "uuid": "cf0740a3-d5f1-4198-ba30-885e7da0d4e9"
+    },
     {
      "name": "PRR628",
      "uuid": "4e8dc9d7-58d8-4ab7-ad73-636f98447b43"

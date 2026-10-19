@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Rostock",
   "uuid": "c8016b18-3917-4ec6-b530-1031e04fec26",
-  "board": "/town set board [msg]",
+  "board": "A Socialist Germany!",
   "founder": "Historian_Man",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1792039250338,
-   "joinedNationAt": 1792039259363,
+   "joinedNationAt": 1792382614145,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 19,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4583.534677463902,
-    "y": 64.0,
-    "z": -13676.455169225314,
-    "pitch": 18.150059,
-    "yaw": -167.69154
+    "x": 4582.611217334714,
+    "y": 58.0,
+    "z": -13659.530803397309,
+    "pitch": 6.149984,
+    "yaw": -90.74059
    },
    "homeBlock": [
     286,
-    -855
+    -854
    ],
    "townBlocks": [
     [
@@ -121,6 +121,10 @@
     ],
     [
      286,
+     -856
+    ],
+    [
+     286,
      -855
     ],
     [
@@ -130,6 +134,10 @@
     [
      286,
      -854
+    ],
+    [
+     289,
+     -857
     ],
     [
      288,
@@ -146,6 +154,18 @@
     [
      288,
      -854
+    ],
+    [
+     290,
+     -857
+    ],
+    [
+     290,
+     -855
+    ],
+    [
+     290,
+     -856
     ]
    ],
    "worlds": {}
@@ -156,8 +176,12 @@
     "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
    },
    {
-    "name": "BassyCakes26",
-    "uuid": "05039e6d-1943-4948-aa45-2b181515b3a6"
+    "name": "bobyshare",
+    "uuid": "d4b5bbb6-72c6-47eb-94c4-9c83dbb88a2a"
+   },
+   {
+    "name": "Not_A_No0b",
+    "uuid": "c1a34fc9-2b66-4784-a794-bc87662d425a"
    }
   ],
   "trusted": [],
@@ -166,13 +190,18 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "BassyCakes26",
-     "uuid": "05039e6d-1943-4948-aa45-2b181515b3a6"
+     "name": "bobyshare",
+     "uuid": "d4b5bbb6-72c6-47eb-94c4-9c83dbb88a2a"
     }
    ],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "Not_A_No0b",
+     "uuid": "c1a34fc9-2b66-4784-a794-bc87662d425a"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

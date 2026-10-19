@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Nile",
   "uuid": "d3a78f9b-2a68-4f82-ae97-d7224556fa23",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 481,
-   "maxTownBlocks": 544,
+   "maxTownBlocks": 556,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 37,
-   "numTrusted": 7,
-   "numOutlaws": 5,
-   "balance": 1185.0,
+   "numResidents": 38,
+   "numTrusted": 2,
+   "numOutlaws": 4,
+   "balance": 3769.0,
    "forSalePrice": null
   },
   "perms": {
@@ -600,11 +600,11 @@
      -227
     ],
     [
-     709,
+     706,
      -229
     ],
     [
-     706,
+     709,
      -229
     ],
     [
@@ -2037,18 +2037,6 @@
     "uuid": "c92c10a4-dbab-46d7-948f-e8bae0c67911"
    },
    {
-    "name": "ToastBomber_",
-    "uuid": "3eb75049-53cf-4dde-b7d2-13d7d438f7f5"
-   },
-   {
-    "name": "gerardpique1907",
-    "uuid": "5f91a84d-92c5-4b4e-8c47-8c72dcc421bb"
-   },
-   {
-    "name": "Reeder549",
-    "uuid": "1bf5749c-0f97-40d8-83d6-27e82487de09"
-   },
-   {
     "name": "kennt3",
     "uuid": "bddb4841-0922-4abe-a711-bb2a8229ac92"
    },
@@ -2153,10 +2141,6 @@
     "uuid": "99b05a6c-5632-4017-a07e-2f5c90899442"
    },
    {
-    "name": "2xBlack",
-    "uuid": "83319d6b-ac03-4fff-9582-fdf7d32a29a0"
-   },
-   {
     "name": "Soy_Una_Patata",
     "uuid": "9223bd19-3e1c-4392-8599-433f600ee513"
    },
@@ -2171,6 +2155,26 @@
    {
     "name": "Ocean___________",
     "uuid": "6b731a48-b23b-465f-abfe-472725f8dfda"
+   },
+   {
+    "name": "ImrenTegin",
+    "uuid": "5301b178-9939-4ac9-913c-6c57b1847e60"
+   },
+   {
+    "name": "Wackity_",
+    "uuid": "25cc8056-d558-4043-9222-359d503b9638"
+   },
+   {
+    "name": "BOBSMP",
+    "uuid": "28105b1e-58d5-4609-bf51-f0da3d5a6d13"
+   },
+   {
+    "name": "JuliK2013",
+    "uuid": "5358ee1f-112b-4900-823c-a1f9a7233351"
+   },
+   {
+    "name": "PeonyGrace6899",
+    "uuid": "642a3c88-3689-460e-a6ed-f836df98f093"
    }
   ],
   "trusted": [
@@ -2181,26 +2185,6 @@
    {
     "name": "JR1258",
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
-   },
-   {
-    "name": "qql",
-    "uuid": "1298707e-aab4-4437-8d19-2586916fee53"
-   },
-   {
-    "name": "sabi250",
-    "uuid": "67f557b3-c57d-4c51-903c-9193480a1247"
-   },
-   {
-    "name": "DripFury",
-    "uuid": "05e02202-f641-4de4-9214-053ad8fe058c"
-   },
-   {
-    "name": "Andre1098",
-    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
-   },
-   {
-    "name": "AndrewKase",
-    "uuid": "7f551e7c-082c-4533-b484-7435d9941d0d"
    }
   ],
   "outlaws": [
@@ -2219,10 +2203,6 @@
    {
     "name": "Dckyoos",
     "uuid": "82aa3778-169b-40bb-98cc-701c0ecdd474"
-   },
-   {
-    "name": "36hoi",
-    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
   "quarters": [
@@ -2249,6 +2229,10 @@
    {
     "name": "Poszan",
     "uuid": "98d28e1a-366c-499e-b3b9-a3d590651570"
+   },
+   {
+    "name": "Annoying Tenement",
+    "uuid": "6784e92d-bcf3-4e6f-becd-2054b4793752"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Port_Nailong",
   "uuid": "bab3e607-2965-49b2-bc39-32a8cd41956f",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 87.0,
@@ -194,10 +194,6 @@
    {
     "name": "xXDIOBRANDOXxUwU",
     "uuid": "08060c4b-2f7f-4eb3-9663-d083b33653dd"
-   },
-   {
-    "name": "AKMHARRIS09",
-    "uuid": "f2718bb9-5fff-4aff-9985-3f74735ff2f1"
    }
   ],
   "trusted": [
@@ -209,12 +205,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "AKMHARRIS09",
-     "uuid": "f2718bb9-5fff-4aff-9985-3f74735ff2f1"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

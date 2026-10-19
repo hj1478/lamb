@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Stepnogorsk",
   "uuid": "c33342bf-504c-4563-9919-738e02fb7206",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Intrigued_Feesh",
-   "uuid": "4657fc5e-f20e-4766-a9bf-9617cc64191d"
+   "name": "NPC11",
+   "uuid": "90c954e2-fc8b-204a-852c-d5cb5153ebfa"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1788469930747,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792231201473
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "Intrigued_Feesh",
-    "uuid": "4657fc5e-f20e-4766-a9bf-9617cc64191d"
+    "name": "NPC11",
+    "uuid": "90c954e2-fc8b-204a-852c-d5cb5153ebfa"
    }
   ],
   "trusted": [

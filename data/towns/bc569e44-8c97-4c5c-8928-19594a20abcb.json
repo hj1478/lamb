@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Kufa",
   "uuid": "bc569e44-8c97-4c5c-8928-19594a20abcb",
-  "board": "/town set board [msg]",
+  "board": "The Capital of the Caliphate",
   "founder": "WSZN",
   "wiki": null,
   "discord": null,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 82,
+   "maxTownBlocks": 94,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 6,
+   "numResidents": 7,
    "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 62.0,
+   "balance": 120.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -180,12 +180,12 @@
      -224
     ],
     [
-     998,
-     -225
-    ],
-    [
      996,
      -224
+    ],
+    [
+     998,
+     -225
     ],
     [
      998,
@@ -208,20 +208,20 @@
      -229
     ],
     [
-     1002,
-     -226
-    ],
-    [
      996,
      -229
     ],
     [
      1002,
-     -227
+     -226
     ],
     [
      996,
      -230
+    ],
+    [
+     1002,
+     -227
     ],
     [
      996,
@@ -232,12 +232,12 @@
      -224
     ],
     [
-     1002,
-     -225
-    ],
-    [
      996,
      -228
+    ],
+    [
+     1002,
+     -225
     ],
     [
      996,
@@ -268,28 +268,28 @@
      -228
     ],
     [
+     995,
+     -230
+    ],
+    [
      998,
      -228
     ],
     [
      995,
-     -230
-    ],
-    [
-     998,
-     -229
-    ],
-    [
-     995,
      -229
     ],
     [
      998,
-     -230
+     -229
     ],
     [
      997,
      -225
+    ],
+    [
+     998,
+     -230
     ],
     [
      997,
@@ -374,6 +374,10 @@
    {
     "name": "Airust",
     "uuid": "1911af49-5acf-4176-b1e9-9eac7375a16f"
+   },
+   {
+    "name": "ITIUIQUI",
+    "uuid": "3a5f4915-6b5b-42b4-9ea6-634e38659676"
    }
   ],
   "trusted": [

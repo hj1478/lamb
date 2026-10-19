@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Cienfuegos",
   "uuid": "bbf99381-455b-4dbd-ad7b-77a16cfaf8db",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 260,
-   "maxTownBlocks": 224,
+   "maxTownBlocks": 236,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 12,
-   "numTrusted": 15,
+   "numResidents": 13,
+   "numTrusted": 14,
    "numOutlaws": 1,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1182,6 +1182,10 @@
    {
     "name": "9_88",
     "uuid": "2dbe4f9d-0a59-4a9f-a199-a496ea80edd1"
+   },
+   {
+    "name": "ScrammyHoly",
+    "uuid": "e2ded927-9915-4740-b60f-4d7e43502fcd"
    }
   ],
   "trusted": [
@@ -1204,10 +1208,6 @@
    {
     "name": "CentralCee_alr",
     "uuid": "1ffad1ec-d113-4a7f-a315-34ed8d3eae28"
-   },
-   {
-    "name": "Jadingle",
-    "uuid": "a0889ddb-0697-4aed-b1b7-66777da98797"
    },
    {
     "name": "Jdgumbo",
@@ -1256,10 +1256,6 @@
    {
     "name": "Inviting Apartment",
     "uuid": "75cec8e7-6d58-4d32-a212-fb7dd9c6ad80"
-   },
-   {
-    "name": "Luxurious Flat",
-    "uuid": "7ae9b079-2c7f-4370-b0c0-4c1ac87467fc"
    },
    {
     "name": "Dingy Dwelling",
@@ -1440,6 +1436,10 @@
    {
     "name": "Dingy Flat",
     "uuid": "e3c38f8b-efa1-46f1-93b1-b9376460889b"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "7ae9b079-2c7f-4370-b0c0-4c1ac87467fc"
    }
   ],
   "ranks": {

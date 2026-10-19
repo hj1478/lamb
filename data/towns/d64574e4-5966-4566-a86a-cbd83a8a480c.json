@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Dessert_Desert",
   "uuid": "d64574e4-5966-4566-a86a-cbd83a8a480c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "causeandaffect",
-   "uuid": "eb4e6f04-d55c-4a96-b3fb-b8d6da2cfd04"
+   "name": "NPC54",
+   "uuid": "ebba2a2e-5c69-20b0-9cf3-ccfb869d3495"
   },
   "nation": {
-   "name": "Westralia",
-   "uuid": "7d66f8e6-37d5-4133-b950-2d1d48d926b0"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785421535115,
-   "joinedNationAt": 1785421563010,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792404001955
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "causeandaffect",
-    "uuid": "eb4e6f04-d55c-4a96-b3fb-b8d6da2cfd04"
+    "name": "NPC54",
+    "uuid": "ebba2a2e-5c69-20b0-9cf3-ccfb869d3495"
    }
   ],
   "trusted": [

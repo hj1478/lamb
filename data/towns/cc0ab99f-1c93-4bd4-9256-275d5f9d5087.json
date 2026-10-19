@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Rizztopia",
   "uuid": "cc0ab99f-1c93-4bd4-9256-275d5f9d5087",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,35 @@
    "townBlocks": [
     [
      241,
+     -702
+    ],
+    [
+     242,
+     -700
+    ],
+    [
+     242,
      -701
+    ],
+    [
+     242,
+     -702
+    ],
+    [
+     240,
+     -700
+    ],
+    [
+     240,
+     -701
+    ],
+    [
+     241,
+     -701
+    ],
+    [
+     241,
+     -700
     ]
    ],
    "worlds": {}
@@ -102,9 +130,17 @@
    {
     "name": "Jacobtime",
     "uuid": "e3f752a6-287b-4fc5-9ffc-9583993c0954"
+   },
+   {
+    "name": "Xtvr",
+    "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
    }
   ],
   "trusted": [
+   {
+    "name": "Xtvr",
+    "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+   },
    {
     "name": "Copppelia",
     "uuid": "eaa28acb-f899-4a3e-a47c-f0b99b9b5a55"
@@ -113,14 +149,54 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Councillor": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Police": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Xtvr",
+     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "SagValley",
   "uuid": "be0459b3-8bcb-4128-8a8e-36bc183975fc",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Frostbite_G32",
-   "uuid": "0fa78ab4-9ada-433b-9371-17075c6e874a"
+   "name": "NPC100",
+   "uuid": "8eee6ad9-94cc-2013-a142-169c1d047496"
   },
   "nation": {
-   "name": "Texas",
-   "uuid": "059fcc8b-3db5-41b1-8f99-306150225850"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787870791796,
-   "joinedNationAt": 1787876732375,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317605597
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 34,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 5,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 11.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -232,95 +232,22 @@
   },
   "residents": [
    {
-    "name": "Frostbite_G32",
-    "uuid": "0fa78ab4-9ada-433b-9371-17075c6e874a"
-   },
-   {
-    "name": "THEEpastamaker",
-    "uuid": "6f7b8589-fa37-4509-8513-71e7a36ef2bb"
-   },
-   {
-    "name": "Bubbakush68",
-    "uuid": "bea802c8-8994-4111-94c1-ac3ffe0ad903"
-   },
-   {
-    "name": "jacksarm",
-    "uuid": "1ccfea3c-3e63-4f97-a0e1-9b3ef2527168"
-   },
-   {
-    "name": "BlackRuntz420",
-    "uuid": "487f7028-62e2-42da-ae6d-92994a0a9b0f"
+    "name": "NPC100",
+    "uuid": "8eee6ad9-94cc-2013-a142-169c1d047496"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "THEEpastamaker",
-     "uuid": "6f7b8589-fa37-4509-8513-71e7a36ef2bb"
-    },
-    {
-     "name": "jacksarm",
-     "uuid": "1ccfea3c-3e63-4f97-a0e1-9b3ef2527168"
-    },
-    {
-     "name": "BlackRuntz420",
-     "uuid": "487f7028-62e2-42da-ae6d-92994a0a9b0f"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "THEEpastamaker",
-     "uuid": "6f7b8589-fa37-4509-8513-71e7a36ef2bb"
-    },
-    {
-     "name": "Bubbakush68",
-     "uuid": "bea802c8-8994-4111-94c1-ac3ffe0ad903"
-    },
-    {
-     "name": "jacksarm",
-     "uuid": "1ccfea3c-3e63-4f97-a0e1-9b3ef2527168"
-    },
-    {
-     "name": "BlackRuntz420",
-     "uuid": "487f7028-62e2-42da-ae6d-92994a0a9b0f"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "THEEpastamaker",
-     "uuid": "6f7b8589-fa37-4509-8513-71e7a36ef2bb"
-    },
-    {
-     "name": "Bubbakush68",
-     "uuid": "bea802c8-8994-4111-94c1-ac3ffe0ad903"
-    },
-    {
-     "name": "jacksarm",
-     "uuid": "1ccfea3c-3e63-4f97-a0e1-9b3ef2527168"
-    },
-    {
-     "name": "BlackRuntz420",
-     "uuid": "487f7028-62e2-42da-ae6d-92994a0a9b0f"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "jacksarm",
-     "uuid": "1ccfea3c-3e63-4f97-a0e1-9b3ef2527168"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Bubbakush68",
-     "uuid": "bea802c8-8994-4111-94c1-ac3ffe0ad903"
-    }
-   ]
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Florina",
   "uuid": "bab9f7c7-1570-4dc9-9255-ff5a247082d9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
+   "nationBonus": 60,
+   "numResidents": 3,
    "numTrusted": 8,
-   "numOutlaws": 1,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -422,6 +422,14 @@
    {
     "name": "KAPOTAS1",
     "uuid": "3f04da24-cb75-4624-be0a-c0468ce5fb5c"
+   },
+   {
+    "name": "dDelirious_",
+    "uuid": "785e3578-8db2-44d2-8526-bff365f94390"
+   },
+   {
+    "name": "Mxx8",
+    "uuid": "902f6fcd-47bb-44cd-835d-11743d47e36a"
    }
   ],
   "trusted": [
@@ -458,12 +466,7 @@
     "uuid": "39c5d27d-359c-4f43-b722-5054a61e1d71"
    }
   ],
-  "outlaws": [
-   {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

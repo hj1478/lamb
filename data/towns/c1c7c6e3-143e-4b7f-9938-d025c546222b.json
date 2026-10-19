@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Aurelith",
   "uuid": "c1c7c6e3-143e-4b7f-9938-d025c546222b",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1790415407645,
-   "joinedNationAt": 1791413348059,
+   "joinedNationAt": 1792345043008,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 36,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 59,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 3,
-   "numOutlaws": 7,
-   "balance": 94.0,
+   "numResidents": 11,
+   "numTrusted": 5,
+   "numOutlaws": 9,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35929.48295638948,
+    "x": -35928.527621780995,
     "y": 56.0,
-    "z": -12628.978430601686,
-    "pitch": 13.897665,
-    "yaw": 178.57361
+    "z": -12624.300000011921,
+    "pitch": 22.27422,
+    "yaw": 179.98541
    },
    "homeBlock": [
     -2246,
@@ -92,8 +92,16 @@
    ],
    "townBlocks": [
     [
+     -2250,
+     -793
+    ],
+    [
      -2243,
      -791
+    ],
+    [
+     -2250,
+     -792
     ],
     [
      -2243,
@@ -104,24 +112,84 @@
      -789
     ],
     [
+     -2250,
+     -795
+    ],
+    [
+     -2250,
+     -794
+    ],
+    [
      -2243,
      -790
+    ],
+    [
+     -2243,
+     -795
+    ],
+    [
+     -2243,
+     -793
+    ],
+    [
+     -2243,
+     -794
+    ],
+    [
+     -2247,
+     -790
+    ],
+    [
+     -2253,
+     -792
+    ],
+    [
+     -2247,
+     -789
+    ],
+    [
+     -2253,
+     -793
+    ],
+    [
+     -2253,
+     -794
+    ],
+    [
+     -2253,
+     -795
+    ],
+    [
+     -2247,
+     -794
+    ],
+    [
+     -2247,
+     -793
+    ],
+    [
+     -2247,
+     -792
+    ],
+    [
+     -2247,
+     -791
+    ],
+    [
+     -2247,
+     -795
+    ],
+    [
+     -2248,
+     -795
     ],
     [
      -2248,
      -792
     ],
     [
-     -2243,
-     -793
-    ],
-    [
      -2248,
      -793
-    ],
-    [
-     -2243,
-     -794
     ],
     [
      -2248,
@@ -140,12 +208,8 @@
      -794
     ],
     [
-     -2247,
-     -790
-    ],
-    [
-     -2247,
-     -789
+     -2245,
+     -795
     ],
     [
      -2245,
@@ -164,28 +228,12 @@
      -790
     ],
     [
-     -2247,
-     -794
-    ],
-    [
      -2244,
      -789
     ],
     [
-     -2247,
-     -793
-    ],
-    [
-     -2247,
-     -792
-    ],
-    [
      -2244,
      -792
-    ],
-    [
-     -2247,
-     -791
     ],
     [
      -2244,
@@ -198,6 +246,14 @@
     [
      -2244,
      -793
+    ],
+    [
+     -2244,
+     -795
+    ],
+    [
+     -2249,
+     -795
     ],
     [
      -2249,
@@ -212,6 +268,10 @@
      -792
     ],
     [
+     -2251,
+     -792
+    ],
+    [
      -2246,
      -790
     ],
@@ -230,6 +290,38 @@
     [
      -2246,
      -794
+    ],
+    [
+     -2246,
+     -795
+    ],
+    [
+     -2252,
+     -795
+    ],
+    [
+     -2252,
+     -794
+    ],
+    [
+     -2252,
+     -793
+    ],
+    [
+     -2252,
+     -792
+    ],
+    [
+     -2251,
+     -795
+    ],
+    [
+     -2251,
+     -794
+    ],
+    [
+     -2251,
+     -793
     ],
     [
      -2246,
@@ -250,6 +342,38 @@
    {
     "name": "Bob_142",
     "uuid": "859dfa3e-1a8b-4e51-bf2c-a2a856aec5c9"
+   },
+   {
+    "name": "D4nyz",
+    "uuid": "fb058a49-e853-4666-9ac5-1826e37b33ba"
+   },
+   {
+    "name": "Obcinerate",
+    "uuid": "eaaf9064-832e-4a7a-af52-4f82ff5efab1"
+   },
+   {
+    "name": "Sima2121",
+    "uuid": "1cdb3c64-c39e-4094-9d1c-1076d900e84b"
+   },
+   {
+    "name": "Maddle_",
+    "uuid": "8c20fc59-9bf4-44bf-ab6e-b609e3045c05"
+   },
+   {
+    "name": "Rainbow12751",
+    "uuid": "1bb66be4-aec4-4d8f-8010-85d1e12b4174"
+   },
+   {
+    "name": "ikaeccpvp",
+    "uuid": "12c9d290-6d80-4ec0-95e6-2cde3181d438"
+   },
+   {
+    "name": "REDGUN_",
+    "uuid": "da7dc3cf-ffb3-4fa2-8328-f1422b2b53dc"
+   },
+   {
+    "name": "KingPotato20",
+    "uuid": "bad90d71-a80e-450d-a8a4-53f9983481dc"
    }
   ],
   "trusted": [
@@ -258,12 +382,20 @@
     "uuid": "75007fe3-6a18-40c9-85c9-ebc65a9a50a3"
    },
    {
-    "name": "_Manly196898_",
-    "uuid": "f582a52f-226a-454d-b364-b438339904db"
+    "name": "Gamerhallootjes",
+    "uuid": "95e58bdd-d396-405c-a14d-50f1fa40425a"
    },
    {
     "name": "SirHolland",
     "uuid": "65b95311-4447-4343-b99e-974747533a70"
+   },
+   {
+    "name": "toutef",
+    "uuid": "be166334-bce1-4770-91f0-57f79264422e"
+   },
+   {
+    "name": "AnioVectus",
+    "uuid": "e90aa7e6-0145-4e0e-bbc2-3070c5c7e65d"
    }
   ],
   "outlaws": [
@@ -294,11 +426,23 @@
    {
     "name": "TheRealPotatoGuy",
     "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
+   },
+   {
+    "name": "JoelTheBigMac",
+    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
+   },
+   {
+    "name": "pokiron",
+    "uuid": "1a5e9179-aa5f-4b23-adc9-bb3c43a3dc10"
    }
   ],
   "quarters": [],
   "ranks": {
    "Councillor": [
+    {
+     "name": "TheLegend1st",
+     "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
+    },
     {
      "name": "SirHolland",
      "uuid": "65b95311-4447-4343-b99e-974747533a70"

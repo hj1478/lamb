@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Heraklion",
   "uuid": "c57d88cd-0b84-4f7e-a594-7b21f22c236c",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 106,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 255.0,
+   "balance": 42.0,
    "forSalePrice": null
   },
   "perms": {
@@ -520,12 +520,20 @@
   },
   "residents": [
    {
-    "name": "GERAKIS",
+    "name": "Metaxas_",
+    "uuid": "c4ebd758-d5ec-41d3-b469-b9924fdd8c95"
+   },
+   {
+    "name": "GJ_games",
     "uuid": "6239b973-e194-4409-957d-8ce05e53d702"
    },
    {
     "name": "Estal1nak",
     "uuid": "e20a2bf8-90aa-448f-a89b-37c446f5d4c5"
+   },
+   {
+    "name": "stintguy",
+    "uuid": "314fefa2-a956-4caa-a2e2-bc383de66f0d"
    }
   ],
   "trusted": [
@@ -542,7 +550,7 @@
     "uuid": "e20a2bf8-90aa-448f-a89b-37c446f5d4c5"
    },
    {
-    "name": "GERAKIS",
+    "name": "GJ_games",
     "uuid": "6239b973-e194-4409-957d-8ce05e53d702"
    }
   ],
@@ -577,7 +585,11 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "GERAKIS",
+     "name": "Metaxas_",
+     "uuid": "c4ebd758-d5ec-41d3-b469-b9924fdd8c95"
+    },
+    {
+     "name": "GJ_games",
      "uuid": "6239b973-e194-4409-957d-8ce05e53d702"
     }
    ],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Cagliari",
   "uuid": "c26dff4c-1943-4d53-a7b4-73edb5aabeda",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "wirecharger1",
-   "uuid": "de27823c-9125-4989-ac98-5b30d56b606a"
+   "name": "AndyTheChief",
+   "uuid": "daab6664-b838-4d0b-9476-73c28bcbaa23"
   },
   "nation": {
    "name": "Sicily",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 171,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 6,
    "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": 30000.0
   },
   "perms": {
@@ -780,16 +780,28 @@
   },
   "residents": [
    {
-    "name": "wirecharger1",
-    "uuid": "de27823c-9125-4989-ac98-5b30d56b606a"
-   },
-   {
-    "name": "GameBoy01000100",
-    "uuid": "fadd5a7f-7a39-421f-a31e-74f564eb6971"
-   },
-   {
     "name": "Campanaro158",
     "uuid": "76f98729-b02c-41e8-b0d1-59632fa5d991"
+   },
+   {
+    "name": "ndabomb",
+    "uuid": "142689be-9c44-42c3-a4df-daee8a05d64c"
+   },
+   {
+    "name": "AndyTheChief",
+    "uuid": "daab6664-b838-4d0b-9476-73c28bcbaa23"
+   },
+   {
+    "name": "Rockbelow",
+    "uuid": "a60f1d4e-39b2-47b1-a54a-ef26df00bf7a"
+   },
+   {
+    "name": "Juanchibanks",
+    "uuid": "e37f3aaa-e136-4a34-a8d1-316172f0b82c"
+   },
+   {
+    "name": "Kevin_dutz",
+    "uuid": "21ef03a3-e3c7-4ce9-b8db-5cfe7ba6d8b4"
    }
   ],
   "trusted": [

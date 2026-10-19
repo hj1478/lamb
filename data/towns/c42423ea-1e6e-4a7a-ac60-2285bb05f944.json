@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Sarai",
   "uuid": "c42423ea-1e6e-4a7a-ac60-2285bb05f944",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NNacheZs47",
-   "uuid": "b6fd0607-fbed-42ca-871b-3e6e8ddc4789"
+   "name": "NPC125",
+   "uuid": "2512450b-96a7-20bf-b006-a2114bf009d8"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778343952727,
-   "joinedNationAt": 1791021680454,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792329896330
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,44 +36,44 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 4,
    "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -264,12 +264,20 @@
   },
   "residents": [
    {
+    "name": "Bhreaktheboi",
+    "uuid": "348891f3-2753-4c6d-be5c-33c72e2bfa0e"
+   },
+   {
     "name": "UIERIS",
     "uuid": "9b653627-ccf1-47f1-b351-91887bc667d5"
    },
    {
     "name": "NNacheZs47",
     "uuid": "b6fd0607-fbed-42ca-871b-3e6e8ddc4789"
+   },
+   {
+    "name": "NPC125",
+    "uuid": "2512450b-96a7-20bf-b006-a2114bf009d8"
    }
   ],
   "trusted": [
@@ -309,7 +317,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Bhreaktheboi",
+     "uuid": "348891f3-2753-4c6d-be5c-33c72e2bfa0e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

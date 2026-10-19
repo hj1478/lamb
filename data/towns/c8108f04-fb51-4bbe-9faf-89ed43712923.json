@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Monmouth",
   "uuid": "c8108f04-fb51-4bbe-9faf-89ed43712923",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 6,
    "numTrusted": 0,
-   "numOutlaws": 2,
-   "balance": 92.0,
+   "numOutlaws": 6,
+   "balance": 230.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 52947.736954822525,
-    "y": 63.0,
-    "z": 24267.166773692636,
-    "pitch": 17.399868,
-    "yaw": 89.11017
+    "x": 52947.73894948763,
+    "y": 64.0,
+    "z": 24267.295189979166,
+    "pitch": 3.59987,
+    "yaw": -86.68985
    },
    "homeBlock": [
     3309,
@@ -93,6 +93,34 @@
    "townBlocks": [
     [
      3308,
+     1517
+    ],
+    [
+     3308,
+     1516
+    ],
+    [
+     3308,
+     1515
+    ],
+    [
+     3309,
+     1517
+    ],
+    [
+     3309,
+     1516
+    ],
+    [
+     3312,
+     1518
+    ],
+    [
+     3312,
+     1517
+    ],
+    [
+     3312,
      1516
     ],
     [
@@ -104,12 +132,12 @@
      1516
     ],
     [
-     3309,
+     3311,
      1517
     ],
     [
-     3309,
-     1516
+     3311,
+     1518
     ],
     [
      3309,
@@ -117,11 +145,19 @@
     ],
     [
      3310,
+     1518
+    ],
+    [
+     3310,
      1516
     ],
     [
      3310,
      1517
+    ],
+    [
+     3310,
+     1514
     ],
     [
      3310,
@@ -134,6 +170,26 @@
    {
     "name": "Min1sterr",
     "uuid": "15264ea1-3d55-4b5c-80f5-451053b48330"
+   },
+   {
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+   },
+   {
+    "name": "mrkittydestroyer",
+    "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
+   },
+   {
+    "name": "Danny_124",
+    "uuid": "228eae5d-5e87-411b-a573-7834170244ba"
+   },
+   {
+    "name": "fire321D",
+    "uuid": "648b89ab-87fc-4188-b46a-68e4933e5f71"
+   },
+   {
+    "name": "P1N3APPLE4875",
+    "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
    }
   ],
   "trusted": [],
@@ -145,12 +201,41 @@
    {
     "name": "FeliksTV",
     "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "borjanoob2012",
+    "uuid": "4e4047ae-f489-4bd9-9a1a-e35eaa47cc86"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "vodx_op",
+    "uuid": "8358008e-67ac-498a-9dde-24c9dc294da9"
    }
   ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "S59",
+     "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+    },
+    {
+     "name": "mrkittydestroyer",
+     "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
+    },
+    {
+     "name": "P1N3APPLE4875",
+     "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

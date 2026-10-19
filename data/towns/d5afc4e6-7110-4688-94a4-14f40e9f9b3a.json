@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Goteborg",
   "uuid": "d5afc4e6-7110-4688-94a4-14f40e9f9b3a",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 160,
-   "maxTownBlocks": 236,
+   "maxTownBlocks": 248,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
+   "numResidents": 14,
    "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 339.0,
+   "balance": 337.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4328.664398695018,
-    "y": 9.0,
-    "z": -15393.99014912798,
-    "pitch": -2.159997,
-    "yaw": -179.58554
+    "x": 4327.12396578946,
+    "y": 65.0,
+    "z": -15345.781840730231,
+    "pitch": 20.572798,
+    "yaw": -46.628174
    },
    "homeBlock": [
     270,
-    -963
+    -960
    ],
    "townBlocks": [
     [
@@ -736,10 +736,6 @@
   },
   "residents": [
    {
-    "name": "olofcool",
-    "uuid": "62487f48-14b3-41d8-be38-92d224572c56"
-   },
-   {
     "name": "MacMackeean",
     "uuid": "d8353140-2e1b-40ba-b540-df9ea916296c"
    },
@@ -786,6 +782,14 @@
    {
     "name": "ThatBananaguy13",
     "uuid": "de9e48d5-8c7e-4f26-a2a3-b21511b967a5"
+   },
+   {
+    "name": "SammyJ005",
+    "uuid": "4110fdb8-0a24-4e1d-8c17-1c25f96feade"
+   },
+   {
+    "name": "cap_man",
+    "uuid": "903ca06f-68cb-4109-a7a7-d9fc3aa8ddf1"
    }
   ],
   "trusted": [

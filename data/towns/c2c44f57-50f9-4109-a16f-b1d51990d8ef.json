@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Lietuvele",
   "uuid": "c2c44f57-50f9-4109-a16f-b1d51990d8ef",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Baliauninke",
-   "uuid": "afcab886-3233-4ffb-a3d9-8bb1893a7b09"
+   "name": "NPC99",
+   "uuid": "2679c449-6f51-20fb-866a-79cbcc2c3933"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785931317642,
-   "joinedNationAt": 1785937537585,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317605397
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -148,8 +148,8 @@
   },
   "residents": [
    {
-    "name": "Baliauninke",
-    "uuid": "afcab886-3233-4ffb-a3d9-8bb1893a7b09"
+    "name": "NPC99",
+    "uuid": "2679c449-6f51-20fb-866a-79cbcc2c3933"
    }
   ],
   "trusted": [],

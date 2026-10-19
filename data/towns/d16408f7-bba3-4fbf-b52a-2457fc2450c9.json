@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Adolfo",
   "uuid": "d16408f7-bba3-4fbf-b52a-2457fc2450c9",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Noventaa_",
-   "uuid": "ce4baf31-bf76-4dd9-bda2-a21b858a382e"
+   "name": "ItzGlazzy",
+   "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785887113142,
-   "joinedNationAt": 1785889701043,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 69,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 5,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 190.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -372,15 +372,32 @@
   },
   "residents": [
    {
-    "name": "Noventaa_",
-    "uuid": "ce4baf31-bf76-4dd9-bda2-a21b858a382e"
-   },
-   {
     "name": "rique_sattler",
     "uuid": "eb7b5c56-d152-431d-8395-f11f08b513fd"
+   },
+   {
+    "name": "ruanreges",
+    "uuid": "2a2d6863-3b40-4a8f-9825-d467ebb18c36"
+   },
+   {
+    "name": "yungcasss",
+    "uuid": "ccfb187e-234e-4dde-a4d3-0ed50178a916"
+   },
+   {
+    "name": "ItzGlazzy",
+    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+   },
+   {
+    "name": "Person_2d",
+    "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ItzGlazzy",
+    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

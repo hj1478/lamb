@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Sisian",
   "uuid": "d1744e86-ab4b-42f5-9d7f-6524aa7ca152",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 15,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 4,
-   "numOutlaws": 0,
+   "numTrusted": 5,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     1023,
+     -436
+    ],
+    [
+     1023,
+     -434
+    ],
+    [
+     1023,
+     -435
+    ],
+    [
      1026,
      -433
     ],
@@ -117,15 +129,27 @@
     ],
     [
      1025,
-     -435
+     -436
     ],
     [
      1024,
      -435
     ],
     [
+     1025,
+     -435
+    ],
+    [
      1026,
      -435
+    ],
+    [
+     1024,
+     -436
+    ],
+    [
+     1026,
+     -436
     ]
    ],
    "worlds": {}
@@ -154,15 +178,24 @@
     "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
    },
    {
-    "name": "Tldigi",
-    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+    "name": "borjanoob2012",
+    "uuid": "4e4047ae-f489-4bd9-9a1a-e35eaa47cc86"
    },
    {
     "name": "xHadesxFr",
     "uuid": "02afd19f-d7fe-4037-859d-17a0417875e2"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Charlowww",
+    "uuid": "e189edea-320d-45db-8ff6-b0a81e97b4d4"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

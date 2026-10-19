@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Koryaks",
   "uuid": "db666da5-f6f5-4bfe-af7a-7a4a7cfd25c0",
-  "board": "/town set board [msg]",
+  "board": null,
   "founder": "digging_digger",
   "wiki": null,
   "discord": null,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 12,
    "maxTownBlocks": 78,
    "bonusBlocks": 0,
    "nationBonus": 30,
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 60407.55064998186,
-    "y": 78.0,
-    "z": -20875.36560945313,
-    "pitch": 1.4999908,
-    "yaw": 0.7873535
+    "x": 60419.6575968726,
+    "y": 76.0,
+    "z": -20876.528176441454,
+    "pitch": 5.399968,
+    "yaw": 1.3870544
    },
    "homeBlock": [
-    3775,
+    3776,
     -1305
    ],
    "townBlocks": [
@@ -104,6 +104,10 @@
      -1305
     ],
     [
+     3776,
+     -1302
+    ],
+    [
      3777,
      -1305
     ],
@@ -118,6 +122,14 @@
     [
      3775,
      -1303
+    ],
+    [
+     3777,
+     -1302
+    ],
+    [
+     3775,
+     -1302
     ],
     [
      3775,
@@ -140,12 +152,12 @@
     "uuid": "5c7ae03b-cdc9-40ed-ab4c-d5106359b1b2"
    },
    {
-    "name": "fren1120",
-    "uuid": "f579272c-2dc3-40bf-898a-9e3198efd73c"
-   },
-   {
     "name": "PlainCoronet702",
     "uuid": "503f513e-02ad-4368-a796-a165d88d301a"
+   },
+   {
+    "name": "fren1120",
+    "uuid": "f579272c-2dc3-40bf-898a-9e3198efd73c"
    }
   ],
   "trusted": [],

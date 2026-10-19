@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Aulane",
   "uuid": "cdfccd27-2c48-42b7-a42a-9df40c5e5bf5",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "getoverme",
-   "uuid": "486166e0-148c-4e7e-9594-2951e220a0fb"
+   "name": "NPC27",
+   "uuid": "4fb445f3-d7be-20f9-befb-6ca7805e49b2"
   },
   "nation": {
-   "name": "Eire",
-   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786403961551,
-   "joinedNationAt": 1786403976157,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317601556
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -180,8 +180,8 @@
   },
   "residents": [
    {
-    "name": "getoverme",
-    "uuid": "486166e0-148c-4e7e-9594-2951e220a0fb"
+    "name": "NPC27",
+    "uuid": "4fb445f3-d7be-20f9-befb-6ca7805e49b2"
    }
   ],
   "trusted": [],
@@ -189,12 +189,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "getoverme",
-     "uuid": "486166e0-148c-4e7e-9594-2951e220a0fb"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

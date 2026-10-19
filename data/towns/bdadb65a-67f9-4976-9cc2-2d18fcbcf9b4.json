@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Tunis",
   "uuid": "bdadb65a-67f9-4976-9cc2-2d18fcbcf9b4",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 150,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 6,
-   "balance": 14.0,
+   "balance": 45.0,
    "forSalePrice": null
   },
   "perms": {
@@ -705,14 +705,6 @@
     "uuid": "22f91cbd-c9d9-4ab4-ad39-dbc702b25dfa"
    },
    {
-    "name": "uncblaster",
-    "uuid": "d4d90b7b-dd20-436a-a06d-305e43c63275"
-   },
-   {
-    "name": "king_of_pandas12",
-    "uuid": "c9caf4bd-adcd-464b-9750-490791a51fae"
-   },
-   {
     "name": "SolamanderGD",
     "uuid": "3cdd1192-e32f-480d-9ccf-79bd232f6604"
    },
@@ -723,10 +715,6 @@
    {
     "name": "Syndrome0fADown_",
     "uuid": "297605f1-20ff-4202-ae4b-cf17da168c6f"
-   },
-   {
-    "name": "Danny_362",
-    "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
    }
   ],
   "trusted": [],
@@ -770,10 +758,6 @@
     "uuid": "cd01b3c3-6276-49a6-813e-8b974129ca48"
    },
    {
-    "name": "Gloomy Tenement",
-    "uuid": "f2780ab4-5ab5-4d73-9203-0f6bd44c105f"
-   },
-   {
     "name": "Stylish Flat",
     "uuid": "a6415634-43a7-448d-b3a1-e3e05f38a14d"
    },
@@ -796,6 +780,10 @@
    {
     "name": "Elegant Quarter",
     "uuid": "05cc6b89-3cd1-425e-9020-d318cd447738"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "f2780ab4-5ab5-4d73-9203-0f6bd44c105f"
    }
   ],
   "ranks": {

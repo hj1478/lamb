@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Sinop",
   "uuid": "db4cece7-a922-4e5f-becf-e4acba023a21",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Berkofix",
-   "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
+   "name": "rakuptka",
+   "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
   },
   "nation": {
-   "name": "Georgia",
-   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1785680543209,
-   "joinedNationAt": 1791784624241,
+   "joinedNationAt": 1792266076109,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 164,
-   "maxTownBlocks": 244,
+   "numTownBlocks": 167,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
-   "numTrusted": 4,
-   "numOutlaws": 19,
+   "numResidents": 16,
+   "numTrusted": 3,
+   "numOutlaws": 18,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -376,6 +376,14 @@
      -491
     ],
     [
+     779,
+     -493
+    ],
+    [
+     779,
+     -494
+    ],
+    [
      768,
      -488
     ],
@@ -658,6 +666,10 @@
     [
      770,
      -491
+    ],
+    [
+     770,
+     -488
     ],
     [
      770,
@@ -752,14 +764,6 @@
   },
   "residents": [
    {
-    "name": "Berkofix",
-    "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
-   },
-   {
-    "name": "Charlowww",
-    "uuid": "e189edea-320d-45db-8ff6-b0a81e97b4d4"
-   },
-   {
     "name": "rakuptka",
     "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    },
@@ -792,22 +796,42 @@
     "uuid": "bde5e1e8-05dc-47d2-9d4a-bd355e8c034e"
    },
    {
-    "name": "ayazcs",
-    "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
-   },
-   {
     "name": "TugiBen0_o",
     "uuid": "eac05c58-02e8-46ee-aa5d-c8c30dfa1237"
+   },
+   {
+    "name": "CENNM",
+    "uuid": "b4d93837-696a-44cc-a672-029c9f70941c"
+   },
+   {
+    "name": "Mcagan23",
+    "uuid": "8c92c1bf-e19e-4980-ae11-631ddc2474b9"
+   },
+   {
+    "name": "Charlowww",
+    "uuid": "e189edea-320d-45db-8ff6-b0a81e97b4d4"
+   },
+   {
+    "name": "Berkofix",
+    "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
+   },
+   {
+    "name": "Mertblgg",
+    "uuid": "45c41d1a-50cc-4f84-b4ef-d0ce61b330c7"
+   },
+   {
+    "name": "Octaveusmaximus",
+    "uuid": "5ed9f91d-a49f-453d-9a9a-ff704f4c31e1"
+   },
+   {
+    "name": "javasever",
+    "uuid": "ecdc1117-0f34-4f5c-8897-cb4ccb30292d"
    }
   ],
   "trusted": [
    {
     "name": "Berkofix",
     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
-   },
-   {
-    "name": "PLesg067",
-    "uuid": "22a2343f-3f04-48d1-8ba2-1bac51bd9d19"
    },
    {
     "name": "Charlowww",
@@ -888,10 +912,6 @@
     "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
    },
    {
-    "name": "Hatuqay",
-    "uuid": "d9ef0399-1a19-4a22-a6e4-6b6b64244d33"
-   },
-   {
     "name": "chenjiongming",
     "uuid": "0519f0ed-7abd-4e6e-82cc-a91f02f0d628"
    }
@@ -902,36 +922,12 @@
     "uuid": "03a01448-b2b5-424f-bd2b-f7c9d1de294c"
    },
    {
-    "name": "Lovely Residence",
-    "uuid": "95b18192-ad4d-483a-9765-1a90dd3611b9"
-   },
-   {
-    "name": "Luxurious Suite",
-    "uuid": "33504230-bbf0-4cfe-8c20-4a489a2b70b2"
-   },
-   {
     "name": "First Floor",
     "uuid": "eca09887-83b8-4bfc-9b55-82b5a1e7241c"
    },
    {
     "name": "First Floor",
-    "uuid": "9a0139c4-de3b-49f1-9dec-7d00d39c4ae6"
-   },
-   {
-    "name": "First Floor",
     "uuid": "12b7f689-bded-4609-b29b-c02570e0a5f9"
-   },
-   {
-    "name": "Balcony",
-    "uuid": "5d1afc43-3d0a-4e20-84f2-ed54d4bae511"
-   },
-   {
-    "name": "Balcony Apartment",
-    "uuid": "56cb54a0-a7c9-4425-afa3-50905167ba97"
-   },
-   {
-    "name": "Balcony Apartment",
-    "uuid": "4ab78034-04da-4f48-983a-e7a694eb94f5"
    },
    {
     "name": "Luxury Flat",
@@ -958,42 +954,43 @@
     "uuid": "d108b682-df63-46ae-83d9-d68d4809dbd9"
    },
    {
-    "name": "Roof Top Flat",
-    "uuid": "ab19a3d4-f7fd-413e-98a6-9d735754adec"
+    "name": "Elegant Property",
+    "uuid": "dedb3f53-c994-426c-8c2d-ae02babd6ae6"
+   },
+   {
+    "name": "Balcony Apartment",
+    "uuid": "56cb54a0-a7c9-4425-afa3-50905167ba97"
+   },
+   {
+    "name": "Balcony",
+    "uuid": "5d1afc43-3d0a-4e20-84f2-ed54d4bae511"
+   },
+   {
+    "name": "First Floor",
+    "uuid": "9a0139c4-de3b-49f1-9dec-7d00d39c4ae6"
+   },
+   {
+    "name": "Balcony Apartment",
+    "uuid": "4ab78034-04da-4f48-983a-e7a694eb94f5"
    }
   ],
   "ranks": {
    "Councillor": [
     {
-     "name": "Berkofix",
-     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
+     "name": "Charlowww",
+     "uuid": "e189edea-320d-45db-8ff6-b0a81e97b4d4"
     },
     {
-     "name": "rakuptka",
-     "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
+     "name": "Berkofix",
+     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
     }
    ],
    "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "Berkofix",
-     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Berkofix",
-     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
-    }
-   ],
+   "Police": [],
+   "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [
-    {
-     "name": "Berkofix",
-     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
-    }
-   ],
+   "Realtor": [],
    "Settler": []
   },
   "warps": [],

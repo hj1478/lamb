@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Vandalia",
   "uuid": "d9594814-f8dc-42df-8a66-79697e545510",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 38,
-   "maxTownBlocks": 184,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31863.50015704489,
+    "x": -31864.678085192805,
     "y": 64.0,
-    "z": -6837.468648131486,
-    "pitch": 4.3499913,
-    "yaw": 89.9563
+    "z": -6837.459423246906,
+    "pitch": 1.9500185,
+    "yaw": 90.254486
    },
    "homeBlock": [
     -1992,
@@ -96,6 +96,10 @@
      -429
     ],
     [
+     -1997,
+     -425
+    ],
+    [
      -1991,
      -430
     ],
@@ -116,12 +120,24 @@
      -429
     ],
     [
+     -1997,
+     -428
+    ],
+    [
      -1991,
+     -427
+    ],
+    [
+     -1997,
      -427
     ],
     [
      -1991,
      -428
+    ],
+    [
+     -1997,
+     -426
     ],
     [
      -1994,
@@ -188,12 +204,12 @@
      -430
     ],
     [
-     -1995,
-     -429
-    ],
-    [
      -1996,
      -431
+    ],
+    [
+     -1995,
+     -429
     ],
     [
      -1996,
@@ -274,6 +290,10 @@
    {
     "name": "Bershka19",
     "uuid": "b5f1ef76-d2e6-4fd6-90cf-e1d4888c3f3c"
+   },
+   {
+    "name": "Ace_suh",
+    "uuid": "9674aac5-500b-4dbc-8224-306e6f9092fc"
    }
   ],
   "trusted": [],
@@ -369,10 +389,6 @@
     "uuid": "16b14ec8-cb5b-4ec9-9a08-cf18e00876ab"
    },
    {
-    "name": "Skyscraper",
-    "uuid": "3c32bc42-527a-4173-81ee-83ad6a15fc5a"
-   },
-   {
     "name": "Annoying Flat",
     "uuid": "c41ab02c-5053-4d9f-bba6-b2b0e7c57964"
    },
@@ -393,16 +409,48 @@
     "uuid": "5227424f-2fb9-4cfd-9674-eda9b28bfd6d"
    },
    {
+    "name": "Perturbing Flat",
+    "uuid": "e0ec2c97-1bcf-46eb-8ff2-d79db7e3d49b"
+   },
+   {
+    "name": "6th Floor",
+    "uuid": "61b5560d-65a6-4ecc-b48d-316ed0d5e341"
+   },
+   {
+    "name": "5th Floor",
+    "uuid": "8b384b04-fe17-4ef8-ae0d-b08323a2a495"
+   },
+   {
+    "name": "4th Floor",
+    "uuid": "b74b69f8-8ce0-4d90-b0d6-ef22ca5a7f34"
+   },
+   {
+    "name": "3rd Floor",
+    "uuid": "55936764-2f4c-49db-ac43-ed3b496deac2"
+   },
+   {
+    "name": "2nd Floor",
+    "uuid": "bc651e58-7d35-4faa-885f-0007e334ade8"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "19470b10-fc48-42bc-a922-1e26505596ff"
+   },
+   {
+    "name": "Waterfront Store",
+    "uuid": "e2d923ce-0904-4c95-95d5-ebccd124e5b4"
+   },
+   {
+    "name": "Skyscraper",
+    "uuid": "3c32bc42-527a-4173-81ee-83ad6a15fc5a"
+   },
+   {
     "name": "Starter House 1",
     "uuid": "53743cda-3afe-4d6f-a9c6-97aeb70ace5f"
    },
    {
-    "name": "Lovely Property",
-    "uuid": "e2d923ce-0904-4c95-95d5-ebccd124e5b4"
-   },
-   {
-    "name": "Perturbing Flat",
-    "uuid": "e0ec2c97-1bcf-46eb-8ff2-d79db7e3d49b"
+    "name": "Bland Tenement",
+    "uuid": "7aba41fb-5d07-4307-99a7-6888798a02c2"
    }
   ],
   "ranks": {

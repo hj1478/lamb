@@ -1,0 +1,148 @@
+{
+ "fetched_at": "2026-10-19T13:32:29Z",
+ "data": {
+  "name": "Napoleonic_Fed",
+  "uuid": "73e35842-09f9-4aeb-b58c-6b9f667a1c04",
+  "board": "/town set board [msg]",
+  "founder": "Darth_Frog",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Darth_Frog",
+   "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
+  },
+  "nation": {
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+  },
+  "timestamps": {
+   "registered": 1792352728645,
+   "joinedNationAt": 1792354593233,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 5,
+   "maxTownBlocks": 124,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 18.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -1007.7166436633138,
+    "y": 64.0,
+    "z": -10431.425520974979,
+    "pitch": 23.302305,
+    "yaw": -97.2854
+   },
+   "homeBlock": [
+    -63,
+    -652
+   ],
+   "townBlocks": [
+    [
+     -63,
+     -652
+    ],
+    [
+     -62,
+     -652
+    ],
+    [
+     -63,
+     -653
+    ],
+    [
+     -62,
+     -653
+    ],
+    [
+     -64,
+     -652
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Darth_Frog",
+    "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
+   },
+   {
+    "name": "ang1eot",
+    "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "ang1eot",
+     "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

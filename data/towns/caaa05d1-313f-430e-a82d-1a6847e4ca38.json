@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Suzumiya",
   "uuid": "caaa05d1-313f-430e-a82d-1a6847e4ca38",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 161,
+   "numTownBlocks": 179,
    "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 14,
-   "numTrusted": 14,
+   "numTrusted": 13,
    "numOutlaws": 0,
-   "balance": 73.0,
+   "balance": 37.0,
    "forSalePrice": null
   },
   "perms": {
@@ -264,12 +264,24 @@
      -1738
     ],
     [
+     -493,
+     -1740
+    ],
+    [
      -508,
      -1748
     ],
     [
+     -493,
+     -1739
+    ],
+    [
      -509,
      -1746
+    ],
+    [
+     -493,
+     -1738
     ],
     [
      -509,
@@ -352,8 +364,20 @@
      -1743
     ],
     [
+     -494,
+     -1738
+    ],
+    [
      -491,
      -1741
+    ],
+    [
+     -494,
+     -1740
+    ],
+    [
+     -494,
+     -1739
     ],
     [
      -505,
@@ -366,6 +390,10 @@
     [
      -505,
      -1739
+    ],
+    [
+     -496,
+     -1740
     ],
     [
      -506,
@@ -384,8 +412,16 @@
      -1741
     ],
     [
+     -496,
+     -1738
+    ],
+    [
      -505,
      -1742
+    ],
+    [
+     -496,
+     -1739
     ],
     [
      -505,
@@ -514,6 +550,18 @@
     [
      -498,
      -1747
+    ],
+    [
+     -498,
+     -1738
+    ],
+    [
+     -498,
+     -1739
+    ],
+    [
+     -498,
+     -1740
     ],
     [
      -498,
@@ -636,8 +684,16 @@
      -1743
     ],
     [
+     -495,
+     -1738
+    ],
+    [
      -497,
      -1747
+    ],
+    [
+     -495,
+     -1739
     ],
     [
      -497,
@@ -662,10 +718,26 @@
     [
      -497,
      -1741
+    ],
+    [
+     -497,
+     -1740
+    ],
+    [
+     -497,
+     -1739
     ],
     [
      -507,
      -1748
+    ],
+    [
+     -497,
+     -1738
+    ],
+    [
+     -495,
+     -1740
     ],
     [
      -495,
@@ -761,10 +833,6 @@
     "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
    },
    {
-    "name": "xlh_123",
-    "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
-   },
-   {
     "name": "Rosuuko",
     "uuid": "4a691b62-80ca-46bf-9d72-7cabbc61fe14"
    },
@@ -799,16 +867,16 @@
    {
     "name": "Gappy_the_Rabbit",
     "uuid": "d31bf985-9307-4195-abc9-7ea289893a4b"
+   },
+   {
+    "name": "ZZKKSeiyen",
+    "uuid": "406cccf9-d0dd-452e-b849-d404c6e7aed9"
    }
   ],
   "trusted": [
    {
     "name": "Negefu",
     "uuid": "0bd7e226-d946-41fc-aa11-f23288d939f1"
-   },
-   {
-    "name": "hatsune_mcqwq",
-    "uuid": "f6e24e20-dda2-4eba-8b46-b430e3a88265"
    },
    {
     "name": "JauneMaxWell",
@@ -825,6 +893,10 @@
    {
     "name": "Gappy_the_Rabbit",
     "uuid": "d31bf985-9307-4195-abc9-7ea289893a4b"
+   },
+   {
+    "name": "figgyfox",
+    "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
    },
    {
     "name": "Tmcry",
@@ -853,10 +925,6 @@
    {
     "name": "GDReclipse",
     "uuid": "13598028-4a94-40b1-9c41-14bbb23abaa9"
-   },
-   {
-    "name": "xlh_123",
-    "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
    }
   ],
   "outlaws": [],
@@ -883,10 +951,6 @@
     {
      "name": "Malingshu_0515",
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
-    },
-    {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
     },
     {
      "name": "Rosuuko",
@@ -929,10 +993,6 @@
     {
      "name": "Malingshu_0515",
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
-    },
-    {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
     },
     {
      "name": "Th1rtyF1ve",
@@ -991,10 +1051,6 @@
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
     },
     {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
-    },
-    {
      "name": "Th1rtyF1ve",
      "uuid": "35e5095c-cfae-4922-a6e7-a7cb8e7e4e1a"
     },
@@ -1033,10 +1089,6 @@
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
     },
     {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
-    },
-    {
      "name": "Th1rtyF1ve",
      "uuid": "35e5095c-cfae-4922-a6e7-a7cb8e7e4e1a"
     },
@@ -1061,10 +1113,6 @@
     {
      "name": "Malingshu_0515",
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
-    },
-    {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
     },
     {
      "name": "Th1rtyF1ve",
@@ -1105,10 +1153,6 @@
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
     },
     {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
-    },
-    {
      "name": "Th1rtyF1ve",
      "uuid": "35e5095c-cfae-4922-a6e7-a7cb8e7e4e1a"
     },
@@ -1137,10 +1181,6 @@
     {
      "name": "Malingshu_0515",
      "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
-    },
-    {
-     "name": "xlh_123",
-     "uuid": "6f91d9b8-c2f8-47a4-9daa-0dcf8c53f39d"
     },
     {
      "name": "Th1rtyF1ve",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Piramida",
   "uuid": "cb79df83-2d1c-4e22-bb9b-f78a15fd4410",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 63,
+   "numTownBlocks": 83,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 8,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 803.0,
+   "balance": 456.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      2226,
+     -1806
+    ],
+    [
+     2226,
+     -1807
+    ],
+    [
+     2226,
      -1810
     ],
     [
@@ -148,8 +156,28 @@
      -1810
     ],
     [
+     2229,
+     -1807
+    ],
+    [
+     2229,
+     -1808
+    ],
+    [
      2230,
      -1818
+    ],
+    [
+     2224,
+     -1811
+    ],
+    [
+     2224,
+     -1810
+    ],
+    [
+     2224,
+     -1809
     ],
     [
      2226,
@@ -166,6 +194,18 @@
     [
      2226,
      -1813
+    ],
+    [
+     2224,
+     -1808
+    ],
+    [
+     2224,
+     -1807
+    ],
+    [
+     2224,
+     -1806
     ],
     [
      2228,
@@ -198,6 +238,10 @@
     [
      2229,
      -1819
+    ],
+    [
+     2228,
+     -1807
     ],
     [
      2228,
@@ -236,12 +280,28 @@
      -1815
     ],
     [
+     2230,
+     -1811
+    ],
+    [
      2228,
      -1812
     ],
     [
      2229,
      -1816
+    ],
+    [
+     2227,
+     -1806
+    ],
+    [
+     2227,
+     -1807
+    ],
+    [
+     2228,
+     -1806
     ],
     [
      2227,
@@ -290,6 +350,22 @@
     [
      2227,
      -1819
+    ],
+    [
+     2225,
+     -1807
+    ],
+    [
+     2225,
+     -1808
+    ],
+    [
+     2225,
+     -1806
+    ],
+    [
+     2225,
+     -1811
     ],
     [
      2231,
@@ -297,10 +373,6 @@
     ],
     [
      2225,
-     -1811
-    ],
-    [
-     2225,
      -1812
     ],
     [
@@ -308,8 +380,16 @@
      -1816
     ],
     [
+     2225,
+     -1809
+    ],
+    [
      2231,
      -1817
+    ],
+    [
+     2225,
+     -1810
     ],
     [
      2231,
@@ -380,7 +460,12 @@
     "uuid": "bde54e18-5cea-4310-92d1-f7d08badcc0b"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Cosiiiii",
+    "uuid": "7968b55d-7715-4875-9864-acaff18cd2e2"
+   }
+  ],
   "outlaws": [
    {
     "name": "TroutMeat",
@@ -397,16 +482,8 @@
   ],
   "quarters": [
    {
-    "name": "Perturbing Flat",
-    "uuid": "677633fa-283d-4bbb-8879-c94e271aafad"
-   },
-   {
     "name": "Cheerful Suite",
     "uuid": "eb12bf1c-6b2e-4a5d-8d4c-de5268302b92"
-   },
-   {
-    "name": "Stylish Apartment",
-    "uuid": "1fb53c7f-2347-452d-ba20-e14b14b67027"
    },
    {
     "name": "Welcoming Residence",
@@ -505,24 +582,28 @@
     "uuid": "20b65253-e9ba-4ab9-ac8d-f05a0ed89c19"
    },
    {
-    "name": "Vault F",
-    "uuid": "4d1df8b9-31fa-4fbc-94bf-4766d7a8e64c"
+    "name": "Vault B",
+    "uuid": "70c44060-bc73-4e76-b084-7c32f349ebf6"
    },
    {
     "name": "Vault E",
     "uuid": "ea9bc094-01ac-4d28-9664-879c7673f14a"
    },
    {
-    "name": "Vault C",
-    "uuid": "728afc52-3189-4a7e-8db0-1f5b47b9a55b"
-   },
-   {
-    "name": "Vault B",
-    "uuid": "70c44060-bc73-4e76-b084-7c32f349ebf6"
-   },
-   {
     "name": "Vault A",
     "uuid": "32b80dd7-c891-4689-97f7-28a8f29eb0a8"
+   },
+   {
+    "name": "Vault F",
+    "uuid": "4d1df8b9-31fa-4fbc-94bf-4766d7a8e64c"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "fdf23348-79e7-4ba3-8366-0af2b5160131"
+   },
+   {
+    "name": "Vault C",
+    "uuid": "728afc52-3189-4a7e-8db0-1f5b47b9a55b"
    }
   ],
   "ranks": {

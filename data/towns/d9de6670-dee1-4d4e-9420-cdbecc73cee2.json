@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Fairbanks",
   "uuid": "d9de6670-dee1-4d4e-9420-cdbecc73cee2",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 7,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -705,12 +705,7 @@
     "uuid": "f42aaa65-ada1-4b9d-88a4-f550f7d3b7ef"
    }
   ],
-  "trusted": [
-   {
-    "name": "Toopg",
-    "uuid": "02d8e245-6901-4105-9bfb-a78c5246841f"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
    {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "BAB_TAZA",
   "uuid": "bef40db5-3658-466f-a2b6-32ea87ec2f87",
@@ -12,12 +12,12 @@
    "uuid": "e02a9cb5-de3a-48e2-8989-a38c5019f991"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1791649615579,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791911382114,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 54.0,
    "forSalePrice": null
   },
   "perms": {
@@ -98,6 +98,10 @@
     [
      -118,
      -321
+    ],
+    [
+     -117,
+     -322
     ],
     [
      -118,

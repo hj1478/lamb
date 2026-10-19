@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Xotic-Xports",
   "uuid": "cfbc3633-e074-43ac-94f2-114d130e678e",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 22,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 28570.249417234278,
+    "x": 28563.963279205982,
     "y": 63.0,
-    "z": 3743.9759372868552,
-    "pitch": 18.351913,
-    "yaw": -172.7388
+    "z": 3768.739771520261,
+    "pitch": -19.11593,
+    "yaw": 164.83853
    },
    "homeBlock": [
     1785,
-    233
+    235
    ],
    "townBlocks": [
     [
@@ -96,20 +96,88 @@
      235
     ],
     [
+     1786,
+     234
+    ],
+    [
      1785,
      233
     ],
     [
+     1786,
+     232
+    ],
+    [
      1785,
      234
+    ],
+    [
+     1786,
+     233
     ],
     [
      1784,
      235
     ],
     [
+     1786,
+     231
+    ],
+    [
+     1784,
+     232
+    ],
+    [
+     1784,
+     231
+    ],
+    [
      1784,
      234
+    ],
+    [
+     1784,
+     233
+    ],
+    [
+     1783,
+     234
+    ],
+    [
+     1782,
+     234
+    ],
+    [
+     1785,
+     231
+    ],
+    [
+     1783,
+     231
+    ],
+    [
+     1785,
+     232
+    ],
+    [
+     1783,
+     232
+    ],
+    [
+     1782,
+     233
+    ],
+    [
+     1781,
+     233
+    ],
+    [
+     1783,
+     233
+    ],
+    [
+     1782,
+     232
     ]
    ],
    "worlds": {}
@@ -120,9 +188,35 @@
     "uuid": "8759e45d-f392-49fc-99d7-4d7e20d5abd6"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "BugBA3726",
+    "uuid": "73faad55-ee6b-4632-bf0a-8054c220886f"
+   },
+   {
+    "name": "_Melix_",
+    "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
+   },
+   {
+    "name": "HGRolando",
+    "uuid": "c2b36c02-b5a5-454f-bf87-96e4d069017d"
+   },
+   {
+    "name": "General_Hvid",
+    "uuid": "bc566193-d65d-4eca-af1d-079607c9e54d"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Maximum One Floor #19",
+    "uuid": "19528d49-8098-4c9f-890d-7f28acc2e243"
+   },
+   {
+    "name": "Maximum One Floor #16",
+    "uuid": "38d0c268-81de-4f9d-9a26-a562fcaf191b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

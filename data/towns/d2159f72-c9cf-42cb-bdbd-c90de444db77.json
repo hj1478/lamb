@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Kuorevesi",
   "uuid": "d2159f72-c9cf-42cb-bdbd-c90de444db77",
-  "board": "Vihko auki!",
+  "board": "Legendaarista",
   "founder": "VikkeVintero1931",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 181,
-   "maxTownBlocks": 192,
+   "maxTownBlocks": 216,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 11,
-   "numTrusted": 1,
-   "numOutlaws": 15,
-   "balance": 64.0,
+   "numResidents": 13,
+   "numTrusted": 2,
+   "numOutlaws": 14,
+   "balance": 59.0,
    "forSalePrice": null
   },
   "perms": {
@@ -66,9 +66,9 @@
    ],
    "itemUse": [
     false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -862,12 +862,24 @@
    {
     "name": "Itzzzdragonek",
     "uuid": "6008ab68-776b-4d82-ae41-e4adec441178"
+   },
+   {
+    "name": "mas4a",
+    "uuid": "c56070e7-0cde-4541-b509-621a538c39aa"
+   },
+   {
+    "name": "kamatotayama",
+    "uuid": "86463dda-ac69-4761-bfed-bb75fb18a7fb"
    }
   ],
   "trusted": [
    {
     "name": "JaSuS_101",
     "uuid": "cb243a18-82b9-4cab-b903-3967c7ae43d7"
+   },
+   {
+    "name": "VikkeVintero1931",
+    "uuid": "e94a7f57-645d-4fd4-aae7-27853d7a227f"
    }
   ],
   "outlaws": [
@@ -920,11 +932,7 @@
     "uuid": "566ab227-eb1c-4239-a303-e84f29851c7b"
    },
    {
-    "name": "MatskuX",
-    "uuid": "02a067d9-c6e7-49ea-b266-4a2b63d91429"
-   },
-   {
-    "name": "figtrees12",
+    "name": "jamari_aymara23",
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
    },
    {

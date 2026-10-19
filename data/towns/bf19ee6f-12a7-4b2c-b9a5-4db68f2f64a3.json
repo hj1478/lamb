@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Sita",
   "uuid": "bf19ee6f-12a7-4b2c-b9a5-4db68f2f64a3",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 196,
-   "maxTownBlocks": 404,
+   "numTownBlocks": 201,
+   "maxTownBlocks": 448,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 27,
+   "nationBonus": 100,
+   "numResidents": 29,
    "numTrusted": 9,
    "numOutlaws": 14,
-   "balance": 6.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -265,6 +265,10 @@
     ],
     [
      1738,
+     -13
+    ],
+    [
+     1738,
      -12
     ],
     [
@@ -352,6 +356,10 @@
      -13
     ],
     [
+     1737,
+     -12
+    ],
+    [
      1745,
      -29
     ],
@@ -548,6 +556,10 @@
      -27
     ],
     [
+     1749,
+     -11
+    ],
+    [
      1744,
      -14
     ],
@@ -593,6 +605,10 @@
     ],
     [
      1748,
+     -11
+    ],
+    [
+     1748,
      -18
     ],
     [
@@ -622,6 +638,10 @@
     [
      1748,
      -28
+    ],
+    [
+     1739,
+     -13
     ],
     [
      1739,
@@ -912,14 +932,6 @@
     "uuid": "33614960-37a3-40a7-a07b-0649bcaeec97"
    },
    {
-    "name": "xAluu_",
-    "uuid": "a085f8d1-17a2-4343-9182-ff100396adea"
-   },
-   {
-    "name": "Kwilx",
-    "uuid": "a7770c0a-14b1-4985-bf51-7a623a850204"
-   },
-   {
     "name": "Dronegamer5",
     "uuid": "2e4e6a73-d52a-4eb1-aa6f-cbf06b129b57"
    },
@@ -976,16 +988,32 @@
     "uuid": "f1a478f7-9501-4ec0-b0dc-27f69aa31151"
    },
    {
-    "name": "vodx_op",
-    "uuid": "8358008e-67ac-498a-9dde-24c9dc294da9"
-   },
-   {
     "name": "PippyUrkel",
     "uuid": "2ea48379-7576-4bb4-b673-512417c1b35f"
    },
    {
     "name": "Bobbington666",
     "uuid": "31e4ae7b-c551-40ab-a2ee-92cee52d30e5"
+   },
+   {
+    "name": "miningjod14",
+    "uuid": "45ac01ea-c99e-4a58-87b3-bf8dee0991a9"
+   },
+   {
+    "name": "Rishigamer_77",
+    "uuid": "d714fbe7-aaae-4b58-b959-51cadc4d268e"
+   },
+   {
+    "name": "CHOKIING",
+    "uuid": "fddf6b5a-96ae-41b7-9689-e51b161b045c"
+   },
+   {
+    "name": "wimpy_turtle",
+    "uuid": "fd8fc6da-d4fb-4621-8799-753c4934862a"
+   },
+   {
+    "name": "theunsaid",
+    "uuid": "130bc6be-fcdb-48e3-9e70-6a488cc0b05a"
    }
   ],
   "trusted": [
@@ -1136,10 +1164,6 @@
    {
     "name": "Narmada_Storage",
     "uuid": "ce346cec-d587-405f-8b2c-475daea41150"
-   },
-   {
-    "name": "Bland Suite",
-    "uuid": "36eface0-6394-44d4-8bc4-e7fbf9d5403c"
    },
    {
     "name": "Dull Flat",

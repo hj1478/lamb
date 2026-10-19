@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "WoonAndFriends",
   "uuid": "d0965633-e43c-40d8-88b2-9d676699e6e2",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "sjkiller690",
-   "uuid": "7c789c79-9588-479c-a162-b5ea61c01ec6"
+   "name": "NPC25",
+   "uuid": "151ea5c1-5986-20e3-b57f-ec4b90dcc359"
   },
   "nation": {
-   "name": "Texas",
-   "uuid": "059fcc8b-3db5-41b1-8f99-306150225850"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778944306118,
-   "joinedNationAt": 1781017555915,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317601094
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 108,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 5,
@@ -48,32 +48,32 @@
   "perms": {
    "build": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -528,8 +528,8 @@
   },
   "residents": [
    {
-    "name": "sjkiller690",
-    "uuid": "7c789c79-9588-479c-a162-b5ea61c01ec6"
+    "name": "NPC25",
+    "uuid": "151ea5c1-5986-20e3-b57f-ec4b90dcc359"
    }
   ],
   "trusted": [],
@@ -557,12 +557,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "sjkiller690",
-     "uuid": "7c789c79-9588-479c-a162-b5ea61c01ec6"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

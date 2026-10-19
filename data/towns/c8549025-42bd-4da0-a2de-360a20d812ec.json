@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Doncaster",
   "uuid": "c8549025-42bd-4da0-a2de-360a20d812ec",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 53,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 7,
+   "numResidents": 8,
    "numTrusted": 0,
-   "numOutlaws": 5,
-   "balance": 4.0,
+   "numOutlaws": 6,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -481.32387019308925,
-    "y": 66.0,
-    "z": -13225.968221207542,
-    "pitch": -25.383698,
-    "yaw": 170.00006
+    "x": -482.9513819073577,
+    "y": 65.0,
+    "z": -13208.697679007142,
+    "pitch": -3.61072,
+    "yaw": 4.5681458
    },
    "homeBlock": [
     -31,
-    -827
+    -826
    ],
    "townBlocks": [
+    [
+     -29,
+     -834
+    ],
     [
      -32,
      -834
@@ -197,6 +201,10 @@
     ],
     [
      -33,
+     -834
+    ],
+    [
+     -33,
      -833
     ],
     [
@@ -208,14 +216,34 @@
      -833
     ],
     [
+     -29,
+     -833
+    ],
+    [
      -31,
      -834
+    ],
+    [
+     -29,
+     -832
     ],
     [
      -30,
      -833
     ],
     [
+     -29,
+     -831
+    ],
+    [
+     -29,
+     -830
+    ],
+    [
+     -30,
+     -834
+    ],
+    [
      -30,
      -831
     ],
@@ -236,12 +264,12 @@
      -830
     ],
     [
-     -31,
-     -826
-    ],
-    [
      -35,
      -830
+    ],
+    [
+     -31,
+     -826
     ],
     [
      -35,
@@ -268,16 +296,20 @@
      -830
     ],
     [
-     -31,
-     -831
-    ],
-    [
      -35,
      -831
     ],
     [
      -31,
+     -831
+    ],
+    [
+     -31,
      -832
+    ],
+    [
+     -28,
+     -831
     ]
    ],
    "worlds": {
@@ -339,6 +371,10 @@
    {
     "name": "RedDogRose",
     "uuid": "30288c1e-a014-4f1c-8e86-bebd66e04367"
+   },
+   {
+    "name": "RevampedTed",
+    "uuid": "338e0380-bd36-4125-8ac8-f42592784fd2"
    }
   ],
   "trusted": [],
@@ -362,6 +398,10 @@
    {
     "name": "MexicanDude6317",
     "uuid": "73489f6a-64a6-410e-9cc9-1f5299af4052"
+   },
+   {
+    "name": "Copppelia",
+    "uuid": "eaa28acb-f899-4a3e-a47c-f0b99b9b5a55"
    }
   ],
   "quarters": [],

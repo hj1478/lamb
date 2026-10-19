@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Zyr",
   "uuid": "bbfda105-c19a-44a5-83b9-c560f7198d34",
-  "board": "/town set board [msg]",
+  "board": "Capital of the Vym Kingdom",
   "founder": "JoelTheBigMac",
   "wiki": null,
   "discord": null,
@@ -12,37 +12,37 @@
    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Vym",
+   "uuid": "d6df43ac-a84b-47d3-b822-35d9d82494ec"
   },
   "timestamps": {
    "registered": 1790902064224,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792023747028,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 50,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 9,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 660.0,
+   "balance": 410.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35923.69999998808,
+    "x": 35932.48339898893,
     "y": 63.0,
-    "z": -23513.69999998808,
-    "pitch": 18.902782,
-    "yaw": -24.485107
+    "z": -23507.292929981646,
+    "pitch": 0.7817977,
+    "yaw": 1.1511841
    },
    "homeBlock": [
     2245,
@@ -109,14 +109,14 @@
     ],
     [
      2243,
+     -1466
+    ],
+    [
+     2243,
      -1469
     ],
     [
      2243,
-     -1468
-    ],
-    [
-     2242,
      -1468
     ],
     [
@@ -144,6 +144,122 @@
      -1467
     ],
     [
+     2245,
+     -1466
+    ],
+    [
+     2245,
+     -1465
+    ],
+    [
+     2250,
+     -1465
+    ],
+    [
+     2250,
+     -1466
+    ],
+    [
+     2250,
+     -1467
+    ],
+    [
+     2250,
+     -1468
+    ],
+    [
+     2250,
+     -1469
+    ],
+    [
+     2247,
+     -1468
+    ],
+    [
+     2247,
+     -1469
+    ],
+    [
+     2247,
+     -1463
+    ],
+    [
+     2247,
+     -1466
+    ],
+    [
+     2247,
+     -1467
+    ],
+    [
+     2247,
+     -1464
+    ],
+    [
+     2247,
+     -1465
+    ],
+    [
+     2251,
+     -1465
+    ],
+    [
+     2251,
+     -1466
+    ],
+    [
+     2251,
+     -1467
+    ],
+    [
+     2249,
+     -1469
+    ],
+    [
+     2249,
+     -1467
+    ],
+    [
+     2249,
+     -1468
+    ],
+    [
+     2248,
+     -1465
+    ],
+    [
+     2249,
+     -1465
+    ],
+    [
+     2242,
+     -1468
+    ],
+    [
+     2249,
+     -1466
+    ],
+    [
+     2248,
+     -1464
+    ],
+    [
+     2248,
+     -1467
+    ],
+    [
+     2248,
+     -1466
+    ],
+    [
+     2248,
+     -1469
+    ],
+    [
+     2248,
+     -1468
+    ],
+    [
      2246,
      -1470
     ],
@@ -154,6 +270,26 @@
     [
      2246,
      -1468
+    ],
+    [
+     2246,
+     -1467
+    ],
+    [
+     2246,
+     -1466
+    ],
+    [
+     2246,
+     -1465
+    ],
+    [
+     2246,
+     -1464
+    ],
+    [
+     2246,
+     -1463
     ]
    ],
    "worlds": {}
@@ -170,12 +306,48 @@
    {
     "name": "Yuk_0_",
     "uuid": "da6e47c2-5e3b-44c4-a719-944cafda7d12"
+   },
+   {
+    "name": "Ruzmarin",
+    "uuid": "d3695316-1bdb-451f-b1c5-2318b3b681d2"
+   },
+   {
+    "name": "IREM0VE",
+    "uuid": "a5bff1f0-71a2-4330-99c0-f06ae715ba16"
+   },
+   {
+    "name": "2Rico1",
+    "uuid": "a256a021-db5a-4df7-a2d8-fab61780ee58"
+   },
+   {
+    "name": "wagner557",
+    "uuid": "a90fbc6a-ca25-44dc-a0f9-86dff4a74ab5"
+   },
+   {
+    "name": "Kvartr",
+    "uuid": "0031c386-6587-4be7-8c47-5821a16c2939"
+   },
+   {
+    "name": "Thwerrve",
+    "uuid": "4626eb7f-4eb9-4239-99b0-a7c70ccd5a14"
    }
   ],
   "trusted": [
    {
+    "name": "Ruzmarin",
+    "uuid": "d3695316-1bdb-451f-b1c5-2318b3b681d2"
+   },
+   {
+    "name": "IREM0VE",
+    "uuid": "a5bff1f0-71a2-4330-99c0-f06ae715ba16"
+   },
+   {
     "name": "Thwerrve",
     "uuid": "4626eb7f-4eb9-4239-99b0-a7c70ccd5a14"
+   },
+   {
+    "name": "Fruky",
+    "uuid": "5df2094e-1b83-4e16-9014-99b89c402c7d"
    },
    {
     "name": "Yuk_0_",
@@ -195,6 +367,10 @@
    {
     "name": "Upbeat Dwelling",
     "uuid": "62cedda3-c801-4012-b291-a6d467615930"
+   },
+   {
+    "name": "Cozy Apartment",
+    "uuid": "586c55c6-bf50-4c29-ac2e-98a069b67c39"
    }
   ],
   "ranks": {

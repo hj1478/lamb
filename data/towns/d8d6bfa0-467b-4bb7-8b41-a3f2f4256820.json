@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "South_Germany",
   "uuid": "d8d6bfa0-467b-4bb7-8b41-a3f2f4256820",
@@ -12,12 +12,12 @@
    "uuid": "2dde1485-ee7f-40d6-ba04-57b32468eb1f"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1777711280693,
-   "joinedNationAt": 1777743815927,
+   "joinedNationAt": 1792078812408,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 282,
-   "maxTownBlocks": 304,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 17,
-   "numTrusted": 7,
-   "numOutlaws": 13,
-   "balance": 491.0,
+   "numResidents": 16,
+   "numTrusted": 6,
+   "numOutlaws": 18,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1228,10 +1228,6 @@
     "uuid": "2dde1485-ee7f-40d6-ba04-57b32468eb1f"
    },
    {
-    "name": "Leanda_Panda",
-    "uuid": "dc6e6d68-f6d6-472f-9a53-979e56493d3d"
-   },
-   {
     "name": "Fatal_Fanz",
     "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
    },
@@ -1314,10 +1310,6 @@
     "uuid": "d70dca3c-ef3a-45e1-ad00-41bf9565221a"
    },
    {
-    "name": "Skaless",
-    "uuid": "8e6fb7c0-16d4-4698-a6e4-91024c9b5602"
-   },
-   {
     "name": "DrBello",
     "uuid": "756d64b6-97b3-424c-8410-bfaba8b0f7b0"
    }
@@ -1374,6 +1366,26 @@
    {
     "name": "Ulvash",
     "uuid": "b718a406-78a5-4252-866d-4d57a1fc5dea"
+   },
+   {
+    "name": "DABBIED",
+    "uuid": "50b988e2-24b8-44d0-b2ff-77cda4fec130"
+   },
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   },
+   {
+    "name": "Texacoo",
+    "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
+   },
+   {
+    "name": "jupebean",
+    "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
    }
   ],
   "quarters": [
@@ -1456,12 +1468,7 @@
      "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
     }
    ],
-   "Settler": [
-    {
-     "name": "Leanda_Panda",
-     "uuid": "dc6e6d68-f6d6-472f-9a53-979e56493d3d"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

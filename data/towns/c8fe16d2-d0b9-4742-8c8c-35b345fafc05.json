@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Dresdlin",
   "uuid": "c8fe16d2-d0b9-4742-8c8c-35b345fafc05",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 7,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 4.0,
+   "numTrusted": 2,
+   "numOutlaws": 2,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -97,6 +97,10 @@
     ],
     [
      500,
+     948
+    ],
+    [
+     500,
      950
     ],
     [
@@ -104,7 +108,15 @@
      949
     ],
     [
+     499,
+     949
+    ],
+    [
      501,
+     950
+    ],
+    [
+     499,
      950
     ]
    ],
@@ -118,17 +130,50 @@
   ],
   "trusted": [
    {
+    "name": "Cy3pher",
+    "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
+   },
+   {
     "name": "Cisco32",
     "uuid": "6e0f6af9-d4b3-42d1-a8c3-4dad811967fe"
    }
   ],
   "outlaws": [
    {
-    "name": "figtrees12",
+    "name": "jamari_aymara23",
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Mayoral Residence",
+    "uuid": "3c608195-c1ac-48a2-8702-abead2a4e3ee"
+   },
+   {
+    "name": "Dresdlin Regional Chancellery",
+    "uuid": "1cc5102f-ac57-4b51-b0de-44a70a1ff87a"
+   },
+   {
+    "name": "D.P. Floor 2 Room 1",
+    "uuid": "0481d068-083b-4863-a630-de36fe8bfe3e"
+   },
+   {
+    "name": "D.P. Floor 2 Room 2",
+    "uuid": "eff5b42a-7e30-4a43-ab10-71a459b84448"
+   },
+   {
+    "name": "D.P. Floor 1 Room 2",
+    "uuid": "de22b6d0-7911-4fc9-ac4c-0c511665b6fa"
+   },
+   {
+    "name": "D.P. Floor 1 Room 1",
+    "uuid": "2a250b7a-25c8-4d4d-83e8-c58bfe382f02"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

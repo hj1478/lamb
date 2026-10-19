@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Alonnisos",
   "uuid": "cb4c41e4-9276-4c65-b107-a9f055a22254",
-  "board": "/town set board [msg]",
+  "board": "Osmancik Lapis Empire",
   "founder": "Akaviry",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Akaviry",
-   "uuid": "84a3c552-c000-47d7-8085-019d9dd9199b"
+   "name": "200Hzcx4",
+   "uuid": "e42d9832-bc45-4a99-ba14-791c22d8640b"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1790352150195,
-   "joinedNationAt": 1790352159840,
+   "joinedNationAt": 1791982289296,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numTrusted": 3,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -216,18 +216,56 @@
   },
   "residents": [
    {
-    "name": "Akaviry",
-    "uuid": "84a3c552-c000-47d7-8085-019d9dd9199b"
+    "name": "200Hzcx4",
+    "uuid": "e42d9832-bc45-4a99-ba14-791c22d8640b"
    }
   ],
   "trusted": [
    {
-    "name": "resonity",
+    "name": "ArdaTe_",
+    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   },
+   {
+    "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
+    "name": "rakuptka",
+    "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "Hatuqay",
+    "uuid": "d9ef0399-1a19-4a22-a6e4-6b6b64244d33"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Upbeat Flat",
+    "uuid": "7f188940-d3dc-463b-8af4-f60322e9b66b"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "508f0c91-0700-455c-a25b-e89dc8af1ecf"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "8792e42d-c99b-4d78-b018-1cee28d11729"
+   },
+   {
+    "name": "Home",
+    "uuid": "d15094c3-dc92-4034-95c9-634a44dfb137"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "a0e1547d-52cb-45f0-b4ce-73beec1c8df8"
+   },
+   {
+    "name": "v3nusrai",
+    "uuid": "2de22ab5-3148-4a7a-ba41-eee665d31712"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

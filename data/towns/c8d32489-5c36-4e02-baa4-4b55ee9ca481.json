@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Ciudad_Real",
   "uuid": "c8d32489-5c36-4e02-baa4-4b55ee9ca481",
-  "board": "Rize top1",
+  "board": "Light of Knowledge, Glory of al-Andalus",
   "founder": "Wardzoo",
   "wiki": null,
   "discord": null,
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791737903202,
-   "joinedNationAt": 1791738115822,
+   "joinedNationAt": 1792237153008,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 76,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 142.0,
+   "numResidents": 4,
+   "numTrusted": 1,
+   "numOutlaws": 1,
+   "balance": 1229.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,16 +92,116 @@
    ],
    "townBlocks": [
     [
-     -88,
+     -83,
+     -413
+    ],
+    [
+     -83,
+     -412
+    ],
+    [
+     -86,
+     -419
+    ],
+    [
+     -83,
+     -415
+    ],
+    [
+     -83,
+     -414
+    ],
+    [
+     -86,
+     -416
+    ],
+    [
+     -86,
+     -415
+    ],
+    [
+     -86,
+     -418
+    ],
+    [
+     -86,
+     -417
+    ],
+    [
+     -86,
+     -412
+    ],
+    [
+     -86,
      -411
+    ],
+    [
+     -86,
+     -414
+    ],
+    [
+     -86,
+     -413
+    ],
+    [
+     -86,
+     -410
+    ],
+    [
+     -86,
+     -409
+    ],
+    [
+     -83,
+     -417
+    ],
+    [
+     -83,
+     -416
+    ],
+    [
+     -83,
+     -419
+    ],
+    [
+     -83,
+     -418
+    ],
+    [
+     -84,
+     -415
+    ],
+    [
+     -84,
+     -414
+    ],
+    [
+     -84,
+     -417
+    ],
+    [
+     -84,
+     -416
+    ],
+    [
+     -84,
+     -419
+    ],
+    [
+     -84,
+     -418
+    ],
+    [
+     -84,
+     -413
+    ],
+    [
+     -84,
+     -412
     ],
     [
      -90,
      -411
-    ],
-    [
-     -88,
-     -410
     ],
     [
      -90,
@@ -112,20 +212,188 @@
      -410
     ],
     [
+     -90,
+     -415
+    ],
+    [
+     -90,
+     -416
+    ],
+    [
+     -90,
+     -413
+    ],
+    [
+     -90,
+     -414
+    ],
+    [
+     -85,
+     -419
+    ],
+    [
+     -87,
+     -409
+    ],
+    [
+     -85,
+     -415
+    ],
+    [
+     -85,
+     -416
+    ],
+    [
+     -85,
+     -417
+    ],
+    [
+     -85,
+     -418
+    ],
+    [
+     -85,
+     -412
+    ],
+    [
+     -85,
+     -413
+    ],
+    [
+     -85,
+     -414
+    ],
+    [
+     -88,
+     -419
+    ],
+    [
+     -87,
+     -419
+    ],
+    [
+     -88,
+     -418
+    ],
+    [
+     -87,
+     -418
+    ],
+    [
+     -88,
+     -417
+    ],
+    [
+     -88,
+     -416
+    ],
+    [
      -89,
+     -415
+    ],
+    [
+     -87,
      -411
     ],
     [
      -89,
-     -412
+     -416
     ],
     [
-     -88,
+     -87,
+     -410
+    ],
+    [
+     -89,
+     -413
+    ],
+    [
+     -87,
+     -413
+    ],
+    [
+     -89,
+     -414
+    ],
+    [
+     -87,
      -412
     ],
     [
      -89,
+     -411
+    ],
+    [
+     -87,
+     -415
+    ],
+    [
+     -89,
+     -412
+    ],
+    [
+     -87,
+     -414
+    ],
+    [
+     -87,
+     -417
+    ],
+    [
+     -89,
      -410
+    ],
+    [
+     -87,
+     -416
+    ],
+    [
+     -90,
+     -419
+    ],
+    [
+     -90,
+     -417
+    ],
+    [
+     -90,
+     -418
+    ],
+    [
+     -89,
+     -419
+    ],
+    [
+     -89,
+     -417
+    ],
+    [
+     -89,
+     -418
+    ],
+    [
+     -88,
+     -411
+    ],
+    [
+     -88,
+     -410
+    ],
+    [
+     -88,
+     -415
+    ],
+    [
+     -88,
+     -414
+    ],
+    [
+     -88,
+     -413
+    ],
+    [
+     -88,
+     -412
     ]
    ],
    "worlds": {}
@@ -134,22 +402,40 @@
    {
     "name": "Wardzoo",
     "uuid": "c943da0f-fd13-4fa2-bd1a-e4289a2cc5e1"
-   }
-  ],
-  "trusted": [
+   },
    {
     "name": "ayazcs",
     "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
    },
    {
-    "name": "LassqL",
-    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
+    "name": "asaf_s",
+    "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
+   },
+   {
+    "name": "BerrakBekir07",
+    "uuid": "f48c4f0a-ba13-41a8-ab3c-0b66c8c9aa47"
    }
   ],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "asaf_s",
+    "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "yigitcs34",
+    "uuid": "251e17b4-1f3d-44ef-985e-6c886a42e00d"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ayazcs",
+     "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Lumbridge",
   "uuid": "db62457b-db7f-4268-8e29-0ddd097c4fa7",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "YusufHasan",
-   "uuid": "731973a0-c570-4538-b8bc-e5e058e6966a"
+   "name": "NPC7",
+   "uuid": "d8ee7391-b16f-2065-b46d-a6f60d647e9c"
   },
   "nation": {
-   "name": "Aba",
-   "uuid": "138a2f97-8a4e-4c33-84fb-b101161ef99f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784327963622,
-   "joinedNationAt": 1784328009715,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317602323
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 6,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "YusufHasan",
-    "uuid": "731973a0-c570-4538-b8bc-e5e058e6966a"
+    "name": "NPC7",
+    "uuid": "d8ee7391-b16f-2065-b46d-a6f60d647e9c"
    }
   ],
   "trusted": [

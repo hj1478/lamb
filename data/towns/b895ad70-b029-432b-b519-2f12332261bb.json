@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Rhode_Island",
   "uuid": "b895ad70-b029-432b-b519-2f12332261bb",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 17.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,6 +100,10 @@
      -405
     ],
     [
+     -1713,
+     -406
+    ],
+    [
      -1712,
      -404
     ],
@@ -114,6 +118,10 @@
     [
      -1714,
      -404
+    ],
+    [
+     -1712,
+     -405
     ]
    ],
    "worlds": {}
@@ -122,13 +130,22 @@
    {
     "name": "gustofofo",
     "uuid": "eeebaa2f-df18-4613-ae8f-fae700e84798"
+   },
+   {
+    "name": "digasogo",
+    "uuid": "365527f8-56e4-4899-a5f4-fe238a948435"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "digasogo",
+     "uuid": "365527f8-56e4-4899-a5f4-fe238a948435"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Valtherion",
   "uuid": "d8568bad-5d25-4f64-b5ae-0e7ce6486063",
@@ -12,12 +12,12 @@
    "uuid": "6e92c482-15e9-4da1-b457-091e791322bc"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
   },
   "timestamps": {
    "registered": 1787299330374,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792251075085,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 38,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 6.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -128,8 +128,16 @@
      -820
     ],
     [
+     815,
+     -822
+    ],
+    [
      816,
      -820
+    ],
+    [
+     815,
+     -821
     ],
     [
      816,
@@ -144,6 +152,10 @@
      -820
     ],
     [
+     814,
+     -819
+    ],
+    [
      816,
      -821
     ],
@@ -152,12 +164,28 @@
      -819
     ],
     [
+     814,
+     -820
+    ],
+    [
      815,
+     -818
+    ],
+    [
+     814,
      -818
     ],
     [
      816,
      -818
+    ],
+    [
+     815,
+     -824
+    ],
+    [
+     815,
+     -823
     ],
     [
      819,
@@ -228,11 +256,16 @@
     "uuid": "f6f13473-e3d3-4b3e-898d-60a2d7af0dac"
    },
    {
+    "name": "CerealEater33",
+    "uuid": "a1cdd8b7-feaa-41af-96be-236122d308a4"
+   }
+  ],
+  "trusted": [
+   {
     "name": "Bafaex",
     "uuid": "a5fb3cb9-6e93-440f-8e41-92a809e9c4dd"
    }
   ],
-  "trusted": [],
   "outlaws": [
    {
     "name": "Mestarihylje",
@@ -383,15 +416,18 @@
    {
     "name": "Luxurious Dwelling",
     "uuid": "77b4eae6-3f85-49d1-81a4-d9405a03c1c9"
+   },
+   {
+    "name": "Stylish Flat",
+    "uuid": "e2e7b5db-1402-4e9b-93ed-5f79052012d2"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "28ee0690-3279-4a5a-be83-1795dd9440ac"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Bafaex",
-     "uuid": "a5fb3cb9-6e93-440f-8e41-92a809e9c4dd"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

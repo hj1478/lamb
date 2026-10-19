@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-19T13:32:29Z",
+ "data": {
+  "name": "Karaganda",
+  "uuid": "bc0f5901-dbf7-4429-acb8-2851a7c479cc",
+  "board": "/town set board [msg]",
+  "founder": "ckypif",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "ckypif",
+   "uuid": "a1125670-3564-4aaf-ae47-2bae87c65c32"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792335499313,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    true,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 26676.310554763484,
+    "y": 75.0,
+    "z": -11609.284165400919,
+    "pitch": 11.400368,
+    "yaw": 121.43457
+   },
+   "homeBlock": [
+    1667,
+    -726
+   ],
+   "townBlocks": [
+    [
+     1667,
+     -726
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "ckypif",
+    "uuid": "a1125670-3564-4aaf-ae47-2bae87c65c32"
+   },
+   {
+    "name": "DarkSlapstik2",
+    "uuid": "4a8ccc9e-4be7-4081-bf91-89c453600ecf"
+   },
+   {
+    "name": "H4rDm0v3",
+    "uuid": "a51e3423-fbee-428f-bc19-cb5d1469324b"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "DarkSlapstik2",
+     "uuid": "4a8ccc9e-4be7-4081-bf91-89c453600ecf"
+    },
+    {
+     "name": "H4rDm0v3",
+     "uuid": "a51e3423-fbee-428f-bc19-cb5d1469324b"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

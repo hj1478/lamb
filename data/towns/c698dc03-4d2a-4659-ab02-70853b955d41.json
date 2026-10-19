@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Willheim",
   "uuid": "c698dc03-4d2a-4659-ab02-70853b955d41",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "hzr_windows",
-   "uuid": "8e426f60-e84f-4f23-8754-07f792ca1615"
+   "name": "Gorki201212",
+   "uuid": "cc41d037-07f3-4ca6-a668-3d55e70f5454"
   },
   "nation": {
    "name": "FE",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 41,
-   "maxTownBlocks": 86,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 3,
-   "numTrusted": 4,
-   "numOutlaws": 5,
-   "balance": 5.0,
+   "numResidents": 1,
+   "numTrusted": 3,
+   "numOutlaws": 4,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -260,26 +260,14 @@
   },
   "residents": [
    {
-    "name": "hzr_windows",
-    "uuid": "8e426f60-e84f-4f23-8754-07f792ca1615"
-   },
-   {
     "name": "Gorki201212",
     "uuid": "cc41d037-07f3-4ca6-a668-3d55e70f5454"
-   },
-   {
-    "name": "N0tsoo_",
-    "uuid": "3a329a8b-fbb9-4807-85d3-f9fa2dd5b7dd"
    }
   ],
   "trusted": [
    {
     "name": "hzr_windows",
     "uuid": "8e426f60-e84f-4f23-8754-07f792ca1615"
-   },
-   {
-    "name": "1CritZ",
-    "uuid": "ccafe371-584d-4c90-92cd-e74f340cc388"
    },
    {
     "name": "Gorki201212",
@@ -302,10 +290,6 @@
    {
     "name": "guozhaoliang",
     "uuid": "27fdc3f0-1a67-4e95-8644-81b20df9d341"
-   },
-   {
-    "name": "sobremares",
-    "uuid": "56ae8254-e4c1-474a-802a-56c4343e0aa7"
    },
    {
     "name": "D3rPlayz",
@@ -334,25 +318,20 @@
     "uuid": "abf7b451-cc77-46b0-9873-026451ca7f4c"
    },
    {
-    "name": "Luxurious Flat",
-    "uuid": "07ed14ac-a142-4a68-99d3-ed958bd3c7f2"
-   },
-   {
     "name": "Gloomy Residence",
     "uuid": "29089699-1d79-4223-b5cc-6e0b94abcf3e"
    },
    {
     "name": "Lovely Quarter",
     "uuid": "ad40e569-53bd-41ff-b397-04f3e02bec0b"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "07ed14ac-a142-4a68-99d3-ed958bd3c7f2"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "N0tsoo_",
-     "uuid": "3a329a8b-fbb9-4807-85d3-f9fa2dd5b7dd"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

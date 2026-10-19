@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Tiksi",
   "uuid": "c711651a-1ddb-439b-8a3d-e26eda133326",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 4,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46567.63998415619,
+    "x": 46567.489068403156,
     "y": 63.0,
-    "z": -22982.610799670514,
-    "pitch": 69.15002,
-    "yaw": -178.93886
+    "z": -22982.528500355198,
+    "pitch": 3.749988,
+    "yaw": -179.69006
    },
    "homeBlock": [
     2910,
@@ -98,6 +98,14 @@
     [
      2910,
      -1437
+    ],
+    [
+     2912,
+     -1437
+    ],
+    [
+     2911,
+     -1437
     ]
    ],
    "worlds": {}
@@ -110,7 +118,28 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Enraging Tenement",
+    "uuid": "daa608d7-5aa2-4f68-8414-00592b712098"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "18781cd4-70c1-4c40-a34a-da156cc5a2f5"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "1f432744-8de8-4d1b-93a4-3d6d698a43c9"
+   },
+   {
+    "name": "Dull Property",
+    "uuid": "9fa58ebd-fe42-4547-a6ed-c4f917f0f529"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "aeed6974-f16d-4cfc-9453-a7eb9d7be36e"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

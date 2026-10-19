@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Imatra",
   "uuid": "d8872485-38dd-49d1-a962-2a2164d48f8d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,15 @@
    "townBlocks": [
     [
      646,
+     -1078
+    ],
+    [
+     646,
      -1077
+    ],
+    [
+     646,
+     -1076
     ],
     [
      645,
@@ -101,6 +109,14 @@
     ],
     [
      645,
+     -1077
+    ],
+    [
+     647,
+     -1078
+    ],
+    [
+     647,
      -1077
     ]
    ],
@@ -114,9 +130,22 @@
    {
     "name": "Theozitoz",
     "uuid": "ff75bc2a-0d3a-442f-b88e-e4e21414b272"
+   },
+   {
+    "name": "redfantaa_",
+    "uuid": "e9379fc7-b2d2-4b86-b74f-f676822c2b25"
+   },
+   {
+    "name": "Baby_Y0daa",
+    "uuid": "a26b3080-dc67-4d66-9f9c-6b67a9be6a59"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "VikkeVintero1931",
+    "uuid": "e94a7f57-645d-4fd4-aae7-27853d7a227f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

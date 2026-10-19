@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Cincinnati",
   "uuid": "ce267cd7-72ed-45ac-a964-df3a0132c6db",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 182,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 5,
    "numTrusted": 3,
    "numOutlaws": 6,
-   "balance": 360.0,
+   "balance": 275.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30446.43238806098,
-    "y": 72.0,
-    "z": -6903.487190971321,
-    "pitch": 89.40001,
-    "yaw": -89.62088
+    "x": -30393.380722478836,
+    "y": 67.0,
+    "z": -6914.529019706073,
+    "pitch": 35.549988,
+    "yaw": -173.47084
    },
    "homeBlock": [
-    -1903,
-    -432
+    -1900,
+    -433
    ],
    "townBlocks": [
     [
@@ -832,10 +832,6 @@
     "uuid": "1a7e7a11-7412-4753-ba51-a8b24648f6ec"
    },
    {
-    "name": "Volstaff",
-    "uuid": "ba0e852d-8464-4c97-abcc-0fb2e6e5911c"
-   },
-   {
     "name": "ElGuapo0341",
     "uuid": "8917e872-a7c8-45a2-a2e7-69de3debbca9"
    },
@@ -846,10 +842,6 @@
    {
     "name": "SOLO_LEIVEING234",
     "uuid": "3cd0fc79-76c3-4f61-9430-e3e80ebf5f24"
-   },
-   {
-    "name": "yourmoms_bicep",
-    "uuid": "f54e821d-31ed-4fff-a115-acaabdb43bb6"
    }
   ],
   "trusted": [

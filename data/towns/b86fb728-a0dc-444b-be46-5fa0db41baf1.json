@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "ShaoGuan",
   "uuid": "b86fb728-a0dc-444b-be46-5fa0db41baf1",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 50,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 10,
-   "numOutlaws": 0,
+   "numResidents": 2,
+   "numTrusted": 9,
+   "numOutlaws": 1,
    "balance": 29.0,
    "forSalePrice": null
   },
@@ -268,12 +268,12 @@
      -58
     ],
     [
-     2546,
-     -59
-    ],
-    [
      2545,
      -57
+    ],
+    [
+     2546,
+     -59
     ],
     [
      2545,
@@ -298,6 +298,10 @@
    {
     "name": "Oos3",
     "uuid": "72417b08-1991-41e1-8709-b02018aaa943"
+   },
+   {
+    "name": "bLumend",
+    "uuid": "60fbdb93-3acf-4b61-b104-7172ec801f5b"
    }
   ],
   "trusted": [
@@ -316,10 +320,6 @@
    {
     "name": "llWmfdll",
     "uuid": "c385edac-cd55-4d02-bb8d-175210bbc693"
-   },
-   {
-    "name": "Truzz666",
-    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
    },
    {
     "name": "bLumend",
@@ -342,7 +342,12 @@
     "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Truzz666",
+    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+   }
+  ],
   "quarters": [
    {
     "name": "港口 1",

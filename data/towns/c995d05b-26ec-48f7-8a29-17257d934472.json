@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Wellstead",
   "uuid": "c995d05b-26ec-48f7-8a29-17257d934472",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -159,6 +159,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "Loobels",
+    "uuid": "dfb58cfc-18d0-4641-9866-56a5fa6a501c"
+   },
    {
     "name": "FunnyShib",
     "uuid": "2e2c274f-f05a-482c-bf60-c9d36fb2ea32"

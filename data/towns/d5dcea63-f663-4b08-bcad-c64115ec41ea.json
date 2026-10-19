@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Kitee",
   "uuid": "d5dcea63-f663-4b08-bcad-c64115ec41ea",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 58,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -245,11 +245,23 @@
     ],
     [
      678,
+     -1109
+    ],
+    [
+     678,
+     -1108
+    ],
+    [
+     678,
      -1113
     ],
     [
      678,
      -1112
+    ],
+    [
+     677,
+     -1109
     ],
     [
      677,
@@ -338,13 +350,14 @@
    {
     "name": "Chihaya_Anon325",
     "uuid": "a3e17fc3-1d88-4ada-8aa0-f5a8f0ed0082"
-   },
-   {
-    "name": "Thegoodgamer483",
-    "uuid": "dc28b75d-94b1-4f9f-acfa-bc6e02bba24f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Nemoriver",
+    "uuid": "77b9ec62-ac44-4976-8828-d804342a7430"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {
@@ -366,6 +379,10 @@
   ],
   "ranks": {
    "Councillor": [
+    {
+     "name": "Nemoriver",
+     "uuid": "77b9ec62-ac44-4976-8828-d804342a7430"
+    },
     {
      "name": "Chihaya_Anon325",
      "uuid": "a3e17fc3-1d88-4ada-8aa0-f5a8f0ed0082"

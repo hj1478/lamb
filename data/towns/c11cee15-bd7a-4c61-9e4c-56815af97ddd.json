@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Communist_Abcd",
   "uuid": "c11cee15-bd7a-4c61-9e4c-56815af97ddd",
@@ -12,37 +12,37 @@
    "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1791892071491,
-   "joinedNationAt": null,
+   "joinedNationAt": 1791909995541,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,26 +74,78 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21363.869348913016,
+    "x": -21379.2543380594,
     "y": 63.0,
-    "z": 20484.29733225339,
-    "pitch": 18.258846,
-    "yaw": 117.315
+    "z": 20476.30668864249,
+    "pitch": 69.00005,
+    "yaw": -93.52582
    },
    "homeBlock": [
-    -1336,
-    1280
+    -1337,
+    1279
    ],
    "townBlocks": [
     [
+     -1339,
+     1279
+    ],
+    [
+     -1339,
+     1278
+    ],
+    [
+     -1336,
+     1281
+    ],
+    [
+     -1336,
+     1279
+    ],
+    [
      -1336,
      1280
+    ],
+    [
+     -1338,
+     1279
+    ],
+    [
+     -1338,
+     1278
+    ],
+    [
+     -1338,
+     1280
+    ],
+    [
+     -1335,
+     1281
+    ],
+    [
+     -1335,
+     1280
+    ],
+    [
+     -1337,
+     1278
+    ],
+    [
+     -1337,
+     1279
+    ],
+    [
+     -1337,
+     1280
+    ],
+    [
+     -1337,
+     1281
     ]
    ],
    "worlds": {}
@@ -102,18 +154,22 @@
    {
     "name": "aq78ad",
     "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "AbcdIsSmart",
-    "uuid": "ce848694-6c8b-4b4f-a868-2e1f34121b2e"
+    "name": "maomau_",
+    "uuid": "68255f18-a607-43af-a56d-4f773ec18230"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "aq78ad",
+     "uuid": "42b36bcd-7a90-44e3-9bf1-13bcf4948b8d"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

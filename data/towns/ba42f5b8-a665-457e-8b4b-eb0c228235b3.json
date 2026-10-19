@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "New_Bali",
   "uuid": "ba42f5b8-a665-457e-8b4b-eb0c228235b3",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791908586241,
-   "joinedNationAt": 1791908624241,
+   "joinedNationAt": 1791994756377,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40976.913856110215,
+    "x": 40977.99696085837,
     "y": 65.0,
-    "z": 10568.133166402728,
-    "pitch": 16.200006,
-    "yaw": 148.25145
+    "z": 10564.7934261508,
+    "pitch": 27.000008,
+    "yaw": -94.74841
    },
    "homeBlock": [
     2561,
@@ -92,8 +92,20 @@
    ],
    "townBlocks": [
     [
+     2562,
+     660
+    ],
+    [
      2561,
      660
+    ],
+    [
+     2561,
+     661
+    ],
+    [
+     2562,
+     661
     ]
    ],
    "worlds": {}
@@ -106,7 +118,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "a2a2ad88-85c3-446f-9564-1a1523beb87b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

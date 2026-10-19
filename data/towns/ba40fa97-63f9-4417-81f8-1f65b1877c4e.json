@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Juneau",
   "uuid": "ba40fa97-63f9-4417-81f8-1f65b1877c4e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheNoobMaster123",
-   "uuid": "44e7daaf-96d1-4584-98e5-bd0bb1e9e028"
+   "name": "NPC3",
+   "uuid": "4321bc2d-ffbb-2094-935d-c7837bc62383"
   },
   "nation": {
-   "name": "Anchorage",
-   "uuid": "a19a509d-7ea1-46eb-8b88-ae7757ed2494"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776607278301,
-   "joinedNationAt": 1779299592081,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792231203268
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 50,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,20 +136,11 @@
   },
   "residents": [
    {
-    "name": "TheNoobMaster123",
-    "uuid": "44e7daaf-96d1-4584-98e5-bd0bb1e9e028"
+    "name": "NPC3",
+    "uuid": "4321bc2d-ffbb-2094-935d-c7837bc62383"
    }
   ],
-  "trusted": [
-   {
-    "name": "Schober_Gaming",
-    "uuid": "99171077-5662-4ee7-8c4a-5920f289a4b4"
-   },
-   {
-    "name": "TheNoobMaster123",
-    "uuid": "44e7daaf-96d1-4584-98e5-bd0bb1e9e028"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
    {

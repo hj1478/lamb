@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Blue-Sky",
   "uuid": "c5ae0930-f6b2-4d30-8e18-58f7d0b4d2e2",
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 23,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "numResidents": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -108,6 +108,18 @@
      654
     ],
     [
+     426,
+     657
+    ],
+    [
+     426,
+     655
+    ],
+    [
+     426,
+     656
+    ],
+    [
      423,
      657
     ],
@@ -118,6 +130,10 @@
     [
      423,
      656
+    ],
+    [
+     425,
+     655
     ],
     [
      423,
@@ -128,6 +144,10 @@
      656
     ],
     [
+     425,
+     654
+    ],
+    [
      423,
      655
     ],
@@ -148,12 +168,20 @@
      656
     ],
     [
+     427,
+     656
+    ],
+    [
      422,
      657
     ],
     [
      421,
      657
+    ],
+    [
+     422,
+     658
     ]
    ],
    "worlds": {}
@@ -170,12 +198,24 @@
    {
     "name": "KupettoRT",
     "uuid": "25a02e3d-9955-4b09-b11c-cca24b3fd19a"
+   },
+   {
+    "name": "Zenobia7",
+    "uuid": "37859340-214d-4335-bf33-7edc1ab5c4f1"
    }
   ],
   "trusted": [
    {
     "name": "twomoo1119",
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
+   },
+   {
+    "name": "jeson_oficial",
+    "uuid": "8e8f2ea8-f9f6-4924-bcf4-76571a61a7a0"
+   },
+   {
+    "name": "mistif0",
+    "uuid": "13f7ec3d-8b9a-4ded-b160-a9871058e13f"
    }
   ],
   "outlaws": [],
@@ -197,28 +237,64 @@
     "uuid": "0be0a980-726f-4d7a-add1-23ab425d7007"
    },
    {
-    "name": "Bland Suite",
-    "uuid": "e0a062cb-7e57-4ee4-aacb-091720a62500"
-   },
-   {
     "name": "Cheerful Suite",
     "uuid": "4727f50f-d53b-4eeb-a96c-21abb9ad72e7"
-   },
-   {
-    "name": "Luxurious Suite",
-    "uuid": "17c8cc00-788a-4851-a3ad-8e8cbba86cb0"
    },
    {
     "name": "Dingy Flat",
     "uuid": "fd0a8851-f732-45b8-b6d2-069a436cc8a7"
    },
    {
-    "name": "Luxurious Property",
-    "uuid": "7871befb-35dd-4131-a7b8-2e4cdeffae71"
+    "name": "Luxurious Suite",
+    "uuid": "17c8cc00-788a-4851-a3ad-8e8cbba86cb0"
    },
    {
     "name": "Welcoming Dwelling",
     "uuid": "cd9bce72-87e4-4260-a55b-c884beb92678"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "7871befb-35dd-4131-a7b8-2e4cdeffae71"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "509250e3-e3da-4c15-a7d8-d3c97850fdcc"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "754a8e2e-4898-4710-9505-7650ac6f415c"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "5b205b44-de41-43d0-a6ab-4c54404612e9"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "337f3435-efa2-408e-ba1f-d8306cf5aa91"
+   },
+   {
+    "name": "TRAINIG 1",
+    "uuid": "b2a8f6f7-da2c-4763-b87f-a0fddf1d4bf3"
+   },
+   {
+    "name": "TRAINING 2",
+    "uuid": "16fafdab-4be6-41c3-a4a3-7bea2087f99f"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "2682f08b-78ad-4cea-8d51-d2f4b53d7966"
+   },
+   {
+    "name": "Sky home",
+    "uuid": "e0a062cb-7e57-4ee4-aacb-091720a62500"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "aa426e79-e3fe-4806-aa55-03b791529cb0"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "b40bf516-c472-4a0b-8c8f-7e809838a3f0"
    }
   ],
   "ranks": {

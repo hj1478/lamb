@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Garissa_Chieti",
   "uuid": "bc9fd7db-eefc-4b15-ba02-62569ebcbc9c",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 29,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -214,6 +214,10 @@
    {
     "name": "MonolithicTactic",
     "uuid": "64c1cbbd-3fe8-4355-b135-d16047e38779"
+   },
+   {
+    "name": "DarkpageM",
+    "uuid": "4580f3cf-f5db-45fe-80c8-1391f7225347"
    }
   ],
   "trusted": [

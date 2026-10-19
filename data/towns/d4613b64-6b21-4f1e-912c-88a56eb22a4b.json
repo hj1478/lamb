@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "San_Andros",
   "uuid": "d4613b64-6b21-4f1e-912c-88a56eb22a4b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 118,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 718.0,
+   "balance": 788.0,
    "forSalePrice": null
   },
   "perms": {
@@ -570,6 +570,10 @@
    {
     "name": "Bitgold",
     "uuid": "2b8a0478-4f3f-424d-89e0-c03f74dadeea"
+   },
+   {
+    "name": "istico09",
+    "uuid": "9f15c332-0fd1-48c2-9fc8-a1c63e228986"
    }
   ],
   "trusted": [

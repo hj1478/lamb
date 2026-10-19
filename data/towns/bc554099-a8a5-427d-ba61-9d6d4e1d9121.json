@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Hasloch",
   "uuid": "bc554099-a8a5-427d-ba61-9d6d4e1d9121",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Masta3333",
-   "uuid": "0d19cd63-8193-4f74-8141-cbaa2e0ed9d1"
+   "name": "NPC52",
+   "uuid": "ca17ad4c-927f-20d1-9db4-5760ae070613"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783696322869,
-   "joinedNationAt": 1784466635905,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792404003217
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -156,8 +156,8 @@
   },
   "residents": [
    {
-    "name": "Masta3333",
-    "uuid": "0d19cd63-8193-4f74-8141-cbaa2e0ed9d1"
+    "name": "NPC52",
+    "uuid": "ca17ad4c-927f-20d1-9db4-5760ae070613"
    }
   ],
   "trusted": [

@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-10-19T13:32:29Z",
+ "data": {
+  "name": "AGALAR",
+  "uuid": "8834b0d3-a853-4294-b3ec-5e99bea419a4",
+  "board": "/town set board [msg]",
+  "founder": "idobabo",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "idobabo",
+   "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792341894913,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 14144.733276881087,
+    "y": 96.0,
+    "z": -7474.670382091857,
+    "pitch": -1.6499768,
+    "yaw": 169.50488
+   },
+   "homeBlock": [
+    884,
+    -468
+   ],
+   "townBlocks": [
+    [
+     884,
+     -468
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "idobabo",
+    "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
+   },
+   {
+    "name": "Eymen6116",
+    "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "Eymen6116",
+     "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

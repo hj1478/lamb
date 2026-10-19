@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Sonnau",
   "uuid": "c1eb3651-4f6d-4e1c-a5d0-02f8256a933c",
@@ -12,12 +12,12 @@
    "uuid": "e92efe4c-63ef-44dc-af5e-2693268f9a6b"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1790157909406,
-   "joinedNationAt": 1790158073705,
+   "joinedNationAt": 1792078802454,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 58,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 73,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 298.0,
+   "balance": 239.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -196,12 +196,36 @@
      -702
     ],
     [
+     283,
+     -698
+    ],
+    [
+     283,
+     -699
+    ],
+    [
+     283,
+     -695
+    ],
+    [
+     283,
+     -696
+    ],
+    [
+     283,
+     -697
+    ],
+    [
      279,
      -700
     ],
     [
      282,
      -694
+    ],
+    [
+     284,
+     -695
     ],
     [
      279,
@@ -212,12 +236,24 @@
      -695
     ],
     [
+     284,
+     -696
+    ],
+    [
      279,
      -702
     ],
     [
+     284,
+     -697
+    ],
+    [
      282,
      -693
+    ],
+    [
+     284,
+     -698
     ],
     [
      282,
@@ -225,6 +261,10 @@
     ],
     [
      282,
+     -699
+    ],
+    [
+     285,
      -699
     ],
     [
@@ -246,6 +286,26 @@
     [
      282,
      -701
+    ],
+    [
+     285,
+     -696
+    ],
+    [
+     285,
+     -695
+    ],
+    [
+     285,
+     -698
+    ],
+    [
+     285,
+     -697
+    ],
+    [
+     284,
+     -699
     ],
     [
      278,
@@ -350,6 +410,14 @@
    {
     "name": "SAMNOMICTH",
     "uuid": "348be5a5-85f1-4961-96e2-0e8b50a864b0"
+   },
+   {
+    "name": "RayFloryn",
+    "uuid": "3a8b08d7-fe7a-41fe-84e4-6882ffcc6cc7"
+   },
+   {
+    "name": "0zster",
+    "uuid": "d21bb5e2-01ff-4507-b80f-18b4260d69ba"
    }
   ],
   "trusted": [],
@@ -364,24 +432,12 @@
     "uuid": "aba90368-8a76-4109-8bbc-e88507efd23e"
    },
    {
-    "name": "Gwoopi's Apartment floor",
-    "uuid": "3de8dfc1-d9a9-45ba-85fb-b0cd03de6233"
-   },
-   {
     "name": "Mew's Apartment Floor",
     "uuid": "2d26d6db-282b-4e5d-beeb-920e996e3323"
    },
    {
-    "name": "Ray's Apartment Floor",
-    "uuid": "588b7c74-447f-4a31-9301-0a8d0f246a51"
-   },
-   {
     "name": "Apartment Complex 2 Floor 1",
     "uuid": "b5de524d-d2fd-47b3-bd36-63f0b428e975"
-   },
-   {
-    "name": "Apartment Complex 2 Floor 2",
-    "uuid": "7b51f1ee-77c1-45dc-978a-bed243e99ba4"
    },
    {
     "name": "Apartment Complex 2 Floor 3",
@@ -398,6 +454,18 @@
    {
     "name": "Ugi's Apartment Floor",
     "uuid": "fd8037f1-df58-41ba-8a6f-99f2ac7f655f"
+   },
+   {
+    "name": "Apartment Complex 2 Floor 2",
+    "uuid": "7b51f1ee-77c1-45dc-978a-bed243e99ba4"
+   },
+   {
+    "name": "Yin's Apartment Floor",
+    "uuid": "6360b50f-a9d8-4c33-9115-8ff81929a437"
+   },
+   {
+    "name": "Ray's Apartment Floor",
+    "uuid": "588b7c74-447f-4a31-9301-0a8d0f246a51"
    }
   ],
   "ranks": {

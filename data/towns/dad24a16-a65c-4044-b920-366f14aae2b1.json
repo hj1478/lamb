@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Vendetta",
   "uuid": "dad24a16-a65c-4044-b920-366f14aae2b1",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ElJefe5775",
-   "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   "name": "DRpellgg",
+   "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
   },
   "nation": {
-   "name": "Tuscany",
-   "uuid": "b5830245-ba6e-48e3-9e5c-d196aa1efc5e"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1791069003971,
-   "joinedNationAt": 1791373458473,
+   "joinedNationAt": 1792334826264,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 4,
-   "numTrusted": 5,
+   "nationBonus": 100,
+   "numResidents": 7,
+   "numTrusted": 6,
    "numOutlaws": 1,
    "balance": 1.0,
    "forSalePrice": null
@@ -73,26 +73,30 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3714.405633808329,
+    "x": 3704.3028161583247,
     "y": 63.0,
-    "z": -4521.56612205016,
-    "pitch": -0.90001357,
-    "yaw": -178.63708
+    "z": -4531.834299468847,
+    "pitch": -30.41914,
+    "yaw": -178.14432
    },
    "homeBlock": [
-    232,
-    -283
+    231,
+    -284
    ],
    "townBlocks": [
     [
      231,
+     -285
+    ],
+    [
+     230,
      -285
     ],
     [
@@ -136,12 +140,24 @@
     "uuid": "3ae9ab2b-6e4b-4422-8db4-93ef94654410"
    },
    {
-    "name": "ElJefe5775",
-    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
-   },
-   {
     "name": "KingNikPro",
     "uuid": "f01d34f3-2b7e-4270-9a80-4b02f094e80e"
+   },
+   {
+    "name": "infinity_kiki",
+    "uuid": "08f4c0f4-dc4c-4caa-933c-381aae90c77d"
+   },
+   {
+    "name": "alamaster_mc",
+    "uuid": "5baec11c-9986-4c56-a577-6ca177ad0264"
+   },
+   {
+    "name": "SamRod31",
+    "uuid": "226c3bcf-335a-451e-bbd8-8dcc24646cd7"
+   },
+   {
+    "name": "DRpellgg",
+    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
    }
   ],
   "trusted": [
@@ -164,6 +180,10 @@
    {
     "name": "AJORDA",
     "uuid": "7caebd15-e4f1-4bb4-b81b-100a2fed7369"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
   "outlaws": [
@@ -178,16 +198,8 @@
     "uuid": "adefa9d5-706a-451b-8c99-9e7748db28c6"
    },
    {
-    "name": "Perturbing Dwelling",
-    "uuid": "ef872e5a-1979-470c-8449-1a4e72df2c0f"
-   },
-   {
-    "name": "Stylish Apartment",
-    "uuid": "33c16303-a081-466a-a241-fb58e61fbd06"
-   },
-   {
-    "name": "Elegant Apartment",
-    "uuid": "c2c0594c-f1a6-4547-ac87-c6506e466ade"
+    "name": "Luxurious Quarter",
+    "uuid": "7c87fa38-30af-4b6d-8a5b-b8113c88284a"
    }
   ],
   "ranks": {

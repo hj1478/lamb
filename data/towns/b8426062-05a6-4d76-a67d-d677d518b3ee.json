@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Iceland",
   "uuid": "b8426062-05a6-4d76-a67d-d677d518b3ee",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 264,
+   "maxTownBlocks": 288,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 17,
+   "numResidents": 19,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -548,20 +548,16 @@
     "uuid": "da3824c6-3193-4e04-90b7-8affea32a2a2"
    },
    {
+    "name": "Arvj",
+    "uuid": "ec109d17-2912-417e-bfd7-7e38447ce26c"
+   },
+   {
     "name": "lenamikr",
     "uuid": "ec0efca3-a5bb-4e26-a970-bf6ed1304c16"
    },
    {
-    "name": "Matsarella_King",
-    "uuid": "6ba5ba6d-1d6d-4373-88a4-7a58bad43725"
-   },
-   {
     "name": "LR72",
     "uuid": "8b1499a3-6167-4733-8866-ebb7617a8f61"
-   },
-   {
-    "name": "joris_locked",
-    "uuid": "1b2d03ba-e013-4ea0-94d9-6667a418418e"
    },
    {
     "name": "ollieolllie",
@@ -610,6 +606,18 @@
    {
     "name": "nzminer17",
     "uuid": "2af779ba-77ae-4097-b06a-70b72f71fb99"
+   },
+   {
+    "name": "Nice1Best1",
+    "uuid": "9f53a4bc-006d-4ff9-8906-b2765fde19c1"
+   },
+   {
+    "name": "HalfdanVaeb",
+    "uuid": "2ca138db-a864-406b-806d-b3dafdc1405a"
+   },
+   {
+    "name": "puufy",
+    "uuid": "f887198b-d1d1-4b24-bdae-b8a3f7ce5159"
    }
   ],
   "trusted": [],
@@ -715,6 +723,10 @@
   ],
   "ranks": {
    "Councillor": [
+    {
+     "name": "Arvj",
+     "uuid": "ec109d17-2912-417e-bfd7-7e38447ce26c"
+    },
     {
      "name": "lenamikr",
      "uuid": "ec0efca3-a5bb-4e26-a970-bf6ed1304c16"

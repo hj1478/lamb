@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Mercadona",
   "uuid": "c55b6020-8085-42e8-9752-9cccc6883729",
-  "board": "/town set board [msg]",
+  "board": "SPB",
   "founder": "Burliii05",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "b10c3838-a3ec-4f5c-86c3-3cb589bbb624"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Spain",
+   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
   },
   "timestamps": {
    "registered": 1791893124164,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792012857080,
    "ruinedAt": null
   },
   "status": {
@@ -28,47 +28,47 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 45.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -93,7 +93,19 @@
    "townBlocks": [
     [
      -103,
+     -449
+    ],
+    [
+     -103,
      -450
+    ],
+    [
+     -103,
+     -448
+    ],
+    [
+     -103,
+     -451
     ]
    ],
    "worlds": {}
@@ -102,6 +114,14 @@
    {
     "name": "Burliii05",
     "uuid": "b10c3838-a3ec-4f5c-86c3-3cb589bbb624"
+   },
+   {
+    "name": "IIIADAREXIII",
+    "uuid": "9cb3038e-d591-496c-ac1b-97aa5ed1a750"
+   },
+   {
+    "name": "LordChuleton05",
+    "uuid": "8df54e7b-fd4d-4513-a815-a690e52c6dcc"
    }
   ],
   "trusted": [],
@@ -109,7 +129,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "IIIADAREXIII",
+     "uuid": "9cb3038e-d591-496c-ac1b-97aa5ed1a750"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

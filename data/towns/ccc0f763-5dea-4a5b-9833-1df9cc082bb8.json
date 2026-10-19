@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Castle_Blanca",
   "uuid": "ccc0f763-5dea-4a5b-9833-1df9cc082bb8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "L0RD_KRAT05",
-   "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+   "name": "artisansGrimoire",
+   "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
   },
   "nation": {
    "name": "Florida",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 68,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 89,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 122.0,
+   "numResidents": 4,
+   "numTrusted": 6,
+   "numOutlaws": 1,
+   "balance": 90.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,28 +80,60 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29119.645254248244,
+    "x": -29087.380574561746,
     "y": 63.0,
-    "z": -2690.4434512832836,
-    "pitch": 10.649899,
-    "yaw": 86.72919
+    "z": -2730.806581600434,
+    "pitch": 10.499922,
+    "yaw": -116.57031
    },
    "homeBlock": [
-    -1820,
-    -169
+    -1818,
+    -171
    ],
    "townBlocks": [
     [
+     -1824,
+     -171
+    ],
+    [
+     -1824,
+     -170
+    ],
+    [
+     -1824,
+     -165
+    ],
+    [
+     -1824,
+     -164
+    ],
+    [
+     -1824,
+     -163
+    ],
+    [
+     -1824,
+     -162
+    ],
+    [
+     -1824,
+     -169
+    ],
+    [
+     -1824,
+     -168
+    ],
+    [
+     -1824,
+     -166
+    ],
+    [
      -1821,
      -171
     ],
     [
      -1821,
      -170
-    ],
-    [
-     -1819,
-     -160
     ],
     [
      -1819,
@@ -128,16 +160,12 @@
      -168
     ],
     [
-     -1819,
-     -167
-    ],
-    [
      -1821,
      -163
     ],
     [
      -1819,
-     -168
+     -167
     ],
     [
      -1821,
@@ -145,7 +173,7 @@
     ],
     [
      -1819,
-     -169
+     -168
     ],
     [
      -1821,
@@ -153,7 +181,7 @@
     ],
     [
      -1819,
-     -170
+     -169
     ],
     [
      -1821,
@@ -161,15 +189,15 @@
     ],
     [
      -1819,
+     -170
+    ],
+    [
+     -1819,
      -163
     ],
     [
      -1819,
      -164
-    ],
-    [
-     -1819,
-     -165
     ],
     [
      -1821,
@@ -177,10 +205,42 @@
     ],
     [
      -1819,
+     -165
+    ],
+    [
+     -1819,
      -166
     ],
     [
      -1819,
+     -171
+    ],
+    [
+     -1825,
+     -164
+    ],
+    [
+     -1825,
+     -165
+    ],
+    [
+     -1825,
+     -168
+    ],
+    [
+     -1824,
+     -161
+    ],
+    [
+     -1825,
+     -169
+    ],
+    [
+     -1825,
+     -170
+    ],
+    [
+     -1825,
      -171
     ],
     [
@@ -236,6 +296,18 @@
      -171
     ],
     [
+     -1825,
+     -161
+    ],
+    [
+     -1825,
+     -162
+    ],
+    [
+     -1825,
+     -163
+    ],
+    [
      -1820,
      -163
     ],
@@ -246,10 +318,6 @@
     [
      -1820,
      -161
-    ],
-    [
-     -1820,
-     -160
     ],
     [
      -1820,
@@ -272,8 +340,8 @@
      -165
     ],
     [
-     -1818,
-     -160
+     -1820,
+     -164
     ],
     [
      -1823,
@@ -364,16 +432,45 @@
      -163
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -23,
+       277
+      ],
+      [
+       -24,
+       276
+      ],
+      [
+       -24,
+       277
+      ],
+      [
+       -23,
+       276
+      ]
+     ]
+    }
+   }
   },
   "residents": [
+   {
+    "name": "_Snapshot",
+    "uuid": "b47ae35c-1107-4be9-a100-409368335802"
+   },
+   {
+    "name": "UbeMochi03",
+    "uuid": "0aaa49cd-c356-49d1-8b41-3a3b9bc764dd"
+   },
    {
     "name": "artisansGrimoire",
     "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
    },
    {
-    "name": "L0RD_KRAT05",
-    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+    "name": "RubyCrayon",
+    "uuid": "7724e85c-0ba7-4e90-97d4-5e23ab9d8efc"
    }
   ],
   "trusted": [
@@ -382,23 +479,35 @@
     "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
    },
    {
+    "name": "UbeMochi03",
+    "uuid": "0aaa49cd-c356-49d1-8b41-3a3b9bc764dd"
+   },
+   {
+    "name": "Crisp017",
+    "uuid": "72d96d44-9775-4341-ada9-2247c4ed6f5b"
+   },
+   {
     "name": "L0RD_KRAT05",
     "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
    },
    {
     "name": "NoiseEBay",
     "uuid": "f3445e19-1053-4e4f-a39c-4113e787f14c"
+   },
+   {
+    "name": "_Snapshot",
+    "uuid": "b47ae35c-1107-4be9-a100-409368335802"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "2tman4",
+    "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "artisansGrimoire",
-     "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

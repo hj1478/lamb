@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Kvenheim",
   "uuid": "bda5054d-3244-4701-8fa7-0fa4fbbdfd8e",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Otatsuki",
-   "uuid": "4011963e-539e-447a-bb88-b40fde872eab"
+   "name": "NPC32",
+   "uuid": "f6529602-50ce-2065-b824-be5e31a0d438"
   },
   "nation": {
-   "name": "Sweden",
-   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787922640112,
-   "joinedNationAt": 1788193179809,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792231204433
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,8 +136,8 @@
   },
   "residents": [
    {
-    "name": "Otatsuki",
-    "uuid": "4011963e-539e-447a-bb88-b40fde872eab"
+    "name": "NPC32",
+    "uuid": "f6529602-50ce-2065-b824-be5e31a0d438"
    }
   ],
   "trusted": [

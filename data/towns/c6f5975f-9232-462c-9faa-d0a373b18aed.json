@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Vale",
   "uuid": "c6f5975f-9232-462c-9faa-d0a373b18aed",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 129,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 5,
+   "nationBonus": 100,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 0.0,
@@ -635,6 +635,10 @@
    {
     "name": "RAF1106",
     "uuid": "4df2c75a-1140-4c39-a54e-2e7a6ff817e3"
+   },
+   {
+    "name": "NIZAR_NIZAR",
+    "uuid": "d6200d94-d861-4113-acca-fff07b2ee751"
    }
   ],
   "trusted": [],

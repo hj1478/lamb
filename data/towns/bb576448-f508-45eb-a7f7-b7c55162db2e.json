@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Haiyan",
   "uuid": "bb576448-f508-45eb-a7f7-b7c55162db2e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RikaOvO",
-   "uuid": "f70ae490-d588-4493-b49a-5c72f152e64e"
+   "name": "NPC24",
+   "uuid": "251b0c4d-fad4-205b-82e8-78f75d6d147d"
   },
   "nation": {
-   "name": "Tang",
-   "uuid": "dbd533cf-1035-42c0-91f4-e2cb71bbf575"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779608196778,
-   "joinedNationAt": 1783774858555,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317600838
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 32,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 5,
    "numOutlaws": 7,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -224,8 +224,8 @@
   },
   "residents": [
    {
-    "name": "RikaOvO",
-    "uuid": "f70ae490-d588-4493-b49a-5c72f152e64e"
+    "name": "NPC24",
+    "uuid": "251b0c4d-fad4-205b-82e8-78f75d6d147d"
    }
   ],
   "trusted": [

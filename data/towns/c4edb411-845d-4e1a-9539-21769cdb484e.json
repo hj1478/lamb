@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "Luminia",
   "uuid": "c4edb411-845d-4e1a-9539-21769cdb484e",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 28,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 54.0,
+   "numOutlaws": 1,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -121,6 +121,14 @@
     ],
     [
      680,
+     339
+    ],
+    [
+     679,
+     339
+    ],
+    [
+     680,
      338
     ],
     [
@@ -181,6 +189,10 @@
     ],
     [
      678,
+     339
+    ],
+    [
+     678,
      334
     ],
     [
@@ -202,10 +214,19 @@
    {
     "name": "urmahhm",
     "uuid": "25237805-28e7-4bff-b707-bf16cce44e7d"
+   },
+   {
+    "name": "rip5450",
+    "uuid": "438aeeac-78e4-48b6-9b2e-4269a3f621fe"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "36hoi",
+    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

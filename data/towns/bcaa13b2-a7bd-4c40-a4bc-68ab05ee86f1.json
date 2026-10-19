@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T15:40:19Z",
+ "fetched_at": "2026-10-19T13:32:29Z",
  "data": {
   "name": "USG",
   "uuid": "bcaa13b2-a7bd-4c40-a4bc-68ab05ee86f1",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 66,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 3,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 41.0,
    "forSalePrice": null
@@ -368,19 +368,11 @@
     "uuid": "62791f05-d133-4463-8d1e-fb56e67b0f16"
    },
    {
-    "name": "chinisdead",
-    "uuid": "19f27632-f012-4031-af53-ecc582bab1cc"
-   },
-   {
     "name": "Gunsh1_0730",
     "uuid": "bc35ad46-9e64-4789-9150-391a9c5b81ab"
    }
   ],
   "trusted": [
-   {
-    "name": "chinisdead",
-    "uuid": "19f27632-f012-4031-af53-ecc582bab1cc"
-   },
    {
     "name": "Gunsh1_0730",
     "uuid": "bc35ad46-9e64-4789-9150-391a9c5b81ab"
@@ -393,18 +385,8 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "chinisdead",
-     "uuid": "19f27632-f012-4031-af53-ecc582bab1cc"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "chinisdead",
-     "uuid": "19f27632-f012-4031-af53-ecc582bab1cc"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
