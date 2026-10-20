@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Worcestershire",
   "uuid": "f3e5a50a-1c23-436b-b8f8-d0e327c4aea3",
@@ -23,7 +23,7 @@
   "status": {
    "isPublic": true,
    "isOpen": true,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 9,
+   "numTrusted": 10,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -773,6 +773,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "t3ha",
+    "uuid": "37100a7a-3b21-4891-856a-0ec0f678b8ca"
+   },
    {
     "name": "efe23cemil",
     "uuid": "434638ed-89c8-402f-a97f-d20b38a52379"

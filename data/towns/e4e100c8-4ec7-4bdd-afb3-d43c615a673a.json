@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Zhanjiang",
   "uuid": "e4e100c8-4ec7-4bdd-afb3-d43c615a673a",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 59,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 1.0,
@@ -288,8 +288,16 @@
      17
     ],
     [
+     2472,
+     21
+    ],
+    [
      2468,
      16
+    ],
+    [
+     2472,
+     20
     ],
     [
      2472,
@@ -336,6 +344,10 @@
     "uuid": "00a1ef49-1c56-4fe5-ab19-c8f59a328cbb"
    },
    {
+    "name": "_Declining_",
+    "uuid": "12e21fe0-d56d-45db-8ca5-009f4b517c0f"
+   },
+   {
     "name": "CutestApple",
     "uuid": "07691b4f-d764-4712-873a-86a71ab8a08c"
    }
@@ -344,7 +356,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "_Declining_",
+     "uuid": "12e21fe0-d56d-45db-8ca5-009f4b517c0f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

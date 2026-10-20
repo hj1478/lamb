@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Golden",
   "uuid": "ff036bd5-202c-45ca-8fff-0d2d495640cf",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Wind2920",
-   "uuid": "6dfb6b87-4f01-411d-87dd-f8290d3c27b0"
+   "name": "NPC118",
+   "uuid": "81651b07-27a2-2013-ad19-031427ee59ab"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1776476460746,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792435911824
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -41,40 +41,40 @@
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -196,12 +196,17 @@
   },
   "residents": [
    {
-    "name": "Wind2920",
-    "uuid": "6dfb6b87-4f01-411d-87dd-f8290d3c27b0"
+    "name": "NPC118",
+    "uuid": "81651b07-27a2-2013-ad19-031427ee59ab"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "4daniel",
+    "uuid": "5078196f-ad1d-4d95-b536-8935d139eb40"
+   }
+  ],
   "quarters": [
    {
     "name": "Welcoming Residence",

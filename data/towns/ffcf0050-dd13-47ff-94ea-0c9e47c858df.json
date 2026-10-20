@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Jonkoping",
   "uuid": "ffcf0050-dd13-47ff-94ea-0c9e47c858df",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 102,
-   "maxTownBlocks": 140,
+   "numTownBlocks": 119,
+   "maxTownBlocks": 236,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 5,
-   "numTrusted": 1,
+   "numResidents": 13,
+   "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 16.0,
+   "balance": 57.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,8 +132,16 @@
      -961
     ],
     [
+     314,
+     -970
+    ],
+    [
      318,
      -962
+    ],
+    [
+     314,
+     -969
     ],
     [
      318,
@@ -142,6 +150,14 @@
     [
      318,
      -960
+    ],
+    [
+     314,
+     -971
+    ],
+    [
+     322,
+     -967
     ],
     [
      322,
@@ -173,6 +189,14 @@
     ],
     [
      315,
+     -972
+    ],
+    [
+     315,
+     -971
+    ],
+    [
+     315,
      -970
     ],
     [
@@ -184,12 +208,12 @@
      -968
     ],
     [
-     319,
-     -958
-    ],
-    [
      315,
      -967
+    ],
+    [
+     319,
+     -958
     ],
     [
      315,
@@ -198,10 +222,6 @@
     [
      315,
      -965
-    ],
-    [
-     319,
-     -961
     ],
     [
      315,
@@ -209,11 +229,15 @@
     ],
     [
      319,
-     -962
+     -961
     ],
     [
      315,
      -963
+    ],
+    [
+     319,
+     -962
     ],
     [
      315,
@@ -244,6 +268,10 @@
      -958
     ],
     [
+     315,
+     -959
+    ],
+    [
      319,
      -966
     ],
@@ -253,7 +281,7 @@
     ],
     [
      315,
-     -959
+     -958
     ],
     [
      319,
@@ -262,10 +290,6 @@
     [
      320,
      -960
-    ],
-    [
-     315,
-     -958
     ],
     [
      319,
@@ -292,6 +316,10 @@
      -963
     ],
     [
+     316,
+     -959
+    ],
+    [
      319,
      -967
     ],
@@ -301,7 +329,7 @@
     ],
     [
      316,
-     -959
+     -958
     ],
     [
      319,
@@ -312,10 +340,6 @@
      -965
     ],
     [
-     316,
-     -958
-    ],
-    [
      320,
      -966
     ],
@@ -324,20 +348,20 @@
      -961
     ],
     [
-     316,
-     -960
-    ],
-    [
      320,
      -967
     ],
     [
      316,
-     -963
+     -960
     ],
     [
      320,
      -968
+    ],
+    [
+     316,
+     -963
     ],
     [
      320,
@@ -388,6 +412,10 @@
      -970
     ],
     [
+     316,
+     -972
+    ],
+    [
      317,
      -967
     ],
@@ -436,8 +464,36 @@
      -960
     ],
     [
+     314,
+     -966
+    ],
+    [
+     314,
+     -965
+    ],
+    [
      319,
      -971
+    ],
+    [
+     314,
+     -968
+    ],
+    [
+     314,
+     -967
+    ],
+    [
+     314,
+     -962
+    ],
+    [
+     314,
+     -964
+    ],
+    [
+     314,
+     -963
     ],
     [
      317,
@@ -450,6 +506,14 @@
     [
      321,
      -967
+    ],
+    [
+     321,
+     -966
+    ],
+    [
+     321,
+     -965
     ],
     [
      321,
@@ -498,6 +562,10 @@
     [
      323,
      -971
+    ],
+    [
+     323,
+     -968
     ]
    ],
    "worlds": {}
@@ -522,12 +590,48 @@
    {
     "name": "ProfessorSkalle",
     "uuid": "1d058124-0c91-4361-967c-ecc3de79fbc2"
+   },
+   {
+    "name": "CoolDoktorBanan",
+    "uuid": "0dd2ee7c-e228-4c90-aff1-c3b8d197f93a"
+   },
+   {
+    "name": "Hogganmcboggan1",
+    "uuid": "5cb3dc9d-7835-49cd-9359-d582a4d3657f"
+   },
+   {
+    "name": "Diggerkat",
+    "uuid": "8e1826e8-7803-4d57-8995-4bbebeff9a8e"
+   },
+   {
+    "name": "MecHolmberg",
+    "uuid": "a168412e-1e86-4921-8e79-fcf4129170ad"
+   },
+   {
+    "name": "Fabeluren",
+    "uuid": "91574640-b59c-484b-a54b-751e8d3cc81b"
+   },
+   {
+    "name": "mmmss",
+    "uuid": "fd6d79a4-39cc-4775-bd2f-7e70e1c8e633"
+   },
+   {
+    "name": "JohnDunsScotus",
+    "uuid": "d96a085f-1ca0-468a-b2b7-096fe2f70a4d"
+   },
+   {
+    "name": "RAZE_FLUXXY",
+    "uuid": "4eaff850-d22b-4b12-a2d3-f443975f8737"
    }
   ],
   "trusted": [
    {
     "name": "Gronmossa",
     "uuid": "2a81f85e-d483-440d-ade3-38fe6daab4c7"
+   },
+   {
+    "name": "ChrisNoSignal",
+    "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
    }
   ],
   "outlaws": [
@@ -540,6 +644,34 @@
    {
     "name": "Perturbing Dwelling",
     "uuid": "8b1edb07-7cf6-4f77-81f3-ce7884cfeb21"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "6f015016-19b0-4543-9e68-132db0619ba1"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "7f2058bb-943e-4bab-8633-1ad703dbf9dc"
+   },
+   {
+    "name": "Hoggan's plot",
+    "uuid": "30389310-f81f-4bb7-84be-cbf0dc5dba82"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "f5e74fdf-54e4-4bc5-9355-f6846b052882"
+   },
+   {
+    "name": "Stylish Flat",
+    "uuid": "b133173f-69ba-4b99-a04a-5001bf9404b8"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "b01b4c57-4649-47ab-a6db-dce8821fd07a"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "2476a294-d7f9-4917-b4c9-275674777636"
    }
   ],
   "ranks": {

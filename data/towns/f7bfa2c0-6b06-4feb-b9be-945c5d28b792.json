@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Wellford",
   "uuid": "f7bfa2c0-6b06-4feb-b9be-945c5d28b792",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MalihB",
-   "uuid": "171a6f4e-5505-4176-8359-98370573e781"
+   "name": "NPC48",
+   "uuid": "4f36f13e-7052-2076-a495-ead60b51655e"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1786453771852,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792404002811
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "MalihB",
-    "uuid": "171a6f4e-5505-4176-8359-98370573e781"
+    "name": "NPC48",
+    "uuid": "4f36f13e-7052-2076-a495-ead60b51655e"
    }
   ],
   "trusted": [],

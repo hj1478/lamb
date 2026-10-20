@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Resort_Town",
   "uuid": "eaf20c90-6a5f-4506-9f02-6f09ebbb7228",
-  "board": "/town set board [msg]",
+  "board": "We know how to PARTY here",
   "founder": "TM2102YT",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 46,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 10,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 12.0,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,33 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31156.578601213343,
-    "y": 63.0,
-    "z": 3573.5497831079256,
-    "pitch": 28.049978,
-    "yaw": 48.6082
+    "x": -31159.499125974675,
+    "y": 64.0,
+    "z": 3561.6186207858827,
+    "pitch": 47.099983,
+    "yaw": 27.001709
    },
    "homeBlock": [
     -1948,
-    223
+    222
    ],
    "townBlocks": [
+    [
+     -1947,
+     224
+    ],
+    [
+     -1947,
+     223
+    ],
+    [
+     -1948,
+     224
+    ],
+    [
+     -1947,
+     222
+    ],
     [
      -1950,
      224
@@ -104,12 +120,12 @@
      222
     ],
     [
-     -1948,
-     223
-    ],
-    [
      -1949,
      224
+    ],
+    [
+     -1948,
+     223
     ],
     [
      -1949,
@@ -126,10 +142,27 @@
    {
     "name": "TM2102YT",
     "uuid": "48b3c35a-3bcc-47ba-9e76-dd3579f0823b"
+   },
+   {
+    "name": "ValenPlay_",
+    "uuid": "65613070-e3fb-46e3-b7e0-2ba242a9ffb5"
+   },
+   {
+    "name": "Benji_Maths",
+    "uuid": "44937e83-09ff-4f99-b397-4b458260ee64"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Slapdragon",
+    "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
+   },
+   {
+    "name": "combfy",
+    "uuid": "fc1f0d0b-c3fe-4cac-a1f4-ea3671ff8492"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

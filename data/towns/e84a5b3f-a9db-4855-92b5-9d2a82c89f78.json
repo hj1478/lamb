@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Lampung",
   "uuid": "e84a5b3f-a9db-4855-92b5-9d2a82c89f78",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Tssuyu",
-   "uuid": "da967c1d-ec48-4506-aa0a-649521624864"
+   "name": "NPC82",
+   "uuid": "c23cdf45-1ad2-20ac-9f39-900591395ab5"
   },
   "nation": {
-   "name": "Lanfang",
-   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777658934170,
-   "joinedNationAt": 1777795635565,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792231205118
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -172,8 +172,8 @@
   },
   "residents": [
    {
-    "name": "Tssuyu",
-    "uuid": "da967c1d-ec48-4506-aa0a-649521624864"
+    "name": "NPC82",
+    "uuid": "c23cdf45-1ad2-20ac-9f39-900591395ab5"
    }
   ],
   "trusted": [

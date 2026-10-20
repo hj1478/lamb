@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-20T11:48:31Z",
+ "data": {
+  "name": "EZ_BUBU",
+  "uuid": "3c78ece2-b42e-4e84-a139-449984669f64",
+  "board": "/town set board [msg]",
+  "founder": "NoahShan",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC120",
+   "uuid": "2219660c-6a95-2059-a761-445adee2f257"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792445502964,
+   "joinedNationAt": null,
+   "ruinedAt": 1792449671482
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 10.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 2907.406643079548,
+    "y": 144.0,
+    "z": -9893.826497567148,
+    "pitch": -10.319916,
+    "yaw": 17.819118
+   },
+   "homeBlock": [
+    181,
+    -619
+   ],
+   "townBlocks": [
+    [
+     181,
+     -619
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC120",
+    "uuid": "2219660c-6a95-2059-a761-445adee2f257"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

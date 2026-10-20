@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Curnal",
   "uuid": "f40e2157-c11a-424f-8d0a-1313e7c0ce06",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Socketq",
-   "uuid": "61840a1b-03a7-44f1-8eb9-ec941b0db93a"
+   "name": "NPC49",
+   "uuid": "cc2b91ea-79dc-20ec-82a1-39d84fb846c1"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1788630511073,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792404003026
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -160,20 +160,15 @@
   },
   "residents": [
    {
-    "name": "Socketq",
-    "uuid": "61840a1b-03a7-44f1-8eb9-ec941b0db93a"
+    "name": "NPC49",
+    "uuid": "cc2b91ea-79dc-20ec-82a1-39d84fb846c1"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Socketq",
-     "uuid": "61840a1b-03a7-44f1-8eb9-ec941b0db93a"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

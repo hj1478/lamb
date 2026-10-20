@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Cape_Evergreen",
   "uuid": "dc54ea68-e039-44d8-9c30-7bf7642cd84e",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 54831.8871560578,
-    "y": 63.0,
-    "z": -16069.880859996865,
-    "pitch": 6.899989,
-    "yaw": -150.07558
+    "x": 54823.07968617632,
+    "y": 64.0,
+    "z": -16068.75183541388,
+    "pitch": 14.021979,
+    "yaw": -169.94269
    },
    "homeBlock": [
     3426,
@@ -94,6 +94,10 @@
     [
      3427,
      -1005
+    ],
+    [
+     3427,
+     -1006
     ],
     [
      3426,

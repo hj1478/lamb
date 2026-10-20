@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Chatham_Island",
   "uuid": "eaf3a30f-530a-465c-af40-241ef0cc625e",
@@ -12,12 +12,12 @@
    "uuid": "ae86819b-ea3f-4590-b57a-ccce2e662a31"
   },
   "nation": {
-   "name": "New_Zealand",
-   "uuid": "e72d0b2f-251f-4632-95cc-a4f37f19c9da"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776559620546,
-   "joinedNationAt": 1777568380843,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 72,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 0,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,

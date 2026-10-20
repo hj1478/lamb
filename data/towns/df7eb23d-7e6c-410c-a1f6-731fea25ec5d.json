@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Jonestown",
   "uuid": "df7eb23d-7e6c-410c-a1f6-731fea25ec5d",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 8,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,23 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21456.512131221356,
+    "x": -21457.36222101497,
     "y": 63.0,
-    "z": 4992.296307531023,
-    "pitch": -4.1999817,
-    "yaw": 14.338989
+    "z": 4984.917871220579,
+    "pitch": -7.6501546,
+    "yaw": 29.638428
    },
    "homeBlock": [
     -1342,
-    312
+    311
    ],
    "townBlocks": [
     [
      -1342,
+     311
+    ],
+    [
+     -1342,
      312
     ],
     [
@@ -108,8 +112,16 @@
      313
     ],
     [
+     -1343,
+     311
+    ],
+    [
      -1341,
      312
+    ],
+    [
+     -1341,
+     313
     ]
    ],
    "worlds": {}

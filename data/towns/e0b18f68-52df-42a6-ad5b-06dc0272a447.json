@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "New_Caistor",
   "uuid": "e0b18f68-52df-42a6-ad5b-06dc0272a447",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 220,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 304,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 3,
-   "numOutlaws": 3,
-   "balance": 0.0,
+   "numResidents": 17,
+   "numTrusted": 2,
+   "numOutlaws": 6,
+   "balance": 83.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 711.3000000119209,
-    "y": 63.0,
-    "z": -12192.913987117332,
-    "pitch": 49.499973,
-    "yaw": 15.436443
+    "x": 716.2160069054903,
+    "y": 65.0,
+    "z": -12173.245112588944,
+    "pitch": 25.56319,
+    "yaw": -68.479675
    },
    "homeBlock": [
     44,
-    -763
+    -761
    ],
    "townBlocks": [
     [
@@ -97,6 +97,22 @@
     ],
     [
      42,
+     -764
+    ],
+    [
+     42,
+     -765
+    ],
+    [
+     42,
+     -766
+    ],
+    [
+     42,
+     -760
+    ],
+    [
+     42,
      -761
     ],
     [
@@ -104,8 +120,48 @@
      -762
     ],
     [
+     45,
+     -761
+    ],
+    [
+     45,
+     -762
+    ],
+    [
+     45,
+     -760
+    ],
+    [
+     44,
+     -763
+    ],
+    [
+     44,
+     -762
+    ],
+    [
+     46,
+     -761
+    ],
+    [
+     43,
+     -765
+    ],
+    [
+     43,
+     -764
+    ],
+    [
+     43,
+     -766
+    ],
+    [
      43,
      -761
+    ],
+    [
+     43,
+     -760
     ],
     [
      43,
@@ -120,16 +176,20 @@
      -761
     ],
     [
-     44,
-     -763
+     43,
+     -759
     ],
     [
      44,
-     -762
+     -760
     ],
     [
      40,
      -762
+    ],
+    [
+     41,
+     -765
     ],
     [
      40,
@@ -140,6 +200,14 @@
      -763
     ],
     [
+     40,
+     -760
+    ],
+    [
+     41,
+     -764
+    ],
+    [
      41,
      -761
     ],
@@ -150,6 +218,10 @@
     [
      40,
      -763
+    ],
+    [
+     41,
+     -760
     ]
    ],
    "worlds": {}
@@ -194,13 +266,37 @@
    {
     "name": "FrenchMan69",
     "uuid": "d03172a1-5dbd-4460-abc0-151567dc785b"
+   },
+   {
+    "name": "ConorMcgregor155",
+    "uuid": "841fa3f1-3126-4d3e-8f0e-0261cab560be"
+   },
+   {
+    "name": "Vlorp_monster",
+    "uuid": "f121c920-49b6-41af-bd03-c73934135187"
+   },
+   {
+    "name": "CallMeHunk",
+    "uuid": "b59393f4-2fdd-4cfd-8e78-562386c7f2c4"
+   },
+   {
+    "name": "v4lyk",
+    "uuid": "3da6318e-e8b0-4460-bb3f-b25eac6c5cd4"
+   },
+   {
+    "name": "xuxx",
+    "uuid": "71c2b19e-1680-46e4-8893-670dea6e9d3a"
+   },
+   {
+    "name": "Baconandcheeses",
+    "uuid": "1941fc13-96ef-4d8e-adcf-f0f045360630"
+   },
+   {
+    "name": "KizumiH",
+    "uuid": "489cf6b6-932d-48f7-b656-82aecf461d13"
    }
   ],
   "trusted": [
-   {
-    "name": "Ncgx",
-    "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
-   },
    {
     "name": "TempoCM",
     "uuid": "9fa9b683-4107-4484-89fb-3cde8133ed15"
@@ -212,7 +308,7 @@
   ],
   "outlaws": [
    {
-    "name": "haitham16",
+    "name": "VeryOhioGuy",
     "uuid": "96a5d477-ac77-4f7e-9d0d-687b7b065f09"
    },
    {
@@ -222,6 +318,18 @@
    {
     "name": "RobertThanos",
     "uuid": "1ea30704-4fcb-436e-85be-3296dd7d82ad"
+   },
+   {
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "poszan",
+    "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
    }
   ],
   "quarters": [
@@ -252,6 +360,30 @@
    {
     "name": "Luxurious Property",
     "uuid": "10342d96-dd09-415d-8fcb-58c1b481fa26"
+   },
+   {
+    "name": "Perturbing Property",
+    "uuid": "bb2f3b60-b6e5-4c98-acb9-9c735d5a2d46"
+   },
+   {
+    "name": "Elegant Tenement",
+    "uuid": "e8b2b22f-1d7c-4cf0-972e-9a0dc082034e"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "3283b5c7-6c18-4148-bcce-88424bf50311"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "617c1fae-323f-4902-a5bf-3e7cda41ae70"
+   },
+   {
+    "name": "Welcoming Tenement",
+    "uuid": "b8e9e832-009c-4fbc-8824-497352518fd4"
+   },
+   {
+    "name": "Dull Property",
+    "uuid": "b38470a6-5c78-4232-b185-b0ffc3117c79"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Dobric",
   "uuid": "dbded41d-0148-4d14-b88b-10382deeacd1",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ali4leKab4m",
-   "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
+   "name": "Niko_112340",
+   "uuid": "cf179bb9-5f66-4a27-8b4c-470ec1c71f09"
   },
   "nation": {
    "name": "Bulgaria",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
+   "numTownBlocks": 27,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 7,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -196,6 +196,10 @@
     "earthmc:moon": {
      "townblocks": [
       [
+       7,
+       7
+      ],
+      [
        6,
        7
       ]
@@ -204,10 +208,6 @@
    }
   },
   "residents": [
-   {
-    "name": "Ali4leKab4m",
-    "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
-   },
    {
     "name": "_DeathMC_",
     "uuid": "7b67b4ec-be69-4164-93b5-13b2a9b34cc8"
@@ -231,9 +231,17 @@
    {
     "name": "Ivankonator",
     "uuid": "3f891723-6945-42fe-92c4-586db0bb19ea"
+   },
+   {
+    "name": "Ali4leKab4m",
+    "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
    }
   ],
   "trusted": [
+   {
+    "name": "Ali4leKab4m",
+    "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
+   },
    {
     "name": "toutef",
     "uuid": "be166334-bce1-4770-91f0-57f79264422e"
@@ -255,21 +263,30 @@
     "uuid": "f56c8564-915e-41c9-b040-8ca7e2acf4e5"
    },
    {
-    "name": "Cheerful Property",
-    "uuid": "91878c5e-2693-40d1-9dc8-127d481ccea2"
-   },
-   {
-    "name": "Lovely Property",
-    "uuid": "6ff288f1-3625-49cc-ae30-b96d70ef37ad"
-   },
-   {
     "name": "Upbeat Property",
     "uuid": "76d01fc1-d788-4706-8aae-6a8ec06b69da"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "4c7f1086-13fe-47de-a222-7cff0e081433"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "7261dcc6-8f88-4746-8e52-8ffb436a0ae2"
+   },
+   {
+    "name": "Bland Apartment",
+    "uuid": "20ac2d24-ffc8-45fe-8d7c-3f6e1d2b9c99"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Niko_112340",
+     "uuid": "cf179bb9-5f66-4a27-8b4c-470ec1c71f09"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

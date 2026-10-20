@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Baoji",
   "uuid": "ee991bf0-1a7d-448b-a38b-42b0d7b0854e",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 299,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 328,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
+   "numResidents": 19,
    "numTrusted": 11,
-   "numOutlaws": 18,
-   "balance": 25.0,
+   "numOutlaws": 19,
+   "balance": 37.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -124,12 +124,12 @@
      -297
     ],
     [
-     2401,
-     -310
-    ],
-    [
      2397,
      -315
+    ],
+    [
+     2401,
+     -310
     ],
     [
      2386,
@@ -664,6 +664,10 @@
      -314
     ],
     [
+     2390,
+     -315
+    ],
+    [
      2398,
      -314
     ],
@@ -673,19 +677,15 @@
     ],
     [
      2390,
-     -315
-    ],
-    [
-     2390,
      -314
-    ],
-    [
-     2400,
-     -312
     ],
     [
      2398,
      -315
+    ],
+    [
+     2400,
+     -312
     ],
     [
      2400,
@@ -1000,12 +1000,12 @@
      -315
     ],
     [
-     2394,
-     -314
-    ],
-    [
      2387,
      -307
+    ],
+    [
+     2394,
+     -314
     ],
     [
      2387,
@@ -1354,6 +1354,18 @@
    {
     "name": "oneCorn3562",
     "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
+   },
+   {
+    "name": "whiterstorm30",
+    "uuid": "ad998b20-70cb-4633-94ff-7367585615e6"
+   },
+   {
+    "name": "calie9336",
+    "uuid": "902f44bf-3852-47d9-9624-a4b9adbe40f8"
+   },
+   {
+    "name": "Albertchen857",
+    "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
    }
   ],
   "trusted": [
@@ -1474,48 +1486,16 @@
    {
     "name": "liluoluoluoluo",
     "uuid": "06075900-c95b-400e-8874-cb997ee513b4"
+   },
+   {
+    "name": "QuakeI",
+    "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
    }
   ],
   "quarters": [
    {
     "name": "Stylish Residence",
     "uuid": "b515cc81-19e2-48e2-804f-3c3b427b0813"
-   },
-   {
-    "name": "201",
-    "uuid": "18625df4-1198-4369-a4f8-2b87fd6b0376"
-   },
-   {
-    "name": "202",
-    "uuid": "ae3ab2e9-8941-4454-bd8e-c8eecc77e809"
-   },
-   {
-    "name": "203",
-    "uuid": "651c4d27-2ca9-4320-a32e-04d76c1577bc"
-   },
-   {
-    "name": "204",
-    "uuid": "e741ca64-7d65-41ae-9905-0b164b102b5f"
-   },
-   {
-    "name": "205",
-    "uuid": "9f7f5638-c130-438b-bcc9-f35f04587604"
-   },
-   {
-    "name": "206",
-    "uuid": "827f8ea2-1edd-4a40-b922-b19f68a28f6c"
-   },
-   {
-    "name": "集装箱105",
-    "uuid": "54b0b99a-2ce6-468f-9dd0-b3fa48f19b26"
-   },
-   {
-    "name": "集装箱104",
-    "uuid": "a2be831c-6f07-4258-bcab-f3bb514f58ed"
-   },
-   {
-    "name": "集装箱102",
-    "uuid": "a75b1271-cc74-4a7d-915f-eeed35289cec"
    },
    {
     "name": "集装箱106",
@@ -1540,10 +1520,6 @@
    {
     "name": "IFS F3",
     "uuid": "cfb65c42-4012-486b-afea-3ec30144fa79"
-   },
-   {
-    "name": "IFS F29",
-    "uuid": "c48e9609-b8b4-47c0-b82d-248eeea27201"
    },
    {
     "name": "IFS F4",
@@ -1596,10 +1572,6 @@
    {
     "name": "IFS F25",
     "uuid": "0a53d343-7570-4985-b288-5d061f8cc365"
-   },
-   {
-    "name": "宝鸡市仙人掌大厦熔炼域",
-    "uuid": "c8c1ef7b-a459-462f-bcc9-9c9acdb35c4d"
    },
    {
     "name": "宝鸡商店北门(宝鸡IFS B2) 仅住客",
@@ -1702,20 +1674,8 @@
     "uuid": "0219948f-0c90-4956-8e31-04f32eb9714b"
    },
    {
-    "name": "地下商店西电子门",
-    "uuid": "abbd5432-7d91-46bc-b0fc-965f5d9848f7"
-   },
-   {
     "name": "群玉阁",
     "uuid": "3f78c722-5447-46f8-abc4-925ec5911ed3"
-   },
-   {
-    "name": "地下商店东电子门",
-    "uuid": "aadd465a-e77c-46e0-abe1-eafe2a5878a2"
-   },
-   {
-    "name": "西地下工业区B1内区",
-    "uuid": "784db253-47d1-4d6e-b378-db345f09a30e"
    },
    {
     "name": "售货抽奖机",
@@ -1736,6 +1696,82 @@
    {
     "name": "地图画平台",
     "uuid": "a3d8391f-9a5f-4941-92de-c2fe9ec0a286"
+   },
+   {
+    "name": "地下商店东电子门",
+    "uuid": "aadd465a-e77c-46e0-abe1-eafe2a5878a2"
+   },
+   {
+    "name": "地下商店西电子门",
+    "uuid": "abbd5432-7d91-46bc-b0fc-965f5d9848f7"
+   },
+   {
+    "name": "宝鸡市仙人掌大厦熔炼域",
+    "uuid": "c8c1ef7b-a459-462f-bcc9-9c9acdb35c4d"
+   },
+   {
+    "name": "I meet a girl whose name is 29",
+    "uuid": "c48e9609-b8b4-47c0-b82d-248eeea27201"
+   },
+   {
+    "name": "宝鸡大宗仓库",
+    "uuid": "d866d83b-277c-4a45-9b27-d5da1fd413c4"
+   },
+   {
+    "name": "集装箱102",
+    "uuid": "a75b1271-cc74-4a7d-915f-eeed35289cec"
+   },
+   {
+    "name": "集装箱104",
+    "uuid": "a2be831c-6f07-4258-bcab-f3bb514f58ed"
+   },
+   {
+    "name": "集装箱105",
+    "uuid": "54b0b99a-2ce6-468f-9dd0-b3fa48f19b26"
+   },
+   {
+    "name": "206",
+    "uuid": "827f8ea2-1edd-4a40-b922-b19f68a28f6c"
+   },
+   {
+    "name": "205",
+    "uuid": "9f7f5638-c130-438b-bcc9-f35f04587604"
+   },
+   {
+    "name": "204",
+    "uuid": "e741ca64-7d65-41ae-9905-0b164b102b5f"
+   },
+   {
+    "name": "203",
+    "uuid": "651c4d27-2ca9-4320-a32e-04d76c1577bc"
+   },
+   {
+    "name": "202",
+    "uuid": "ae3ab2e9-8941-4454-bd8e-c8eecc77e809"
+   },
+   {
+    "name": "201",
+    "uuid": "18625df4-1198-4369-a4f8-2b87fd6b0376"
+   },
+   {
+    "name": "200核熔炉组",
+    "uuid": "58e57ec7-6b93-4eee-939d-3f9c55369dd4"
+   },
+   {
+    "name": "宝鸡F2地下工业区",
+    "uuid": "e54e58c2-6147-47cf-a607-6aadaee51eb9"
+   },
+   {
+    "name": "CBD",
+    "uuid": "4c755b82-5da9-43b4-b5c5-164b2b8d47d0"
+   },
+   {
+    "name": "温馨小家",
+    "uuid": "5c8226c1-481d-4fe2-ae49-c21fdf5d005e"
+   },
+   {
+    "name": "宝鸡小宗仓库",
+    "uuid": "46ff7ce0-7052-4978-a85e-6cb5d9fe64ea"
    }
   ],
   "ranks": {
@@ -1751,6 +1787,10 @@
     {
      "name": "oneCorn3562",
      "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
+    },
+    {
+     "name": "Albertchen857",
+     "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
     }
    ],
    "Builder": [
@@ -1781,6 +1821,10 @@
     {
      "name": "oneCorn3562",
      "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
+    },
+    {
+     "name": "Albertchen857",
+     "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
     }
    ],
    "Recruiter": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Thneedville",
   "uuid": "ed6b0e66-0be7-4d22-9aae-823aaf545e72",
@@ -12,7 +12,7 @@
    "uuid": "0b3a1796-0295-483e-b7ee-9670b85c22cf"
   },
   "nation": {
-   "name": "Hudsons_Bay",
+   "name": "Nunavut",
    "uuid": "055d2fe5-692c-4169-bef4-97ef204be68b"
   },
   "timestamps": {
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -97,6 +97,10 @@
     ],
     [
      -1498,
+     -1115
+    ],
+    [
+     -1498,
      -1116
     ],
     [
@@ -155,7 +159,12 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Bland Dwelling",
+    "uuid": "d7bc8233-84ae-4eb1-975d-ef738990d830"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

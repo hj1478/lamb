@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Azerbaijan",
   "uuid": "f70fdd70-fa65-4013-8dfd-16755580350b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/uF3D8SanQj",
   "mayor": {
-   "name": "Karujise",
-   "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
+   "name": "Spidy23",
+   "uuid": "e5a2bdc7-3cd7-446b-8a82-150f5f50e55b"
   },
   "nation": {
    "name": "Turkiye",
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 206,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
-   "numTrusted": 4,
+   "numResidents": 11,
+   "numTrusted": 2,
    "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
@@ -928,32 +928,12 @@
     "uuid": "f4bff8c8-c040-4dbd-9f0b-f9f90cb33084"
    },
    {
-    "name": "Yocchanswife",
-    "uuid": "91601701-20b8-4e98-8313-cfe3ef723b77"
-   },
-   {
-    "name": "Aras_2209",
-    "uuid": "17f6381e-ab1b-41ed-bba9-04e36899f665"
-   },
-   {
     "name": "msb908",
     "uuid": "7615b697-786a-4f2b-b278-25ebc0ee12c4"
    },
    {
-    "name": "M3ntal00",
-    "uuid": "ea3fa45c-e4b2-4c7a-9cae-a1d6cd25eecc"
-   },
-   {
-    "name": "Sporcu",
-    "uuid": "d47809be-2ef0-4899-9aa9-5fe21ede3893"
-   },
-   {
     "name": "tomarbebe12",
     "uuid": "4bdaf5e1-ce0a-4ac8-8d75-e1238c95ae6b"
-   },
-   {
-    "name": "Opload",
-    "uuid": "83591f50-a72f-4c8f-920f-6d84f2025f67"
    },
    {
     "name": "Jr_ashles",
@@ -976,26 +956,18 @@
     "uuid": "54dbd4e2-3d4d-4f52-8c62-7fc209410767"
    },
    {
-    "name": "Karujise",
-    "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
-   },
-   {
     "name": "SEDO447",
     "uuid": "0e7bda59-fe7c-4a06-9b31-5977156d26a5"
+   },
+   {
+    "name": "Spidy23",
+    "uuid": "e5a2bdc7-3cd7-446b-8a82-150f5f50e55b"
    }
   ],
   "trusted": [
    {
     "name": "Karujise",
     "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
-   },
-   {
-    "name": "Ulvash",
-    "uuid": "b718a406-78a5-4252-866d-4d57a1fc5dea"
-   },
-   {
-    "name": "Xslawera",
-    "uuid": "c7e9445f-e4d5-42f1-83cb-1f2a1feb312d"
    },
    {
     "name": "Clurrg",
@@ -1027,12 +999,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Opload",
-     "uuid": "83591f50-a72f-4c8f-920f-6d84f2025f67"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Anaffa",
   "uuid": "f32d77e0-ee30-4f79-83a7-069191d38016",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/5TnGCdZE",
   "mayor": {
-   "name": "Lucas2011",
-   "uuid": "4452780b-034d-4d46-b427-717ce3f5acda"
+   "name": "Reanger",
+   "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
   },
   "nation": {
    "name": "Morocco",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 212,
-   "maxTownBlocks": 120,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 10,
-   "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 2644.0,
+   "numResidents": 11,
+   "numTrusted": 3,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": false,
     "mobs": false
    }
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2747.382553734131,
+    "x": -2752.589233951137,
     "y": 97.0,
-    "z": -4392.9860514296915,
-    "pitch": -4.219097,
-    "yaw": 35.410522
+    "z": -4387.088829384015,
+    "pitch": 15.338022,
+    "yaw": -1.7010803
    },
    "homeBlock": [
-    -172,
+    -173,
     -275
    ],
    "townBlocks": [
@@ -944,8 +944,8 @@
   },
   "residents": [
    {
-    "name": "t3_3",
-    "uuid": "5d5db4bb-7e7f-4fa8-91f4-8a3a0de2e60d"
+    "name": "owaan_",
+    "uuid": "aa862fbd-d5e6-4f99-9862-82c789f20455"
    },
    {
     "name": "_xPullx_",
@@ -960,10 +960,6 @@
     "uuid": "473738dd-884c-42c5-837b-f9b880336c17"
    },
    {
-    "name": "Igor_Ldt",
-    "uuid": "16c3155d-d26e-42ea-80e5-4c8ebc1fac90"
-   },
-   {
     "name": "OakHalo97413975",
     "uuid": "0cd2f659-2b92-41c5-9b8a-c0114393e3f6"
    },
@@ -976,19 +972,44 @@
     "uuid": "a7d5933e-7f0f-4a2b-907c-abbfb33d97bc"
    },
    {
-    "name": "Lucas2011",
-    "uuid": "4452780b-034d-4d46-b427-717ce3f5acda"
-   },
-   {
     "name": "Sarkezzzzz",
     "uuid": "488cdfcb-9e20-4174-8cf8-abfa91f42844"
+   },
+   {
+    "name": "Lauti_Builds1226",
+    "uuid": "40e6fe18-851a-4951-9c55-44aa9ff42ca4"
+   },
+   {
+    "name": "Reanger",
+    "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
+   },
+   {
+    "name": "Davidmc1040",
+    "uuid": "104b75e3-c671-45e3-b8a0-586c95993690"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Reanger",
+    "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
+   },
+   {
+    "name": "TheatreArt",
+    "uuid": "1e45656c-8dec-4681-bf90-ef2d224c68f1"
+   },
+   {
+    "name": "Aracnedix",
+    "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
+   }
+  ],
   "outlaws": [
    {
     "name": "Taklaci_Kerim",
     "uuid": "243a3b92-bd89-412c-9ad5-64ac43cb1401"
+   },
+   {
+    "name": "0Miura",
+    "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
    }
   ],
   "quarters": [

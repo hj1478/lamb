@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Rishon_LeZion",
   "uuid": "ee340a6c-9070-497e-9c3e-ead693ddb0ec",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 46,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 3,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 64.0,
@@ -242,14 +242,6 @@
    {
     "name": "eyal810",
     "uuid": "609a7318-059c-46bc-81e4-c9ee486ff34f"
-   },
-   {
-    "name": "KingDooni",
-    "uuid": "49831499-7e57-49c8-b208-f322d9da70be"
-   },
-   {
-    "name": "kay003",
-    "uuid": "fad014bf-9ee4-4a87-8d5b-c50ea81cb489"
    }
   ],
   "trusted": [],
@@ -257,12 +249,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "KingDooni",
-     "uuid": "49831499-7e57-49c8-b208-f322d9da70be"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [
     {

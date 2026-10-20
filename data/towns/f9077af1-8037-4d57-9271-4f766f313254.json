@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Rhodes_Island",
   "uuid": "f9077af1-8037-4d57-9271-4f766f313254",
@@ -12,12 +12,12 @@
    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
   },
   "nation": {
-   "name": "Tang",
-   "uuid": "dbd533cf-1035-42c0-91f4-e2cb71bbf575"
+   "name": "Dian",
+   "uuid": "ccdb60e3-b086-41fc-ba40-3d20f47901a7"
   },
   "timestamps": {
    "registered": 1791082177866,
-   "joinedNationAt": 1791083639815,
+   "joinedNationAt": 1792286388209,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 200,
+   "numTownBlocks": 41,
+   "maxTownBlocks": 142,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 10,
-   "numTrusted": 25,
-   "numOutlaws": 5,
-   "balance": 21.0,
+   "nationBonus": 10,
+   "numResidents": 11,
+   "numTrusted": 21,
+   "numOutlaws": 6,
+   "balance": 29.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 38630.89177446881,
-    "y": 74.5,
-    "z": -4721.4511936806375,
-    "pitch": 39.449955,
-    "yaw": 176.90047
+    "x": 38637.48498679643,
+    "y": 51.0,
+    "z": -4720.243655928628,
+    "pitch": 6.1500306,
+    "yaw": 175.23816
    },
    "homeBlock": [
     2414,
@@ -114,6 +114,10 @@
     [
      2414,
      -296
+    ],
+    [
+     2414,
+     -293
     ],
     [
      2414,
@@ -169,6 +173,10 @@
     ],
     [
      2412,
+     -299
+    ],
+    [
+     2412,
      -298
     ],
     [
@@ -200,8 +208,20 @@
      -297
     ],
     [
+     2416,
+     -293
+    ],
+    [
      2411,
      -297
+    ],
+    [
+     2416,
+     -298
+    ],
+    [
+     2416,
+     -299
     ],
     [
      2415,
@@ -214,6 +234,14 @@
     [
      2415,
      -298
+    ],
+    [
+     2415,
+     -299
+    ],
+    [
+     2415,
+     -293
     ],
     [
      2415,
@@ -270,17 +298,13 @@
    {
     "name": "Stardust_Your",
     "uuid": "8035a698-9352-4adb-9fee-037d55e5b092"
+   },
+   {
+    "name": "CloverNox",
+    "uuid": "d925fc1a-d5c1-4f3f-b0a0-485fa2f7b1cb"
    }
   ],
   "trusted": [
-   {
-    "name": "Kiss_shot__",
-    "uuid": "5e41ea40-9cbe-4a5f-97ef-69d46c953a0e"
-   },
-   {
-    "name": "Shrimp_PiPi",
-    "uuid": "b72de7c2-4ae5-4f19-8ec2-c56cf510a92f"
-   },
    {
     "name": "ZDself",
     "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
@@ -288,10 +312,6 @@
    {
     "name": "StarryRyo_CN",
     "uuid": "56751b51-4095-4833-9038-520ccc3a3bc5"
-   },
-   {
-    "name": "Yunxiao_",
-    "uuid": "b4b0e79a-c29a-4ea8-bf26-8b97802a464a"
    },
    {
     "name": "dongzirui542",
@@ -320,6 +340,10 @@
    {
     "name": "Migang360",
     "uuid": "241b93ee-c7dd-4bbe-81c8-2313306c64fc"
+   },
+   {
+    "name": "Siudea",
+    "uuid": "b9c50ebd-ea61-441a-a671-c20065f2bb60"
    },
    {
     "name": "oneCorn3562",
@@ -362,14 +386,6 @@
     "uuid": "81692367-c202-4ed0-b2b1-6b586505ee0b"
    },
    {
-    "name": "Cheun_lau",
-    "uuid": "ea6d8978-cbf4-4d4f-9db8-e1adb9badbba"
-   },
-   {
-    "name": "Taoist1720",
-    "uuid": "cd4667ae-2de3-4f0a-900a-80e63f3e956f"
-   },
-   {
     "name": "_TV_Man_",
     "uuid": "6c86a42b-47e8-44c5-a944-a05ea7eb218c"
    }
@@ -394,6 +410,10 @@
    {
     "name": "andriagela",
     "uuid": "23b3da67-75a9-48dd-a55d-dbdd09b3d205"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    }
   ],
   "quarters": [

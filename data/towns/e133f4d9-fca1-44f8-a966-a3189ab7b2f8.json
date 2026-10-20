@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Samuraitown",
   "uuid": "e133f4d9-fca1-44f8-a966-a3189ab7b2f8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "catperson2689",
-   "uuid": "9278df5c-0aba-420e-b713-af61b83919de"
+   "name": "NPC35",
+   "uuid": "857e3c75-ffa9-20a0-97e9-3eb549b64b74"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1783349258221,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792231204792
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,16 +47,16 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
@@ -65,16 +65,16 @@
     true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "catperson2689",
-    "uuid": "9278df5c-0aba-420e-b713-af61b83919de"
+    "name": "NPC35",
+    "uuid": "857e3c75-ffa9-20a0-97e9-3eb549b64b74"
    }
   ],
   "trusted": [

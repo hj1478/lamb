@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "FIJI_KINGDOM",
   "uuid": "f3c2d964-2cc4-418b-85ac-152dca283a6e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 7,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 17.0,
+   "balance": 91.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32747.61316705277,
-    "y": 63.5625,
-    "z": -17448.806230141243,
-    "pitch": 52.200027,
-    "yaw": -179.28957
+    "x": 32755.7027409001,
+    "y": 63.9375,
+    "z": -17443.478252212786,
+    "pitch": -4.354754,
+    "yaw": -89.4292
    },
    "homeBlock": [
-    2046,
+    2047,
     -1091
    ],
    "townBlocks": [
@@ -96,12 +96,160 @@
      -1090
     ],
     [
+     2048,
+     -1090
+    ],
+    [
      2046,
      -1091
     ],
     [
+     2048,
+     -1089
+    ],
+    [
+     2046,
+     -1092
+    ],
+    [
+     2048,
+     -1092
+    ],
+    [
+     2048,
+     -1091
+    ],
+    [
+     2046,
+     -1093
+    ],
+    [
+     2046,
+     -1089
+    ],
+    [
+     2047,
+     -1094
+    ],
+    [
+     2047,
+     -1093
+    ],
+    [
+     2047,
+     -1095
+    ],
+    [
+     2047,
+     -1090
+    ],
+    [
+     2046,
+     -1094
+    ],
+    [
+     2047,
+     -1089
+    ],
+    [
+     2046,
+     -1095
+    ],
+    [
+     2047,
+     -1092
+    ],
+    [
      2047,
      -1091
+    ],
+    [
+     2049,
+     -1092
+    ],
+    [
+     2049,
+     -1090
+    ],
+    [
+     2049,
+     -1091
+    ],
+    [
+     2043,
+     -1091
+    ],
+    [
+     2050,
+     -1092
+    ],
+    [
+     2043,
+     -1092
+    ],
+    [
+     2043,
+     -1093
+    ],
+    [
+     2043,
+     -1094
+    ],
+    [
+     2050,
+     -1091
+    ],
+    [
+     2050,
+     -1090
+    ],
+    [
+     2045,
+     -1091
+    ],
+    [
+     2045,
+     -1090
+    ],
+    [
+     2045,
+     -1089
+    ],
+    [
+     2049,
+     -1089
+    ],
+    [
+     2044,
+     -1093
+    ],
+    [
+     2044,
+     -1094
+    ],
+    [
+     2044,
+     -1091
+    ],
+    [
+     2044,
+     -1092
+    ],
+    [
+     2045,
+     -1095
+    ],
+    [
+     2045,
+     -1094
+    ],
+    [
+     2045,
+     -1093
+    ],
+    [
+     2045,
+     -1092
     ]
    ],
    "worlds": {}
@@ -114,6 +262,26 @@
    {
     "name": "lmaokyndra",
     "uuid": "2e05bf8a-d841-4e5f-b7ab-a7f131405ef7"
+   },
+   {
+    "name": "IAmSpade",
+    "uuid": "accf42e5-9de1-4b38-b87e-6783ce428691"
+   },
+   {
+    "name": "Sunl3ght",
+    "uuid": "43895e44-2593-438e-88d5-7c3473005e04"
+   },
+   {
+    "name": "___Arson___",
+    "uuid": "d53db671-399e-4548-9f68-1cb6bd585faa"
+   },
+   {
+    "name": "FunPiggy",
+    "uuid": "5ccd4643-bd88-4d98-8f17-35bff2f64aac"
+   },
+   {
+    "name": "jstcody",
+    "uuid": "f57e7d7b-fbaa-48f4-b693-5b228f12e1e2"
    }
   ],
   "trusted": [
@@ -122,8 +290,24 @@
     "uuid": "cbc96d75-2d75-432b-b36d-422b220af85e"
    },
    {
+    "name": "Sunl3ght",
+    "uuid": "43895e44-2593-438e-88d5-7c3473005e04"
+   },
+   {
+    "name": "___Arson___",
+    "uuid": "d53db671-399e-4548-9f68-1cb6bd585faa"
+   },
+   {
+    "name": "jstcody",
+    "uuid": "f57e7d7b-fbaa-48f4-b693-5b228f12e1e2"
+   },
+   {
     "name": "lmaokyndra",
     "uuid": "2e05bf8a-d841-4e5f-b7ab-a7f131405ef7"
+   },
+   {
+    "name": "FunPiggy",
+    "uuid": "5ccd4643-bd88-4d98-8f17-35bff2f64aac"
    }
   ],
   "outlaws": [],
@@ -133,15 +317,38 @@
     {
      "name": "lmaokyndra",
      "uuid": "2e05bf8a-d841-4e5f-b7ab-a7f131405ef7"
+    },
+    {
+     "name": "IAmSpade",
+     "uuid": "accf42e5-9de1-4b38-b87e-6783ce428691"
     }
    ],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "Sunl3ght",
+     "uuid": "43895e44-2593-438e-88d5-7c3473005e04"
+    }
+   ],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "___Arson___",
+     "uuid": "d53db671-399e-4548-9f68-1cb6bd585faa"
+    },
+    {
+     "name": "jstcody",
+     "uuid": "f57e7d7b-fbaa-48f4-b693-5b228f12e1e2"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "FunPiggy",
+     "uuid": "5ccd4643-bd88-4d98-8f17-35bff2f64aac"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

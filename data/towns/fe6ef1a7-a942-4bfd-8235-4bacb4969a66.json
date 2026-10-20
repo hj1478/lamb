@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Turkmenabad",
   "uuid": "fe6ef1a7-a942-4bfd-8235-4bacb4969a66",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792262900886,
-   "joinedNationAt": 1792262916990,
+   "joinedNationAt": 1792479293301,
    "ruinedAt": null
   },
   "status": {
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 6,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     1305,
+     -450
+    ],
+    [
+     1305,
+     -449
+    ],
+    [
      1306,
      -449
     ],
@@ -118,7 +126,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Turkmenabad Station",
+    "uuid": "f4345a76-508c-42bc-a38e-ab72e911fb07"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

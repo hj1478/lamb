@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Bobby",
   "uuid": "df94a4c1-13b3-48d1-9fc1-cd7c9206b083",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 66,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 1,
+   "nationBonus": 30,
+   "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -20258.50967679236,
-    "y": 63.0,
-    "z": 20239.500117375996,
-    "pitch": 90.0,
-    "yaw": -1.7380041
+    "x": -20263.556481584958,
+    "y": 52.0,
+    "z": 20247.539805047974,
+    "pitch": 28.650183,
+    "yaw": -1.135316
    },
    "homeBlock": [
     -1267,
-    1264
+    1265
    ],
    "townBlocks": [
     [
@@ -100,11 +100,11 @@
      1264
     ],
     [
-     -1267,
+     -1268,
      1265
     ],
     [
-     -1268,
+     -1267,
      1265
     ],
     [
@@ -122,6 +122,14 @@
    {
     "name": "_DucKnight_",
     "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"
+   },
+   {
+    "name": "Ebisuwu",
+    "uuid": "5eec8ba5-0afa-4a00-b8a4-5a0e8fba0a22"
+   },
+   {
+    "name": "MizReborn",
+    "uuid": "e724bc32-6bff-4910-b27d-c87023ec5647"
    }
   ],
   "trusted": [

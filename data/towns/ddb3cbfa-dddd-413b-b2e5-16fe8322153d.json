@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
-  "name": "Mljet",
+  "name": "VELIGRAD",
   "uuid": "ddb3cbfa-dddd-413b-b2e5-16fe8322153d",
-  "board": "betiful city in sounth croatia",
+  "board": "small city country",
   "founder": "Vito67777",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "9a821e7e-dffb-44b4-a8bd-76c6c6b221d7"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
   },
   "timestamps": {
    "registered": 1791205625593,
-   "joinedNationAt": 1791714169702,
+   "joinedNationAt": 1792429476600,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -82,9 +82,9 @@
     "world": "earth",
     "x": 6288.300000011921,
     "y": 66.0,
-    "z": -8300.852171954239,
-    "pitch": 7.949964,
-    "yaw": -84.69971
+    "z": -8300.541836331515,
+    "pitch": 14.099952,
+    "yaw": -57.05298
    },
    "homeBlock": [
     393,
@@ -92,16 +92,28 @@
    ],
    "townBlocks": [
     [
+     396,
+     -520
+    ],
+    [
      395,
-     -519
+     -521
     ],
     [
      396,
+     -521
+    ],
+    [
+     395,
      -519
     ],
     [
      395,
      -520
+    ],
+    [
+     396,
+     -519
     ],
     [
      393,
@@ -128,12 +140,7 @@
     "uuid": "9a821e7e-dffb-44b4-a8bd-76c6c6b221d7"
    }
   ],
-  "trusted": [
-   {
-    "name": "maisaur",
-    "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

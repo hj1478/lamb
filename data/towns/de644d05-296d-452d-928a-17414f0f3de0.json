@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Jigjiga",
   "uuid": "de644d05-296d-452d-928a-17414f0f3de0",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1787177063598,
-   "joinedNationAt": 1790712093649,
+   "joinedNationAt": 1791930555440,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 53,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 56,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14404.370922628019,
+    "x": 14403.898191829374,
     "y": 16.0,
-    "z": 5972.816812818454,
-    "pitch": 7.2658687,
-    "yaw": -178.04987
+    "z": 5969.271094990349,
+    "pitch": 2.8499882,
+    "yaw": 89.400085
    },
    "homeBlock": [
     900,
@@ -108,8 +108,16 @@
      373
     ],
     [
+     902,
+     376
+    ],
+    [
      905,
      372
+    ],
+    [
+     902,
+     375
     ],
     [
      905,
@@ -262,6 +270,10 @@
     [
      908,
      371
+    ],
+    [
+     901,
+     375
     ],
     [
      901,
@@ -314,12 +326,20 @@
    {
     "name": "ebs231",
     "uuid": "49cb96c2-e459-46cb-88ce-3ed1516a5080"
+   },
+   {
+    "name": "Ramin0189",
+    "uuid": "f4bb4750-6a91-492b-ab7c-6917757b59dc"
    }
   ],
   "trusted": [
    {
     "name": "LINNYyln",
     "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"
+   },
+   {
+    "name": "Mine_bee",
+    "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
    },
    {
     "name": "77dervish",

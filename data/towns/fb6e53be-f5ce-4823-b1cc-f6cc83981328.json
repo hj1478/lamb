@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Tekirfra",
   "uuid": "fb6e53be-f5ce-4823-b1cc-f6cc83981328",
-  "board": "BELES BENITO",
+  "board": "Ne Mutlu Turkum Diyene...",
   "founder": "ImaBanna",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Cacik_",
-   "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+   "name": "ArdaTe_",
+   "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
   },
   "nation": {
-   "name": "Sicily",
-   "uuid": "f58a652f-7b66-446f-9fe7-5fa233d03630"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1783526417818,
-   "joinedNationAt": 1791821772218,
+   "joinedNationAt": 1792435017500,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 72,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 4,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 61.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12260.28098330936,
-    "y": 115.0,
-    "z": -6909.577700096293,
-    "pitch": 28.780499,
-    "yaw": 149.20758
+    "x": 12247.210813531703,
+    "y": 110.9375,
+    "z": -6933.1143854841175,
+    "pitch": 14.224573,
+    "yaw": -0.023711026
    },
    "homeBlock": [
-    766,
-    -432
+    765,
+    -434
    ],
    "townBlocks": [
     [
@@ -384,30 +384,39 @@
   },
   "residents": [
    {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+    "name": "ArdaTe_",
+    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   },
+   {
+    "name": "EpicXboxGamer9",
+    "uuid": "97eb5cf4-a51e-47b3-a2f4-a3bc33cb29f6"
    }
   ],
   "trusted": [
    {
-    "name": "28st",
-    "uuid": "5699652a-7ff4-4054-8b88-4b719ed17f1a"
-   },
-   {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
-   },
-   {
-    "name": "Vellange",
-    "uuid": "c258e7fb-a1ce-4808-9db2-be38159b82b3"
-   },
-   {
-    "name": "IrysZ",
-    "uuid": "cbf46854-9754-40b6-9b86-90466fa0303b"
+    "name": "rakuptka",
+    "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "4d476ade-5790-4a37-a792-4b15d9275831"
+   },
+   {
+    "name": "house 1",
+    "uuid": "fb5aa759-5c09-4a37-b5e2-59af2a8b9580"
+   },
+   {
+    "name": "House 1",
+    "uuid": "0f74e559-c0bd-4f49-b749-f033159256bc"
+   },
+   {
+    "name": "House 1 Chest",
+    "uuid": "7365a748-46da-4a23-b2c6-1d77befc30ae"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

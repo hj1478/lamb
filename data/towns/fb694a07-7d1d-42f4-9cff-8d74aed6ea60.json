@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Gelly_Town",
   "uuid": "fb694a07-7d1d-42f4-9cff-8d74aed6ea60",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LunarX908",
-   "uuid": "9f82cd4d-a074-49f5-9be0-92940cd62e79"
+   "name": "Fruky",
+   "uuid": "5df2094e-1b83-4e16-9014-99b89c402c7d"
   },
   "nation": {
    "name": "Amazon",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1783358437716,
-   "joinedNationAt": 1790412102314,
+   "joinedNationAt": 1792183558346,
    "ruinedAt": null
   },
   "status": {
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 35.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 150.0
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -17094.44952523582,
+    "x": -17080.43138372188,
     "y": 63.0,
-    "z": 8258.640563378613,
-    "pitch": 74.70005,
-    "yaw": -0.30023113
+    "z": 8204.45903282477,
+    "pitch": -5.7007127,
+    "yaw": 179.68713
    },
    "homeBlock": [
-    -1069,
-    516
+    -1068,
+    512
    ],
    "townBlocks": [
     [
@@ -252,26 +252,18 @@
   },
   "residents": [
    {
-    "name": "Gespe_X",
-    "uuid": "2946f79d-8d9b-40f5-8fb3-9d768c439941"
+    "name": "pelotamarinha",
+    "uuid": "edcc34fa-bb0a-49f0-bd60-a4ef37672094"
    },
    {
-    "name": "realRakurem",
-    "uuid": "ceb6f638-2d73-4d92-b598-0b26b03b1a49"
-   },
-   {
-    "name": "LunarX908",
-    "uuid": "9f82cd4d-a074-49f5-9be0-92940cd62e79"
+    "name": "Fruky",
+    "uuid": "5df2094e-1b83-4e16-9014-99b89c402c7d"
    }
   ],
   "trusted": [
    {
-    "name": "Gespe_X",
-    "uuid": "2946f79d-8d9b-40f5-8fb3-9d768c439941"
-   },
-   {
-    "name": "realRakurem",
-    "uuid": "ceb6f638-2d73-4d92-b598-0b26b03b1a49"
+    "name": "Thwerrve",
+    "uuid": "4626eb7f-4eb9-4239-99b0-a7c70ccd5a14"
    }
   ],
   "outlaws": [],
@@ -279,10 +271,6 @@
    {
     "name": "Elegant Dwelling",
     "uuid": "8c4a12a9-a14a-4aeb-8263-0eccfb50c3dc"
-   },
-   {
-    "name": "Perturbing Residence",
-    "uuid": "44542d4b-8eba-4ac0-9e9d-deffaaccd590"
    },
    {
     "name": "Luxurious Flat",
@@ -303,10 +291,6 @@
    {
     "name": "Dingy Suite",
     "uuid": "6e0bb07a-337e-4fab-8136-68e9e98a823a"
-   },
-   {
-    "name": "Luxurious Suite",
-    "uuid": "940abbed-8299-4cf9-aa2f-995b8375c7a4"
    }
   ],
   "ranks": {

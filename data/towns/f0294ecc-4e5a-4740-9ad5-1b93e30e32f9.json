@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Lillehammer",
   "uuid": "f0294ecc-4e5a-4740-9ad5-1b93e30e32f9",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "shincer",
-   "uuid": "6cfa960d-2ca8-4a03-8c46-e7744bcc42f1"
+   "name": "NPC44",
+   "uuid": "10903f78-c5c0-2062-b5ea-4519e8ec643b"
   },
   "nation": {
-   "name": "Norway",
-   "uuid": "c4716e9b-3ef3-45c3-8f33-0762c014fa7c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786373263507,
-   "joinedNationAt": 1786373278287,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792317603580
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -164,8 +164,8 @@
   },
   "residents": [
    {
-    "name": "shincer",
-    "uuid": "6cfa960d-2ca8-4a03-8c46-e7744bcc42f1"
+    "name": "NPC44",
+    "uuid": "10903f78-c5c0-2062-b5ea-4519e8ec643b"
    }
   ],
   "trusted": [],

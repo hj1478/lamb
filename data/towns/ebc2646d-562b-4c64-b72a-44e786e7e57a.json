@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Nitra",
   "uuid": "ebc2646d-562b-4c64-b72a-44e786e7e57a",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
+   "numTownBlocks": 26,
    "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,18 +80,34 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6360.026781261512,
-    "y": 70.9375,
-    "z": -10930.02925340557,
-    "pitch": -1.6499789,
-    "yaw": 179.44383
+    "x": 6360.015312994812,
+    "y": 69.0,
+    "z": -10914.243552735692,
+    "pitch": -1.2000206,
+    "yaw": -179.80615
    },
    "homeBlock": [
     397,
-    -684
+    -683
    ],
    "townBlocks": [
     [
+     393,
+     -684
+    ],
+    [
+     393,
+     -683
+    ],
+    [
+     393,
+     -682
+    ],
+    [
+     392,
+     -683
+    ],
+    [
      398,
      -683
     ],
@@ -108,20 +124,20 @@
      -682
     ],
     [
-     399,
-     -684
-    ],
-    [
      394,
      -683
     ],
     [
      399,
-     -683
+     -684
     ],
     [
      394,
      -684
+    ],
+    [
+     399,
+     -683
     ],
     [
      394,
@@ -162,6 +178,10 @@
     [
      397,
      -684
+    ],
+    [
+     397,
+     -685
     ],
     [
      396,
@@ -184,12 +204,7 @@
     "uuid": "fcebbf17-19dc-4475-9de3-694fc7ea189f"
    }
   ],
-  "trusted": [
-   {
-    "name": "Maraotay",
-    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

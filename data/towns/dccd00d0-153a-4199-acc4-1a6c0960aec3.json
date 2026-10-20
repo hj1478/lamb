@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Cobblewood",
   "uuid": "dccd00d0-153a-4199-acc4-1a6c0960aec3",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 261,
-   "maxTownBlocks": 284,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 17,
+   "numResidents": 11,
    "numTrusted": 1,
-   "numOutlaws": 15,
+   "numOutlaws": 13,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -1156,32 +1156,8 @@
     "uuid": "d3489d1c-b496-481b-8062-2e038ca40a15"
    },
    {
-    "name": "Remixifiedd",
-    "uuid": "dbd17d50-2e96-478a-a892-9ad7a8548174"
-   },
-   {
-    "name": "jerok92",
-    "uuid": "ef434826-ffc3-408c-be36-8010d1c9a6d0"
-   },
-   {
-    "name": "SYX_DR43",
-    "uuid": "4c660828-c82e-43ce-9318-daa1e1ac7d97"
-   },
-   {
     "name": "alivehumanhere",
     "uuid": "cbd2e1cd-e215-4f65-b3d1-80fdb3c1d7c0"
-   },
-   {
-    "name": "MastaMonstaBEAST",
-    "uuid": "214de942-dd26-4498-b5d8-e7af83a9ec9c"
-   },
-   {
-    "name": "Piazao1234",
-    "uuid": "68c457e3-1c15-4540-bb25-9f0f361fe1e4"
-   },
-   {
-    "name": "sebassluvs",
-    "uuid": "7bed3e8e-4862-4e7a-ab0a-107d89fd9d33"
    },
    {
     "name": "AMinecrafterr_LL",
@@ -1236,10 +1212,6 @@
     "uuid": "2621e92b-e403-4421-bbb7-c44d970915b6"
    },
    {
-    "name": "xDemvnzz",
-    "uuid": "3e4bdd08-7e02-401b-bb54-e31a3f15f66b"
-   },
-   {
     "name": "Chrouched_",
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
    },
@@ -1258,10 +1230,6 @@
    {
     "name": "TurboDumb",
     "uuid": "a0451126-aed7-4523-90de-925ca594be34"
-   },
-   {
-    "name": "IronCamper",
-    "uuid": "290fe789-9c2b-4d03-a614-75e3143d9f48"
    },
    {
     "name": "BayLay00",
@@ -1313,10 +1281,6 @@
     {
      "name": "Longstoc",
      "uuid": "82406e43-52eb-4f17-a7e6-aa9ae27422d4"
-    },
-    {
-     "name": "SYX_DR43",
-     "uuid": "4c660828-c82e-43ce-9318-daa1e1ac7d97"
     }
    ],
    "Recruiter": [
@@ -1333,12 +1297,7 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "SYX_DR43",
-     "uuid": "4c660828-c82e-43ce-9318-daa1e1ac7d97"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

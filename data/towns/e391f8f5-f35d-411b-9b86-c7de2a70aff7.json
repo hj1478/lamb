@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "JL-Radar",
   "uuid": "e391f8f5-f35d-411b-9b86-c7de2a70aff7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
+   "numTownBlocks": 31,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 50977.66454597549,
-    "y": 63.0,
-    "z": 11650.300000011921,
-    "pitch": 7.577009,
-    "yaw": 9.516357
+    "x": 50983.94999998808,
+    "y": 64.0,
+    "z": 11663.300000011921,
+    "pitch": -2.3154519,
+    "yaw": -36.21637
    },
    "homeBlock": [
     3186,
@@ -92,12 +92,12 @@
    ],
    "townBlocks": [
     [
-     3185,
-     727
-    ],
-    [
      3183,
      728
+    ],
+    [
+     3185,
+     727
     ],
     [
      3185,
@@ -172,12 +172,12 @@
      728
     ],
     [
-     3187,
-     727
-    ],
-    [
      3186,
      729
+    ],
+    [
+     3187,
+     727
     ],
     [
      3186,
@@ -200,8 +200,20 @@
      727
     ],
     [
+     3181,
+     727
+    ],
+    [
      3182,
      728
+    ],
+    [
+     3181,
+     728
+    ],
+    [
+     3181,
+     726
     ]
    ],
    "worlds": {}
@@ -220,10 +232,6 @@
    {
     "name": "ToxicShole",
     "uuid": "cae7d76a-5466-4aa8-acf3-e77ef63f3c29"
-   },
-   {
-    "name": "HuntianaJones",
-    "uuid": "d77695a1-0c2f-46f1-878f-3e9f8a8843da"
    }
   ],
   "outlaws": [

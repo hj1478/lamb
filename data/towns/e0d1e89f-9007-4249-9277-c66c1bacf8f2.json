@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Mellon",
   "uuid": "e0d1e89f-9007-4249-9277-c66c1bacf8f2",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 10,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 4.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "destroy": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35347.89903938352,
+    "x": 35363.31850786197,
     "y": 73.0,
-    "z": 149.8157742171649,
-    "pitch": 16.199715,
-    "yaw": 73.483734
+    "z": 160.44562691755849,
+    "pitch": 55.499767,
+    "yaw": -86.41669
    },
    "homeBlock": [
-    2209,
-    9
+    2210,
+    10
    ],
    "townBlocks": [
     [
@@ -98,6 +98,10 @@
     [
      2207,
      9
+    ],
+    [
+     2211,
+     10
     ],
     [
      2209,
@@ -112,12 +116,20 @@
      9
     ],
     [
+     2211,
+     9
+    ],
+    [
      2210,
      10
     ],
     [
      2210,
      9
+    ],
+    [
+     2210,
+     11
     ]
    ],
    "worlds": {}

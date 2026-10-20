@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Port_Of_Seoul",
   "uuid": "f28dcb30-eca9-4f0e-9544-06cf2ef656dc",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
+   "numTownBlocks": 26,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 38.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -121,6 +121,10 @@
     ],
     [
      2836,
+     -388
+    ],
+    [
+     2836,
      -393
     ],
     [
@@ -165,6 +169,10 @@
     ],
     [
      2837,
+     -389
+    ],
+    [
+     2837,
      -390
     ],
     [
@@ -196,7 +204,12 @@
     "uuid": "fee578bc-4537-4481-961b-1cfe4fbf6769"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DruiDwastaken_",
+    "uuid": "200dd6bf-2de1-4b0b-874f-159e0d3c4fc2"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

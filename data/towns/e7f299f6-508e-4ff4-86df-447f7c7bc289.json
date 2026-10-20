@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Stormcrest",
   "uuid": "e7f299f6-508e-4ff4-86df-447f7c7bc289",
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1792004468482,
-   "joinedNationAt": 1792004481191,
+   "joinedNationAt": 1792351885562,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 110,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 54007.41820337308,
-    "y": 63.0,
-    "z": -21191.254647595546,
-    "pitch": 1.6474528,
-    "yaw": 0.74078643
+    "x": 54007.96229785186,
+    "y": 62.0,
+    "z": -21192.425142083073,
+    "pitch": -1.7865036,
+    "yaw": 3.8034947
    },
    "homeBlock": [
     3375,
@@ -96,6 +96,10 @@
      -1323
     ],
     [
+     3375,
+     -1326
+    ],
+    [
      3374,
      -1325
     ],
@@ -110,6 +114,14 @@
     [
      3375,
      -1324
+    ],
+    [
+     3375,
+     -1323
+    ],
+    [
+     3374,
+     -1326
     ],
     [
      3373,
@@ -134,18 +146,48 @@
    {
     "name": "hzr_windows",
     "uuid": "8e426f60-e84f-4f23-8754-07f792ca1615"
+   },
+   {
+    "name": "Kn0Xxx_er",
+    "uuid": "feea7232-7627-4e1f-819e-52ecd9c1b2c8"
+   },
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   },
+   {
+    "name": "Gorki201212",
+    "uuid": "cc41d037-07f3-4ca6-a668-3d55e70f5454"
    }
   ],
   "trusted": [
    {
     "name": "hzr_windows",
     "uuid": "8e426f60-e84f-4f23-8754-07f792ca1615"
+   },
+   {
+    "name": "Gorki201212",
+    "uuid": "cc41d037-07f3-4ca6-a668-3d55e70f5454"
+   },
+   {
+    "name": "Kn0Xxx_er",
+    "uuid": "feea7232-7627-4e1f-819e-52ecd9c1b2c8"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "a813ef0c-88fd-4e15-a4c4-61b46aac6b82"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Kn0Xxx_er",
+     "uuid": "feea7232-7627-4e1f-819e-52ecd9c1b2c8"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

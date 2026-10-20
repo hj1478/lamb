@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Canmore",
   "uuid": "e5f175de-eb51-4d0d-8427-9371361b8a00",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,48 +92,52 @@
    ],
    "townBlocks": [
     [
+     -2567,
+     -760
+    ],
+    [
+     -2567,
+     -759
+    ],
+    [
+     -2566,
+     -761
+    ],
+    [
+     -2568,
+     -761
+    ],
+    [
+     -2566,
+     -760
+    ],
+    [
+     -2568,
+     -760
+    ],
+    [
+     -2567,
+     -761
+    ],
+    [
+     -2566,
+     -759
+    ],
+    [
+     -2568,
+     -759
+    ],
+    [
+     -2568,
+     -758
+    ],
+    [
      -2566,
      -758
     ],
     [
      -2567,
      -758
-    ],
-    [
-     -2567,
-     -760
-    ],
-    [
-     -2567,
-     -759
-    ],
-    [
-     -2566,
-     -761
-    ],
-    [
-     -2568,
-     -761
-    ],
-    [
-     -2566,
-     -760
-    ],
-    [
-     -2568,
-     -760
-    ],
-    [
-     -2567,
-     -761
-    ],
-    [
-     -2566,
-     -759
-    ],
-    [
-     -2568,
-     -759
     ]
    ],
    "worlds": {}
@@ -146,9 +150,18 @@
    {
     "name": "TippySheep27637",
     "uuid": "a98c864e-f281-4062-8f8f-bdb915b8c84a"
+   },
+   {
+    "name": "HearthMeadow",
+    "uuid": "9d8dfb1b-54b6-4afc-a9de-6b85ee093cbc"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "TippySheep27637",
+    "uuid": "a98c864e-f281-4062-8f8f-bdb915b8c84a"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

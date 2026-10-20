@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Starbase",
   "uuid": "e9db712a-8de4-4cf3-8473-2ef61fa7df5a",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 54,
-   "maxTownBlocks": 188,
+   "numTownBlocks": 60,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 9,
+   "numResidents": 11,
    "numTrusted": 6,
-   "numOutlaws": 8,
+   "numOutlaws": 11,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -160,10 +160,22 @@
      -95
     ],
     [
+     -2187,
+     -102
+    ],
+    [
      -2184,
      -96
     ],
     [
+     -2187,
+     -100
+    ],
+    [
+     -2187,
+     -101
+    ],
+    [
      -2181,
      -100
     ],
@@ -248,6 +260,10 @@
      -103
     ],
     [
+     -2188,
+     -101
+    ],
+    [
      -2183,
      -102
     ],
@@ -298,6 +314,14 @@
     [
      -2182,
      -95
+    ],
+    [
+     -2186,
+     -100
+    ],
+    [
+     -2186,
+     -101
     ],
     [
      -2186,
@@ -346,6 +370,14 @@
    {
     "name": "Jo2013jo",
     "uuid": "8f169b91-3725-4075-99f0-775f079048c5"
+   },
+   {
+    "name": "squidgybrush189",
+    "uuid": "45c97126-c799-450d-bc5a-1a6d413b5a12"
+   },
+   {
+    "name": "AlexandraToasty",
+    "uuid": "b44f76ac-6ddc-41df-ab79-1c83c1ca8191"
    }
   ],
   "trusted": [
@@ -406,6 +438,18 @@
    {
     "name": "Smarket",
     "uuid": "17cb6cf8-c153-4ec7-abba-91a683277c34"
+   },
+   {
+    "name": "Gatorchomp_8",
+    "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
+   },
+   {
+    "name": "JaydonNazzie",
+    "uuid": "df0c83c4-c3ef-4840-8bb1-8f30dfe4d290"
+   },
+   {
+    "name": "chostpr",
+    "uuid": "8b8ad4fb-4fca-4e43-ab37-7337901cddbb"
    }
   ],
   "quarters": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Aperture_Science",
   "uuid": "e7b09c07-3872-4e5f-adf9-57e960e3c536",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Shamil_Larvalus",
-   "uuid": "678db1e3-7414-4af6-9b56-fcb861700074"
+   "name": "Player_9880",
+   "uuid": "1a5afa10-cfdd-4875-a9a4-87752c343ded"
   },
   "nation": {
    "name": "Persia",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 38,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
-   "forSalePrice": 90.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -96,40 +96,152 @@
      -123
     ],
     [
-     1250,
+     1249,
      -124
+    ],
+    [
+     1249,
+     -123
     ],
     [
      1251,
      -125
     ],
     [
-     1250,
-     -125
-    ],
-    [
      1251,
      -124
     ],
     [
+     1246,
+     -120
+    ],
+    [
+     1249,
+     -125
+    ],
+    [
+     1246,
+     -121
+    ],
+    [
+     1246,
+     -122
+    ],
+    [
+     1246,
+     -123
+    ],
+    [
+     1246,
+     -124
+    ],
+    [
+     1246,
+     -125
+    ],
+    [
+     1244,
+     -124
+    ],
+    [
+     1244,
+     -123
+    ],
+    [
      1252,
      -124
     ],
     [
-     1253,
-     -124
+     1244,
+     -120
     ],
     [
      1252,
      -123
     ],
     [
-     1253,
-     -123
+     1244,
+     -122
     ],
     [
      1252,
      -125
+    ],
+    [
+     1244,
+     -121
+    ],
+    [
+     1245,
+     -119
+    ],
+    [
+     1245,
+     -120
+    ],
+    [
+     1250,
+     -124
+    ],
+    [
+     1245,
+     -121
+    ],
+    [
+     1250,
+     -125
+    ],
+    [
+     1245,
+     -122
+    ],
+    [
+     1245,
+     -123
+    ],
+    [
+     1250,
+     -123
+    ],
+    [
+     1245,
+     -124
+    ],
+    [
+     1245,
+     -125
+    ],
+    [
+     1247,
+     -124
+    ],
+    [
+     1247,
+     -125
+    ],
+    [
+     1248,
+     -124
+    ],
+    [
+     1248,
+     -123
+    ],
+    [
+     1248,
+     -125
+    ],
+    [
+     1247,
+     -123
+    ],
+    [
+     1253,
+     -124
+    ],
+    [
+     1253,
+     -123
     ]
    ],
    "worlds": {}
@@ -138,9 +250,18 @@
    {
     "name": "Shamil_Larvalus",
     "uuid": "678db1e3-7414-4af6-9b56-fcb861700074"
+   },
+   {
+    "name": "Player_9880",
+    "uuid": "1a5afa10-cfdd-4875-a9a4-87752c343ded"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "rip5450",
+    "uuid": "438aeeac-78e4-48b6-9b2e-4269a3f621fe"
+   }
+  ],
   "outlaws": [
    {
     "name": "Chrouched_",

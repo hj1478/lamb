@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
-  "name": "Frydek_Mistek",
-  "uuid": "612c95bc-692a-45fc-a6d6-5e78ef9d4c22",
+  "name": "Maksat",
+  "uuid": "2e26b9fb-6ea1-42d9-91c0-61a995dcbffb",
   "board": "/town set board [msg]",
-  "founder": "dinnerbone37665",
+  "founder": "Aloneistokyo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "dinnerbone37665",
-   "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
+   "name": "Aloneistokyo",
+   "uuid": "fbac5abf-e742-41bc-a690-94c6db653e82"
   },
   "nation": {
-   "name": "Czech_Republic",
-   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1791903587665,
-   "joinedNationAt": 1791903613388,
+   "registered": 1792482644911,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 31.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,48 +80,43 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6605.048813611924,
-    "y": 102.0,
-    "z": -11379.5731264831,
-    "pitch": 36.150013,
-    "yaw": -39.516113
+    "x": -37899.0946678508,
+    "y": 132.0,
+    "z": -4263.292095955963,
+    "pitch": 17.78712,
+    "yaw": -75.79556
    },
    "homeBlock": [
-    412,
-    -712
+    -2369,
+    -267
    ],
    "townBlocks": [
     [
-     412,
-     -712
+     -2367,
+     -268
     ],
     [
-     413,
-     -712
+     -2368,
+     -268
+    ],
+    [
+     -2369,
+     -267
+    ],
+    [
+     -2369,
+     -268
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "dinnerbone37665",
-    "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
+    "name": "Aloneistokyo",
+    "uuid": "fbac5abf-e742-41bc-a690-94c6db653e82"
    }
   ],
-  "trusted": [
-   {
-    "name": "Maraotay",
-    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
-   },
-   {
-    "name": "AlbireoCZ",
-    "uuid": "4275d88e-dc68-49af-8a47-2603da0a35f1"
-   },
-   {
-    "name": "Azor321",
-    "uuid": "791a21bb-1775-463c-b734-7a69c18dc152"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

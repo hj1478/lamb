@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Pavia",
   "uuid": "f19f1246-1d2d-452e-a616-959d38605b4e",
-  "board": "7 towers 3 bridges and a church",
+  "board": "10 towers 3 bridges and a church",
   "founder": "just_perq",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 157,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 8,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 54.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -750,6 +750,10 @@
    {
     "name": "square_du",
     "uuid": "9fb3e736-345f-482c-bc7c-d09fce0d3fd2"
+   },
+   {
+    "name": "XBzombieMan",
+    "uuid": "e3ac195a-6323-47b8-b2f0-b88b7b5b5225"
    }
   ],
   "trusted": [
@@ -892,6 +896,10 @@
    {
     "name": "Cheerful Residence",
     "uuid": "dfc75fef-2cb5-4ab9-9612-19685c5db6b4"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "79fd84ab-6291-4c82-b34f-c7a3534170bf"
    }
   ],
   "ranks": {

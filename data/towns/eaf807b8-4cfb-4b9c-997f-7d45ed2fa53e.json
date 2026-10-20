@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Doubloons",
   "uuid": "eaf807b8-4cfb-4b9c-997f-7d45ed2fa53e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 57,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 7,
-   "numOutlaws": 11,
-   "balance": 1.0,
+   "numOutlaws": 12,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 56079.30090558899,
-    "y": 48.0,
-    "z": 10383.524445605122,
-    "pitch": 9.750144,
-    "yaw": -134.4153
+    "x": 56070.45999660558,
+    "y": 64.0,
+    "z": 10402.984013133813,
+    "pitch": 12.299982,
+    "yaw": 91.48505
    },
    "homeBlock": [
     3504,
-    648
+    650
    ],
    "townBlocks": [
     [
@@ -328,10 +328,6 @@
     "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    },
    {
-    "name": "BlastBlob",
-    "uuid": "f7169e14-a2fc-4403-9a52-501074d7e07b"
-   },
-   {
     "name": "TROSSOLPYT",
     "uuid": "be6f386c-25c8-4a02-a3a3-d8e459df30e6"
    }
@@ -410,6 +406,10 @@
    {
     "name": "TheLegend1st",
     "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
+   },
+   {
+    "name": "JoelTheBigMac",
+    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
    }
   ],
   "quarters": [
@@ -462,10 +462,6 @@
     "uuid": "c9f7dc34-397a-4952-8632-0b6467717fe7"
    },
    {
-    "name": "Dull Dwelling",
-    "uuid": "483b31d0-64af-40b8-a47a-62d471cd4bff"
-   },
-   {
     "name": "Farms",
     "uuid": "e4a09e1d-0500-4f31-b540-056095f23304"
    },
@@ -504,6 +500,10 @@
    {
     "name": "Annoying Apartment",
     "uuid": "fd936efc-751c-409e-8170-7cc7361268d0"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "483b31d0-64af-40b8-a47a-62d471cd4bff"
    }
   ],
   "ranks": {

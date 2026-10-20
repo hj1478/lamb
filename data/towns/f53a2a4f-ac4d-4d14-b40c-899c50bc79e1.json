@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Folk_Valley",
   "uuid": "f53a2a4f-ac4d-4d14-b40c-899c50bc79e1",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "prasaktob",
-   "uuid": "35df867b-9ae4-4628-a421-1720b639dfcf"
+   "name": "NPC53",
+   "uuid": "c1af9317-f21f-2079-b12a-91f75aabb0a4"
   },
   "nation": {
-   "name": "Niger",
-   "uuid": "f643556e-08d8-4527-840c-3e587a16773b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786198810312,
-   "joinedNationAt": 1786198934562,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792404003761
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 60,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 58.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -336,12 +336,8 @@
   },
   "residents": [
    {
-    "name": "prasaktob",
-    "uuid": "35df867b-9ae4-4628-a421-1720b639dfcf"
-   },
-   {
-    "name": "anine__",
-    "uuid": "8abddfb5-3d57-4b54-8c72-7dee95b52788"
+    "name": "NPC53",
+    "uuid": "c1af9317-f21f-2079-b12a-91f75aabb0a4"
    }
   ],
   "trusted": [
@@ -353,12 +349,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "anine__",
-     "uuid": "8abddfb5-3d57-4b54-8c72-7dee95b52788"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Lagos",
   "uuid": "ea53074c-e2eb-4e0c-b315-7bdae6cea9f8",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Bunzo",
-   "uuid": "811eac4c-edd7-4c0b-aa49-f703031c9226"
+   "name": "NPC91",
+   "uuid": "7cf4c821-e86a-2052-afb0-cfa97a535108"
   },
   "nation": {
-   "name": "Aba",
-   "uuid": "138a2f97-8a4e-4c33-84fb-b101161ef99f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786531257907,
-   "joinedNationAt": 1786531271016,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792495599824
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 104,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -512,8 +512,12 @@
   },
   "residents": [
    {
-    "name": "Bunzo",
-    "uuid": "811eac4c-edd7-4c0b-aa49-f703031c9226"
+    "name": "parffy702",
+    "uuid": "0a439b2b-78f2-47ae-af72-140331563378"
+   },
+   {
+    "name": "NPC91",
+    "uuid": "7cf4c821-e86a-2052-afb0-cfa97a535108"
    }
   ],
   "trusted": [

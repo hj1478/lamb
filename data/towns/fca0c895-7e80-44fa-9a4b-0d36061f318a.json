@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Belgrade",
   "uuid": "fca0c895-7e80-44fa-9a4b-0d36061f318a",
@@ -12,12 +12,12 @@
    "uuid": "326580ef-317e-4f90-893a-1adc12fddbfc"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1776453745916,
-   "joinedNationAt": 1788728318941,
+   "joinedNationAt": 1792079794721,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 132,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 6,
+   "nationBonus": 100,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -694,6 +694,14 @@
    {
     "name": "myboistefan",
     "uuid": "e6c43c5c-1554-4181-9b26-aedf4dbe2476"
+   },
+   {
+    "name": "JaksaK",
+    "uuid": "21bb9f20-1a69-43d1-ad5d-844366e0c510"
+   },
+   {
+    "name": "_4SIGHT_",
+    "uuid": "9c6cb0a7-3bd8-4d06-98c9-199b6cf07cb8"
    }
   ],
   "trusted": [],

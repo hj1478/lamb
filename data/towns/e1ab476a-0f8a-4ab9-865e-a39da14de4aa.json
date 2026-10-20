@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Luncheon_City",
   "uuid": "e1ab476a-0f8a-4ab9-865e-a39da14de4aa",
-  "board": "/town set board [msg]",
+  "board": "We will win and rise with lunch and eon",
   "founder": "thearbysworker",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 6,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 4.0,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2481.94414023845,
-    "y": 80.0,
-    "z": -632.3029231039923,
-    "pitch": 31.199966,
-    "yaw": 100.79245
+    "x": -2490.443617328249,
+    "y": 85.0,
+    "z": -624.4622444241259,
+    "pitch": 74.15488,
+    "yaw": -63.148438
    },
    "homeBlock": [
     -156,
     -40
    ],
    "townBlocks": [
+    [
+     -154,
+     -40
+    ],
+    [
+     -154,
+     -41
+    ],
     [
      -156,
      -41
@@ -130,19 +138,49 @@
    {
     "name": "xvazure",
     "uuid": "2fefc7fc-a84d-4c44-b669-301ebffe26f8"
+   },
+   {
+    "name": "ekulman160",
+    "uuid": "eddbc78a-6826-4dea-a9af-d84c0304aa84"
+   },
+   {
+    "name": "CakesterCake887",
+    "uuid": "254407f0-e266-4a08-960a-1211dc619f21"
+   },
+   {
+    "name": "BoyFacedStinkBug",
+    "uuid": "230a73a7-e378-4a75-9147-c188b8983d8f"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "Slapdragon",
+    "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
     {
      "name": "WitherBait",
      "uuid": "a61f3085-14c8-4256-b25a-46d3a9fdc9a7"
+    },
+    {
+     "name": "ekulman160",
+     "uuid": "eddbc78a-6826-4dea-a9af-d84c0304aa84"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "CakesterCake887",
+     "uuid": "254407f0-e266-4a08-960a-1211dc619f21"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

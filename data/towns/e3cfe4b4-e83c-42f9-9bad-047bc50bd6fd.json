@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Tuusula",
   "uuid": "e3cfe4b4-e83c-42f9-9bad-047bc50bd6fd",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,18 @@
    "townBlocks": [
     [
      562,
+     -1053
+    ],
+    [
+     562,
+     -1054
+    ],
+    [
+     562,
+     -1055
+    ],
+    [
+     563,
      -1054
     ]
    ],
@@ -102,6 +114,18 @@
    {
     "name": "megulodun",
     "uuid": "d624a715-d3e1-476f-aa5a-eeac5ba1bcde"
+   },
+   {
+    "name": "DarkEgmur",
+    "uuid": "2acaa109-cf43-4037-9022-554cb60cb757"
+   },
+   {
+    "name": "itzdagser_",
+    "uuid": "5c51be70-a767-4336-ac65-26e6966190b2"
+   },
+   {
+    "name": "SpardaMayCry",
+    "uuid": "b1e5ef68-748d-4b1a-b0a2-e551968b18a5"
    }
   ],
   "trusted": [],
@@ -109,7 +133,20 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "DarkEgmur",
+     "uuid": "2acaa109-cf43-4037-9022-554cb60cb757"
+    },
+    {
+     "name": "itzdagser_",
+     "uuid": "5c51be70-a767-4336-ac65-26e6966190b2"
+    },
+    {
+     "name": "SpardaMayCry",
+     "uuid": "b1e5ef68-748d-4b1a-b0a2-e551968b18a5"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

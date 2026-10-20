@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Blackstone_Bay",
   "uuid": "fd38390b-dfee-4dff-a2aa-f8d0fa0cf3f7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 67,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 68,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 635.0,
+   "numOutlaws": 2,
+   "balance": 724.0,
    "forSalePrice": null
   },
   "perms": {
@@ -172,14 +172,14 @@
      1076
     ],
     [
-     3405,
-     1077
-    ],
-    [
      3408,
      1079
     ],
     [
+     3405,
+     1077
+    ],
+    [
      3414,
      1076
     ],
@@ -202,14 +202,14 @@
     [
      3407,
      1076
-    ],
-    [
-     3418,
-     1078
     ],
     [
      3417,
      1080
+    ],
+    [
+     3418,
+     1078
     ],
     [
      3417,
@@ -254,6 +254,10 @@
     [
      3406,
      1076
+    ],
+    [
+     3406,
+     1080
     ],
     [
      3406,
@@ -371,6 +375,10 @@
    {
     "name": "legend_sukh",
     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+   },
+   {
+    "name": "BOWL0FS0UP",
+    "uuid": "a4500a0a-45fd-46be-97f4-5e3a89444bf7"
    }
   ],
   "trusted": [
@@ -383,17 +391,61 @@
     "uuid": "dd49ba47-0157-45a9-bd9b-29cc5a906020"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BROEKAM12",
+    "uuid": "0deae089-1767-49da-9a55-3bfd6ae35358"
+   },
+   {
+    "name": "rzk2p",
+    "uuid": "e4ab5da3-0a3b-4647-8c1a-eb160d0d153b"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
+   "Councillor": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ],
+   "Police": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "legend_sukh",
+     "uuid": "d712e9a3-cf4f-401a-a0ba-7281e7b69648"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

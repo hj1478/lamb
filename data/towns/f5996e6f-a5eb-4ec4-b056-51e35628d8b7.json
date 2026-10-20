@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Regensburg",
   "uuid": "f5996e6f-a5eb-4ec4-b056-51e35628d8b7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Deacon_Heitor",
-   "uuid": "46ef4822-59db-4c3e-a3c0-79245cccf108"
+   "name": "Grojnik",
+   "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"
   },
   "nation": {
    "name": "Netherlands",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 100.0
   },
   "perms": {
    "build": [
@@ -135,10 +135,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "Deacon_Heitor",
-    "uuid": "46ef4822-59db-4c3e-a3c0-79245cccf108"
-   },
    {
     "name": "Grojnik",
     "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Sao_Timothy",
   "uuid": "f2434ca5-3d83-4a11-a482-2854156ffd49",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "KingBilly501",
-   "uuid": "c8506fb4-5d6c-48a1-940d-5e306f284c8a"
+   "name": "NPC134",
+   "uuid": "f78e8278-5b42-20a3-96f0-1c2fb547ef87"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788398430138,
-   "joinedNationAt": 1788731257075,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792490400643
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 4,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -48,33 +48,33 @@
   "perms": {
    "build": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,20 +128,8 @@
   },
   "residents": [
    {
-    "name": "KingBilly501",
-    "uuid": "c8506fb4-5d6c-48a1-940d-5e306f284c8a"
-   },
-   {
-    "name": "_lilg",
-    "uuid": "a77f4c4d-5700-4ce3-a078-453566d55c44"
-   },
-   {
-    "name": "KingHarry072512",
-    "uuid": "32e2d444-75f1-4725-8c7a-a35f19dec90d"
-   },
-   {
-    "name": "freshbreaD1234",
-    "uuid": "0dd96c71-971a-48d4-ae1a-214a9f2fbeff"
+    "name": "NPC134",
+    "uuid": "f78e8278-5b42-20a3-96f0-1c2fb547ef87"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Corpo_Plaza",
   "uuid": "f06c9463-1612-487d-9641-53708ffe04a7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Luca_1226",
-   "uuid": "fe677ffb-593a-4195-b0d2-3a4d688819ca"
+   "name": "FantasticBubbles",
+   "uuid": "11c2865d-7494-4ab6-8f7b-e4f10b12f1a0"
   },
   "nation": {
    "name": "Australia",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791778625023,
-   "joinedNationAt": 1791778647242,
+   "joinedNationAt": 1791950021741,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 101,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 100,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 7,
-   "numOutlaws": 1,
-   "balance": 1767.0,
+   "numResidents": 2,
+   "numTrusted": 2,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,22 +80,18 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 51900.344555290336,
-    "y": 43.0,
-    "z": 21591.512529500757,
-    "pitch": 0.9000012,
-    "yaw": 88.31572
+    "x": 51916.874969605786,
+    "y": 64.0,
+    "z": 21580.71869223409,
+    "pitch": 51.449997,
+    "yaw": -172.98444
    },
    "homeBlock": [
-    3243,
-    1349
+    3244,
+    1348
    ],
    "townBlocks": [
     [
-     3237,
-     1354
-    ],
-    [
      3245,
      1352
     ],
@@ -104,12 +100,12 @@
      1351
     ],
     [
-     3246,
-     1349
-    ],
-    [
      3245,
      1354
+    ],
+    [
+     3246,
+     1349
     ],
     [
      3245,
@@ -156,20 +152,20 @@
      1350
     ],
     [
-     3245,
-     1349
-    ],
-    [
      3241,
      1347
     ],
     [
-     3246,
-     1351
+     3245,
+     1349
     ],
     [
      3239,
      1354
+    ],
+    [
+     3246,
+     1351
     ],
     [
      3239,
@@ -206,14 +202,14 @@
     [
      3239,
      1351
-    ],
-    [
-     3239,
-     1346
     ],
     [
      3238,
      1354
+    ],
+    [
+     3239,
+     1346
     ],
     [
      3239,
@@ -320,16 +316,12 @@
      1354
     ],
     [
-     3244,
-     1349
-    ],
-    [
      3243,
      1352
     ],
     [
      3244,
-     1350
+     1349
     ],
     [
      3243,
@@ -337,11 +329,15 @@
     ],
     [
      3244,
-     1351
+     1350
     ],
     [
      3243,
      1354
+    ],
+    [
+     3244,
+     1351
     ],
     [
      3244,
@@ -420,12 +416,12 @@
      1347
     ],
     [
-     3235,
-     1344
-    ],
-    [
      3240,
      1354
+    ],
+    [
+     3235,
+     1344
     ],
     [
      3240,
@@ -500,16 +496,12 @@
   },
   "residents": [
    {
-    "name": "Luca_1226",
-    "uuid": "fe677ffb-593a-4195-b0d2-3a4d688819ca"
+    "name": "Inov8",
+    "uuid": "0091a2eb-5f1d-41a9-bd83-14075d594335"
    },
    {
-    "name": "The_OofLord",
-    "uuid": "9fb6b071-7480-4e62-930d-c466a99c823f"
-   },
-   {
-    "name": "Aras775",
-    "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
+    "name": "FantasticBubbles",
+    "uuid": "11c2865d-7494-4ab6-8f7b-e4f10b12f1a0"
    }
   ],
   "trusted": [
@@ -518,44 +510,27 @@
     "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
    },
    {
-    "name": "me20ty",
-    "uuid": "4915abdf-68d8-49cf-86a0-1d8b1fefcb9d"
-   },
-   {
-    "name": "JackFromHell",
-    "uuid": "89800266-c060-48d7-9a60-d90be2043d2b"
-   },
-   {
-    "name": "memes169",
-    "uuid": "2c8a2e87-e5a5-437f-8671-da596e501e19"
-   },
-   {
     "name": "RogueYeti976878",
     "uuid": "021f824b-5802-496d-a68b-7757342c40bc"
-   },
-   {
-    "name": "fnn05",
-    "uuid": "07192341-e4a0-41d2-b071-5eed0261801a"
-   },
-   {
-    "name": "The_OofLord",
-    "uuid": "9fb6b071-7480-4e62-930d-c466a99c823f"
    }
   ],
   "outlaws": [
    {
     "name": "Ncgx",
     "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
+   },
+   {
+    "name": "BLOCK_EJ",
+    "uuid": "0bd82090-4798-4896-a7f2-d2257df0c1fe"
+   },
+   {
+    "name": "Eepy_ass_cat",
+    "uuid": "1cf1047d-e607-491a-8780-565eee923695"
    }
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Aras775",
-     "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

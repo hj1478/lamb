@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Datong",
   "uuid": "e4e6819a-e45a-4d83-a5d6-11f0bff90703",
@@ -12,12 +12,12 @@
    "uuid": "adcaddbc-b12e-42cc-95db-f792232803bb"
   },
   "nation": {
-   "name": "China",
-   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792219188583,
-   "joinedNationAt": 1792220275211,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     2541,
+     -487
+    ],
+    [
      2540,
      -489
     ],
@@ -104,16 +108,36 @@
      -488
     ],
     [
+     2538,
+     -488
+    ],
+    [
+     2541,
+     -489
+    ],
+    [
      2539,
      -489
+    ],
+    [
+     2541,
+     -488
     ],
     [
      2539,
      -488
     ],
     [
+     2542,
+     -489
+    ],
+    [
      2539,
      -487
+    ],
+    [
+     2542,
+     -488
     ]
    ],
    "worlds": {}

@@ -1,29 +1,29 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
-  "name": "Kanawha",
-  "uuid": "ee333d44-0ec4-49c3-8e27-6f8cd0da88ca",
-  "board": "Its the Neu Thing!",
-  "founder": "duskerhu",
+  "name": "Saint-Quentin",
+  "uuid": "a4538658-60b8-4d5b-b6c9-925833d0a4e9",
+  "board": "/town set board [msg]",
+  "founder": "Ayskow",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "duskerhu",
-   "uuid": "b45ec840-7821-4de1-8b25-73d5f991ff2c"
+   "name": "Delgad000",
+   "uuid": "3a6b312a-827d-406e-afd3-7de672f8712a"
   },
   "nation": {
-   "name": "Appalachia",
-   "uuid": "2c5dc18f-5209-4e70-91b1-4218c1d1b64a"
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
   },
   "timestamps": {
-   "registered": 1786262591123,
-   "joinedNationAt": 1786267517683,
+   "registered": 1792435126726,
+   "joinedNationAt": 1792435167249,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
-   "isNeutral": true,
+   "isOpen": false,
+   "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 1,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,127 +80,109 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29181.462230045552,
-    "y": 91.0,
-    "z": -6407.5331494607235,
-    "pitch": 2.496108,
-    "yaw": -89.23047
+    "x": 1000.4592370003379,
+    "y": 67.0,
+    "z": -11431.997475752058,
+    "pitch": 57.21462,
+    "yaw": 133.93607
    },
    "homeBlock": [
-    -1824,
-    -401
+    62,
+    -715
    ],
    "townBlocks": [
     [
-     -1824,
-     -401
+     62,
+     -719
     ],
     [
-     -1824,
-     -400
+     62,
+     -718
     ],
     [
-     -1824,
-     -399
+     62,
+     -717
     ],
     [
-     -1822,
-     -402
+     62,
+     -716
     ],
     [
-     -1822,
-     -401
+     61,
+     -718
     ],
     [
-     -1822,
-     -403
+     62,
+     -715
     ],
     [
-     -1822,
-     -400
+     61,
+     -717
     ],
     [
-     -1826,
-     -403
+     61,
+     -719
     ],
     [
-     -1823,
-     -400
+     59,
+     -715
     ],
     [
-     -1824,
-     -403
+     59,
+     -716
     ],
     [
-     -1825,
-     -399
+     60,
+     -715
     ],
     [
-     -1824,
-     -402
+     61,
+     -714
     ],
     [
-     -1825,
-     -400
+     63,
+     -716
     ],
     [
-     -1823,
-     -403
+     60,
+     -714
     ],
     [
-     -1825,
-     -401
+     61,
+     -716
     ],
     [
-     -1826,
-     -402
+     61,
+     -715
     ],
     [
-     -1825,
-     -402
+     60,
+     -716
     ],
     [
-     -1823,
-     -401
+     63,
+     -719
     ],
     [
-     -1826,
-     -401
+     63,
+     -718
     ],
     [
-     -1825,
-     -403
-    ],
-    [
-     -1823,
-     -402
+     63,
+     -717
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "duskerhu",
-    "uuid": "b45ec840-7821-4de1-8b25-73d5f991ff2c"
+    "name": "Delgad000",
+    "uuid": "3a6b312a-827d-406e-afd3-7de672f8712a"
    }
   ],
   "trusted": [],
-  "outlaws": [
-   {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   }
-  ],
-  "quarters": [
-   {
-    "name": "test 12",
-    "uuid": "e1af1f49-b93c-400e-b6fd-40e45042904f"
-   },
-   {
-    "name": "Gloomy Dwelling",
-    "uuid": "d4605485-3d39-42d2-9823-0d5f29aa9d2e"
-   }
-  ],
+  "outlaws": [],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Brilliant",
   "uuid": "ee164cb4-978e-47e7-9da5-ffe027cfe273",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 105,
-   "maxTownBlocks": 164,
+   "numTownBlocks": 106,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 7,
+   "numResidents": 9,
    "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 251.0,
+   "balance": 238.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -256,6 +256,10 @@
      -472
     ],
     [
+     2526,
+     -460
+    ],
+    [
      2528,
      -472
     ],
@@ -264,12 +268,12 @@
      -471
     ],
     [
-     2526,
-     -460
-    ],
-    [
      2525,
      -473
+    ],
+    [
+     2526,
+     -459
     ],
     [
      2528,
@@ -280,12 +284,12 @@
      -470
     ],
     [
-     2526,
-     -459
-    ],
-    [
      2525,
      -474
+    ],
+    [
+     2526,
+     -458
     ],
     [
      2528,
@@ -296,12 +300,12 @@
      -469
     ],
     [
-     2526,
-     -458
-    ],
-    [
      2525,
      -475
+    ],
+    [
+     2526,
+     -457
     ],
     [
      2528,
@@ -310,10 +314,6 @@
     [
      2530,
      -468
-    ],
-    [
-     2526,
-     -457
     ],
     [
      2524,
@@ -420,12 +420,12 @@
      -468
     ],
     [
-     2525,
-     -469
-    ],
-    [
      2526,
      -463
+    ],
+    [
+     2525,
+     -469
     ],
     [
      2526,
@@ -436,12 +436,12 @@
      -470
     ],
     [
-     2525,
-     -471
-    ],
-    [
      2526,
      -461
+    ],
+    [
+     2525,
+     -471
     ],
     [
      2526,
@@ -460,20 +460,20 @@
      -465
     ],
     [
-     2525,
-     -466
-    ],
-    [
      2526,
      -466
     ],
     [
      2525,
-     -467
+     -466
     ],
     [
      2526,
      -465
+    ],
+    [
+     2525,
+     -467
     ],
     [
      2523,
@@ -512,7 +512,16 @@
      -475
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -5,
+       -398
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -542,16 +551,20 @@
    {
     "name": "yosinari7",
     "uuid": "ae647a5f-854a-4748-909f-54d640cdd810"
+   },
+   {
+    "name": "grqnite",
+    "uuid": "32dc2f10-f5ce-4fe8-8885-dbbc74c09bfd"
+   },
+   {
+    "name": "H4mYT",
+    "uuid": "85e7a249-079f-4baa-9e34-21522883adca"
    }
   ],
   "trusted": [
    {
     "name": "hemaFf",
     "uuid": "36787a4f-de86-4bec-a6f5-4d8179cab363"
-   },
-   {
-    "name": "yuma_mc",
-    "uuid": "f189ea95-69da-4b3f-8305-9288228877ff"
    },
    {
     "name": "brooo321321",
@@ -564,6 +577,10 @@
    {
     "name": "Sqmurqi",
     "uuid": "829f45c8-72f8-44d8-96bd-b313f40e6d09"
+   },
+   {
+    "name": "grqnite",
+    "uuid": "32dc2f10-f5ce-4fe8-8885-dbbc74c09bfd"
    }
   ],
   "outlaws": [

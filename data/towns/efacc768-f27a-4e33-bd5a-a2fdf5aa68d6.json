@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-20T11:48:31Z",
  "data": {
   "name": "Acolyte_Empire",
   "uuid": "efacc768-f27a-4e33-bd5a-a2fdf5aa68d6",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 2.0,
@@ -116,8 +116,16 @@
   },
   "residents": [
    {
+    "name": "byyVoid9kv",
+    "uuid": "19996f07-f6f1-4795-86a7-4018e71180fc"
+   },
+   {
     "name": "junmo2010321",
     "uuid": "d81eedce-d3c9-4c08-b7fe-afef7100d5d8"
+   },
+   {
+    "name": "GonzoYT",
+    "uuid": "bc2be252-ce61-4957-a84b-6be49a205388"
    }
   ],
   "trusted": [
@@ -129,7 +137,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "byyVoid9kv",
+     "uuid": "19996f07-f6f1-4795-86a7-4018e71180fc"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
