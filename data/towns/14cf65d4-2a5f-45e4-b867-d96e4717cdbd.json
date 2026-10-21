@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Xuanwumen",
   "uuid": "14cf65d4-2a5f-45e4-b867-d96e4717cdbd",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 22,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 38989.26621633233,
+    "x": 38972.5,
     "y": 86.0,
-    "z": -5283.326433694138,
-    "pitch": 32.161156,
-    "yaw": -90.8262
+    "z": -5286.5,
+    "pitch": 44.394806,
+    "yaw": -1.5408936
    },
    "homeBlock": [
-    2436,
+    2435,
     -331
    ],
    "townBlocks": [
@@ -186,13 +186,27 @@
    {
     "name": "rigSPriNg",
     "uuid": "3378df5b-4ed3-47ae-8ca0-2bb6acd7ffab"
+   },
+   {
+    "name": "Hoshino_Shinnako",
+    "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Hoshino_Shinnako",
+    "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Hoshino_Shinnako",
+     "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

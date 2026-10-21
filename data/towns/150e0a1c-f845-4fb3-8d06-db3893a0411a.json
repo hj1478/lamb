@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Tahuna",
   "uuid": "150e0a1c-f845-4fb3-8d06-db3893a0411a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "tappuu",
-   "uuid": "a4e66703-f6a7-4f6e-96f1-71c9b77aeffa"
+   "name": "NPC47",
+   "uuid": "0a07b1cf-e3db-207e-bd92-b95a03547ba5"
   },
   "nation": {
-   "name": "Micronesia",
-   "uuid": "478aa4e0-e72d-441e-a2f1-0e543f41cb5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783722211609,
-   "joinedNationAt": 1783722233209,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792404002576
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -240,8 +240,8 @@
   },
   "residents": [
    {
-    "name": "tappuu",
-    "uuid": "a4e66703-f6a7-4f6e-96f1-71c9b77aeffa"
+    "name": "NPC47",
+    "uuid": "0a07b1cf-e3db-207e-bd92-b95a03547ba5"
    }
   ],
   "trusted": [

@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
-  "name": "Chiayi",
+  "name": "Apple",
   "uuid": "03a8436b-34b2-455c-b03c-353213a4dbba",
   "board": "The Phantom of the Opera is there...inside your mind",
   "founder": "DoOoOonguri",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776490988965,
-   "joinedNationAt": 1791781329105,
+   "joinedNationAt": 1792313019821,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 6,
-   "numTrusted": 14,
+   "numTrusted": 15,
    "numOutlaws": 9,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,23 +72,23 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43168.442531241126,
+    "x": 43170.776494489866,
     "y": 64.0,
-    "z": -546.5180150562254,
-    "pitch": 80.25012,
-    "yaw": -57.313324
+    "z": -562.0621532929991,
+    "pitch": 14.400042,
+    "yaw": -104.28035
    },
    "homeBlock": [
     2698,
-    -35
+    -36
    ],
    "townBlocks": [
     [
@@ -116,16 +116,16 @@
      -39
     ],
     [
+     2696,
+     -29
+    ],
+    [
      2697,
      -35
     ],
     [
      2699,
      -42
-    ],
-    [
-     2696,
-     -29
     ],
     [
      2696,
@@ -576,6 +576,10 @@
    {
     "name": "LiZekaiii",
     "uuid": "1589b4fe-c8aa-4674-af8d-3f709d10b8e0"
+   },
+   {
+    "name": "sam16784",
+    "uuid": "2fd587ce-049f-4330-b2a2-0119b1d7b0dc"
    },
    {
     "name": "Cuohg",

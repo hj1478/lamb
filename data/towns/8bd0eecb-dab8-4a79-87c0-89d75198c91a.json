@@ -1,0 +1,137 @@
+{
+ "fetched_at": "2026-10-21T11:59:58Z",
+ "data": {
+  "name": "Limbo",
+  "uuid": "8bd0eecb-dab8-4a79-87c0-89d75198c91a",
+  "board": "/town set board [msg]",
+  "founder": "Klenfy_",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Klenfy_",
+   "uuid": "8c1a8a18-2f7d-4e18-88b8-5b0313c18f34"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792581237716,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 59143.20533670181,
+    "y": 62.0,
+    "z": -16526.553899448867,
+    "pitch": 25.500101,
+    "yaw": 160.08246
+   },
+   "homeBlock": [
+    3696,
+    -1033
+   ],
+   "townBlocks": [
+    [
+     3696,
+     -1033
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Klenfy_",
+    "uuid": "8c1a8a18-2f7d-4e18-88b8-5b0313c18f34"
+   },
+   {
+    "name": "MajinMagik",
+    "uuid": "6bc1b7e2-55ce-4667-83b0-9e9682502f60"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "MajinMagik",
+    "uuid": "6bc1b7e2-55ce-4667-83b0-9e9682502f60"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "MajinMagik",
+     "uuid": "6bc1b7e2-55ce-4667-83b0-9e9682502f60"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

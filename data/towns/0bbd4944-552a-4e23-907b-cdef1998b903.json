@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Brno",
   "uuid": "0bbd4944-552a-4e23-907b-cdef1998b903",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 44,
-   "maxTownBlocks": 206,
+   "numTownBlocks": 52,
+   "maxTownBlocks": 266,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 13,
+   "numResidents": 18,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1666.0,
+   "balance": 1685.0,
    "forSalePrice": null
   },
   "perms": {
@@ -116,19 +116,51 @@
      -694
     ],
     [
-     371,
-     -694
-    ],
-    [
      373,
      -696
     ],
     [
-     371,
+     373,
      -695
     ],
     [
-     373,
+     370,
+     -701
+    ],
+    [
+     370,
+     -699
+    ],
+    [
+     370,
+     -700
+    ],
+    [
+     370,
+     -694
+    ],
+    [
+     370,
+     -697
+    ],
+    [
+     370,
+     -698
+    ],
+    [
+     370,
+     -695
+    ],
+    [
+     370,
+     -696
+    ],
+    [
+     371,
+     -694
+    ],
+    [
+     371,
      -695
     ],
     [
@@ -176,48 +208,32 @@
      -698
     ],
     [
-     370,
-     -701
-    ],
-    [
-     370,
-     -699
-    ],
-    [
-     370,
-     -700
-    ],
-    [
      369,
      -698
     ],
     [
      369,
-     -700
-    ],
-    [
-     369,
-     -699
-    ],
-    [
-     370,
-     -694
-    ],
-    [
-     370,
      -697
     ],
     [
-     370,
+     376,
      -698
     ],
     [
-     370,
-     -695
+     369,
+     -700
     ],
     [
-     370,
-     -696
+     369,
+     -699
+    ],
+    [
+     369,
+     -701
+    ],
+    [
+     374,
+     -701
     ],
     [
      371,
@@ -228,12 +244,16 @@
      -699
     ],
     [
+     371,
+     -701
+    ],
+    [
      374,
      -700
     ],
     [
-     371,
-     -701
+     374,
+     -697
     ],
     [
      374,
@@ -257,11 +277,23 @@
     ],
     [
      375,
+     -697
+    ],
+    [
+     375,
      -698
     ],
     [
      375,
      -699
+    ],
+    [
+     375,
+     -700
+    ],
+    [
+     375,
+     -701
     ]
    ],
    "worlds": {
@@ -327,11 +359,84 @@
    {
     "name": "Slavokostar",
     "uuid": "d7be4841-f1fd-4a14-8d8d-82df37f9710f"
+   },
+   {
+    "name": "Olywer37",
+    "uuid": "7b1ed774-4f3e-4ff9-ad0f-26e9078b4450"
+   },
+   {
+    "name": "MMAHumli",
+    "uuid": "9f2f4ff9-b60b-4409-8bbf-fc9f0203da91"
+   },
+   {
+    "name": "kocourSFSMC",
+    "uuid": "d2fc56dd-5308-4fb2-8da4-e7bea1ddbf30"
+   },
+   {
+    "name": "Habule",
+    "uuid": "b95d0681-c899-4374-8ce7-4867855f227f"
+   },
+   {
+    "name": "NastyTheGreasy",
+    "uuid": "6fe59083-dd76-4ab1-961f-024512e7de53"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Apartment#07",
+    "uuid": "a86e2ab9-86e9-4bbc-9bcd-966c738d0f7d"
+   },
+   {
+    "name": "Apartment#08",
+    "uuid": "fe3aa355-d4b6-45f0-bf2b-ff071d41363c"
+   },
+   {
+    "name": "Apartmen#09",
+    "uuid": "9739fb25-951a-48ef-9114-4d79d9fe3c20"
+   },
+   {
+    "name": "Apartment#10",
+    "uuid": "3ca002cb-f05e-4511-82b5-22d03bfa1e5f"
+   },
+   {
+    "name": "Apartment#11",
+    "uuid": "04e53465-1552-4a8c-bee8-d9133760522b"
+   },
+   {
+    "name": "Apartmen#12",
+    "uuid": "838a8647-65e0-4cd0-b439-4ad2ab5d068d"
+   },
+   {
+    "name": "Apartment#06",
+    "uuid": "2ddeb4ce-337f-4a24-a4e0-6f0d19ada63d"
+   },
+   {
+    "name": "Apartment#05",
+    "uuid": "cf1e3687-0247-4889-8a4f-fc73ae987b21"
+   },
+   {
+    "name": "Apartment#04",
+    "uuid": "4ca5fc5f-9dfb-4396-8306-481dab0e132c"
+   },
+   {
+    "name": "Apartment#03",
+    "uuid": "9bd77267-c76d-4278-bb94-735fb9340778"
+   },
+   {
+    "name": "Apartment#02",
+    "uuid": "1ba1b27e-b490-4328-9e88-3020501f85d6"
+   },
+   {
+    "name": "Apartment#01",
+    "uuid": "e9032590-bb04-4d18-94da-5e4930cfc198"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "0d650ed6-5ff0-4262-a1d8-276a5b830073"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {
@@ -343,7 +448,12 @@
      "uuid": "dd98ad9b-187e-4d08-92b2-34873766cd8a"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Olywer37",
+     "uuid": "7b1ed774-4f3e-4ff9-ad0f-26e9078b4450"
+    }
+   ],
    "Recruiter": [
     {
      "name": "White_Monster123",
@@ -354,6 +464,10 @@
     {
      "name": "White_Monster123",
      "uuid": "66a2b7c0-522f-48c1-b4b0-4069de354f68"
+    },
+    {
+     "name": "Olywer37",
+     "uuid": "7b1ed774-4f3e-4ff9-ad0f-26e9078b4450"
     }
    ],
    "Tax-exempt": [],

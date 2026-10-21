@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Kecskemet",
   "uuid": "0ad58ed6-aead-43a2-a4d5-24941f385a73",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 54.0,
@@ -158,6 +158,10 @@
    {
     "name": "Kn69ght",
     "uuid": "a162a737-ab35-4379-b53c-3e75198ba7fa"
+   },
+   {
+    "name": "GrandLordKnight",
+    "uuid": "aac2588b-7eeb-4ece-ad3d-010c2a9d9c30"
    }
   ],
   "trusted": [

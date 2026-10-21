@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Buckhead_Ridge",
   "uuid": "18a51820-c56a-4735-8b32-d3e0b603066f",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 22,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 16.0,
    "forSalePrice": null
@@ -184,6 +184,10 @@
   },
   "residents": [
    {
+    "name": "ecoust",
+    "uuid": "42c26dd5-4762-48ec-a30a-6fe271fe6ce0"
+   },
+   {
     "name": "Bruno0929",
     "uuid": "8a37f95d-472e-45c2-8f06-bb0e59ef9bc7"
    }
@@ -192,6 +196,10 @@
    {
     "name": "xTheWardenx",
     "uuid": "099af2f1-9ed3-4343-b701-7538739c343c"
+   },
+   {
+    "name": "ecoust",
+    "uuid": "42c26dd5-4762-48ec-a30a-6fe271fe6ce0"
    }
   ],
   "outlaws": [
@@ -208,7 +216,12 @@
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "ecoust",
+     "uuid": "42c26dd5-4762-48ec-a30a-6fe271fe6ce0"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

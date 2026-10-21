@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Chennai",
   "uuid": "141a9856-6e67-4c20-8938-86b76414edc0",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 5,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numResidents": 8,
+   "numTrusted": 7,
+   "numOutlaws": 1,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,28 +92,12 @@
    ],
    "townBlocks": [
     [
-     1794,
-     212
-    ],
-    [
-     1794,
-     213
-    ],
-    [
      1795,
      210
     ],
     [
-     1794,
-     214
-    ],
-    [
      1795,
      211
-    ],
-    [
-     1794,
-     215
     ],
     [
      1795,
@@ -128,15 +112,7 @@
      214
     ],
     [
-     1794,
-     211
-    ],
-    [
      1795,
-     215
-    ],
-    [
-     1796,
      215
     ],
     [
@@ -144,16 +120,52 @@
      216
     ],
     [
-     1797,
+     1793,
+     215
+    ],
+    [
+     1793,
+     216
+    ],
+    [
+     1793,
+     217
+    ],
+    [
+     1794,
+     212
+    ],
+    [
+     1794,
+     213
+    ],
+    [
+     1794,
+     214
+    ],
+    [
+     1794,
+     215
+    ],
+    [
+     1794,
      211
     ],
     [
      1797,
-     212
+     211
+    ],
+    [
+     1796,
+     215
     ],
     [
      1796,
      214
+    ],
+    [
+     1797,
+     212
     ],
     [
      1796,
@@ -170,6 +182,10 @@
     [
      1794,
      216
+    ],
+    [
+     1794,
+     217
     ],
     [
      1797,
@@ -210,6 +226,14 @@
    {
     "name": "Danny_362",
     "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
+   },
+   {
+    "name": "flitzerblitz",
+    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+   },
+   {
+    "name": "Minnonsme",
+    "uuid": "72fe9dda-f640-4cd3-a05e-a4e4e0f2375f"
    }
   ],
   "trusted": [
@@ -230,14 +254,32 @@
     "uuid": "a4ba77db-d842-41ce-ac8e-7505eef0eb60"
    },
    {
-    "name": "Tommydrummer78",
-    "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+    "name": "flitzerblitz",
+    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+   },
+   {
+    "name": "_Melix_",
+    "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
+   },
+   {
+    "name": "Danny_362",
+    "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "vodx_op",
+    "uuid": "8358008e-67ac-498a-9dde-24c9dc294da9"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "flitzerblitz",
+     "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+    }
+   ],
    "Builder": [
     {
      "name": "karl_pro_max300",

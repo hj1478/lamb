@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "GOLDEN_TOWN",
   "uuid": "0a551dfa-d935-448b-9660-7775754352b8",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DRpellgg",
-   "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   "name": "Captain_Orin",
+   "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Uzbekistan",
+   "uuid": "21e7f3c4-a4d2-4b30-a790-550d87505d9b"
   },
   "timestamps": {
    "registered": 1784422807600,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792156651206,
    "ruinedAt": null
   },
   "status": {
@@ -25,47 +25,47 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 35,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 1,
-   "numOutlaws": 2,
-   "balance": 13.0,
+   "nationBonus": 10,
+   "numResidents": 1,
+   "numTrusted": 3,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "destroy": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
@@ -73,21 +73,21 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 21036.584664478065,
-    "y": 63.0,
-    "z": -7543.646026680964,
-    "pitch": 45.750004,
-    "yaw": -23.849854
+    "x": 21048.01659997852,
+    "y": 71.0,
+    "z": -7550.699999988079,
+    "pitch": 2.0410447,
+    "yaw": 0.29724044
    },
    "homeBlock": [
-    1314,
+    1315,
     -472
    ],
    "townBlocks": [
@@ -236,26 +236,22 @@
   },
   "residents": [
    {
-    "name": "DRpellgg",
-    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
-   },
-   {
-    "name": "itam324",
-    "uuid": "b9eb8065-e764-4565-b201-128b712c9e92"
-   },
-   {
-    "name": "tanimod",
-    "uuid": "7bc2f62f-5b6f-43cf-9a8c-f47c6f8c2522"
-   },
-   {
-    "name": "01elbruiro01",
-    "uuid": "ec154e8d-a073-44e5-b25e-5010cd2f6d65"
+    "name": "Captain_Orin",
+    "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
    }
   ],
   "trusted": [
    {
-    "name": "__lazii",
-    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+    "name": "Erilsky",
+    "uuid": "3fedef8f-cd33-48d5-a68c-0041eaa14b4e"
+   },
+   {
+    "name": "Captain_Orin",
+    "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
+   },
+   {
+    "name": "Nemo_025",
+    "uuid": "950c4097-b661-4069-bbf0-69bacb5dfe2e"
    }
   ],
   "outlaws": [
@@ -266,6 +262,34 @@
    {
     "name": "AprilPasxas",
     "uuid": "be1856a9-0dde-4cc0-a69b-7c305441d438"
+   },
+   {
+    "name": "tanimod",
+    "uuid": "7bc2f62f-5b6f-43cf-9a8c-f47c6f8c2522"
+   },
+   {
+    "name": "__lazii",
+    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   },
+   {
+    "name": "yaaasuo",
+    "uuid": "86aa2439-b447-43de-8a28-03139d2fbeb9"
+   },
+   {
+    "name": "SkelkoWeltens",
+    "uuid": "0a417920-8bcd-48bf-840a-05fd9206a367"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "s___h___u",
+    "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
+   },
+   {
+    "name": "Majestic_rat",
+    "uuid": "81caef3c-84a8-464d-b539-5c56535b93a7"
    }
   ],
   "quarters": [],

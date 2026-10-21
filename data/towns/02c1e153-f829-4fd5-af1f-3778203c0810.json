@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Stroldfan",
   "uuid": "02c1e153-f829-4fd5-af1f-3778203c0810",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "GoldenTreaty",
-   "uuid": "0f1f8bcf-1e02-4c45-97ea-0139cb09c952"
+   "name": "NPC21",
+   "uuid": "22624aff-0bfc-20ff-8fcc-4ba82813cb14"
   },
   "nation": {
-   "name": "Turkey",
-   "uuid": "7e3c0759-0013-44c5-86f0-eba5ca731153"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787404212671,
-   "joinedNationAt": 1788900580554,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792576802069
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": true,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "GoldenTreaty",
-    "uuid": "0f1f8bcf-1e02-4c45-97ea-0139cb09c952"
+    "name": "NPC21",
+    "uuid": "22624aff-0bfc-20ff-8fcc-4ba82813cb14"
    }
   ],
   "trusted": [],

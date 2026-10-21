@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T14:21:19Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Manxmen",
   "uuid": "00cbb33b-a86e-44a3-89c4-5ec9ded1e035",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -148,6 +148,10 @@
   },
   "residents": [
    {
+    "name": "Exooticcc",
+    "uuid": "97609c04-f84b-4ee6-82b0-b18faa2beffc"
+   },
+   {
     "name": "Funcoder2057",
     "uuid": "cfd8bc12-8125-490c-8393-b1436e7a2ee6"
    }
@@ -166,7 +170,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Exooticcc",
+     "uuid": "97609c04-f84b-4ee6-82b0-b18faa2beffc"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

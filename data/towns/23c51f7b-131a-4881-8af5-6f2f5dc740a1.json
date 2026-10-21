@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Puerto_Argentino",
   "uuid": "23c51f7b-131a-4881-8af5-6f2f5dc740a1",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 66,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 1399.0,
+   "numOutlaws": 1,
+   "balance": 1441.0,
    "forSalePrice": null
   },
   "perms": {
@@ -364,6 +364,10 @@
     "uuid": "fa5f1e45-7538-4d27-b4bc-b99182f6f441"
    },
    {
+    "name": "CutestAngelGirl",
+    "uuid": "20a9d0fb-f7f8-43d6-8c23-7ce5bd1844fe"
+   },
+   {
     "name": "Bikbot_YT",
     "uuid": "e4c60e8f-3204-4356-8e97-c6d13efeee18"
    }
@@ -379,10 +383,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Siegfried_A_Mord",
-    "uuid": "56f8134c-debb-464a-8029-2b53c43778a6"
-   },
    {
     "name": "Tekp",
     "uuid": "edfeeb6f-38f5-442b-b277-36c2a362e671"
@@ -403,7 +403,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "CutestAngelGirl",
+     "uuid": "20a9d0fb-f7f8-43d6-8c23-7ce5bd1844fe"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

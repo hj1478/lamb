@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Obristan",
   "uuid": "1514e5b0-36bf-4376-823b-4f435c5a68f9",
-  "board": "Home to Georgias first Arbys",
+  "board": "In order to confuse your enemy, you must confuse yourself.",
   "founder": "TheRealPotatoGuy",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheRealPotatoGuy",
-   "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
+   "name": "BsidesThat",
+   "uuid": "4a84b7c9-7de9-4f5c-bfb1-dd028cd79e19"
   },
   "nation": {
    "name": "Georgia",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 49,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
-   "numOutlaws": 11,
-   "balance": 32.0,
+   "numResidents": 4,
+   "numTrusted": 2,
+   "numOutlaws": 8,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -292,19 +292,27 @@
   },
   "residents": [
    {
-    "name": "TheRealPotatoGuy",
-    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
-   },
-   {
     "name": "Its_AstridDuh",
     "uuid": "f202c154-91a6-49ab-b82f-0c39b94d48c0"
    },
    {
     "name": "Kairoglyphixx",
     "uuid": "e8a41a89-f37a-4ff9-b8b6-bd3ae135cafc"
+   },
+   {
+    "name": "BsidesThat",
+    "uuid": "4a84b7c9-7de9-4f5c-bfb1-dd028cd79e19"
+   },
+   {
+    "name": "CWVRANAK",
+    "uuid": "17b16902-ab55-4187-a55f-72a7af72dc94"
    }
   ],
   "trusted": [
+   {
+    "name": "TheRealPotatoGuy",
+    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
+   },
    {
     "name": "BsidesThat",
     "uuid": "4a84b7c9-7de9-4f5c-bfb1-dd028cd79e19"
@@ -316,24 +324,12 @@
     "uuid": "df3fbaf6-1d3d-44a9-b937-bcc4aa34b247"
    },
    {
-    "name": "dymoslaw",
-    "uuid": "7e601040-9069-457a-8d55-5fd04db9f253"
-   },
-   {
     "name": "DisasterRoyal346",
     "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
    },
    {
     "name": "DoomsdayTbot",
     "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
-   },
-   {
-    "name": "seal0uette",
-    "uuid": "2c6849de-85ac-4f9f-aaab-eb2c8396cf7e"
-   },
-   {
-    "name": "akabur",
-    "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
    },
    {
     "name": "ARTHUR_MORGAN218",
@@ -376,10 +372,23 @@
    {
     "name": "Second_Floor",
     "uuid": "615f129d-a314-4728-b722-a92b8c9cd539"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "458a8c15-2ea9-49f3-b39d-8af493efee52"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "49ea9361-69ea-4e41-a1ed-b6b4415989e4"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BsidesThat",
+     "uuid": "4a84b7c9-7de9-4f5c-bfb1-dd028cd79e19"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

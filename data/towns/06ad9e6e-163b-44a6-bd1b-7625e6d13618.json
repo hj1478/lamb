@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Blancquefort",
   "uuid": "06ad9e6e-163b-44a6-bd1b-7625e6d13618",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 157,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 6,
    "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 123.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -736,10 +736,6 @@
     "uuid": "e478168a-f5c1-45fd-8c78-b54dcad1e3ee"
    },
    {
-    "name": "DumbledoreTheArc",
-    "uuid": "9735982e-c099-4dd7-a54a-61efbd732ef5"
-   },
-   {
     "name": "SalmonEntity",
     "uuid": "5a50d777-8491-44be-a62e-8e0724f3b6a5"
    },
@@ -785,12 +781,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "DumbledoreTheArc",
-     "uuid": "9735982e-c099-4dd7-a54a-61efbd732ef5"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
@@ -799,20 +790,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "roof",
-    "uuid": "66fea8ab-c661-4f70-bda3-3ac63a2ad13e",
-    "createdAt": 1788946566506,
-    "createdBy": "Mystikaosss",
-    "access": "RESIDENT",
-    "location": {
-     "x": -110,
-     "y": 132,
-     "z": -9352
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

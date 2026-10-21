@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Managua",
   "uuid": "09552fae-8772-48b5-9bba-f43244c1f992",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 1.0,
+   "nationBonus": 10,
+   "numResidents": 2,
+   "numTrusted": 1,
+   "numOutlaws": 2,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30916.68686835485,
+    "x": -30954.652839216564,
     "y": 63.0,
-    "z": 3627.752941605033,
-    "pitch": 6.2999916,
-    "yaw": -171.48553
+    "z": 3589.3134425460858,
+    "pitch": 28.349834,
+    "yaw": -26.88623
    },
    "homeBlock": [
-    -1933,
-    226
+    -1935,
+    224
    ],
    "townBlocks": [
     [
@@ -116,16 +116,28 @@
      228
     ],
     [
+     -1934,
+     228
+    ],
+    [
+     -1934,
+     227
+    ],
+    [
+     -1934,
+     226
+    ],
+    [
+     -1934,
+     225
+    ],
+    [
+     -1934,
+     224
+    ],
+    [
      -1930,
      226
-    ],
-    [
-     -1933,
-     226
-    ],
-    [
-     -1933,
-     227
     ],
     [
      -1930,
@@ -136,7 +148,79 @@
      227
     ],
     [
+     -1935,
+     225
+    ],
+    [
+     -1935,
+     224
+    ],
+    [
+     -1935,
+     227
+    ],
+    [
+     -1935,
+     226
+    ],
+    [
+     -1935,
+     228
+    ],
+    [
+     -1936,
+     226
+    ],
+    [
+     -1936,
+     227
+    ],
+    [
+     -1937,
+     225
+    ],
+    [
+     -1929,
+     226
+    ],
+    [
+     -1929,
+     227
+    ],
+    [
+     -1929,
+     228
+    ],
+    [
+     -1936,
+     224
+    ],
+    [
+     -1936,
+     225
+    ],
+    [
      -1933,
+     226
+    ],
+    [
+     -1933,
+     227
+    ],
+    [
+     -1933,
+     228
+    ],
+    [
+     -1928,
+     226
+    ],
+    [
+     -1928,
+     227
+    ],
+    [
+     -1928,
      228
     ]
    ],
@@ -146,10 +230,28 @@
    {
     "name": "HUGE_STINKER_",
     "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
+   },
+   {
+    "name": "Nixonias",
+    "uuid": "0c67f440-b484-4cc4-8423-d009e790ecaa"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "jamari_aymara23",
+    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Hashifyed",
+    "uuid": "61ce18ae-d216-4c98-a82e-4e876928af36"
+   },
+   {
+    "name": "Reagan951",
+    "uuid": "c34f37f7-7d21-4058-8afd-324499bbda96"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

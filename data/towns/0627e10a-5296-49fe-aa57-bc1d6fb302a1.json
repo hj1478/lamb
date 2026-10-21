@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "The_Citadelle",
   "uuid": "0627e10a-5296-49fe-aa57-bc1d6fb302a1",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
+   "numTownBlocks": 23,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 200.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,10 +92,42 @@
    ],
    "townBlocks": [
     [
+     1853,
+     -170
+    ],
+    [
+     1853,
+     -171
+    ],
+    [
+     1853,
+     -172
+    ],
+    [
+     1853,
+     -173
+    ],
+    [
+     1852,
+     -172
+    ],
+    [
+     1853,
+     -174
+    ],
+    [
      1854,
      -173
     ],
     [
+     1852,
+     -171
+    ],
+    [
+     1854,
+     -174
+    ],
+    [
      1857,
      -172
     ],
@@ -118,6 +150,10 @@
     [
      1855,
      -171
+    ],
+    [
+     1855,
+     -170
     ],
     [
      1856,
@@ -142,6 +178,10 @@
     [
      1854,
      -172
+    ],
+    [
+     1854,
+     -170
     ]
    ],
    "worlds": {}

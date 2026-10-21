@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Huesca",
   "uuid": "09a3260d-725c-41b0-a60b-0569393c37cc",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 40.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -119.16492303729339,
-    "y": 77.0,
-    "z": -7996.770457699147,
-    "pitch": 22.176485,
-    "yaw": -14.841614
+    "x": -143.06360852436484,
+    "y": 74.0,
+    "z": -7990.943148062265,
+    "pitch": 33.426594,
+    "yaw": 59.7085
    },
    "homeBlock": [
-    -8,
+    -9,
     -500
    ],
    "townBlocks": [
@@ -576,10 +576,6 @@
     "uuid": "14d3f9df-02ab-43e2-b152-340a46f61230"
    },
    {
-    "name": "TENGRISTSUPRA",
-    "uuid": "3c9aee58-46e7-4aad-934a-813951eda5ec"
-   },
-   {
     "name": "_quincy_king_",
     "uuid": "c7d19051-46a4-4428-88ba-ec1b5de158cc"
    },
@@ -598,6 +594,10 @@
    {
     "name": "Schmiit",
     "uuid": "9f32de38-0939-480c-8308-dfb15341f3f2"
+   },
+   {
+    "name": "aritzgp",
+    "uuid": "9d315273-ff40-4fa6-9a6a-cf3d98846570"
    }
   ],
   "trusted": [],
@@ -649,12 +649,12 @@
     "uuid": "d80d058b-223b-4b6a-b79d-d181a82f3592"
    },
    {
-    "name": "Lovely Suite",
-    "uuid": "4224cd73-e655-40cb-9e54-cc3f2c87efd9"
-   },
-   {
     "name": "Luxurious Quarter",
     "uuid": "4c5f5539-ee72-4de8-a294-5330fb2e5296"
+   },
+   {
+    "name": "Lovely Suite",
+    "uuid": "4224cd73-e655-40cb-9e54-cc3f2c87efd9"
    }
   ],
   "ranks": {

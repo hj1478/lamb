@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Oates_City",
   "uuid": "1fb61c3c-805f-4aa3-bfe7-71c1259f3f6c",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 107.0,
+   "balance": 70.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,11 +92,51 @@
    ],
    "townBlocks": [
     [
+     3622,
+     1986
+    ],
+    [
+     3622,
+     1985
+    ],
+    [
+     3623,
+     1987
+    ],
+    [
+     3622,
+     1987
+    ],
+    [
+     3623,
+     1985
+    ],
+    [
+     3623,
+     1986
+    ],
+    [
+     3622,
+     1984
+    ],
+    [
+     3623,
+     1984
+    ],
+    [
+     3624,
+     1986
+    ],
+    [
+     3624,
+     1987
+    ],
+    [
      3621,
      1985
     ],
     [
-     3622,
+     3624,
      1985
     ]
    ],
@@ -108,9 +148,19 @@
     "uuid": "6dfb6b87-4f01-411d-87dd-f8290d3c27b0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "S4lz_",
+    "uuid": "7a668a59-7d9b-4fb9-b22d-f28830376d0b"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dull Quarter",
+    "uuid": "9b309b0c-d2eb-43d8-9b1b-433a09ad30a5"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

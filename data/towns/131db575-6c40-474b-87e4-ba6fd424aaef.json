@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Incheon",
   "uuid": "131db575-6c40-474b-87e4-ba6fd424aaef",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "isoroku16",
-   "uuid": "fd98f6f6-16aa-432b-b3a3-342aed39ce07"
+   "name": "NPC62",
+   "uuid": "a4372357-67aa-2069-a017-fdbf3ca097a8"
   },
   "nation": {
-   "name": "Korea",
-   "uuid": "3df5dfbc-0e70-48f6-8167-f7e335352d60"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777984106958,
-   "joinedNationAt": 1777984478679,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792404004391
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,55 +36,55 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45417.03279946296,
+    "x": 45414.58056871691,
     "y": 64.0,
-    "z": -6070.500997365012,
-    "pitch": 2.8499546,
-    "yaw": 178.19505
+    "z": -6070.661698196885,
+    "pitch": 0.15075907,
+    "yaw": 177.8789
    },
    "homeBlock": [
     2838,
@@ -160,28 +160,11 @@
   },
   "residents": [
    {
-    "name": "Sir_Atom",
-    "uuid": "316395d5-be1b-4617-a9c2-08366ed63ce2"
-   },
-   {
-    "name": "isoroku16",
-    "uuid": "fd98f6f6-16aa-432b-b3a3-342aed39ce07"
-   },
-   {
-    "name": "Gil_Han",
-    "uuid": "d135cb76-d93c-4e3a-96df-28e23cb8191d"
+    "name": "NPC62",
+    "uuid": "a4372357-67aa-2069-a017-fdbf3ca097a8"
    }
   ],
-  "trusted": [
-   {
-    "name": "Kihwa",
-    "uuid": "c67b96a4-4770-4b1b-b2f2-969956a80c4c"
-   },
-   {
-    "name": "Qorrin",
-    "uuid": "dd8114c7-df72-4c09-8387-a51f9b85f30b"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

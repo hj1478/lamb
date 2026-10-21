@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Mergopolis",
   "uuid": "0fd56386-b88d-4458-9814-2be37b222a1e",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 146,
-   "maxTownBlocks": 106,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 8,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -712,7 +712,12 @@
     "uuid": "9b3c099f-fc80-4a36-8ac4-426760e4a6be"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Best_Papa",
+    "uuid": "9ee651c8-d435-4e91-a75c-688c2eeb5c11"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {
@@ -1033,7 +1038,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Best_Papa",
+     "uuid": "9ee651c8-d435-4e91-a75c-688c2eeb5c11"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

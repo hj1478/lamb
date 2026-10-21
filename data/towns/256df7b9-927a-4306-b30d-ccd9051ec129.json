@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Kingsbay",
   "uuid": "256df7b9-927a-4306-b30d-ccd9051ec129",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "miner553",
-   "uuid": "ccd35f1e-0c05-49a7-a329-8840e18feb2e"
+   "name": "NPC113",
+   "uuid": "2226d84f-fb65-20f4-aba1-ecceeac3e17c"
   },
   "nation": {
-   "name": "Madagascar",
-   "uuid": "44f40831-d34f-49e0-a166-46401ad604c4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780878661025,
-   "joinedNationAt": 1780878729925,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792415992631
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 92,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 4,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 2,
-   "balance": 236.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -464,20 +464,8 @@
   },
   "residents": [
    {
-    "name": "miner553",
-    "uuid": "ccd35f1e-0c05-49a7-a329-8840e18feb2e"
-   },
-   {
-    "name": "RCBladez",
-    "uuid": "c7660f48-b82c-4cbc-9e43-9bc5fac7cbc4"
-   },
-   {
-    "name": "FFJerry23",
-    "uuid": "6b7f8d11-15b5-4604-acda-4f0a5875f6a9"
-   },
-   {
-    "name": "s___h___u",
-    "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
+    "name": "NPC113",
+    "uuid": "2226d84f-fb65-20f4-aba1-ecceeac3e17c"
    }
   ],
   "trusted": [

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Clockwork",
   "uuid": "0165a2de-bee0-4ba5-a714-8d62b253f83f",
-  "board": "trading hall building finished",
+  "board": "scrapped arpartment ideas, working on more plots",
   "founder": "Timemonster5000",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 13,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 2,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -91,6 +91,10 @@
     -633
    ],
    "townBlocks": [
+    [
+     -1215,
+     -632
+    ],
     [
      -1215,
      -633
@@ -157,6 +161,10 @@
    {
     "name": "Greaseball_69",
     "uuid": "23e99b51-6b4c-4cec-b2e2-6e99b72086a6"
+   },
+   {
+    "name": "combfy",
+    "uuid": "fc1f0d0b-c3fe-4cac-a1f4-ea3671ff8492"
    }
   ],
   "quarters": [],

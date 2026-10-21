@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Chkrs_Crib",
   "uuid": "1c2fc457-5121-4277-a9a8-0bc1d8c449ea",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 156.0,
+   "balance": 141.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -20352.086427561295,
-    "y": 63.0,
-    "z": 20938.80658091413,
-    "pitch": 23.579859,
-    "yaw": 57.77307
+    "x": -20306.231455149413,
+    "y": 38.0,
+    "z": 20928.052836912295,
+    "pitch": 20.836584,
+    "yaw": 100.98111
    },
    "homeBlock": [
-    -1273,
+    -1270,
     1308
    ],
    "townBlocks": [
@@ -236,6 +236,10 @@
    {
     "name": "DrYeetSir",
     "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   },
+   {
+    "name": "CTM0029",
+    "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
    }
   ],
   "outlaws": [],

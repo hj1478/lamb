@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Gora_Kalwaria",
   "uuid": "0a77d378-4bec-4996-8a00-fdd1e9108fb7",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 56,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 11.0,
+   "balance": 67.0,
    "forSalePrice": null
   },
   "perms": {
@@ -324,6 +324,10 @@
     "uuid": "5935ed50-4471-4477-bfb5-0d79b0518e09"
    },
    {
+    "name": "tha_cultist",
+    "uuid": "587e37c7-b579-4d9e-b2ac-c10c5bb65486"
+   },
+   {
     "name": "EnchantedSraka15",
     "uuid": "dd24bdc3-ea72-44c0-81fe-3e36b7fc78c1"
    }
@@ -412,7 +416,12 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "tha_cultist",
+     "uuid": "587e37c7-b579-4d9e-b2ac-c10c5bb65486"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

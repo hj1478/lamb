@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Tokchon",
   "uuid": "025ed6a9-bfa5-4b0c-a66d-345aad1b2563",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 90,
-   "maxTownBlocks": 78,
+   "maxTownBlocks": 90,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 0,
-   "numOutlaws": 23,
+   "numOutlaws": 27,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -470,6 +470,10 @@
    {
     "name": "miniseek1234",
     "uuid": "5f7fa2b6-08d8-42bd-b66e-976000ba9c6e"
+   },
+   {
+    "name": "Niwkh",
+    "uuid": "be9b33ae-9fb9-46f7-b018-d00b5cdb78a8"
    }
   ],
   "trusted": [],
@@ -565,9 +569,30 @@
    {
     "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
+    "name": "glorylikesducks",
+    "uuid": "de85ddbc-4f60-473a-a8b8-0e7a18953cab"
+   },
+   {
+    "name": "CorruptAngel",
+    "uuid": "9feaa00b-807d-4582-84b8-a5a90c600c01"
+   },
+   {
+    "name": "Unbidleaf",
+    "uuid": "52289180-9ef9-415f-a69a-651867ce3cda"
+   },
+   {
+    "name": "Qorrin",
+    "uuid": "dd8114c7-df72-4c09-8387-a51f9b85f30b"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Residence",
+    "uuid": "efb64949-9d7e-46a2-96ea-64b8d8bea13b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

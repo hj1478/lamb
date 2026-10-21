@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Finerland",
   "uuid": "127dc177-1a34-4350-ae28-9ae8a974403e",
-  "board": "Keep going, you re still growing! [SHOP open now!]",
+  "board": "Keep going, ur still growing^^",
   "founder": "Lampiee",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 104,
-   "maxTownBlocks": 86,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "numResidents": 4,
+   "numTrusted": 6,
    "numOutlaws": 1,
-   "balance": 52.0,
+   "balance": 95.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5578.515508291874,
+    "x": 5577.042735724993,
     "y": 86.0,
-    "z": -11139.486162028803,
-    "pitch": 1.1203619,
-    "yaw": -134.80334
+    "z": -11141.668279891523,
+    "pitch": -6.5474358,
+    "yaw": -58.355225
    },
    "homeBlock": [
     348,
@@ -516,6 +516,10 @@
     "uuid": "75b4b66f-6c40-41a5-854c-6ebb99936e57"
    },
    {
+    "name": "Amarius1",
+    "uuid": "e2af9201-37e1-4313-9e0f-4ac17ed336e0"
+   },
+   {
     "name": "D2e0S1K0OjK47nL",
     "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
    },
@@ -526,12 +530,20 @@
   ],
   "trusted": [
    {
+    "name": "Amarius1",
+    "uuid": "e2af9201-37e1-4313-9e0f-4ac17ed336e0"
+   },
+   {
     "name": "ZupraMC",
     "uuid": "fc317a85-7958-40ae-9027-c4e5feba4d2c"
    },
    {
     "name": "ShadowFace_",
     "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   },
+   {
+    "name": "D2e0S1K0OjK47nL",
+    "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
    },
    {
     "name": "tessiebear73",
@@ -555,14 +567,34 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Councillor": [
+    {
+     "name": "Lampiee",
+     "uuid": "75b4b66f-6c40-41a5-854c-6ebb99936e57"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "D2e0S1K0OjK47nL",
+     "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "D2e0S1K0OjK47nL",
+     "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "Lampiee",
+     "uuid": "75b4b66f-6c40-41a5-854c-6ebb99936e57"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

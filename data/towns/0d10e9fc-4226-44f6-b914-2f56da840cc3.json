@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Danish_Embassy",
   "uuid": "0d10e9fc-4226-44f6-b914-2f56da840cc3",
@@ -12,12 +12,12 @@
    "uuid": "dbd6d7c2-f7ee-4bd2-9cd8-82d8f184ac98"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nordic",
+   "uuid": "74a7bf52-7668-4985-896a-c83ca92322f2"
   },
   "timestamps": {
    "registered": 1792322157094,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792324085639,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 50,
+   "numResidents": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5016.414200963535,
-    "y": 63.0,
-    "z": -16037.078038346272,
-    "pitch": 14.700012,
-    "yaw": -95.29068
+    "x": 5016.887143178942,
+    "y": 64.0625,
+    "z": -16033.084575429111,
+    "pitch": 10.950031,
+    "yaw": -136.84084
    },
    "homeBlock": [
     313,
@@ -93,6 +93,34 @@
    "townBlocks": [
     [
      313,
+     -1002
+    ],
+    [
+     313,
+     -1003
+    ],
+    [
+     313,
+     -1001
+    ],
+    [
+     314,
+     -1002
+    ],
+    [
+     314,
+     -1001
+    ],
+    [
+     315,
+     -1003
+    ],
+    [
+     315,
+     -1002
+    ],
+    [
+     314,
      -1003
     ]
    ],
@@ -102,13 +130,43 @@
    {
     "name": "itz_rayray",
     "uuid": "dbd6d7c2-f7ee-4bd2-9cd8-82d8f184ac98"
+   },
+   {
+    "name": "BigBaller02",
+    "uuid": "db709347-5575-4b4b-b214-f796cb4c4543"
+   },
+   {
+    "name": "klammeidiot",
+    "uuid": "994cbfe3-ff13-422d-8e6c-4d6f4e0801d2"
+   },
+   {
+    "name": "Bjarke5000",
+    "uuid": "6b7b9c2f-094d-41eb-a378-642295a6d007"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "BigBaller02",
+    "uuid": "db709347-5575-4b4b-b214-f796cb4c4543"
+   },
+   {
+    "name": "klammeidiot",
+    "uuid": "994cbfe3-ff13-422d-8e6c-4d6f4e0801d2"
+   },
+   {
+    "name": "Bjarke5000",
+    "uuid": "6b7b9c2f-094d-41eb-a378-642295a6d007"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BigBaller02",
+     "uuid": "db709347-5575-4b4b-b214-f796cb4c4543"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

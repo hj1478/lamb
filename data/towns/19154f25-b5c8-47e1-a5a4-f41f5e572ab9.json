@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Arkhangelsk",
   "uuid": "19154f25-b5c8-47e1-a5a4-f41f5e572ab9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 242,
+   "numTownBlocks": 245,
    "maxTownBlocks": 312,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 21,
    "numTrusted": 5,
    "numOutlaws": 17,
-   "balance": 89.0,
+   "balance": 124.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,12 +100,24 @@
      -1171
     ],
     [
+     841,
+     -1165
+    ],
+    [
+     841,
+     -1166
+    ],
+    [
      855,
      -1175
     ],
     [
      855,
      -1174
+    ],
+    [
+     841,
+     -1164
     ],
     [
      843,
@@ -716,12 +728,12 @@
      -1172
     ],
     [
-     851,
-     -1162
-    ],
-    [
      845,
      -1169
+    ],
+    [
+     851,
+     -1162
     ],
     [
      845,
@@ -1097,20 +1109,12 @@
     "uuid": "bf7a0569-a17a-4505-8181-a5e6c24d0474"
    },
    {
-    "name": "Skipover",
-    "uuid": "09ef42fc-ada4-4200-b9b4-2700b062b322"
-   },
-   {
-    "name": "Theartofreading",
-    "uuid": "8d498add-d383-47ab-a08c-9f1a8fab88b2"
+    "name": "Void_Knxght",
+    "uuid": "19aa4808-2f17-41ee-9f3e-6b53e46d8a5a"
    },
    {
     "name": "LindsayClancy",
     "uuid": "e4b078ca-3e08-4151-a078-ee3b379215d6"
-   },
-   {
-    "name": "FuricaneGod",
-    "uuid": "ca22fc1b-2eac-498f-ace6-9e48d463e76f"
    },
    {
     "name": "qbxtreme",
@@ -1145,12 +1149,20 @@
     "uuid": "7d552da8-b341-467b-b357-eaa1c0b8b7f4"
    },
    {
-    "name": "WyattNathanMine",
-    "uuid": "148ff7f3-e7fe-4451-92b6-cb58cd45038a"
-   },
-   {
     "name": "White__Russia",
     "uuid": "bf5ca3e7-89c5-40d7-bf2d-7f20d83c0c4d"
+   },
+   {
+    "name": "Sir_milkman7",
+    "uuid": "3aa0a214-695c-4e9e-9253-10c3103f6223"
+   },
+   {
+    "name": "jasper4324",
+    "uuid": "77ccc7b2-bf67-4f5f-91cd-d21f823a6c10"
+   },
+   {
+    "name": "Steak_Rk",
+    "uuid": "cde9f704-4aab-401c-91ad-e6936c910339"
    }
   ],
   "trusted": [
@@ -1241,18 +1253,14 @@
     "uuid": "1e8e8c15-4e73-41e7-a687-8796dc57fb81"
    },
    {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+    "name": "Swighted_",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
    }
   ],
   "quarters": [
    {
     "name": "Gloomy Tenement",
     "uuid": "3f846979-493e-4c9e-b5ba-8adddc108f0b"
-   },
-   {
-    "name": "Anchorage Embassy",
-    "uuid": "a25ba0e6-2d7a-4d99-8da4-13a150047edf"
    },
    {
     "name": "Bland Apartment",
@@ -1273,10 +1281,6 @@
    {
     "name": "Enraging Property",
     "uuid": "b21b38c5-94c2-4bb0-ab04-5017afa5baf0"
-   },
-   {
-    "name": "Elegant Dwelling",
-    "uuid": "a5594068-12a0-41fb-9da3-0e585a03f56d"
    },
    {
     "name": "Stylish Suite",
@@ -1303,10 +1307,6 @@
     "uuid": "46fd4486-8deb-4000-838b-819fed98f9ab"
    },
    {
-    "name": "Dingy Property",
-    "uuid": "0130c3e4-0191-45e6-9633-d0526126b5c6"
-   },
-   {
     "name": "Perturbing Apartment",
     "uuid": "39fcdf34-1165-4ebb-99d6-56d5fa6ebff4"
    },
@@ -1319,10 +1319,6 @@
     "uuid": "ceb56dc4-0549-4e7b-bd92-349ea7d0cecc"
    },
    {
-    "name": "Perturbing Flat",
-    "uuid": "9a383079-9172-4000-bc6e-f139305e1d67"
-   },
-   {
     "name": "Dingy Quarter",
     "uuid": "0a4fef79-74af-4966-947e-dcdfeea58075"
    },
@@ -1331,21 +1327,28 @@
     "uuid": "2fd2ed6f-b17f-438c-b7b3-88549c58138e"
    },
    {
-    "name": "Elegant Quarter",
-    "uuid": "48f19caf-22db-44da-8765-dca6f3256f5d"
+    "name": "Elegant Dwelling",
+    "uuid": "a5594068-12a0-41fb-9da3-0e585a03f56d"
    },
    {
     "name": "Dingy Quarter",
     "uuid": "2ac40181-dc9f-4857-be26-f4d27624425a"
+   },
+   {
+    "name": "Perturbing Flat",
+    "uuid": "9a383079-9172-4000-bc6e-f139305e1d67"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "0130c3e4-0191-45e6-9633-d0526126b5c6"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "48f19caf-22db-44da-8765-dca6f3256f5d"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Theartofreading",
-     "uuid": "8d498add-d383-47ab-a08c-9f1a8fab88b2"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

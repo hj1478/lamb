@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
-  "name": "Algarve",
+  "name": "Sagres",
   "uuid": "0462bbb3-69cf-4e93-8e60-e86b0c6bc4ba",
-  "board": "Sunsets that stay with you forever.",
+  "board": "Union of Provinces of the Algarve",
   "founder": "vOkloi",
   "wiki": "https://wiki.earthmc.net/wiki/Sagres",
   "discord": null,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 140,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 1,
+   "numResidents": 6,
+   "numTrusted": 2,
    "numOutlaws": 3,
    "balance": 1000.0,
    "forSalePrice": null
@@ -660,8 +660,8 @@
     "uuid": "2ca732ab-e25f-4fc1-92bc-ea7e5ae22241"
    },
    {
-    "name": "vJuke",
-    "uuid": "427f57cf-00ab-4a79-91aa-22dcdf021258"
+    "name": "v4str0",
+    "uuid": "0eacb2ef-11ba-4ade-bc8d-6d84b7f0198b"
    },
    {
     "name": "Nemxsiss",
@@ -674,9 +674,17 @@
    {
     "name": "spzispre1",
     "uuid": "720065c5-92fc-4d1d-93dc-f6e7da6ca39f"
+   },
+   {
+    "name": "Lex2250",
+    "uuid": "55f44ca6-e1a2-403f-a9db-fb434ab3465c"
    }
   ],
   "trusted": [
+   {
+    "name": "v4str0",
+    "uuid": "0eacb2ef-11ba-4ade-bc8d-6d84b7f0198b"
+   },
    {
     "name": "vJuke",
     "uuid": "427f57cf-00ab-4a79-91aa-22dcdf021258"
@@ -738,14 +746,6 @@
     "uuid": "94320a41-415d-451b-b3ea-88b85c0d7e5e"
    },
    {
-    "name": "Casa Vistaboa - 1",
-    "uuid": "349f97e8-a71d-487f-be50-7b4c4141dab7"
-   },
-   {
-    "name": "Casa Vistaboa - 2",
-    "uuid": "90851b0d-e1e6-40a1-add4-c62575413fd0"
-   },
-   {
     "name": "Casa Ruivo - 1",
     "uuid": "71966681-69c1-4adc-8938-b3694c97e6f0"
    },
@@ -760,10 +760,6 @@
    {
     "name": "Torre Monumental - 1",
     "uuid": "9eb5e743-cc0f-48a0-a67d-028a951d8a90"
-   },
-   {
-    "name": "Torre Monumental - 2",
-    "uuid": "95bd72bb-96fb-4f63-9272-2c368c6b1222"
    },
    {
     "name": "Torre Monumental - 3",
@@ -782,20 +778,12 @@
     "uuid": "fc7813d3-8756-493f-ab48-0028d385ad1b"
    },
    {
-    "name": "Inconvenient Suite",
-    "uuid": "c416be57-f24c-486d-8fcf-c6c39a715b72"
-   },
-   {
     "name": "Casa Ruivo - 3",
     "uuid": "7abf8b24-dc77-4963-bd07-953cd4f05174"
    },
    {
     "name": "Casa Vilarinha - 1",
     "uuid": "c696c5dc-8085-4d6f-917a-70a804a51f88"
-   },
-   {
-    "name": "Casa Ruivo - 2",
-    "uuid": "e7b8fdde-3184-41c8-8be4-cfd900646631"
    },
    {
     "name": "Algarve National Prison",
@@ -816,18 +804,38 @@
    {
     "name": "Algarve National Prison: Block 2",
     "uuid": "9a495d06-3a89-4158-8fb5-885ecf05e580"
+   },
+   {
+    "name": "Casa Vistaboa - 2",
+    "uuid": "90851b0d-e1e6-40a1-add4-c62575413fd0"
+   },
+   {
+    "name": "Casa Vistaboa - 1",
+    "uuid": "349f97e8-a71d-487f-be50-7b4c4141dab7"
+   },
+   {
+    "name": "Torre Monumental - 2",
+    "uuid": "95bd72bb-96fb-4f63-9272-2c368c6b1222"
+   },
+   {
+    "name": "Edíf. Vila do Bispo - 2",
+    "uuid": "c416be57-f24c-486d-8fcf-c6c39a715b72"
+   },
+   {
+    "name": "Casa Ruivo - 2",
+    "uuid": "e7b8fdde-3184-41c8-8be4-cfd900646631"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "vJuke",
-     "uuid": "427f57cf-00ab-4a79-91aa-22dcdf021258"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "v4str0",
+     "uuid": "0eacb2ef-11ba-4ade-bc8d-6d84b7f0198b"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

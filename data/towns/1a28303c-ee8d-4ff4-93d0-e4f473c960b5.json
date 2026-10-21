@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Adrianople",
   "uuid": "1a28303c-ee8d-4ff4-93d0-e4f473c960b5",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "aaaGhostaaa",
-   "uuid": "9f14063e-c34b-40a1-9a48-afb11d3f33b2"
+   "name": "NPC55",
+   "uuid": "2e1aeeb3-a73d-2039-a85f-c5da4e0061b5"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776855019876,
-   "joinedNationAt": 1777639879368,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792404002361
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 63,
-   "maxTownBlocks": 100,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -348,8 +348,8 @@
   },
   "residents": [
    {
-    "name": "aaaGhostaaa",
-    "uuid": "9f14063e-c34b-40a1-9a48-afb11d3f33b2"
+    "name": "NPC55",
+    "uuid": "2e1aeeb3-a73d-2039-a85f-c5da4e0061b5"
    }
   ],
   "trusted": [],

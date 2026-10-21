@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Kirishima",
   "uuid": "135ee59d-6ec5-4b10-b50c-7807356ec51e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 12,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 47236.30322508827,
-    "y": 63.0,
-    "z": -8427.265613901747,
-    "pitch": 22.993883,
-    "yaw": -116.70325
+    "x": 47252.55639304147,
+    "y": 65.0,
+    "z": -8431.453665472683,
+    "pitch": 0.7938956,
+    "yaw": 0.14663127
    },
    "homeBlock": [
-    2952,
+    2953,
     -527
    ],
    "townBlocks": [
@@ -108,15 +108,35 @@
      -527
     ],
     [
+     2951,
+     -526
+    ],
+    [
+     2952,
+     -527
+    ],
+    [
+     2952,
+     -528
+    ],
+    [
+     2951,
+     -528
+    ],
+    [
+     2951,
+     -527
+    ],
+    [
+     2954,
+     -526
+    ],
+    [
      2954,
      -527
     ],
     [
-     2952,
-     -527
-    ],
-    [
-     2952,
+     2954,
      -528
     ]
    ],
@@ -132,6 +152,10 @@
    {
     "name": "YukimalOfficial",
     "uuid": "a7d98dcf-cb9f-4ee6-b61c-bf7c6ecbc861"
+   },
+   {
+    "name": "Beroumi",
+    "uuid": "f988d045-87b6-4cb4-94c4-e10996ad08c9"
    }
   ],
   "outlaws": [],

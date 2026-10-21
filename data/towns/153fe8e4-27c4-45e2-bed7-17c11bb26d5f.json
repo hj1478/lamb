@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Hue",
   "uuid": "153fe8e4-27c4-45e2-bed7-17c11bb26d5f",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Loutre_Honnete",
-   "uuid": "36c1eda7-a686-4d2c-b64c-0ca8b05f2722"
+   "name": "NPC121",
+   "uuid": "90d06c92-481a-20d8-8276-0e0fb5dce44d"
   },
   "nation": {
-   "name": "Lanfang",
-   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784154044045,
-   "joinedNationAt": 1784154064397,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792449983045
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": true,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 47,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 25.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -284,8 +284,8 @@
   },
   "residents": [
    {
-    "name": "Loutre_Honnete",
-    "uuid": "36c1eda7-a686-4d2c-b64c-0ca8b05f2722"
+    "name": "NPC121",
+    "uuid": "90d06c92-481a-20d8-8276-0e0fb5dce44d"
    }
   ],
   "trusted": [],

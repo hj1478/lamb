@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Norilsk",
   "uuid": "0a6b365c-64f6-4eea-ac89-0f5db3b6d40e",
-  "board": "/town set board [msg]",
+  "board": "join for 10g and free stuff",
   "founder": "lukaskx01",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "660a308e-510f-4bf2-bf68-817d0509a40b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Vym",
+   "uuid": "d6df43ac-a84b-47d3-b822-35d9d82494ec"
   },
   "timestamps": {
    "registered": 1791595959791,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792187835177,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 18.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,11 +104,23 @@
      -1489
     ],
     [
+     2233,
+     -1491
+    ],
+    [
      2229,
      -1490
     ],
     [
-     2231,
+     2233,
+     -1492
+    ],
+    [
+     2233,
+     -1489
+    ],
+    [
+     2233,
      -1490
     ],
     [
@@ -117,23 +129,43 @@
     ],
     [
      2231,
+     -1490
+    ],
+    [
+     2231,
      -1491
     ],
     [
      2231,
      -1489
+    ],
+    [
+     2232,
+     -1492
     ],
     [
      2230,
      -1492
     ],
     [
-     2230,
+     2232,
      -1491
     ],
     [
      2230,
+     -1491
+    ],
+    [
+     2232,
      -1490
+    ],
+    [
+     2230,
+     -1490
+    ],
+    [
+     2232,
+     -1489
     ],
     [
      2231,
@@ -146,10 +178,23 @@
    {
     "name": "lukaskx01",
     "uuid": "660a308e-510f-4bf2-bf68-817d0509a40b"
+   },
+   {
+    "name": "SkyPits",
+    "uuid": "22878664-bcd9-4f11-bf8f-656c4d9c5832"
+   },
+   {
+    "name": "MercuryMilan",
+    "uuid": "1522a260-8384-4eaf-91ba-685ab7897f6a"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

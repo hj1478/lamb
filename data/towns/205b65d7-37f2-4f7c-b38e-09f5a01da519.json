@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
-  "name": "Katota",
+  "name": "Fort_Jameson",
   "uuid": "205b65d7-37f2-4f7c-b38e-09f5a01da519",
   "board": "A simple town for people to have a nice home.",
   "founder": "FreshMentos2012",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FreshMentos2012",
-   "uuid": "690f7c86-e782-40bf-8755-fd473395ddc0"
+   "name": "Disablud",
+   "uuid": "405de284-42c3-4d23-bc84-01ef17a78d62"
   },
   "nation": {
    "name": "Rhodesia",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numResidents": 2,
+   "numTrusted": 2,
+   "numOutlaws": 4,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10246.59060791587,
-    "y": 72.9375,
-    "z": 13738.796173101517,
-    "pitch": 2.6992054,
-    "yaw": 179.57092
+    "x": 10246.840219659625,
+    "y": 74.0,
+    "z": 13719.701763565716,
+    "pitch": 35.17614,
+    "yaw": 177.77194
    },
    "homeBlock": [
     640,
-    858
+    857
    ],
    "townBlocks": [
+    [
+     639,
+     858
+    ],
     [
      639,
      855
@@ -152,12 +156,42 @@
   },
   "residents": [
    {
-    "name": "FreshMentos2012",
-    "uuid": "690f7c86-e782-40bf-8755-fd473395ddc0"
+    "name": "Heysul",
+    "uuid": "607de25e-d137-4a68-a609-e08ac25220c6"
+   },
+   {
+    "name": "Disablud",
+    "uuid": "405de284-42c3-4d23-bc84-01ef17a78d62"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "Goulash23",
+    "uuid": "209aca29-f02d-4fb8-b438-6c67b5197db1"
+   },
+   {
+    "name": "Eggz_on_Toast",
+    "uuid": "b301910e-e892-46d1-9c9e-7319aae284b0"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
+   {
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   },
+   {
+    "name": "MuchJester",
+    "uuid": "c8103fce-800b-4c9f-882f-27cd3cbb0cd2"
+   },
+   {
+    "name": "QueenOfDance",
+    "uuid": "75587256-0177-44f1-b08c-e40a6e405819"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

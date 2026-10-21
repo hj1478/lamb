@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Tingen",
   "uuid": "162e8b3b-2e63-451d-8c51-cf24bc123244",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 105,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 114,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -205,6 +205,10 @@
     ],
     [
      2068,
+     -145
+    ],
+    [
+     2068,
      -144
     ],
     [
@@ -256,12 +260,24 @@
      -136
     ],
     [
+     2070,
+     -149
+    ],
+    [
      2074,
      -137
     ],
     [
+     2070,
+     -148
+    ],
+    [
      2074,
      -138
+    ],
+    [
+     2070,
+     -147
     ],
     [
      2070,
@@ -341,6 +357,10 @@
     ],
     [
      2069,
+     -146
+    ],
+    [
+     2069,
      -143
     ],
     [
@@ -362,6 +382,14 @@
     [
      2069,
      -140
+    ],
+    [
+     2069,
+     -149
+    ],
+    [
+     2069,
+     -148
     ],
     [
      2069,
@@ -470,6 +498,14 @@
     [
      2073,
      -134
+    ],
+    [
+     2071,
+     -148
+    ],
+    [
+     2071,
+     -149
     ],
     [
      2071,
@@ -530,9 +566,22 @@
    {
     "name": "daviluiz2014",
     "uuid": "bb0dfde0-33b3-4242-9ccb-a0beacb8dfd6"
+   },
+   {
+    "name": "Bibibuzina",
+    "uuid": "347a2cae-dce2-46a5-8284-3213bf0da130"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "aDuzo",
+    "uuid": "e8d0b8f9-a67d-4009-b145-04108b839ff8"
+   },
+   {
+    "name": "Bibibuzina",
+    "uuid": "347a2cae-dce2-46a5-8284-3213bf0da130"
+   }
+  ],
   "outlaws": [
    {
     "name": "nachoman267",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Reykjanes",
   "uuid": "266f3f77-6efb-4071-9fac-433e95345b3f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RubyFloatzel",
-   "uuid": "3af8eed4-c8f2-4474-a0d2-264b9c7ba35d"
+   "name": "NPC29",
+   "uuid": "1345cadb-59da-201b-aca6-5d82cd526674"
   },
   "nation": {
-   "name": "Iceland",
-   "uuid": "3d6415b7-74eb-4052-8606-c2cce362d120"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776478889111,
-   "joinedNationAt": 1776904506985,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792576802406
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 132,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 35,
-   "balance": 798.0,
+   "balance": 768.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -624,8 +624,8 @@
   },
   "residents": [
    {
-    "name": "RubyFloatzel",
-    "uuid": "3af8eed4-c8f2-4474-a0d2-264b9c7ba35d"
+    "name": "NPC29",
+    "uuid": "1345cadb-59da-201b-aca6-5d82cd526674"
    }
   ],
   "trusted": [],

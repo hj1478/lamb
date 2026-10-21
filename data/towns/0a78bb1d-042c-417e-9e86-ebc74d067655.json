@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Vagharshapat",
   "uuid": "0a78bb1d-042c-417e-9e86-ebc74d067655",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 98,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 15,
    "numOutlaws": 4,
-   "balance": 236.0,
+   "balance": 211.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15688.120479922594,
+    "x": 15690.546489275512,
     "y": 80.0,
-    "z": -7192.103287162656,
-    "pitch": 15.149991,
-    "yaw": -132.90659
+    "z": -7215.530847563177,
+    "pitch": -16.949966,
+    "yaw": -90.16165
    },
    "homeBlock": [
     980,
-    -450
+    -451
    ],
    "townBlocks": [
     [
@@ -280,12 +280,12 @@
      -445
     ],
     [
-     980,
-     -446
-    ],
-    [
      978,
      -450
+    ],
+    [
+     980,
+     -446
     ],
     [
      978,
@@ -502,10 +502,6 @@
    {
     "name": "MeemoorQeoR",
     "uuid": "6221b3d4-95ff-4708-8212-9af61e54bfff"
-   },
-   {
-    "name": "taskcode",
-    "uuid": "6c5b9bd3-3e6e-400a-887b-c7b45cd21e59"
    }
   ],
   "trusted": [

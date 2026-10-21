@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "NullVille",
   "uuid": "0df98e19-4490-47a5-8a49-5a0efa33a424",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 0,
    "numOutlaws": 5,
-   "balance": 184.0,
+   "balance": 149.0,
    "forSalePrice": null
   },
   "perms": {
@@ -81,10 +81,10 @@
    "spawn": {
     "world": "earth",
     "x": -31325.30000001192,
-    "y": 64.0,
-    "z": -6355.51764226855,
-    "pitch": 3.6000056,
-    "yaw": 89.93565
+    "y": 65.0,
+    "z": -6355.475384679365,
+    "pitch": 5.700023,
+    "yaw": 90.08728
    },
    "homeBlock": [
     -1958,
@@ -550,14 +550,13 @@
    {
     "name": "IX_RELASPE_XI",
     "uuid": "92f2d4b4-c1f7-4e4d-bee2-ba33a2e6c2ba"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "SaintOfDrifting",
-    "uuid": "c0f9ba1a-bd25-4d12-a73e-1b33a5d738d8"
+    "name": "Nick_binky",
+    "uuid": "ea214f17-9ec4-423d-a221-8a4bc1f6d69c"
    }
   ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "BlueRedStone_",
@@ -586,16 +585,8 @@
     "uuid": "6990c7c5-78a3-426a-a31f-6bc748998214"
    },
    {
-    "name": "Humble Home",
-    "uuid": "3add2026-8f05-4725-9d07-78909c5a65a6"
-   },
-   {
     "name": "Yellow House",
     "uuid": "102b1435-58e5-43d6-ae39-b47dd2f2f150"
-   },
-   {
-    "name": "Bedrock 101",
-    "uuid": "a70e1b61-abcb-41e3-9c57-416cfe24fad9"
    },
    {
     "name": "Gloomy Tenement",
@@ -680,6 +671,14 @@
    {
     "name": "\"S-Mart\"",
     "uuid": "3183f16a-2a5b-47d9-8990-63e98ca76d52"
+   },
+   {
+    "name": "Bedrock 101",
+    "uuid": "a70e1b61-abcb-41e3-9c57-416cfe24fad9"
+   },
+   {
+    "name": "Humble Home",
+    "uuid": "3add2026-8f05-4725-9d07-78909c5a65a6"
    }
   ],
   "ranks": {

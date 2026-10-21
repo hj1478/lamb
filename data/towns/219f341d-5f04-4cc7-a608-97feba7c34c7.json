@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Fishtopia",
   "uuid": "219f341d-5f04-4cc7-a608-97feba7c34c7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Glosh",
-   "uuid": "05685420-59a1-4357-bb0d-01d09b443bd9"
+   "name": "NPC68",
+   "uuid": "90637093-198c-2021-b2bc-4db606c4afb7"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1778463026581,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792490401343
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 18.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,30 +120,16 @@
   },
   "residents": [
    {
-    "name": "Glosh",
-    "uuid": "05685420-59a1-4357-bb0d-01d09b443bd9"
-   },
-   {
-    "name": "SansOfUndertale",
-    "uuid": "f08ed593-bfed-4d76-ac33-231d69c6b8f7"
+    "name": "NPC68",
+    "uuid": "90637093-198c-2021-b2bc-4db606c4afb7"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "SansOfUndertale",
-     "uuid": "f08ed593-bfed-4d76-ac33-231d69c6b8f7"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "SansOfUndertale",
-     "uuid": "f08ed593-bfed-4d76-ac33-231d69c6b8f7"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

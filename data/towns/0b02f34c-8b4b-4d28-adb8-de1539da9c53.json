@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "New_Golden_Town",
   "uuid": "0b02f34c-8b4b-4d28-adb8-de1539da9c53",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791809766210,
-   "joinedNationAt": 1791906181597,
+   "joinedNationAt": 1792167619191,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 6.0,
+   "numResidents": 4,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -97,7 +97,7 @@
     ],
     [
      234,
-     -282
+     -281
     ],
     [
      233,
@@ -105,7 +105,27 @@
     ],
     [
      234,
+     -282
+    ],
+    [
+     235,
      -283
+    ],
+    [
+     235,
+     -282
+    ],
+    [
+     234,
+     -283
+    ],
+    [
+     232,
+     -282
+    ],
+    [
+     233,
+     -281
     ]
    ],
    "worlds": {}
@@ -114,6 +134,18 @@
    {
     "name": "__lazii",
     "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
+   },
+   {
+    "name": "itam324",
+    "uuid": "b9eb8065-e764-4565-b201-128b712c9e92"
+   },
+   {
+    "name": "01elbruiro01",
+    "uuid": "ec154e8d-a073-44e5-b25e-5010cd2f6d65"
+   },
+   {
+    "name": "tanimod",
+    "uuid": "7bc2f62f-5b6f-43cf-9a8c-f47c6f8c2522"
    }
   ],
   "trusted": [
@@ -124,9 +156,22 @@
    {
     "name": "DRpellgg",
     "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   },
+   {
+    "name": "01elbruiro01",
+    "uuid": "ec154e8d-a073-44e5-b25e-5010cd2f6d65"
+   },
+   {
+    "name": "itam324",
+    "uuid": "b9eb8065-e764-4565-b201-128b712c9e92"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

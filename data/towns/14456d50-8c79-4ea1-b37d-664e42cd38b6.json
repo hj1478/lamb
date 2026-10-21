@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Mochi_Island",
   "uuid": "14456d50-8c79-4ea1-b37d-664e42cd38b6",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
+   "numTownBlocks": 40,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 10.0,
    "forSalePrice": null
@@ -92,16 +92,28 @@
    ],
    "townBlocks": [
     [
+     2206,
+     511
+    ],
+    [
      2203,
      503
     ],
     [
+     2204,
+     512
+    ],
+    [
      2203,
      502
     ],
     [
-     2206,
-     506
+     2204,
+     510
+    ],
+    [
+     2204,
+     511
     ],
     [
      2204,
@@ -109,11 +121,15 @@
     ],
     [
      2206,
-     505
+     506
     ],
     [
      2206,
-     504
+     505
+    ],
+    [
+     2204,
+     509
     ],
     [
      2204,
@@ -121,19 +137,35 @@
     ],
     [
      2206,
-     503
+     504
     ],
     [
      2204,
      507
     ],
     [
+     2206,
+     503
+    ],
+    [
      2204,
      504
     ],
     [
+     2206,
+     510
+    ],
+    [
+     2203,
+     511
+    ],
+    [
      2204,
      505
+    ],
+    [
+     2206,
+     509
     ],
     [
      2204,
@@ -152,6 +184,10 @@
      507
     ],
     [
+     2203,
+     512
+    ],
+    [
      2207,
      507
     ],
@@ -190,10 +226,22 @@
     [
      2205,
      506
+    ],
+    [
+     2205,
+     511
+    ],
+    [
+     2205,
+     512
     ],
     [
      2205,
      509
+    ],
+    [
+     2205,
+     510
     ],
     [
      2204,
@@ -212,7 +260,12 @@
     "uuid": "e46782af-c9cd-4ff5-8eb2-cb87985b8aef"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Charlie__L",
+    "uuid": "6b2ef152-0a4d-4e7d-b2b5-fd4b4f42fc57"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

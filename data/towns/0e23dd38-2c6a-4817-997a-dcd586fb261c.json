@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Albacete",
   "uuid": "0e23dd38-2c6a-4817-997a-dcd586fb261c",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kuasi3",
-   "uuid": "7f7bf6d2-7e5d-4f87-afc5-3350ce8db5a6"
+   "name": "0Miura",
+   "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
   },
   "nation": {
    "name": "Kingdom_Of_Spain",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 2,
-   "numOutlaws": 0,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -105,6 +105,10 @@
     ],
     [
      -73,
+     -429
+    ],
+    [
+     -73,
      -432
     ],
     [
@@ -149,6 +153,14 @@
     ],
     [
      -75,
+     -428
+    ],
+    [
+     -75,
+     -429
+    ],
+    [
+     -75,
      -432
     ],
     [
@@ -170,6 +182,14 @@
     [
      -74,
      -430
+    ],
+    [
+     -74,
+     -429
+    ],
+    [
+     -74,
+     -428
     ],
     [
      -70,
@@ -192,12 +212,24 @@
   },
   "residents": [
    {
-    "name": "kuasi3",
-    "uuid": "7f7bf6d2-7e5d-4f87-afc5-3350ce8db5a6"
+    "name": "0Miura",
+    "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
    },
    {
-    "name": "Terrorendi",
-    "uuid": "cf437e17-ff24-40b9-8120-2d6b9fde9d1c"
+    "name": "damik_off",
+    "uuid": "397aa03f-92a7-4d5a-b334-8dd75c1359c1"
+   },
+   {
+    "name": "The_Gatrix",
+    "uuid": "4e6436c2-ac65-41ec-9509-5f83a5db05b1"
+   },
+   {
+    "name": "nxelia8",
+    "uuid": "55c1498b-f24d-404c-b17c-64e9f33cf7cc"
+   },
+   {
+    "name": "yessahay",
+    "uuid": "22645758-e9d8-4699-ba18-69e12d36864b"
    }
   ],
   "trusted": [
@@ -210,13 +242,17 @@
     "uuid": "48bbb2fb-4489-43b9-9d1c-4cea1eaabde1"
    }
   ],
-  "outlaws": [],
-  "quarters": [
+  "outlaws": [
    {
-    "name": "Dingy Dwelling",
-    "uuid": "89f79317-5a32-4dc1-8170-93ee7953110f"
+    "name": "Kikabin",
+    "uuid": "f402eb73-3657-4bf7-9b62-f950e3533e43"
+   },
+   {
+    "name": "Aracnedix",
+    "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
    }
   ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

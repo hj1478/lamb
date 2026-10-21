@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Dierhagen",
   "uuid": "17c73e3d-acf9-4968-8737-d28f1d4fd068",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 8,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,36 @@
    ],
    "townBlocks": [
     [
+     274,
+     -851
+    ],
+    [
      276,
      -852
     ],
     [
+     276,
+     -851
+    ],
+    [
      275,
      -852
+    ],
+    [
+     275,
+     -853
+    ],
+    [
+     277,
+     -852
+    ],
+    [
+     274,
+     -852
+    ],
+    [
+     275,
+     -851
     ]
    ],
    "worlds": {}
@@ -108,7 +132,12 @@
     "uuid": "336ddf82-f30b-4e59-a4ce-052d73f29c54"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Addychi01",
+    "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

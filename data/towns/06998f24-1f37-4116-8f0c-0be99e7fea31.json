@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Meow",
   "uuid": "06998f24-1f37-4116-8f0c-0be99e7fea31",
@@ -12,37 +12,37 @@
    "uuid": "20217877-e978-4d3a-9f21-aeb19857f026"
   },
   "nation": {
-   "name": "Yucatan",
-   "uuid": "506cc5c5-3e9e-4fbb-867e-3b872a9068ba"
+   "name": "Tamaulipas",
+   "uuid": "a6e06194-dc2c-49f0-9fd6-451625a9d047"
   },
   "timestamps": {
    "registered": 1776452716669,
-   "joinedNationAt": 1790949358891,
+   "joinedNationAt": 1792019183830,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 98,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 4,
+   "nationBonus": 0,
+   "numResidents": 6,
    "numTrusted": 1,
    "numOutlaws": 6,
-   "balance": 4615.0,
+   "balance": 69.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35490.805956440476,
-    "y": -62.5,
-    "z": -806.8471552323781,
-    "pitch": 13.499727,
-    "yaw": 154.79681
+    "x": -35474.741760466415,
+    "y": 73.0,
+    "z": -802.9043583966723,
+    "pitch": 2.9999933,
+    "yaw": 117.89984
    },
    "homeBlock": [
-    -2219,
+    -2218,
     -51
    ],
    "townBlocks": [
@@ -259,6 +259,14 @@
    {
     "name": "Pebble_Botherer",
     "uuid": "a24cd52a-7a67-4ca3-a0a7-344b4fb7a33c"
+   },
+   {
+    "name": "Cherusa",
+    "uuid": "99c3d027-3ea3-48d9-a9db-4088a3c5a902"
+   },
+   {
+    "name": "ESKADER2",
+    "uuid": "5784b564-6512-476d-ad22-6e45662fc1df"
    }
   ],
   "trusted": [
@@ -321,10 +329,6 @@
    {
     "name": "Cheerful Residence",
     "uuid": "39623230-af6d-44d5-bf3c-be203121feef"
-   },
-   {
-    "name": "Gloomy Residence",
-    "uuid": "c589e0c5-9e3a-4c86-8246-09cee2a25453"
    },
    {
     "name": "Dull Flat",
@@ -477,6 +481,10 @@
    {
     "name": "Authorized Personal Only",
     "uuid": "46e2a725-f694-4042-8a4a-dd24e62f1531"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "c589e0c5-9e3a-4c86-8246-09cee2a25453"
    }
   ],
   "ranks": {

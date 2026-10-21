@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Kitkat",
   "uuid": "03230abc-c148-4167-bc89-ab6de5acb85c",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Alexbygden",
-   "uuid": "e5b2dfb4-26c9-4f3d-9e5b-fa0bf4df47eb"
+   "name": "Collioz",
+   "uuid": "f0a48b87-80c1-4ad8-9d49-9ec28be9941f"
   },
   "nation": {
    "name": "Nubia",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 70,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "numResidents": 1,
+   "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 1.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -376,15 +376,15 @@
   },
   "residents": [
    {
-    "name": "Alexbygden",
-    "uuid": "e5b2dfb4-26c9-4f3d-9e5b-fa0bf4df47eb"
-   },
-   {
     "name": "Collioz",
     "uuid": "f0a48b87-80c1-4ad8-9d49-9ec28be9941f"
    }
   ],
   "trusted": [
+   {
+    "name": "Alexbygden",
+    "uuid": "e5b2dfb4-26c9-4f3d-9e5b-fa0bf4df47eb"
+   },
    {
     "name": "Collioz",
     "uuid": "f0a48b87-80c1-4ad8-9d49-9ec28be9941f"

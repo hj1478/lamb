@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Katowice",
   "uuid": "1daa9b60-aa0e-4bf6-b1b5-18ebbd0a7b2c",
-  "board": "/town set board [msg]",
+  "board": "msg",
   "founder": "kacpi777PL",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 68,
-   "maxTownBlocks": 168,
+   "numTownBlocks": 77,
+   "maxTownBlocks": 216,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 9,
+   "numResidents": 13,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -50,7 +50,7 @@
     false,
     false,
     false,
-    false
+    true
    ],
    "destroy": [
     false,
@@ -104,8 +104,16 @@
      -345
     ],
     [
+     -2597,
+     -346
+    ],
+    [
      -2598,
      -344
+    ],
+    [
+     -2597,
+     -345
     ],
     [
      -2600,
@@ -200,6 +208,10 @@
      -344
     ],
     [
+     -2595,
+     -346
+    ],
+    [
      -2596,
      -338
     ],
@@ -252,12 +264,28 @@
      -338
     ],
     [
+     -2596,
+     -345
+    ],
+    [
+     -2595,
+     -345
+    ],
+    [
      -2595,
      -344
     ],
     [
+     -2596,
+     -346
+    ],
+    [
      -2595,
      -343
+    ],
+    [
+     -2596,
+     -347
     ],
     [
      -2595,
@@ -321,6 +349,10 @@
     ],
     [
      -2603,
+     -345
+    ],
+    [
+     -2603,
      -344
     ],
     [
@@ -334,6 +366,10 @@
     [
      -2603,
      -341
+    ],
+    [
+     -2602,
+     -345
     ],
     [
      -2602,
@@ -402,6 +438,22 @@
    {
     "name": "woslord",
     "uuid": "d0036e66-3b68-4c88-8e78-854d7dc7c7ea"
+   },
+   {
+    "name": "nieznany65",
+    "uuid": "a2764c6e-5287-4842-9ecc-c20b364fead8"
+   },
+   {
+    "name": "sarimaj",
+    "uuid": "5ece62c8-5488-42c5-9af7-adeab669357e"
+   },
+   {
+    "name": "Baxkdoored",
+    "uuid": "0d3a3f7f-41d1-41dd-9020-36bfb68b706f"
+   },
+   {
+    "name": "EVILyn987",
+    "uuid": "dd3a4d45-eedb-49a7-8f79-aca1747b6ceb"
    }
   ],
   "trusted": [

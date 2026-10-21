@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "The_Glen",
   "uuid": "0862ed3d-cd60-4567-92d4-c8d92398b6c7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kenovo10",
-   "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
+   "name": "ruils",
+   "uuid": "d24e5f18-fe9b-49e2-bee2-ecf55ac176ce"
   },
   "nation": {
    "name": "Eire",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 158.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,28 +108,32 @@
      -787
     ],
     [
-     -185,
-     -788
-    ],
-    [
-     -185,
-     -789
-    ],
-    [
-     -186,
-     -789
-    ],
-    [
-     -186,
-     -788
-    ],
-    [
-     -185,
+     -184,
      -786
     ],
     [
      -186,
+     -789
+    ],
+    [
+     -186,
+     -788
+    ],
+    [
+     -186,
      -787
+    ],
+    [
+     -185,
+     -788
+    ],
+    [
+     -185,
+     -789
+    ],
+    [
+     -185,
+     -786
     ],
     [
      -185,
@@ -140,10 +144,6 @@
   },
   "residents": [
    {
-    "name": "Kenovo10",
-    "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
-   },
-   {
     "name": "ruils",
     "uuid": "d24e5f18-fe9b-49e2-bee2-ecf55ac176ce"
    }
@@ -152,6 +152,10 @@
    {
     "name": "ruils",
     "uuid": "d24e5f18-fe9b-49e2-bee2-ecf55ac176ce"
+   },
+   {
+    "name": "Kenovo10",
+    "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
    }
   ],
   "outlaws": [],

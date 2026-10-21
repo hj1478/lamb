@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "New_Springfield",
   "uuid": "0a737ad9-8bc6-4e78-aa94-71ed872bb396",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 36,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 7,
+   "numResidents": 3,
+   "numTrusted": 9,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -8095.58450020587,
-    "y": 65.0,
-    "z": -27150.51692726461,
-    "pitch": 15.900047,
-    "yaw": -78.769714
+    "x": -8103.442117993576,
+    "y": 63.5,
+    "z": -27127.826968423113,
+    "pitch": -0.07817122,
+    "yaw": 91.04548
    },
    "homeBlock": [
-    -506,
-    -1697
+    -507,
+    -1696
    ],
    "townBlocks": [
     [
@@ -96,8 +96,120 @@
      -1696
     ],
     [
+     -505,
+     -1699
+    ],
+    [
      -507,
      -1697
+    ],
+    [
+     -504,
+     -1697
+    ],
+    [
+     -507,
+     -1694
+    ],
+    [
+     -507,
+     -1695
+    ],
+    [
+     -509,
+     -1696
+    ],
+    [
+     -504,
+     -1699
+    ],
+    [
+     -509,
+     -1695
+    ],
+    [
+     -504,
+     -1698
+    ],
+    [
+     -509,
+     -1694
+    ],
+    [
+     -508,
+     -1695
+    ],
+    [
+     -508,
+     -1694
+    ],
+    [
+     -506,
+     -1699
+    ],
+    [
+     -509,
+     -1699
+    ],
+    [
+     -509,
+     -1698
+    ],
+    [
+     -509,
+     -1697
+    ],
+    [
+     -508,
+     -1697
+    ],
+    [
+     -508,
+     -1696
+    ],
+    [
+     -505,
+     -1696
+    ],
+    [
+     -505,
+     -1697
+    ],
+    [
+     -508,
+     -1699
+    ],
+    [
+     -510,
+     -1697
+    ],
+    [
+     -508,
+     -1698
+    ],
+    [
+     -505,
+     -1698
+    ],
+    [
+     -510,
+     -1696
+    ],
+    [
+     -510,
+     -1695
+    ],
+    [
+     -510,
+     -1694
+    ],
+    [
+     -506,
+     -1694
+    ],
+    [
+     -506,
+     -1695
     ],
     [
      -506,
@@ -112,20 +224,16 @@
      -1698
     ],
     [
-     -508,
-     -1697
-    ],
-    [
-     -508,
-     -1696
+     -511,
+     -1695
     ],
     [
      -507,
      -1698
     ],
     [
-     -508,
-     -1698
+     -507,
+     -1699
     ]
    ],
    "worlds": {}
@@ -138,9 +246,17 @@
    {
     "name": "godteri_1",
     "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+   },
+   {
+    "name": "figgyfox",
+    "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
    }
   ],
   "trusted": [
+   {
+    "name": "figgyfox",
+    "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
+   },
    {
     "name": "JauneMaxWell",
     "uuid": "b22af288-028a-45b2-bab1-31f5273b5a84"
@@ -148,10 +264,6 @@
    {
     "name": "Malingshu_0515",
     "uuid": "e9f93172-b128-4841-bd29-9c3190a6649d"
-   },
-   {
-    "name": "hatsune_mcqwq",
-    "uuid": "f6e24e20-dda2-4eba-8b46-b430e3a88265"
    },
    {
     "name": "Rosuuko",
@@ -162,8 +274,16 @@
     "uuid": "79b3e27c-e97f-440a-a173-f563f25eadc6"
    },
    {
+    "name": "H2O_Essence",
+    "uuid": "2bfd2099-3836-4877-8ae2-7c72bffd941b"
+   },
+   {
     "name": "_Victoria_DRINA",
     "uuid": "582c9000-e3d5-46d3-a4aa-c919fc3e47f3"
+   },
+   {
+    "name": "xigua_green",
+    "uuid": "5f80fbf6-3c86-42b1-92d3-92767396f0b6"
    },
    {
     "name": "xlh_123",
@@ -175,20 +295,34 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "godteri_1",
-     "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+     "name": "figgyfox",
+     "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
     }
    ],
    "Builder": [
     {
      "name": "godteri_1",
      "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+    },
+    {
+     "name": "figgyfox",
+     "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
     }
    ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "figgyfox",
+     "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
+    }
+   ],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "figgyfox",
+     "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
+    }
+   ],
    "Realtor": [
     {
      "name": "godteri_1",
@@ -199,6 +333,10 @@
     {
      "name": "godteri_1",
      "uuid": "11498b05-0003-4998-9f62-fdf5ec02e2c0"
+    },
+    {
+     "name": "figgyfox",
+     "uuid": "786721fb-5674-4e5a-a485-aa2888dddf32"
     }
    ]
   },

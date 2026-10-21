@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Nome",
   "uuid": "228825bc-bbc4-446f-8217-e6467f923119",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "VectorPrime05",
-   "uuid": "8fb3b2c7-4eb4-4379-8675-94df09b54872"
+   "name": "NPC75",
+   "uuid": "01f0122d-414c-202e-bca3-a9a4c61d6baa"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1779743912455,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792490402116
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -240,8 +240,8 @@
   },
   "residents": [
    {
-    "name": "VectorPrime05",
-    "uuid": "8fb3b2c7-4eb4-4379-8675-94df09b54872"
+    "name": "NPC75",
+    "uuid": "01f0122d-414c-202e-bca3-a9a4c61d6baa"
    }
   ],
   "trusted": [],

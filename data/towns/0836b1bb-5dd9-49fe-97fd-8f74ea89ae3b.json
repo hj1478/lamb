@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Essentuki",
   "uuid": "0836b1bb-5dd9-49fe-97fd-8f74ea89ae3b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "0_jestyanka_0",
-   "uuid": "7f77c037-f3b3-4b4e-975d-be6be8004d53"
+   "name": "FladorYeez",
+   "uuid": "953addfe-69fd-4345-ab2a-dda3cc401fbd"
   },
   "nation": {
    "name": "Iberia",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 47.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15822.128993577497,
-    "y": 66.0,
-    "z": -8789.692739388389,
-    "pitch": 12.758366,
-    "yaw": 90.568115
+    "x": 15714.269034703084,
+    "y": 107.0,
+    "z": -8554.42696125533,
+    "pitch": 18.104425,
+    "yaw": -129.17592
    },
    "homeBlock": [
-    988,
-    -550
+    982,
+    -535
    ],
    "townBlocks": [
     [
@@ -248,15 +248,19 @@
      -548
     ],
     [
-     992,
-     -548
+     984,
+     -547
     ],
     [
      986,
      -548
     ],
     [
-     984,
+     992,
+     -548
+    ],
+    [
+     986,
      -547
     ],
     [
@@ -265,23 +269,19 @@
     ],
     [
      986,
-     -547
+     -546
     ],
     [
      992,
      -550
     ],
     [
-     986,
-     -546
+     984,
+     -544
     ],
     [
      986,
      -545
-    ],
-    [
-     984,
-     -544
     ],
     [
      984,
@@ -296,12 +296,12 @@
      -545
     ],
     [
-     986,
-     -541
-    ],
-    [
      980,
      -537
+    ],
+    [
+     986,
+     -541
     ],
     [
      986,
@@ -360,12 +360,12 @@
      -539
     ],
     [
-     989,
-     -538
-    ],
-    [
      984,
      -535
+    ],
+    [
+     989,
+     -538
     ],
     [
      984,
@@ -544,18 +544,38 @@
   },
   "residents": [
    {
+    "name": "FladorYeez",
+    "uuid": "953addfe-69fd-4345-ab2a-dda3cc401fbd"
+   },
+   {
     "name": "0_jestyanka_0",
     "uuid": "7f77c037-f3b3-4b4e-975d-be6be8004d53"
    }
   ],
   "trusted": [
    {
+    "name": "mr_ballchansky",
+    "uuid": "82a5809e-645c-435e-8a09-4b05799619a1"
+   },
+   {
     "name": "FladorYeez",
     "uuid": "953addfe-69fd-4345-ab2a-dda3cc401fbd"
    },
    {
+    "name": "krabchik90",
+    "uuid": "36830885-b269-4f59-a6de-a2375ffd30c8"
+   },
+   {
+    "name": "NNacheZs47",
+    "uuid": "b6fd0607-fbed-42ca-871b-3e6e8ddc4789"
+   },
+   {
     "name": "0_Programmss_0",
     "uuid": "79ad17dd-ddf4-43e0-af39-be4cae04573b"
+   },
+   {
+    "name": "fgdhg",
+    "uuid": "ecc89beb-fbdf-4fed-8455-807c8e905cb6"
    }
   ],
   "outlaws": [],

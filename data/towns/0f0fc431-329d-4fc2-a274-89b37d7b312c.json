@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-10-14T12:03:20Z",
+ "fetched_at": "2026-10-21T11:59:58Z",
  "data": {
   "name": "Elbe",
   "uuid": "0f0fc431-329d-4fc2-a274-89b37d7b312c",
-  "board": "do not download twitter you are kanye west",
+  "board": "drain the emc swamp",
   "founder": "Texacoo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Texacoo",
-   "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
+   "name": "NPC117",
+   "uuid": "e3012833-705d-20dd-990a-e1eaefaf321f"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791685412335,
-   "joinedNationAt": 1791685417345,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792432229600
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 37,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 38,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 140.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,19 +108,11 @@
      -830
     ],
     [
-     233,
-     -827
-    ],
-    [
      235,
      -829
     ],
     [
      235,
-     -828
-    ],
-    [
-     233,
      -828
     ],
     [
@@ -150,6 +142,18 @@
     [
      238,
      -831
+    ],
+    [
+     239,
+     -826
+    ],
+    [
+     239,
+     -827
+    ],
+    [
+     239,
+     -828
     ],
     [
      237,
@@ -244,14 +248,18 @@
   },
   "residents": [
    {
-    "name": "Texacoo",
-    "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
+    "name": "NPC117",
+    "uuid": "e3012833-705d-20dd-990a-e1eaefaf321f"
    }
   ],
   "trusted": [
    {
     "name": "Copppelia",
     "uuid": "eaa28acb-f899-4a3e-a47c-f0b99b9b5a55"
+   },
+   {
+    "name": "XLNuggets",
+    "uuid": "341b028f-07d8-4dcb-9f17-711d38f713f5"
    }
   ],
   "outlaws": [],
