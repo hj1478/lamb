@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Orion",
   "uuid": "27559e04-14b4-49a9-ab52-8938c279c75a",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 138,
-   "maxTownBlocks": 186,
+   "maxTownBlocks": 130,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 13,
+   "nationBonus": 10,
+   "numResidents": 10,
    "numTrusted": 1,
    "numOutlaws": 6,
-   "balance": 174.0,
+   "balance": 226.0,
    "forSalePrice": null
   },
   "perms": {
@@ -653,6 +653,10 @@
   },
   "residents": [
    {
+    "name": "Shilonor",
+    "uuid": "0de8c07f-c36a-4d08-be44-0394abbb8eb0"
+   },
+   {
     "name": "MalyZohan",
     "uuid": "21743e0b-6960-4ada-b0c3-5101e753db66"
    },
@@ -673,24 +677,8 @@
     "uuid": "17e70930-1f22-45ec-a2f2-666258638480"
    },
    {
-    "name": "KasperPro112",
-    "uuid": "9d3d5e6e-9bb0-4a12-92eb-cba0ca01fec4"
-   },
-   {
-    "name": "0n3_T",
-    "uuid": "7efbd3ff-f970-4dea-8ed4-e7b4772d36d4"
-   },
-   {
-    "name": "LaughOutLoaud99",
-    "uuid": "db448a3b-b5d6-40fd-8610-74ce45b8e86b"
-   },
-   {
     "name": "mrdeadman123",
     "uuid": "9fd98138-e4eb-4cbd-aedd-4e786cbe2001"
-   },
-   {
-    "name": "_nat_1",
-    "uuid": "db6e9628-c866-40d2-926c-2042e86a1d3e"
    },
    {
     "name": "Khalood2013",
@@ -717,7 +705,7 @@
     "uuid": "74b0f882-483d-4533-868c-eb822a837b1b"
    },
    {
-    "name": "____Tenebris____",
+    "name": "__Exterminatus__",
     "uuid": "4b614d98-7717-464b-b001-4496d16f7e0a"
    },
    {
@@ -791,10 +779,6 @@
     "uuid": "6e7a0512-7449-475e-b532-5a428b365b28"
    },
    {
-    "name": "Welcoming Residence",
-    "uuid": "7107789d-1cac-48bd-8921-2392d129413c"
-   },
-   {
     "name": "Set Your Home Here",
     "uuid": "8c81e7c6-d18b-4476-9a5e-b75e24f9e2fe"
    },
@@ -803,12 +787,16 @@
     "uuid": "12e7c999-e660-4fb2-8a52-886a8e99338a"
    },
    {
+    "name": "Carpets",
+    "uuid": "608f4016-2878-47dc-aa0a-d06c77dd7dc2"
+   },
+   {
     "name": "Maparts And Glass Panes Here",
     "uuid": "47a2bea4-9d4b-469e-a570-791a7c2806df"
    },
    {
-    "name": "Carpets",
-    "uuid": "608f4016-2878-47dc-aa0a-d06c77dd7dc2"
+    "name": "Welcoming Residence",
+    "uuid": "7107789d-1cac-48bd-8921-2392d129413c"
    },
    {
     "name": "2D Canvas",

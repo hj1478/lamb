@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Airport",
   "uuid": "48ace9fb-c583-48b5-8369-38473a9412ed",
@@ -12,12 +12,12 @@
    "uuid": "1c5de4fa-6db7-4181-b028-a385f7fcc3b0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
    "registered": 1792468794874,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792659240722,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 40.0,
    "forSalePrice": null
   },
   "perms": {

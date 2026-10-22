@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Dalaman",
   "uuid": "2a977141-0ca8-4ef1-88a6-f59438149b85",
-  "board": "Fethiye-Kemer-Dalaman",
+  "board": "Kemer Municipality",
   "founder": "resonity",
   "wiki": null,
   "discord": null,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 6,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -74,21 +74,21 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10390.48059558908,
-    "y": 76.02442408821369,
-    "z": -5873.850386470933,
-    "pitch": 15.405556,
-    "yaw": -176.46182
+    "x": 10671.452086123,
+    "y": 94.0,
+    "z": -5814.269846427236,
+    "pitch": 13.8912115,
+    "yaw": -178.43872
    },
    "homeBlock": [
-    649,
-    -368
+    666,
+    -364
    ],
    "townBlocks": [
     [
@@ -422,28 +422,12 @@
   ],
   "trusted": [
    {
-    "name": "unitypilon_",
-    "uuid": "ad6ae0f1-a522-4a39-9cce-db20de3e1902"
-   },
-   {
-    "name": "Aras775",
-    "uuid": "ff700f10-9fef-4ff0-8930-25568f3af140"
+    "name": "_lengyel",
+    "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
    },
    {
     "name": "Cosner1777",
     "uuid": "b4f55a23-b219-4506-bf14-4291440178c1"
-   },
-   {
-    "name": "Panect",
-    "uuid": "9b3484eb-c694-4f42-804e-57feb829350c"
-   },
-   {
-    "name": "Teukris",
-    "uuid": "85c78009-5319-4691-b0b4-a510e3e4859b"
-   },
-   {
-    "name": "HasanHasa",
-    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
    }
   ],
   "outlaws": [],

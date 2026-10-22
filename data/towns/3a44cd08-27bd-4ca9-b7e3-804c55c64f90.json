@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Gospic",
   "uuid": "3a44cd08-27bd-4ca9-b7e3-804c55c64f90",
@@ -29,13 +29,13 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
+   "numTownBlocks": 19,
    "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12332.629249410531,
-    "y": 64.0,
-    "z": -18142.51873865907,
-    "pitch": 16.34997,
-    "yaw": -85.62744
+    "x": 12331.394727300214,
+    "y": 52.0,
+    "z": -18152.748956076997,
+    "pitch": 25.050013,
+    "yaw": 86.8689
    },
    "homeBlock": [
     770,
-    -1134
+    -1135
    ],
    "townBlocks": [
     [
@@ -138,6 +138,10 @@
     [
      772,
      -1135
+    ],
+    [
+     772,
+     -1136
     ],
     [
      772,

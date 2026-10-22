@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Malacca",
   "uuid": "27f7f6e0-02d6-4524-a2cc-14fb18e41ff0",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 103,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 118,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 8,
+   "nationBonus": 10,
+   "numResidents": 9,
    "numTrusted": 3,
    "numOutlaws": 4,
-   "balance": 50.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -538,6 +538,10 @@
    {
     "name": "aren_hitsync",
     "uuid": "d185c70c-ae59-453b-a6b8-b2bc953d72a7"
+   },
+   {
+    "name": "cavecutter",
+    "uuid": "4f3c277f-77b9-4dd1-ac8d-5e39191b0608"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Snowcoast",
   "uuid": "3f49342b-3794-4f6b-8998-efe8ec924f90",
@@ -12,12 +12,12 @@
    "uuid": "0d5bc735-5291-43ae-80c2-918f56da56b7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Svalbard",
+   "uuid": "c0c9269e-3681-420d-9746-7b833bddbf64"
   },
   "timestamps": {
    "registered": 1784277890117,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792297346079,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

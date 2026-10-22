@@ -1,31 +1,31 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Gold",
   "uuid": "30b52fe8-bf6d-4897-8fef-1a2f7e43012b",
-  "board": "JOIN GOLDS CASINO TODAY! Discord kp7aVSgrFc",
+  "board": "The House of Gold",
   "founder": "Gautomy",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.com/invite/kp7aVSgrFc",
   "mayor": {
    "name": "Gautomy",
    "uuid": "05608f76-bab9-4fb0-b925-70e92c98174c"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": "SA",
+   "uuid": "7d66f8e6-37d5-4133-b950-2d1d48d926b0"
   },
   "timestamps": {
    "registered": 1776623548457,
-   "joinedNationAt": 1785965805099,
+   "joinedNationAt": 1792533273566,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
-   "isOverClaimed": false,
+   "isCapital": true,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 334,
-   "maxTownBlocks": 352,
+   "numTownBlocks": 335,
+   "maxTownBlocks": 274,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 21,
+   "nationBonus": 10,
+   "numResidents": 22,
    "numTrusted": 6,
-   "numOutlaws": 58,
-   "balance": 26339.0,
+   "numOutlaws": 56,
+   "balance": 28230.0,
    "forSalePrice": 1000000.0
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 49461.612323363566,
+    "x": 49461.77296003726,
     "y": 65.0,
-    "z": 21416.761585037253,
-    "pitch": -1.5069207,
-    "yaw": 91.243164
+    "z": 21416.749072194354,
+    "pitch": -4.004481,
+    "yaw": 91.06964
    },
    "homeBlock": [
     3091,
@@ -310,6 +310,10 @@
     [
      3087,
      1337
+    ],
+    [
+     3087,
+     1336
     ],
     [
      3073,
@@ -1432,10 +1436,6 @@
   },
   "residents": [
    {
-    "name": "BobDaBag23",
-    "uuid": "ecf32cca-ca88-421d-bbdc-9bf5bc0f3c9d"
-   },
-   {
     "name": "JattDontCare",
     "uuid": "51b4e09d-e68a-43b7-8a04-d48a39ee1721"
    },
@@ -1446,10 +1446,6 @@
    {
     "name": "Gautomy",
     "uuid": "05608f76-bab9-4fb0-b925-70e92c98174c"
-   },
-   {
-    "name": "Amna_7",
-    "uuid": "755e5092-9bdf-4964-afbc-1fd4f7dbf86a"
    },
    {
     "name": "soramame2338",
@@ -1484,10 +1480,6 @@
     "uuid": "78811a62-b996-4605-a957-fc81d939d0d5"
    },
    {
-    "name": "Dishonesty",
-    "uuid": "bd313b6f-ff4a-440e-affa-ffe9c5706346"
-   },
-   {
     "name": "JustTurpy",
     "uuid": "6ffc0ddc-4008-49a2-bbd7-1f8b3ac94506"
    },
@@ -1504,16 +1496,32 @@
     "uuid": "eae12441-16a3-43d2-b6dd-ed1f9eb32ec1"
    },
    {
-    "name": "Yashenn",
-    "uuid": "6bca276c-7416-456f-8db3-4fba54ce129a"
-   },
-   {
     "name": "ok8super",
     "uuid": "c94cd196-866c-4afd-8751-cdbd856e8101"
    },
    {
-    "name": "BigFloppySausage",
-    "uuid": "5e6c6dce-64b8-497a-bd7c-17e5670ede27"
+    "name": "EVZLikesRoblox",
+    "uuid": "c45a7e71-c6da-46f0-bd7c-ebd8acc99b13"
+   },
+   {
+    "name": "FarmerQuan",
+    "uuid": "8c702451-bddc-4454-8121-4e3cd311c3a7"
+   },
+   {
+    "name": "Skopski55",
+    "uuid": "419e220f-daae-4816-9ae4-0a3553d1e38c"
+   },
+   {
+    "name": "Dishonesty",
+    "uuid": "bd313b6f-ff4a-440e-affa-ffe9c5706346"
+   },
+   {
+    "name": "Landenden",
+    "uuid": "eacc79e6-0921-42ad-ae2a-e9daa7ddf109"
+   },
+   {
+    "name": "Zxbear26",
+    "uuid": "65cb3edd-c689-42fe-b253-00d6df8f7f25"
    }
   ],
   "trusted": [
@@ -1543,10 +1551,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Olivio90",
-    "uuid": "aca7163c-1dc6-40be-accb-59055ffa71a7"
-   },
    {
     "name": "Enki_Ptah",
     "uuid": "eef7b565-a508-4d4a-b286-8bf1bf9624fb"
@@ -1716,10 +1720,6 @@
     "uuid": "b568809f-e8a7-4501-a810-2db89924c3d5"
    },
    {
-    "name": "FinfinJAC1",
-    "uuid": "5e09f2f0-b04a-4579-b144-5322e88ebcc1"
-   },
-   {
     "name": "EWisawesome",
     "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
    },
@@ -1800,6 +1800,10 @@
    {
     "name": "Stylish Flat",
     "uuid": "de7bf749-71bf-439f-886b-e74dedf48aba"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "87e75f43-90ec-42be-b7e1-f6f0fb4185f6"
    }
   ],
   "ranks": {
@@ -1818,6 +1822,14 @@
     {
      "name": "JattDontCare",
      "uuid": "51b4e09d-e68a-43b7-8a04-d48a39ee1721"
+    },
+    {
+     "name": "Dishonesty",
+     "uuid": "bd313b6f-ff4a-440e-affa-ffe9c5706346"
+    },
+    {
+     "name": "Landenden",
+     "uuid": "eacc79e6-0921-42ad-ae2a-e9daa7ddf109"
     }
    ],
    "Police": [],

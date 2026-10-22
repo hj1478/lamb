@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Orazzano",
   "uuid": "326b6c9f-bdee-49bf-9c15-156a8e6f22df",
@@ -12,12 +12,12 @@
    "uuid": "754c6dc9-589c-41fe-846a-a84caf59148b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Tuscany",
+   "uuid": "b5830245-ba6e-48e3-9e5c-d196aa1efc5e"
   },
   "timestamps": {
    "registered": 1779051971989,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792531666751,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 22,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 37.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -112,11 +112,23 @@
      -572
     ],
     [
+     229,
+     -571
+    ],
+    [
      233,
      -573
     ],
     [
+     229,
+     -572
+    ],
+    [
      234,
+     -573
+    ],
+    [
+     229,
      -573
     ],
     [

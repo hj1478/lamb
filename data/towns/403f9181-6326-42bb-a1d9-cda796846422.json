@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Cavalcante",
   "uuid": "403f9181-6326-42bb-a1d9-cda796846422",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
+   "numTownBlocks": 41,
    "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 14,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 177.0,
+   "balance": 134.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,6 +100,10 @@
      789
     ],
     [
+     -1083,
+     790
+    ],
+    [
      -1081,
      787
     ],
@@ -112,6 +116,14 @@
      789
     ],
     [
+     -1081,
+     790
+    ],
+    [
+     -1081,
+     783
+    ],
+    [
      -1079,
      787
     ],
@@ -137,6 +149,14 @@
     ],
     [
      -1079,
+     790
+    ],
+    [
+     -1079,
+     783
+    ],
+    [
+     -1079,
      784
     ],
     [
@@ -150,6 +170,10 @@
     [
      -1080,
      789
+    ],
+    [
+     -1080,
+     790
     ],
     [
      -1080,
@@ -169,7 +193,15 @@
     ],
     [
      -1080,
+     783
+    ],
+    [
+     -1080,
      784
+    ],
+    [
+     -1082,
+     783
     ],
     [
      -1082,
@@ -182,6 +214,10 @@
     [
      -1082,
      786
+    ],
+    [
+     -1083,
+     783
     ],
     [
      -1082,
@@ -206,6 +242,10 @@
     [
      -1083,
      786
+    ],
+    [
+     -1082,
+     790
     ],
     [
      -1083,
@@ -269,16 +309,16 @@
     "uuid": "e86f221c-59ca-468d-a609-5ea3471df016"
    },
    {
-    "name": "SaintLaurentBong",
-    "uuid": "508012d2-9e68-41ed-bc91-d198281dde12"
-   },
-   {
-    "name": "Bounty_zxy",
+    "name": "nedwels",
     "uuid": "a2386f42-9bf8-46b3-9133-6dffc353e21f"
    },
    {
     "name": "Mr_bacon67",
     "uuid": "40f4d397-7531-45eb-844a-26a58aea9b17"
+   },
+   {
+    "name": "Gabrielsouzaft1d",
+    "uuid": "960d2664-dde7-46cb-9155-689f421b3d01"
    }
   ],
   "trusted": [],
@@ -291,15 +331,19 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [
     {
-     "name": "Bounty_zxy",
+     "name": "T_IsBoss",
+     "uuid": "35affcff-c5fb-4ecf-9b55-890417be6a12"
+    },
+    {
+     "name": "nedwels",
      "uuid": "a2386f42-9bf8-46b3-9133-6dffc353e21f"
     }
    ],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

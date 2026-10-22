@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Croatia",
   "uuid": "4331ebd5-5383-4909-97b1-91324d84bfa8",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 125,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 3.0,
@@ -606,6 +606,10 @@
    {
     "name": "TheCoreDev",
     "uuid": "e42444e7-0e4a-4050-b1c4-fa3ee4aee0ab"
+   },
+   {
+    "name": "Flower225",
+    "uuid": "8936018b-5a20-42a7-b032-af03e395662d"
    }
   ],
   "trusted": [],

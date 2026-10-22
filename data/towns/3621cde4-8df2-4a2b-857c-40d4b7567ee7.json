@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Bjornoya",
   "uuid": "3621cde4-8df2-4a2b-857c-40d4b7567ee7",
-  "board": "The most isolated town in Svalbard!",
+  "board": "Gateway to Svalbard",
   "founder": "Huggah7",
   "wiki": null,
   "discord": null,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 46,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 10,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6826.499183341531,
+    "x": 6824.487447764752,
     "y": 63.0,
-    "z": -25421.586412074746,
-    "pitch": 70.95011,
-    "yaw": -43.75333
+    "z": -25425.258796570728,
+    "pitch": 79.65023,
+    "yaw": -177.40332
    },
    "homeBlock": [
     426,
-    -1589
+    -1590
    ],
    "townBlocks": [
     [
@@ -105,6 +105,18 @@
     ],
     [
      425,
+     -1590
+    ],
+    [
+     426,
+     -1587
+    ],
+    [
+     425,
+     -1587
+    ],
+    [
+     425,
      -1589
     ],
     [
@@ -112,11 +124,23 @@
      -1588
     ],
     [
-     426,
-     -1587
+     427,
+     -1588
     ],
     [
      427,
+     -1587
+    ],
+    [
+     428,
+     -1589
+    ],
+    [
+     427,
+     -1590
+    ],
+    [
+     428,
      -1588
     ],
     [
@@ -134,6 +158,10 @@
    {
     "name": "riot690",
     "uuid": "cad1485c-d26b-42f9-b844-1ebd2f052fa5"
+   },
+   {
+    "name": "kerovyr",
+    "uuid": "d6a3f75d-2e2f-4876-9005-f6f4d31b4268"
    }
   ],
   "trusted": [
@@ -150,7 +178,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "kerovyr",
+     "uuid": "d6a3f75d-2e2f-4876-9005-f6f4d31b4268"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

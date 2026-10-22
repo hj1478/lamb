@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "MLCC",
   "uuid": "455fc6da-f3ff-4be8-87d6-712cc4e61cf3",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "foolishman945",
-   "uuid": "636b4421-d34b-4eba-b963-43ea79758af2"
+   "name": "itzrealLivyhere",
+   "uuid": "7eb38be5-e1d4-4bf3-ba2f-60ca49b4eaa3"
   },
   "nation": {
    "name": "Ming",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 4,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -158,9 +158,21 @@
    {
     "name": "xxluokun",
     "uuid": "dbcf4740-084a-42f3-b06e-c753bbbdccdc"
+   },
+   {
+    "name": "itzrealLivyhere",
+    "uuid": "7eb38be5-e1d4-4bf3-ba2f-60ca49b4eaa3"
    }
   ],
   "trusted": [
+   {
+    "name": "NL733",
+    "uuid": "cbd263fa-8eb8-47cf-9b19-01fd02e192ea"
+   },
+   {
+    "name": "bbdqz",
+    "uuid": "b2edf2d2-2c5c-4fe2-9e53-36718b51b780"
+   },
    {
     "name": "foolishman945",
     "uuid": "636b4421-d34b-4eba-b963-43ea79758af2"
@@ -177,7 +189,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "foolishman945",
+     "uuid": "636b4421-d34b-4eba-b963-43ea79758af2"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

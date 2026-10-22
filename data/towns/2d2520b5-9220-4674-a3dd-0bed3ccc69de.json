@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Cheyenne",
   "uuid": "2d2520b5-9220-4674-a3dd-0bed3ccc69de",
-  "board": "Cheyenne Frontier Days!",
+  "board": "Break the Sword",
   "founder": "Texacoo",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1792433355708,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792557662762,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1603.0,
+   "balance": 1547.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     -2337,
+     -490
+    ],
+    [
      -2336,
      -490
+    ],
+    [
+     -2335,
+     -490
+    ],
+    [
+     -2335,
+     -491
+    ],
+    [
+     -2336,
+     -491
     ]
    ],
    "worlds": {}

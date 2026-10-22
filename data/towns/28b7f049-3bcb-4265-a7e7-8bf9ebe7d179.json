@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "NewChengDu",
   "uuid": "28b7f049-3bcb-4265-a7e7-8bf9ebe7d179",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CHIXERXYZTMS",
-   "uuid": "e440d8c4-c9a5-4f5c-9438-449a8d9f1907"
+   "name": "NPC76",
+   "uuid": "2397d6c3-8bf5-20e0-94c3-015b4a23ec76"
   },
   "nation": {
-   "name": "China",
-   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777699921778,
-   "joinedNationAt": 1777701153813,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792490402366
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 102,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 10,
    "balance": 140.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -504,12 +504,8 @@
   },
   "residents": [
    {
-    "name": "CHIXERXYZTMS",
-    "uuid": "e440d8c4-c9a5-4f5c-9438-449a8d9f1907"
-   },
-   {
-    "name": "proegg01",
-    "uuid": "1fea5197-1f90-480f-a92e-dc198bf02c86"
+    "name": "NPC76",
+    "uuid": "2397d6c3-8bf5-20e0-94c3-015b4a23ec76"
    }
   ],
   "trusted": [

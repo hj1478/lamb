@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Arorium",
   "uuid": "333bae93-0934-4b7e-94ba-7eae30339a63",
@@ -12,12 +12,12 @@
    "uuid": "90beec82-7db5-43ad-bf16-bb77d9888c16"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1789203704929,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792479345165,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 29,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 3,

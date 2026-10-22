@@ -1,0 +1,128 @@
+{
+ "fetched_at": "2026-10-22T12:03:01Z",
+ "data": {
+  "name": "Bonito",
+  "uuid": "e5bbd71d-a797-44ee-a4f5-c1d07869c5c2",
+  "board": "/town set board [msg]",
+  "founder": "Mr_Rookie",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Mr_Rookie",
+   "uuid": "4c5b1c24-b2ed-4dd8-bf1f-5a8ff659c01c"
+  },
+  "nation": {
+   "name": "Costa_Rica",
+   "uuid": "956f81af-3c83-4ebb-bb63-96f8d2e72889"
+  },
+  "timestamps": {
+   "registered": 1792611941534,
+   "joinedNationAt": 1792611973388,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 22,
+   "bonusBlocks": 0,
+   "nationBonus": 10,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -30749.30000001192,
+    "y": 67.0,
+    "z": 4094.699999988079,
+    "pitch": 64.19998,
+    "yaw": 94.92578
+   },
+   "homeBlock": [
+    -1922,
+    255
+   ],
+   "townBlocks": [
+    [
+     -1922,
+     255
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Mr_Rookie",
+    "uuid": "4c5b1c24-b2ed-4dd8-bf1f-5a8ff659c01c"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "jamari_aymara23",
+    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

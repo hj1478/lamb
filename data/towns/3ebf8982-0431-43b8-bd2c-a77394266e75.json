@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Paranagua",
   "uuid": "3ebf8982-0431-43b8-bd2c-a77394266e75",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 149,
+   "numTownBlocks": 146,
    "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
-   "numTrusted": 3,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -121,6 +121,10 @@
     ],
     [
      -1066,
+     1055
+    ],
+    [
+     -1066,
      1054
     ],
     [
@@ -180,10 +184,6 @@
      1053
     ],
     [
-     -1060,
-     1052
-    ],
-    [
      -1075,
      1061
     ],
@@ -234,10 +234,6 @@
     [
      -1058,
      1052
-    ],
-    [
-     -1064,
-     1053
     ],
     [
      -1064,
@@ -489,11 +485,11 @@
     ],
     [
      -1065,
-     1052
+     1055
     ],
     [
      -1065,
-     1053
+     1052
     ],
     [
      -1063,
@@ -538,10 +534,6 @@
     [
      -1067,
      1052
-    ],
-    [
-     -1067,
-     1053
     ],
     [
      -1067,
@@ -656,10 +648,6 @@
      1058
     ],
     [
-     -1062,
-     1054
-    ],
-    [
      -1068,
      1057
     ],
@@ -716,6 +704,10 @@
    {
     "name": "lhpostal",
     "uuid": "52153c1d-21da-4011-866d-c70aa4983409"
+   },
+   {
+    "name": "Person_2d",
+    "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
    },
    {
     "name": "Sekhnmet",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Lira",
   "uuid": "32ac76c7-239d-4d66-9c28-35063863916f",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 340,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 364,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 20,
+   "numResidents": 22,
    "numTrusted": 4,
    "numOutlaws": 12,
-   "balance": 2.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27410.774864158022,
-    "y": 72.0,
-    "z": 10396.289814551868,
-    "pitch": 20.399967,
-    "yaw": 91.088776
+    "x": -27389.801701043314,
+    "y": 71.0,
+    "z": 10423.611182086757,
+    "pitch": 14.399972,
+    "yaw": 88.68012
    },
    "homeBlock": [
-    -1714,
-    649
+    -1712,
+    651
    ],
    "townBlocks": [
     [
@@ -96,6 +96,10 @@
      651
     ],
     [
+     -1710,
+     653
+    ],
+    [
      -1713,
      650
     ],
@@ -109,6 +113,10 @@
     ],
     [
      -1715,
+     649
+    ],
+    [
+     -1715,
      652
     ],
     [
@@ -126,6 +134,10 @@
     [
      -1715,
      653
+    ],
+    [
+     -1708,
+     649
     ],
     [
      -1709,
@@ -138,6 +150,14 @@
     [
      -1709,
      652
+    ],
+    [
+     -1709,
+     653
+    ],
+    [
+     -1709,
+     649
     ],
     [
      -1714,
@@ -152,12 +172,20 @@
      649
     ],
     [
+     -1716,
+     651
+    ],
+    [
      -1714,
      653
     ],
     [
      -1714,
      652
+    ],
+    [
+     -1708,
+     650
     ],
     [
      -1708,
@@ -172,8 +200,16 @@
      651
     ],
     [
+     -1711,
+     653
+    ],
+    [
      -1712,
      652
+    ],
+    [
+     -1710,
+     649
     ],
     [
      -1712,
@@ -248,10 +284,6 @@
     "uuid": "e08878cb-725c-47e3-b8f3-8cd2a0589716"
    },
    {
-    "name": "Optiv",
-    "uuid": "cc1d57b2-0730-4d28-af08-cf6ccc0b2ff6"
-   },
-   {
     "name": "CaptainSwann",
     "uuid": "54563374-c05f-4b0c-89bc-ce01a1ceb523"
    },
@@ -294,6 +326,18 @@
    {
     "name": "ItzVixo",
     "uuid": "de6c170c-1292-4c20-84c6-f98e07e7f9df"
+   },
+   {
+    "name": "Darth_Frog",
+    "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
+   },
+   {
+    "name": "leo47473",
+    "uuid": "dfcc7768-7258-4731-b718-9d6cbe91c56c"
+   },
+   {
+    "name": "gian00001",
+    "uuid": "8c430d55-8f3b-4865-a843-c1a0909dc645"
    }
   ],
   "trusted": [
@@ -360,8 +404,8 @@
     "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
    },
    {
-    "name": "Vorticks",
-    "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    }
   ],
   "quarters": [
@@ -426,24 +470,24 @@
     "uuid": "98087992-bcbd-4d9d-b0d0-0c0289a5ec0a"
    },
    {
-    "name": "Perturbing Property",
-    "uuid": "d6c3bcc7-31d0-41ca-b91f-f4f5be2b57e0"
+    "name": "Welcoming Property",
+    "uuid": "be9a25a2-dd6a-40ed-b3db-b3ce4662b315"
    },
    {
-    "name": "dub_of_tuff",
-    "uuid": "6862524e-2d38-4f30-a146-0b1e1c302c2b"
+    "name": "Perturbing Dwelling",
+    "uuid": "b96ea6b7-e7d8-4b6f-b7fc-0c5bba96606d"
    },
    {
-    "name": "dub_of_netherrack",
-    "uuid": "231d57aa-355c-4847-bdd1-8579984f6962"
-   },
-   {
-    "name": "Dingy Dwelling",
-    "uuid": "5312696a-6553-4315-a151-a52602b98bc4"
+    "name": "trick_or_treat",
+    "uuid": "077f28e7-1445-4e1c-adc7-04e1c596ba45"
    },
    {
     "name": "Lovely Property",
     "uuid": "e9d67cf4-efc0-4573-9308-b6db5a0c68e3"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "5312696a-6553-4315-a151-a52602b98bc4"
    }
   ],
   "ranks": {

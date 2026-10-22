@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "SpriteLand",
   "uuid": "2fda6263-a848-4e0d-b23f-75c20a3570b4",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6184.579511175387,
+    "x": 6186.541800966625,
     "y": 63.0,
-    "z": -10581.032836401197,
-    "pitch": 9.203918,
-    "yaw": 86.6658
+    "z": -10579.055798669557,
+    "pitch": 20.892593,
+    "yaw": 179.70996
    },
    "homeBlock": [
     386,
     -662
    ],
    "townBlocks": [
+    [
+     386,
+     -660
+    ],
     [
      386,
      -661
@@ -101,7 +105,15 @@
     ],
     [
      388,
+     -660
+    ],
+    [
+     388,
      -661
+    ],
+    [
+     387,
+     -660
     ],
     [
      387,
@@ -122,10 +134,19 @@
    {
     "name": "prosteluki",
     "uuid": "43bd71ba-5be0-4774-9cf0-efaec9acf1a6"
+   },
+   {
+    "name": "Veltrixik_YT",
+    "uuid": "7cbf8782-d73a-4772-8ac6-d791e6e8f62e"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

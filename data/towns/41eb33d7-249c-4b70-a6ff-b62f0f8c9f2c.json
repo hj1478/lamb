@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Chittagong",
   "uuid": "41eb33d7-249c-4b70-a6ff-b62f0f8c9f2c",
@@ -12,12 +12,12 @@
    "uuid": "79d916bd-03bb-48c2-8859-d39db29471ed"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Narmada",
+   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
   },
   "timestamps": {
    "registered": 1776453972408,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792264891821,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 105,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 5,

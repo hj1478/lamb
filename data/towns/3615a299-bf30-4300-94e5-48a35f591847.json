@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Shanghai",
   "uuid": "3615a299-bf30-4300-94e5-48a35f591847",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 340,
-   "maxTownBlocks": 376,
+   "maxTownBlocks": 352,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 23,
+   "numResidents": 21,
    "numTrusted": 11,
    "numOutlaws": 5,
-   "balance": 46.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1472,10 +1472,6 @@
     "uuid": "89978060-2b84-4ddd-bf2f-c1139a33414d"
    },
    {
-    "name": "MrBlixz",
-    "uuid": "92e518fc-8733-4b9f-81e7-07558b8b8f77"
-   },
-   {
     "name": "MAyullyn",
     "uuid": "55f23fe2-d007-46c3-b901-574f5fb70a5a"
    },
@@ -1488,16 +1484,12 @@
     "uuid": "385a4eaf-e27b-427b-b97e-27198a1658c4"
    },
    {
-    "name": "SunJinza",
-    "uuid": "411e7cfe-d6b2-4e39-8a3b-deca759afa7e"
+    "name": "Lingyun__MC",
+    "uuid": "63ff3923-e77a-411b-baa1-f4107da69333"
    },
    {
     "name": "JosiahWong",
     "uuid": "616e9fd0-5023-4dab-bd4b-4ab8f2fcc34e"
-   },
-   {
-    "name": "ComeYouZhen",
-    "uuid": "296361b6-cc2d-4d63-ad41-8355f8ca8faa"
    },
    {
     "name": "SHADER12",
@@ -1540,12 +1532,12 @@
     "uuid": "1e3f13c3-6f2c-4755-9a05-1ea975cbc681"
    },
    {
-    "name": "Albertchen857",
-    "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
-   },
-   {
     "name": "Late__autumn",
     "uuid": "d877d3a5-8289-48b4-9520-d89bbd33c94d"
+   },
+   {
+    "name": "dmd2014",
+    "uuid": "e2dcf9ca-c595-49a5-8266-47d4d7399da1"
    }
   ],
   "trusted": [
@@ -1684,68 +1676,7 @@
     }
    ]
   },
-  "warps": [
-   {
-    "name": "afk_mobs",
-    "uuid": "cc43e40a-5855-4a57-8056-6e65f3b6841b",
-    "createdAt": 1779789348916,
-    "createdBy": "ming2022",
-    "access": "NATION",
-    "location": {
-     "x": 43446,
-     "y": 80,
-     "z": -3364
-    }
-   },
-   {
-    "name": "afk_cactus",
-    "uuid": "bd4eea26-ab51-47bd-8619-28108d93c4b6",
-    "createdAt": 1779789294350,
-    "createdBy": "ming2022",
-    "access": "NATION",
-    "location": {
-     "x": 43564,
-     "y": 45,
-     "z": -3453
-    }
-   },
-   {
-    "name": "wool",
-    "uuid": "145707e4-8aeb-43dd-97a4-1c04a0e1e5eb",
-    "createdAt": 1781016295569,
-    "createdBy": "ming2022",
-    "access": "NATION",
-    "location": {
-     "x": 43342,
-     "y": 62,
-     "z": -3329
-    }
-   },
-   {
-    "name": "puxi",
-    "uuid": "3450b6d0-7c29-48cd-b19f-43d24d69a60e",
-    "createdAt": 1786857897983,
-    "createdBy": "LAOLING__",
-    "access": "RESIDENT",
-    "location": {
-     "x": 43382,
-     "y": 64,
-     "z": -3459
-    }
-   },
-   {
-    "name": "sort",
-    "uuid": "984f0b33-435b-456a-acb6-d21df1b7750f",
-    "createdAt": 1780024954813,
-    "createdBy": "ming2022",
-    "access": "NATION",
-    "location": {
-     "x": 43618,
-     "y": 66,
-     "z": -3452
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

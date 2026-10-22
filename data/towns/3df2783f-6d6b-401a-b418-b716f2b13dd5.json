@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Verity",
   "uuid": "3df2783f-6d6b-401a-b418-b716f2b13dd5",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mining_skalps",
-   "uuid": "fa7c842a-6ccc-4274-9a1f-0a6cd3380282"
+   "name": "NPC140",
+   "uuid": "06db8d6c-6d1d-2006-a3ef-8f609be301f7"
   },
   "nation": {
    "name": null,
@@ -18,18 +18,18 @@
   "timestamps": {
    "registered": 1790886496590,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792575063077
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 33.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "mining_skalps",
-    "uuid": "fa7c842a-6ccc-4274-9a1f-0a6cd3380282"
+    "name": "NPC140",
+    "uuid": "06db8d6c-6d1d-2006-a3ef-8f609be301f7"
    }
   ],
   "trusted": [

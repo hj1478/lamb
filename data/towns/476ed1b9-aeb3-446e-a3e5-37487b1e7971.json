@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Vlore",
   "uuid": "476ed1b9-aeb3-446e-a3e5-37487b1e7971",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776642286097,
-   "joinedNationAt": 1791901372860,
+   "joinedNationAt": 1792245853016,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 4,
+   "numTrusted": 4,
    "numOutlaws": 6,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -576,16 +576,20 @@
   },
   "residents": [
    {
-    "name": "F0UR_",
-    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
-   },
-   {
     "name": "Noahpng",
     "uuid": "a5b9b047-d294-476f-a5f1-27461681b969"
    },
    {
     "name": "Shef0226",
     "uuid": "4083bd9a-8fa1-4d12-9e19-32ec6f71d6df"
+   },
+   {
+    "name": "Anime_zone21",
+    "uuid": "a69d6ee2-0d65-4f07-a790-7841cd8d8e0c"
+   },
+   {
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
    }
   ],
   "trusted": [
@@ -600,6 +604,10 @@
    {
     "name": "0P2W",
     "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
+   },
+   {
+    "name": "Swighted_",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
    }
   ],
   "outlaws": [
@@ -628,7 +636,12 @@
     "uuid": "678e2f70-0351-45e5-8347-d9503ce6cdde"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Enraging Residence",
+    "uuid": "93dabaff-45be-4b11-a212-d5f59be338a8"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Chernobyl",
   "uuid": "444d9bc3-1d83-42ef-8324-8ac4058240a9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 395,
-   "maxTownBlocks": 388,
+   "maxTownBlocks": 412,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 24,
+   "numResidents": 26,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 5.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1692,14 +1692,6 @@
     "uuid": "12fc6053-3ad2-45ae-a0d9-653395d91ba0"
    },
    {
-    "name": "MataSuko101",
-    "uuid": "7570b49a-35fa-4d1b-856d-9181ddc97630"
-   },
-   {
-    "name": "cheddarralph",
-    "uuid": "b280c775-5e91-4bf0-ba24-7be9c1cd6e53"
-   },
-   {
     "name": "Minecrafter986",
     "uuid": "a500c014-925c-4f84-ac1e-5c94a1149f61"
    },
@@ -1770,6 +1762,22 @@
    {
     "name": "themattyviros",
     "uuid": "55aaee32-aef0-4513-a9cf-2568f5b8508d"
+   },
+   {
+    "name": "UnknowDude230",
+    "uuid": "9e5ccb89-3fe5-4bae-91d9-ed1f1095e5a5"
+   },
+   {
+    "name": "ywco",
+    "uuid": "d9f7cd1b-9f00-4fa6-b897-5272bba5d330"
+   },
+   {
+    "name": "Grav1tyX",
+    "uuid": "136b773a-e82f-48e3-9150-a63bd6c06dfa"
+   },
+   {
+    "name": "HellHunter157",
+    "uuid": "22e59d8a-28ab-410c-974e-cb13e830544d"
    }
   ],
   "trusted": [
@@ -1818,20 +1826,36 @@
     "uuid": "82aa79e0-550e-402d-880b-8c906398fe8f"
    },
    {
-    "name": "Upbeat Residence",
-    "uuid": "9be1d208-c026-4bd9-a230-823d88180b73"
-   },
-   {
-    "name": "Perturbing Apartment",
-    "uuid": "baeeab8c-4cb3-40fd-8fcc-2692c8f3c13b"
+    "name": "The Door",
+    "uuid": "ca75f9da-e86b-4926-a342-7eae1e5dda49"
    },
    {
     "name": "Enraging Property",
     "uuid": "6adb2adc-8adb-4451-8fb1-cbe67e1142bb"
    },
    {
-    "name": "The Door",
-    "uuid": "ca75f9da-e86b-4926-a342-7eae1e5dda49"
+    "name": "Bland Dwelling",
+    "uuid": "8e1bcdaa-5e5e-4da7-a299-99c66edf9ab5"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "183020b6-4ee0-4338-ae09-55b148487567"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "3f03809d-f085-4b50-85ca-96dddb6e3d1c"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "baeeab8c-4cb3-40fd-8fcc-2692c8f3c13b"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "9be1d208-c026-4bd9-a230-823d88180b73"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "ce8d3cc8-5509-45bc-a4aa-538d4a7e92e1"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "World",
   "uuid": "3a132983-084a-4919-9e20-a9fe2585a581",
@@ -8,11 +8,11 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "thearbysworker",
-   "uuid": "38b811ed-5b23-4052-b903-14e5bcfd5efa"
+   "name": "RickBonez",
+   "uuid": "a6d40df3-44a4-474e-b7fa-4d76f166786f"
   },
   "nation": {
-   "name": "Alabama",
+   "name": "Gulf_Union",
    "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 560,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 40,
+   "nationBonus": 60,
+   "numResidents": 15,
    "numTrusted": 11,
    "numOutlaws": 18,
    "balance": 0.0,
@@ -584,10 +584,6 @@
   },
   "residents": [
    {
-    "name": "thearbysworker",
-    "uuid": "38b811ed-5b23-4052-b903-14e5bcfd5efa"
-   },
-   {
     "name": "CKLL2000",
     "uuid": "e3b321c0-23f8-4ae9-aa99-c116f74a6ed9"
    },
@@ -604,96 +600,20 @@
     "uuid": "57fff647-0453-49b6-9d67-3fc39181f298"
    },
    {
-    "name": "BoyFacedStinkBug",
-    "uuid": "230a73a7-e378-4a75-9147-c188b8983d8f"
-   },
-   {
-    "name": "WitherBait",
-    "uuid": "a61f3085-14c8-4256-b25a-46d3a9fdc9a7"
-   },
-   {
     "name": "GuxtavoOpae",
     "uuid": "65e3ea3a-4de1-44bd-90ee-c5789c272048"
-   },
-   {
-    "name": "stalepy",
-    "uuid": "59f8ba3f-7e23-47ac-b8ed-6f8ad569600c"
    },
    {
     "name": "7wzx_",
     "uuid": "ac7d150b-b637-42e6-9b80-aee82848d740"
    },
    {
-    "name": "HypixelsFox",
-    "uuid": "8003a4ea-1c87-4ddb-8581-b4f5c93dd7c4"
-   },
-   {
-    "name": "hugomatoba",
-    "uuid": "2f0624be-776b-40fd-b999-53ad80955cf5"
-   },
-   {
-    "name": "F5",
-    "uuid": "558d5964-9325-4f9d-8ff5-f93dc7216e4a"
-   },
-   {
-    "name": "BigPinkDaddy69",
-    "uuid": "71e46926-cd35-4a06-af57-3683970e333e"
-   },
-   {
-    "name": "graaginost",
-    "uuid": "6e9e4adf-804a-4b11-a877-735b6fc61ffb"
-   },
-   {
-    "name": "Xoguartz",
-    "uuid": "064b9897-b5eb-428b-8f0a-2db54ef38126"
-   },
-   {
-    "name": "duCkY_man12",
-    "uuid": "11f540d4-9164-471b-85e3-efb2503b215d"
-   },
-   {
-    "name": "AtomicDude99",
-    "uuid": "6eeb3fdb-21b8-4acc-965e-c6c8ad0c27a0"
-   },
-   {
-    "name": "litoliein",
-    "uuid": "1aeec45a-16fe-48d5-bfdb-5cbaa1cb2907"
-   },
-   {
-    "name": "Shxzy_",
-    "uuid": "c43eee90-1ecd-4f1d-86ae-c0cc0f580f1e"
-   },
-   {
-    "name": "SillyWo1f",
-    "uuid": "9c85b192-39bd-49d6-9588-8686b7f79760"
-   },
-   {
-    "name": "OFC16",
-    "uuid": "064b04d6-557b-4cbc-8c04-8e48c7271b79"
-   },
-   {
     "name": "BoomerMasterSimp",
     "uuid": "8f44f741-21f7-4c84-960a-12313adeb0fb"
    },
    {
-    "name": "TornadoCat7680",
-    "uuid": "52034402-fa7e-4478-8e2d-a124cb95dead"
-   },
-   {
     "name": "lefrenchcaptain",
     "uuid": "dc8973a8-cbee-4ee5-aa0c-e428578e7900"
-   },
-   {
-    "name": "fujiwat",
-    "uuid": "8cda489a-5c55-4ccb-b52e-ae343340ffd0"
-   },
-   {
-    "name": "TIGERFLAM3",
-    "uuid": "f82d0701-5957-4423-a4b4-4855158821be"
-   },
-   {
-    "name": "PGfriendly",
-    "uuid": "add6133a-f257-496c-a61f-f312d552104f"
    },
    {
     "name": "bundunPV",
@@ -704,20 +624,8 @@
     "uuid": "d5d0c85d-3bb9-4f80-b1d1-8b779b3fc465"
    },
    {
-    "name": "MoTo1414",
-    "uuid": "95f46edc-8a71-4028-b6d1-7abd7923ee61"
-   },
-   {
-    "name": "SaneStatue42221",
-    "uuid": "df86f698-9b3c-4b5a-be17-5a8f0e2a06ca"
-   },
-   {
     "name": "xX_Soulc81_Xx",
     "uuid": "0602540f-427e-4c63-9e9a-4dd806a04606"
-   },
-   {
-    "name": "Flavio28gameses",
-    "uuid": "c0452041-0625-49b2-b181-084d3a41a2bc"
    },
    {
     "name": "Sonic_Nine",
@@ -726,14 +634,6 @@
    {
     "name": "GaboJr17",
     "uuid": "47715307-1b9c-4b34-adb3-e82d14befbac"
-   },
-   {
-    "name": "Strix0826",
-    "uuid": "18ec83eb-37f8-487b-9062-e05d628a2786"
-   },
-   {
-    "name": "LatchedWinner48",
-    "uuid": "5a9c36a2-e384-4f69-862f-592a24e0e47e"
    },
    {
     "name": "red_bubba",
@@ -927,37 +827,12 @@
      "uuid": "e5dbb676-4620-45cd-ac96-268012f20211"
     },
     {
-     "name": "WitherBait",
-     "uuid": "a61f3085-14c8-4256-b25a-46d3a9fdc9a7"
-    },
-    {
      "name": "GuxtavoOpae",
      "uuid": "65e3ea3a-4de1-44bd-90ee-c5789c272048"
-    },
-    {
-     "name": "stalepy",
-     "uuid": "59f8ba3f-7e23-47ac-b8ed-6f8ad569600c"
-    },
-    {
-     "name": "HypixelsFox",
-     "uuid": "8003a4ea-1c87-4ddb-8581-b4f5c93dd7c4"
-    },
-    {
-     "name": "SillyWo1f",
-     "uuid": "9c85b192-39bd-49d6-9588-8686b7f79760"
-    },
-    {
-     "name": "OFC16",
-     "uuid": "064b04d6-557b-4cbc-8c04-8e48c7271b79"
     }
    ],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "Strix0826",
-     "uuid": "18ec83eb-37f8-487b-9062-e05d628a2786"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

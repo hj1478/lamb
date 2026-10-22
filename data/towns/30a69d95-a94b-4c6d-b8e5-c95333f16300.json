@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Owls_Fields",
   "uuid": "30a69d95-a94b-4c6d-b8e5-c95333f16300",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 15,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35193.47846797935,
-    "y": 71.0,
-    "z": -9498.373563037412,
-    "pitch": 15.284143,
-    "yaw": 23.808716
+    "x": -35200.46968898704,
+    "y": 72.0,
+    "z": -9501.876721472769,
+    "pitch": -0.64850986,
+    "yaw": -0.09057617
    },
    "homeBlock": [
-    -2200,
+    -2201,
     -594
    ],
    "townBlocks": [
@@ -96,12 +96,60 @@
      -594
     ],
     [
+     -2201,
+     -593
+    ],
+    [
+     -2201,
+     -595
+    ],
+    [
+     -2200,
+     -593
+    ],
+    [
      -2200,
      -594
     ],
     [
+     -2201,
+     -592
+    ],
+    [
      -2200,
      -595
+    ],
+    [
+     -2200,
+     -596
+    ],
+    [
+     -2199,
+     -595
+    ],
+    [
+     -2199,
+     -594
+    ],
+    [
+     -2202,
+     -593
+    ],
+    [
+     -2199,
+     -593
+    ],
+    [
+     -2202,
+     -594
+    ],
+    [
+     -2202,
+     -595
+    ],
+    [
+     -2200,
+     -592
     ]
    ],
    "worlds": {}
@@ -112,7 +160,16 @@
     "uuid": "e5ad8455-7cb1-4001-bd96-4d275fbc04c7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ro_1022210",
+    "uuid": "89da8567-b51f-49f3-84eb-4a561091dbe6"
+   },
+   {
+    "name": "MrDonut0193",
+    "uuid": "1aaf9008-0905-4ed4-9f77-f54d139772d7"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

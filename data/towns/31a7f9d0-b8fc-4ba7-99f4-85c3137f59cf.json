@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "CabinTown",
   "uuid": "31a7f9d0-b8fc-4ba7-99f4-85c3137f59cf",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numResidents": 5,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,22 +93,26 @@
    "townBlocks": [
     [
      2855,
-     1072
-    ],
-    [
-     2854,
-     1071
-    ],
-    [
-     2853,
-     1072
-    ],
-    [
-     2854,
      1073
     ],
     [
-     2854,
+     2855,
+     1072
+    ],
+    [
+     2856,
+     1072
+    ],
+    [
+     2856,
+     1071
+    ],
+    [
+     2856,
+     1070
+    ],
+    [
+     2853,
      1072
     ],
     [
@@ -118,6 +122,30 @@
     [
      2855,
      1071
+    ],
+    [
+     2855,
+     1070
+    ],
+    [
+     2857,
+     1072
+    ],
+    [
+     2857,
+     1071
+    ],
+    [
+     2854,
+     1071
+    ],
+    [
+     2854,
+     1073
+    ],
+    [
+     2854,
+     1072
     ]
    ],
    "worlds": {}
@@ -126,19 +154,112 @@
    {
     "name": "Galaxor5",
     "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
+   },
+   {
+    "name": "The_crazy_guy821",
+    "uuid": "de6f0a42-019b-4a14-8f99-1867951d6678"
+   },
+   {
+    "name": "JoacaGame",
+    "uuid": "2dabb2fb-2db4-4473-bf4c-83d73a85b03b"
+   },
+   {
+    "name": "_PotionlesShadow",
+    "uuid": "4f0e4a55-a35b-447f-a440-db747f731327"
+   },
+   {
+    "name": "WeirdlyWeird24",
+    "uuid": "e3146d81-fffd-4ab2-ac97-9cdd0212a683"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
-  "quarters": [],
+  "trusted": [
+   {
+    "name": "WeirdlyWeird24",
+    "uuid": "e3146d81-fffd-4ab2-ac97-9cdd0212a683"
+   },
+   {
+    "name": "Galaxor5",
+    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
+   },
+   {
+    "name": "The_crazy_guy821",
+    "uuid": "de6f0a42-019b-4a14-8f99-1867951d6678"
+   },
+   {
+    "name": "_PotionlesShadow",
+    "uuid": "4f0e4a55-a35b-447f-a440-db747f731327"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Enraging Property",
+    "uuid": "d4eb181b-c5a4-4045-a8ce-a9e8deccc930"
+   },
+   {
+    "name": "Bland Apartment",
+    "uuid": "9d23f3c5-b3f2-425a-9faa-4b39e7130810"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "bb2c8053-5214-4bd0-bf96-b9f359a18ee5"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "5e00cd02-4468-4835-b8f7-1bf643d62c28"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "1e95846d-8631-4850-a725-b54af3d3f6ee"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "e110a40b-3ca1-46ec-b2ef-8d6f48d11df0"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "2199b799-2fa1-4d7c-a00d-a0ac139f3006"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "The_crazy_guy821",
+     "uuid": "de6f0a42-019b-4a14-8f99-1867951d6678"
+    },
+    {
+     "name": "_PotionlesShadow",
+     "uuid": "4f0e4a55-a35b-447f-a440-db747f731327"
+    },
+    {
+     "name": "WeirdlyWeird24",
+     "uuid": "e3146d81-fffd-4ab2-ac97-9cdd0212a683"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "The_crazy_guy821",
+     "uuid": "de6f0a42-019b-4a14-8f99-1867951d6678"
+    },
+    {
+     "name": "_PotionlesShadow",
+     "uuid": "4f0e4a55-a35b-447f-a440-db747f731327"
+    },
+    {
+     "name": "WeirdlyWeird24",
+     "uuid": "e3146d81-fffd-4ab2-ac97-9cdd0212a683"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

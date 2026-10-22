@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Bosa",
   "uuid": "3ab77a8e-8946-4234-ae88-18d52499125b",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Shin_00",
-   "uuid": "fcdb4901-4c91-429a-a3a5-0091c3e823aa"
+   "name": "NPC6",
+   "uuid": "d3b87bb0-237d-2068-98e9-0e3e47aded18"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777818216112,
-   "joinedNationAt": 1788558942362,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792490403300
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "Shin_00",
-    "uuid": "fcdb4901-4c91-429a-a3a5-0091c3e823aa"
+    "name": "NPC6",
+    "uuid": "d3b87bb0-237d-2068-98e9-0e3e47aded18"
    }
   ],
   "trusted": [],

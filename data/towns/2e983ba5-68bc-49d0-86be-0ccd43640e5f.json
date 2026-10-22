@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Royan",
   "uuid": "2e983ba5-68bc-49d0-86be-0ccd43640e5f",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 174,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 185,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 10,
    "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 294.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -184,8 +184,20 @@
      -598
     ],
     [
+     -14,
+     -603
+    ],
+    [
+     -14,
+     -604
+    ],
+    [
      -17,
      -596
+    ],
+    [
+     -14,
+     -607
     ],
     [
      -17,
@@ -196,8 +208,16 @@
      -598
     ],
     [
+     -14,
+     -605
+    ],
+    [
      -17,
      -597
+    ],
+    [
+     -14,
+     -606
     ],
     [
      -17,
@@ -337,6 +357,14 @@
     ],
     [
      -31,
+     -611
+    ],
+    [
+     -31,
+     -607
+    ],
+    [
+     -31,
      -608
     ],
     [
@@ -454,6 +482,10 @@
     [
      -29,
      -605
+    ],
+    [
+     -29,
+     -604
     ],
     [
      -13,
@@ -501,6 +533,10 @@
     ],
     [
      -13,
+     -605
+    ],
+    [
+     -13,
      -606
     ],
     [
@@ -560,14 +596,14 @@
      -599
     ],
     [
-     -15,
-     -598
-    ],
-    [
      -18,
      -596
     ],
     [
+     -15,
+     -598
+    ],
+    [
      -26,
      -600
     ],
@@ -652,6 +688,10 @@
      -607
     ],
     [
+     -15,
+     -607
+    ],
+    [
      -26,
      -605
     ],
@@ -686,6 +726,10 @@
     [
      -19,
      -605
+    ],
+    [
+     -32,
+     -611
     ],
     [
      -21,
@@ -814,6 +858,22 @@
    {
     "name": "boswersene",
     "uuid": "f45a4f84-4726-4dbe-9971-1ec510d23688"
+   },
+   {
+    "name": "EthanJLcr7",
+    "uuid": "148e79ee-f2ec-40fd-9441-73108be0e7c4"
+   },
+   {
+    "name": "Karadann",
+    "uuid": "69e281f7-e756-4e2c-8c4b-18b7e80db722"
+   },
+   {
+    "name": "Xpo_99",
+    "uuid": "b1188582-238a-491f-9f7b-7d66db16d8ab"
+   },
+   {
+    "name": "ultravioletquot",
+    "uuid": "f22b2b8f-1352-4abc-91bd-e0bc6dce3aa7"
    }
   ],
   "trusted": [

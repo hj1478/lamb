@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Miami_City",
   "uuid": "29390370-d3c4-44f7-a0ec-e036c072c173",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 25,
-   "maxTownBlocks": 206,
+   "maxTownBlocks": 230,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 13,
+   "numResidents": 15,
    "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 3.0,
@@ -246,6 +246,14 @@
    {
     "name": "Garbear_0",
     "uuid": "55ae8321-6217-45e9-93f8-be41e2ec8560"
+   },
+   {
+    "name": "NekoTheScientist",
+    "uuid": "43b820a5-a098-4b38-8a4c-01a55e3c6fd4"
+   },
+   {
+    "name": "ITZkING30",
+    "uuid": "bdbd9dfa-a31f-45d5-af63-efb5b6709866"
    }
   ],
   "trusted": [
@@ -271,8 +279,18 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "NekoTheScientist",
+     "uuid": "43b820a5-a098-4b38-8a4c-01a55e3c6fd4"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "NekoTheScientist",
+     "uuid": "43b820a5-a098-4b38-8a4c-01a55e3c6fd4"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

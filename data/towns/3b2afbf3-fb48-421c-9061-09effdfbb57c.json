@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Woho",
   "uuid": "3b2afbf3-fb48-421c-9061-09effdfbb57c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "felixfan342",
-   "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+   "name": "NPC119",
+   "uuid": "c4fc4b5d-b05d-207b-9df6-a79a726633b2"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791621815539,
-   "joinedNationAt": 1791906123997,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792437773242
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "felixfan342",
-    "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+    "name": "NPC119",
+    "uuid": "c4fc4b5d-b05d-207b-9df6-a79a726633b2"
    }
   ],
   "trusted": [

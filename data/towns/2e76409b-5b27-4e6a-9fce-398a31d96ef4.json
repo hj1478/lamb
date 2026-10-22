@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Arctic_Legion",
   "uuid": "2e76409b-5b27-4e6a-9fce-398a31d96ef4",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 21.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     -1841,
+     -1628
+    ],
+    [
      -1840,
      -1628
+    ],
+    [
+     -1840,
+     -1627
+    ],
+    [
+     -1839,
+     -1628
+    ],
+    [
+     -1841,
+     -1627
     ]
    ],
    "worlds": {}

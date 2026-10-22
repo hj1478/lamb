@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Windhoek",
   "uuid": "2692c0da-0d22-4f8c-890d-e852f9146f6f",
@@ -12,12 +12,12 @@
    "uuid": "c6aa81d3-4739-4f6c-bf8f-0b50704d12b0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Rhodesia",
+   "uuid": "21a64c19-1e38-480d-8dc3-c0621acd1e22"
   },
   "timestamps": {
    "registered": 1776454719857,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792085999935,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
+   "nationBonus": 80,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 4,
    "balance": 0.0,
@@ -298,6 +298,10 @@
    {
     "name": "Markyteer",
     "uuid": "3e3a162d-f3f3-40f2-8b2d-a761de7379b4"
+   },
+   {
+    "name": "pyrolyster",
+    "uuid": "70bdc4e1-e42c-427e-bf59-3bc206026c52"
    },
    {
     "name": "_TNTBlake_",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Talok",
   "uuid": "2fb0f334-bc2f-4075-8601-d903667c9369",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LevisAls",
-   "uuid": "a74c0e35-a047-4498-ba8d-d5ac9ff3ce17"
+   "name": "NPC38",
+   "uuid": "1181889c-7404-20c4-a702-e443fa00dcfa"
   },
   "nation": {
-   "name": "Nusantara",
-   "uuid": "6388b87e-12ee-4f2c-86da-093dd18eac69"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786717870802,
-   "joinedNationAt": 1791563358541,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792591213518
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 68,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 78,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 73.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -110,6 +110,10 @@
     [
      2651,
      476
+    ],
+    [
+     2652,
+     472
     ],
     [
      2651,
@@ -268,12 +272,20 @@
      480
     ],
     [
+     2654,
+     472
+    ],
+    [
      2650,
      478
     ],
     [
      2650,
      477
+    ],
+    [
+     2655,
+     470
     ],
     [
      2650,
@@ -292,8 +304,16 @@
      480
     ],
     [
+     2655,
+     471
+    ],
+    [
      2650,
      479
+    ],
+    [
+     2655,
+     472
     ],
     [
      2648,
@@ -304,8 +324,16 @@
      480
     ],
     [
+     2654,
+     470
+    ],
+    [
      2648,
      467
+    ],
+    [
+     2654,
+     471
     ],
     [
      2648,
@@ -356,27 +384,40 @@
      475
     ],
     [
+     2653,
+     472
+    ],
+    [
      2651,
      467
     ],
     [
      2651,
      468
+    ],
+    [
+     2653,
+     471
+    ],
+    [
+     2653,
+     470
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "LevisAls",
-    "uuid": "a74c0e35-a047-4498-ba8d-d5ac9ff3ce17"
-   },
-   {
-    "name": "Manoliaa",
-    "uuid": "7ae5500b-43b3-4ad4-af60-08070dd86857"
+    "name": "NPC38",
+    "uuid": "1181889c-7404-20c4-a702-e443fa00dcfa"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "LevisAls",
+    "uuid": "a74c0e35-a047-4498-ba8d-d5ac9ff3ce17"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

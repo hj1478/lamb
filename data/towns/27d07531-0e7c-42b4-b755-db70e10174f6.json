@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Runasapi",
   "uuid": "27d07531-0e7c-42b4-b755-db70e10174f6",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NinthHouseCav",
-   "uuid": "b87bb79d-81cd-4e1c-be38-96df01be0067"
+   "name": "NPC43",
+   "uuid": "2c0cb786-8c6a-20a3-9c2a-5425d8c9d01d"
   },
   "nation": {
-   "name": "Peru",
-   "uuid": "f0ee6f67-447c-46d3-93f0-ce53b46bbf48"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786228425634,
-   "joinedNationAt": 1786886766609,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663203225
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 54,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 947.0,
+   "balance": 912.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -312,24 +312,15 @@
   },
   "residents": [
    {
-    "name": "NinthHouseCav",
-    "uuid": "b87bb79d-81cd-4e1c-be38-96df01be0067"
-   },
-   {
-    "name": "beepieboy",
-    "uuid": "1cf56798-47cd-422e-8d51-7415df80565e"
+    "name": "NPC43",
+    "uuid": "2c0cb786-8c6a-20a3-9c2a-5425d8c9d01d"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "beepieboy",
-     "uuid": "1cf56798-47cd-422e-8d51-7415df80565e"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

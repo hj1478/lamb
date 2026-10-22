@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Zakopane",
   "uuid": "324ec093-7c71-4a86-9a28-c5ac48b513e5",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "dymoslaw",
-   "uuid": "7e601040-9069-457a-8d55-5fd04db9f253"
+   "name": "BillyBJones",
+   "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
   },
   "nation": {
    "name": "Poland",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 56,
-   "maxTownBlocks": 216,
+   "numTownBlocks": 64,
+   "maxTownBlocks": 180,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 13,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 238.0,
+   "numResidents": 10,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     440,
+     -713
+    ],
+    [
+     440,
+     -714
+    ],
+    [
      442,
      -708
     ],
@@ -106,6 +114,18 @@
     [
      442,
      -711
+    ],
+    [
+     442,
+     -712
+    ],
+    [
+     442,
+     -713
+    ],
+    [
+     439,
+     -708
     ],
     [
      439,
@@ -260,6 +280,14 @@
      -699
     ],
     [
+     441,
+     -714
+    ],
+    [
+     441,
+     -713
+    ],
+    [
      443,
      -707
     ],
@@ -290,6 +318,10 @@
     [
      440,
      -711
+    ],
+    [
+     440,
+     -712
     ],
     [
      440,
@@ -328,28 +360,12 @@
     "uuid": "af225489-60b7-43f6-979a-ae47d5e9e9df"
    },
    {
-    "name": "dymoslaw",
-    "uuid": "7e601040-9069-457a-8d55-5fd04db9f253"
-   },
-   {
-    "name": "tomimati",
-    "uuid": "4d6da433-fcce-462d-aad1-80accf0bb525"
-   },
-   {
-    "name": "ChlebicekCZa",
-    "uuid": "423e5882-1e0f-424b-9d01-1108c5ce861d"
-   },
-   {
     "name": "Momch1",
     "uuid": "edfddfb9-c208-4ce8-8809-b763043eb895"
    },
    {
     "name": "Amoooni",
     "uuid": "088d8499-1b8a-4ce4-8ea0-7493bc4badce"
-   },
-   {
-    "name": "Jambutter0000",
-    "uuid": "8187a28b-9877-4c62-be3b-eb3e9afbe1d1"
    },
    {
     "name": "alp60",
@@ -360,25 +376,42 @@
     "uuid": "9c2c0c8d-3e33-41f0-a3d9-35ccce075b0f"
    },
    {
-    "name": "hmmmm12",
-    "uuid": "12dbaae3-89ca-4e0e-904f-2402d3bb011e"
-   },
-   {
     "name": "Zucchini_mc",
     "uuid": "f108a9b7-7d98-428e-986f-11122e8a883c"
    },
    {
     "name": "BillyBJones",
     "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
+   },
+   {
+    "name": "MoN_kaa",
+    "uuid": "eb371702-263f-49c7-91d1-8f137996ec35"
+   },
+   {
+    "name": "Technomini",
+    "uuid": "92ab43cc-ecd5-481f-8447-27393fe640f4"
    }
   ],
   "trusted": [
    {
-    "name": "Retepuh",
+    "name": "Janoairo",
+    "uuid": "5935ed50-4471-4477-bfb5-0d79b0518e09"
+   },
+   {
+    "name": "IrysZ",
+    "uuid": "cbf46854-9754-40b6-9b86-90466fa0303b"
+   },
+   {
+    "name": "Koppruh",
     "uuid": "ede65c89-927b-42f6-bb13-917213b4eb5b"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "dDelirious_",
+    "uuid": "785e3578-8db2-44d2-8526-bff365f94390"
+   }
+  ],
   "quarters": [
    {
     "name": "Welcoming Residence",

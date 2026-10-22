@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Emus",
   "uuid": "3a8f4b4a-fe29-4a4d-ad50-e3c5ae2d752c",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 8,
-   "numTrusted": 4,
-   "numOutlaws": 16,
-   "balance": 2.0,
+   "numTrusted": 3,
+   "numOutlaws": 11,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -404,12 +404,12 @@
     "uuid": "3771b998-ac18-4031-a305-a790abc1ee39"
    },
    {
-    "name": "Cerneas",
-    "uuid": "b8dab438-3a21-4807-a2a8-b1e8594538b8"
+    "name": "ClankMC",
+    "uuid": "87213b90-e264-40a6-8317-60f491f63512"
    },
    {
-    "name": "fishsauce_1",
-    "uuid": "d87c99a1-391d-44f1-9493-0dcdf0326dc6"
+    "name": "DinoLovin69",
+    "uuid": "c47f7999-6433-4047-958a-5c4fa9fe46f4"
    },
    {
     "name": "Pestzar",
@@ -428,10 +428,6 @@
    {
     "name": "2tman4",
     "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
-   },
-   {
-    "name": "Cerneas",
-    "uuid": "b8dab438-3a21-4807-a2a8-b1e8594538b8"
    },
    {
     "name": "Localhost12",
@@ -454,10 +450,6 @@
    {
     "name": "denozotti",
     "uuid": "09800365-15ec-4009-bd8c-1fbfff19c9db"
-   },
-   {
-    "name": "Khelium",
-    "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
    },
    {
     "name": "ItzDarken",
@@ -486,22 +478,6 @@
    {
     "name": "djjosuedebolas",
     "uuid": "b64db51e-c53d-4fae-b84d-f54ecf0287fd"
-   },
-   {
-    "name": "TechnoRat_96",
-    "uuid": "68572dbf-f075-4e02-875e-af16c53a06d1"
-   },
-   {
-    "name": "ShadowCanvas815",
-    "uuid": "c8572d78-a875-404b-862a-0131887d4350"
-   },
-   {
-    "name": "seal0uette",
-    "uuid": "2c6849de-85ac-4f9f-aaab-eb2c8396cf7e"
-   },
-   {
-    "name": "arrcann_",
-    "uuid": "2e550111-3a98-44ac-b845-532f4b3d9e9d"
    }
   ],
   "quarters": [
@@ -599,18 +575,20 @@
     {
      "name": "The_Avageek",
      "uuid": "33e2920e-4f24-43b5-a797-1f44638a0f55"
-    },
-    {
-     "name": "Cerneas",
-     "uuid": "b8dab438-3a21-4807-a2a8-b1e8594538b8"
-    },
-    {
-     "name": "fishsauce_1",
-     "uuid": "d87c99a1-391d-44f1-9493-0dcdf0326dc6"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "DinoLovin69",
+     "uuid": "c47f7999-6433-4047-958a-5c4fa9fe46f4"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "DinoLovin69",
+     "uuid": "c47f7999-6433-4047-958a-5c4fa9fe46f4"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

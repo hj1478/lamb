@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Denali",
   "uuid": "47caa1fa-ed02-4bae-b0de-7018cd2db3fa",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
+   "nationBonus": 50,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 584.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     -3348,
+     -1145
+    ],
+    [
      -3347,
      -1145
     ]
@@ -102,6 +106,10 @@
    {
     "name": "zs79",
     "uuid": "37acdcff-e531-463f-869b-b5d4ca51625d"
+   },
+   {
+    "name": "jazzerooni",
+    "uuid": "3b33bc19-8130-43f6-907c-f5ab32dc6d48"
    }
   ],
   "trusted": [],

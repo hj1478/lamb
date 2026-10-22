@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Gartental",
   "uuid": "3f72ef5e-fe6e-4b33-aeb2-eaa12892b729",
@@ -12,37 +12,37 @@
    "uuid": "f3504d14-0c97-4cb6-8066-af194b55e4a2"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Uruguay",
+   "uuid": "b75404f8-0698-4865-b2c8-b687af410a65"
   },
   "timestamps": {
    "registered": 1791652512106,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792182729874,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 78,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 4,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 158.0,
+   "balance": 52.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -19960.19767649325,
+    "x": -20008.503816140845,
     "y": 63.0,
-    "z": 20197.205157704728,
-    "pitch": 21.520023,
-    "yaw": 62.794098
+    "z": 20212.434877330194,
+    "pitch": 90.0,
+    "yaw": 177.24448
    },
    "homeBlock": [
-    -1248,
-    1262
+    -1251,
+    1263
    ],
    "townBlocks": [
     [
@@ -96,6 +96,54 @@
      1261
     ],
     [
+     -1247,
+     1260
+    ],
+    [
+     -1251,
+     1261
+    ],
+    [
+     -1251,
+     1260
+    ],
+    [
+     -1251,
+     1263
+    ],
+    [
+     -1251,
+     1262
+    ],
+    [
+     -1251,
+     1264
+    ],
+    [
+     -1252,
+     1263
+    ],
+    [
+     -1252,
+     1264
+    ],
+    [
+     -1252,
+     1261
+    ],
+    [
+     -1252,
+     1262
+    ],
+    [
+     -1252,
+     1260
+    ],
+    [
+     -1248,
+     1265
+    ],
+    [
      -1248,
      1262
     ],
@@ -104,16 +152,16 @@
      1261
     ],
     [
-     -1249,
-     1262
+     -1247,
+     1264
+    ],
+    [
+     -1248,
+     1264
     ],
     [
      -1247,
      1263
-    ],
-    [
-     -1249,
-     1261
     ],
     [
      -1248,
@@ -124,8 +172,48 @@
      1262
     ],
     [
+     -1248,
+     1260
+    ],
+    [
+     -1250,
+     1264
+    ],
+    [
+     -1249,
+     1262
+    ],
+    [
+     -1249,
+     1261
+    ],
+    [
+     -1250,
+     1262
+    ],
+    [
+     -1249,
+     1264
+    ],
+    [
+     -1250,
+     1263
+    ],
+    [
      -1249,
      1263
+    ],
+    [
+     -1250,
+     1260
+    ],
+    [
+     -1250,
+     1261
+    ],
+    [
+     -1249,
+     1265
     ]
    ],
    "worlds": {}
@@ -140,15 +228,20 @@
     "uuid": "c5642d47-be8a-4c1a-ba9a-5613b60a369a"
    },
    {
-    "name": "Symtor",
-    "uuid": "50866648-9fed-4b17-9de9-0c3bf932e6bd"
-   },
-   {
     "name": "Bohnenarne",
     "uuid": "0a5579db-8efc-4dc3-b0eb-bf564b38ed64"
+   },
+   {
+    "name": "Symtor",
+    "uuid": "50866648-9fed-4b17-9de9-0c3bf932e6bd"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

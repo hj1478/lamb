@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Monktropolis",
   "uuid": "290a5a03-37e1-4a74-bf59-9175452ae0f9",
-  "board": "The capital of TMR (The Monke Republic)",
+  "board": "Developing hillside town",
   "founder": "DaMonkePresident",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DaMonkePresident",
-   "uuid": "92b7aea1-7611-4f40-beec-d20c256bdf39"
+   "name": "chicksfly",
+   "uuid": "d11b8cb5-a0c5-451f-a670-f71f33039970"
   },
   "nation": {
    "name": "Nubia",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 35,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 9,
-   "balance": 0.0,
+   "balance": 124.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13420.300235505107,
-    "y": 179.0,
-    "z": 9148.300000011921,
-    "pitch": 8.250006,
-    "yaw": 2.699953
+    "x": 13411.793450697285,
+    "y": 183.0,
+    "z": 9144.475388163288,
+    "pitch": 22.800053,
+    "yaw": -24.599945
    },
    "homeBlock": [
     838,
@@ -236,16 +236,12 @@
   },
   "residents": [
    {
-    "name": "DaMonkePresident",
-    "uuid": "92b7aea1-7611-4f40-beec-d20c256bdf39"
+    "name": "chicksfly",
+    "uuid": "d11b8cb5-a0c5-451f-a670-f71f33039970"
    },
    {
-    "name": "TIMON1417",
-    "uuid": "12d3b83f-e30f-4757-a10e-67b99bb37a47"
-   },
-   {
-    "name": "Mx111425",
-    "uuid": "cc132ea4-7812-4dc5-87e0-11dc9df33981"
+    "name": "Jigsaw1210",
+    "uuid": "8d75c525-1401-4fce-9882-08c98afa937e"
    }
   ],
   "trusted": [],
@@ -287,9 +283,23 @@
     "uuid": "c4f87a9f-9a0d-4a32-b5e2-bbe6f1d3d9a7"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Quarter",
+    "uuid": "9765363f-5662-4928-93b3-eaa56ef8b576"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "4c5fd339-ccde-492c-8678-988932781de8"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "chicksfly",
+     "uuid": "d11b8cb5-a0c5-451f-a670-f71f33039970"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

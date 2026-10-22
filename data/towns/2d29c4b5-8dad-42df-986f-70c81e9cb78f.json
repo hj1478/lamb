@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Amari",
   "uuid": "2d29c4b5-8dad-42df-986f-70c81e9cb78f",
@@ -12,12 +12,12 @@
    "uuid": "a7a68303-a501-4374-b0ed-46399a2fd292"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Russia",
+   "uuid": "1f81f523-7318-468d-9fc2-9ba4c71442e4"
   },
   "timestamps": {
    "registered": 1791566789796,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792421810212,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "nationBonus": 80,
+   "numResidents": 6,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 47.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8667.809706232405,
-    "y": 65.0,
-    "z": -16156.591323295434,
-    "pitch": 22.12328,
-    "yaw": 87.16675
+    "x": 8657.266346453769,
+    "y": 66.0,
+    "z": -16154.225821900216,
+    "pitch": 31.65,
+    "yaw": 104.19763
    },
    "homeBlock": [
     541,
@@ -93,7 +93,15 @@
    "townBlocks": [
     [
      542,
+     -1010
+    ],
+    [
+     542,
      -1009
+    ],
+    [
+     542,
+     -1008
     ],
     [
      541,
@@ -134,6 +142,10 @@
     [
      540,
      -1008
+    ],
+    [
+     538,
+     -1010
     ],
     [
      540,
@@ -162,16 +174,40 @@
    {
     "name": "Aegis_FNS",
     "uuid": "bbe1249d-2228-45f7-a73d-53d4caec6931"
+   },
+   {
+    "name": "kalamaja_112",
+    "uuid": "d1f50b0a-b2a0-42aa-abd5-0f5773e60a0a"
+   },
+   {
+    "name": "bi4ze",
+    "uuid": "fad02c99-e648-4049-9386-a6031e9cc4b6"
+   },
+   {
+    "name": "SiukeVentus",
+    "uuid": "b1931274-8594-4dcd-8a9b-76390292049a"
    }
   ],
   "trusted": [
+   {
+    "name": "SiukeVentus",
+    "uuid": "b1931274-8594-4dcd-8a9b-76390292049a"
+   },
    {
     "name": "Aegis_FNS",
     "uuid": "bbe1249d-2228-45f7-a73d-53d4caec6931"
    },
    {
+    "name": "bi4ze",
+    "uuid": "fad02c99-e648-4049-9386-a6031e9cc4b6"
+   },
+   {
     "name": "oliveeris7890",
     "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+   },
+   {
+    "name": "kalamaja_112",
+    "uuid": "d1f50b0a-b2a0-42aa-abd5-0f5773e60a0a"
    }
   ],
   "outlaws": [],
@@ -199,6 +235,14 @@
     {
      "name": "oliveeris7890",
      "uuid": "c01bd5c1-b91f-4d7f-a006-78ebd1f075cd"
+    },
+    {
+     "name": "Aegis_FNS",
+     "uuid": "bbe1249d-2228-45f7-a73d-53d4caec6931"
+    },
+    {
+     "name": "SiukeVentus",
+     "uuid": "b1931274-8594-4dcd-8a9b-76390292049a"
     }
    ],
    "Tax-exempt": [],

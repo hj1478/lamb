@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Vaspurakan",
   "uuid": "453d139f-1fe7-4be8-b679-47626131e5f1",
@@ -12,12 +12,12 @@
    "uuid": "8e721b32-b49a-448e-a489-d507740641cb"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790883509965,
-   "joinedNationAt": 1790883720954,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 498.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -182,7 +182,12 @@
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "SammyTheGoat555",
+    "uuid": "1d10cf5f-762d-4061-974c-e6772d2e0844"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

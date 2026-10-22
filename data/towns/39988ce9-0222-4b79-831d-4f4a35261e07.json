@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Arta",
   "uuid": "39988ce9-0222-4b79-831d-4f4a35261e07",
@@ -12,12 +12,12 @@
    "uuid": "379dcab6-1c7d-42aa-9bd1-c95cb729e6c6"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": "Greece",
+   "uuid": "dcdefdf8-ae51-4436-903a-4eb88c58087a"
   },
   "timestamps": {
    "registered": 1777841761435,
-   "joinedNationAt": 1788257064893,
+   "joinedNationAt": 1792608571937,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 3,
    "numTrusted": 7,
-   "numOutlaws": 2,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -630,10 +630,6 @@
    {
     "name": "Sugar_U",
     "uuid": "79c991c8-07a4-4367-ad18-412eadd486fb"
-   },
-   {
-    "name": "ChekNAH",
-    "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
    }
   ],
   "quarters": [],

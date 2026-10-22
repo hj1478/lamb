@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Milas",
   "uuid": "3c9638b4-4d84-4969-a480-d98e938273f0",
@@ -12,12 +12,12 @@
    "uuid": "3423c310-b50e-461e-aabe-ed2bdc1147b6"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
    "registered": 1792084879538,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792611618821,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,68 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10052.93342583901,
+    "x": 10046.356537963497,
     "y": 63.0,
-    "z": -6205.6056883384545,
-    "pitch": 21.188337,
-    "yaw": -65.93376
+    "z": -6216.658254778661,
+    "pitch": -2.3616939,
+    "yaw": -174.68378
    },
    "homeBlock": [
-    628,
-    -388
+    627,
+    -389
    ],
    "townBlocks": [
     [
      627,
      -388
+    ],
+    [
+     627,
+     -389
+    ],
+    [
+     630,
+     -390
+    ],
+    [
+     630,
+     -389
+    ],
+    [
+     627,
+     -390
+    ],
+    [
+     630,
+     -388
+    ],
+    [
+     629,
+     -388
+    ],
+    [
+     629,
+     -389
+    ],
+    [
+     629,
+     -390
+    ],
+    [
+     631,
+     -390
+    ],
+    [
+     631,
+     -389
+    ],
+    [
+     628,
+     -390
+    ],
+    [
+     628,
+     -389
     ],
     [
      628,

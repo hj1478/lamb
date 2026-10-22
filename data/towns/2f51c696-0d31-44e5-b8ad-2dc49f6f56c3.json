@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Sichuan",
   "uuid": "2f51c696-0d31-44e5-b8ad-2dc49f6f56c3",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "cynvo",
-   "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
+   "name": "Ye_kong114514",
+   "uuid": "46026a34-b6d2-4051-95cf-60a3d3067fcc"
   },
   "nation": {
    "name": "Tang",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 36,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 46,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 8,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,60 +96,72 @@
      -218
     ],
     [
-     2379,
-     -220
-    ],
-    [
-     2379,
-     -219
-    ],
-    [
-     2371,
-     -220
-    ],
-    [
-     2371,
-     -219
-    ],
-    [
-     2370,
-     -218
-    ],
-    [
-     2370,
-     -219
-    ],
-    [
-     2378,
-     -219
-    ],
-    [
-     2378,
-     -218
-    ],
-    [
-     2371,
-     -218
-    ],
-    [
-     2376,
-     -220
-    ],
-    [
-     2376,
-     -219
-    ],
-    [
-     2370,
-     -220
-    ],
-    [
-     2376,
-     -218
-    ],
-    [
      2372,
+     -217
+    ],
+    [
+     2379,
      -220
+    ],
+    [
+     2379,
+     -219
+    ],
+    [
+     2371,
+     -220
+    ],
+    [
+     2371,
+     -219
+    ],
+    [
+     2370,
+     -218
+    ],
+    [
+     2370,
+     -219
+    ],
+    [
+     2370,
+     -216
+    ],
+    [
+     2378,
+     -219
+    ],
+    [
+     2370,
+     -217
+    ],
+    [
+     2378,
+     -218
+    ],
+    [
+     2371,
+     -218
+    ],
+    [
+     2376,
+     -220
+    ],
+    [
+     2371,
+     -217
+    ],
+    [
+     2376,
+     -219
+    ],
+    [
+     2370,
+     -220
+    ],
+    [
+     2376,
+     -218
     ],
     [
      2369,
@@ -157,6 +169,14 @@
     ],
     [
      2372,
+     -220
+    ],
+    [
+     2369,
+     -216
+    ],
+    [
+     2372,
      -219
     ],
     [
@@ -184,6 +204,10 @@
      -220
     ],
     [
+     2374,
+     -217
+    ],
+    [
      2369,
      -219
     ],
@@ -198,6 +222,10 @@
     [
      2375,
      -220
+    ],
+    [
+     2375,
+     -217
     ],
     [
      2369,
@@ -217,11 +245,23 @@
     ],
     [
      2368,
+     -217
+    ],
+    [
+     2368,
      -218
+    ],
+    [
+     2368,
+     -216
     ],
     [
      2378,
      -220
+    ],
+    [
+     2373,
+     -217
     ],
     [
      2373,
@@ -246,12 +286,44 @@
    {
     "name": "taozijian",
     "uuid": "0510abeb-8c04-4ece-9586-e9bd7a29f85b"
+   },
+   {
+    "name": "CiBei233",
+    "uuid": "bd7b39dc-1432-4394-be31-27eadc55dc17"
+   },
+   {
+    "name": "Kamillo277",
+    "uuid": "b1f1816b-5768-4faa-8294-7f5a66f063e8"
+   },
+   {
+    "name": "han__ya",
+    "uuid": "ca36d5b7-78a2-44a4-82c4-a9e89fdb9ad5"
+   },
+   {
+    "name": "Dominator1000",
+    "uuid": "7984a2a4-c328-425c-a65b-079349b5d444"
+   },
+   {
+    "name": "Ye_kong114514",
+    "uuid": "46026a34-b6d2-4051-95cf-60a3d3067fcc"
+   },
+   {
+    "name": "ZCY_DSG",
+    "uuid": "2b5edc58-3959-4b32-85ee-9e7faec4e4a5"
    }
   ],
   "trusted": [
    {
     "name": "Shrimp_PiPi",
     "uuid": "b72de7c2-4ae5-4f19-8ec2-c56cf510a92f"
+   },
+   {
+    "name": "ZDself",
+    "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
+   },
+   {
+    "name": "cynvo",
+    "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
    },
    {
     "name": "Ethan_miauen",
@@ -261,7 +333,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "cynvo",
+     "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

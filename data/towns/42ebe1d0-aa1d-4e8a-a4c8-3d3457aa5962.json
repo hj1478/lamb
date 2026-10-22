@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Turku",
   "uuid": "42ebe1d0-aa1d-4e8a-a4c8-3d3457aa5962",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
+   "numTownBlocks": 34,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -144,6 +144,14 @@
      -1058
     ],
     [
+     489,
+     -1059
+    ],
+    [
+     489,
+     -1060
+    ],
+    [
      488,
      -1053
     ],
@@ -160,12 +168,32 @@
      -1054
     ],
     [
+     487,
+     -1057
+    ],
+    [
+     488,
+     -1057
+    ],
+    [
+     487,
+     -1058
+    ],
+    [
      488,
      -1056
     ],
     [
+     488,
+     -1059
+    ],
+    [
      487,
      -1052
+    ],
+    [
+     488,
+     -1058
     ],
     [
      487,

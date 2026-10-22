@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Hispaniola",
   "uuid": "3d8f52d6-e7ee-445e-b3a5-81a5956a62d6",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 338,
-   "maxTownBlocks": 316,
+   "maxTownBlocks": 304,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 18,
-   "numTrusted": 2,
+   "numResidents": 17,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 191.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,23 +72,23 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "explosion": true,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -25780.459649279772,
-    "y": 88.0,
-    "z": 1239.9941412488529,
-    "pitch": 43.44563,
-    "yaw": 4.9796586
+    "x": -25951.585464823645,
+    "y": 81.0,
+    "z": 1189.2916185172264,
+    "pitch": 25.84088,
+    "yaw": -179.03413
    },
    "homeBlock": [
-    -1612,
-    77
+    -1622,
+    74
    ],
    "townBlocks": [
     [
@@ -1452,10 +1452,6 @@
     "uuid": "f3077215-8f5e-4397-939c-097348723372"
    },
    {
-    "name": "Jack_Puel",
-    "uuid": "f9fc885d-e497-426b-8f37-80d6e28146ae"
-   },
-   {
     "name": "_Moe",
     "uuid": "ca4a0685-2264-4f1b-90aa-9123c5f65014"
    },
@@ -1516,14 +1512,18 @@
     "uuid": "ef34c679-9a10-4732-8c4f-f1e47015cbbf"
    },
    {
-    "name": "the_champ777",
-    "uuid": "63f17f69-3b63-4a02-b9c5-2672893cf8d9"
+    "name": "ThingsOfJay",
+    "uuid": "c09de2e4-4a0d-4c32-82c0-e9c34ab57d52"
    }
   ],
   "trusted": [
    {
     "name": "Kureyton",
     "uuid": "96f759f4-793f-4fc5-9101-9224f74750ab"
+   },
+   {
+    "name": "Jack_Puel",
+    "uuid": "f9fc885d-e497-426b-8f37-80d6e28146ae"
    },
    {
     "name": "Ew4nz",

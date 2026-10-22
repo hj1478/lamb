@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Greenhill",
   "uuid": "26adfc35-0a78-43e1-912e-e03a3529298f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LAST_WORLD",
-   "uuid": "fa32517a-41d2-436d-b323-b56395b2eda5"
+   "name": "NPC114",
+   "uuid": "43aad6e2-0f16-2085-90dd-f1f5d9674d91"
   },
   "nation": {
-   "name": "Yamato",
-   "uuid": "6ecd1323-65ec-41c8-94e2-644bb23769d5"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778086242683,
-   "joinedNationAt": 1779544743785,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792418596652
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -41,40 +41,40 @@
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 1.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,12 +144,17 @@
   },
   "residents": [
    {
-    "name": "LAST_WORLD",
-    "uuid": "fa32517a-41d2-436d-b323-b56395b2eda5"
+    "name": "NPC114",
+    "uuid": "43aad6e2-0f16-2085-90dd-f1f5d9674d91"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "TEENS31",
+    "uuid": "c18bd7fe-e714-4f43-8378-00abdaf8c498"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

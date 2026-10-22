@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Snowfall",
   "uuid": "400058da-60aa-4ec5-9cf6-05aa3337344f",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "khyeloren",
-   "uuid": "b161e5c1-a31d-43eb-99c4-3e5bd83aebd3"
+   "name": "ninjacyberice",
+   "uuid": "c01fa79e-f789-4226-8e86-10303918fdae"
   },
   "nation": {
-   "name": "Anchorage",
-   "uuid": "a19a509d-7ea1-46eb-8b88-ae7757ed2494"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785274919441,
-   "joinedNationAt": 1785296519504,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,6 +117,10 @@
     ],
     [
      -3615,
+     -1190
+    ],
+    [
+     -3615,
      -1191
     ],
     [
@@ -128,21 +132,29 @@
   },
   "residents": [
    {
-    "name": "khyeloren",
-    "uuid": "b161e5c1-a31d-43eb-99c4-3e5bd83aebd3"
+    "name": "ninjacyberice",
+    "uuid": "c01fa79e-f789-4226-8e86-10303918fdae"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "That1_manus",
+    "uuid": "d8fc4c71-1a27-46c0-8d68-7bfe636fe6fb"
+   },
+   {
+    "name": "Don_Peanut",
+    "uuid": "6e06731f-22b9-4898-985a-4d654ecd6420"
+   },
+   {
+    "name": "Syrrez",
+    "uuid": "6d8ea810-7ad4-49dc-a2a7-23fafa1b347d"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "khyeloren",
-     "uuid": "b161e5c1-a31d-43eb-99c4-3e5bd83aebd3"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

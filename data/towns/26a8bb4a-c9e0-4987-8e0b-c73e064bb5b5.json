@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "GG_Freaking_EZ",
   "uuid": "26a8bb4a-c9e0-4987-8e0b-c73e064bb5b5",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "InstantMoon",
-   "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+   "name": "DoomsdayTbot",
+   "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
   },
   "nation": {
    "name": "Chicagoland",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1790692101757,
-   "joinedNationAt": 1791628928429,
+   "joinedNationAt": 1792359530162,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 15,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 7,
-   "balance": 0.0,
+   "numTrusted": 19,
+   "numOutlaws": 11,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": false,
     "fire": false,
     "mobs": false
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33880.495708850496,
+    "x": -33880.30000001192,
     "y": 68.0,
-    "z": -7316.349332706468,
-    "pitch": 50.017567,
-    "yaw": -156.7276
+    "z": -7316.557410001169,
+    "pitch": 17.141878,
+    "yaw": 89.55841
    },
    "homeBlock": [
     -2118,
@@ -92,23 +92,11 @@
    ],
    "townBlocks": [
     [
-     -2118,
-     -457
-    ],
-    [
-     -2118,
-     -456
+     -2119,
+     -455
     ],
     [
      -2120,
-     -456
-    ],
-    [
-     -2119,
-     -457
-    ],
-    [
-     -2119,
      -456
     ],
     [
@@ -118,6 +106,42 @@
     [
      -2120,
      -457
+    ],
+    [
+     -2118,
+     -455
+    ],
+    [
+     -2117,
+     -457
+    ],
+    [
+     -2117,
+     -458
+    ],
+    [
+     -2118,
+     -457
+    ],
+    [
+     -2118,
+     -456
+    ],
+    [
+     -2117,
+     -456
+    ],
+    [
+     -2119,
+     -457
+    ],
+    [
+     -2121,
+     -457
+    ],
+    [
+     -2119,
+     -456
     ],
     [
      -2119,
@@ -132,18 +156,86 @@
   },
   "residents": [
    {
-    "name": "InstantMoon",
-    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+    "name": "DoomsdayTbot",
+    "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
    }
   ],
   "trusted": [
+   {
+    "name": "Hyrql",
+    "uuid": "98db48ec-5db4-4a6e-9ac3-d3214212d15d"
+   },
+   {
+    "name": "Jepen",
+    "uuid": "5d01467c-21ac-4acc-96a5-0cc06664a27c"
+   },
+   {
+    "name": "NoahShan",
+    "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"
+   },
+   {
+    "name": "Galaxor5",
+    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
+   },
+   {
+    "name": "unh2",
+    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+   },
+   {
+    "name": "estojo",
+    "uuid": "82dddac2-a8d9-428a-9da5-bb05c129e763"
+   },
+   {
+    "name": "Lef_The_Butcher",
+    "uuid": "3d208ed2-1742-48a6-b7be-f6a9a2200886"
+   },
+   {
+    "name": "LassqL",
+    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
+   },
    {
     "name": "InstantMoon",
     "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
    },
    {
+    "name": "dex247",
+    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
+   },
+   {
+    "name": "Windows10Laptop",
+    "uuid": "9a39991e-8f91-43ac-94a0-9ea13b7a108e"
+   },
+   {
     "name": "DoomsdayTbot",
     "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
+   },
+   {
+    "name": "BlueSupreme",
+    "uuid": "19e26719-9541-4d5d-a597-4b3c9d86983b"
+   },
+   {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
+   {
+    "name": "Sayfoulpe",
+    "uuid": "3891cc50-6d7a-485b-af50-76038440d389"
+   },
+   {
+    "name": "elpapito7",
+    "uuid": "eb3895bc-852e-4814-910a-ea4327ad6221"
+   },
+   {
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
+   },
+   {
+    "name": "sobrem4res",
+    "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
+   },
+   {
+    "name": "k7m9r",
+    "uuid": "eaf2e3e5-7b6b-416d-90ba-23abd168c915"
    }
   ],
   "outlaws": [
@@ -168,12 +260,28 @@
     "uuid": "a6b59075-966a-4180-bd99-96da586d389b"
    },
    {
-    "name": "MaiGala",
-    "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
-   },
-   {
     "name": "ItzGlazzy",
     "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+   },
+   {
+    "name": "Swighted_",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
+   },
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "KanziEnvy",
+    "uuid": "44f685f3-417a-4c14-9607-a9287a170a5f"
+   },
+   {
+    "name": "SpyingBigfoot39",
+    "uuid": "43d05a08-7fa0-4fb5-9e5f-a19679e2acd2"
+   },
+   {
+    "name": "FORDaLoZ",
+    "uuid": "10286bc5-2980-422b-af54-6b1f7aa488bc"
    }
   ],
   "quarters": [
@@ -207,12 +315,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "InstantMoon",
-     "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

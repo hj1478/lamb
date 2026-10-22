@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Tatitlek",
   "uuid": "48a01ca6-ed86-4e6a-af14-5b9b030403cf",
@@ -12,12 +12,12 @@
    "uuid": "04400138-dcdf-41ae-a6c7-7c91113556eb"
   },
   "nation": {
-   "name": "Alaska",
-   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787687224651,
-   "joinedNationAt": 1787692390315,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,

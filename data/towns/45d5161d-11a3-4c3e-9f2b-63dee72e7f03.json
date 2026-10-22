@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Tepeji",
   "uuid": "45d5161d-11a3-4c3e-9f2b-63dee72e7f03",
@@ -27,7 +27,7 @@
    "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -42,8 +42,8 @@
    "numResidents": 10,
    "numTrusted": 2,
    "numOutlaws": 9,
-   "balance": 632.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 8000.0
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35488.910872505316,
+    "x": -35502.23661176766,
     "y": 95.0,
-    "z": 880.7113861987518,
-    "pitch": 1.5276,
-    "yaw": -5.1434402
+    "z": 877.1852253932362,
+    "pitch": 5.5830235,
+    "yaw": -49.985153
    },
    "homeBlock": [
     -2219,
-    55
+    54
    ],
    "townBlocks": [
     [
@@ -1604,10 +1604,6 @@
     "uuid": "99a951ae-15a6-4d0d-82d3-d6fd226ac809"
    },
    {
-    "name": "SunlitSteel",
-    "uuid": "cdb5d11a-fe23-4ea4-b251-ad798a6926fe"
-   },
-   {
     "name": "Pure_Golden_Hart",
     "uuid": "562d82cf-87b9-474d-9893-d58af710a972"
    },
@@ -1620,16 +1616,20 @@
     "uuid": "11671848-1004-4cf7-a4d8-3654bc105a9c"
    },
    {
-    "name": "Its_ubey",
-    "uuid": "10884ae0-5877-4de1-8875-51da1911d60f"
-   },
-   {
     "name": "ec____",
     "uuid": "5e4beb14-046e-4451-a0e8-c6f0e1e22f51"
    },
    {
     "name": "LukyTuky",
     "uuid": "096a55da-0d01-443f-a2b9-e2212188dbc4"
+   },
+   {
+    "name": "MURKOSSS",
+    "uuid": "50311875-07f0-4c3f-880c-fc9b45098df7"
+   },
+   {
+    "name": "111DDM",
+    "uuid": "0472494e-e4f6-4946-bb12-056310b6d550"
    }
   ],
   "trusted": [
@@ -1710,16 +1710,16 @@
     "uuid": "3e580f9a-a24a-4cc4-abea-236ad84a4c4a"
    },
    {
-    "name": "Inviting Dwelling",
-    "uuid": "9baa60aa-7c1f-4b51-bba4-096688911501"
-   },
-   {
     "name": "Dingy Quarter",
     "uuid": "e183e2e6-c497-41ca-97c1-5afcf802669f"
    },
    {
-    "name": "Bland Apartment",
-    "uuid": "7d951dac-6695-4e45-a54b-b320561c2e21"
+    "name": "Stuff",
+    "uuid": "4832b69c-4de4-46d4-8bfa-34a1331a975d"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "193db511-0d20-4500-bd16-b87247fa1e1a"
    }
   ],
   "ranks": {

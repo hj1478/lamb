@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Emerita",
   "uuid": "3655cce7-1374-45c2-8f7c-f08cda4d80b7",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 102,
-   "maxTownBlocks": 268,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 9,
    "numTrusted": 0,
    "numOutlaws": 18,
    "balance": 1.0,
@@ -512,26 +512,6 @@
     "uuid": "bd40ac39-ffd1-442b-ad16-0ef8f9a12c78"
    },
    {
-    "name": "Datel17",
-    "uuid": "b15d0083-ff87-4812-9dbf-9edefa1a0b76"
-   },
-   {
-    "name": "ADOLLA__",
-    "uuid": "79f575f1-8425-41fc-9b3b-35835ac62a69"
-   },
-   {
-    "name": "ASMars2013",
-    "uuid": "4bded4f4-a73a-46f1-a544-19a8f5694415"
-   },
-   {
-    "name": "MMaximiliann",
-    "uuid": "fe637c58-4d67-453a-958f-aa1dd3d5efc5"
-   },
-   {
-    "name": "ThunderKnight17",
-    "uuid": "78b4eb8d-e44b-4b17-9855-51b374f336de"
-   },
-   {
     "name": "inalpi",
     "uuid": "8710163f-feff-4d35-a57a-1260e0eaa958"
    },
@@ -619,7 +599,7 @@
     "uuid": "816a4e75-23c2-4810-b1b1-8b1ae50e8693"
    },
    {
-    "name": "adxf",
+    "name": "ESKISEHIRLI",
     "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
    },
    {
@@ -649,32 +629,12 @@
     "uuid": "1b2bc7b9-cacc-45bc-8df5-0c44e3191450"
    },
    {
-    "name": "Luxurious Residence",
-    "uuid": "79b938fd-325e-44ed-8397-a9667d123460"
-   },
-   {
     "name": "Dingy Tenement",
     "uuid": "a7fd0361-b33c-4ac8-9c3f-228b56dc6649"
    },
    {
-    "name": "Gloomy Property",
-    "uuid": "c95b9225-c406-402c-9dba-fbc8f5a25f39"
-   },
-   {
-    "name": "Elegant Property",
-    "uuid": "a2a78474-97b1-4d7b-8d95-3213a103658e"
-   },
-   {
-    "name": "Perturbing Tenement",
-    "uuid": "58a2e17d-faa6-4cdc-8256-7a900a2c975b"
-   },
-   {
     "name": "Cheerful Residence",
     "uuid": "c7115ccf-1af1-4aae-9604-dfd3c5f07df4"
-   },
-   {
-    "name": "Inconvenient Suite",
-    "uuid": "47dee59d-63e7-49f6-b779-9a5ce8d2a004"
    },
    {
     "name": "Annoying Quarter",
@@ -695,10 +655,6 @@
    {
     "name": "Fildas Farm Shop",
     "uuid": "493245c1-ea00-4d42-8e67-5f8219f671db"
-   },
-   {
-    "name": "Enraging Suite",
-    "uuid": "41b839e6-c23f-42fe-a406-f4e8fa04bb43"
    },
    {
     "name": "Dingy Property",
@@ -793,10 +749,6 @@
     "uuid": "e7be3f12-c851-4b7f-8460-8f3aba686ce6"
    },
    {
-    "name": "Dingy Flat",
-    "uuid": "f6246d5d-cd1c-4700-8545-457761a92c92"
-   },
-   {
     "name": "Upbeat Tenement",
     "uuid": "d2468f57-53bf-487b-8188-afc908671c90"
    },
@@ -811,6 +763,34 @@
    {
     "name": "RESIDENTS ONLY",
     "uuid": "7cc18037-53e8-43a1-95b8-affcbaa18ed0"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "58a2e17d-faa6-4cdc-8256-7a900a2c975b"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "f6246d5d-cd1c-4700-8545-457761a92c92"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "79b938fd-325e-44ed-8397-a9667d123460"
+   },
+   {
+    "name": "Gloomy Property",
+    "uuid": "c95b9225-c406-402c-9dba-fbc8f5a25f39"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "a2a78474-97b1-4d7b-8d95-3213a103658e"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "41b839e6-c23f-42fe-a406-f4e8fa04bb43"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "47dee59d-63e7-49f6-b779-9a5ce8d2a004"
    }
   ],
   "ranks": {

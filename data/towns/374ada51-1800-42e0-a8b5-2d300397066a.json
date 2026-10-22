@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Hoorn",
   "uuid": "374ada51-1800-42e0-a8b5-2d300397066a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "blademaster163",
-   "uuid": "69688272-bbdb-4087-a78c-a6a1bb14c467"
+   "name": "Cantoonment",
+   "uuid": "c83426ab-6ecd-4f02-81c7-de1d046072b1"
   },
   "nation": {
    "name": "Netherlands",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 135,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 121,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 6,
+   "numResidents": 6,
+   "numTrusted": 5,
    "numOutlaws": 2,
-   "balance": 192.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,10 +93,6 @@
    "townBlocks": [
     [
      131,
-     -737
-    ],
-    [
-     131,
      -736
     ],
     [
@@ -110,14 +106,6 @@
     [
      134,
      -730
-    ],
-    [
-     131,
-     -739
-    ],
-    [
-     131,
-     -738
     ],
     [
      134,
@@ -144,16 +132,8 @@
      -733
     ],
     [
-     134,
-     -737
-    ],
-    [
      131,
      -732
-    ],
-    [
-     134,
-     -738
     ],
     [
      131,
@@ -170,14 +150,6 @@
     [
      134,
      -736
-    ],
-    [
-     134,
-     -739
-    ],
-    [
-     133,
-     -739
     ],
     [
      128,
@@ -336,14 +308,6 @@
      -735
     ],
     [
-     133,
-     -738
-    ],
-    [
-     133,
-     -737
-    ],
-    [
      127,
      -736
     ],
@@ -369,19 +333,7 @@
     ],
     [
      132,
-     -737
-    ],
-    [
-     132,
      -736
-    ],
-    [
-     132,
-     -739
-    ],
-    [
-     132,
-     -738
     ],
     [
      132,
@@ -552,20 +504,20 @@
      -734
     ],
     [
+     135,
+     -731
+    ],
+    [
      130,
      -736
     ],
     [
      135,
-     -731
+     -730
     ],
     [
      130,
      -735
-    ],
-    [
-     135,
-     -730
     ],
     [
      130,
@@ -576,16 +528,12 @@
      -733
     ],
     [
-     130,
-     -732
-    ],
-    [
      135,
      -735
     ],
     [
      130,
-     -731
+     -732
     ],
     [
      135,
@@ -593,23 +541,19 @@
     ],
     [
      130,
-     -730
+     -731
     ],
     [
      135,
      -733
     ],
     [
+     130,
+     -730
+    ],
+    [
      135,
      -732
-    ],
-    [
-     130,
-     -739
-    ],
-    [
-     130,
-     -738
     ],
     [
      130,
@@ -640,10 +584,6 @@
     "uuid": "69688272-bbdb-4087-a78c-a6a1bb14c467"
    },
    {
-    "name": "ADAS1232965",
-    "uuid": "d0723775-5924-4eed-a448-5b253d4e02ff"
-   },
-   {
     "name": "Jassasaa",
     "uuid": "82d1735b-4496-4827-9785-596a0787e68b"
    },
@@ -654,16 +594,20 @@
    {
     "name": "Cantoonment",
     "uuid": "c83426ab-6ecd-4f02-81c7-de1d046072b1"
+   },
+   {
+    "name": "VejackaMartin",
+    "uuid": "f735805f-b5db-4d15-845d-36bfd246213a"
+   },
+   {
+    "name": "AutPig_",
+    "uuid": "111348b6-ecd2-48ef-becb-74f3c84d4ec3"
    }
   ],
   "trusted": [
    {
     "name": "SmileDerp",
     "uuid": "64d3c9ac-9445-4c48-ba2a-4483776b4bc0"
-   },
-   {
-    "name": "ADAS1232965",
-    "uuid": "d0723775-5924-4eed-a448-5b253d4e02ff"
    },
    {
     "name": "TussalAlpaca169",
@@ -731,7 +675,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "blademaster163",
+     "uuid": "69688272-bbdb-4087-a78c-a6a1bb14c467"
+    }
+   ],
    "Builder": [
     {
      "name": "Jassasaa",

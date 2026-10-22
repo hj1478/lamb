@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Frosthaven",
   "uuid": "444d701f-1528-47fe-bad2-170be367006b",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ik3QWQ",
-   "uuid": "27788083-cfd8-49db-9def-3b3759c06e30"
+   "name": "Ciharry",
+   "uuid": "aee25d40-8460-4c5c-95d7-4a4ba8d42be0"
   },
   "nation": {
-   "name": "Alaska",
-   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787404555486,
-   "joinedNationAt": 1787404610133,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 1.0,
    "forSalePrice": null
@@ -200,30 +200,14 @@
   },
   "residents": [
    {
-    "name": "ik3QWQ",
-    "uuid": "27788083-cfd8-49db-9def-3b3759c06e30"
-   },
-   {
-    "name": "HurriedKnight8",
-    "uuid": "1aa2212e-6f05-4dde-be96-aae633b460df"
-   },
-   {
-    "name": "Driplama",
-    "uuid": "ee05268e-c318-404b-9134-5eac18a0fcf2"
-   },
-   {
     "name": "Ciharry",
     "uuid": "aee25d40-8460-4c5c-95d7-4a4ba8d42be0"
    }
   ],
   "trusted": [
    {
-    "name": "Driplama",
-    "uuid": "ee05268e-c318-404b-9134-5eac18a0fcf2"
-   },
-   {
-    "name": "HurriedKnight8",
-    "uuid": "1aa2212e-6f05-4dde-be96-aae633b460df"
+    "name": "4m5m",
+    "uuid": "ea44bdee-0233-4837-9b9f-e4d9e6668e58"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Asgori",
   "uuid": "43da94a1-83ce-4cde-9a2d-970514be809d",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 221,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
+   "numResidents": 15,
    "numTrusted": 8,
-   "numOutlaws": 30,
+   "numOutlaws": 29,
    "balance": 1.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -997,10 +997,6 @@
     "uuid": "ecbe4db5-d37a-4fd9-b864-0f30557dd88e"
    },
    {
-    "name": "NinjaDragon441",
-    "uuid": "81efd205-45b3-4906-bc56-fdd16e33dfd1"
-   },
-   {
     "name": "Kaxige",
     "uuid": "971004ec-2012-431c-994b-2c8b74ebf65e"
    },
@@ -1075,12 +1071,12 @@
     "uuid": "e9e87277-697f-49f3-88ec-a68fd1e6f1ed"
    },
    {
-    "name": "NestleBad",
-    "uuid": "744149c6-539f-4626-9a57-106fb581d52a"
-   },
-   {
     "name": "proIanis",
     "uuid": "267aeab7-6ce8-45c4-a0b8-8e7e320f0995"
+   },
+   {
+    "name": "NestleBad",
+    "uuid": "744149c6-539f-4626-9a57-106fb581d52a"
    }
   ],
   "outlaws": [
@@ -1189,10 +1185,6 @@
     "uuid": "47f6623a-e74a-4bef-9d49-d206fff12578"
    },
    {
-    "name": "Gooseguy1934",
-    "uuid": "8fb2cff8-e070-461c-898e-0ac914349937"
-   },
-   {
     "name": "Gcci",
     "uuid": "23554d55-dd32-4224-9250-1822205059de"
    },
@@ -1205,7 +1197,44 @@
     "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Room 201",
+    "uuid": "cec06885-0548-49d3-97e1-002753a8b9cc"
+   },
+   {
+    "name": "Room 202",
+    "uuid": "47bec080-96c2-4c07-8e5d-df263dc701c7"
+   },
+   {
+    "name": "Room 204",
+    "uuid": "e96c6819-9fb7-471c-af98-3dba47c096fe"
+   },
+   {
+    "name": "Room 203",
+    "uuid": "b7616ea6-6fc0-4e79-95d7-153e185dcd5e"
+   },
+   {
+    "name": "Room 301",
+    "uuid": "25404fe7-c07a-4a40-9c5c-cd3c2c414b53"
+   },
+   {
+    "name": "Room 302",
+    "uuid": "9d26210f-bf99-4c35-892b-200518c91356"
+   },
+   {
+    "name": "Room 304",
+    "uuid": "ffebe112-11a2-4a1d-abc6-c4f46f281243"
+   },
+   {
+    "name": "Room 303",
+    "uuid": "d4caf0a5-8b2e-431d-9bf7-9c88bab7d8c7"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "6de9d20e-1b29-442b-9bc0-06cd5b1b16c2"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

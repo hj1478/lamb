@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Norrland",
   "uuid": "329f45f3-0a03-47a4-bf85-59ef3ef5cba8",
@@ -35,39 +35,39 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 40.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
     false,
     false,
-    false,
+    true,
     false
    ],
    "destroy": [
     false,
     false,
-    false,
+    true,
     false
    ],
    "switch": [
     false,
     false,
-    false,
+    true,
     false
    ],
    "itemUse": [
     false,
     false,
-    false,
+    true,
     false
    ],
    "flags": {
@@ -92,16 +92,28 @@
    ],
    "townBlocks": [
     [
+     520,
+     -1244
+    ],
+    [
+     520,
+     -1245
+    ],
+    [
      521,
      -1245
+    ],
+    [
+     521,
+     -1244
     ],
     [
      522,
      -1244
     ],
     [
-     521,
-     -1244
+     522,
+     -1245
     ]
    ],
    "worlds": {}
@@ -110,13 +122,22 @@
    {
     "name": "Radiotv",
     "uuid": "12ef49a6-db02-431a-881f-f98e20ab71a6"
+   },
+   {
+    "name": "Pufflehuffen",
+    "uuid": "e4dc1155-dd5d-4616-8b7a-e3fe0a8aa597"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Pufflehuffen",
+     "uuid": "e4dc1155-dd5d-4616-8b7a-e3fe0a8aa597"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

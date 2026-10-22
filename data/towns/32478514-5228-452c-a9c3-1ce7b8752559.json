@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T11:40:11Z",
+ "fetched_at": "2026-10-22T12:03:01Z",
  "data": {
   "name": "Hitit",
   "uuid": "32478514-5228-452c-a9c3-1ce7b8752559",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Arkhamni",
-   "uuid": "55e8211d-95a4-4dbf-9d32-cd8b238302ca"
+   "name": "NPC143",
+   "uuid": "a84eac4f-8ec7-2096-bfdd-b2fee490c832"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784907724424,
-   "joinedNationAt": 1784907814300,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792576800970
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -264,8 +264,8 @@
   },
   "residents": [
    {
-    "name": "Arkhamni",
-    "uuid": "55e8211d-95a4-4dbf-9d32-cd8b238302ca"
+    "name": "NPC143",
+    "uuid": "a84eac4f-8ec7-2096-bfdd-b2fee490c832"
    }
   ],
   "trusted": [],
