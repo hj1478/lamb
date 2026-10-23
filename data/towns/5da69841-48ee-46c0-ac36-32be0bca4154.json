@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Gold_Rich",
   "uuid": "5da69841-48ee-46c0-ac36-32be0bca4154",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 20,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 3.0,
@@ -178,46 +178,24 @@
    {
     "name": "Lucadercoole13",
     "uuid": "93ca100b-87ee-4a8a-9a4c-2a0d948ad052"
-   },
-   {
-    "name": "Hasibaer",
-    "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Hasibaer",
-     "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "Lucadercoole13",
      "uuid": "93ca100b-87ee-4a8a-9a4c-2a0d948ad052"
-    },
-    {
-     "name": "Hasibaer",
-     "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "Hasibaer",
-     "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
-    }
-   ],
+   "Recruiter": [],
    "Police": [
     {
      "name": "Lucadercoole13",
      "uuid": "93ca100b-87ee-4a8a-9a4c-2a0d948ad052"
-    },
-    {
-     "name": "Hasibaer",
-     "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
     }
    ],
    "Tax-exempt": [],
@@ -225,18 +203,9 @@
     {
      "name": "Lucadercoole13",
      "uuid": "93ca100b-87ee-4a8a-9a4c-2a0d948ad052"
-    },
-    {
-     "name": "Hasibaer",
-     "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
     }
    ],
-   "Realtor": [
-    {
-     "name": "Hasibaer",
-     "uuid": "9b808a04-3a37-42ea-a972-8d3f4aa7dbe7"
-    }
-   ],
+   "Realtor": [],
    "Settler": [
     {
      "name": "Lucadercoole13",

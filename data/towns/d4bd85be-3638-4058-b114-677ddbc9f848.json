@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "Claim_Disruption",
-  "uuid": "8af8a3ed-ca93-42e4-8448-3bcf0ab372ca",
-  "board": "/town set board [msg]",
-  "founder": "atomic_kuro",
+  "name": "Eridu",
+  "uuid": "d4bd85be-3638-4058-b114-677ddbc9f848",
+  "board": "Port Town",
+  "founder": "hilel143",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dimitrados",
-   "uuid": "1a8fd3a5-16d9-4a95-8906-91aa54a37deb"
+   "name": "hilel143",
+   "uuid": "1ef0ce50-ce50-43ff-8914-5d51f122a5f0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sumer",
+   "uuid": "bfb0b0ce-26c6-492e-a161-4a3f86079da8"
   },
   "timestamps": {
-   "registered": 1791483179356,
-   "joinedNationAt": null,
+   "registered": 1792681522504,
+   "joinedNationAt": 1792681537064,
    "ruinedAt": null
   },
   "status": {
@@ -28,19 +28,19 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 50,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,75 +80,112 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11035.528669205056,
-    "y": 61.875,
-    "z": -3285.359491689953,
-    "pitch": 3.3230202,
-    "yaw": 106.690125
+    "x": 17164.970285322695,
+    "y": 63.0,
+    "z": -3307.881359864038,
+    "pitch": 5.1027803,
+    "yaw": 0.16210938
    },
    "homeBlock": [
-    689,
-    -206
+    1072,
+    -207
    ],
    "townBlocks": [
     [
-     690,
-     -206
-    ],
-    [
-     690,
-     -207
-    ],
-    [
-     690,
+     1072,
      -208
     ],
     [
-     690,
-     -209
-    ],
-    [
-     688,
-     -206
-    ],
-    [
-     688,
-     -208
-    ],
-    [
-     688,
+     1072,
      -207
     ],
     [
-     688,
-     -209
-    ],
-    [
-     689,
-     -209
-    ],
-    [
-     689,
+     1070,
      -207
     ],
     [
-     689,
+     1073,
      -208
     ],
     [
-     689,
+     1072,
      -206
+    ],
+    [
+     1070,
+     -208
+    ],
+    [
+     1073,
+     -207
+    ],
+    [
+     1073,
+     -206
+    ],
+    [
+     1075,
+     -207
+    ],
+    [
+     1074,
+     -205
+    ],
+    [
+     1074,
+     -207
+    ],
+    [
+     1075,
+     -206
+    ],
+    [
+     1074,
+     -206
+    ],
+    [
+     1075,
+     -205
+    ],
+    [
+     1074,
+     -208
+    ],
+    [
+     1071,
+     -206
+    ],
+    [
+     1071,
+     -207
+    ],
+    [
+     1071,
+     -208
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Dimitrados",
-    "uuid": "1a8fd3a5-16d9-4a95-8906-91aa54a37deb"
+    "name": "hilel143",
+    "uuid": "1ef0ce50-ce50-43ff-8914-5d51f122a5f0"
+   },
+   {
+    "name": "z0mq",
+    "uuid": "2968cf83-3074-4f2f-85ac-b67d18e1fb60"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Andakira",
+    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
+   {
+    "name": "Andariyen",
+    "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

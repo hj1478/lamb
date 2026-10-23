@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Damas",
   "uuid": "63fad439-72fa-41c4-b994-c5bdd5c9cf24",
@@ -12,12 +12,12 @@
    "uuid": "18e7e1e3-c1c1-4296-b433-775496bca304"
   },
   "nation": {
-   "name": "Rum",
-   "uuid": "dcc26411-eb23-488a-8466-48248ee9568e"
+   "name": "Palestine",
+   "uuid": "ff4b6b72-b5e2-49f4-955e-f3bdbea0321c"
   },
   "timestamps": {
    "registered": 1778760916430,
-   "joinedNationAt": 1790406885993,
+   "joinedNationAt": 1792155281234,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 72,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 5,
    "numOutlaws": 2,
-   "balance": 129.0,
+   "balance": 162.0,
    "forSalePrice": null
   },
   "perms": {
@@ -391,6 +391,10 @@
    {
     "name": "_Tigresse_",
     "uuid": "18e7e1e3-c1c1-4296-b433-775496bca304"
+   },
+   {
+    "name": "ofir2013",
+    "uuid": "d0e83faa-6de4-4703-a0cf-6dd68a77fd98"
    }
   ],
   "trusted": [

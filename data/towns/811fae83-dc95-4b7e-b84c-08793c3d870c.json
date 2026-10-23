@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "Fort_Communism",
-  "uuid": "aeff49a2-6f1c-4eff-98af-b9b88322129a",
+  "name": "Brookshire",
+  "uuid": "811fae83-dc95-4b7e-b84c-08793c3d870c",
   "board": "/town set board [msg]",
-  "founder": "Slapdragon",
+  "founder": "harrybarry213",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Slapdragon",
-   "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
+   "name": "harrybarry213",
+   "uuid": "b24d19ee-7178-4c80-9e56-053a352cea5f"
   },
   "nation": {
-   "name": "Siberia",
-   "uuid": "36665c78-07a3-479a-846d-7df07208312e"
+   "name": "Ethiopia",
+   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
   },
   "timestamps": {
-   "registered": 1791849945548,
-   "joinedNationAt": 1791850001798,
+   "registered": 1792707599904,
+   "joinedNationAt": 1792707779465,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,110 +73,59 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 23830.59146639555,
-    "y": 63.0,
-    "z": -20156.515937258893,
-    "pitch": 21.423248,
-    "yaw": -134.53476
+    "x": 15273.40440715709,
+    "y": 62.875,
+    "z": 7976.49274272807,
+    "pitch": 5.400004,
+    "yaw": -178.95625
    },
    "homeBlock": [
-    1489,
-    -1260
+    954,
+    498
    ],
    "townBlocks": [
     [
-     1490,
-     -1261
+     954,
+     497
     ],
     [
-     1490,
-     -1260
+     954,
+     498
     ],
     [
-     1488,
-     -1263
+     953,
+     498
     ],
     [
-     1489,
-     -1265
+     953,
+     497
     ],
     [
-     1488,
-     -1264
-    ],
-    [
-     1489,
-     -1266
-    ],
-    [
-     1489,
-     -1263
-    ],
-    [
-     1488,
-     -1265
-    ],
-    [
-     1489,
-     -1264
-    ],
-    [
-     1489,
-     -1261
-    ],
-    [
-     1488,
-     -1260
-    ],
-    [
-     1489,
-     -1262
-    ],
-    [
-     1488,
-     -1261
-    ],
-    [
-     1488,
-     -1262
-    ],
-    [
-     1489,
-     -1260
-    ],
-    [
-     1490,
-     -1263
-    ],
-    [
-     1490,
-     -1262
-    ],
-    [
-     1490,
-     -1265
-    ],
-    [
-     1490,
-     -1264
+     955,
+     497
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Slapdragon",
-    "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
+    "name": "harrybarry213",
+    "uuid": "b24d19ee-7178-4c80-9e56-053a352cea5f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Johnpringleguy",
+    "uuid": "99a83cbf-ee20-4eba-9359-c0ca32ffabb3"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

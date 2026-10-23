@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Resolute",
   "uuid": "5c586e4c-796f-4362-bb24-91eb40782d37",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "code_tempesterss",
-   "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
+   "name": "TheLuffy123",
+   "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
   },
   "nation": {
    "name": "Arctic_Isles",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,11 +104,11 @@
      -1858
     ],
     [
-     -1938,
+     -1940,
      -1857
     ],
     [
-     -1940,
+     -1938,
      -1857
     ],
     [
@@ -134,6 +134,14 @@
    {
     "name": "code_tempesterss",
     "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
+   },
+   {
+    "name": "TheLuffy123",
+    "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
+   },
+   {
+    "name": "Dragon623",
+    "uuid": "ed3f8712-7dd2-44c5-b7b2-2d4f0499d3b6"
    }
   ],
   "trusted": [
@@ -145,7 +153,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "code_tempesterss",
+     "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

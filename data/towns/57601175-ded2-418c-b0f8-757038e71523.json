@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Toglaland",
   "uuid": "57601175-ded2-418c-b0f8-757038e71523",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "algoene",
-   "uuid": "1f795406-95f1-42d8-adf8-254fcce5d580"
+   "name": "NPC1",
+   "uuid": "33191c46-51cd-20b9-a53c-2971bdd62a38"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1782924106048,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792663202738
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -220,8 +220,8 @@
   },
   "residents": [
    {
-    "name": "algoene",
-    "uuid": "1f795406-95f1-42d8-adf8-254fcce5d580"
+    "name": "NPC1",
+    "uuid": "33191c46-51cd-20b9-a53c-2971bdd62a38"
    }
   ],
   "trusted": [],

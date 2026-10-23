@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Brochet",
   "uuid": "51564c20-c0d4-40ab-9ecd-035dadd7416e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 124,
-   "maxTownBlocks": 208,
+   "numTownBlocks": 145,
+   "maxTownBlocks": 244,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
+   "numResidents": 12,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 493.0,
+   "balance": 298.0,
    "forSalePrice": null
   },
   "perms": {
@@ -324,12 +324,24 @@
      -963
     ],
     [
+     -2264,
+     -968
+    ],
+    [
      -2269,
      -962
     ],
     [
+     -2264,
+     -969
+    ],
+    [
      -2269,
      -961
+    ],
+    [
+     -2264,
+     -970
     ],
     [
      -2269,
@@ -428,16 +440,72 @@
      -961
     ],
     [
+     -2265,
+     -966
+    ],
+    [
+     -2265,
+     -965
+    ],
+    [
+     -2265,
+     -964
+    ],
+    [
+     -2265,
+     -970
+    ],
+    [
+     -2265,
+     -969
+    ],
+    [
+     -2265,
+     -968
+    ],
+    [
+     -2265,
+     -967
+    ],
+    [
+     -2267,
+     -965
+    ],
+    [
+     -2266,
+     -966
+    ],
+    [
+     -2267,
+     -964
+    ],
+    [
+     -2266,
+     -967
+    ],
+    [
      -2267,
      -963
+    ],
+    [
+     -2266,
+     -964
     ],
     [
      -2267,
      -962
     ],
     [
+     -2266,
+     -965
+    ],
+    [
      -2267,
      -961
+    ],
+    [
+     -2266,
+     -970
     ],
     [
      -2267,
@@ -448,8 +516,16 @@
      -959
     ],
     [
+     -2266,
+     -968
+    ],
+    [
      -2267,
      -958
+    ],
+    [
+     -2266,
+     -969
     ],
     [
      -2267,
@@ -462,6 +538,14 @@
     [
      -2267,
      -968
+    ],
+    [
+     -2267,
+     -967
+    ],
+    [
+     -2267,
+     -966
     ],
     [
      -2274,
@@ -600,8 +684,8 @@
     "uuid": "5d410445-bb03-42d1-a44d-cb0f9487ab19"
    },
    {
-    "name": "itsthekiki",
-    "uuid": "7d514a19-334b-4f1c-9528-c97dcc837255"
+    "name": "Pre_tzel",
+    "uuid": "08ef087c-125e-44b8-b7c0-cb6b467cc283"
    },
    {
     "name": "ilinca12345",
@@ -626,6 +710,18 @@
    {
     "name": "dbr___",
     "uuid": "812916de-e286-4c60-9ed1-10a54095de5b"
+   },
+   {
+    "name": "BigUnc555",
+    "uuid": "8af5cf73-c4c5-4a67-a74d-c13a349b40bd"
+   },
+   {
+    "name": "RossyParrot",
+    "uuid": "6cf7b040-379e-4531-96d2-b4bff9c2cabc"
+   },
+   {
+    "name": "_zJade",
+    "uuid": "51758bab-a9ab-4db0-ab40-719d6057474f"
    }
   ],
   "trusted": [],
@@ -844,10 +940,6 @@
     "uuid": "e476918d-200c-4710-a783-de57cc8e4714"
    },
    {
-    "name": "Sunny_House",
-    "uuid": "dae38f7f-52b9-4b0b-a95e-6e4f81b70caf"
-   },
-   {
     "name": "Dingy Property",
     "uuid": "ad580048-90ed-49a9-80b6-4a3342ff1dba"
    },
@@ -922,6 +1014,18 @@
    {
     "name": "Lovely Property",
     "uuid": "8cf4c352-38f4-4c11-95cf-ddec8968f056"
+   },
+   {
+    "name": "Sunny_House",
+    "uuid": "dae38f7f-52b9-4b0b-a95e-6e4f81b70caf"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "e3ee2c7a-861a-4ac8-b2d8-56d3a201a8a1"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "6af504d7-e69d-4a17-b61a-2743dab9e436"
    }
   ],
   "ranks": {
@@ -939,7 +1043,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "farm",
+    "uuid": "3f22e23f-5f6b-4d85-afe7-0538198b25aa",
+    "createdAt": 1792658794951,
+    "createdBy": "Gamewalker",
+    "access": "RESIDENT",
+    "location": {
+     "x": -36340,
+     "y": 70,
+     "z": -15525
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

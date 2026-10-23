@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "Istros",
+  "name": "Neptun",
   "uuid": "4a37e703-3384-40ff-b5a2-1916125583b8",
-  "board": "the 4th rome",
+  "board": "The chillest resort on the black sea",
   "founder": "Japlo1505",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "N0THACKING",
-   "uuid": "0446fb26-1fed-470f-b2a1-bcff408f21ae"
+   "name": "TheRealPotatoGuy",
+   "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": "Georgia",
+   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
   },
   "timestamps": {
    "registered": 1781856643854,
-   "joinedNationAt": 1792027328741,
+   "joinedNationAt": 1792359320863,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 174,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 16.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10148.300000011921,
-    "y": 61.0,
-    "z": -8862.504351979811,
-    "pitch": 59.70666,
-    "yaw": -93.11357
+    "x": 10200.31704191929,
+    "y": 65.5,
+    "z": -8869.723479270258,
+    "pitch": 11.813556,
+    "yaw": 102.65906
    },
    "homeBlock": [
-    634,
-    -554
+    637,
+    -555
    ],
    "townBlocks": [
     [
@@ -792,22 +792,22 @@
   },
   "residents": [
    {
-    "name": "Jurix_159",
-    "uuid": "1102b602-9cce-4bca-b63e-be8972f8807d"
-   },
-   {
     "name": "burgertart",
     "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
    },
    {
-    "name": "N0THACKING",
-    "uuid": "0446fb26-1fed-470f-b2a1-bcff408f21ae"
+    "name": "TheRealPotatoGuy",
+    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
    }
   ],
   "trusted": [
    {
-    "name": "Iffyhat96196",
-    "uuid": "4a99b8e3-325d-4ca0-b103-715739555504"
+    "name": "Hill24671",
+    "uuid": "12f311ca-a1a4-4ac1-a0a9-e7ee646835c0"
+   },
+   {
+    "name": "BsidesThat",
+    "uuid": "4a84b7c9-7de9-4f5c-bfb1-dd028cd79e19"
    }
   ],
   "outlaws": [
@@ -818,52 +818,20 @@
   ],
   "quarters": [
    {
-    "name": "Stylish Dwelling",
-    "uuid": "d74b55f4-0fd3-4fb3-bbcf-010c03ba6293"
-   },
-   {
     "name": "Dingy Residence",
     "uuid": "a99a2535-8cd5-4f90-9d35-d1d916922ae2"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "45bfe55e-e981-4bfd-9ceb-74b2b843a746"
-   },
-   {
-    "name": "Welcoming Quarter",
-    "uuid": "4b20e16a-a829-40b3-b7c6-65abfe83e9c9"
    },
    {
     "name": "Welcoming Residence",
     "uuid": "80bab3d6-0184-4131-aa13-9c62602e8e4e"
    },
    {
-    "name": "Bland Tenement",
-    "uuid": "5a5406b5-1c2d-4e49-b5f1-e4f5f7242395"
-   },
-   {
-    "name": "Enraging Suite",
-    "uuid": "d54314c6-d26a-435a-87f8-b46eacbfa6da"
-   },
-   {
-    "name": "Bland Dwelling",
-    "uuid": "c0114a51-1f64-400b-ba04-2de742343eb9"
-   },
-   {
     "name": "Stylish Flat",
     "uuid": "22f8c180-231a-453a-a58d-fc4ff7743970"
    },
    {
-    "name": "Cheerful Apartment",
-    "uuid": "9d342f1b-f697-4306-a8aa-610852913111"
-   },
-   {
     "name": "Inviting Flat",
     "uuid": "6dd3f3e9-71bc-4953-b33e-06b7a32a15c8"
-   },
-   {
-    "name": "Annoying Tenement",
-    "uuid": "d309164e-bbca-4b02-b4f6-e16923d8f219"
    },
    {
     "name": "Upbeat Quarter",
@@ -878,40 +846,8 @@
     "uuid": "63a76180-a27d-4db3-a10b-f72cfffa7eaa"
    },
    {
-    "name": "Stylish Dwelling",
-    "uuid": "652a1a5a-5924-4930-9439-c8391cd95572"
-   },
-   {
-    "name": "Chicken Coop",
-    "uuid": "9c46a771-fc43-427d-aaea-7eedabe83884"
-   },
-   {
-    "name": "Stylish Quarter",
-    "uuid": "d6f52dde-6531-4788-9680-f9186c725090"
-   },
-   {
     "name": "Enraging Dwelling",
     "uuid": "87caff09-c745-435a-b2b9-583977f28c0b"
-   },
-   {
-    "name": "Luxurious Tenement",
-    "uuid": "44c3eb6e-c969-4f4c-9516-524227e9bbcc"
-   },
-   {
-    "name": "Bland Residence",
-    "uuid": "193962b9-3b84-4166-bb4c-f60792d1659b"
-   },
-   {
-    "name": "Upbeat Flat",
-    "uuid": "95c51525-0263-4977-a248-8f02686cab48"
-   },
-   {
-    "name": "Dingy Tenement",
-    "uuid": "e18679f4-50e2-418c-a9c9-863c4edb593b"
-   },
-   {
-    "name": "Inviting Property",
-    "uuid": "cd59ce4a-f671-413d-ac40-c10359c84fe2"
    },
    {
     "name": "Potato Farm",
@@ -924,10 +860,6 @@
    {
     "name": "pl_ace's room",
     "uuid": "3e25d132-0747-4548-bceb-dc2b723ef6ae"
-   },
-   {
-    "name": "Chest Room",
-    "uuid": "ba9309ca-70c4-45c8-8652-700f2a319d04"
    },
    {
     "name": "Gloomy Property",
@@ -944,6 +876,74 @@
    {
     "name": "Luxurious Suite",
     "uuid": "b77ab735-b7d2-4a10-913e-cc05a638900c"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "4b20e16a-a829-40b3-b7c6-65abfe83e9c9"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "d74b55f4-0fd3-4fb3-bbcf-010c03ba6293"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "45bfe55e-e981-4bfd-9ceb-74b2b843a746"
+   },
+   {
+    "name": "Bland Tenement",
+    "uuid": "5a5406b5-1c2d-4e49-b5f1-e4f5f7242395"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "d54314c6-d26a-435a-87f8-b46eacbfa6da"
+   },
+   {
+    "name": "Bland Dwelling",
+    "uuid": "c0114a51-1f64-400b-ba04-2de742343eb9"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "9d342f1b-f697-4306-a8aa-610852913111"
+   },
+   {
+    "name": "Annoying Tenement",
+    "uuid": "d309164e-bbca-4b02-b4f6-e16923d8f219"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "652a1a5a-5924-4930-9439-c8391cd95572"
+   },
+   {
+    "name": "Chicken Coop",
+    "uuid": "9c46a771-fc43-427d-aaea-7eedabe83884"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "44c3eb6e-c969-4f4c-9516-524227e9bbcc"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "193962b9-3b84-4166-bb4c-f60792d1659b"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "e18679f4-50e2-418c-a9c9-863c4edb593b"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "95c51525-0263-4977-a248-8f02686cab48"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "cd59ce4a-f671-413d-ac40-c10359c84fe2"
+   },
+   {
+    "name": "Chest Room",
+    "uuid": "ba9309ca-70c4-45c8-8652-700f2a319d04"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "d6f52dde-6531-4788-9680-f9186c725090"
    }
   ],
   "ranks": {

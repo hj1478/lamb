@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Ivanhoe",
   "uuid": "4e3f02cc-606a-4101-ab00-087e25e75f37",
@@ -12,12 +12,12 @@
    "uuid": "e3ff4ce0-2430-4ce0-b9b9-5fbb61045b40"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
    "registered": 1792174280599,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792254442416,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 22.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,11 +92,35 @@
    ],
    "townBlocks": [
     [
-     3250,
+     3249,
+     1257
+    ],
+    [
+     3249,
      1258
     ],
     [
      3250,
+     1258
+    ],
+    [
+     3251,
+     1258
+    ],
+    [
+     3250,
+     1256
+    ],
+    [
+     3251,
+     1256
+    ],
+    [
+     3250,
+     1257
+    ],
+    [
+     3251,
      1257
     ]
    ],

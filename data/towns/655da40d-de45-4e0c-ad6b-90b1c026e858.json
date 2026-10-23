@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Monumenta",
   "uuid": "655da40d-de45-4e0c-ad6b-90b1c026e858",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 33,
-   "maxTownBlocks": 86,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -156,16 +156,16 @@
      -1328
     ],
     [
-     2988,
-     -1332
+     2985,
+     -1333
     ],
     [
      2986,
      -1333
     ],
     [
-     2985,
-     -1333
+     2988,
+     -1332
     ],
     [
      2985,
@@ -193,10 +193,6 @@
     ],
     [
      2987,
-     -1329
-    ],
-    [
-     2988,
      -1329
     ],
     [
@@ -204,12 +200,20 @@
      -1328
     ],
     [
+     2988,
+     -1329
+    ],
+    [
      2987,
      -1331
     ],
     [
      2987,
      -1330
+    ],
+    [
+     2987,
+     -1333
     ],
     [
      2987,
@@ -258,8 +262,12 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Monumenta Station",
-    "uuid": "171f0fc0-0db8-4386-95ff-af7e66832174"
+    "name": "Inconvenient Apartment",
+    "uuid": "915397fd-b33e-4f3a-860d-6198d439d358"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "c0fc6be9-02c4-45e3-993c-d558ceecd606"
    }
   ],
   "ranks": {

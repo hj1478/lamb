@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Beechers_Hope",
   "uuid": "5d57bef1-8045-45d7-8f92-7049007f1f30",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 5.0,
+   "numOutlaws": 1,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     -2680,
+     -494
+    ],
+    [
      -2679,
      -494
     ],
@@ -109,7 +113,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "7unc",
+    "uuid": "0fe8a434-7d9f-4633-8774-98309fc03465"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

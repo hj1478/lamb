@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Toldijk",
   "uuid": "640a1a9b-4d79-459a-bf82-d013e2b182e9",
-  "board": "/town set board [msg]",
+  "board": "Toldijk is een dorp met een leuke sfeer",
   "founder": "JurassicKaiju23",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 18,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 18.0,
+   "numTrusted": 1,
+   "numOutlaws": 3,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3838.0978189250764,
+    "x": 3835.4783103134805,
     "y": 63.0,
-    "z": -12543.88718558404,
-    "pitch": 5.7000184,
-    "yaw": -21.03595
+    "z": -12540.409820721348,
+    "pitch": 20.549864,
+    "yaw": -179.58752
    },
    "homeBlock": [
     239,
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     241,
+     -785
+    ],
+    [
+     241,
+     -784
+    ],
+    [
      239,
      -784
     ],
@@ -100,12 +108,48 @@
      -785
     ],
     [
+     239,
+     -786
+    ],
+    [
+     239,
+     -787
+    ],
+    [
+     241,
+     -787
+    ],
+    [
+     241,
+     -786
+    ],
+    [
+     237,
+     -785
+    ],
+    [
+     242,
+     -786
+    ],
+    [
      238,
      -784
     ],
     [
      238,
+     -786
+    ],
+    [
+     240,
+     -786
+    ],
+    [
+     238,
      -785
+    ],
+    [
+     240,
+     -787
     ],
     [
      240,
@@ -114,6 +158,10 @@
     [
      240,
      -785
+    ],
+    [
+     238,
+     -787
     ]
    ],
    "worlds": {}
@@ -128,11 +176,24 @@
     "uuid": "d0a6bdec-6e85-40e5-9b31-d50422696493"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Addychi01",
+    "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
+   }
+  ],
   "outlaws": [
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   },
+   {
+    "name": "jupebean",
+    "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
    }
   ],
   "quarters": [],

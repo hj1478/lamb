@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "A_A",
   "uuid": "59e2ee28-a29d-419f-bcae-9322aceeb189",
@@ -12,12 +12,12 @@
    "uuid": "19fdd4ae-3139-48ab-b1c1-80b8477a1243"
   },
   "nation": {
-   "name": "China",
-   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
+   "name": "PRC",
+   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
   },
   "timestamps": {
    "registered": 1790262483587,
-   "joinedNationAt": 1791468943889,
+   "joinedNationAt": 1792237986835,
    "ruinedAt": null
   },
   "status": {
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 101,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 5,
+   "nationBonus": 100,
+   "numResidents": 8,
    "numTrusted": 6,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -512,12 +512,24 @@
     "uuid": "74f7596f-de09-4cdf-820d-954929a54582"
    },
    {
-    "name": "LucasMacdonald",
-    "uuid": "5f8c7e98-d12a-419b-920c-f07a0dc1a44e"
-   },
-   {
     "name": "ECHOVOeee",
     "uuid": "cbd3e0c2-faba-436e-8582-70f1e58957c9"
+   },
+   {
+    "name": "Auroramdl343",
+    "uuid": "3b32e87f-c93b-4b32-a582-bd0942a73d15"
+   },
+   {
+    "name": "motion114514",
+    "uuid": "62b8672f-0cc2-4943-b873-cbeb3688d02a"
+   },
+   {
+    "name": "s___h___u",
+    "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
+   },
+   {
+    "name": "rippes_mc",
+    "uuid": "72fa0138-fc47-4c8b-b6ad-51656308aa1b"
    }
   ],
   "trusted": [
@@ -549,36 +561,40 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Dingy Tenement",
-    "uuid": "f65d854e-ba8a-4152-918e-2cbe70d1a386"
-   },
-   {
     "name": "Upbeat Tenement",
     "uuid": "a935c2fe-d308-414a-9e6c-c10aa426c1d0"
-   },
-   {
-    "name": "Enraging Quarter",
-    "uuid": "380687f7-024c-49e2-920f-d45f55cd1463"
-   },
-   {
-    "name": "Dull Tenement",
-    "uuid": "c432aced-75c3-4d08-bf40-4d7d2bfe7618"
-   },
-   {
-    "name": "Cheerful Suite",
-    "uuid": "6145d154-3bc2-4635-83e4-0f59f1ab1f6d"
    },
    {
     "name": "Elegant Quarter",
     "uuid": "05110093-8588-4502-9b13-ea8654c4fd2d"
    },
    {
+    "name": "Luxurious Dwelling",
+    "uuid": "4b836687-d0e6-476e-8752-ef20db68b811"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "c432aced-75c3-4d08-bf40-4d7d2bfe7618"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "89e8e3a3-0eac-4e1e-a164-74eeb7564bff"
+   },
+   {
     "name": "Cheerful Suite",
     "uuid": "0a0105af-299b-440b-9540-59e9d57c9cb5"
    },
    {
-    "name": "Luxurious Dwelling",
-    "uuid": "4b836687-d0e6-476e-8752-ef20db68b811"
+    "name": "Dingy Tenement",
+    "uuid": "f65d854e-ba8a-4152-918e-2cbe70d1a386"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "380687f7-024c-49e2-920f-d45f55cd1463"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "6145d154-3bc2-4635-83e4-0f59f1ab1f6d"
    }
   ],
   "ranks": {
@@ -588,8 +604,18 @@
      "uuid": "2003673f-d5c2-4052-b6a1-17a8923c6f3d"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "Auroramdl343",
+     "uuid": "3b32e87f-c93b-4b32-a582-bd0942a73d15"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Auroramdl343",
+     "uuid": "3b32e87f-c93b-4b32-a582-bd0942a73d15"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

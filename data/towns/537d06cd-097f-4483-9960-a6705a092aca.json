@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Canterbury",
   "uuid": "537d06cd-097f-4483-9960-a6705a092aca",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 164,
-   "maxTownBlocks": 176,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 8,
+   "numResidents": 5,
    "numTrusted": 3,
-   "numOutlaws": 4,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 354.20310186016815,
-    "y": 65.0,
-    "z": -12188.16386749529,
-    "pitch": 18.65924,
-    "yaw": 70.77611
+    "x": 267.7406915827886,
+    "y": 69.0,
+    "z": -12162.702459002883,
+    "pitch": 15.209224,
+    "yaw": -115.9729
    },
    "homeBlock": [
-    22,
-    -762
+    16,
+    -761
    ],
    "townBlocks": [
     [
@@ -756,18 +756,6 @@
     "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
    },
    {
-    "name": "TornadoTommy76",
-    "uuid": "c18a89ad-45c7-41ca-8a2c-9f2e3886caea"
-   },
-   {
-    "name": "low_master",
-    "uuid": "59708212-fa2f-47bb-850c-1bf72be0654c"
-   },
-   {
-    "name": "MadSinger13",
-    "uuid": "bdb28f55-525e-4174-81c3-225ba5f113af"
-   },
-   {
     "name": "Biiow",
     "uuid": "c5dcc8d1-a860-4b9f-a420-43abc612df60"
    },
@@ -799,10 +787,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "JoelTheBigMac",
-    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
-   },
    {
     "name": "_Srdjan",
     "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"

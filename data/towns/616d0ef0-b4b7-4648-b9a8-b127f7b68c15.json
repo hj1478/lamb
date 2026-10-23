@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "BelleRiver",
+  "name": "Belle_River",
   "uuid": "616d0ef0-b4b7-4648-b9a8-b127f7b68c15",
   "board": "/town set board [msg]",
   "founder": "CTM0029",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 28,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 208.0,
+   "numResidents": 2,
+   "numTrusted": 3,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10743.660855836702,
-    "y": 84.27516327900872,
-    "z": 12086.835182359939,
-    "pitch": 7.049953,
-    "yaw": 83.65733
+    "x": 10749.681263673008,
+    "y": 302.0,
+    "z": 12091.346571045498,
+    "pitch": 39.450363,
+    "yaw": -11.894608
    },
    "homeBlock": [
     671,
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     673,
+     753
+    ],
+    [
+     673,
+     756
+    ],
+    [
+     673,
+     755
+    ],
+    [
+     673,
+     754
+    ],
+    [
      669,
      756
     ],
@@ -104,36 +120,84 @@
      754
     ],
     [
-     670,
-     754
+     669,
+     753
     ],
     [
-     670,
-     756
-    ],
-    [
-     670,
-     755
+     671,
+     753
     ],
     [
      671,
      756
+    ],
+    [
+     671,
+     754
+    ],
+    [
+     671,
+     755
+    ],
+    [
+     674,
+     754
+    ],
+    [
+     674,
+     753
+    ],
+    [
+     675,
+     754
+    ],
+    [
+     675,
+     753
+    ],
+    [
+     674,
+     756
+    ],
+    [
+     675,
+     756
+    ],
+    [
+     674,
+     755
+    ],
+    [
+     675,
+     755
+    ],
+    [
+     670,
+     754
+    ],
+    [
+     670,
+     753
+    ],
+    [
+     670,
+     756
+    ],
+    [
+     670,
+     755
+    ],
+    [
+     672,
+     753
     ],
     [
      672,
      756
     ],
     [
-     671,
-     754
-    ],
-    [
      672,
      754
-    ],
-    [
-     671,
-     755
     ],
     [
      672,
@@ -146,6 +210,10 @@
    {
     "name": "CTM0029",
     "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
+   },
+   {
+    "name": "Lukegvespa",
+    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    }
   ],
   "trusted": [
@@ -154,14 +222,45 @@
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
    },
    {
-    "name": "Lukegvespa",
-    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
+    "name": "7Scav",
+    "uuid": "a3848d8f-5e09-4efa-9a6b-dd1f1e6fa0bb"
+   },
+   {
+    "name": "Andre1098",
+    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   },
+   {
+    "name": "SignorTuc",
+    "uuid": "5c981e10-7798-448d-8859-c7b056d700e8"
+   },
+   {
+    "name": "CaptainOFCopper",
+    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Button",
+    "uuid": "b5ae1b0a-a154-47ab-8e69-762cd3cbfe87"
+   },
+   {
+    "name": "Button And Barrel",
+    "uuid": "d124272b-3f58-4cb2-83e8-c2ba4c9ed596"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Lukegvespa",
+     "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

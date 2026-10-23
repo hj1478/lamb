@@ -1,46 +1,46 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "Apple",
-  "uuid": "b3409f18-dc9c-4dde-91ba-7e61b2bddae4",
+  "name": "OATES_OIL",
+  "uuid": "6c28326a-c944-4e8b-8307-996cc40c8fcc",
   "board": "/town set board [msg]",
-  "founder": "Researcher_Ivan",
+  "founder": "isbot1",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LukeMacFarlane",
-   "uuid": "1a129e76-78a4-4bb1-9486-2edae1a807aa"
+   "name": "isbot1",
+   "uuid": "d27a9798-8735-41cd-a324-a7f63aaf44ae"
   },
   "nation": {
-   "name": "Manchuria",
-   "uuid": "0b048742-5448-454a-a0f6-645ff632e34f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1787323013147,
-   "joinedNationAt": 1787323043817,
+   "registered": 1792752829483,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,73 +73,49 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45001.68010368312,
-    "y": 71.0,
-    "z": -8440.054119443368,
-    "pitch": 24.74981,
-    "yaw": 152.91797
+    "x": 56956.30000001192,
+    "y": 62.9375,
+    "z": 29765.508900504476,
+    "pitch": 11.701686,
+    "yaw": 160.70563
    },
    "homeBlock": [
-    2812,
-    -528
+    3559,
+    1860
    ],
    "townBlocks": [
     [
-     2812,
-     -529
-    ],
-    [
-     2811,
-     -528
-    ],
-    [
-     2813,
-     -527
-    ],
-    [
-     2811,
-     -529
-    ],
-    [
-     2813,
-     -528
-    ],
-    [
-     2813,
-     -529
-    ],
-    [
-     2811,
-     -527
-    ],
-    [
-     2812,
-     -528
-    ],
-    [
-     2812,
-     -527
+     3559,
+     1860
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "LukeMacFarlane",
-    "uuid": "1a129e76-78a4-4bb1-9486-2edae1a807aa"
+    "name": "isbot1",
+    "uuid": "d27a9798-8735-41cd-a324-a7f63aaf44ae"
    }
   ],
   "trusted": [
    {
-    "name": "Dr_KuznetsovCN",
-    "uuid": "a4ee3d0b-41d0-4134-8069-8851e02d713e"
+    "name": "Easyundead",
+    "uuid": "d999bed7-2264-4556-8f40-f1c46bb6158c"
+   },
+   {
+    "name": "S4lz_",
+    "uuid": "7a668a59-7d9b-4fb9-b22d-f28830376d0b"
+   },
+   {
+    "name": "Wind2920",
+    "uuid": "6dfb6b87-4f01-411d-87dd-f8290d3c27b0"
    }
   ],
   "outlaws": [],

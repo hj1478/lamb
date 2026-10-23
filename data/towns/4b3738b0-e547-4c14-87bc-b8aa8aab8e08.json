@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Clermont",
   "uuid": "4b3738b0-e547-4c14-87bc-b8aa8aab8e08",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -514,6 +514,10 @@
    {
     "name": "PoshPringle97",
     "uuid": "5e2d8415-d8bf-4be0-829b-9bae5a09afad"
+   },
+   {
+    "name": "KelfShelf9036",
+    "uuid": "f86573b1-88f5-4182-8e9f-19b9dc9048d3"
    }
   ],
   "trusted": [
@@ -535,7 +539,12 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "e67cd2a0-edb9-40c1-8ba2-88a9a65eca49"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

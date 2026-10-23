@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Batumi",
   "uuid": "62f561cc-5bf5-47ee-a39d-3cca5fcc780c",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 255,
-   "maxTownBlocks": 256,
+   "maxTownBlocks": 248,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 13,
+   "nationBonus": 80,
+   "numResidents": 14,
    "numTrusted": 15,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1166,6 +1166,10 @@
    {
     "name": "2AM_UNKNOWN",
     "uuid": "74b79f2a-5771-4e18-9b5e-b10fb01d9021"
+   },
+   {
+    "name": "TomVoglCzech",
+    "uuid": "81fd2ed2-3120-493a-8aab-8f95016a5870"
    }
   ],
   "trusted": [

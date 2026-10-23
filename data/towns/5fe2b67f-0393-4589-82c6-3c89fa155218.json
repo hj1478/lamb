@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "San_Sebastian",
   "uuid": "5fe2b67f-0393-4589-82c6-3c89fa155218",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,25 +47,25 @@
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -92,12 +92,32 @@
    ],
    "townBlocks": [
     [
+     -1540,
+     1820
+    ],
+    [
      -1538,
      1820
     ],
     [
      -1538,
      1819
+    ],
+    [
+     -1540,
+     1819
+    ],
+    [
+     -1539,
+     1819
+    ],
+    [
+     -1539,
+     1820
+    ],
+    [
+     -1541,
+     1820
     ]
    ],
    "worlds": {}
@@ -106,6 +126,14 @@
    {
     "name": "kripilopes",
     "uuid": "b89346e8-2218-4d54-84ac-46ded2ded59e"
+   },
+   {
+    "name": "Maty0104",
+    "uuid": "46f171e5-a8e5-49f0-9903-7eb1544cc194"
+   },
+   {
+    "name": "semenkun",
+    "uuid": "f4e93933-9d32-4dc7-8ad6-e6e6a4636c33"
    }
   ],
   "trusted": [],

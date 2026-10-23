@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Auburn_AL",
   "uuid": "4fa75e90-cd53-4fde-b57e-671593369252",
@@ -12,7 +12,7 @@
    "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
   },
   "nation": {
-   "name": "Alabama",
+   "name": "Gulf_Union",
    "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
-   "maxTownBlocks": 140,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 5,
-   "numTrusted": 1,
-   "numOutlaws": 4,
+   "nationBonus": 60,
+   "numResidents": 9,
+   "numTrusted": 0,
+   "numOutlaws": 5,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,6 +92,34 @@
    ],
    "townBlocks": [
     [
+     -1933,
+     -254
+    ],
+    [
+     -1933,
+     -253
+    ],
+    [
+     -1933,
+     -252
+    ],
+    [
+     -1933,
+     -251
+    ],
+    [
+     -1933,
+     -250
+    ],
+    [
+     -1933,
+     -249
+    ],
+    [
+     -1934,
+     -249
+    ],
+    [
      -1931,
      -253
     ],
@@ -110,6 +138,10 @@
     [
      -1932,
      -252
+    ],
+    [
+     -1931,
+     -249
     ],
     [
      -1932,
@@ -154,30 +186,6 @@
     [
      -1934,
      -254
-    ],
-    [
-     -1933,
-     -254
-    ],
-    [
-     -1933,
-     -253
-    ],
-    [
-     -1933,
-     -252
-    ],
-    [
-     -1933,
-     -251
-    ],
-    [
-     -1933,
-     -250
-    ],
-    [
-     -1933,
-     -249
     ]
    ],
    "worlds": {}
@@ -192,24 +200,35 @@
     "uuid": "ebb86912-38ad-406d-a7c7-958ec4c2ec8a"
    },
    {
-    "name": "Getcooked33",
-    "uuid": "11d0b49e-5e83-4314-a853-8ee9f93835ae"
-   },
-   {
     "name": "michaeleighty8",
     "uuid": "8dee7907-a1c1-42ea-a69f-316ea1edf6db"
    },
    {
     "name": "sargentburns",
     "uuid": "6c52e858-bc86-485e-9d8c-3cdb394e9c9f"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "Hoffywin9999",
-    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+    "name": "HD2CBRUH",
+    "uuid": "804ac115-c2bc-4857-99ab-7aa66159c9de"
+   },
+   {
+    "name": "Hamster6015",
+    "uuid": "cc10b47e-3368-474d-8349-2ba6cda171a9"
+   },
+   {
+    "name": "1foroneforone41",
+    "uuid": "3b2bfa0b-f814-4ab4-bbea-ea1b37137cd7"
+   },
+   {
+    "name": "Knightfire117",
+    "uuid": "1064f64d-bc16-45a8-a3fd-fe48715ad411"
+   },
+   {
+    "name": "JovenBanstead",
+    "uuid": "00b8be61-76db-4e5a-9710-a07501fb45c3"
    }
   ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "CharlemagneHappy",
@@ -226,16 +245,16 @@
    {
     "name": "SeanElephant1",
     "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
+   },
+   {
+    "name": "Nxghtxd__",
+    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
    }
   ],
   "quarters": [
    {
     "name": "Lovely Flat",
     "uuid": "f36d7c02-abc3-43b0-8eaa-60a7b7555e12"
-   },
-   {
-    "name": "Welcoming Suite",
-    "uuid": "a07745a6-23b1-460a-8faf-7cbccdb2c68e"
    },
    {
     "name": "Perturbing Residence",
@@ -252,11 +271,33 @@
    {
     "name": "Dingy Dwelling",
     "uuid": "16ad78cb-bef6-41e2-a01c-d7a78330d93e"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "a07745a6-23b1-460a-8faf-7cbccdb2c68e"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "02ac0570-03c7-48a5-9ca1-4884c7d7ddcb"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "fcc760d1-3807-4bf1-b8d7-e55425a4ed38"
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Pixxel_gg",
+     "uuid": "ebb86912-38ad-406d-a7c7-958ec4c2ec8a"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Pixxel_gg",
+     "uuid": "ebb86912-38ad-406d-a7c7-958ec4c2ec8a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

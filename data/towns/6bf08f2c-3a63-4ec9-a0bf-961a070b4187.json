@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Sokhumi",
   "uuid": "6bf08f2c-3a63-4ec9-a0bf-961a070b4187",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,7 +92,31 @@
    ],
    "townBlocks": [
     [
+     913,
+     -529
+    ],
+    [
+     913,
+     -531
+    ],
+    [
+     913,
+     -530
+    ],
+    [
      914,
+     -530
+    ],
+    [
+     914,
+     -531
+    ],
+    [
+     912,
+     -530
+    ],
+    [
+     912,
      -531
     ]
    ],
@@ -110,7 +134,12 @@
     "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Chesterfield",
   "uuid": "503130e2-40f5-4db2-bce6-973169dc5021",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "atlasmission",
-   "uuid": "1a80deb9-b84d-4335-8801-6efb1eab5a7a"
+   "name": "NPC49",
+   "uuid": "5da37b8c-bb74-209c-95c3-f7b3a172a1ea"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1788049453213,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792749601756
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 8.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -148,12 +148,8 @@
   },
   "residents": [
    {
-    "name": "atlasmission",
-    "uuid": "1a80deb9-b84d-4335-8801-6efb1eab5a7a"
-   },
-   {
-    "name": "CatHarder",
-    "uuid": "e73d6ea8-0e32-452c-aef2-ae2c91a16d6d"
+    "name": "NPC49",
+    "uuid": "5da37b8c-bb74-209c-95c3-f7b3a172a1ea"
    }
   ],
   "trusted": [],

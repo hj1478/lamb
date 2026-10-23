@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Monterblanc",
   "uuid": "5065cb24-a1f8-4670-a9f3-dba350890f57",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kaenjaku",
-   "uuid": "82565a94-8db9-44ce-8235-fd8c13d92e92"
+   "name": "NPC19",
+   "uuid": "6e4a03c0-2bf9-201e-86fc-73f970659bad"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785228496672,
-   "joinedNationAt": 1785228760004,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792749600576
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "Kaenjaku",
-    "uuid": "82565a94-8db9-44ce-8235-fd8c13d92e92"
+    "name": "NPC19",
+    "uuid": "6e4a03c0-2bf9-201e-86fc-73f970659bad"
    }
   ],
   "trusted": [],

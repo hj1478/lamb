@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Siemens",
   "uuid": "67d5c35c-0678-489d-97d1-99285e9d8631",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "shaoyunb111",
-   "uuid": "500a2b64-3c0a-4439-90fd-38b2099d4f28"
+   "name": "NPC90",
+   "uuid": "b3c560d8-916a-2075-a686-d3e3fb157d82"
   },
   "nation": {
-   "name": "Liao",
-   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790417855287,
-   "joinedNationAt": 1790418949841,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792495184428
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "shaoyunb111",
-    "uuid": "500a2b64-3c0a-4439-90fd-38b2099d4f28"
+    "name": "NPC90",
+    "uuid": "b3c560d8-916a-2075-a686-d3e3fb157d82"
    }
   ],
   "trusted": [

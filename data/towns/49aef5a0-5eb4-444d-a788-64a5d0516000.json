@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Coral_Bay",
   "uuid": "49aef5a0-5eb4-444d-a788-64a5d0516000",
@@ -12,12 +12,12 @@
    "uuid": "611181c7-8373-479a-a873-974c343b3772"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Polynesia",
+   "uuid": "90782aed-e2fd-4ec5-91a9-0920335c6c38"
   },
   "timestamps": {
    "registered": 1792613211060,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792677661176,
    "ruinedAt": null
   },
   "status": {
@@ -28,18 +28,18 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -101,6 +101,10 @@
     ],
     [
      -3125,
+     701
+    ],
+    [
+     -3125,
      700
     ]
    ],
@@ -110,13 +114,22 @@
    {
     "name": "Duckra_",
     "uuid": "611181c7-8373-479a-a873-974c343b3772"
+   },
+   {
+    "name": "Champ_AP",
+    "uuid": "3f7572aa-8ada-44d3-a300-f9bb1ccbac4f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Champ_AP",
+     "uuid": "3f7572aa-8ada-44d3-a300-f9bb1ccbac4f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Slobodni_Otok",
   "uuid": "5bbd8b80-ec1a-42ab-aecd-c892f6a1d772",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Bosnian_",
-   "uuid": "2d551800-c839-4dc4-b1d5-48c1a817fe60"
+   "name": "NPC26",
+   "uuid": "eada601e-67ff-20be-8f0c-0d8020cb8407"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785615965249,
-   "joinedNationAt": 1788981376888,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663202140
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -168,8 +168,8 @@
   },
   "residents": [
    {
-    "name": "Bosnian_",
-    "uuid": "2d551800-c839-4dc4-b1d5-48c1a817fe60"
+    "name": "NPC26",
+    "uuid": "eada601e-67ff-20be-8f0c-0d8020cb8407"
    }
   ],
   "trusted": [],

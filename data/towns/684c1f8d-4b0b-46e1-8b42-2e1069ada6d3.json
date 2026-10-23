@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Peachland",
   "uuid": "684c1f8d-4b0b-46e1-8b42-2e1069ada6d3",
@@ -12,12 +12,12 @@
    "uuid": "73faad55-ee6b-4632-bf0a-8054c220886f"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": "Cascadia",
+   "uuid": "e8bffa89-fb50-416d-8857-c6197726c679"
   },
   "timestamps": {
    "registered": 1792281757861,
-   "joinedNationAt": 1792282604903,
+   "joinedNationAt": 1792633125351,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -42816.850500658016,
-    "y": 93.0,
-    "z": -11404.912321314001,
-    "pitch": 49.650017,
-    "yaw": -88.86123
+    "x": -42802.80568581869,
+    "y": 156.0,
+    "z": -11416.437600120622,
+    "pitch": 0.110906914,
+    "yaw": -90.62675
    },
    "homeBlock": [
-    -2677,
-    -713
+    -2676,
+    -714
    ],
    "townBlocks": [
     [
@@ -108,7 +108,16 @@
      -713
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       958,
+       -480
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -116,9 +125,23 @@
     "uuid": "73faad55-ee6b-4632-bf0a-8054c220886f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "_Melix_",
+    "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Bland Dwelling",
+    "uuid": "d0150f2c-23a6-42aa-9b10-d9ecd952e0ef"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "6b892b8b-7276-47ec-a923-3c318f808f4e"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

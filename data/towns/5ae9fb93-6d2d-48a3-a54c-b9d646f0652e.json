@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Imrali",
   "uuid": "5ae9fb93-6d2d-48a3-a54c-b9d646f0652e",
@@ -23,7 +23,7 @@
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10273.300000011921,
-    "y": 6.0,
-    "z": -7453.321797079691,
-    "pitch": 34.499977,
-    "yaw": -98.746765
+    "x": 10251.732089667381,
+    "y": 63.5,
+    "z": -7388.1290483276125,
+    "pitch": -18.300045,
+    "yaw": 120.306885
    },
    "homeBlock": [
-    642,
-    -466
+    640,
+    -462
    ],
    "townBlocks": [
     [
@@ -414,7 +414,7 @@
   ],
   "trusted": [
    {
-    "name": "Cacik_",
+    "name": "unh2",
     "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
    },
    {
@@ -423,7 +423,12 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "İmralı İstasyon",
+    "uuid": "462cd8c6-4edc-46ac-834e-2f8d179515e1"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

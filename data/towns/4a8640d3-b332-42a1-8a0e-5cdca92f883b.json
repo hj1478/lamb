@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Will_West",
   "uuid": "4a8640d3-b332-42a1-8a0e-5cdca92f883b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
+   "numTownBlocks": 37,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -128,6 +128,10 @@
      -605
     ],
     [
+     -2155,
+     -603
+    ],
+    [
      -2157,
      -604
     ],
@@ -140,16 +144,36 @@
      -607
     ],
     [
+     -2156,
+     -601
+    ],
+    [
+     -2155,
+     -601
+    ],
+    [
      -2157,
      -606
+    ],
+    [
+     -2155,
+     -602
     ],
     [
      -2157,
      -609
     ],
     [
+     -2156,
+     -603
+    ],
+    [
      -2157,
      -608
+    ],
+    [
+     -2156,
+     -602
     ],
     [
      -2156,
@@ -177,6 +201,14 @@
     ],
     [
      -2154,
+     -603
+    ],
+    [
+     -2154,
+     -604
+    ],
+    [
+     -2154,
      -605
     ],
     [
@@ -196,8 +228,16 @@
      -605
     ],
     [
+     -2154,
+     -601
+    ],
+    [
      -2158,
      -606
+    ],
+    [
+     -2154,
+     -602
     ]
    ],
    "worlds": {}

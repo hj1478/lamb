@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Balat",
   "uuid": "5a9aae08-4346-492d-a2ba-00f7558fdc10",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "fernan2121336",
-   "uuid": "e7555467-8793-4551-90ab-b656bbd92fa7"
+   "name": "Fainma",
+   "uuid": "fe1c2fca-0f64-4b65-b936-e7cba92601b9"
   },
   "nation": {
    "name": "Rum",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 56.0,
+   "balance": 49.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,45 +92,130 @@
    ],
    "townBlocks": [
     [
+     669,
+     -424
+    ],
+    [
+     669,
+     -425
+    ],
+    [
+     669,
+     -423
+    ],
+    [
+     669,
+     -426
+    ],
+    [
+     670,
+     -423
+    ],
+    [
+     670,
+     -426
+    ],
+    [
      671,
+     -424
+    ],
+    [
+     672,
      -424
     ],
     [
      671,
      -423
+    ],
+    [
+     672,
+     -423
+    ],
+    [
+     668,
+     -425
+    ],
+    [
+     670,
+     -424
+    ],
+    [
+     671,
+     -426
+    ],
+    [
+     672,
+     -426
+    ],
+    [
+     668,
+     -426
+    ],
+    [
+     670,
+     -425
+    ],
+    [
+     671,
+     -425
+    ],
+    [
+     672,
+     -425
+    ],
+    [
+     668,
+     -423
+    ],
+    [
+     668,
+     -424
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "fernan2121336",
+    "uuid": "e7555467-8793-4551-90ab-b656bbd92fa7"
+   },
+   {
     "name": "Fainma",
     "uuid": "fe1c2fca-0f64-4b65-b936-e7cba92601b9"
    },
    {
-    "name": "fernan2121336",
-    "uuid": "e7555467-8793-4551-90ab-b656bbd92fa7"
+    "name": "GigaAxor",
+    "uuid": "99a8183f-4e70-4be5-9a26-c4ff4c37d8a2"
    }
   ],
   "trusted": [
    {
     "name": "Fainma",
     "uuid": "fe1c2fca-0f64-4b65-b936-e7cba92601b9"
+   },
+   {
+    "name": "GigaAxor",
+    "uuid": "99a8183f-4e70-4be5-9a26-c4ff4c37d8a2"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [
+   "Councillor": [
     {
-     "name": "Fainma",
-     "uuid": "fe1c2fca-0f64-4b65-b936-e7cba92601b9"
+     "name": "GigaAxor",
+     "uuid": "99a8183f-4e70-4be5-9a26-c4ff4c37d8a2"
     }
    ],
+   "Builder": [
+    {
+     "name": "GigaAxor",
+     "uuid": "99a8183f-4e70-4be5-9a26-c4ff4c37d8a2"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

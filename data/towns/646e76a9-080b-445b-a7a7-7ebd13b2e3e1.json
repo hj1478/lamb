@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Mwambo",
   "uuid": "646e76a9-080b-445b-a7a7-7ebd13b2e3e1",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Hlavotoc",
-   "uuid": "cde0ce50-aede-426f-a8e5-b0334d589460"
+   "name": "Hayakawe",
+   "uuid": "fe44cf11-14ff-4a60-80f3-9e735b8f1944"
   },
   "nation": {
    "name": null,
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 14,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 76.0,
@@ -152,22 +152,6 @@
   },
   "residents": [
    {
-    "name": "Hlavotoc",
-    "uuid": "cde0ce50-aede-426f-a8e5-b0334d589460"
-   },
-   {
-    "name": "Nikko1254",
-    "uuid": "a1c17bba-d6a8-461f-a3af-5d756df64962"
-   },
-   {
-    "name": "Metthewvole",
-    "uuid": "287423cc-3e34-43c4-9d68-b84047f74813"
-   },
-   {
-    "name": "RagebaiTerka",
-    "uuid": "41ac0be4-b6d7-4ea2-85b7-9688f52f28c0"
-   },
-   {
     "name": "Hayakawe",
     "uuid": "fe44cf11-14ff-4a60-80f3-9e735b8f1944"
    }
@@ -176,17 +160,8 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Hlavotoc",
-     "uuid": "cde0ce50-aede-426f-a8e5-b0334d589460"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
-    {
-     "name": "Nikko1254",
-     "uuid": "a1c17bba-d6a8-461f-a3af-5d756df64962"
-    },
     {
      "name": "Hayakawe",
      "uuid": "fe44cf11-14ff-4a60-80f3-9e735b8f1944"

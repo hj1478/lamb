@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Bingazi",
   "uuid": "5ac427ca-bf66-40ea-92da-99a46f88ecbd",
@@ -12,12 +12,12 @@
    "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Libya",
+   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
   },
   "timestamps": {
    "registered": 1792233173193,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792234804112,
    "ruinedAt": null
   },
   "status": {
@@ -28,19 +28,19 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,40 +92,56 @@
    ],
    "townBlocks": [
     [
-     483,
-     -263
-    ],
-    [
-     483,
-     -261
-    ],
-    [
-     483,
-     -262
-    ],
-    [
-     482,
-     -263
-    ],
-    [
-     482,
-     -261
-    ],
-    [
-     482,
+     480,
      -262
     ],
     [
      481,
+     -262
+    ],
+    [
+     481,
+     -263
+    ],
+    [
+     480,
+     -261
+    ],
+    [
+     481,
+     -261
+    ],
+    [
+     483,
+     -263
+    ],
+    [
+     482,
+     -260
+    ],
+    [
+     483,
+     -261
+    ],
+    [
+     483,
+     -262
+    ],
+    [
+     482,
+     -263
+    ],
+    [
+     482,
+     -261
+    ],
+    [
+     482,
      -262
     ],
     [
      484,
      -262
-    ],
-    [
-     481,
-     -261
     ]
    ],
    "worlds": {}
@@ -136,7 +152,12 @@
     "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "HasanHasa",
+    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

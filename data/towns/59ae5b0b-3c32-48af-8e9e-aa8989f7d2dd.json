@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Como",
   "uuid": "59ae5b0b-3c32-48af-8e9e-aa8989f7d2dd",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 42,
-   "maxTownBlocks": 268,
+   "numTownBlocks": 44,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 16,
    "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2933.0325822010427,
+    "x": 2933.494710343921,
     "y": 63.0,
-    "z": -5825.170917481335,
-    "pitch": -7.0614524,
-    "yaw": -179.57574
+    "z": -5826.404377000895,
+    "pitch": -7.5000267,
+    "yaw": -179.273
    },
    "homeBlock": [
     183,
@@ -108,6 +108,10 @@
      -363
     ],
     [
+     192,
+     -362
+    ],
+    [
      190,
      -362
     ],
@@ -118,6 +122,10 @@
     [
      184,
      -362
+    ],
+    [
+     193,
+     -365
     ],
     [
      185,
@@ -318,6 +326,14 @@
    {
     "name": "itsZcraft",
     "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
+   },
+   {
+    "name": "Charcoal1235",
+    "uuid": "1675c32e-a5e1-40d3-a179-ef9b3d323cb6"
+   },
+   {
+    "name": "nurel14",
+    "uuid": "1624fd80-eb9d-4ca8-97d4-e52a720cf48b"
    }
   ],
   "trusted": [

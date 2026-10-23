@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Wesley_Chapel",
   "uuid": "6523cb6f-cfff-467d-88fb-421808bca4e8",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "axodelian",
-   "uuid": "73804c9e-2c5a-4b87-98e5-846b1b704e77"
+   "name": "NPC141",
+   "uuid": "fbac32da-cecd-20f0-ab1c-035d4acf24c0"
   },
   "nation": {
-   "name": "Florida",
-   "uuid": "6cbea29c-2f48-418c-89cf-0f1d2c76b825"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777746594982,
-   "joinedNationAt": 1777746599971,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792576800851
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 6,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,8 +140,8 @@
   },
   "residents": [
    {
-    "name": "axodelian",
-    "uuid": "73804c9e-2c5a-4b87-98e5-846b1b704e77"
+    "name": "NPC141",
+    "uuid": "fbac32da-cecd-20f0-ab1c-035d4acf24c0"
    }
   ],
   "trusted": [
@@ -181,12 +181,12 @@
     "uuid": "668f94c9-cb0f-4b81-a5f3-4ab06a5d626a"
    },
    {
-    "name": "Jungle Inn - Unit 1",
-    "uuid": "aa28909d-902d-4fbe-b139-ee184bbbc101"
-   },
-   {
     "name": "Jungle Inn - Unit 2",
     "uuid": "afb5b83d-4101-43a3-948a-e77ed62b0a30"
+   },
+   {
+    "name": "Jungle Inn - Unit 1",
+    "uuid": "aa28909d-902d-4fbe-b139-ee184bbbc101"
    }
   ],
   "ranks": {

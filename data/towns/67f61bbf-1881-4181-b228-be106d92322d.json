@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "RA-FA-GA",
   "uuid": "67f61bbf-1881-4181-b228-be106d92322d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dialvar12",
-   "uuid": "325fe1f1-82de-4fcb-aba6-15f4ee116d57"
+   "name": "ivanymiguel",
+   "uuid": "db4050dd-a4d7-44f3-ba40-a0cf7c7d5327"
   },
   "nation": {
    "name": "Persia",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 98,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 4,
-   "numTrusted": 3,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 13.0,
    "forSalePrice": null
@@ -420,14 +420,6 @@
   },
   "residents": [
    {
-    "name": "Dialvar12",
-    "uuid": "325fe1f1-82de-4fcb-aba6-15f4ee116d57"
-   },
-   {
-    "name": "rubiosmartinez",
-    "uuid": "fd980ba6-e3dc-4bde-8b6f-e4cae347796f"
-   },
-   {
     "name": "AlxXteRt",
     "uuid": "ba64c773-18bd-482e-a02d-3b753f07ecdb"
    },
@@ -442,10 +434,6 @@
     "uuid": "ba64c773-18bd-482e-a02d-3b753f07ecdb"
    },
    {
-    "name": "rubiosmartinez",
-    "uuid": "fd980ba6-e3dc-4bde-8b6f-e4cae347796f"
-   },
-   {
     "name": "ivanymiguel",
     "uuid": "db4050dd-a4d7-44f3-ba40-a0cf7c7d5327"
    }
@@ -453,12 +441,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Dialvar12",
-     "uuid": "325fe1f1-82de-4fcb-aba6-15f4ee116d57"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

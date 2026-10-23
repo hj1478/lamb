@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Tampere",
   "uuid": "683d1a59-da55-41eb-8ead-43429b055563",
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 16,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
@@ -43,7 +43,7 @@
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 70.0
   },
   "perms": {
    "build": [
@@ -105,6 +105,10 @@
     ],
     [
      531,
+     -1082
+    ],
+    [
+     533,
      -1082
     ],
     [

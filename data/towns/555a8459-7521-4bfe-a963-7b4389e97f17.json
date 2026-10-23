@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Zwolle",
   "uuid": "555a8459-7521-4bfe-a963-7b4389e97f17",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 149,
+   "numTownBlocks": 150,
    "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 7,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2265.6590450778913,
-    "y": 65.0,
-    "z": -12709.917954908906,
-    "pitch": 8.4002285,
-    "yaw": -40.67505
+    "x": 2234.779878979109,
+    "y": 58.0,
+    "z": -12674.198128914235,
+    "pitch": 1.0502281,
+    "yaw": 0.27474976
    },
    "homeBlock": [
-    141,
-    -795
+    139,
+    -793
    ],
    "townBlocks": [
     [
@@ -466,6 +466,10 @@
     [
      146,
      -798
+    ],
+    [
+     143,
+     -806
     ],
     [
      146,

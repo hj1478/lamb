@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Shops",
   "uuid": "4b7fcf65-dae6-45d4-af8e-ddfd1268de8c",
@@ -12,12 +12,12 @@
    "uuid": "413b52a6-1944-46b4-a214-a5bb56dd15a8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Chaunsky",
+   "uuid": "01e122a6-d149-402a-a638-e682bb8558b3"
   },
   "timestamps": {
    "registered": 1792281339593,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792430863610,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 58.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 62280.01035229024,
-    "y": 22.0625,
-    "z": -22295.993674415506,
-    "pitch": 0.5999672,
-    "yaw": 0.44561768
+    "x": 62283.238324997976,
+    "y": 32.0625,
+    "z": -22295.993644521004,
+    "pitch": 4.4999876,
+    "yaw": -90.297
    },
    "homeBlock": [
     3892,
@@ -92,8 +92,48 @@
    ],
    "townBlocks": [
     [
+     3893,
+     -1395
+    ],
+    [
+     3891,
+     -1393
+    ],
+    [
+     3893,
+     -1394
+    ],
+    [
+     3893,
+     -1393
+    ],
+    [
+     3892,
+     -1393
+    ],
+    [
+     3892,
+     -1392
+    ],
+    [
+     3892,
+     -1395
+    ],
+    [
      3892,
      -1394
+    ],
+    [
+     3891,
+     -1395
+    ],
+    [
+     3891,
+     -1394
+    ],
+    [
+     3892,
+     -1391
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Borondon",
   "uuid": "634bd286-d61d-42c0-ab68-7f737f521a19",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 5,
-   "balance": 44.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -149,11 +149,19 @@
     ],
     [
      -440,
+     -163
+    ],
+    [
+     -440,
      -162
     ],
     [
      -440,
      -161
+    ],
+    [
+     -440,
+     -160
     ],
     [
      -442,
@@ -168,6 +176,10 @@
      -161
     ],
     [
+     -439,
+     -163
+    ],
+    [
      -438,
      -160
     ],
@@ -198,6 +210,10 @@
     [
      -441,
      -162
+    ],
+    [
+     -441,
+     -163
     ]
    ],
    "worlds": {}
@@ -206,6 +222,30 @@
    {
     "name": "Jaiminus",
     "uuid": "37f532f5-d6b1-4a31-a527-598030cf208b"
+   },
+   {
+    "name": "Nuento_mp3",
+    "uuid": "9e02f916-826d-4c32-8521-0eabd50bbfc1"
+   },
+   {
+    "name": "YuyaTheFool",
+    "uuid": "c579fd5c-fd72-4176-acb2-8b13fb82d07c"
+   },
+   {
+    "name": "Moonjuice13a",
+    "uuid": "4a30f3ae-2c0d-4dfd-9acf-19a92952865a"
+   },
+   {
+    "name": "derquezze",
+    "uuid": "ce3daa85-d551-47a1-a997-9413f66e3c18"
+   },
+   {
+    "name": "XAEC_2008X",
+    "uuid": "9e5002b0-9792-4e6e-b68e-867d98021fcd"
+   },
+   {
+    "name": "Senorlere490",
+    "uuid": "7c826789-398f-4f56-ac43-f5c327963f46"
    }
   ],
   "trusted": [],
@@ -231,7 +271,16 @@
     "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "be20f7d3-106e-4a58-b864-12b83ad17a52"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "5db745fe-acd8-44ae-885e-ae1aebf8973e"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

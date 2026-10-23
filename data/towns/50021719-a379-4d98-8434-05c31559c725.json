@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Melilla",
   "uuid": "50021719-a379-4d98-8434-05c31559c725",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JesusSuburbia04",
-   "uuid": "e0328938-e196-4db6-bf9f-a00f4db20535"
+   "name": "bulln",
+   "uuid": "c795698f-e759-4724-8f3a-7bf3c4f0b9ca"
   },
   "nation": {
    "name": "Spain",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 245.0,
+   "balance": 45.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -164,6 +164,10 @@
   },
   "residents": [
    {
+    "name": "bulln",
+    "uuid": "c795698f-e759-4724-8f3a-7bf3c4f0b9ca"
+   },
+   {
     "name": "JesusSuburbia04",
     "uuid": "e0328938-e196-4db6-bf9f-a00f4db20535"
    }
@@ -172,6 +176,10 @@
    {
     "name": "Aracnedix",
     "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
+   },
+   {
+    "name": "Davidmc1040",
+    "uuid": "104b75e3-c671-45e3-b8a0-586c95993690"
    }
   ],
   "outlaws": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "San_Diego",
   "uuid": "4d356b73-ef38-41b7-a57a-a797c8c75474",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 11.0,
+   "numOutlaws": 1,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,6 +104,10 @@
      -254
     ],
     [
+     -2624,
+     -253
+    ],
+    [
      -2622,
      -255
     ],
@@ -150,10 +154,19 @@
    {
     "name": "AssassinTreepig",
     "uuid": "b8820979-b459-4f3b-a085-73228230bc1b"
+   },
+   {
+    "name": "Oranges2444",
+    "uuid": "d1563e17-7a35-4d5e-836c-925a959d3814"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -162,7 +175,12 @@
      "uuid": "e798ac06-2d8b-4406-b77d-a3d073c5ab94"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Oranges2444",
+     "uuid": "d1563e17-7a35-4d5e-836c-925a959d3814"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Craggy",
   "uuid": "5392b95b-93c9-4031-b84b-126420f34ed0",
@@ -12,12 +12,12 @@
    "uuid": "3cadd02a-f26e-4990-967f-98c1b583dffa"
   },
   "nation": {
-   "name": "Wales",
-   "uuid": "220cd68a-8cab-4952-bcbc-0fc1988f3cc2"
+   "name": "Eire",
+   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
   },
   "timestamps": {
    "registered": 1777488873663,
-   "joinedNationAt": 1782576956449,
+   "joinedNationAt": 1792236871131,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 60,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
+   "nationBonus": 100,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -338,14 +338,6 @@
    {
     "name": "jpbenzo",
     "uuid": "3cadd02a-f26e-4990-967f-98c1b583dffa"
-   },
-   {
-    "name": "norwarrior11",
-    "uuid": "69383179-0926-4c72-92f9-c61d79e28643"
-   },
-   {
-    "name": "Wildcat_Pvpz",
-    "uuid": "f5076223-9f1f-4bc3-a36d-55b466797fee"
    }
   ],
   "trusted": [],

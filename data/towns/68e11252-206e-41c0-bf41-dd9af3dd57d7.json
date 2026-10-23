@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "CHAMBER",
   "uuid": "68e11252-206e-41c0-bf41-dd9af3dd57d7",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Death_POT",
-   "uuid": "b5ddd789-2f0e-425f-9a22-5136fe31d7ef"
+   "name": "NPC95",
+   "uuid": "8158c0fb-f809-20f3-a3a4-e95298899f6e"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781887917477,
-   "joinedNationAt": 1782095032389,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792501808501
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,58 +36,58 @@
   },
   "stats": {
    "numTownBlocks": 20,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28592.400737850312,
-    "y": -46.0,
-    "z": 3472.4955204370767,
-    "pitch": 3.4257836,
-    "yaw": 90.479
+    "x": -28583.089111554164,
+    "y": 63.0,
+    "z": 3476.913917567198,
+    "pitch": 29.17922,
+    "yaw": 94.87518
    },
    "homeBlock": [
-    -1788,
+    -1787,
     217
    ],
    "townBlocks": [
@@ -176,11 +176,20 @@
   },
   "residents": [
    {
-    "name": "Death_POT",
-    "uuid": "b5ddd789-2f0e-425f-9a22-5136fe31d7ef"
+    "name": "NPC95",
+    "uuid": "8158c0fb-f809-20f3-a3a4-e95298899f6e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "artisansGrimoire",
+    "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
+   },
+   {
+    "name": "L0RD_KRAT05",
+    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+   }
+  ],
   "outlaws": [
    {
     "name": "ChairryStrawLizz",

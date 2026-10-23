@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "YubaCity",
   "uuid": "53234bec-a4a1-4e4d-9e81-e08af2d0ca5f",
@@ -12,12 +12,12 @@
    "uuid": "a218356d-0f3d-465c-8258-5db89a1525cb"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Pacific",
+   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
   },
   "timestamps": {
    "registered": 1782798725979,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792309753141,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 78,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 24,
+   "numOutlaws": 25,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -421,6 +421,10 @@
    {
     "name": "FateEZ",
     "uuid": "4d80e6ef-fb55-43f8-b3f7-1dd3812a56d8"
+   },
+   {
+    "name": "GanFan_XiaoYu",
+    "uuid": "e134942e-6471-454a-ac39-8f9c698614f3"
    },
    {
     "name": "OmskBH",

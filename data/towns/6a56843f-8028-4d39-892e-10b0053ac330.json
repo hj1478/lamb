@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Samara",
   "uuid": "6a56843f-8028-4d39-892e-10b0053ac330",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,10 +92,6 @@
    ],
    "townBlocks": [
     [
-     1129,
-     -817
-    ],
-    [
      1126,
      -818
     ],
@@ -104,11 +100,27 @@
      -817
     ],
     [
-     1129,
+     1126,
      -816
     ],
     [
      1126,
+     -815
+    ],
+    [
+     1126,
+     -814
+    ],
+    [
+     1129,
+     -815
+    ],
+    [
+     1129,
+     -817
+    ],
+    [
+     1129,
      -816
     ],
     [
@@ -168,16 +180,16 @@
      -815
     ],
     [
+     1127,
+     -814
+    ],
+    [
      1128,
      -815
     ],
     [
      1128,
      -816
-    ],
-    [
-     1129,
-     -815
     ],
     [
      1128,
@@ -190,11 +202,24 @@
    {
     "name": "Nikita_Sergei",
     "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
+   },
+   {
+    "name": "Ananasian",
+    "uuid": "6c4e4b14-84a7-4333-bb28-2599a27d39ef"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Welcoming Residence",
+    "uuid": "6fc7adf4-20d4-4136-98c1-1fc35d96822d"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "73274777-40ea-4717-91c4-285df4c89f47"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

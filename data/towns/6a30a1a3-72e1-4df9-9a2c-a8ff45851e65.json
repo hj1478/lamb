@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Galaxy",
   "uuid": "6a30a1a3-72e1-4df9-9a2c-a8ff45851e65",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,73 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -83.70363241801793,
-    "y": 63.0,
-    "z": -10528.484990732359,
-    "pitch": 50.700027,
-    "yaw": -38.12976
+    "x": -96.02307414571656,
+    "y": 43.5,
+    "z": -10544.000375016481,
+    "pitch": 4.499984,
+    "yaw": -89.57952
    },
    "homeBlock": [
-    -6,
-    -659
+    -7,
+    -660
    ],
    "townBlocks": [
+    [
+     -9,
+     -661
+    ],
+    [
+     -9,
+     -660
+    ],
+    [
+     -9,
+     -659
+    ],
+    [
+     -9,
+     -658
+    ],
+    [
+     -9,
+     -657
+    ],
+    [
+     -5,
+     -656
+    ],
+    [
+     -6,
+     -656
+    ],
+    [
+     -5,
+     -661
+    ],
+    [
+     -5,
+     -659
+    ],
+    [
+     -5,
+     -660
+    ],
+    [
+     -5,
+     -657
+    ],
+    [
+     -5,
+     -658
+    ],
+    [
+     -8,
+     -656
+    ],
+    [
+     -8,
+     -657
+    ],
     [
      -7,
      -658
@@ -104,24 +160,20 @@
      -659
     ],
     [
-     -5,
-     -661
+     -7,
+     -656
+    ],
+    [
+     -7,
+     -657
     ],
     [
      -6,
      -657
     ],
     [
-     -5,
-     -659
-    ],
-    [
      -6,
      -658
-    ],
-    [
-     -5,
-     -660
     ],
     [
      -6,
@@ -130,10 +182,6 @@
     [
      -6,
      -660
-    ],
-    [
-     -5,
-     -658
     ],
     [
      -8,
@@ -170,6 +218,10 @@
    {
     "name": "TheVXR",
     "uuid": "5d62fe95-3663-4d4c-b41c-85559d322062"
+   },
+   {
+    "name": "itZ_Lord_Eclipse",
+    "uuid": "7eddbc0d-68a4-4717-bec1-8aaed0cecd99"
    }
   ],
   "trusted": [
@@ -180,6 +232,10 @@
    {
     "name": "TheVXR",
     "uuid": "5d62fe95-3663-4d4c-b41c-85559d322062"
+   },
+   {
+    "name": "itZ_Lord_Eclipse",
+    "uuid": "7eddbc0d-68a4-4717-bec1-8aaed0cecd99"
    }
   ],
   "outlaws": [],

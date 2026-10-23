@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "The_Walled_City",
   "uuid": "5ca065a4-d5e2-49bd-bfc8-dc0501a16906",
-  "board": "/town set board [msg]",
+  "board": "Protected, Fun, Chill",
   "founder": "SilverSword2000",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "f7080f11-6e8a-4dd0-94bd-85463f103b57"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Uzbekistan",
+   "uuid": "21e7f3c4-a4d2-4b30-a790-550d87505d9b"
   },
   "timestamps": {
    "registered": 1792201318711,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792260744213,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 10,
+   "numResidents": 6,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,79 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 23979.416413512252,
+    "x": 23976.489471661935,
     "y": 65.0,
-    "z": -8887.966772794607,
-    "pitch": 26.589441,
-    "yaw": 64.75708
+    "z": -8904.63461843125,
+    "pitch": 1.013185,
+    "yaw": 179.67151
    },
    "homeBlock": [
     1498,
-    -556
+    -557
    ],
    "townBlocks": [
     [
      1498,
+     -559
+    ],
+    [
+     1498,
+     -558
+    ],
+    [
+     1498,
+     -557
+    ],
+    [
+     1498,
+     -556
+    ],
+    [
+     1498,
+     -555
+    ],
+    [
+     1498,
+     -554
+    ],
+    [
+     1500,
+     -556
+    ],
+    [
+     1497,
+     -555
+    ],
+    [
+     1497,
+     -556
+    ],
+    [
+     1497,
+     -557
+    ],
+    [
+     1497,
+     -558
+    ],
+    [
+     1499,
+     -555
+    ],
+    [
+     1499,
+     -554
+    ],
+    [
+     1499,
+     -558
+    ],
+    [
+     1499,
+     -557
+    ],
+    [
+     1499,
      -556
     ]
    ],
@@ -106,6 +166,22 @@
    {
     "name": "Shadow_Wolf64",
     "uuid": "0acdcbd3-48c7-407d-84fc-6d8fc8e9dd02"
+   },
+   {
+    "name": "SillyPerson444",
+    "uuid": "e124dc79-3f1e-421d-b66e-a31b4a329300"
+   },
+   {
+    "name": "YummyChezBurger",
+    "uuid": "91ddf549-3db8-4112-a281-b2a45771d0aa"
+   },
+   {
+    "name": "bigtoetim",
+    "uuid": "66239aaa-a014-4df2-968d-928efa42835f"
+   },
+   {
+    "name": "Dyllypickles",
+    "uuid": "ee794256-d194-492c-a1b3-880ce7c57adc"
    }
   ],
   "trusted": [

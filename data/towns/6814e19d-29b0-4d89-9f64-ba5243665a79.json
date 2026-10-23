@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Artvin",
   "uuid": "6814e19d-29b0-4d89-9f64-ba5243665a79",
@@ -12,12 +12,12 @@
    "uuid": "9e73b197-e27b-4192-83de-618c39c64448"
   },
   "nation": {
-   "name": "Georgia",
-   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1791996355610,
-   "joinedNationAt": 1791996480580,
+   "joinedNationAt": 1792266065946,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 13,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,19 +80,67 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14739.872566618944,
-    "y": 63.0,
-    "z": -7666.365576817295,
-    "pitch": 9.664611,
-    "yaw": -161.12639
+    "x": 14774.455728270086,
+    "y": 64.0,
+    "z": -7657.3501553607275,
+    "pitch": 1.6499695,
+    "yaw": -31.530151
    },
    "homeBlock": [
-    921,
-    -480
+    923,
+    -479
    ],
    "townBlocks": [
     [
      921,
+     -478
+    ],
+    [
+     922,
+     -477
+    ],
+    [
+     921,
+     -477
+    ],
+    [
+     921,
+     -480
+    ],
+    [
+     922,
+     -479
+    ],
+    [
+     921,
+     -479
+    ],
+    [
+     922,
+     -478
+    ],
+    [
+     923,
+     -479
+    ],
+    [
+     923,
+     -480
+    ],
+    [
+     920,
+     -478
+    ],
+    [
+     920,
+     -479
+    ],
+    [
+     922,
+     -481
+    ],
+    [
+     922,
      -480
     ]
    ],
@@ -104,13 +152,17 @@
     "uuid": "9e73b197-e27b-4192-83de-618c39c64448"
    }
   ],
-  "trusted": [],
-  "outlaws": [
+  "trusted": [
    {
-    "name": "Hatuqay",
-    "uuid": "d9ef0399-1a19-4a22-a6e4-6b6b64244d33"
+    "name": "Berkofix",
+    "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
+   },
+   {
+    "name": "rakuptka",
+    "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

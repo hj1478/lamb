@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Wuhu_Island",
   "uuid": "4e83e0d6-13c7-435c-a51d-89e51a09beba",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "owpl",
-   "uuid": "b2f2193e-82e6-453f-b3cf-40560fb3abef"
+   "name": "UmNoahh",
+   "uuid": "3654fa2c-52c3-43c8-9864-ff769c72f8fc"
   },
   "nation": {
    "name": "Acadia",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 129,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 7,
-   "balance": 1074.0,
+   "numOutlaws": 5,
+   "balance": 1110.0,
    "forSalePrice": null
   },
   "perms": {
@@ -612,20 +612,8 @@
   },
   "residents": [
    {
-    "name": "owpl",
-    "uuid": "b2f2193e-82e6-453f-b3cf-40560fb3abef"
-   },
-   {
     "name": "UmNoahh",
     "uuid": "3654fa2c-52c3-43c8-9864-ff769c72f8fc"
-   },
-   {
-    "name": "vvintr",
-    "uuid": "19268268-35b4-4e11-b5df-9b09cf40e35e"
-   },
-   {
-    "name": "SleetyRelic6166",
-    "uuid": "9f7b56db-bc28-44db-bbbb-5f2c882031cc"
    }
   ],
   "trusted": [],
@@ -635,16 +623,8 @@
     "uuid": "7566926c-b501-46d2-b0bc-d2ea78d709d1"
    },
    {
-    "name": "JoelTheBigMac",
-    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
-   },
-   {
     "name": "_Srdjan",
     "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
-   },
-   {
-    "name": "dymoslaw",
-    "uuid": "7e601040-9069-457a-8d55-5fd04db9f253"
    },
    {
     "name": "Sputnik_Manty",
@@ -665,10 +645,6 @@
     {
      "name": "UmNoahh",
      "uuid": "3654fa2c-52c3-43c8-9864-ff769c72f8fc"
-    },
-    {
-     "name": "vvintr",
-     "uuid": "19268268-35b4-4e11-b5df-9b09cf40e35e"
     }
    ],
    "Builder": [],

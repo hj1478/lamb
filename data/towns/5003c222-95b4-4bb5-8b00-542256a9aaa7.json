@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Ocala",
   "uuid": "5003c222-95b4-4bb5-8b00-542256a9aaa7",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "glitchygamerZyt",
+   "name": "willowy_winds",
    "uuid": "2da28810-b43b-4eea-a4db-4a5755c16ad4"
   },
   "nation": {
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
-   "isNeutral": false,
+   "isOpen": true,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numResidents": 4,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,15 +92,107 @@
    ],
    "townBlocks": [
     [
-     -1992,
-     -238
-    ],
-    [
      -1991,
      -237
     ],
     [
      -1991,
+     -238
+    ],
+    [
+     -1990,
+     -241
+    ],
+    [
+     -1991,
+     -239
+    ],
+    [
+     -1991,
+     -240
+    ],
+    [
+     -1991,
+     -241
+    ],
+    [
+     -1990,
+     -238
+    ],
+    [
+     -1990,
+     -237
+    ],
+    [
+     -1990,
+     -240
+    ],
+    [
+     -1991,
+     -236
+    ],
+    [
+     -1990,
+     -239
+    ],
+    [
+     -1992,
+     -240
+    ],
+    [
+     -1992,
+     -241
+    ],
+    [
+     -1994,
+     -239
+    ],
+    [
+     -1993,
+     -240
+    ],
+    [
+     -1992,
+     -238
+    ],
+    [
+     -1994,
+     -240
+    ],
+    [
+     -1992,
+     -239
+    ],
+    [
+     -1993,
+     -238
+    ],
+    [
+     -1992,
+     -236
+    ],
+    [
+     -1993,
+     -239
+    ],
+    [
+     -1992,
+     -237
+    ],
+    [
+     -1993,
+     -237
+    ],
+    [
+     -1995,
+     -239
+    ],
+    [
+     -1995,
+     -238
+    ],
+    [
+     -1994,
      -238
     ]
    ],
@@ -108,17 +200,38 @@
   },
   "residents": [
    {
-    "name": "glitchygamerZyt",
+    "name": "willowy_winds",
     "uuid": "2da28810-b43b-4eea-a4db-4a5755c16ad4"
+   },
+   {
+    "name": "nappingninjastar",
+    "uuid": "2d92d4f8-c00e-484d-a194-ade84ee0e9bf"
+   },
+   {
+    "name": "RoploxLover",
+    "uuid": "a245858b-b02e-4eea-8c06-dfe0497f44f8"
+   },
+   {
+    "name": "saykayBloxd",
+    "uuid": "c1c4edbf-49b5-407f-9069-bdb2a53d605e"
    }
   ],
   "trusted": [
    {
     "name": "Hoffywin9999",
     "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+   },
+   {
+    "name": "nappingninjastar",
+    "uuid": "2d92d4f8-c00e-484d-a194-ade84ee0e9bf"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

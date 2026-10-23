@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "New_Vienna",
   "uuid": "495e1604-ccb2-4b63-94d2-2008bd6621d9",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 35,
+   "numTownBlocks": 43,
    "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
-   "numTrusted": 3,
+   "numTrusted": 5,
    "numOutlaws": 3,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 150.0
   },
   "perms": {
    "build": [
@@ -120,6 +120,10 @@
      1483
     ],
     [
+     3319,
+     1487
+    ],
+    [
      3321,
      1484
     ],
@@ -133,6 +137,10 @@
     ],
     [
      3318,
+     1481
+    ],
+    [
+     3318,
      1482
     ],
     [
@@ -154,6 +162,18 @@
     [
      3315,
      1485
+    ],
+    [
+     3314,
+     1484
+    ],
+    [
+     3314,
+     1485
+    ],
+    [
+     3314,
+     1483
     ],
     [
      3320,
@@ -166,6 +186,10 @@
     [
      3316,
      1482
+    ],
+    [
+     3320,
+     1487
     ],
     [
      3316,
@@ -206,6 +230,14 @@
     [
      3318,
      1487
+    ],
+    [
+     3313,
+     1484
+    ],
+    [
+     3313,
+     1485
     ],
     [
      3317,
@@ -258,8 +290,16 @@
     "uuid": "6ce7e65c-d1cc-4703-b25d-fcfba64d2bdf"
    },
    {
+    "name": "Mackay_177",
+    "uuid": "f56f9110-46c1-48fb-834c-19174ed90851"
+   },
+   {
     "name": "MasterMJ3MC",
     "uuid": "d259c28c-3109-4e0b-90e3-5a039aad468d"
+   },
+   {
+    "name": "SammyDrue",
+    "uuid": "1a0b3c8b-9ba1-4330-937a-7ffc360027f9"
    },
    {
     "name": "Ali_dinocraft",
@@ -320,6 +360,10 @@
    {
     "name": "Upbeat Quarter",
     "uuid": "71a44e0b-2cab-448d-b35f-c560e42fb48f"
+   },
+   {
+    "name": "New Vienna Station",
+    "uuid": "8f38b348-6a24-488a-bba5-99fb49c57625"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Luxford",
   "uuid": "56902468-e4ed-4f11-a4dd-60a97516469b",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "yb5los",
-   "uuid": "1b2b5c2e-00ab-45cc-b947-3ef8c26e39bc"
+   "name": "xxffggl",
+   "uuid": "e25bcefb-fa69-46d2-b3b7-050cac915782"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": "New_York",
+   "uuid": "f5254fa5-98b8-41d9-9bc8-ed3ddb00c354"
   },
   "timestamps": {
    "registered": 1787329949997,
-   "joinedNationAt": 1787331955424,
+   "joinedNationAt": 1792525925976,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 51,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 55,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 147.0,
+   "numResidents": 3,
+   "numTrusted": 4,
+   "numOutlaws": 2,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -152,6 +152,10 @@
      -591
     ],
     [
+     -1508,
+     -592
+    ],
+    [
      -1505,
      -587
     ],
@@ -209,7 +213,15 @@
     ],
     [
      -1506,
+     -592
+    ],
+    [
+     -1506,
      -591
+    ],
+    [
+     -1507,
+     -592
     ],
     [
      -1507,
@@ -262,6 +274,10 @@
     [
      -1500,
      -588
+    ],
+    [
+     -1505,
+     -592
     ],
     [
      -1500,
@@ -300,18 +316,34 @@
   },
   "residents": [
    {
-    "name": "yb5los",
-    "uuid": "1b2b5c2e-00ab-45cc-b947-3ef8c26e39bc"
+    "name": "mrkittydestroyer",
+    "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
    },
    {
-    "name": "dex247",
-    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
+    "name": "xxffggl",
+    "uuid": "e25bcefb-fa69-46d2-b3b7-050cac915782"
+   },
+   {
+    "name": "ayfinz",
+    "uuid": "151c6ec5-7279-4a8b-8a1d-4283a37770aa"
    }
   ],
   "trusted": [
    {
-    "name": "Dmir26",
-    "uuid": "68cfe196-7ee1-416d-9237-0d79915413dd"
+    "name": "mrkittydestroyer",
+    "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
+   },
+   {
+    "name": "cigarettesmoker",
+    "uuid": "0f0dae03-e691-44a2-ad42-668b0dc5b4ab"
+   },
+   {
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+   },
+   {
+    "name": "toutef",
+    "uuid": "be166334-bce1-4770-91f0-57f79264422e"
    }
   ],
   "outlaws": [
@@ -322,10 +354,6 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
-    "name": "Bintobop",
-    "uuid": "0a4a0691-0b4e-4182-8ed7-f9f76b4c5b9f"
    }
   ],
   "quarters": [

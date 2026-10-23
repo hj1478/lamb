@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Cattaro",
   "uuid": "633e37a5-ffa7-4424-95ff-63e6933ea00e",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dasak_men",
-   "uuid": "a0d20389-ca51-4cd6-a727-927839776e07"
+   "name": "NPC37",
+   "uuid": "eaa51b67-84c7-2003-a44e-91ed8dc511b1"
   },
   "nation": {
-   "name": "Ragusa",
-   "uuid": "71eea962-27ea-40e2-b31b-6af80ad6bd7d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777739236225,
-   "joinedNationAt": 1788905346292,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792576802924
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -336,8 +336,8 @@
   },
   "residents": [
    {
-    "name": "Dasak_men",
-    "uuid": "a0d20389-ca51-4cd6-a727-927839776e07"
+    "name": "NPC37",
+    "uuid": "eaa51b67-84c7-2003-a44e-91ed8dc511b1"
    }
   ],
   "trusted": [

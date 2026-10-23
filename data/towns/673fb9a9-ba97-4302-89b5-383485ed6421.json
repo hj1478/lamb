@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Istanbul_Park",
   "uuid": "673fb9a9-ba97-4302-89b5-383485ed6421",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 52.0,
    "forSalePrice": null
   },
   "perms": {
@@ -478,12 +478,24 @@
   ],
   "trusted": [
    {
+    "name": "F1rret",
+    "uuid": "5c54bf0a-9468-4991-a37c-81a577e91105"
+   },
+   {
     "name": "FatihAr",
     "uuid": "efd71f8e-3304-4cb9-87c9-a660eb66fef8"
    },
    {
-    "name": "daannever266",
-    "uuid": "8f9d52d7-9864-4b4d-bf45-1edced1d9700"
+    "name": "anchoredtolife",
+    "uuid": "a67f38c3-cff7-4ea3-87e9-f0cd83208604"
+   },
+   {
+    "name": "Fedrer",
+    "uuid": "3aef3d29-f6a3-49e5-a2b6-b0bcbb3a428a"
+   },
+   {
+    "name": "PieTheHead",
+    "uuid": "c2af6d17-68e5-41fe-bf2e-7f9e04cc3c72"
    }
   ],
   "outlaws": [],

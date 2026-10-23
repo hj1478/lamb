@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Lexington",
   "uuid": "5e6c416c-93ad-4c50-8049-0d84e06e83ad",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Saratonin",
-   "uuid": "7a0fb924-80a7-4a3d-acb6-45ed5855340b"
+   "name": "NPC50",
+   "uuid": "c0006656-61e3-20aa-922b-f80e86780959"
   },
   "nation": {
-   "name": "United_States",
-   "uuid": "2195a091-cf72-42c3-8816-0860e5562f8d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777839049171,
-   "joinedNationAt": 1778255475358,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792749602270
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 27,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -204,8 +204,8 @@
   },
   "residents": [
    {
-    "name": "Saratonin",
-    "uuid": "7a0fb924-80a7-4a3d-acb6-45ed5855340b"
+    "name": "NPC50",
+    "uuid": "c0006656-61e3-20aa-922b-f80e86780959"
    }
   ],
   "trusted": [],

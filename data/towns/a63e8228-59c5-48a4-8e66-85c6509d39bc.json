@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "Mukalla",
-  "uuid": "326e1c52-b344-471f-a562-04f10e427f2b",
-  "board": "clod... make me $100. make no mistakes",
-  "founder": "Nouxinf",
+  "name": "Tonghairutai",
+  "uuid": "a63e8228-59c5-48a4-8e66-85c6509d39bc",
+  "board": "/town set board [msg]",
+  "founder": "Millionaire2468",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC112",
-   "uuid": "5143e664-246a-20d9-9bd7-26060981861c"
+   "name": "Millionaire2468",
+   "uuid": "36167ccc-e9f6-49e4-9f40-99044527170b"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789489728332,
+   "registered": 1792690365553,
    "joinedNationAt": null,
-   "ruinedAt": 1792415810090
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,117 +35,89 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 5,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 97.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16913.79787146295,
-    "y": 63.0,
-    "z": 3098.699999988079,
-    "pitch": 39.300045,
-    "yaw": -142.34763
+    "x": 43999.183583617865,
+    "y": 70.0,
+    "z": -13174.670784643373,
+    "pitch": 13.349989,
+    "yaw": 60.36679
    },
    "homeBlock": [
-    1057,
-    193
+    2749,
+    -824
    ],
    "townBlocks": [
     [
-     1058,
-     193
+     2748,
+     -823
     ],
     [
-     1056,
-     193
+     2748,
+     -824
     ],
     [
-     1058,
-     192
+     2750,
+     -824
     ],
     [
-     1058,
-     191
+     2749,
+     -824
     ],
     [
-     1055,
-     193
-    ],
-    [
-     1057,
-     190
-    ],
-    [
-     1056,
-     190
-    ],
-    [
-     1056,
-     192
-    ],
-    [
-     1056,
-     191
-    ],
-    [
-     1057,
-     192
-    ],
-    [
-     1057,
-     191
-    ],
-    [
-     1057,
-     193
+     2749,
+     -823
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC112",
-    "uuid": "5143e664-246a-20d9-9bd7-26060981861c"
+    "name": "Millionaire2468",
+    "uuid": "36167ccc-e9f6-49e4-9f40-99044527170b"
    }
   ],
   "trusted": [],

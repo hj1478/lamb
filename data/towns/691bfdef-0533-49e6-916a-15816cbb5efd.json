@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Triangulo",
   "uuid": "691bfdef-0533-49e6-916a-15816cbb5efd",
@@ -12,12 +12,12 @@
    "uuid": "578b03be-699b-4e9f-bdd2-ff65bfcf49e3"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1792028923641,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792295653666,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 5.0,
+   "numOutlaws": 1,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,27 @@
    "townBlocks": [
     [
      -1084,
+     933
+    ],
+    [
+     -1084,
      932
     ],
     [
      -1084,
      931
+    ],
+    [
+     -1085,
+     933
+    ],
+    [
+     -1085,
+     931
+    ],
+    [
+     -1085,
+     932
     ]
    ],
    "worlds": {}
@@ -109,7 +125,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "KelfShelf9036",
+    "uuid": "f86573b1-88f5-4182-8e9f-19b9dc9048d3"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

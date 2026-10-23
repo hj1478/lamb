@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Anzac",
   "uuid": "6cb46d89-51bd-499e-a13e-209bfe563c9f",
@@ -21,28 +21,28 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 183.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16520.7327544713,
-    "y": 69.0,
-    "z": -17146.19445696807,
-    "pitch": 20.699966,
-    "yaw": 16.044678
+    "x": 16512.599002439536,
+    "y": 71.0,
+    "z": -17144.239848760444,
+    "pitch": 11.09998,
+    "yaw": 86.09448
    },
    "homeBlock": [
     1032,
@@ -96,8 +96,56 @@
      -1072
     ],
     [
+     1031,
+     -1073
+    ],
+    [
+     1031,
+     -1070
+    ],
+    [
+     1031,
+     -1071
+    ],
+    [
+     1032,
+     -1073
+    ],
+    [
      1032,
      -1072
+    ],
+    [
+     1032,
+     -1071
+    ],
+    [
+     1032,
+     -1070
+    ],
+    [
+     1033,
+     -1073
+    ],
+    [
+     1033,
+     -1072
+    ],
+    [
+     1033,
+     -1071
+    ],
+    [
+     1034,
+     -1073
+    ],
+    [
+     1034,
+     -1072
+    ],
+    [
+     1033,
+     -1070
     ]
    ],
    "worlds": {}

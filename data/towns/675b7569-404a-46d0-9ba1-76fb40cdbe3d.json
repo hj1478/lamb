@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Chongming_Island",
   "uuid": "675b7569-404a-46d0-9ba1-76fb40cdbe3d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 120,
-   "maxTownBlocks": 244,
+   "numTownBlocks": 122,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
+   "numResidents": 11,
    "numTrusted": 16,
    "numOutlaws": 2,
-   "balance": 27243.0,
+   "balance": 27400.0,
    "forSalePrice": null
   },
   "perms": {
@@ -344,6 +344,14 @@
      -232
     ],
     [
+     2718,
+     -233
+    ],
+    [
+     2718,
+     -234
+    ],
+    [
      2720,
      -235
     ],
@@ -581,10 +589,6 @@
   },
   "residents": [
    {
-    "name": "ElfOrnate",
-    "uuid": "6b70b102-bc1a-4f94-b528-d03ccd63f0f1"
-   },
-   {
     "name": "Aplefox",
     "uuid": "81a90b0e-3dfe-4c13-bc77-195dd6631207"
    },
@@ -613,20 +617,20 @@
     "uuid": "e54d40e0-61bb-4220-8e92-7f374cdfbd05"
    },
    {
-    "name": "ztjriwo2jb",
-    "uuid": "0dc934ba-b8c9-476c-a54e-e652d7b0d018"
-   },
-   {
-    "name": "donutbigfan",
-    "uuid": "06b21fc4-53e7-40cc-b3f2-e13b9cfbe96f"
-   },
-   {
     "name": "Masaki6767",
     "uuid": "ccb7603f-5966-4eb2-9f17-ceb1df00f728"
    },
    {
     "name": "_FAMAS_",
     "uuid": "2ab5e5ad-08a3-4387-b974-813415da0765"
+   },
+   {
+    "name": "WaterSouth",
+    "uuid": "b3b6d2fb-9c90-498e-a962-a38def89876d"
+   },
+   {
+    "name": "KyomuDesu",
+    "uuid": "f52aa1a4-f98d-490e-b8f7-ae85caa478ef"
    }
   ],
   "trusted": [
@@ -719,10 +723,6 @@
     "uuid": "aa20bb40-32ea-43fc-ab21-a7f018f02d7d"
    },
    {
-    "name": "Elegant Property",
-    "uuid": "e12193cd-7513-4391-98b1-c155198dd8d2"
-   },
-   {
     "name": "⭐ Touhou ⭐",
     "uuid": "b0e9e925-a0b2-4cb1-93d2-eb27bbd6d535"
    },
@@ -763,16 +763,8 @@
     "uuid": "cd3db728-28a9-49c1-8ea8-aa4619f478f1"
    },
    {
-    "name": "(๑＞ڡ＜)☆",
-    "uuid": "bb9c7f46-649a-4adf-8188-aa89e60ad5d2"
-   },
-   {
     "name": "⭐ Maparts ⭐",
     "uuid": "c2f0d4d0-085d-4fa7-909e-9dfa40e18d7d"
-   },
-   {
-    "name": "Inviting Property",
-    "uuid": "cd60d1fb-16f7-4a0b-ad88-88b0b3e6449f"
    },
    {
     "name": "Dull Apartment",
@@ -789,10 +781,6 @@
    {
     "name": "Stylish Property",
     "uuid": "9edc4463-f5e2-4014-b992-ac0b9c9d1da9"
-   },
-   {
-    "name": "Perturbing Suite",
-    "uuid": "68dd2827-4df9-49e0-b47c-1d3cdf963618"
    },
    {
     "name": "⭐ Mapart ⭐",
@@ -839,20 +827,8 @@
     "uuid": "44ecab71-f6c0-4bde-9495-db5c2dd0b3ee"
    },
    {
-    "name": "Gloomy Tenement",
-    "uuid": "4d1d031f-e42f-42b7-a73f-394f84edc2a4"
-   },
-   {
-    "name": "Upbeat Tenement",
-    "uuid": "4a11c359-c0f9-4952-836c-d8265fbed056"
-   },
-   {
     "name": "Gloomy Property",
     "uuid": "1337df49-329b-4a0c-8d25-e803454dcfcd"
-   },
-   {
-    "name": "⭐ Maparts ⭐",
-    "uuid": "ad7f8378-2d37-4c20-872b-f26e45921cc5"
    },
    {
     "name": "Inviting Quarter",
@@ -867,20 +843,80 @@
     "uuid": "680b9d20-bfcd-4bcc-a0e0-4277d6f212d8"
    },
    {
-    "name": "⭐ Maparts ⭐",
-    "uuid": "4d2bc206-d0b8-454b-93df-9e6656546ea6"
-   },
-   {
-    "name": "Dingy Suite",
-    "uuid": "15081433-5464-445e-bcf5-f6f3640c55e0"
-   },
-   {
     "name": "⭐ Blue Archive ⭐",
     "uuid": "f9dea969-82b8-4768-8d4e-272e9d6a87f3"
    },
    {
     "name": "Luxurious Dwelling",
     "uuid": "db231606-3398-4115-bb9f-bbf35520a963"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "4a11c359-c0f9-4952-836c-d8265fbed056"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "8174fc5a-0a42-4d0e-b4d1-7923c071c430"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "4d1d031f-e42f-42b7-a73f-394f84edc2a4"
+   },
+   {
+    "name": "Dull Property",
+    "uuid": "8c925bd4-5cc0-456a-8dda-84ae5d6ac6fa"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "18094e05-a35b-4c52-a724-f16a3153469c"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "e73afadd-7e61-41e8-93d6-e97c53547e12"
+   },
+   {
+    "name": "⭐ Maparts ⭐",
+    "uuid": "ad7f8378-2d37-4c20-872b-f26e45921cc5"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "9750f711-6e5c-41dc-86ce-6cafaa0cbe14"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "890aaa34-c1c0-46be-92c3-3ee6a9a11257"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "9dae003a-ff11-46b3-9336-8ed970d11b79"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "15081433-5464-445e-bcf5-f6f3640c55e0"
+   },
+   {
+    "name": "Annoying Residence",
+    "uuid": "0eb6666a-6b3d-46ff-9bcf-9d18dbd75b9c"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "43b4c75d-153f-4295-8051-eaeb5bf2c7e4"
+   },
+   {
+    "name": "Perturbing Suite",
+    "uuid": "68dd2827-4df9-49e0-b47c-1d3cdf963618"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "cd60d1fb-16f7-4a0b-ad88-88b0b3e6449f"
+   },
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "05f55a33-8b31-4d2e-bbd7-a36659cb13ec"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "8a3134b2-d91b-4104-a66a-d8684f342500"
    }
   ],
   "ranks": {

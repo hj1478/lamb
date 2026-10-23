@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Balikesir",
   "uuid": "5e8596a1-ce7c-469a-98ab-6a217505032c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MetowK",
-   "uuid": "8f2a5521-6e1c-4d94-9859-e3a76c706c9e"
+   "name": "NPC4",
+   "uuid": "4146c58f-c90b-20fc-9e44-46d93eeb26b4"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777657573956,
-   "joinedNationAt": 1777657837299,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792490403111
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -420,8 +420,8 @@
   },
   "residents": [
    {
-    "name": "MetowK",
-    "uuid": "8f2a5521-6e1c-4d94-9859-e3a76c706c9e"
+    "name": "NPC4",
+    "uuid": "4146c58f-c90b-20fc-9e44-46d93eeb26b4"
    }
   ],
   "trusted": [

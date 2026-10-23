@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Lucerne",
   "uuid": "6bada648-9356-46a1-ba6e-ced6e4a11107",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 124,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -594,17 +594,9 @@
    {
     "name": "ItsLoganz",
     "uuid": "4497be9c-a678-4605-9949-7162b57c2337"
-   },
-   {
-    "name": "IRySCH_",
-    "uuid": "702e0ce3-6fae-4560-ab10-5a2dcc596b6d"
    }
   ],
   "trusted": [
-   {
-    "name": "IRySCH_",
-    "uuid": "702e0ce3-6fae-4560-ab10-5a2dcc596b6d"
-   },
    {
     "name": "Duck5goQuack",
     "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
@@ -617,12 +609,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "IRySCH_",
-     "uuid": "702e0ce3-6fae-4560-ab10-5a2dcc596b6d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

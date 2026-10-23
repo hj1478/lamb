@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Nyampanda",
   "uuid": "61103150-c744-4b0f-8322-ec22fb16bce8",
-  "board": "/town set board [msg]",
+  "board": "El Capitalist Playgraund",
   "founder": "SQUIDL0RD",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,26 @@
    ],
    "townBlocks": [
     [
+     734,
+     892
+    ],
+    [
+     735,
+     892
+    ],
+    [
+     735,
+     891
+    ],
+    [
+     736,
+     891
+    ],
+    [
+     734,
+     891
+    ],
+    [
      736,
      892
     ]
@@ -102,19 +122,43 @@
    {
     "name": "SQUIDL0RD",
     "uuid": "368b88c4-9e7d-453a-bd9a-e087618dd19f"
+   },
+   {
+    "name": "RaffVI",
+    "uuid": "16e382ef-0e86-489c-85d7-0be76e364700"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "RaffVI",
+     "uuid": "16e382ef-0e86-489c-85d7-0be76e364700"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "RaffVI",
+     "uuid": "16e382ef-0e86-489c-85d7-0be76e364700"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
+   "Treasurer": [
+    {
+     "name": "RaffVI",
+     "uuid": "16e382ef-0e86-489c-85d7-0be76e364700"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "RaffVI",
+     "uuid": "16e382ef-0e86-489c-85d7-0be76e364700"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Aduna",
   "uuid": "674817fa-5e95-4bce-9b36-bb7482a9d946",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 134,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 86,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 50,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 76.0,
    "forSalePrice": null
@@ -634,13 +634,31 @@
    {
     "name": "real_vgi",
     "uuid": "527c8bb3-73db-4b06-a13f-708bc16ef5d9"
+   },
+   {
+    "name": "bench_shogun",
+    "uuid": "ef6cd5d4-6118-47ff-a34b-a634c40fbad1"
+   },
+   {
+    "name": "Retchog_13",
+    "uuid": "e8d4575f-679c-4726-b468-353f6e528679"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "bench_shogun",
+    "uuid": "ef6cd5d4-6118-47ff-a34b-a634c40fbad1"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "bench_shogun",
+     "uuid": "ef6cd5d4-6118-47ff-a34b-a634c40fbad1"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

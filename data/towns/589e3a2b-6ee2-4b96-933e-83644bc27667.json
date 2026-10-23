@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Future_City",
   "uuid": "589e3a2b-6ee2-4b96-933e-83644bc27667",
@@ -21,28 +21,28 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
-   "maxTownBlocks": 98,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 4,
-   "numTrusted": 6,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 43.0,
+   "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 51895.73178222469,
+    "x": 51895.87066789798,
     "y": 55.0,
-    "z": -23192.098356462382,
-    "pitch": 6.9099965,
-    "yaw": 89.29113
+    "z": -23192.469898153442,
+    "pitch": 8.766597,
+    "yaw": 3.714386
    },
    "homeBlock": [
     3243,
@@ -92,10 +92,6 @@
    ],
    "townBlocks": [
     [
-     3241,
-     -1448
-    ],
-    [
      3242,
      -1452
     ],
@@ -110,6 +106,30 @@
     [
      3242,
      -1449
+    ],
+    [
+     3246,
+     -1450
+    ],
+    [
+     3240,
+     -1450
+    ],
+    [
+     3245,
+     -1449
+    ],
+    [
+     3246,
+     -1451
+    ],
+    [
+     3242,
+     -1448
+    ],
+    [
+     3241,
+     -1448
     ],
     [
      3241,
@@ -169,10 +189,6 @@
     ],
     [
      3244,
-     -1448
-    ],
-    [
-     3242,
      -1448
     ],
     [
@@ -212,6 +228,10 @@
    {
     "name": "nokteholda",
     "uuid": "ec5248a7-ce6d-4574-a42f-6551d0668766"
+   },
+   {
+    "name": "Noodlebowl07",
+    "uuid": "1a512f3f-f8ac-4add-b542-8fee52415f57"
    },
    {
     "name": "FieldLord838",
@@ -259,6 +279,10 @@
    {
     "name": "Enraging Residence",
     "uuid": "e56ba7a0-ee6f-48c8-8c50-93177278ea39"
+   },
+   {
+    "name": "Welcoming Tenement",
+    "uuid": "84c99fe8-7559-47fe-bbd8-afa7ec8d43f1"
    }
   ],
   "ranks": {
@@ -270,19 +294,10 @@
     {
      "name": "TamePenguin",
      "uuid": "92f6b7d4-0d8e-42b5-b286-4e309eebdd51"
-    },
-    {
-     "name": "quatiux_",
-     "uuid": "46cc8808-a356-427e-80d2-0eebb0e3b775"
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "quatiux_",
-     "uuid": "46cc8808-a356-427e-80d2-0eebb0e3b775"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

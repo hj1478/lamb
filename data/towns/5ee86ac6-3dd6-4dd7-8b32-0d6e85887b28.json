@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Arica",
   "uuid": "5ee86ac6-3dd6-4dd7-8b32-0d6e85887b28",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "jandropson",
-   "uuid": "f4cc0f6e-98ad-4f3a-a938-ac839e431830"
+   "name": "NPC2",
+   "uuid": "17c6b148-27dc-20cf-8af0-532ed25c4e08"
   },
   "nation": {
-   "name": "Chile",
-   "uuid": "daac39a3-7edf-4cc0-90b7-16971ff37055"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788123952873,
-   "joinedNationAt": 1788124961820,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663202806
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -184,8 +184,8 @@
   },
   "residents": [
    {
-    "name": "jandropson",
-    "uuid": "f4cc0f6e-98ad-4f3a-a938-ac839e431830"
+    "name": "NPC2",
+    "uuid": "17c6b148-27dc-20cf-8af0-532ed25c4e08"
    }
   ],
   "trusted": [

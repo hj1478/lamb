@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Copper_Town",
   "uuid": "51093954-b646-4074-a988-7513071ce519",
@@ -12,12 +12,12 @@
    "uuid": "2308dfcd-b7d9-49fb-b5e7-e05cc0b77add"
   },
   "nation": {
-   "name": "Alaska",
-   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783733845143,
-   "joinedNationAt": 1784152079293,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 25,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

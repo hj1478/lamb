@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Scp",
   "uuid": "565118a4-cac5-4058-b1aa-0cd53dca41c9",
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 7,
-   "numTrusted": 0,
-   "numOutlaws": 10,
+   "numTrusted": 1,
+   "numOutlaws": 9,
    "balance": 19.0,
    "forSalePrice": null
   },
@@ -344,7 +344,12 @@
     "uuid": "56bd902f-cce4-4af3-99e0-b21be05c17a7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "oceansjester",
+    "uuid": "4f7af9d0-c3e9-4395-8bfa-6772db349ce2"
+   }
+  ],
   "outlaws": [
    {
     "name": "robloxikintv",
@@ -381,10 +386,6 @@
    {
     "name": "SteggyBlueEyes",
     "uuid": "fa179644-c403-4cc8-8b05-a6c6ea1d6c2f"
-   },
-   {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
    }
   ],
   "quarters": [

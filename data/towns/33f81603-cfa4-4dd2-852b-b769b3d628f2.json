@@ -1,35 +1,35 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
-  "name": "EZ_BUBU",
-  "uuid": "3c78ece2-b42e-4e84-a139-449984669f64",
+  "name": "Nemo",
+  "uuid": "33f81603-cfa4-4dd2-852b-b769b3d628f2",
   "board": "/town set board [msg]",
-  "founder": "NoahShan",
+  "founder": "dinnerbone37665",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC120",
-   "uuid": "2219660c-6a95-2059-a761-445adee2f257"
+   "name": "dinnerbone37665",
+   "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1792445502964,
+   "registered": 1792741736084,
    "joinedNationAt": null,
-   "ruinedAt": 1792449671482
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,71 +40,84 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2907.406643079548,
-    "y": 144.0,
-    "z": -9893.826497567148,
-    "pitch": -10.319916,
-    "yaw": 17.819118
+    "x": -9845.739221316759,
+    "y": 63.08576431274414,
+    "z": -2210.175189829161,
+    "pitch": 69.74993,
+    "yaw": -54.845226
    },
    "homeBlock": [
-    181,
-    -619
+    -616,
+    -139
    ],
    "townBlocks": [
     [
-     181,
-     -619
+     -616,
+     -139
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC120",
-    "uuid": "2219660c-6a95-2059-a761-445adee2f257"
+    "name": "dinnerbone37665",
+    "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "AlbireoCZ",
+    "uuid": "4275d88e-dc68-49af-8a47-2603da0a35f1"
+   },
+   {
+    "name": "Azor321",
+    "uuid": "791a21bb-1775-463c-b734-7a69c18dc152"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

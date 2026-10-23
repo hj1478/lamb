@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Miravella",
   "uuid": "560e1e33-d503-473b-9f3e-0ae0a59c2d92",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 38,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46438.25582184861,
-    "y": 10.0,
-    "z": 8057.43439755065,
-    "pitch": 48.599957,
-    "yaw": 176.29967
+    "x": 46436.57712252005,
+    "y": 11.0,
+    "z": 8060.699999988079,
+    "pitch": 22.049967,
+    "yaw": -169.00037
    },
    "homeBlock": [
     2902,
@@ -250,11 +250,24 @@
    {
     "name": "LightOx57849294",
     "uuid": "266df051-af7e-4c41-8a94-bba86e896640"
+   },
+   {
+    "name": "BrunoMayoB",
+    "uuid": "93f19bfe-2706-48d9-803b-b97dbfb57e50"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Residence",
+    "uuid": "cfa9ac12-aa82-4280-9290-9a0226dc2e5c"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "f6e63921-1077-4e1c-b333-908e93d86969"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

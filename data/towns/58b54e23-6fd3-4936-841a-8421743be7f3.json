@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Antioquia",
   "uuid": "58b54e23-6fd3-4936-841a-8421743be7f3",
-  "board": "Ally of Alba",
+  "board": "La Ciudad de la Eterna Primavera - Ally of Alba",
   "founder": "pluh123467",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 4,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26940.191344328763,
+    "x": -26935.401329912343,
     "y": 63.0,
-    "z": 5142.221412471288,
-    "pitch": 23.09996,
-    "yaw": 174.17291
+    "z": 5151.674199013532,
+    "pitch": 81.300026,
+    "yaw": -173.67694
    },
    "homeBlock": [
     -1684,
     321
    ],
    "townBlocks": [
+    [
+     -1686,
+     321
+    ],
+    [
+     -1685,
+     321
+    ],
     [
      -1684,
      322
@@ -114,7 +122,12 @@
     "uuid": "8c5181ac-8b98-4863-b596-79f1a6978246"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

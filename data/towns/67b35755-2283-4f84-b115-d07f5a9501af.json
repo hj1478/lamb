@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-23T11:48:08Z",
  "data": {
   "name": "Shop_Kalimnos",
   "uuid": "67b35755-2283-4f84-b115-d07f5a9501af",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "VWQIK",
-   "uuid": "2faaefed-22c0-499f-a9c8-9a455be606b4"
+   "name": "NPC40",
+   "uuid": "55793760-0232-203c-87ad-42f9a1bdaca8"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780265837377,
-   "joinedNationAt": 1780265884279,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663202439
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,44 +36,44 @@
   },
   "stats": {
    "numTownBlocks": 75,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 4,
    "balance": 35.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -396,20 +396,11 @@
   },
   "residents": [
    {
-    "name": "VWQIK",
-    "uuid": "2faaefed-22c0-499f-a9c8-9a455be606b4"
-   },
-   {
-    "name": "P0texa",
-    "uuid": "6e41325d-7fb3-4b08-b3e5-1e41557551bd"
+    "name": "NPC40",
+    "uuid": "55793760-0232-203c-87ad-42f9a1bdaca8"
    }
   ],
-  "trusted": [
-   {
-    "name": "P0texa",
-    "uuid": "6e41325d-7fb3-4b08-b3e5-1e41557551bd"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "28st",
