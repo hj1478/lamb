@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Malikipuram",
   "uuid": "7c8b05e4-abba-4992-abb0-f3a59833cfe2",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 8,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 7,
-   "numOutlaws": 0,
-   "balance": 8.0,
+   "numTrusted": 9,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,6 +117,10 @@
     ],
     [
      1819,
+     133
+    ],
+    [
+     1819,
      132
     ]
    ],
@@ -146,6 +150,14 @@
     "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
    },
    {
+    "name": "Azurelogist",
+    "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+   },
+   {
+    "name": "flitzerblitz",
+    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+   },
+   {
     "name": "_Melix_",
     "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
    },
@@ -162,7 +174,12 @@
     "uuid": "a0f3d2f0-9bce-4ae8-a1c9-0bda13613928"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "giacomause2",
+    "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

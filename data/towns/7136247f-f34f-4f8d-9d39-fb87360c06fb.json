@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Mizdah",
   "uuid": "7136247f-f34f-4f8d-9d39-fb87360c06fb",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "nationBonus": 10,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 62.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,23 +80,59 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4152.629788245356,
-    "y": 62.0,
-    "z": -4183.300000011921,
-    "pitch": 35.550087,
-    "yaw": -91.01935
+    "x": 4168.096459133898,
+    "y": 63.0,
+    "z": -4181.65604491006,
+    "pitch": -4.3499155,
+    "yaw": 91.68057
    },
    "homeBlock": [
-    259,
+    260,
     -262
    ],
    "townBlocks": [
     [
+     257,
+     -261
+    ],
+    [
+     257,
+     -260
+    ],
+    [
+     258,
+     -261
+    ],
+    [
+     258,
+     -260
+    ],
+    [
+     258,
+     -263
+    ],
+    [
+     258,
+     -262
+    ],
+    [
+     259,
+     -263
+    ],
+    [
      261,
      -262
     ],
     [
      261,
+     -263
+    ],
+    [
+     261,
+     -260
+    ],
+    [
+     261,
      -261
     ],
     [
@@ -108,15 +144,15 @@
      -261
     ],
     [
+     259,
+     -260
+    ],
+    [
      260,
      -263
     ],
     [
      260,
-     -261
-    ],
-    [
-     258,
      -261
     ],
     [
@@ -124,15 +160,15 @@
      -262
     ],
     [
-     258,
+     260,
+     -260
+    ],
+    [
+     257,
      -263
     ],
     [
-     259,
-     -263
-    ],
-    [
-     258,
+     257,
      -262
     ]
    ],
@@ -142,9 +178,17 @@
    {
     "name": "Weed525",
     "uuid": "9e8020c6-af58-4bb7-a8d9-1692799249ea"
+   },
+   {
+    "name": "Toroslar3380",
+    "uuid": "f44a82d5-c841-46da-a846-aba8028a8966"
    }
   ],
   "trusted": [
+   {
+    "name": "Toroslar3380",
+    "uuid": "f44a82d5-c841-46da-a846-aba8028a8966"
+   },
    {
     "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"

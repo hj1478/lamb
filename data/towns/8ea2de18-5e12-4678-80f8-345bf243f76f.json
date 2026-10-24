@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "MAT",
   "uuid": "8ea2de18-5e12-4678-80f8-345bf243f76f",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 62,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 72,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 39.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -156,14 +156,14 @@
      62
     ],
     [
-     -3183,
-     60
-    ],
-    [
      -3187,
      67
     ],
     [
+     -3183,
+     60
+    ],
+    [
      -3188,
      61
     ],
@@ -224,18 +224,22 @@
      59
     ],
     [
-     -3189,
-     60
+     -3183,
+     67
     ],
     [
      -3189,
-     61
+     60
     ],
     [
      -3188,
      67
     ],
     [
+     -3189,
+     61
+    ],
+    [
      -3188,
      66
     ],
@@ -296,6 +300,18 @@
      65
     ],
     [
+     -3182,
+     59
+    ],
+    [
+     -3182,
+     61
+    ],
+    [
+     -3182,
+     60
+    ],
+    [
      -3186,
      61
     ],
@@ -304,6 +320,10 @@
      64
     ],
     [
+     -3182,
+     63
+    ],
+    [
      -3186,
      60
     ],
@@ -312,12 +332,20 @@
      63
     ],
     [
+     -3182,
+     62
+    ],
+    [
      -3186,
      63
     ],
     [
      -3184,
      62
+    ],
+    [
+     -3182,
+     65
     ],
     [
      -3186,
@@ -328,12 +356,24 @@
      61
     ],
     [
+     -3182,
+     64
+    ],
+    [
      -3184,
      60
     ],
     [
+     -3182,
+     67
+    ],
+    [
      -3184,
      59
+    ],
+    [
+     -3182,
+     66
     ],
     [
      -3186,
@@ -346,6 +386,10 @@
    {
     "name": "milkfunction",
     "uuid": "ea927015-9ca3-48cb-b4ee-be31ed29d3fa"
+   },
+   {
+    "name": "MileysMilkers",
+    "uuid": "6e80a7a1-3712-417e-8e66-89488ab7520e"
    }
   ],
   "trusted": [],

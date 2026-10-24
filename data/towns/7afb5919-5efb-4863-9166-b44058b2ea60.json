@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Libourne",
   "uuid": "7afb5919-5efb-4863-9166-b44058b2ea60",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 30,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 117.0,
+   "balance": 19.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,16 +92,16 @@
    ],
    "townBlocks": [
     [
-     -6,
-     -550
-    ],
-    [
-     -6,
-     -551
-    ],
-    [
-     -6,
+     -8,
      -552
+    ],
+    [
+     -8,
+     -553
+    ],
+    [
+     -8,
+     -550
     ],
     [
      -7,
@@ -112,16 +112,104 @@
      -553
     ],
     [
+     -8,
+     -551
+    ],
+    [
      -7,
      -550
+    ],
+    [
+     -7,
+     -551
+    ],
+    [
+     -8,
+     -549
+    ],
+    [
+     -7,
+     -549
+    ],
+    [
+     -9,
+     -550
+    ],
+    [
+     -9,
+     -549
+    ],
+    [
+     -9,
+     -553
+    ],
+    [
+     -9,
+     -552
+    ],
+    [
+     -9,
+     -551
+    ],
+    [
+     -5,
+     -551
+    ],
+    [
+     -6,
+     -549
+    ],
+    [
+     -6,
+     -550
+    ],
+    [
+     -5,
+     -552
+    ],
+    [
+     -6,
+     -551
+    ],
+    [
+     -5,
+     -549
+    ],
+    [
+     -6,
+     -552
+    ],
+    [
+     -5,
+     -550
+    ],
+    [
+     -10,
+     -549
+    ],
+    [
+     -10,
+     -550
+    ],
+    [
+     -10,
+     -551
+    ],
+    [
+     -10,
+     -552
+    ],
+    [
+     -10,
+     -553
     ],
     [
      -6,
      -553
     ],
     [
-     -7,
-     -551
+     -5,
+     -553
     ]
    ],
    "worlds": {}
@@ -132,7 +220,16 @@
     "uuid": "c4d37eca-479d-4dd3-bc2b-da2559caeb9d"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "OnyR_IC",
+    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
+   },
+   {
+    "name": "Oce_78",
+    "uuid": "25e7015d-8ad0-4c27-bb4e-a31b4c17e979"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

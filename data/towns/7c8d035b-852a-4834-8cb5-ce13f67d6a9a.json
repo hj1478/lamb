@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Bazaar",
   "uuid": "7c8d035b-852a-4834-8cb5-ce13f67d6a9a",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 168,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 14,
+   "numResidents": 13,
    "numTrusted": 5,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -580,6 +580,10 @@
   },
   "residents": [
    {
+    "name": "alperenjungle",
+    "uuid": "5286ce8a-928e-4318-aa3e-58d5505dea57"
+   },
+   {
     "name": "mavryz",
     "uuid": "27f0243b-ce7e-4c69-8441-a8792c204a06"
    },
@@ -626,14 +630,6 @@
    {
     "name": "Hitze04",
     "uuid": "1ac8eb4c-3a5c-4bc6-830e-40861456f55c"
-   },
-   {
-    "name": "Weed525",
-    "uuid": "9e8020c6-af58-4bb7-a8d9-1692799249ea"
-   },
-   {
-    "name": "Toroslar3380",
-    "uuid": "f44a82d5-c841-46da-a846-aba8028a8966"
    }
   ],
   "trusted": [
@@ -685,12 +681,7 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Weed525",
-     "uuid": "9e8020c6-af58-4bb7-a8d9-1692799249ea"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

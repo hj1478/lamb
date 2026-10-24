@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Saigon",
   "uuid": "7653f7e0-4f53-4330-8539-c7f845b67fbc",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 201,
-   "maxTownBlocks": 212,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 11,
-   "numTrusted": 2,
+   "numResidents": 8,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 177.0,
+   "balance": 194.0,
    "forSalePrice": null
   },
   "perms": {
@@ -909,10 +909,6 @@
     "uuid": "b022057d-482e-4fad-b5bd-4407660924ae"
    },
    {
-    "name": "MarshBlock",
-    "uuid": "661782ea-4f3a-44f3-9dcb-aba54f29e177"
-   },
-   {
     "name": "worrizwolf13",
     "uuid": "3a4e150d-36a9-492d-9522-2a2866a56517"
    },
@@ -929,10 +925,6 @@
     "uuid": "14e12e85-b540-48bc-b504-750d021b7939"
    },
    {
-    "name": "Kurowasen",
-    "uuid": "55393468-613c-4d21-a808-e1da3700992a"
-   },
-   {
     "name": "Jimiew",
     "uuid": "7dcac7a4-fc51-4da5-86af-6269cf5c3828"
    },
@@ -943,20 +935,12 @@
    {
     "name": "Ruri_0303",
     "uuid": "6acaa1e1-a892-451c-9fc2-dcd4f2708acc"
-   },
-   {
-    "name": "Kyleger",
-    "uuid": "e5aa6916-444b-4757-998d-82633743fb5c"
    }
   ],
   "trusted": [
    {
     "name": "QBit_NaN",
     "uuid": "b022057d-482e-4fad-b5bd-4407660924ae"
-   },
-   {
-    "name": "MarshBlock",
-    "uuid": "661782ea-4f3a-44f3-9dcb-aba54f29e177"
    }
   ],
   "outlaws": [
@@ -973,10 +957,6 @@
      "uuid": "b022057d-482e-4fad-b5bd-4407660924ae"
     },
     {
-     "name": "MarshBlock",
-     "uuid": "661782ea-4f3a-44f3-9dcb-aba54f29e177"
-    },
-    {
      "name": "worrizwolf13",
      "uuid": "3a4e150d-36a9-492d-9522-2a2866a56517"
     },
@@ -986,10 +966,6 @@
     }
    ],
    "Builder": [
-    {
-     "name": "MarshBlock",
-     "uuid": "661782ea-4f3a-44f3-9dcb-aba54f29e177"
-    },
     {
      "name": "worrizwolf13",
      "uuid": "3a4e150d-36a9-492d-9522-2a2866a56517"
@@ -1007,10 +983,6 @@
     {
      "name": "QBit_NaN",
      "uuid": "b022057d-482e-4fad-b5bd-4407660924ae"
-    },
-    {
-     "name": "MarshBlock",
-     "uuid": "661782ea-4f3a-44f3-9dcb-aba54f29e177"
     }
    ],
    "Police": [],

@@ -1,0 +1,140 @@
+{
+ "fetched_at": "2026-10-24T11:13:43Z",
+ "data": {
+  "name": "PlanetOfTheApes",
+  "uuid": "1a66e50c-4c4f-4d6f-a666-ed132001ff25",
+  "board": "/town set board [msg]",
+  "founder": "Z0lf",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Z0lf",
+   "uuid": "216338a1-ea4e-4041-8ce2-c521e034dd9f"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792784886614,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -25757.561200742482,
+    "y": 70.0,
+    "z": 11432.154599795802,
+    "pitch": 23.249651,
+    "yaw": -90.59375
+   },
+   "homeBlock": [
+    -1610,
+    714
+   ],
+   "townBlocks": [
+    [
+     -1610,
+     714
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Z0lf",
+    "uuid": "216338a1-ea4e-4041-8ce2-c521e034dd9f"
+   },
+   {
+    "name": "adp9999",
+    "uuid": "5e2e8caa-26f6-40d7-9fa1-555b176e9cc2"
+   },
+   {
+    "name": "Thirsty_Hero",
+    "uuid": "93f6d029-ba85-47d2-a1fb-289051285528"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "adp9999",
+     "uuid": "5e2e8caa-26f6-40d7-9fa1-555b176e9cc2"
+    },
+    {
+     "name": "Thirsty_Hero",
+     "uuid": "93f6d029-ba85-47d2-a1fb-289051285528"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

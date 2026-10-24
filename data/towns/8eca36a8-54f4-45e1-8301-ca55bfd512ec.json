@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Fort_Yukon",
   "uuid": "8eca36a8-54f4-45e1-8301-ca55bfd512ec",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Zenthius06",
-   "uuid": "0d48f8a2-ac6a-4a53-95da-90bc158359ab"
+   "name": "NPC62",
+   "uuid": "ac2f20a6-2852-20e2-abe6-93794d9f2826"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1792555869402,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792816159792
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,46 +35,46 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -3273,
+     -1272
+    ],
+    [
+     -3273,
      -1271
     ],
     [
@@ -108,15 +112,32 @@
   },
   "residents": [
    {
-    "name": "Zenthius06",
-    "uuid": "0d48f8a2-ac6a-4a53-95da-90bc158359ab"
+    "name": "Inadequateobserv",
+    "uuid": "158ce266-716a-49e9-8620-1b4e5dec4cbe"
    },
+   {
+    "name": "2RT3M1S",
+    "uuid": "94ce9843-49e8-4c51-a2fb-46500336c9f4"
+   },
+   {
+    "name": "NPC62",
+    "uuid": "ac2f20a6-2852-20e2-abe6-93794d9f2826"
+   }
+  ],
+  "trusted": [
    {
     "name": "Inadequateobserv",
     "uuid": "158ce266-716a-49e9-8620-1b4e5dec4cbe"
+   },
+   {
+    "name": "Equiloa",
+    "uuid": "3b4a40f8-93fc-498f-8edf-0b9e1f18dc11"
+   },
+   {
+    "name": "2RT3M1S",
+    "uuid": "94ce9843-49e8-4c51-a2fb-46500336c9f4"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

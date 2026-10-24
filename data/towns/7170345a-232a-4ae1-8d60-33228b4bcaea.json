@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Manzikert",
   "uuid": "7170345a-232a-4ae1-8d60-33228b4bcaea",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 122,
-   "maxTownBlocks": 132,
+   "numTownBlocks": 138,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 6,
-   "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 15.0,
+   "nationBonus": 80,
+   "numResidents": 8,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -168,6 +168,14 @@
      -433
     ],
     [
+     948,
+     -426
+    ],
+    [
+     948,
+     -427
+    ],
+    [
      941,
      -426
     ],
@@ -198,6 +206,10 @@
     [
      937,
      -427
+    ],
+    [
+     945,
+     -435
     ],
     [
      937,
@@ -273,6 +285,14 @@
     ],
     [
      951,
+     -429
+    ],
+    [
+     951,
+     -430
+    ],
+    [
+     951,
      -431
     ],
     [
@@ -293,6 +313,14 @@
     ],
     [
      950,
+     -430
+    ],
+    [
+     950,
+     -429
+    ],
+    [
+     950,
      -432
     ],
     [
@@ -330,6 +358,18 @@
     [
      949,
      -435
+    ],
+    [
+     949,
+     -430
+    ],
+    [
+     949,
+     -429
+    ],
+    [
+     949,
+     -428
     ],
     [
      946,
@@ -365,11 +405,15 @@
     ],
     [
      952,
-     -431
+     -430
     ],
     [
      946,
      -435
+    ],
+    [
+     952,
+     -431
     ],
     [
      952,
@@ -446,6 +490,14 @@
     [
      947,
      -428
+    ],
+    [
+     947,
+     -427
+    ],
+    [
+     947,
+     -426
     ],
     [
      947,
@@ -497,7 +549,19 @@
     ],
     [
      948,
+     -430
+    ],
+    [
+     948,
      -431
+    ],
+    [
+     948,
+     -428
+    ],
+    [
+     948,
+     -429
     ],
     [
      939,
@@ -600,18 +664,30 @@
     "uuid": "b756aa10-97fc-4dd7-ad37-222844f37c1d"
    },
    {
-    "name": "XxKILLER_BTWxX",
-    "uuid": "189c1845-9545-42b2-8dfa-d6e2b1aac626"
-   },
-   {
     "name": "georgeat4k",
     "uuid": "1a90a148-5314-4652-81d0-939a4ed8da91"
+   },
+   {
+    "name": "cursed_kitten",
+    "uuid": "66875763-e47f-49cc-9273-eba7a2d0bf04"
+   },
+   {
+    "name": "TitaCrafter",
+    "uuid": "8cf334b7-5c65-4f4f-83b9-bd540b569814"
+   },
+   {
+    "name": "lumdidiy",
+    "uuid": "115d5e27-f22f-4c82-9fd0-eadba4c2eaa2"
    }
   ],
   "trusted": [
    {
     "name": "yarch1e",
     "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
+   },
+   {
+    "name": "cursed_kitten",
+    "uuid": "66875763-e47f-49cc-9273-eba7a2d0bf04"
    },
    {
     "name": "Agnesyatta",
@@ -622,7 +698,12 @@
     "uuid": "4179297b-4f5b-4b95-a4cc-2c7a2c2839bc"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [
    {
     "name": "Upbeat Flat",
@@ -642,6 +723,10 @@
     {
      "name": "Agnesyatta",
      "uuid": "cd479be2-4cf0-4f44-8128-c7f68f899dab"
+    },
+    {
+     "name": "cursed_kitten",
+     "uuid": "66875763-e47f-49cc-9273-eba7a2d0bf04"
     }
    ],
    "Builder": [

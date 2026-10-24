@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Karlsruhe",
   "uuid": "84e4543e-a89b-4022-a41c-b95ca1d378dd",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 142,
+   "numTownBlocks": 150,
    "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 6,
    "numTrusted": 3,
-   "numOutlaws": 2,
-   "balance": 417.0,
+   "numOutlaws": 3,
+   "balance": 336.0,
    "forSalePrice": null
   },
   "perms": {
@@ -129,6 +129,14 @@
     ],
     [
      186,
+     -706
+    ],
+    [
+     186,
+     -707
+    ],
+    [
+     186,
      -708
     ],
     [
@@ -136,8 +144,8 @@
      -709
     ],
     [
-     187,
-     -709
+     186,
+     -710
     ],
     [
      186,
@@ -145,15 +153,27 @@
     ],
     [
      187,
-     -708
+     -709
     ],
     [
      186,
      -699
     ],
     [
+     187,
+     -708
+    ],
+    [
      196,
      -703
+    ],
+    [
+     186,
+     -700
+    ],
+    [
+     187,
+     -711
     ],
     [
      196,
@@ -165,7 +185,7 @@
     ],
     [
      187,
-     -705
+     -710
     ],
     [
      186,
@@ -173,11 +193,15 @@
     ],
     [
      187,
-     -704
+     -705
     ],
     [
      186,
      -703
+    ],
+    [
+     187,
+     -704
     ],
     [
      187,
@@ -200,20 +224,20 @@
      -695
     ],
     [
+     186,
+     -696
+    ],
+    [
      188,
      -695
     ],
     [
      186,
-     -696
+     -697
     ],
     [
      188,
      -696
-    ],
-    [
-     186,
-     -697
     ],
     [
      188,
@@ -234,6 +258,14 @@
     [
      188,
      -709
+    ],
+    [
+     188,
+     -710
+    ],
+    [
+     188,
+     -711
     ],
     [
      188,
@@ -684,8 +716,8 @@
     "uuid": "fe5f6244-ae2c-4e7c-9a2c-ea0b0e38ab5d"
    },
    {
-    "name": "Tomino1CZ",
-    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+    "name": "PAD2026",
+    "uuid": "e7328ab1-85d7-4d17-9a57-57f282f78673"
    }
   ],
   "trusted": [
@@ -710,12 +742,24 @@
    {
     "name": "Freedombruh",
     "uuid": "9a2f7acc-c8f3-4a3b-9ddb-7c16c93064eb"
+   },
+   {
+    "name": "_Srdjan",
+    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
    }
   ],
   "quarters": [
    {
+    "name": "Dull Residence",
+    "uuid": "eabc3fac-18e3-41d5-8528-567a640c0bfc"
+   },
+   {
     "name": "Dull Tenement",
     "uuid": "7ba58174-9711-483d-8f1d-1ada644c130c"
+   },
+   {
+    "name": "trapdoor",
+    "uuid": "6db38561-098f-4b73-8ba4-3a9e37d50e19"
    }
   ],
   "ranks": {

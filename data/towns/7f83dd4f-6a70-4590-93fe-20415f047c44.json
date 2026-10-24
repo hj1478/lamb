@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Ellesmere",
   "uuid": "7f83dd4f-6a70-4590-93fe-20415f047c44",
-  "board": "/town set board [msg]",
+  "board": "Arctic stars set upon us (town will open soon)",
   "founder": "earwigi",
   "wiki": null,
   "discord": null,
@@ -12,37 +12,37 @@
    "uuid": "9922046f-b90c-4e29-83bb-886dff8ee7c8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arctic_Isles",
+   "uuid": "d13fe63e-d51c-455e-b308-75e02a2570bb"
   },
   "timestamps": {
    "registered": 1791883847288,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792767643294,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 8,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1969,
+     -1960
+    ],
+    [
+     -1969,
      -1961
     ],
     [
@@ -102,6 +106,10 @@
     [
      -1967,
      -1961
+    ],
+    [
+     -1967,
+     -1960
     ],
     [
      -1966,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Utopia",
   "uuid": "795ca21a-93fa-415e-ba15-3183e8a7bec9",
@@ -12,37 +12,37 @@
    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arctic_Ocean",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
    "registered": 1792139551384,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792362818365,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
-   "maxTownBlocks": 60,
+   "numTownBlocks": 117,
+   "maxTownBlocks": 330,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 5,
-   "numTrusted": 5,
-   "numOutlaws": 1,
-   "balance": 142.0,
+   "nationBonus": 30,
+   "numResidents": 25,
+   "numTrusted": 8,
+   "numOutlaws": 2,
+   "balance": 804.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,18 +80,58 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32536.28785727881,
-    "y": 67.0,
-    "z": -30558.457348655276,
-    "pitch": 20.38415,
-    "yaw": 85.734
+    "x": 32534.49225989087,
+    "y": 58.0,
+    "z": -30535.654745636937,
+    "pitch": -5.975351,
+    "yaw": 0.23585647
    },
    "homeBlock": [
     2033,
-    -1910
+    -1909
    ],
    "townBlocks": [
     [
+     2030,
+     -1907
+    ],
+    [
+     2030,
+     -1908
+    ],
+    [
+     2030,
+     -1905
+    ],
+    [
+     2030,
+     -1906
+    ],
+    [
+     2030,
+     -1911
+    ],
+    [
+     2030,
+     -1912
+    ],
+    [
+     2030,
+     -1909
+    ],
+    [
+     2030,
+     -1910
+    ],
+    [
+     2030,
+     -1913
+    ],
+    [
+     2030,
+     -1914
+    ],
+    [
      2035,
      -1907
     ],
@@ -108,80 +148,416 @@
      -1910
     ],
     [
-     2033,
-     -1909
+     2035,
+     -1911
     ],
     [
-     2032,
-     -1909
+     2035,
+     -1912
+    ],
+    [
+     2035,
+     -1913
+    ],
+    [
+     2035,
+     -1905
+    ],
+    [
+     2035,
+     -1906
     ],
     [
      2034,
      -1907
     ],
     [
-     2032,
-     -1908
-    ],
-    [
-     2033,
-     -1908
+     2039,
+     -1909
     ],
     [
      2034,
      -1908
+    ],
+    [
+     2039,
+     -1910
     ],
     [
      2034,
      -1909
     ],
     [
+     2039,
+     -1911
+    ],
+    [
+     2034,
+     -1910
+    ],
+    [
+     2039,
+     -1912
+    ],
+    [
+     2034,
+     -1911
+    ],
+    [
+     2039,
+     -1913
+    ],
+    [
+     2034,
+     -1912
+    ],
+    [
+     2034,
+     -1913
+    ],
+    [
+     2028,
+     -1911
+    ],
+    [
+     2028,
+     -1910
+    ],
+    [
+     2028,
+     -1913
+    ],
+    [
+     2028,
+     -1912
+    ],
+    [
+     2028,
+     -1907
+    ],
+    [
+     2028,
+     -1906
+    ],
+    [
+     2034,
+     -1905
+    ],
+    [
+     2028,
+     -1909
+    ],
+    [
+     2034,
+     -1906
+    ],
+    [
+     2028,
+     -1908
+    ],
+    [
+     2038,
+     -1910
+    ],
+    [
+     2038,
+     -1909
+    ],
+    [
+     2038,
+     -1912
+    ],
+    [
+     2038,
+     -1911
+    ],
+    [
+     2038,
+     -1913
+    ],
+    [
+     2039,
+     -1905
+    ],
+    [
+     2039,
+     -1906
+    ],
+    [
+     2039,
+     -1907
+    ],
+    [
+     2039,
+     -1908
+    ],
+    [
+     2036,
+     -1911
+    ],
+    [
+     2036,
+     -1910
+    ],
+    [
+     2036,
+     -1913
+    ],
+    [
+     2036,
+     -1912
+    ],
+    [
+     2036,
+     -1907
+    ],
+    [
+     2036,
+     -1906
+    ],
+    [
+     2036,
+     -1909
+    ],
+    [
+     2036,
+     -1908
+    ],
+    [
+     2036,
+     -1905
+    ],
+    [
+     2031,
+     -1913
+    ],
+    [
+     2031,
+     -1914
+    ],
+    [
+     2031,
+     -1905
+    ],
+    [
+     2031,
+     -1906
+    ],
+    [
+     2031,
+     -1907
+    ],
+    [
+     2031,
+     -1908
+    ],
+    [
+     2031,
+     -1909
+    ],
+    [
+     2031,
+     -1910
+    ],
+    [
+     2031,
+     -1911
+    ],
+    [
+     2031,
+     -1912
+    ],
+    [
+     2038,
+     -1906
+    ],
+    [
+     2038,
+     -1905
+    ],
+    [
+     2038,
+     -1908
+    ],
+    [
+     2038,
+     -1907
+    ],
+    [
+     2037,
+     -1913
+    ],
+    [
+     2037,
+     -1912
+    ],
+    [
+     2037,
+     -1909
+    ],
+    [
+     2037,
+     -1908
+    ],
+    [
+     2037,
+     -1911
+    ],
+    [
+     2037,
+     -1910
+    ],
+    [
+     2037,
+     -1905
+    ],
+    [
+     2037,
+     -1907
+    ],
+    [
+     2037,
+     -1906
+    ],
+    [
+     2033,
+     -1909
+    ],
+    [
+     2033,
+     -1908
+    ],
+    [
      2033,
      -1907
+    ],
+    [
+     2033,
+     -1906
+    ],
+    [
+     2033,
+     -1913
+    ],
+    [
+     2033,
+     -1912
+    ],
+    [
+     2033,
+     -1911
+    ],
+    [
+     2033,
+     -1910
+    ],
+    [
+     2033,
+     -1905
+    ],
+    [
+     2040,
+     -1905
+    ],
+    [
+     2040,
+     -1906
+    ],
+    [
+     2040,
+     -1907
+    ],
+    [
+     2040,
+     -1908
+    ],
+    [
+     2040,
+     -1909
+    ],
+    [
+     2040,
+     -1910
+    ],
+    [
+     2040,
+     -1911
+    ],
+    [
+     2040,
+     -1912
+    ],
+    [
+     2040,
+     -1913
+    ],
+    [
+     2032,
+     -1909
+    ],
+    [
+     2032,
+     -1908
+    ],
+    [
+     2029,
+     -1906
     ],
     [
      2032,
      -1911
     ],
     [
+     2029,
+     -1907
+    ],
+    [
      2032,
      -1910
     ],
     [
-     2034,
-     -1910
-    ],
-    [
-     2034,
-     -1911
+     2032,
+     -1905
     ],
     [
      2032,
      -1907
     ],
     [
-     2033,
-     -1911
+     2032,
+     -1906
     ],
     [
-     2033,
-     -1910
+     2029,
+     -1912
     ],
     [
-     2031,
-     -1907
+     2029,
+     -1913
     ],
     [
-     2031,
+     2029,
      -1908
     ],
     [
-     2031,
+     2032,
+     -1913
+    ],
+    [
+     2029,
      -1909
     ],
     [
-     2031,
+     2032,
+     -1912
+    ],
+    [
+     2029,
      -1910
+    ],
+    [
+     2029,
+     -1911
     ]
    ],
    "worlds": {}
@@ -196,19 +572,103 @@
     "uuid": "aa0596eb-16b2-42fe-8448-a5de52a88811"
    },
    {
-    "name": "Strisvagen",
-    "uuid": "1d4b7d41-2533-40e5-ba89-2508b0347253"
-   },
-   {
     "name": "Bang_dian_dian",
     "uuid": "54792766-bf6f-4a7d-8a38-a3dc06f9ac29"
    },
    {
-    "name": "Ramza50",
-    "uuid": "5e45622a-7a83-4b60-8b7b-55c8d5ac3fa5"
+    "name": "Rxftly",
+    "uuid": "cf637ccd-acc4-44d6-a7d5-524815673817"
+   },
+   {
+    "name": "siltred",
+    "uuid": "77a3f74c-30da-43df-be4c-17ef88002fe9"
+   },
+   {
+    "name": "Breezepuff",
+    "uuid": "8ff02392-627b-4f55-9e12-16d951af58f3"
+   },
+   {
+    "name": "Caperdoodledoo",
+    "uuid": "0e3b6e7f-0aa4-4434-a333-cfc70928bc4e"
+   },
+   {
+    "name": "ctksb",
+    "uuid": "329c858e-4f12-42ce-87d0-58b7dcba4309"
+   },
+   {
+    "name": "Beelzebxb",
+    "uuid": "ee3c02da-2892-4b74-a2b5-da494c943a1a"
+   },
+   {
+    "name": "TheAlex1340",
+    "uuid": "dd93a994-24d4-48f2-a6d1-2ce8360d3a26"
+   },
+   {
+    "name": "Kureishee",
+    "uuid": "2cbbccf1-d76a-48c4-b512-4f1240dc527f"
+   },
+   {
+    "name": "CoolAwsome9433",
+    "uuid": "0324ea22-334a-4e59-bd51-d81b4067ea2b"
+   },
+   {
+    "name": "cemgursoy",
+    "uuid": "da998c94-1b7f-4e82-9479-24da0105c817"
+   },
+   {
+    "name": "Mr_Crabs123",
+    "uuid": "de954011-4a33-4d53-b631-c83817e1d943"
+   },
+   {
+    "name": "Sonja_Stella",
+    "uuid": "4c24329b-d0bd-4c7d-b771-dac87775c543"
+   },
+   {
+    "name": "igotrated1time",
+    "uuid": "9e2b1b77-1854-48ca-a53c-f074110490b2"
+   },
+   {
+    "name": "Minnonsme",
+    "uuid": "72fe9dda-f640-4cd3-a05e-a4e4e0f2375f"
+   },
+   {
+    "name": "Blackwofl_",
+    "uuid": "39838ee8-9326-43e7-9e28-f5d3fd0b3886"
+   },
+   {
+    "name": "Firefightt",
+    "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
+   },
+   {
+    "name": "Severin00",
+    "uuid": "0da9656c-2e0e-4dae-beba-9dfe09211699"
+   },
+   {
+    "name": "Som3Rand0mGuy",
+    "uuid": "877b1081-e95f-45a2-ad59-b570b9425c17"
+   },
+   {
+    "name": "cooooooooorsLite",
+    "uuid": "26c121b8-960d-44a1-ad90-c1463bb68023"
+   },
+   {
+    "name": "Daisy_1235",
+    "uuid": "051c0f8e-17de-4b47-b65c-0e52be0a2ef2"
+   },
+   {
+    "name": "dejvid_137iq",
+    "uuid": "6259b70a-efb7-45b8-be7b-cee319e1e49d"
+   },
+   {
+    "name": "Coco_The_Coconut",
+    "uuid": "4813abbe-bc39-4762-99fc-8bd19ddca382"
    }
   ],
   "trusted": [
+   {
+    "name": "PoppyPoopyPoo",
+    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+   },
    {
     "name": "STARDUCK_ZXY",
     "uuid": "1e0e7c69-0085-4e96-b1db-312cb8c70de2"
@@ -218,8 +678,16 @@
     "uuid": "fe9dffcd-8373-447a-a671-52c59da9efec"
    },
    {
+    "name": "youyunxi",
+    "uuid": "7e0804a1-d586-49da-9a9d-fabb5a2fb344"
+   },
+   {
     "name": "qianrubiao",
     "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
+    "name": "Duolingoose",
+    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
    },
    {
     "name": "NullSelfice",
@@ -234,18 +702,40 @@
    {
     "name": "xfw_x",
     "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "pictureingau",
+    "uuid": "05adb2ba-7fda-4e2c-8264-6776f4224e37"
    }
   ],
   "quarters": [
+   {
+    "name": "XP",
+    "uuid": "fd47d56f-56a6-4c40-a5d0-0eb68dbb8b29"
+   },
+   {
+    "name": "Dingy Apartment",
+    "uuid": "1e53fa2f-b949-40a0-84eb-77eeb1d556c6"
+   },
    {
     "name": "Inviting Quarter",
     "uuid": "b12cc184-d6e9-4dd7-babe-2f05def6283b"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Breezepuff",
+     "uuid": "8ff02392-627b-4f55-9e12-16d951af58f3"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "Firefightt",
+     "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

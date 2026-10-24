@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-24T11:13:43Z",
+ "data": {
+  "name": "Twilight_Town",
+  "uuid": "bfe24688-d4e8-4ada-8880-5144b4a752fa",
+  "board": "/town set board [msg]",
+  "founder": "ByTheMinute",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "ByTheMinute",
+   "uuid": "4b48202b-3840-4fd8-96c8-8ccf77a82eb8"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1792836672031,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 43704.43599228429,
+    "y": 107.0,
+    "z": 917.9728513839922,
+    "pitch": 32.79111,
+    "yaw": 161.71608
+   },
+   "homeBlock": [
+    2731,
+    57
+   ],
+   "townBlocks": [
+    [
+     2731,
+     57
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "ByTheMinute",
+    "uuid": "4b48202b-3840-4fd8-96c8-8ccf77a82eb8"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

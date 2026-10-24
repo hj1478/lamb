@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Edfu",
   "uuid": "89a235ad-1048-425a-b301-47eafd431749",
-  "board": "/town set board [msg]",
+  "board": "Has a lot of nothing",
   "founder": "Fefecoco",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,29 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11043.509829581584,
+    "x": 11029.592342858254,
     "y": 65.0,
-    "z": -1902.300000011921,
-    "pitch": -3.2688394,
-    "yaw": -176.88892
+    "z": -1899.508592835685,
+    "pitch": 64.76943,
+    "yaw": -91.28894
    },
    "homeBlock": [
-    690,
+    689,
     -119
    ],
    "townBlocks": [
+    [
+     689,
+     -119
+    ],
+    [
+     689,
+     -117
+    ],
+    [
+     689,
+     -118
+    ],
     [
      690,
      -118
@@ -98,6 +110,14 @@
     [
      690,
      -119
+    ],
+    [
+     688,
+     -118
+    ],
+    [
+     690,
+     -117
     ]
    ],
    "worlds": {}
@@ -106,11 +126,44 @@
    {
     "name": "Fefecoco",
     "uuid": "44599bde-260f-4f6e-9a57-68d099cf7f66"
+   },
+   {
+    "name": "Moilo25z7",
+    "uuid": "b0d9fcc9-2c90-4ead-93cd-81ef8d945782"
+   },
+   {
+    "name": "adamrackets357",
+    "uuid": "d0668bd0-787a-4dad-85b3-9c2f40026b5c"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dingy Flat",
+    "uuid": "3a518839-68e8-4805-a228-d7c161278bec"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "0ce69c0b-2cc2-4d1f-88a4-5931d7bf2128"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "eac5df48-dbf3-496a-9052-f828aac1d3b3"
+   },
+   {
+    "name": "Inviting Flat",
+    "uuid": "c70d2d14-03f0-4584-8394-42e99ad2f915"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "88a1cc9b-7451-4036-b995-bf89bc5ba409"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "a8be9933-b934-42a1-9e1d-29c9842ee762"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

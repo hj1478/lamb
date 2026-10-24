@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Los_Gatos",
   "uuid": "70ebeaff-d47c-4476-b6f7-7c8709e58fb6",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Hasmet_",
-   "uuid": "79f87fba-4dd5-49f5-b57d-081843673fca"
+   "name": "crafter3310",
+   "uuid": "315782cb-922c-4b9b-b82e-c86d1a853384"
   },
   "nation": {
    "name": null,
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -25925.56148410275,
-    "y": 67.0,
-    "z": 8549.77580201912,
-    "pitch": 31.352556,
-    "yaw": -95.385254
+    "x": -25927.35191937629,
+    "y": 83.0,
+    "z": 8549.61419994465,
+    "pitch": 32.699726,
+    "yaw": 175.40338
    },
    "homeBlock": [
     -1621,
     534
    ],
    "townBlocks": [
+    [
+     -1622,
+     535
+    ],
+    [
+     -1621,
+     535
+    ],
     [
      -1621,
      534
@@ -99,10 +107,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "_Hasmet_",
-    "uuid": "79f87fba-4dd5-49f5-b57d-081843673fca"
-   },
    {
     "name": "crafter3310",
     "uuid": "315782cb-922c-4b9b-b82e-c86d1a853384"

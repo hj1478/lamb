@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Dunedin",
   "uuid": "85e3067f-284f-4706-afaf-4ee82c97a8dc",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 236,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "numResidents": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -1044,6 +1044,10 @@
     "uuid": "10e20f3a-f6d4-41cf-89a8-86096651a547"
    },
    {
+    "name": "Eric03202008_1",
+    "uuid": "9fe20740-5e09-40e8-8614-39a2feb43f6a"
+   },
+   {
     "name": "polemakska",
     "uuid": "877f01c7-6009-4d78-8318-fb910fed35d6"
    },
@@ -1064,15 +1068,29 @@
    {
     "name": "Leaf__H",
     "uuid": "a21401c1-6f31-4eeb-ada4-f9780e5dd3b8"
+   },
+   {
+    "name": "Eric03202008_1",
+    "uuid": "9fe20740-5e09-40e8-8614-39a2feb43f6a"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Eric03202008_1",
+     "uuid": "9fe20740-5e09-40e8-8614-39a2feb43f6a"
+    }
+   ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "Eric03202008_1",
+     "uuid": "9fe20740-5e09-40e8-8614-39a2feb43f6a"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

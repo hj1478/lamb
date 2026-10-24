@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Volnograd",
   "uuid": "730aded6-0081-4dd1-af73-c03fe7ce034c",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 24,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -65,10 +65,10 @@
     false
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -92,19 +92,99 @@
    ],
    "townBlocks": [
     [
+     729,
+     -1079
+    ],
+    [
+     729,
+     -1078
+    ],
+    [
+     728,
+     -1075
+    ],
+    [
+     729,
+     -1077
+    ],
+    [
+     729,
+     -1076
+    ],
+    [
+     729,
+     -1075
+    ],
+    [
+     728,
+     -1077
+    ],
+    [
+     728,
+     -1076
+    ],
+    [
+     728,
+     -1079
+    ],
+    [
+     728,
+     -1078
+    ],
+    [
+     726,
+     -1078
+    ],
+    [
+     725,
+     -1077
+    ],
+    [
+     726,
+     -1077
+    ],
+    [
+     725,
+     -1076
+    ],
+    [
+     725,
+     -1079
+    ],
+    [
+     726,
+     -1079
+    ],
+    [
+     725,
+     -1078
+    ],
+    [
+     727,
+     -1079
+    ],
+    [
+     727,
+     -1077
+    ],
+    [
+     727,
+     -1078
+    ],
+    [
+     727,
+     -1075
+    ],
+    [
      727,
      -1076
     ],
     [
-     727,
-     -1077
+     730,
+     -1076
     ],
     [
-     728,
-     -1077
-    ],
-    [
-     728,
+     726,
      -1076
     ]
    ],

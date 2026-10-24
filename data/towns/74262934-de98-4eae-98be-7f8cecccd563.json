@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Elisabethville",
   "uuid": "74262934-de98-4eae-98be-7f8cecccd563",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 46,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 2,
    "balance": 12.0,
    "forSalePrice": null
@@ -284,27 +284,16 @@
     "uuid": "866c30eb-f885-41ba-b0c2-c80339576c82"
    },
    {
-    "name": "AteneaRose1987",
-    "uuid": "286c1830-aaa7-4b35-9d99-e10d3ae83197"
-   },
-   {
     "name": "dobre_",
     "uuid": "d5897d5f-1cb9-464a-ad70-4b558dae3330"
-   },
-   {
-    "name": "samisnotalemon",
-    "uuid": "66caad1f-49bb-4a08-aba8-877ca4e6fa4d"
-   },
-   {
-    "name": "Trimazz",
-    "uuid": "b9ce1a31-6d6b-4fd5-9f59-685baa99118c"
-   },
-   {
-    "name": "GinebraZoe",
-    "uuid": "c8cbc054-cb83-4df8-a0a0-c1443725e8a2"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "AteneaRose1987",
+    "uuid": "286c1830-aaa7-4b35-9d99-e10d3ae83197"
+   }
+  ],
   "outlaws": [
    {
     "name": "Chrouched_",
@@ -317,12 +306,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "AteneaRose1987",
-     "uuid": "286c1830-aaa7-4b35-9d99-e10d3ae83197"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

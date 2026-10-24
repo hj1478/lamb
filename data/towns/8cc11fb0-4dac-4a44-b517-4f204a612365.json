@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Italy",
   "uuid": "8cc11fb0-4dac-4a44-b517-4f204a612365",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 338,
-   "maxTownBlocks": 400,
+   "numTownBlocks": 339,
+   "maxTownBlocks": 412,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 25,
-   "numTrusted": 6,
+   "numResidents": 26,
+   "numTrusted": 5,
    "numOutlaws": 3,
-   "balance": 0.0,
+   "balance": 984.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1397,6 +1397,10 @@
     ],
     [
      357,
+     -479
+    ],
+    [
+     357,
      -498
     ],
     [
@@ -1452,20 +1456,8 @@
     "uuid": "4a99b8e3-325d-4ca0-b103-715739555504"
    },
    {
-    "name": "Aidan5672",
-    "uuid": "4b7a6191-12b6-4bb4-953f-28f8c89c5001"
-   },
-   {
     "name": "IloveDoyouloveme",
     "uuid": "1d7af948-d9ac-46f0-bfcb-a90d67da76ff"
-   },
-   {
-    "name": "Darth_Gregorius",
-    "uuid": "9df5a2db-29ab-493b-97cf-66f3f110059f"
-   },
-   {
-    "name": "RemixEdge",
-    "uuid": "2a35e8d4-cef7-4142-a5be-20177b94e992"
    },
    {
     "name": "Realxz",
@@ -1474,10 +1466,6 @@
    {
     "name": "thebro671010",
     "uuid": "2e0bb928-3588-4000-aea0-dd0d6c801645"
-   },
-   {
-    "name": "PapyrusSkelly",
-    "uuid": "3e50f25d-e257-4b80-b545-ff3fa09945bd"
    },
    {
     "name": "Tristanator7",
@@ -1546,16 +1534,32 @@
    {
     "name": "muffin_man19283",
     "uuid": "5c072047-9be0-4f88-ab73-a2a29b16bc55"
+   },
+   {
+    "name": "jacobmark2003",
+    "uuid": "91fa5ffa-cf25-4273-b9ca-d5dcb8e8ed2e"
+   },
+   {
+    "name": "POVAKAS",
+    "uuid": "56b66590-77cc-46fb-bb4c-2e1cd279e57c"
+   },
+   {
+    "name": "KiraItaHD",
+    "uuid": "79a3ca40-4347-46a9-9d5a-82f3840464ef"
+   },
+   {
+    "name": "Pikapussi",
+    "uuid": "96b154ac-a8c0-4b57-960c-2162828fc867"
+   },
+   {
+    "name": "pokealbi13",
+    "uuid": "298769a9-eb6b-441b-9d51-f37a586babc1"
    }
   ],
   "trusted": [
    {
     "name": "jediknight7491",
     "uuid": "1a321d95-3e98-4518-bdce-fe1f2ee68cd1"
-   },
-   {
-    "name": "Aidan5672",
-    "uuid": "4b7a6191-12b6-4bb4-953f-28f8c89c5001"
    },
    {
     "name": "Zyshia",
@@ -1588,21 +1592,11 @@
     "uuid": "da756925-413f-4954-9063-9e19d1be9017"
    }
   ],
-  "quarters": [
-   {
-    "name": "Welcoming Tenement",
-    "uuid": "709cc2ed-a3db-43fb-8b1a-838a29de0db3"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Aidan5672",
-     "uuid": "4b7a6191-12b6-4bb4-953f-28f8c89c5001"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

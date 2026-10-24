@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Ayon",
   "uuid": "84d25ab1-6463-477b-8569-32accc4448c3",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 414,
-   "maxTownBlocks": 402,
+   "maxTownBlocks": 530,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 31,
+   "nationBonus": 50,
+   "numResidents": 40,
    "numTrusted": 5,
-   "numOutlaws": 13,
-   "balance": 50.0,
+   "numOutlaws": 11,
+   "balance": 55.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1785,10 +1785,6 @@
     "uuid": "0dedc9f4-477e-49b4-97f3-e918e7e33314"
    },
    {
-    "name": "holysmoke2005",
-    "uuid": "09433049-d0b0-4ac4-882d-a84520c2cb33"
-   },
-   {
     "name": "Soleti11",
     "uuid": "3d100b28-ffce-4e4b-b2c1-b3437e2f15f2"
    },
@@ -1799,10 +1795,6 @@
    {
     "name": "chewito_gamer",
     "uuid": "d548e770-e5c0-4b79-bef3-2c9a8324a720"
-   },
-   {
-    "name": "FlashierEagle29",
-    "uuid": "d30a7c69-678a-4742-ad42-07e7311e493d"
    },
    {
     "name": "Kazuto7177",
@@ -1879,6 +1871,50 @@
    {
     "name": "luniyaro",
     "uuid": "047c7b58-9625-48fb-939d-99bc108de5aa"
+   },
+   {
+    "name": "Brumo_",
+    "uuid": "dee6ab83-d9f9-470e-9adf-00be08dc74b7"
+   },
+   {
+    "name": "PearuimWasTaken",
+    "uuid": "eb139ed8-ff7e-4bfd-abae-66169fa7b5d1"
+   },
+   {
+    "name": "PotatoMonk",
+    "uuid": "2b92abd0-29a2-4eda-a46c-fee63d88f4ea"
+   },
+   {
+    "name": "doom_metal1970",
+    "uuid": "c01400ce-67ed-4925-94cf-ed2b0bed0f5d"
+   },
+   {
+    "name": "RteSevdalisi1",
+    "uuid": "f8c76312-56e1-416f-b245-43e65590d653"
+   },
+   {
+    "name": "silverdog2013",
+    "uuid": "40c86889-374e-4f3f-9425-bdd54ffdda15"
+   },
+   {
+    "name": "fox38633",
+    "uuid": "2b503922-f97f-48b5-9ae1-1f0eb6d32c69"
+   },
+   {
+    "name": "GamerboyzRL",
+    "uuid": "ce8f95eb-7bf2-43bb-8c3e-740b6edb54e7"
+   },
+   {
+    "name": "Burnzerker",
+    "uuid": "1c8c278f-3731-4654-89d1-6db95349bcf0"
+   },
+   {
+    "name": "redhiro13",
+    "uuid": "819447bb-1c25-4235-8356-a8029f00ce09"
+   },
+   {
+    "name": "Memerman992",
+    "uuid": "307087b7-73a9-4199-a812-c4b95c9077a5"
    }
   ],
   "trusted": [
@@ -1909,10 +1945,6 @@
     "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
    },
    {
-    "name": "GetBetterPeasant",
-    "uuid": "6ee1d6cf-26d3-4b3c-9368-4f144d4514f2"
-   },
-   {
     "name": "Phann33",
     "uuid": "77f276fa-248b-4f7a-86e2-0abe81cd4e92"
    },
@@ -1931,10 +1963,6 @@
    {
     "name": "Pesetz",
     "uuid": "013b54b8-ad9e-4401-9dea-89ad1555dbc6"
-   },
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    },
    {
     "name": "36hoi",
@@ -2055,10 +2083,6 @@
     "uuid": "3abc1def-ea55-42e7-ad0e-075f8c31ccb3"
    },
    {
-    "name": "Inconvenient Flat",
-    "uuid": "a68733aa-bb06-415f-8001-596a8a164a83"
-   },
-   {
     "name": "Waterside 1",
     "uuid": "6641922f-6991-46fc-899f-08e606d9abdb"
    },
@@ -2171,18 +2195,6 @@
     "uuid": "3cca67be-05e2-4255-9df2-04f063446cc4"
    },
    {
-    "name": "Elegant Residence",
-    "uuid": "a2a987f3-728b-4cec-b630-a682893b1481"
-   },
-   {
-    "name": "Cheerful Property",
-    "uuid": "d18698bc-196e-4fc7-aa7d-b7fade8ab2ae"
-   },
-   {
-    "name": "Inconvenient Dwelling",
-    "uuid": "493a5aa1-dd2f-46a3-83ee-c29260e08069"
-   },
-   {
     "name": "Lovely Suite",
     "uuid": "f649ca2c-1447-493b-b415-829ab0276b5c"
    },
@@ -2221,6 +2233,22 @@
    {
     "name": "Gloomy Quarter",
     "uuid": "da79405e-2ade-40ff-8f33-2d322f7000e6"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "a2a987f3-728b-4cec-b630-a682893b1481"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "a68733aa-bb06-415f-8001-596a8a164a83"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "493a5aa1-dd2f-46a3-83ee-c29260e08069"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "d18698bc-196e-4fc7-aa7d-b7fade8ab2ae"
    }
   ],
   "ranks": {

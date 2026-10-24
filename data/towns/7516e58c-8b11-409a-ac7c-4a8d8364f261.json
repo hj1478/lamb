@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "West_Berlin",
   "uuid": "7516e58c-8b11-409a-ac7c-4a8d8364f261",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1781078566450,
-   "joinedNationAt": 1786775563236,
+   "joinedNationAt": 1792397889733,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 167,
-   "maxTownBlocks": 352,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 21,
-   "numTrusted": 8,
+   "numResidents": 24,
+   "numTrusted": 7,
    "numOutlaws": 7,
-   "balance": 0.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -764,10 +764,6 @@
   },
   "residents": [
    {
-    "name": "crinnyosnova",
-    "uuid": "f490b38c-275f-4197-b9b4-5f9fa2230080"
-   },
-   {
     "name": "Connor201452",
     "uuid": "58148bbb-8cde-4c21-b7c2-eb0ff469537d"
    },
@@ -846,6 +842,22 @@
    {
     "name": "infinite_flame0",
     "uuid": "4bc3ca91-49b1-4314-9cd5-e2bb17740ce7"
+   },
+   {
+    "name": "Enki_Ptah",
+    "uuid": "eef7b565-a508-4d4a-b286-8bf1bf9624fb"
+   },
+   {
+    "name": "Popos6969",
+    "uuid": "1509f6be-c1f9-46e5-a668-0558aea24885"
+   },
+   {
+    "name": "Artemplays",
+    "uuid": "2c03e2e1-3a77-4514-9741-da0f625bf067"
+   },
+   {
+    "name": "godzill412233",
+    "uuid": "5a3d3ed8-089d-4397-960c-d5677234eef1"
    }
   ],
   "trusted": [
@@ -856,10 +868,6 @@
    {
     "name": "Addychi01",
     "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
-   },
-   {
-    "name": "DaantjeBoomer",
-    "uuid": "efb9bacd-2d61-45ba-abeb-627e69f5535c"
    },
    {
     "name": "ArkhamRejects",
@@ -1072,6 +1080,10 @@
    {
     "name": "Stylish Apartment",
     "uuid": "a92cb9c6-b9f7-4947-8151-bce5f6af87ff"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "8957c86b-405c-436a-b3cd-d5a0ab21b6a6"
    }
   ],
   "ranks": {
@@ -1080,24 +1092,16 @@
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "Enki_Ptah",
+     "uuid": "eef7b565-a508-4d4a-b286-8bf1bf9624fb"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Zaids_Shop",
-    "uuid": "8aba578c-8bbe-492c-bb71-7e9c13359f73",
-    "createdAt": 1791542040856,
-    "createdBy": "Addychi01",
-    "access": "NATION",
-    "location": {
-     "x": 4215,
-     "y": 66,
-     "z": -12808
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

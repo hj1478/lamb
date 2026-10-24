@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Kunlun",
   "uuid": "7b434b16-87c9-4b0b-b921-889a5cc7e306",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 76,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 80,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 1,
-   "numOutlaws": 4,
-   "balance": 247.0,
+   "numOutlaws": 6,
+   "balance": 320.0,
    "forSalePrice": null
   },
   "perms": {
@@ -110,6 +110,10 @@
     [
      1825,
      -286
+    ],
+    [
+     1828,
+     -288
     ],
     [
      1825,
@@ -326,6 +330,18 @@
     [
      1826,
      -287
+    ],
+    [
+     1819,
+     -287
+    ],
+    [
+     1819,
+     -286
+    ],
+    [
+     1819,
+     -285
     ],
     [
      1826,
@@ -415,6 +431,10 @@
    {
     "name": "Rowan_SL",
     "uuid": "cca34cef-9ad2-4b54-ad47-d13566cd3019"
+   },
+   {
+    "name": "Mondley19",
+    "uuid": "f4ae82b3-972f-479c-8199-7ac57ebd5eef"
    }
   ],
   "trusted": [
@@ -439,20 +459,48 @@
    {
     "name": "QuakeI",
     "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
+   },
+   {
+    "name": "idan0311",
+    "uuid": "77b31ef0-10cb-4159-8c7e-c97b631c09c4"
+   },
+   {
+    "name": "guozhaoliang",
+    "uuid": "27fdc3f0-1a67-4e95-8644-81b20df9d341"
    }
   ],
   "quarters": [
    {
-    "name": "Dingy Apartment",
-    "uuid": "68bb70f0-853e-49d3-bd53-ed8dce01fdf3"
+    "name": "Stylish Property",
+    "uuid": "e154d4c5-1d29-41fb-b358-8198f6d224e5"
    },
    {
     "name": "Stylish Suite",
     "uuid": "85179277-51f4-4666-9817-6c12926a22be"
    },
    {
-    "name": "Stylish Property",
-    "uuid": "e154d4c5-1d29-41fb-b358-8198f6d224e5"
+    "name": "Dingy Apartment",
+    "uuid": "68bb70f0-853e-49d3-bd53-ed8dce01fdf3"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "811e16a8-6df7-420d-bfc0-87d31a247349"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "d63bc61e-3a4a-4fbb-9fc7-77a120f2110c"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "de20d3de-3692-4cc8-aaf8-c50c19f4d38d"
+   },
+   {
+    "name": "Perturbing Residence",
+    "uuid": "009f65ef-cacc-489e-88de-3f19197a0584"
+   },
+   {
+    "name": "Inviting Flat",
+    "uuid": "8765ddab-afd5-47a8-a2d5-e808fe58cdb1"
    }
   ],
   "ranks": {

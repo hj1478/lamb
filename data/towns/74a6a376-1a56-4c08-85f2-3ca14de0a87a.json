@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Mackinaw_City",
   "uuid": "74a6a376-1a56-4c08-85f2-3ca14de0a87a",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
+   "numTownBlocks": 16,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 5.0,
+   "numTrusted": 1,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,8 +96,16 @@
      -605
     ],
     [
+     -1898,
+     -604
+    ],
+    [
      -1899,
      -602
+    ],
+    [
+     -1898,
+     -603
     ],
     [
      -1899,
@@ -108,8 +116,8 @@
      -604
     ],
     [
-     -1901,
-     -603
+     -1898,
+     -605
     ],
     [
      -1900,
@@ -118,10 +126,6 @@
     [
      -1900,
      -603
-    ],
-    [
-     -1901,
-     -604
     ],
     [
      -1900,
@@ -130,6 +134,26 @@
     [
      -1900,
      -605
+    ],
+    [
+     -1902,
+     -604
+    ],
+    [
+     -1901,
+     -603
+    ],
+    [
+     -1901,
+     -602
+    ],
+    [
+     -1901,
+     -605
+    ],
+    [
+     -1901,
+     -604
     ]
    ],
    "worlds": {}
@@ -140,7 +164,12 @@
     "uuid": "a85b5327-51b6-412b-b505-0ce6b30331ef"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "LarryWaiter",
+    "uuid": "d40bbde6-24b7-47b0-b920-e1fa4e7845e7"
+   }
+  ],
   "outlaws": [
    {
     "name": "MalMeteor",
@@ -149,10 +178,6 @@
    {
     "name": "xtapodi_",
     "uuid": "b84f91b7-efd6-43db-b926-d9a362456ca9"
-   },
-   {
-    "name": "Zombot3000",
-    "uuid": "cb8866a3-242c-4d6a-a790-c6f27895acea"
    }
   ],
   "quarters": [],

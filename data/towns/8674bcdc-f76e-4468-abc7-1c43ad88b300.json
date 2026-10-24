@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Seoul",
   "uuid": "8674bcdc-f76e-4468-abc7-1c43ad88b300",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 379,
-   "maxTownBlocks": 236,
+   "maxTownBlocks": 200,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
+   "numResidents": 10,
    "numTrusted": 6,
-   "numOutlaws": 5,
-   "balance": 51.0,
+   "numOutlaws": 4,
+   "balance": 44.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1612,6 +1612,10 @@
   },
   "residents": [
    {
+    "name": "_NightShqde",
+    "uuid": "8fd535ea-03fd-410b-a9a3-575f503c2ef5"
+   },
+   {
     "name": "C_AVE",
     "uuid": "7601ac44-b36b-4c75-aa15-b650f40bd614"
    },
@@ -1620,28 +1624,12 @@
     "uuid": "bf486fa4-9354-49fb-b445-1a4fcba150ba"
    },
    {
-    "name": "xgzuiw",
-    "uuid": "fcf5d071-69e4-41b2-9e91-941355112c8d"
-   },
-   {
     "name": "hanseouloh",
     "uuid": "8f441890-5a5a-4a4a-a8b9-ec0848bfbba9"
    },
    {
-    "name": "LMV_LIT",
-    "uuid": "eb62c859-ed92-48d2-8f2a-f7d116ac9a5a"
-   },
-   {
-    "name": "koreadream1007",
-    "uuid": "c5defc89-577f-4549-b0a9-ec44434a557f"
-   },
-   {
     "name": "G_Eraser_G",
     "uuid": "301e7f28-fffc-43ef-a90e-66c313bcb070"
-   },
-   {
-    "name": "Pingoicecream",
-    "uuid": "ea9c36b1-0e82-4267-9cc9-941d73545727"
    },
    {
     "name": "Lucyfering",
@@ -1692,10 +1680,6 @@
   ],
   "outlaws": [
    {
-    "name": "_srtk",
-    "uuid": "53f2df19-f156-4c93-8e14-538fec260c1c"
-   },
-   {
     "name": "sungjin89",
     "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
    },
@@ -1714,10 +1698,6 @@
   ],
   "quarters": [
    {
-    "name": "Seoul Storage Facility A",
-    "uuid": "0a0a685c-6bc0-4109-8b96-3af51cde22c3"
-   },
-   {
     "name": "Elegant Suite",
     "uuid": "05e3bbc8-3719-4c13-808d-f0d5a04f08d2"
    },
@@ -1728,6 +1708,10 @@
    {
     "name": "Seoul Drop-off Point",
     "uuid": "88080c8b-fe0c-456d-9616-7aef1e251935"
+   },
+   {
+    "name": "Seoul Storage Facility A",
+    "uuid": "0a0a685c-6bc0-4109-8b96-3af51cde22c3"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Bananis",
   "uuid": "8f36ffe4-2472-4217-8e52-44adc994c743",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 5,
    "balance": 0.0,
    "forSalePrice": null
@@ -422,9 +422,18 @@
    {
     "name": "DragonBigBoss10",
     "uuid": "e989564a-a7f6-4973-816d-466cfce686aa"
+   },
+   {
+    "name": "Dragos1703",
+    "uuid": "32446d45-7aab-4b75-aed5-f5a6af21d86b"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Dragos1703",
+    "uuid": "32446d45-7aab-4b75-aed5-f5a6af21d86b"
+   }
+  ],
   "outlaws": [
    {
     "name": "MalMeteor",
@@ -449,7 +458,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Dragos1703",
+     "uuid": "32446d45-7aab-4b75-aed5-f5a6af21d86b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

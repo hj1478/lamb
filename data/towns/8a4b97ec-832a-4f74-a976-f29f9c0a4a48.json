@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Tongling",
   "uuid": "8a4b97ec-832a-4f74-a976-f29f9c0a4a48",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 8,
+   "numResidents": 1,
+   "numTrusted": 7,
    "numOutlaws": 0,
    "balance": 7.0,
    "forSalePrice": null
@@ -582,10 +582,6 @@
    {
     "name": "CoffeeDark",
     "uuid": "d52d9f66-1216-4194-89fb-382664d71981"
-   },
-   {
-    "name": "violenceqs",
-    "uuid": "4bbd1d61-11c2-41cc-a59a-cbf16f6b9948"
    }
   ],
   "trusted": [
@@ -610,10 +606,6 @@
     "uuid": "2d1858f5-f164-41c7-9186-2a0253b4a726"
    },
    {
-    "name": "violenceqs",
-    "uuid": "4bbd1d61-11c2-41cc-a59a-cbf16f6b9948"
-   },
-   {
     "name": "K__a__i",
     "uuid": "a12ae20e-ef49-465d-bd60-0b4234442c49"
    },
@@ -625,12 +617,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "violenceqs",
-     "uuid": "4bbd1d61-11c2-41cc-a59a-cbf16f6b9948"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

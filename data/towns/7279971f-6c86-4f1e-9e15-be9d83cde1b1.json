@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Sizhou",
   "uuid": "7279971f-6c86-4f1e-9e15-be9d83cde1b1",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42460.544372057906,
-    "y": 64.0,
-    "z": -4181.543799595249,
-    "pitch": -23.338652,
-    "yaw": 68.30127
+    "x": 42406.494929810964,
+    "y": 65.0,
+    "z": -4146.579582746509,
+    "pitch": -1.3499693,
+    "yaw": -2.1503906
    },
    "homeBlock": [
-    2653,
-    -262
+    2650,
+    -260
    ],
    "townBlocks": [
     [
@@ -404,7 +404,24 @@
     "uuid": "36e99709-4457-4194-b733-cbea50356fdf"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ji_mo",
+    "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+   },
+   {
+    "name": "New_year_eve",
+    "uuid": "2d1858f5-f164-41c7-9186-2a0253b4a726"
+   },
+   {
+    "name": "Venti3",
+    "uuid": "911e9f55-36c7-4925-8032-5261d17ef04f"
+   },
+   {
+    "name": "Alan_yy",
+    "uuid": "268fcdab-21e2-4a6f-8dff-dac0dc7a60a1"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

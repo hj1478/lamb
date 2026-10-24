@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Liberia",
   "uuid": "70617253-592f-4b01-91c0-14a6a50ac0b3",
@@ -24,7 +24,7 @@
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 65,
-   "maxTownBlocks": 144,
+   "numTownBlocks": 70,
+   "maxTownBlocks": 214,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 12,
-   "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 2642.0,
+   "nationBonus": 10,
+   "numResidents": 17,
+   "numTrusted": 3,
+   "numOutlaws": 4,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30715.87738940371,
+    "x": -30716.69999998808,
     "y": 86.0,
-    "z": 3438.9385556396614,
-    "pitch": 22.350002,
-    "yaw": -93.31134
+    "z": 3440.5656653655274,
+    "pitch": 6.273656,
+    "yaw": -92.349884
    },
    "homeBlock": [
     -1920,
-    214
+    215
    ],
    "townBlocks": [
     [
@@ -212,12 +212,20 @@
      219
     ],
     [
+     -1926,
+     213
+    ],
+    [
      -1924,
      213
     ],
     [
      -1922,
      218
+    ],
+    [
+     -1926,
+     214
     ],
     [
      -1924,
@@ -256,8 +264,20 @@
      214
     ],
     [
+     -1920,
+     220
+    ],
+    [
+     -1919,
+     221
+    ],
+    [
      -1922,
      213
+    ],
+    [
+     -1920,
+     221
     ],
     [
      -1919,
@@ -368,10 +388,6 @@
     "uuid": "4d376ffc-5958-4c61-99e5-3cde4472593e"
    },
    {
-    "name": "Mr_Rookie",
-    "uuid": "4c5b1c24-b2ed-4dd8-bf1f-5a8ff659c01c"
-   },
-   {
     "name": "alakay104",
     "uuid": "1a5936e6-3e3a-4a0a-afa7-1c0435a4cacb"
    },
@@ -402,9 +418,37 @@
    {
     "name": "Axein1",
     "uuid": "29665af0-f06c-45ed-9bfb-7649b9bb5dc0"
+   },
+   {
+    "name": "Thomasre01",
+    "uuid": "4a46c7e4-05aa-403a-bc84-c874bcb6c4ec"
+   },
+   {
+    "name": "LukasKung",
+    "uuid": "51a9e998-f42c-43f8-9530-6922444f2cef"
+   },
+   {
+    "name": "jprodriguezb",
+    "uuid": "db1dac57-cfac-45c0-826e-eba084517d29"
+   },
+   {
+    "name": "iLoveCheezit",
+    "uuid": "a28b113e-0fb6-44e3-8055-29260ca7db06"
+   },
+   {
+    "name": "owlermanegod",
+    "uuid": "1bd17bcf-d47f-4df5-be9e-d232847e380a"
+   },
+   {
+    "name": "Etcoinw",
+    "uuid": "e56ac8d4-5379-49d0-a4da-c8a08a282570"
    }
   ],
   "trusted": [
+   {
+    "name": "HUGE_STINKER_",
+    "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
+   },
    {
     "name": "deesnots",
     "uuid": "3970ec26-f229-45b9-930a-62a55fa25b92"
@@ -422,16 +466,19 @@
    {
     "name": "Rubin808",
     "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   },
+   {
+    "name": "cypherblade_",
+    "uuid": "e12d51bd-4e11-441c-93b7-fca0ba4a69a7"
+   },
+   {
+    "name": "OnyR_IC",
+    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
    }
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Mr_Rookie",
-     "uuid": "4c5b1c24-b2ed-4dd8-bf1f-5a8ff659c01c"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

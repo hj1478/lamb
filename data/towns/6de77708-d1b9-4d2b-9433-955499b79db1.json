@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Novara",
   "uuid": "6de77708-d1b9-4d2b-9433-955499b79db1",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 5,
-   "numTrusted": 8,
+   "numTrusted": 9,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -580,6 +580,10 @@
    {
     "name": "SlipperySalmon14",
     "uuid": "f52739e0-bcbf-4376-b280-029af790bab3"
+   },
+   {
+    "name": "BugsBunny8907",
+    "uuid": "f35221e4-9317-4f23-887b-78347571215b"
    },
    {
     "name": "MythFlash2792",

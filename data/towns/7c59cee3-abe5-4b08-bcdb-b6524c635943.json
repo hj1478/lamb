@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Nihao",
   "uuid": "7c59cee3-abe5-4b08-bcdb-b6524c635943",
@@ -31,18 +31,18 @@
    "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
-   "hasSnowAccumulation": false,
+   "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 5,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 311.0,
+   "balance": 276.0,
    "forSalePrice": null
   },
   "perms": {
@@ -502,12 +502,20 @@
   ],
   "trusted": [
    {
+    "name": "Panomii",
+    "uuid": "ee456011-bd77-4afd-8b35-203f9590bf84"
+   },
+   {
     "name": "Uberstrase",
     "uuid": "fff1c1e2-842c-44bf-981d-32d9ca9bff5e"
    },
    {
     "name": "MikeyDuBois",
     "uuid": "70df8677-1b84-4fd5-8a01-dbdec8b79732"
+   },
+   {
+    "name": "Xixios",
+    "uuid": "a9939e35-eee1-488d-8c03-f2b0c79c7691"
    },
    {
     "name": "MP_242354",
@@ -520,6 +528,10 @@
    {
     "name": "Lumpeeh",
     "uuid": "a03f71f9-625e-419f-9d16-0e5ab50414e4"
+   },
+   {
+    "name": "nyahlist",
+    "uuid": "caa2a69d-c7c8-4b8b-bef9-3ba5d63e3dc3"
    }
   ],
   "outlaws": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Istra",
   "uuid": "880f7716-5534-4e0c-9891-eca5b233c678",
-  "board": "Slava Jugoslaviji!",
+  "board": "Slava Ragusi!",
   "founder": "The_Red_Empir",
   "wiki": null,
   "discord": null,
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1776566416255,
-   "joinedNationAt": 1788697784976,
+   "joinedNationAt": 1792609178124,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 220,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 7,
-   "numTrusted": 4,
+   "numResidents": 8,
+   "numTrusted": 5,
    "numOutlaws": 11,
-   "balance": 296.0,
+   "balance": 574.0,
    "forSalePrice": null
   },
   "perms": {
@@ -981,10 +981,6 @@
   },
   "residents": [
    {
-    "name": "TheDalmatian1",
-    "uuid": "bd23bda0-8c04-4829-aec9-94239909266b"
-   },
-   {
     "name": "Mar1o1o",
     "uuid": "6651c092-5896-40a0-9b64-69e449ff9d63"
    },
@@ -1005,8 +1001,16 @@
     "uuid": "114ac9bc-5833-464d-ae41-bb5f6329fe04"
    },
    {
-    "name": "jonasjugoslav",
-    "uuid": "59a690fe-fd24-40c8-bb09-cf2e62129220"
+    "name": "ttosV2",
+    "uuid": "917f4ed8-3270-4cc2-9969-d2e977cfc886"
+   },
+   {
+    "name": "Bluemush_S",
+    "uuid": "b37ecbd1-a107-4b57-8ea8-1b7e5bb265cd"
+   },
+   {
+    "name": "TheDalmatian1",
+    "uuid": "bd23bda0-8c04-4829-aec9-94239909266b"
    }
   ],
   "trusted": [
@@ -1023,15 +1027,15 @@
     "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
    },
    {
-    "name": "Amitile",
-    "uuid": "f350aa45-e037-4917-a859-b7779d58990e"
+    "name": "TheDalmatian1",
+    "uuid": "bd23bda0-8c04-4829-aec9-94239909266b"
+   },
+   {
+    "name": "TpGlemuX",
+    "uuid": "88d4d1e7-6212-4e61-a033-7deb80c585f3"
    }
   ],
   "outlaws": [
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
    {
     "name": "Khelium",
     "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
@@ -1071,13 +1075,13 @@
    {
     "name": "Zecke2083",
     "uuid": "11d6815f-281b-4e0e-b2c3-a32294e39bd4"
+   },
+   {
+    "name": "danfhjk137N",
+    "uuid": "1a2612bb-9b43-4c99-89fa-57d4ab0ab87d"
    }
   ],
   "quarters": [
-   {
-    "name": "Mayor's office",
-    "uuid": "3c282bce-41b1-4ace-888f-7b103fcf405f"
-   },
    {
     "name": "Library",
     "uuid": "87608bf2-0a63-4291-96c1-67eee4c66c92"
@@ -1101,6 +1105,10 @@
    {
     "name": "Garden",
     "uuid": "1dfc7de7-606d-4505-9489-586206108a67"
+   },
+   {
+    "name": "Mayor's office",
+    "uuid": "3c282bce-41b1-4ace-888f-7b103fcf405f"
    },
    {
     "name": "Attic",

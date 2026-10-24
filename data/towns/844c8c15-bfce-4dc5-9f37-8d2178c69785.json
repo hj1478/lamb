@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Benwood",
   "uuid": "844c8c15-bfce-4dc5-9f37-8d2178c69785",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 37.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,8 +92,92 @@
    ],
    "townBlocks": [
     [
+     -1804,
+     -437
+    ],
+    [
+     -1808,
+     -440
+    ],
+    [
+     -1804,
+     -436
+    ],
+    [
+     -1808,
+     -439
+    ],
+    [
+     -1804,
+     -439
+    ],
+    [
+     -1808,
+     -438
+    ],
+    [
+     -1804,
+     -438
+    ],
+    [
+     -1808,
+     -437
+    ],
+    [
+     -1809,
+     -436
+    ],
+    [
+     -1808,
+     -436
+    ],
+    [
+     -1809,
+     -435
+    ],
+    [
+     -1808,
+     -435
+    ],
+    [
+     -1808,
+     -434
+    ],
+    [
+     -1804,
+     -440
+    ],
+    [
+     -1807,
+     -440
+    ],
+    [
+     -1807,
+     -437
+    ],
+    [
+     -1807,
+     -436
+    ],
+    [
+     -1807,
+     -439
+    ],
+    [
+     -1807,
+     -438
+    ],
+    [
+     -1806,
+     -440
+    ],
+    [
      -1806,
      -439
+    ],
+    [
+     -1807,
+     -435
     ],
     [
      -1806,
@@ -108,20 +192,28 @@
      -436
     ],
     [
-     -1807,
-     -437
+     -1806,
+     -435
     ],
     [
-     -1807,
+     -1805,
      -436
     ],
     [
-     -1807,
+     -1805,
+     -437
+    ],
+    [
+     -1805,
+     -438
+    ],
+    [
+     -1805,
      -439
     ],
     [
-     -1807,
-     -438
+     -1805,
+     -440
     ]
    ],
    "worlds": {}
@@ -130,6 +222,10 @@
    {
     "name": "Shweebie_Shiro",
     "uuid": "34687b35-4589-40b6-ad70-8b7086a8a6b4"
+   },
+   {
+    "name": "Tororii",
+    "uuid": "4178adef-a62d-414e-b34e-066a9661feaf"
    }
   ],
   "trusted": [],
@@ -137,7 +233,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Tororii",
+     "uuid": "4178adef-a62d-414e-b34e-066a9661feaf"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

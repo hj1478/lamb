@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-10-24T11:13:43Z",
+ "data": {
+  "name": "Charkov",
+  "uuid": "08cdc399-4aa1-488a-a73a-0e6bd1df619d",
+  "board": "/town set board [msg]",
+  "founder": "conmancjm12",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "conmancjm12",
+   "uuid": "a5d09f25-1bb3-42d7-823b-ac2371b19a5f"
+  },
+  "nation": {
+   "name": "Ukraine",
+   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
+  },
+  "timestamps": {
+   "registered": 1792790759618,
+   "joinedNationAt": 1792790773189,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 104,
+   "bonusBlocks": 0,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 13082.228623076693,
+    "y": 63.0,
+    "z": -11382.706587900293,
+    "pitch": 8.84994,
+    "yaw": 2.540802
+   },
+   "homeBlock": [
+    817,
+    -712
+   ],
+   "townBlocks": [
+    [
+     817,
+     -712
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "conmancjm12",
+    "uuid": "a5d09f25-1bb3-42d7-823b-ac2371b19a5f"
+   },
+   {
+    "name": "Eusoik",
+    "uuid": "61e28cfd-11a5-427b-b377-414d620501ee"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "Eusoik",
+     "uuid": "61e28cfd-11a5-427b-b377-414d620501ee"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

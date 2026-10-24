@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "AGALAR",
   "uuid": "8834b0d3-a853-4294-b3ec-5e99bea419a4",
@@ -12,12 +12,12 @@
    "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
    "registered": 1792341894913,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792838553803,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,27 +92,57 @@
    ],
    "townBlocks": [
     [
+     883,
+     -469
+    ],
+    [
+     883,
+     -470
+    ],
+    [
      884,
      -468
+    ],
+    [
+     883,
+     -468
+    ],
+    [
+     884,
+     -469
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "idobabo",
-    "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
-   },
-   {
     "name": "Eymen6116",
     "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
+   },
+   {
+    "name": "Itzygz0636",
+    "uuid": "669b7d1b-8ae3-49a0-8f59-f18d603730a1"
+   },
+   {
+    "name": "idobabo",
+    "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ArdaTe_",
+    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Itzygz0636",
+     "uuid": "669b7d1b-8ae3-49a0-8f59-f18d603730a1"
+    }
+   ],
    "Builder": [
     {
      "name": "Eymen6116",

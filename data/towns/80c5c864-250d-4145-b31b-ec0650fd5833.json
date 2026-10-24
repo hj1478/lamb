@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "HAN",
   "uuid": "80c5c864-250d-4145-b31b-ec0650fd5833",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Bruhannn",
-   "uuid": "34e7ac65-8a34-461d-a679-56401da6e6e0"
+   "name": "NPC28",
+   "uuid": "b28d5e5f-5549-20ed-ad34-7e3caf5225cd"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1783679814245,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792576802147
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "Bruhannn",
-    "uuid": "34e7ac65-8a34-461d-a679-56401da6e6e0"
+    "name": "NPC28",
+    "uuid": "b28d5e5f-5549-20ed-ad34-7e3caf5225cd"
    }
   ],
   "trusted": [],
@@ -129,23 +129,13 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Bruhannn",
-     "uuid": "34e7ac65-8a34-461d-a679-56401da6e6e0"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "Bruhannn",
-     "uuid": "34e7ac65-8a34-461d-a679-56401da6e6e0"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

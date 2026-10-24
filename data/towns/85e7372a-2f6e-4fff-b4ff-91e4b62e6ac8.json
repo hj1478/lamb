@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Subzero",
   "uuid": "85e7372a-2f6e-4fff-b4ff-91e4b62e6ac8",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 65,
-   "maxTownBlocks": 162,
+   "maxTownBlocks": 158,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 11,
+   "nationBonus": 50,
+   "numResidents": 9,
    "numTrusted": 6,
    "numOutlaws": 7,
-   "balance": 26.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -376,10 +376,6 @@
     "uuid": "779e27a5-1891-4834-9bce-8e94bb9319d7"
    },
    {
-    "name": "Embryolody",
-    "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
-   },
-   {
     "name": "Atat10000",
     "uuid": "671a9eaa-1fc9-4461-8d5b-8536434444cf"
    },
@@ -394,10 +390,6 @@
    {
     "name": "Aodin17777",
     "uuid": "ba1c1915-d6c2-47c8-8c94-4f3df57cab22"
-   },
-   {
-    "name": "AmethysttMC",
-    "uuid": "c4edfcd2-1143-4a93-9ee1-26435fad06d7"
    }
   ],
   "trusted": [
@@ -474,10 +466,6 @@
     "uuid": "8502835e-2065-4881-88b2-744bf1d09505"
    },
    {
-    "name": "Gloomy Dwelling",
-    "uuid": "edd60654-6cf4-4e2c-b3e4-177d3ec13058"
-   },
-   {
     "name": "Perturbing Dwelling",
     "uuid": "f0dec1df-3766-4e05-abbb-a82959735386"
    },
@@ -496,10 +484,6 @@
    {
     "name": "Enraging Suite",
     "uuid": "16b455ff-b316-40b2-b2e5-de3ec2126952"
-   },
-   {
-    "name": "Inviting Tenement",
-    "uuid": "4626a806-7cf6-4e85-8628-a21fe8f6cc0c"
    },
    {
     "name": "Upbeat Flat",
@@ -524,6 +508,14 @@
    {
     "name": "Inconvenient Tenement",
     "uuid": "afe371c8-5ea5-477d-b12f-f13f1678e874"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "edd60654-6cf4-4e2c-b3e4-177d3ec13058"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "4626a806-7cf6-4e85-8628-a21fe8f6cc0c"
    }
   ],
   "ranks": {
@@ -537,43 +529,14 @@
     {
      "name": "extreme_quokka_1",
      "uuid": "83075be3-7e18-4269-9290-ae7faeabdcd3"
-    },
-    {
-     "name": "Embryolody",
-     "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "Embryolody",
-     "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
-    }
-   ],
-   "Police": [
-    {
-     "name": "Embryolody",
-     "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Embryolody",
-     "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
-    }
-   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [
-    {
-     "name": "Embryolody",
-     "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Embryolody",
-     "uuid": "7eedb991-1216-4db7-ac6a-bb3b188a944a"
-    }
-   ]
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

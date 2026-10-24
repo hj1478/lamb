@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Aktau",
   "uuid": "785767fa-abca-4567-9a3a-ee50613bc5b4",
-  "board": "Kazakhstan is back greater than ever",
+  "board": "Aktau the Bastion of Kazakhstan",
   "founder": "ema_problema",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 103,
+   "numTownBlocks": 113,
    "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 5,
-   "numTrusted": 2,
-   "numOutlaws": 3,
+   "numTrusted": 1,
+   "numOutlaws": 2,
    "balance": 11.0,
    "forSalePrice": null
   },
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      1155,
+     -537
+    ],
+    [
+     1155,
+     -538
+    ],
+    [
+     1155,
      -532
     ],
     [
@@ -104,8 +112,20 @@
      -534
     ],
     [
+     1155,
+     -535
+    ],
+    [
+     1155,
+     -536
+    ],
+    [
      1153,
      -537
+    ],
+    [
+     1154,
+     -538
     ],
     [
      1153,
@@ -162,6 +182,10 @@
     [
      1153,
      -534
+    ],
+    [
+     1154,
+     -537
     ],
     [
      1153,
@@ -496,8 +520,24 @@
      -545
     ],
     [
+     1156,
+     -537
+    ],
+    [
+     1156,
+     -536
+    ],
+    [
      1152,
      -547
+    ],
+    [
+     1156,
+     -535
+    ],
+    [
+     1156,
+     -534
     ],
     [
      1156,
@@ -530,19 +570,11 @@
   ],
   "trusted": [
    {
-    "name": "geogrqphy",
-    "uuid": "dee802d2-a32b-4f53-b629-563e49304ad6"
-   },
-   {
     "name": "RandomGuy_404",
     "uuid": "4b77977f-f7dc-4138-9115-24134aa540f5"
    }
   ],
   "outlaws": [
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
    {
     "name": "BrennanW1",
     "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
@@ -676,6 +708,30 @@
    {
     "name": "Upbeat Apartment",
     "uuid": "61f94cd8-6d8b-433b-950e-48bd0096992a"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "19b49000-8842-466c-bf4e-99e2aed67c44"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "73770f0b-1118-4757-a5cf-8c0f04aebc76"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "a10287ed-0410-4a9d-857d-ab4c86923f64"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "d3955d77-8f6d-4b69-9101-34f0f1714181"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "be65e824-fcb5-419f-a058-550d843632fe"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "36c96dc1-430d-41e0-8637-92c46938cb9c"
    }
   ],
   "ranks": {

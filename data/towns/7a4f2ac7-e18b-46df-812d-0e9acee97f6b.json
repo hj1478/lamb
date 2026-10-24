@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Lizard_Point",
   "uuid": "7a4f2ac7-e18b-46df-812d-0e9acee97f6b",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 110.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1773.3918591253114,
-    "y": 50.0,
-    "z": -11784.458314444995,
-    "pitch": 35.529182,
-    "yaw": 90.44481
+    "x": -1792.463405646936,
+    "y": 50.0625,
+    "z": -11766.58077000709,
+    "pitch": 2.550096,
+    "yaw": -90.60458
    },
    "homeBlock": [
-    -111,
-    -737
+    -113,
+    -736
    ],
    "townBlocks": [
     [
@@ -582,9 +582,17 @@
    {
     "name": "GeeDaisy29",
     "uuid": "9515caa8-7e4b-42db-99d7-c335e014e203"
+   },
+   {
+    "name": "rambo27100",
+    "uuid": "811f2c45-ff3f-4f24-87b5-ede65b03b0d1"
    }
   ],
   "trusted": [
+   {
+    "name": "rambo27100",
+    "uuid": "811f2c45-ff3f-4f24-87b5-ede65b03b0d1"
+   },
    {
     "name": "GeeDaisy29",
     "uuid": "9515caa8-7e4b-42db-99d7-c335e014e203"
@@ -596,8 +604,8 @@
     "uuid": "fef1a006-7b40-4561-8f15-fc9a166c3a9a"
    },
    {
-    "name": "Gooseguy1934",
-    "uuid": "8fb2cff8-e070-461c-898e-0ac914349937"
+    "name": "Fallen12_",
+    "uuid": "a89f197f-3864-49b0-90a5-ed14b7d103d5"
    }
   ],
   "quarters": [
@@ -627,6 +635,10 @@
     {
      "name": "GeeDaisy29",
      "uuid": "9515caa8-7e4b-42db-99d7-c335e014e203"
+    },
+    {
+     "name": "rambo27100",
+     "uuid": "811f2c45-ff3f-4f24-87b5-ede65b03b0d1"
     }
    ],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Mantiqueira",
   "uuid": "8112a334-4d06-4f9d-8905-bf6bf21aa9c8",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,30 @@
    ],
    "townBlocks": [
     [
+     -1005,
+     1010
+    ],
+    [
+     -1008,
+     1011
+    ],
+    [
+     -1005,
+     1009
+    ],
+    [
+     -1008,
+     1012
+    ],
+    [
+     -1005,
+     1011
+    ],
+    [
+     -1006,
+     1012
+    ],
+    [
      -1006,
      1009
     ],
@@ -100,16 +124,12 @@
      1011
     ],
     [
-     -1005,
-     1010
-    ],
-    [
      -1006,
      1010
     ],
     [
-     -1005,
-     1011
+     -1007,
+     1012
     ],
     [
      -1007,
@@ -118,6 +138,14 @@
     [
      -1007,
      1011
+    ],
+    [
+     -1008,
+     1010
+    ],
+    [
+     -1007,
+     1009
     ]
    ],
    "worlds": {}
@@ -130,6 +158,18 @@
    {
     "name": "op_Gaby_124",
     "uuid": "3f171758-18a3-46ba-af92-e72cb9a12e9a"
+   },
+   {
+    "name": "PedrinhoLukaz",
+    "uuid": "72275143-d449-4bcf-a86f-c4148ba38c32"
+   },
+   {
+    "name": "jvsigma2014",
+    "uuid": "d821c1de-6563-4e5c-b323-400cd4f9904f"
+   },
+   {
+    "name": "PS_GOAT",
+    "uuid": "e5658c88-5459-4252-aa39-d809add532a7"
    }
   ],
   "trusted": [],
@@ -142,7 +182,20 @@
      "uuid": "3f171758-18a3-46ba-af92-e72cb9a12e9a"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "PedrinhoLukaz",
+     "uuid": "72275143-d449-4bcf-a86f-c4148ba38c32"
+    },
+    {
+     "name": "jvsigma2014",
+     "uuid": "d821c1de-6563-4e5c-b323-400cd4f9904f"
+    },
+    {
+     "name": "PS_GOAT",
+     "uuid": "e5658c88-5459-4252-aa39-d809add532a7"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

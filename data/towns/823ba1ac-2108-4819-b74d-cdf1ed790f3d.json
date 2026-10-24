@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Detroit",
   "uuid": "823ba1ac-2108-4819-b74d-cdf1ed790f3d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheeHawaiian",
-   "uuid": "c08a9753-f854-4b23-940c-40a05f4feee4"
+   "name": "Yoshikaga_Kira1",
+   "uuid": "bc8874ca-9ba8-41eb-bb5f-1f01a8586dc4"
   },
   "nation": {
    "name": "America",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 3,
    "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -576,12 +576,8 @@
   },
   "residents": [
    {
-    "name": "TheeHawaiian",
-    "uuid": "c08a9753-f854-4b23-940c-40a05f4feee4"
-   },
-   {
-    "name": "CapitalistLord",
-    "uuid": "6679a702-9f66-4533-a610-99f74409719e"
+    "name": "Yoshikaga_Kira1",
+    "uuid": "bc8874ca-9ba8-41eb-bb5f-1f01a8586dc4"
    },
    {
     "name": "swisscheese1456",
@@ -602,16 +598,16 @@
     "uuid": "dc21f416-2678-4579-afe1-782abe7e9c6b"
    },
    {
+    "name": "TheeHawaiian",
+    "uuid": "c08a9753-f854-4b23-940c-40a05f4feee4"
+   },
+   {
     "name": "Flippizzacake",
     "uuid": "cb49d0c3-0149-4287-a7f1-9d84f4c822f3"
    },
    {
     "name": "CruxyMC",
     "uuid": "5800fc63-db7c-4607-b150-6b356ba66f76"
-   },
-   {
-    "name": "CapitalistLord",
-    "uuid": "6679a702-9f66-4533-a610-99f74409719e"
    }
   ],
   "outlaws": [],
@@ -622,7 +618,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Yoshikaga_Kira1",
+     "uuid": "bc8874ca-9ba8-41eb-bb5f-1f01a8586dc4"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

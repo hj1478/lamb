@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Quebec",
   "uuid": "78044414-7d22-4fb0-adc7-4a34c42e2f68",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 7,
-   "numTrusted": 6,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 23.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27527.30432365938,
-    "y": 51.0,
-    "z": -16709.510086663762,
-    "pitch": 14.849857,
-    "yaw": 91.1391
+    "x": -27648.03950499461,
+    "y": 41.0,
+    "z": -16767.989287599125,
+    "pitch": -0.14999497,
+    "yaw": 0.08908746
    },
    "homeBlock": [
-    -1721,
-    -1045
+    -1729,
+    -1048
    ],
    "townBlocks": [
     [
@@ -1118,28 +1118,12 @@
   ],
   "trusted": [
    {
-    "name": "F1rret",
-    "uuid": "5c54bf0a-9468-4991-a37c-81a577e91105"
-   },
-   {
     "name": "llWmfdll",
     "uuid": "c385edac-cd55-4d02-bb8d-175210bbc693"
    },
    {
-    "name": "Fedrer",
-    "uuid": "3aef3d29-f6a3-49e5-a2b6-b0bcbb3a428a"
-   },
-   {
-    "name": "PieTheHead",
-    "uuid": "c2af6d17-68e5-41fe-bf2e-7f9e04cc3c72"
-   },
-   {
     "name": "L1nks_",
     "uuid": "7920697a-05a6-4f88-a4e3-2183fbb32e39"
-   },
-   {
-    "name": "memexcx",
-    "uuid": "6388c81e-b68c-4ebe-84a1-603a3b280ee8"
    }
   ],
   "outlaws": [],

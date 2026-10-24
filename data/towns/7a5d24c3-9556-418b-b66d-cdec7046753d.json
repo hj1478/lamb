@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Al_Ashkharah",
   "uuid": "7a5d24c3-9556-418b-b66d-cdec7046753d",
@@ -12,12 +12,12 @@
    "uuid": "f764db74-b454-4658-9673-f148783fb2f1"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arabia",
+   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
   },
   "timestamps": {
    "registered": 1792206931316,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792426979162,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,44 @@
    ],
    "townBlocks": [
     [
+     1331,
+     2
+    ],
+    [
+     1331,
+     4
+    ],
+    [
+     1331,
+     3
+    ],
+    [
      1333,
      3
     ],
     [
+     1330,
+     2
+    ],
+    [
      1332,
      3
+    ],
+    [
+     1332,
+     2
+    ],
+    [
+     1332,
+     4
+    ],
+    [
+     1330,
+     3
+    ],
+    [
+     1330,
+     4
     ]
    ],
    "worlds": {}
@@ -108,7 +140,12 @@
     "uuid": "f764db74-b454-4658-9673-f148783fb2f1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "bcause_im_batman",
+    "uuid": "ad2f20b8-abe5-43f7-8a80-1766b957c712"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

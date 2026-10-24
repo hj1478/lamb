@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "The_Eye",
   "uuid": "82f8800e-e5f4-4ba5-a3fe-61ee4ee4ea7e",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 95,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 4,
-   "numTrusted": 6,
-   "numOutlaws": 8,
+   "nationBonus": 50,
+   "numResidents": 2,
+   "numTrusted": 3,
+   "numOutlaws": 7,
    "balance": 64.0,
    "forSalePrice": null
   },
@@ -480,14 +480,6 @@
     "uuid": "ac5f6db0-e338-420f-953b-66d1659a1cab"
    },
    {
-    "name": "Stripyfox173699",
-    "uuid": "ace01a08-09d2-4d59-aba9-2fdedc50075d"
-   },
-   {
-    "name": "Wardennx",
-    "uuid": "31dbd431-e5b9-4030-a0f3-61e95ce19737"
-   },
-   {
     "name": "Justnexushere404",
     "uuid": "af7fa547-51bd-458d-90d6-20931b4672a1"
    }
@@ -502,30 +494,14 @@
     "uuid": "a08d24cb-d2a7-455c-82ed-be8bd902208d"
    },
    {
-    "name": "BurbLegend",
-    "uuid": "34f36162-e089-4207-a195-990f6af97bfa"
-   },
-   {
-    "name": "Stripyfox173699",
-    "uuid": "ace01a08-09d2-4d59-aba9-2fdedc50075d"
-   },
-   {
     "name": "Justnexushere404",
     "uuid": "af7fa547-51bd-458d-90d6-20931b4672a1"
-   },
-   {
-    "name": "Wardennx",
-    "uuid": "31dbd431-e5b9-4030-a0f3-61e95ce19737"
    }
   ],
   "outlaws": [
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
-    "name": "Samisol",
-    "uuid": "ec827256-4c0e-4609-b0b2-4ef820d392fe"
    },
    {
     "name": "CowSi",
@@ -649,23 +625,11 @@
      "uuid": "ac5f6db0-e338-420f-953b-66d1659a1cab"
     },
     {
-     "name": "Stripyfox173699",
-     "uuid": "ace01a08-09d2-4d59-aba9-2fdedc50075d"
-    },
-    {
-     "name": "Wardennx",
-     "uuid": "31dbd431-e5b9-4030-a0f3-61e95ce19737"
-    },
-    {
      "name": "Justnexushere404",
      "uuid": "af7fa547-51bd-458d-90d6-20931b4672a1"
     }
    ],
    "Builder": [
-    {
-     "name": "Wardennx",
-     "uuid": "31dbd431-e5b9-4030-a0f3-61e95ce19737"
-    },
     {
      "name": "Justnexushere404",
      "uuid": "af7fa547-51bd-458d-90d6-20931b4672a1"
@@ -677,21 +641,11 @@
      "uuid": "af7fa547-51bd-458d-90d6-20931b4672a1"
     }
    ],
-   "Police": [
-    {
-     "name": "Stripyfox173699",
-     "uuid": "ace01a08-09d2-4d59-aba9-2fdedc50075d"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "Wardennx",
-     "uuid": "31dbd431-e5b9-4030-a0f3-61e95ce19737"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

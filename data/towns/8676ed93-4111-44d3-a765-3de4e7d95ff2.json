@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Teslin",
   "uuid": "8676ed93-4111-44d3-a765-3de4e7d95ff2",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Freicia",
-   "uuid": "99602226-bc7f-411c-86c5-ce9aadd2895c"
+   "name": "Erilsky",
+   "uuid": "3fedef8f-cd33-48d5-a68c-0041eaa14b4e"
   },
   "nation": {
    "name": "Yukon",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 113,
-   "maxTownBlocks": 156,
+   "numTownBlocks": 114,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 13,
-   "numTrusted": 2,
+   "numResidents": 12,
+   "numTrusted": 3,
    "numOutlaws": 5,
-   "balance": 37.0,
+   "balance": 21.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -48955.516862334305,
-    "y": 75.0,
-    "z": -17776.532890346636,
-    "pitch": 2.2499838,
-    "yaw": -0.6886139
+    "x": -48911.441433899316,
+    "y": 73.0,
+    "z": -17716.765203485254,
+    "pitch": -2.2500389,
+    "yaw": -95.78879
    },
    "homeBlock": [
-    -3060,
-    -1112
+    -3057,
+    -1108
    ],
    "townBlocks": [
     [
@@ -329,6 +329,10 @@
     ],
     [
      -3060,
+     -1108
+    ],
+    [
+     -3060,
      -1111
     ],
     [
@@ -557,32 +561,12 @@
     "uuid": "99602226-bc7f-411c-86c5-ce9aadd2895c"
    },
    {
-    "name": "Nemo_025",
-    "uuid": "950c4097-b661-4069-bbf0-69bacb5dfe2e"
-   },
-   {
     "name": "Dreamisnice",
     "uuid": "75a1ef3a-c3c1-416b-b0b0-287684ebf990"
    },
    {
-    "name": "njemiem",
-    "uuid": "e84b6631-fcfc-4361-838d-fea788422fe8"
-   },
-   {
-    "name": "hirothefighter",
-    "uuid": "f58e50f3-1189-48c2-ac1c-0cfd80e7f78e"
-   },
-   {
-    "name": "RGDoink",
-    "uuid": "3d96f673-48a5-41db-af99-e4e4608e83f7"
-   },
-   {
     "name": "TitanicTree",
     "uuid": "51af2076-7795-4f10-8652-702f592a2312"
-   },
-   {
-    "name": "AmethystAllay31",
-    "uuid": "8c37fcae-8f1e-4730-8601-f00d7ff0887a"
    },
    {
     "name": "Foxilgug",
@@ -603,12 +587,32 @@
    {
     "name": "Kingston_YUKON",
     "uuid": "c34740aa-37fb-4fd2-817f-7013f209ca84"
+   },
+   {
+    "name": "Erilsky",
+    "uuid": "3fedef8f-cd33-48d5-a68c-0041eaa14b4e"
+   },
+   {
+    "name": "Sups_72",
+    "uuid": "260e5ff3-deb9-44ce-b6f8-dd35a84f79ee"
+   },
+   {
+    "name": "Carkol_",
+    "uuid": "6272d42c-7b4d-4d70-8a49-4d4e69536e4c"
+   },
+   {
+    "name": "Yamatertasu",
+    "uuid": "120320f7-c60a-47c3-89e4-d5a8a3626979"
    }
   ],
   "trusted": [
    {
     "name": "Freicia",
     "uuid": "99602226-bc7f-411c-86c5-ce9aadd2895c"
+   },
+   {
+    "name": "InuYasha_Plays",
+    "uuid": "ccd5d1a2-cd3b-47ac-9726-d9f781938707"
    },
    {
     "name": "Erilsky",
@@ -659,8 +663,20 @@
     "uuid": "a96e3095-e610-4788-a57a-a8afc70f9588"
    },
    {
-    "name": "Room 1",
-    "uuid": "bc5e65c3-b830-45c0-8246-122844733c53"
+    "name": "Perturbing Property",
+    "uuid": "f5da034a-a1ee-41fb-88a2-7fc2f65d4d3b"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "910c8330-f964-4392-9b6e-7beb0c614d33"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "335ced41-2386-491e-b29a-649c54bbc7ea"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "e7c57975-ccbd-4b40-adfb-2d79393d017e"
    },
    {
     "name": "Room 2",
@@ -687,29 +703,31 @@
     "uuid": "63c28077-88fd-4c12-9598-4bf103f1ed03"
    },
    {
-    "name": "Perturbing Property",
-    "uuid": "f5da034a-a1ee-41fb-88a2-7fc2f65d4d3b"
-   },
-   {
-    "name": "Stylish Quarter",
-    "uuid": "e7c57975-ccbd-4b40-adfb-2d79393d017e"
-   },
-   {
-    "name": "Perturbing Tenement",
-    "uuid": "910c8330-f964-4392-9b6e-7beb0c614d33"
-   },
-   {
-    "name": "Welcoming Dwelling",
-    "uuid": "335ced41-2386-491e-b29a-649c54bbc7ea"
+    "name": "Room 1",
+    "uuid": "bc5e65c3-b830-45c0-8246-122844733c53"
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Freicia",
+     "uuid": "99602226-bc7f-411c-86c5-ce9aadd2895c"
+    },
+    {
+     "name": "Erilsky",
+     "uuid": "3fedef8f-cd33-48d5-a68c-0041eaa14b4e"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Dreamisnice",
+     "uuid": "75a1ef3a-c3c1-416b-b0b0-287684ebf990"
+    }
+   ],
    "Recruiter": [
     {
-     "name": "Nemo_025",
-     "uuid": "950c4097-b661-4069-bbf0-69bacb5dfe2e"
+     "name": "Dreamisnice",
+     "uuid": "75a1ef3a-c3c1-416b-b0b0-287684ebf990"
     }
    ],
    "Police": [],

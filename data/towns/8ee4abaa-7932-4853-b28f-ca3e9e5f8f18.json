@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
-  "name": "Karen",
+  "name": "Chengtianfu",
   "uuid": "8ee4abaa-7932-4853-b28f-ca3e9e5f8f18",
-  "board": "/town set board [msg]",
+  "board": "Long Live Taiwan",
   "founder": "sonya0819",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "7pple",
-   "uuid": "4585edaf-aad1-4f8f-b9a3-aa147b2d74d2"
+   "name": "AstrInk",
+   "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": "Ming",
+   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
   },
   "timestamps": {
    "registered": 1776581717906,
-   "joinedNationAt": 1778936148021,
+   "joinedNationAt": 1792663479654,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 124,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 112,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 5,
+   "numTrusted": 8,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43154.4913223267,
+    "x": 43286.48355923109,
     "y": 66.0,
-    "z": -220.76115158134172,
-    "pitch": 25.59524,
-    "yaw": 70.237305
+    "z": -108.41916939440941,
+    "pitch": -4.5277915,
+    "yaw": -179.3667
    },
    "homeBlock": [
-    2697,
-    -14
+    2705,
+    -7
    ],
    "townBlocks": [
     [
@@ -112,22 +112,6 @@
      -10
     ],
     [
-     2700,
-     -17
-    ],
-    [
-     2700,
-     -18
-    ],
-    [
-     2700,
-     -15
-    ],
-    [
-     2700,
-     -16
-    ],
-    [
      2706,
      1
     ],
@@ -164,20 +148,12 @@
      -7
     ],
     [
-     2699,
-     -16
-    ],
-    [
      2706,
      -8
     ],
     [
      2708,
      -12
-    ],
-    [
-     2699,
-     -15
     ],
     [
      2706,
@@ -284,14 +260,6 @@
      -14
     ],
     [
-     2701,
-     -16
-    ],
-    [
-     2701,
-     -17
-    ],
-    [
      2705,
      -3
     ],
@@ -538,18 +506,6 @@
     [
      2697,
      -12
-    ],
-    [
-     2697,
-     -11
-    ],
-    [
-     2698,
-     -16
-    ],
-    [
-     2698,
-     -15
     ],
     [
      2698,
@@ -570,10 +526,6 @@
     [
      2709,
      -13
-    ],
-    [
-     2697,
-     -16
     ],
     [
      2697,
@@ -592,30 +544,58 @@
   },
   "residents": [
    {
-    "name": "7pple",
-    "uuid": "4585edaf-aad1-4f8f-b9a3-aa147b2d74d2"
-   },
-   {
     "name": "taburu",
     "uuid": "76282beb-3fe2-476b-955e-4b23bc64984c"
    },
    {
     "name": "VLT_Mat",
     "uuid": "baf7bbee-c684-4e63-a18a-e0c00d5a4713"
+   },
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   },
+   {
+    "name": "TomPacha",
+    "uuid": "dbf435c5-c854-4d5b-8510-6caf1307e3d3"
+   },
+   {
+    "name": "Its_Lenny_Tastik",
+    "uuid": "8155435f-899d-4c8f-a52f-041778996b06"
    }
   ],
   "trusted": [
    {
-    "name": "DoOoOonguri",
-    "uuid": "e0b29b64-c150-40e4-bbd8-642f7d5ceadc"
+    "name": "Qiuse_Autumn",
+    "uuid": "60a07aff-944e-4cf3-a540-e32f7d55144d"
    },
    {
-    "name": "7pple",
-    "uuid": "4585edaf-aad1-4f8f-b9a3-aa147b2d74d2"
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
    },
    {
-    "name": "kita1867",
-    "uuid": "363bc3b8-dfd2-4d3a-84f7-7888fc86f71c"
+    "name": "ji_mo",
+    "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+   },
+   {
+    "name": "Ehou03",
+    "uuid": "9605927f-b9cd-47a1-8f63-0580e3a4d489"
+   },
+   {
+    "name": "sky_space_",
+    "uuid": "d8acbba3-5804-4e63-8b23-ba6b6b4f8a57"
+   },
+   {
+    "name": "Researcher_Ivan",
+    "uuid": "a4ee3d0b-41d0-4134-8069-8851e02d713e"
+   },
+   {
+    "name": "TimeSpace_ZONE",
+    "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
+   },
+   {
+    "name": "Judgemen_t",
+    "uuid": "ce421a02-6dcd-405e-a24a-7c4517f477a5"
    }
   ],
   "outlaws": [],

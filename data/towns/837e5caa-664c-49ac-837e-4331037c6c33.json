@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Hattiesburg",
   "uuid": "837e5caa-664c-49ac-837e-4331037c6c33",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 16,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -128,6 +128,10 @@
      -231
     ],
     [
+     -1990,
+     -233
+    ],
+    [
      -1991,
      -231
     ],
@@ -146,6 +150,10 @@
     [
      -1991,
      -235
+    ],
+    [
+     -1990,
+     -232
     ]
    ],
    "worlds": {}
@@ -156,7 +164,12 @@
     "uuid": "1ba28faf-cb16-4d0a-994a-1ffd056c9fd6"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Hoffywin9999",
+    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

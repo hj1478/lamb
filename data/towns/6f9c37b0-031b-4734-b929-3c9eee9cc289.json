@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Dilijan",
   "uuid": "6f9c37b0-031b-4734-b929-3c9eee9cc289",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,40 @@
    ],
    "townBlocks": [
     [
+     1010,
+     -471
+    ],
+    [
+     1011,
+     -471
+    ],
+    [
+     1010,
+     -470
+    ],
+    [
      1011,
      -470
     ],
     [
      1011,
      -469
+    ],
+    [
+     1010,
+     -469
+    ],
+    [
+     1012,
+     -469
+    ],
+    [
+     1012,
+     -470
+    ],
+    [
+     1012,
+     -471
     ]
    ],
    "worlds": {}
@@ -116,6 +144,10 @@
    {
     "name": "yarch1e",
     "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
+   },
+   {
+    "name": "Illmenia",
+    "uuid": "f5b1ddd5-afdf-4e86-b7b3-d8f0b870e8d3"
    }
   ],
   "outlaws": [],

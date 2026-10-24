@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Frogs",
   "uuid": "76d096b0-c373-4b23-b39b-79053898d868",
@@ -12,37 +12,37 @@
    "uuid": "fff1c1e2-842c-44bf-981d-32d9ca9bff5e"
   },
   "nation": {
-   "name": "Greenland",
-   "uuid": "049e6ebc-e9d8-4bf3-8b3b-2852b611fbbf"
+   "name": "Avannaata",
+   "uuid": "5b513fbc-f812-4564-8d62-a3dd6bf00ac5"
   },
   "timestamps": {
    "registered": 1777662341111,
-   "joinedNationAt": 1787768818515,
+   "joinedNationAt": 1792572732709,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 8,
    "numOutlaws": 7,
-   "balance": 40.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -15965.364273409063,
-    "y": 46.0,
-    "z": -28091.852368934058,
-    "pitch": 0.14056009,
-    "yaw": -177.33603
+    "x": -15964.285285084286,
+    "y": 3.0,
+    "z": -28142.49675241158,
+    "pitch": -9.515603,
+    "yaw": -177.07172
    },
    "homeBlock": [
     -998,
-    -1756
+    -1759
    ],
    "townBlocks": [
     [

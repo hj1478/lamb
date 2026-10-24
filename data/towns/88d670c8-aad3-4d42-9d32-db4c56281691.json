@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "UnderWorld",
   "uuid": "88d670c8-aad3-4d42-9d32-db4c56281691",
-  "board": "/town set board [msg]",
+  "board": "I need water",
   "founder": "ItzDarken",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Psiloi",
-   "uuid": "e1694c61-c427-4295-97b1-a2e241103493"
+   "name": "NPC14",
+   "uuid": "d7b2718e-0609-2053-8ed5-fe3066c81afa"
   },
   "nation": {
-   "name": "Rus_Princip-ties",
-   "uuid": "e96b1ed5-c54c-47f7-a15e-b52fcd04bdbd"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784145269568,
-   "joinedNationAt": 1784903685998,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792576801592
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -39,42 +39,42 @@
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 7,
+   "numOutlaws": 6,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -352,18 +352,14 @@
   },
   "residents": [
    {
-    "name": "Psiloi",
-    "uuid": "e1694c61-c427-4295-97b1-a2e241103493"
-   },
-   {
-    "name": "Salbru",
-    "uuid": "bca75fec-4693-407b-830f-a2fe1b3c5028"
+    "name": "NPC14",
+    "uuid": "d7b2718e-0609-2053-8ed5-fe3066c81afa"
    }
   ],
   "trusted": [
    {
-    "name": "TheThingERM",
-    "uuid": "bca7fa63-2b42-4376-baaa-4b1c621bad27"
+    "name": "Salbru",
+    "uuid": "bca75fec-4693-407b-830f-a2fe1b3c5028"
    }
   ],
   "outlaws": [
@@ -390,10 +386,6 @@
    {
     "name": "Mystikaosss",
     "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
-   },
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    }
   ],
   "quarters": [],

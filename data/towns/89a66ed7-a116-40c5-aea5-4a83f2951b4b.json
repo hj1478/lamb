@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "California",
   "uuid": "89a66ed7-a116-40c5-aea5-4a83f2951b4b",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 461,
-   "maxTownBlocks": 436,
+   "maxTownBlocks": 472,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 28,
-   "numTrusted": 0,
+   "numResidents": 31,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1948,10 +1948,6 @@
     "uuid": "6a4a791b-fe0d-42a4-814a-3f4d381b9bee"
    },
    {
-    "name": "Thegarrett97",
-    "uuid": "c477c0d9-c81b-4a74-9511-28c55be333ac"
-   },
-   {
     "name": "Hanzo_Nz",
     "uuid": "66a7bf36-5d6c-451b-9b2b-2257c1fea4f0"
    },
@@ -1966,10 +1962,6 @@
    {
     "name": "xSoacemonk",
     "uuid": "94bc0afc-dcff-414a-84ca-38c76809cf50"
-   },
-   {
-    "name": "Lil_Beta69",
-    "uuid": "316631d1-bd1a-4a38-9ab7-3509236e1104"
    },
    {
     "name": "Llama0504",
@@ -2050,9 +2042,34 @@
    {
     "name": "ThatTurk6569",
     "uuid": "7f057419-92fb-4de3-b18a-51e3b7fe802e"
+   },
+   {
+    "name": "Madlirex",
+    "uuid": "c2f041ce-69c9-4c1c-a233-d58f95c18be6"
+   },
+   {
+    "name": "IhsaanKhan",
+    "uuid": "034ee809-965e-4b7c-b0d5-20fd7703792b"
+   },
+   {
+    "name": "AH2345",
+    "uuid": "1db9f133-4217-4180-a943-65a142b53131"
+   },
+   {
+    "name": "target_aim12",
+    "uuid": "0e524320-a998-4557-b448-ded902b06102"
+   },
+   {
+    "name": "Vibezisacutie",
+    "uuid": "96dcee81-ef04-4104-83bc-8e151b3bf58c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "target_aim12",
+    "uuid": "0e524320-a998-4557-b448-ded902b06102"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {
@@ -2070,10 +2087,6 @@
    {
     "name": "Luxurious Property",
     "uuid": "9947617d-b77a-4a5a-a43b-56cc7b1bbf00"
-   },
-   {
-    "name": "Departamento 2",
-    "uuid": "aff0b2ea-c45d-4bfc-a5d5-b2d7a93e478c"
    },
    {
     "name": "Departamento 1",
@@ -2156,16 +2169,20 @@
     "uuid": "ff492c96-1ff6-47ac-917b-6a621555278e"
    },
    {
-    "name": "Departamento 5",
-    "uuid": "b2574730-a158-4687-a190-3c11572b8e76"
-   },
-   {
     "name": "California Transfer Quarter",
     "uuid": "37f104ae-ce4f-4e1a-9256-3833cb3bf3a1"
    },
    {
     "name": "Departamento 3",
     "uuid": "fcfdf146-4280-4717-84d7-02340a83cae2"
+   },
+   {
+    "name": "Departamento 2",
+    "uuid": "aff0b2ea-c45d-4bfc-a5d5-b2d7a93e478c"
+   },
+   {
+    "name": "Departamento 5",
+    "uuid": "b2574730-a158-4687-a190-3c11572b8e76"
    }
   ],
   "ranks": {

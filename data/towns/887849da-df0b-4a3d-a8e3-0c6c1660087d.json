@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "BingSoy",
   "uuid": "887849da-df0b-4a3d-a8e3-0c6c1660087d",
@@ -12,23 +12,23 @@
    "uuid": "1956f706-7d1c-4bd9-aec3-7e1277d8a1ba"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "BingSoy_Prime",
+   "uuid": "6fafd3f0-f6e3-4676-9d50-9f35b22dc393"
   },
   "timestamps": {
    "registered": 1778034042570,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792380297055,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 86,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 7,
+   "numResidents": 6,
    "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 4748.0,
+   "numOutlaws": 1,
+   "balance": 128.0,
    "forSalePrice": null
   },
   "perms": {
@@ -460,12 +460,8 @@
     "uuid": "51e2ec0a-ddd3-4b00-aa46-4bb588b305f7"
    },
    {
-    "name": "Binionol",
-    "uuid": "a0079cd6-6e73-481e-bc66-b431a55fc763"
-   },
-   {
-    "name": "dady0o",
-    "uuid": "a6a3b2df-f140-47b3-a578-6f81c2f339da"
+    "name": "Exist1234",
+    "uuid": "990dfb8b-b366-4205-8d69-4dc7133a2619"
    }
   ],
   "trusted": [
@@ -479,10 +475,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "jamari_aymara23",
-    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
-   },
    {
     "name": "DrYeetSir",
     "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
@@ -510,10 +502,6 @@
     {
      "name": "rollingsaxman",
      "uuid": "51e2ec0a-ddd3-4b00-aa46-4bb588b305f7"
-    },
-    {
-     "name": "dady0o",
-     "uuid": "a6a3b2df-f140-47b3-a578-6f81c2f339da"
     }
    ],
    "Builder": [],

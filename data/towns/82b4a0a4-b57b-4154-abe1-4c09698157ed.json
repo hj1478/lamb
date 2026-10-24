@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Blakwood",
   "uuid": "82b4a0a4-b57b-4154-abe1-4c09698157ed",
@@ -12,12 +12,12 @@
    "uuid": "643bea62-c4ab-4f62-9fe6-eceadb4e73d2"
   },
   "nation": {
-   "name": "Soviet_Union",
-   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791612405762,
-   "joinedNationAt": 1791719280874,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,

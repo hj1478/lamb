@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Goirle_Noord",
   "uuid": "7f768724-6d42-4289-b5bc-5c0f0115cd06",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 12,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -93,11 +93,23 @@
    "townBlocks": [
     [
      -1018,
+     667
+    ],
+    [
+     -1018,
      669
     ],
     [
      -1018,
+     668
+    ],
+    [
+     -1018,
      670
+    ],
+    [
+     -1019,
+     667
     ],
     [
      -1019,
@@ -110,6 +122,22 @@
     [
      -1019,
      670
+    ],
+    [
+     -1020,
+     670
+    ],
+    [
+     -1020,
+     667
+    ],
+    [
+     -1020,
+     668
+    ],
+    [
+     -1020,
+     669
     ]
    ],
    "worlds": {}

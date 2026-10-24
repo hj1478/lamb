@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Napoleonic_Fed",
   "uuid": "73e35842-09f9-4aeb-b58c-6b9f667a1c04",
@@ -8,83 +8,83 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Darth_Frog",
-   "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
+   "name": "NPC81",
+   "uuid": "cbdd8695-6628-2034-b8c0-16e167b5aeef"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792352728645,
-   "joinedNationAt": 1792354593233,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792604426004
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 18.0,
+   "numTrusted": 1,
+   "numOutlaws": 2,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1007.7166436633138,
-    "y": 64.0,
-    "z": -10431.425520974979,
-    "pitch": 23.302305,
-    "yaw": -97.2854
+    "x": -1000.8045312047227,
+    "y": 65.0,
+    "z": -10429.005170447184,
+    "pitch": 15.053974,
+    "yaw": -59.18506
    },
    "homeBlock": [
     -63,
@@ -108,6 +108,30 @@
      -653
     ],
     [
+     -62,
+     -654
+    ],
+    [
+     -64,
+     -653
+    ],
+    [
+     -63,
+     -654
+    ],
+    [
+     -61,
+     -652
+    ],
+    [
+     -61,
+     -653
+    ],
+    [
+     -61,
+     -654
+    ],
+    [
      -64,
      -652
     ]
@@ -116,16 +140,30 @@
   },
   "residents": [
    {
-    "name": "Darth_Frog",
-    "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
-   },
-   {
     "name": "ang1eot",
     "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
+   },
+   {
+    "name": "NPC81",
+    "uuid": "cbdd8695-6628-2034-b8c0-16e167b5aeef"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "karakan31",
+    "uuid": "9c0dfd99-d7b1-4f7b-b32d-1bddc10f94a1"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "SceptixOff",
+    "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
+   },
+   {
+    "name": "Mwanzanou",
+    "uuid": "01a909de-b2df-434d-bffb-6898ca95495c"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -134,11 +172,26 @@
      "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "ang1eot",
+     "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
+    }
+   ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "ang1eot",
+     "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
+    }
+   ],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "ang1eot",
+     "uuid": "e1e356a7-2099-4add-9394-0354f8fd740d"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

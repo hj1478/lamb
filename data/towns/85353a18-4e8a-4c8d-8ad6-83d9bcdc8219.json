@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Maui",
   "uuid": "85353a18-4e8a-4c8d-8ad6-83d9bcdc8219",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "segilwv3",
-   "uuid": "b6283f53-d60a-46e3-814c-ef0184ce6008"
+   "name": "ciel0beats",
+   "uuid": "f0fc812a-5113-4ad5-ae33-c87c6fe4569c"
   },
   "nation": {
    "name": "Hawaii",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 142,
-   "maxTownBlocks": 98,
+   "numTownBlocks": 145,
+   "maxTownBlocks": 146,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 4,
-   "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 1.0,
+   "numResidents": 8,
+   "numTrusted": 0,
+   "numOutlaws": 1,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -56136.50927446667,
-    "y": 76.0,
-    "z": 544.494747051735,
-    "pitch": -0.931285,
-    "yaw": -179.73181
+    "x": -56026.84479113122,
+    "y": -63.0,
+    "z": 440.64228919059195,
+    "pitch": 31.649908,
+    "yaw": 139.32245
    },
    "homeBlock": [
-    -3509,
-    34
+    -3502,
+    27
    ],
    "townBlocks": [
     [
@@ -280,6 +280,10 @@
      27
     ],
     [
+     -3499,
+     32
+    ],
+    [
      -3502,
      28
     ],
@@ -342,6 +346,10 @@
     [
      -3499,
      27
+    ],
+    [
+     -3502,
+     33
     ],
     [
      -3509,
@@ -530,6 +538,10 @@
     [
      -3508,
      22
+    ],
+    [
+     -3500,
+     32
     ],
     [
      -3508,
@@ -672,35 +684,67 @@
     "uuid": "dcc02885-3271-4388-9920-dee9694d323a"
    },
    {
-    "name": "victorarmi",
-    "uuid": "a53c20aa-67a6-4d5c-b534-b2e8193ff408"
+    "name": "shiopan229",
+    "uuid": "505184cd-1fa1-4fa2-ac95-797ea48d2d1d"
    },
    {
-    "name": "segilwv3",
-    "uuid": "b6283f53-d60a-46e3-814c-ef0184ce6008"
-   }
-  ],
-  "trusted": [
+    "name": "ciel0beats",
+    "uuid": "f0fc812a-5113-4ad5-ae33-c87c6fe4569c"
+   },
    {
-    "name": "4daniel",
-    "uuid": "5078196f-ad1d-4d95-b536-8935d139eb40"
+    "name": "cosmicbread3898",
+    "uuid": "a7367ab9-5db0-4ae6-bda6-782f2a6911d1"
+   },
+   {
+    "name": "aashtton",
+    "uuid": "d290d840-bcc4-4e9d-afe2-743b81d15f20"
+   },
+   {
+    "name": "EmrIx678",
+    "uuid": "ce74467c-efca-466a-bfcb-a31d3543e823"
+   },
+   {
+    "name": "buq3",
+    "uuid": "17c91fc2-7fe2-4dae-8956-6e0d6e37e16d"
    }
   ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "oncup",
     "uuid": "3d384795-93eb-48e9-b601-e14bf141df55"
-   },
-   {
-    "name": "GooseHoss",
-    "uuid": "8c13f4b2-b824-4e70-88db-83f54bb38a4d"
-   },
-   {
-    "name": "Intelligenz",
-    "uuid": "e26da781-b8cf-4acc-8084-dcaeb691dc03"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dull Suite",
+    "uuid": "9d4dfda6-596e-4709-8c7f-9193340fb0ea"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "b4c8ab63-0265-49e9-bcd9-2bc1f3393d76"
+   },
+   {
+    "name": "Perturbing Flat",
+    "uuid": "72e78431-739f-4b17-a1cb-f5eaa8cba033"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "31fb1483-5a86-4be3-b409-cab7323db2ed"
+   },
+   {
+    "name": "Annoying Residence",
+    "uuid": "afc7dd00-b45c-4709-bf3f-de28b311ae65"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "d461ea61-ff55-4f01-99a1-d5530e32d983"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "35a97e87-f8b6-4bd7-a3d4-a36bb230bba5"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

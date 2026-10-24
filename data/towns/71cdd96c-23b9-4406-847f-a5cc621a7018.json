@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Ur",
   "uuid": "71cdd96c-23b9-4406-847f-a5cc621a7018",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "keinigetakiss",
-   "uuid": "bcf537fa-2225-4261-b81c-169e07a0a5a4"
+   "name": "ThebestM1",
+   "uuid": "c952d7e8-a1ac-4d05-b746-3fbe48585393"
   },
   "nation": {
    "name": "Sumer",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 51,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 55,
+   "maxTownBlocks": 158,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 7,
+   "numResidents": 9,
+   "numTrusted": 10,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -105,7 +105,15 @@
     ],
     [
      1055,
+     -210
+    ],
+    [
+     1055,
      -212
+    ],
+    [
+     1055,
+     -211
     ],
     [
      1057,
@@ -232,6 +240,10 @@
      -216
     ],
     [
+     1062,
+     -210
+    ],
+    [
      1060,
      -209
     ],
@@ -294,24 +306,60 @@
     [
      1058,
      -216
+    ],
+    [
+     1062,
+     -209
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "Sargon_of_Dees",
+    "uuid": "fed92ed0-3082-455a-8ca2-de8e7b6a6563"
+   },
+   {
     "name": "keinigetakiss",
     "uuid": "bcf537fa-2225-4261-b81c-169e07a0a5a4"
-   }
-  ],
-  "trusted": [
-   {
-    "name": "SWORDBREAKER633",
-    "uuid": "3f67bb56-254c-405a-af4e-ad0fd6e550f3"
    },
    {
     "name": "ThebestM1",
     "uuid": "c952d7e8-a1ac-4d05-b746-3fbe48585393"
+   },
+   {
+    "name": "_diogenes1",
+    "uuid": "8b765e7f-fec6-44af-9e57-403d956267f1"
+   },
+   {
+    "name": "Santa_Cruz92",
+    "uuid": "1a023779-4e53-489d-a21c-a8c878976538"
+   },
+   {
+    "name": "Bee_Town13",
+    "uuid": "38f677f5-5ca5-42d3-8901-9273f3d55c4d"
+   },
+   {
+    "name": "Beee_Town13",
+    "uuid": "04e39b59-054b-4685-982a-bb68c7a7afda"
+   },
+   {
+    "name": "DrWafflez850",
+    "uuid": "4f85dd2a-dc83-4f44-adda-d1db504172e8"
+   },
+   {
+    "name": "Jeremy_e_12",
+    "uuid": "c8828b99-db73-41dc-ae3d-208ebeff8e9b"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "ThebestM1",
+    "uuid": "c952d7e8-a1ac-4d05-b746-3fbe48585393"
+   },
+   {
+    "name": "SWORDBREAKER633",
+    "uuid": "3f67bb56-254c-405a-af4e-ad0fd6e550f3"
    },
    {
     "name": "Andakira",
@@ -326,19 +374,62 @@
     "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
    },
    {
-    "name": "Andariyen",
-    "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
+    "name": "_diogenes1",
+    "uuid": "8b765e7f-fec6-44af-9e57-403d956267f1"
    },
    {
     "name": "Threnodie",
     "uuid": "dfc5d1e1-e11b-409f-9b38-67f86e2af310"
+   },
+   {
+    "name": "keinigetakiss",
+    "uuid": "bcf537fa-2225-4261-b81c-169e07a0a5a4"
+   },
+   {
+    "name": "Riomen_Toji",
+    "uuid": "1146c304-e640-4f97-9e28-803baeeb8720"
+   },
+   {
+    "name": "Bee_Town13",
+    "uuid": "38f677f5-5ca5-42d3-8901-9273f3d55c4d"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Elegant Apartment",
+    "uuid": "1858064a-7a02-4611-b267-56ee225ef279"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "4fbac04c-2b3a-4756-9b89-89a1ae169b0a"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "1f48f146-52d6-4599-b0d3-79145e42f28e"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "0d662161-993e-4e4c-9332-75404b152a5d"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "keinigetakiss",
+     "uuid": "bcf537fa-2225-4261-b81c-169e07a0a5a4"
+    },
+    {
+     "name": "_diogenes1",
+     "uuid": "8b765e7f-fec6-44af-9e57-403d956267f1"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Sargon_of_Dees",
+     "uuid": "fed92ed0-3082-455a-8ca2-de8e7b6a6563"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

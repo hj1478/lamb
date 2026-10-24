@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T11:33:59Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Sam",
   "uuid": "6d5901b7-0670-430c-a3bb-69758c037cd6",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 1.0,
@@ -168,10 +168,6 @@
    }
   },
   "residents": [
-   {
-    "name": "Banksnbb",
-    "uuid": "5218fb6b-1e94-411d-b7a9-b9a1ea7df0bd"
-   },
    {
     "name": "HappyVex",
     "uuid": "0fe21c3c-99f9-4168-8355-b13b5ff88a02"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Skopje",
   "uuid": "89585829-c2bd-47aa-84fc-91a01c803429",
@@ -12,12 +12,12 @@
    "uuid": "263441c4-0c18-4049-b675-757ad971dedb"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1777553680794,
-   "joinedNationAt": 1790253101650,
+   "joinedNationAt": 1792317657489,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": true
   },
   "stats": {
    "numTownBlocks": 227,
-   "maxTownBlocks": 180,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 10,
+   "nationBonus": 100,
+   "numResidents": 11,
    "numTrusted": 2,
-   "numOutlaws": 16,
-   "balance": 14.0,
+   "numOutlaws": 15,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1042,6 +1042,10 @@
    {
     "name": "XxGoShadowxX",
     "uuid": "c662ae01-80db-4bbb-8122-ffc7596094e2"
+   },
+   {
+    "name": "Zeorez17",
+    "uuid": "c0bd003d-1074-4357-8593-44382c29d06d"
    }
   ],
   "trusted": [
@@ -1055,10 +1059,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
    {
     "name": "Seppioman",
     "uuid": "9b93c132-f157-43a4-9f01-d539c235fd7e"
@@ -1191,10 +1191,6 @@
    },
    {
     "name": "Dom Na",
-    "uuid": "042297ad-c304-42b7-99a1-6c2a85cbcd4e"
-   },
-   {
-    "name": "Dom Na",
     "uuid": "d4b3e1ba-933c-4863-9271-8571ca563b13"
    },
    {
@@ -1240,14 +1236,6 @@
    {
     "name": "Soba 3",
     "uuid": "b5c92a5d-91e9-4282-8e1c-4306553bda70"
-   },
-   {
-    "name": "Dom Na",
-    "uuid": "e0171e53-70ed-499b-a0bd-a2ddc3078134"
-   },
-   {
-    "name": "Dom Na",
-    "uuid": "766ce326-2b1a-4631-8ef6-4975e0d24051"
    },
    {
     "name": "Farm",
@@ -1308,6 +1296,18 @@
    {
     "name": "Dom Na XxGoShadowxX",
     "uuid": "c8e618e9-2344-4992-b90e-e2af0c3a283b"
+   },
+   {
+    "name": "Dom Na Zeorez17",
+    "uuid": "e0171e53-70ed-499b-a0bd-a2ddc3078134"
+   },
+   {
+    "name": "Dom Na Zeorez17",
+    "uuid": "042297ad-c304-42b7-99a1-6c2a85cbcd4e"
+   },
+   {
+    "name": "Dom Na Zeorez17",
+    "uuid": "766ce326-2b1a-4631-8ef6-4975e0d24051"
    }
   ],
   "ranks": {

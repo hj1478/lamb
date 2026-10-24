@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Strasbourg",
   "uuid": "70ee866e-c545-4fa6-8129-0e07fb15f486",
-  "board": "/town set board [msg]",
+  "board": "Where history meets modern European unity.",
   "founder": "SaintStrxy",
   "wiki": null,
   "discord": null,
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1792348548289,
-   "joinedNationAt": 1792348670427,
+   "joinedNationAt": 1792513573954,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 25,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -96,20 +96,20 @@
      -712
     ],
     [
-     182,
-     -711
-    ],
-    [
      185,
      -711
     ],
     [
-     182,
-     -710
+     185,
+     -713
     ],
     [
      185,
      -710
+    ],
+    [
+     185,
+     -709
     ],
     [
      183,
@@ -120,6 +120,58 @@
      -711
     ],
     [
+     183,
+     -713
+    ],
+    [
+     183,
+     -708
+    ],
+    [
+     183,
+     -710
+    ],
+    [
+     183,
+     -709
+    ],
+    [
+     182,
+     -711
+    ],
+    [
+     182,
+     -710
+    ],
+    [
+     182,
+     -709
+    ],
+    [
+     182,
+     -708
+    ],
+    [
+     186,
+     -711
+    ],
+    [
+     186,
+     -712
+    ],
+    [
+     182,
+     -712
+    ],
+    [
+     184,
+     -713
+    ],
+    [
+     184,
+     -714
+    ],
+    [
      184,
      -711
     ],
@@ -129,26 +181,52 @@
     ],
     [
      184,
+     -709
+    ],
+    [
+     184,
      -710
     ],
     [
-     183,
-     -710
+     184,
+     -708
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "Deacon_Heitor",
+    "uuid": "46ef4822-59db-4c3e-a3c0-79245cccf108"
+   },
+   {
+    "name": "Le_Pacu",
+    "uuid": "dbda3e69-fbfd-43e5-9b13-9e5a473eefac"
+   },
+   {
     "name": "SaintStrxy",
     "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
+   },
+   {
+    "name": "Grojnik",
+    "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "poods1234569",
+    "uuid": "171d05bd-3ca8-45ab-862d-2caa2f782446"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Deacon_Heitor",
+     "uuid": "46ef4822-59db-4c3e-a3c0-79245cccf108"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

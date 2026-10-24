@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Lagash",
   "uuid": "7864a370-aa2b-41d3-9497-e7037ce814fd",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
+   "numTownBlocks": 34,
    "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17024.99326436142,
-    "y": 63.0,
-    "z": -3594.0106268772533,
-    "pitch": 21.934238,
-    "yaw": -109.33663
+    "x": 17013.470522495612,
+    "y": 67.0,
+    "z": -3566.08986557691,
+    "pitch": -6.199615,
+    "yaw": -105.23828
    },
    "homeBlock": [
-    1064,
-    -225
+    1063,
+    -223
    ],
    "townBlocks": [
     [
@@ -132,6 +132,10 @@
      -226
     ],
     [
+     1065,
+     -227
+    ],
+    [
      1059,
      -228
     ],
@@ -148,7 +152,7 @@
      -225
     ],
     [
-     1062,
+     1067,
      -226
     ],
     [
@@ -157,11 +161,15 @@
     ],
     [
      1062,
-     -227
+     -226
     ],
     [
      1061,
      -226
+    ],
+    [
+     1062,
+     -227
     ],
     [
      1062,
@@ -170,6 +178,10 @@
     [
      1062,
      -229
+    ],
+    [
+     1064,
+     -222
     ],
     [
      1061,
@@ -188,6 +200,18 @@
      -224
     ],
     [
+     1066,
+     -227
+    ],
+    [
+     1066,
+     -226
+    ],
+    [
+     1066,
+     -225
+    ],
+    [
      1062,
      -225
     ],
@@ -198,6 +222,10 @@
     [
      1064,
      -226
+    ],
+    [
+     1064,
+     -227
     ]
    ],
    "worlds": {}
@@ -209,10 +237,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "Andakira",
-    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
-   },
    {
     "name": "FORDaLoZ",
     "uuid": "10286bc5-2980-422b-af54-6b1f7aa488bc"

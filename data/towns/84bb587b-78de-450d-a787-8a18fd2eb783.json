@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Monte_Carlo",
   "uuid": "84bb587b-78de-450d-a787-8a18fd2eb783",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 196,
-   "maxTownBlocks": 232,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
-   "numTrusted": 1,
+   "numResidents": 8,
+   "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 84.0,
+   "balance": 88.0,
    "forSalePrice": null
   },
   "perms": {
@@ -880,10 +880,6 @@
   },
   "residents": [
    {
-    "name": "Samisol",
-    "uuid": "ec827256-4c0e-4609-b0b2-4ef820d392fe"
-   },
-   {
     "name": "DinoGamer9346",
     "uuid": "6117a94e-ee2b-4d5f-b18e-18ac059d838d"
    },
@@ -908,14 +904,6 @@
     "uuid": "fe2e310c-2fde-45e0-ab9f-146e741a5bb1"
    },
    {
-    "name": "obbw",
-    "uuid": "c37a8337-490e-4f82-b626-137c1eb7b8f5"
-   },
-   {
-    "name": "_Smithyy",
-    "uuid": "5c542446-6700-4341-9301-a9c509fd3d8d"
-   },
-   {
     "name": "Ooban_",
     "uuid": "9cae3e5c-dd3e-45fd-8d66-706b253e4aea"
    },
@@ -924,12 +912,7 @@
     "uuid": "b2ae91f9-ce0c-49ae-9578-399e38ebeb59"
    }
   ],
-  "trusted": [
-   {
-    "name": "_Smithyy",
-    "uuid": "5c542446-6700-4341-9301-a9c509fd3d8d"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "cosmobuzz",
@@ -956,18 +939,8 @@
      "uuid": "48276811-ec50-4847-bc79-9313e1ba4019"
     }
    ],
-   "Builder": [
-    {
-     "name": "_Smithyy",
-     "uuid": "5c542446-6700-4341-9301-a9c509fd3d8d"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "obbw",
-     "uuid": "c37a8337-490e-4f82-b626-137c1eb7b8f5"
-    }
-   ],
+   "Builder": [],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

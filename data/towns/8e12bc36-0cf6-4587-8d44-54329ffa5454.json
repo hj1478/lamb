@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-24T11:13:43Z",
  "data": {
   "name": "Puglantis",
   "uuid": "8e12bc36-0cf6-4587-8d44-54329ffa5454",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Zxbear26",
-   "uuid": "65cb3edd-c689-42fe-b253-00d6df8f7f25"
+   "name": "NPC82",
+   "uuid": "f6482d82-f7c0-201d-ba78-6ff4fc81e56b"
   },
   "nation": {
-   "name": "Westralia",
-   "uuid": "7d66f8e6-37d5-4133-b950-2d1d48d926b0"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792523511536,
-   "joinedNationAt": 1792523528762,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792618440846
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Zxbear26",
-    "uuid": "65cb3edd-c689-42fe-b253-00d6df8f7f25"
+    "name": "NPC82",
+    "uuid": "f6482d82-f7c0-201d-ba78-6ff4fc81e56b"
    }
   ],
   "trusted": [],
