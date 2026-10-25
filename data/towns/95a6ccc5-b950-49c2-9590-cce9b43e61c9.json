@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "HolyAustralia",
   "uuid": "95a6ccc5-b950-49c2-9590-cce9b43e61c9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 270,
-   "maxTownBlocks": 272,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 16,
+   "numResidents": 11,
    "numTrusted": 5,
-   "numOutlaws": 14,
+   "numOutlaws": 13,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -1192,26 +1192,6 @@
     "uuid": "37f042b5-9256-4b7e-a5c7-ea691c236db3"
    },
    {
-    "name": "matrix123_19",
-    "uuid": "2fdb69e7-3794-44af-9db4-61ffa2386bee"
-   },
-   {
-    "name": "Monkata123",
-    "uuid": "7f32fc9b-46db-478c-ab4b-61d6e0966469"
-   },
-   {
-    "name": "choc_croissant20",
-    "uuid": "e4bc836d-e17e-4c4b-afb1-554a0dd64fc8"
-   },
-   {
-    "name": "spiderini",
-    "uuid": "5ebd3d90-fe0c-40ba-b1be-96d98f5aab15"
-   },
-   {
-    "name": "x_lord",
-    "uuid": "f9f3ddb6-8b3b-4ebd-9b1b-b394cbbd8dc9"
-   },
-   {
     "name": "SpojniaiPogon",
     "uuid": "c38a0268-066f-4708-9b69-eada9c55a3d4"
    },
@@ -1263,10 +1243,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Zompinete",
-    "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-   },
    {
     "name": "TobiasDuVed",
     "uuid": "d2520abb-fde4-48b3-b630-4c53f11a6bfc"

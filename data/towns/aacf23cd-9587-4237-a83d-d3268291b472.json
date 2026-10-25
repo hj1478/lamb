@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Walden",
   "uuid": "aacf23cd-9587-4237-a83d-d3268291b472",
-  "board": "State of Colorado",
+  "board": "Town for sale",
   "founder": "scaja",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "scaja",
-   "uuid": "45e343fd-1d3f-4dec-a8b0-7438d3b2b6f7"
+   "name": "MANO_CraCkly",
+   "uuid": "82bfbce1-8a97-4f87-b4ff-b0e934d31cf8"
   },
   "nation": {
    "name": "Zion",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1779076505604,
-   "joinedNationAt": 1790306575612,
+   "joinedNationAt": 1792609571525,
    "ruinedAt": null
   },
   "status": {
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -292,20 +292,11 @@
   },
   "residents": [
    {
-    "name": "scaja",
-    "uuid": "45e343fd-1d3f-4dec-a8b0-7438d3b2b6f7"
+    "name": "MANO_CraCkly",
+    "uuid": "82bfbce1-8a97-4f87-b4ff-b0e934d31cf8"
    }
   ],
-  "trusted": [
-   {
-    "name": "scaja",
-    "uuid": "45e343fd-1d3f-4dec-a8b0-7438d3b2b6f7"
-   },
-   {
-    "name": "jer_warrior",
-    "uuid": "e272bf3a-3ae9-4f3b-8090-be303a60bcb4"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

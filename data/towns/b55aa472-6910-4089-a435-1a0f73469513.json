@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Gym",
   "uuid": "b55aa472-6910-4089-a435-1a0f73469513",
-  "board": "/town set board [msg]",
+  "board": "Light Weight Baby",
   "founder": "shixinyang",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 99,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 123,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 4,
-   "numOutlaws": 2,
-   "balance": 0.0,
+   "numOutlaws": 3,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -160,16 +160,32 @@
      -447
     ],
     [
+     1979,
+     -456
+    ],
+    [
      1987,
      -451
+    ],
+    [
+     1979,
+     -457
     ],
     [
      1987,
      -450
     ],
     [
+     1979,
+     -458
+    ],
+    [
      1987,
      -449
+    ],
+    [
+     1979,
+     -459
     ],
     [
      1987,
@@ -184,6 +200,10 @@
      -455
     ],
     [
+     1979,
+     -453
+    ],
+    [
      1986,
      -449
     ],
@@ -192,8 +212,16 @@
      -454
     ],
     [
+     1979,
+     -454
+    ],
+    [
      1987,
      -453
+    ],
+    [
+     1979,
+     -455
     ],
     [
      1986,
@@ -285,6 +313,18 @@
     ],
     [
      1983,
+     -450
+    ],
+    [
+     1983,
+     -449
+    ],
+    [
+     1983,
+     -448
+    ],
+    [
+     1983,
      -459
     ],
     [
@@ -362,6 +402,22 @@
     [
      1981,
      -459
+    ],
+    [
+     1981,
+     -453
+    ],
+    [
+     1981,
+     -454
+    ],
+    [
+     1981,
+     -455
+    ],
+    [
+     1981,
+     -456
     ],
     [
      1985,
@@ -486,6 +542,46 @@
     [
      1984,
      -449
+    ],
+    [
+     1984,
+     -448
+    ],
+    [
+     1982,
+     -449
+    ],
+    [
+     1982,
+     -450
+    ],
+    [
+     1980,
+     -453
+    ],
+    [
+     1980,
+     -454
+    ],
+    [
+     1980,
+     -455
+    ],
+    [
+     1980,
+     -456
+    ],
+    [
+     1980,
+     -457
+    ],
+    [
+     1980,
+     -458
+    ],
+    [
+     1980,
+     -459
     ]
    ],
    "worlds": {}
@@ -498,6 +594,10 @@
    {
     "name": "Kiwilotl",
     "uuid": "ca87a497-b230-4cac-acf5-ae0cf5234335"
+   },
+   {
+    "name": "LUCK_FOOD",
+    "uuid": "b096a1a8-a766-4f85-8cbc-5578f5008af5"
    }
   ],
   "trusted": [
@@ -506,8 +606,8 @@
     "uuid": "0f8f56d2-34f0-4e72-8da1-92890379ed3f"
    },
    {
-    "name": "hanbai0W0",
-    "uuid": "def624e6-e578-42ca-b996-648a3ab5db09"
+    "name": "sam16784",
+    "uuid": "2fd587ce-049f-4330-b2a2-0119b1d7b0dc"
    },
    {
     "name": "qianrubiao",
@@ -526,13 +626,13 @@
    {
     "name": "QuakeI",
     "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
+   },
+   {
+    "name": "guozhaoliang",
+    "uuid": "27fdc3f0-1a67-4e95-8644-81b20df9d341"
    }
   ],
   "quarters": [
-   {
-    "name": "Vault D",
-    "uuid": "615fc20a-a9ab-48d1-9991-adffa9038e4b"
-   },
    {
     "name": "Vault E",
     "uuid": "31c39970-5543-4fb2-9362-639ac96cb404"
@@ -544,6 +644,10 @@
    {
     "name": "Vault A",
     "uuid": "16f27de5-6fff-4a15-b1c9-7929fb066d25"
+   },
+   {
+    "name": "Vault D",
+    "uuid": "615fc20a-a9ab-48d1-9991-adffa9038e4b"
    },
    {
     "name": "Vault B",

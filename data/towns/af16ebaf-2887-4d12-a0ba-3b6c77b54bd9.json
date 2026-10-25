@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Dyneburg",
   "uuid": "af16ebaf-2887-4d12-a0ba-3b6c77b54bd9",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 171,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 163.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 3000.0
   },
   "perms": {
    "build": [
@@ -786,14 +786,6 @@
    {
     "name": "ImStillAlex",
     "uuid": "58401ab6-b43c-455f-9e08-631ad2ecaab4"
-   },
-   {
-    "name": "Loquz_",
-    "uuid": "02f31121-4236-473d-92c9-c0de222e4b5b"
-   },
-   {
-    "name": "lasvon",
-    "uuid": "0c6cef6e-5e89-483c-ba82-a2a05c71f5c9"
    },
    {
     "name": "WickedGamer14",

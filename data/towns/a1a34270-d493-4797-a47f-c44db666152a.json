@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Vietnam",
   "uuid": "a1a34270-d493-4797-a47f-c44db666152a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 555.0,
+   "balance": 554.0,
    "forSalePrice": null
   },
   "perms": {
@@ -294,6 +294,10 @@
    {
     "name": "benpee",
     "uuid": "219396a9-01c0-4795-acf0-89ac013f5ce8"
+   },
+   {
+    "name": "Girth__Vader",
+    "uuid": "4d9054d5-a1b7-4ac2-ba5e-49eafed35434"
    }
   ],
   "trusted": [],

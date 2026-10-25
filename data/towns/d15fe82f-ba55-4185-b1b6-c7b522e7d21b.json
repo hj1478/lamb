@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-10-25T11:43:13Z",
+ "data": {
+  "name": "Madre",
+  "uuid": "d15fe82f-ba55-4185-b1b6-c7b522e7d21b",
+  "board": "/town set board [msg]",
+  "founder": "agripaul",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "agripaul",
+   "uuid": "22c624c3-c159-4637-be9c-f8b4ec712cf4"
+  },
+  "nation": {
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+  },
+  "timestamps": {
+   "registered": 1792877698980,
+   "joinedNationAt": 1792877872135,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -253.4775135423384,
+    "y": 64.0,
+    "z": -10771.03146874129,
+    "pitch": 20.712656,
+    "yaw": 165.6344
+   },
+   "homeBlock": [
+    -16,
+    -674
+   ],
+   "townBlocks": [
+    [
+     -17,
+     -674
+    ],
+    [
+     -16,
+     -674
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "agripaul",
+    "uuid": "22c624c3-c159-4637-be9c-f8b4ec712cf4"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

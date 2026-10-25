@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
-  "name": "Cobalt",
+  "name": "Cash",
   "uuid": "a1aa1c11-ee29-4abd-848a-dd5a98aeb611",
   "board": "$$$",
   "founder": "SharpieSnorter5",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 32,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15959.818260649496,
+    "x": 15918.466298353775,
     "y": 63.0,
-    "z": 7417.501776850041,
-    "pitch": 7.4999886,
-    "yaw": -170.53064
+    "z": 7479.990572034753,
+    "pitch": 3.8999786,
+    "yaw": -173.37805
    },
    "homeBlock": [
-    997,
-    463
+    994,
+    467
    ],
    "townBlocks": [
     [
@@ -213,6 +213,10 @@
     ],
     [
      996,
+     461
+    ],
+    [
+     996,
      463
     ],
     [
@@ -226,11 +230,25 @@
    {
     "name": "SharpieSnorter5",
     "uuid": "54e8bd51-d63a-4c2a-985f-5af14c52ec3d"
+   },
+   {
+    "name": "StickingSoap520",
+    "uuid": "12e42cb9-f027-471f-8944-518f648b222b"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "StickingSoap520",
+    "uuid": "12e42cb9-f027-471f-8944-518f648b222b"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Cash City Door",
+    "uuid": "3806e288-8cdd-4d0c-a2bf-c406f8e06686"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

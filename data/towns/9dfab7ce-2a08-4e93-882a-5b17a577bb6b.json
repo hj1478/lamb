@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Shirak",
   "uuid": "9dfab7ce-2a08-4e93-882a-5b17a577bb6b",
@@ -12,19 +12,19 @@
    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": "Bagratid",
+   "uuid": "11012001-f00b-42e4-851d-d816b278b9a3"
   },
   "timestamps": {
    "registered": 1783448213928,
-   "joinedNationAt": 1792136913812,
+   "joinedNationAt": 1792610660516,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 137,
-   "maxTownBlocks": 232,
+   "numTownBlocks": 164,
+   "maxTownBlocks": 202,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 11,
+   "nationBonus": 10,
+   "numResidents": 16,
    "numTrusted": 1,
    "numOutlaws": 6,
    "balance": 0.0,
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15606.414065720872,
-    "y": 86.0,
-    "z": -7303.235412986276,
-    "pitch": 17.699848,
-    "yaw": -89.53873
+    "x": 15549.02173594197,
+    "y": 85.5,
+    "z": -7302.5283060550255,
+    "pitch": 8.399954,
+    "yaw": -81.45038
    },
    "homeBlock": [
-    975,
+    971,
     -457
    ],
    "townBlocks": [
@@ -132,6 +132,14 @@
      -472
     ],
     [
+     968,
+     -456
+    ],
+    [
+     968,
+     -457
+    ],
+    [
      982,
      -468
     ],
@@ -184,8 +192,16 @@
      -460
     ],
     [
+     968,
+     -458
+    ],
+    [
      982,
      -461
+    ],
+    [
+     968,
+     -459
     ],
     [
      982,
@@ -286,6 +302,18 @@
     [
      980,
      -475
+    ],
+    [
+     971,
+     -452
+    ],
+    [
+     971,
+     -453
+    ],
+    [
+     971,
+     -454
     ],
     [
      971,
@@ -364,6 +392,18 @@
      -455
     ],
     [
+     972,
+     -454
+    ],
+    [
+     972,
+     -453
+    ],
+    [
+     972,
+     -452
+    ],
+    [
      984,
      -468
     ],
@@ -516,16 +556,44 @@
      -466
     ],
     [
+     969,
+     -457
+    ],
+    [
      981,
      -472
+    ],
+    [
+     969,
+     -456
     ],
     [
      981,
      -471
     ],
     [
+     969,
+     -459
+    ],
+    [
      981,
      -470
+    ],
+    [
+     969,
+     -458
+    ],
+    [
+     969,
+     -453
+    ],
+    [
+     969,
+     -455
+    ],
+    [
+     969,
+     -454
     ],
     [
      974,
@@ -546,6 +614,10 @@
     [
      974,
      -458
+    ],
+    [
+     974,
+     -452
     ],
     [
      974,
@@ -560,6 +632,18 @@
      -455
     ],
     [
+     970,
+     -457
+    ],
+    [
+     970,
+     -458
+    ],
+    [
+     970,
+     -459
+    ],
+    [
      977,
      -471
     ],
@@ -580,6 +664,26 @@
      -457
     ],
     [
+     970,
+     -452
+    ],
+    [
+     970,
+     -453
+    ],
+    [
+     970,
+     -454
+    ],
+    [
+     970,
+     -455
+    ],
+    [
+     970,
+     -456
+    ],
+    [
      973,
      -453
     ],
@@ -590,6 +694,10 @@
     [
      976,
      -474
+    ],
+    [
+     973,
+     -452
     ],
     [
      973,
@@ -648,10 +756,6 @@
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    },
    {
-    "name": "BlueGuy333",
-    "uuid": "d85ff989-b900-4180-8af3-618a06547c3e"
-   },
-   {
     "name": "idkvop",
     "uuid": "0219fb22-8212-4c92-9b40-ebea6be5f61b"
    },
@@ -686,6 +790,30 @@
    {
     "name": "MONGSO",
     "uuid": "be90cc5f-7667-4ae2-a5b5-4aa7a6de7537"
+   },
+   {
+    "name": "_dahsoup_",
+    "uuid": "7bbab964-02fc-4456-a53a-df58b294b4e7"
+   },
+   {
+    "name": "Frxstiy",
+    "uuid": "47783888-0e1b-4748-8efd-c8615a1816c8"
+   },
+   {
+    "name": "LordAnant",
+    "uuid": "7297d11d-2aa7-48d5-be28-928aab1d1dce"
+   },
+   {
+    "name": "Eli_next",
+    "uuid": "987d0fa7-697d-4382-a9e2-196a51745684"
+   },
+   {
+    "name": "RusSlush",
+    "uuid": "6e5721ee-71ee-48ce-9f04-63830ddabcbf"
+   },
+   {
+    "name": "NotHere2X",
+    "uuid": "dbb48366-2898-401d-9b1a-5d598d46e839"
    }
   ],
   "trusted": [
@@ -712,12 +840,12 @@
     "uuid": "e67a17c8-8afa-4956-b3d7-2e1f90f89fd5"
    },
    {
-    "name": "Illmenia",
-    "uuid": "f5b1ddd5-afdf-4e86-b7b3-d8f0b870e8d3"
-   },
-   {
     "name": "saxonhermo12",
     "uuid": "ff0e209d-9df5-41c5-8fc1-fd57368491dc"
+   },
+   {
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
    }
   ],
   "quarters": [
@@ -902,10 +1030,6 @@
     "uuid": "99ac8946-1a4e-49a9-8578-933bd98ea07a"
    },
    {
-    "name": "Elegant Suite",
-    "uuid": "0fbdfa99-e7f0-4494-9b38-de570aae94b3"
-   },
-   {
     "name": "Dull Property",
     "uuid": "65a759d4-9e10-49a9-8750-d9d8fbc495a5"
    },
@@ -916,6 +1040,22 @@
    {
     "name": "Enraging Dwelling",
     "uuid": "32e8a92c-b43b-4119-9334-38faaf89fef1"
+   },
+   {
+    "name": "Enraging Dwelling",
+    "uuid": "22fddca7-ab3c-4c22-b80a-be11da7c2aa5"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "ec8af392-062f-4c0c-a8d1-a0e92f8a2e19"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "0fbdfa99-e7f0-4494-9b38-de570aae94b3"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "bcc8e084-bfa9-49c1-a863-0df8b49a8861"
    }
   ],
   "ranks": {

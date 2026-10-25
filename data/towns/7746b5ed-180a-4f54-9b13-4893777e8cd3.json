@@ -1,0 +1,162 @@
+{
+ "fetched_at": "2026-10-25T11:43:13Z",
+ "data": {
+  "name": "Palermo",
+  "uuid": "7746b5ed-180a-4f54-9b13-4893777e8cd3",
+  "board": "/town set board [msg]",
+  "founder": "poszan",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Grojnik",
+   "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"
+  },
+  "nation": {
+   "name": "Italy",
+   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+  },
+  "timestamps": {
+   "registered": 1792922753705,
+   "joinedNationAt": 1792922776668,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": true,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 3,
+   "balance": 0.0,
+   "forSalePrice": 10000.0
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 5083.110406230616,
+    "y": 61.30009174667514,
+    "z": -6329.707114743441,
+    "pitch": 3.7499826,
+    "yaw": -178.44438
+   },
+   "homeBlock": [
+    317,
+    -396
+   ],
+   "townBlocks": [
+    [
+     318,
+     -394
+    ],
+    [
+     316,
+     -394
+    ],
+    [
+     317,
+     -395
+    ],
+    [
+     317,
+     -394
+    ],
+    [
+     317,
+     -396
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Grojnik",
+    "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "poszan",
+    "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "justromann",
+    "uuid": "984c300d-ed52-4b60-a040-bdce6a2062ef"
+   },
+   {
+    "name": "Vellange",
+    "uuid": "c258e7fb-a1ce-4808-9db2-be38159b82b3"
+   },
+   {
+    "name": "XxSilentJ",
+    "uuid": "037ce39e-5fd7-4302-86e1-a1c2a3e9d0d7"
+   }
+  ],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "Grojnik",
+     "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

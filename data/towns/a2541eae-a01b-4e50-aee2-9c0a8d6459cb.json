@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Margate",
   "uuid": "a2541eae-a01b-4e50-aee2-9c0a8d6459cb",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kappaonze",
-   "uuid": "97d13230-13ce-4bed-91da-1935c2a7224a"
+   "name": "NPC101",
+   "uuid": "ab7d0624-0cbb-2029-a7d8-9c05f257c841"
   },
   "nation": {
-   "name": "RSA",
-   "uuid": "d1c8c00f-4c43-4527-a2e2-5d2aeb55809c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781300642656,
-   "joinedNationAt": 1781748199645,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663200641
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 80,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -416,16 +416,11 @@
   },
   "residents": [
    {
-    "name": "kappaonze",
-    "uuid": "97d13230-13ce-4bed-91da-1935c2a7224a"
+    "name": "NPC101",
+    "uuid": "ab7d0624-0cbb-2029-a7d8-9c05f257c841"
    }
   ],
-  "trusted": [
-   {
-    "name": "CatzGoddezz",
-    "uuid": "bd5e28b0-8104-4b85-9e56-70fff387793a"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

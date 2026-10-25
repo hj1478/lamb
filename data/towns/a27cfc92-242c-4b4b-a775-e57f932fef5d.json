@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Hyderabad",
   "uuid": "a27cfc92-242c-4b4b-a775-e57f932fef5d",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -116,6 +116,10 @@
      117
     ],
     [
+     1755,
+     118
+    ],
+    [
      1754,
      118
     ],
@@ -146,34 +150,16 @@
    {
     "name": "Secret_Agent009",
     "uuid": "c6869dcc-7701-4aaf-a7aa-5d0e17d2a317"
-   },
-   {
-    "name": "Hav0c_11",
-    "uuid": "b381e2a8-43e2-4e8e-b278-96ea7a9228fa"
-   },
-   {
-    "name": "Naga68",
-    "uuid": "f87fe04b-d075-45ce-a31c-a849f906d786"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Naga68",
-     "uuid": "f87fe04b-d075-45ce-a31c-a849f906d786"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "Hav0c_11",
-     "uuid": "b381e2a8-43e2-4e8e-b278-96ea7a9228fa"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

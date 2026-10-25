@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Severight",
   "uuid": "b4665937-01fc-4445-b21d-695ac58d3ced",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 130,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 11.0,
@@ -615,6 +615,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "RoastedPeanut10",
+    "uuid": "b3c252f5-202d-439d-a30d-a98ef5a5228c"
+   },
    {
     "name": "Mr_Vgy",
     "uuid": "bd13df78-4de6-489b-b3b5-152544d49583"

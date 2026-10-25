@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Britain",
   "uuid": "ad467655-02f4-4b4b-be4c-0ce22ecab12a",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 161,
+   "numTownBlocks": 167,
    "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 15,
    "numTrusted": 8,
-   "numOutlaws": 10,
-   "balance": 53.0,
+   "numOutlaws": 9,
+   "balance": 101.0,
    "forSalePrice": null
   },
   "perms": {
@@ -229,6 +229,10 @@
     ],
     [
      -138,
+     -846
+    ],
+    [
+     -138,
      -847
     ],
     [
@@ -460,6 +464,10 @@
      -849
     ],
     [
+     -141,
+     -847
+    ],
+    [
      -139,
      -851
     ],
@@ -469,11 +477,11 @@
     ],
     [
      -141,
-     -847
+     -848
     ],
     [
-     -141,
-     -848
+     -139,
+     -846
     ],
     [
      -141,
@@ -494,6 +502,10 @@
     [
      -139,
      -847
+    ],
+    [
+     -135,
+     -846
     ],
     [
      -141,
@@ -542,6 +554,10 @@
     [
      -139,
      -855
+    ],
+    [
+     -134,
+     -846
     ],
     [
      -136,
@@ -656,6 +672,10 @@
      -853
     ],
     [
+     -136,
+     -846
+    ],
+    [
      -137,
      -852
     ],
@@ -670,6 +690,10 @@
     [
      -136,
      -849
+    ],
+    [
+     -137,
+     -846
     ],
     [
      -137,
@@ -744,10 +768,6 @@
     "uuid": "0238a125-4b46-4bff-87d6-048b4335dd48"
    },
    {
-    "name": "Spyke1899",
-    "uuid": "a31dd0c8-9cda-4e9b-914a-4226787dfec3"
-   },
-   {
     "name": "SphenyMan",
     "uuid": "2cebf7c9-14a9-4e29-825b-1fd1a87c216e"
    },
@@ -772,10 +792,6 @@
     "uuid": "4ecd7c92-1af9-412b-ba05-c466f1f4f27b"
    },
    {
-    "name": "UmaMoonlight",
-    "uuid": "82c29126-c990-47b5-9516-b0c9e0a6dc5a"
-   },
-   {
     "name": "Elvitika",
     "uuid": "65a967aa-e07b-4f79-967c-91917f81face"
    },
@@ -798,6 +814,14 @@
    {
     "name": "Def1ned_Noob",
     "uuid": "cce78cc2-c6ac-4455-93e1-942bff4b8f4d"
+   },
+   {
+    "name": "WAFFLEMAN955",
+    "uuid": "c7a3f148-a924-4645-b377-278daa12500a"
+   },
+   {
+    "name": "ToxicVoidSlayer",
+    "uuid": "3d1b0769-fc64-46d6-9fa4-ffccca46f55d"
    }
   ],
   "trusted": [
@@ -852,10 +876,6 @@
     "uuid": "86bd1bc5-1d1c-44b4-92ce-c4c91970f8de"
    },
    {
-    "name": "BurbLegend",
-    "uuid": "34f36162-e089-4207-a195-990f6af97bfa"
-   },
-   {
     "name": "RatGooner",
     "uuid": "74569d03-65cd-4292-afbf-dd889128c918"
    },
@@ -892,7 +912,12 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Elvitika",
+     "uuid": "65a967aa-e07b-4f79-967c-91917f81face"
+    }
+   ],
    "Recruiter": [
     {
      "name": "Xertu0087",

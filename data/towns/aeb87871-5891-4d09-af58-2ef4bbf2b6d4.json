@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Bremen",
   "uuid": "aeb87871-5891-4d09-af58-2ef4bbf2b6d4",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheLuffy123",
-   "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
+   "name": "axieyoel",
+   "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
   },
   "nation": {
    "name": "Germany",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 398,
-   "maxTownBlocks": 412,
+   "maxTownBlocks": 532,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
-   "numTrusted": 2,
-   "numOutlaws": 4,
-   "balance": 832.0,
+   "numResidents": 36,
+   "numTrusted": 1,
+   "numOutlaws": 5,
+   "balance": 95.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -108,12 +108,12 @@
      -812
     ],
     [
-     207,
-     -803
-    ],
-    [
      201,
      -799
+    ],
+    [
+     207,
+     -803
     ],
     [
      201,
@@ -150,10 +150,6 @@
     [
      207,
      -809
-    ],
-    [
-     207,
-     -808
     ],
     [
      201,
@@ -161,6 +157,10 @@
     ],
     [
      207,
+     -808
+    ],
+    [
+     207,
      -799
     ],
     [
@@ -256,20 +256,20 @@
      -802
     ],
     [
-     198,
-     -801
-    ],
-    [
      216,
      -803
     ],
     [
      198,
-     -800
+     -801
     ],
     [
      216,
      -802
+    ],
+    [
+     198,
+     -800
     ],
     [
      216,
@@ -328,14 +328,14 @@
      -813
     ],
     [
-     216,
-     -812
-    ],
-    [
      198,
      -798
     ],
     [
+     216,
+     -812
+    ],
+    [
      212,
      -813
     ],
@@ -392,48 +392,52 @@
      -803
     ],
     [
-     212,
-     -802
-    ],
-    [
      221,
      -813
     ],
     [
-     220,
-     -803
+     212,
+     -802
     ],
     [
      221,
      -812
     ],
     [
-     212,
-     -809
+     220,
+     -803
     ],
     [
-     220,
-     -802
+     212,
+     -809
     ],
     [
      221,
      -811
     ],
     [
+     220,
+     -802
+    ],
+    [
      212,
      -808
     ],
     [
-     212,
-     -807
+     221,
+     -810
     ],
     [
      220,
      -805
     ],
     [
+     212,
+     -807
+    ],
+    [
      221,
-     -810
+     -809
     ],
     [
      220,
@@ -442,10 +446,6 @@
     [
      212,
      -806
-    ],
-    [
-     221,
-     -809
     ],
     [
      220,
@@ -644,20 +644,16 @@
      -811
     ],
     [
-     227,
-     -810
-    ],
-    [
      214,
      -802
     ],
     [
      227,
-     -809
+     -810
     ],
     [
      227,
-     -808
+     -809
     ],
     [
      214,
@@ -665,11 +661,15 @@
     ],
     [
      227,
-     -807
+     -808
     ],
     [
      214,
      -803
+    ],
+    [
+     227,
+     -807
     ],
     [
      202,
@@ -868,16 +868,12 @@
      -809
     ],
     [
-     228,
-     -813
-    ],
-    [
      215,
      -802
     ],
     [
      228,
-     -812
+     -813
     ],
     [
      215,
@@ -885,11 +881,15 @@
     ],
     [
      228,
-     -811
+     -812
     ],
     [
      215,
      -804
+    ],
+    [
+     228,
+     -811
     ],
     [
      215,
@@ -964,20 +964,16 @@
      -802
     ],
     [
+     217,
+     -804
+    ],
+    [
      226,
      -813
     ],
     [
      217,
-     -804
-    ],
-    [
-     217,
      -803
-    ],
-    [
-     226,
-     -811
     ],
     [
      217,
@@ -985,11 +981,15 @@
     ],
     [
      226,
-     -812
+     -811
     ],
     [
      217,
      -805
+    ],
+    [
+     226,
+     -812
     ],
     [
      217,
@@ -1160,12 +1160,12 @@
      -802
     ],
     [
-     223,
-     -803
-    ],
-    [
      219,
      -812
+    ],
+    [
+     223,
+     -803
     ],
     [
      223,
@@ -1176,12 +1176,16 @@
      -805
     ],
     [
+     219,
+     -809
+    ],
+    [
      223,
      -806
     ],
     [
      219,
-     -809
+     -808
     ],
     [
      223,
@@ -1189,15 +1193,11 @@
     ],
     [
      219,
-     -808
+     -811
     ],
     [
      223,
      -808
-    ],
-    [
-     219,
-     -811
     ],
     [
      219,
@@ -1448,20 +1448,20 @@
      -804
     ],
     [
-     225,
-     -803
-    ],
-    [
      218,
      -803
     ],
     [
      225,
-     -802
+     -803
     ],
     [
      218,
      -804
+    ],
+    [
+     225,
+     -802
     ],
     [
      218,
@@ -1570,14 +1570,14 @@
     [
      222,
      -804
-    ],
-    [
-     205,
-     -800
     ],
     [
      203,
      -808
+    ],
+    [
+     205,
+     -800
     ],
     [
      203,
@@ -1708,20 +1708,8 @@
     "uuid": "c64eecd1-9656-4f10-9b17-c9a17f5489b2"
    },
    {
-    "name": "code_tempesterss",
-    "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
-   },
-   {
-    "name": "TheLuffy123",
-    "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
-   },
-   {
     "name": "Dynamite_MC",
     "uuid": "b69a5cf8-2403-4bee-b98d-1456c59e4a33"
-   },
-   {
-    "name": "Dragon623",
-    "uuid": "ed3f8712-7dd2-44c5-b7b2-2d4f0499d3b6"
    },
    {
     "name": "Chickentalk",
@@ -1790,21 +1778,69 @@
    {
     "name": "MohAid",
     "uuid": "0e3f29a8-905e-4ed9-ad79-941db31e2d0a"
+   },
+   {
+    "name": "Freezy_bg",
+    "uuid": "337d227a-0653-47a1-a00c-b9a6478b7603"
+   },
+   {
+    "name": "axieyoel",
+    "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
+   },
+   {
+    "name": "olle2003",
+    "uuid": "2f7900a3-7c55-4e8c-8887-70e27b79cd08"
+   },
+   {
+    "name": "DoughFighter",
+    "uuid": "e98b1a62-b4c8-4c86-880b-83455e3aafed"
+   },
+   {
+    "name": "7unc",
+    "uuid": "0fe8a434-7d9f-4633-8774-98309fc03465"
+   },
+   {
+    "name": "Denisq0_25",
+    "uuid": "b942fcf2-ebd4-4860-bcdf-e523bd1c2ce8"
+   },
+   {
+    "name": "SweetLemonade69",
+    "uuid": "035082d0-f931-4e25-a7ab-68bdef41033e"
+   },
+   {
+    "name": "NOT_Player8",
+    "uuid": "81a83c7f-bdba-4ae2-8b17-1febbd663cd3"
+   },
+   {
+    "name": "woel",
+    "uuid": "c27db818-51ec-42ff-bb65-d39610033b3e"
+   },
+   {
+    "name": "_POL4RR_",
+    "uuid": "b47de7b3-a6ab-4a45-a874-55336028a830"
+   },
+   {
+    "name": "LordTodi",
+    "uuid": "580dab75-f959-40b6-bec6-01c4dcb9a25f"
+   },
+   {
+    "name": "Ol31234",
+    "uuid": "e9b50c98-3bc0-49f0-becd-9dc5c97b719a"
+   },
+   {
+    "name": "Apollo_kaka",
+    "uuid": "1cb0fffe-5b6a-4454-b6dd-68fbbb85ecb3"
    }
   ],
   "trusted": [
    {
-    "name": "TristanTT1506",
-    "uuid": "bdabeecf-eac0-489a-bfac-971400d9362e"
-   },
-   {
-    "name": "TheLuffy123",
-    "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
+    "name": "Troncatcomfy",
+    "uuid": "707f0123-88b2-450f-b39b-dc9be07f9ea2"
    }
   ],
   "outlaws": [
    {
-    "name": "JoelTheBigMac",
+    "name": "rowdycroc",
     "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
    },
    {
@@ -1818,6 +1854,10 @@
    {
     "name": "Denm4rk",
     "uuid": "010dab55-7448-4638-90c5-b07e0f7cb26b"
+   },
+   {
+    "name": "FinfinJAC1",
+    "uuid": "5e09f2f0-b04a-4579-b144-5322e88ebcc1"
    }
   ],
   "quarters": [
@@ -1878,44 +1918,12 @@
     "uuid": "fb4fdd64-17f4-429d-b63e-b5de87f8935d"
    },
    {
-    "name": "Annoying Dwelling",
-    "uuid": "be6a96d7-c1eb-4a95-b221-ab105b378f8e"
-   },
-   {
-    "name": "Luxurious Tenement",
-    "uuid": "41731cd1-ffda-471a-9309-c6ef782b522a"
-   },
-   {
-    "name": "Annoying Residence",
-    "uuid": "54053fc3-e4ab-4b93-84b4-f9e3e7201205"
-   },
-   {
-    "name": "Inconvenient Suite",
-    "uuid": "f4648236-44de-4d1e-ad92-89cfe69cd945"
-   },
-   {
-    "name": "Gloomy Residence",
-    "uuid": "8fcd16b6-b849-48a7-a4d3-336a180caaae"
-   },
-   {
-    "name": "Inconvenient Flat",
-    "uuid": "0bf8b2f1-2729-4cc1-8e7c-985a0a391ef5"
-   },
-   {
-    "name": "Inviting Tenement",
-    "uuid": "a346ec58-e61d-4d8b-a10d-6177c0b20ca5"
-   },
-   {
     "name": "q1",
     "uuid": "617f01be-5f99-4f7e-8480-360aa1dcdacd"
    },
    {
     "name": "Stylish Residence",
     "uuid": "cc5e9580-f9b5-44eb-8194-4661af3f3f6a"
-   },
-   {
-    "name": "Dingy Dwelling",
-    "uuid": "c5421bfc-3202-43e3-8197-1b77a2800846"
    },
    {
     "name": "house 6",
@@ -1928,10 +1936,6 @@
    {
     "name": "Inconvenient Flat",
     "uuid": "d65cbd33-9ed7-425f-8947-5c1dc57a854d"
-   },
-   {
-    "name": "Dull Quarter",
-    "uuid": "58428bb8-4d48-4688-80aa-160fe25c3c5f"
    },
    {
     "name": "Perturbing Flat",
@@ -1970,33 +1974,101 @@
     "uuid": "1b9752b6-6551-4399-8d46-624c53f75e91"
    },
    {
-    "name": "Dull Dwelling",
-    "uuid": "ff1ba3d1-7eb2-49f3-a466-e463ab84cf89"
-   },
-   {
-    "name": "Welcoming Flat",
-    "uuid": "179a5847-5414-49e0-9a9c-b736cef70395"
-   },
-   {
     "name": "Trees",
     "uuid": "4f647d35-1dbd-44e6-82c9-0616b364986d"
    },
    {
     "name": "Inviting Residence",
     "uuid": "3b607fff-a559-4821-a936-f2022d3a81e3"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "ff1ba3d1-7eb2-49f3-a466-e463ab84cf89"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "be6a96d7-c1eb-4a95-b221-ab105b378f8e"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "8fcd16b6-b849-48a7-a4d3-336a180caaae"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "c5421bfc-3202-43e3-8197-1b77a2800846"
+   },
+   {
+    "name": "Annoying Residence",
+    "uuid": "54053fc3-e4ab-4b93-84b4-f9e3e7201205"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "41731cd1-ffda-471a-9309-c6ef782b522a"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "a346ec58-e61d-4d8b-a10d-6177c0b20ca5"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "f4648236-44de-4d1e-ad92-89cfe69cd945"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "0bf8b2f1-2729-4cc1-8e7c-985a0a391ef5"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "179a5847-5414-49e0-9a9c-b736cef70395"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "58428bb8-4d48-4688-80aa-160fe25c3c5f"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "d9a7d9bd-7aca-4342-beb3-aa66630881da"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "ca6f15e3-1aa1-462d-b76f-e1c18b5aa33d"
+   },
+   {
+    "name": "Lovely Dwelling",
+    "uuid": "f93b72ab-a9bb-4170-be3b-85ebe2d8000d"
+   },
+   {
+    "name": "Lovely Tenement",
+    "uuid": "2e576e3a-15fb-4d64-84e8-97e4fa07b16a"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "de5fa2dc-d217-4049-aecb-d5c2ed0ed0dc"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "00edf727-5170-4571-b24c-16f9a9ef84b0"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "09476b1e-dc0b-4517-9cec-9837b803e8d0"
    }
   ],
   "ranks": {
    "Councillor": [
     {
-     "name": "code_tempesterss",
-     "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
+     "name": "7unc",
+     "uuid": "0fe8a434-7d9f-4633-8774-98309fc03465"
     }
    ],
    "Builder": [
     {
      "name": "nice_ist_nice",
      "uuid": "ea0f3697-27dc-4914-bc7e-859378763888"
+    },
+    {
+     "name": "olle2003",
+     "uuid": "2f7900a3-7c55-4e8c-8887-70e27b79cd08"
     }
    ],
    "Recruiter": [],

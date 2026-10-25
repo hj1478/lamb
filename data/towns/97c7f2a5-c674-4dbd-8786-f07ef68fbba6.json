@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Madagascar",
   "uuid": "97c7f2a5-c674-4dbd-8786-f07ef68fbba6",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 413,
-   "maxTownBlocks": 416,
+   "maxTownBlocks": 396,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 28,
-   "numTrusted": 7,
+   "numTrusted": 8,
    "numOutlaws": 1,
-   "balance": 20730.0,
+   "balance": 22002.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1773,6 +1773,10 @@
     "uuid": "6d903a9c-2311-473c-a1d3-cbf90354bf02"
    },
    {
+    "name": "__Zilla__",
+    "uuid": "b424016f-421b-461b-9ffa-b25f7da41abd"
+   },
+   {
     "name": "stillwater2155",
     "uuid": "1d2cf58e-fafc-446e-9f79-57128ebf527b"
    },
@@ -1789,24 +1793,8 @@
     "uuid": "01a09c67-46e1-4bec-8c1b-2ef494987acd"
    },
    {
-    "name": "Wastleck",
-    "uuid": "2a23749d-b0db-498a-98d0-1510279ba661"
-   },
-   {
-    "name": "Eraser_Mamila",
-    "uuid": "3bb84cc8-0dc3-4ba3-9d05-0d9a19e76502"
-   },
-   {
-    "name": "GondanikCraft",
-    "uuid": "82710283-e00b-470c-8d34-5820034c784c"
-   },
-   {
     "name": "whaterfall47",
     "uuid": "0d8cbbe3-0034-42ca-86eb-0675c0c02876"
-   },
-   {
-    "name": "Baxterblue",
-    "uuid": "620bae18-713a-4449-a3c0-ffbba20bc4f2"
    },
    {
     "name": "mace4ever4minoc",
@@ -1863,6 +1851,18 @@
    {
     "name": "Farawaymovie498",
     "uuid": "30f31eb2-bfcd-4fd6-a152-bcb810deda08"
+   },
+   {
+    "name": "FFJerry23",
+    "uuid": "6b7f8d11-15b5-4604-acda-4f0a5875f6a9"
+   },
+   {
+    "name": "Renster13",
+    "uuid": "c59e2744-0091-4a2d-8c14-28defc75235b"
+   },
+   {
+    "name": "Darthfloppy40196",
+    "uuid": "846eb333-9d4f-4d87-a08f-c1157c30e601"
    }
   ],
   "trusted": [
@@ -1885,6 +1885,10 @@
    {
     "name": "add___123",
     "uuid": "778e6de7-c2ea-4340-912c-c49b289c9a0d"
+   },
+   {
+    "name": "__Zilla__",
+    "uuid": "b424016f-421b-461b-9ffa-b25f7da41abd"
    },
    {
     "name": "SockTaters",
@@ -2047,10 +2051,6 @@
     "uuid": "f070e6e0-1551-4dbe-a066-b1740323b44c"
    },
    {
-    "name": "Bland Flat",
-    "uuid": "5bfab32a-7dd5-4c87-aacc-88f44512286b"
-   },
-   {
     "name": "Enraging Property",
     "uuid": "dea933cf-250e-4fbf-9ad9-60ba20796583"
    },
@@ -2063,20 +2063,12 @@
     "uuid": "164cdd1c-4370-4732-9bc4-8bbfbddfd159"
    },
    {
-    "name": "Inviting Quarter",
-    "uuid": "708cabb9-4879-4f51-9e35-c1efd6899ea0"
-   },
-   {
     "name": "Enraging Residence",
     "uuid": "fa4ebc27-f819-470e-be77-b3d353d9d36d"
    },
    {
     "name": "White Wool",
     "uuid": "9725ea04-7d56-49b4-a761-1fff9ff7e5b8"
-   },
-   {
-    "name": "Elegant Flat",
-    "uuid": "cc834eb7-403b-423c-846a-f3e145d35fe8"
    },
    {
     "name": "Stylish Property",
@@ -2111,18 +2103,6 @@
     "uuid": "60295305-9b80-40ae-84a5-5c6051350ee3"
    },
    {
-    "name": "Inviting Apartment",
-    "uuid": "abff4440-95d6-4943-abe8-4e70bf9aa97b"
-   },
-   {
-    "name": "Gloomy Flat",
-    "uuid": "887ee8fe-5697-461e-81e8-629b12d9bbfc"
-   },
-   {
-    "name": "Dull Residence",
-    "uuid": "fbd594cd-8449-4560-b925-3e5232098a4c"
-   },
-   {
     "name": "Joe's",
     "uuid": "465f0424-0f3e-41d9-818e-aef3531c6f99"
    },
@@ -2155,10 +2135,6 @@
     "uuid": "b6baea1f-c08c-4938-8deb-d34dd3b51d15"
    },
    {
-    "name": "Enraging Residence",
-    "uuid": "b4b8527b-5244-4c2b-9d97-a54d31b1d17c"
-   },
-   {
     "name": "Cheerful Residence",
     "uuid": "894e9242-c5d7-46a4-a9b5-4a82c723c63f"
    },
@@ -2169,10 +2145,6 @@
    {
     "name": "Malagassi Essentials",
     "uuid": "8858f007-0656-45b1-a1d1-e57f4212de5b"
-   },
-   {
-    "name": "RunnySideUp",
-    "uuid": "3438ea22-a81f-4c2c-b8c6-c64a05f8346a"
    },
    {
     "name": "Bland Residence",
@@ -2191,10 +2163,6 @@
     "uuid": "8f7ab624-3b9a-4aa3-91cc-b6d2163c881f"
    },
    {
-    "name": "Inconvenient Suite",
-    "uuid": "894d3b48-df42-4dcc-beea-2b9966a1a55a"
-   },
-   {
     "name": "Eggs",
     "uuid": "eb38a0ce-e841-40a1-8f70-15dfc70e10d8"
    },
@@ -2207,16 +2175,52 @@
     "uuid": "19e7dca7-3bfb-456b-9608-ae23a2f9c759"
    },
    {
-    "name": "Blue Eggs",
-    "uuid": "a7376a69-6f32-4147-a750-d6b8b69c398c"
-   },
-   {
     "name": "Warped Wart Blocks",
     "uuid": "f64f0095-d3be-4dbd-b1a1-a3c0fbeb0af6"
    },
    {
     "name": "Inconvenient Property",
     "uuid": "9a914c9f-831d-4297-9dfa-7843f9c1d980"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "894d3b48-df42-4dcc-beea-2b9966a1a55a"
+   },
+   {
+    "name": "Bland Flat",
+    "uuid": "5bfab32a-7dd5-4c87-aacc-88f44512286b"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "cc834eb7-403b-423c-846a-f3e145d35fe8"
+   },
+   {
+    "name": "Inviting Apartment",
+    "uuid": "abff4440-95d6-4943-abe8-4e70bf9aa97b"
+   },
+   {
+    "name": "Enraging Residence",
+    "uuid": "b4b8527b-5244-4c2b-9d97-a54d31b1d17c"
+   },
+   {
+    "name": "Dull Residence",
+    "uuid": "fbd594cd-8449-4560-b925-3e5232098a4c"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "887ee8fe-5697-461e-81e8-629b12d9bbfc"
+   },
+   {
+    "name": "Headbangerz",
+    "uuid": "3438ea22-a81f-4c2c-b8c6-c64a05f8346a"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "708cabb9-4879-4f51-9e35-c1efd6899ea0"
+   },
+   {
+    "name": "Blue Eggs",
+    "uuid": "a7376a69-6f32-4147-a750-d6b8b69c398c"
    }
   ],
   "ranks": {
@@ -2224,6 +2228,10 @@
     {
      "name": "explodingmelons",
      "uuid": "2ded9482-f403-4603-b46a-e197a3778e19"
+    },
+    {
+     "name": "FFJerry23",
+     "uuid": "6b7f8d11-15b5-4604-acda-4f0a5875f6a9"
     }
    ],
    "Builder": [],

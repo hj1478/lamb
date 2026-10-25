@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Nukus",
   "uuid": "aa84880c-509c-4001-84c8-28cd18d8796f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Lillwester",
-   "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+   "name": "NPC85",
+   "uuid": "2d35b772-be29-20bc-852e-eda3a612bd01"
   },
   "nation": {
-   "name": "Uzbekistan",
-   "uuid": "21e7f3c4-a4d2-4b30-a790-550d87505d9b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791573048342,
-   "joinedNationAt": 1791573091692,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792920965929
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 2,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,8 +128,8 @@
     "uuid": "c2e6c414-ebdf-4850-99df-c19e9f2de2e5"
    },
    {
-    "name": "Lillwester",
-    "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+    "name": "NPC85",
+    "uuid": "2d35b772-be29-20bc-852e-eda3a612bd01"
    }
   ],
   "trusted": [
@@ -159,12 +159,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Lillwester",
-     "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

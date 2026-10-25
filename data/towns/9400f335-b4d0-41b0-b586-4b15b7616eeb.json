@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Isauria",
   "uuid": "9400f335-b4d0-41b0-b586-4b15b7616eeb",
-  "board": "balance-95g",
+  "board": "Forsale",
   "founder": "hilel143",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "hilel143",
-   "uuid": "1ef0ce50-ce50-43ff-8914-5d51f122a5f0"
+   "name": "SomeoneRandomis",
+   "uuid": "e8dcde7b-70ab-48c1-bb00-b08199677571"
   },
   "nation": {
    "name": "Byzantium",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
+   "numTownBlocks": 30,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -144,6 +144,14 @@
      -374
     ],
     [
+     704,
+     -371
+    ],
+    [
+     704,
+     -370
+    ],
+    [
      702,
      -374
     ],
@@ -154,6 +162,10 @@
     [
      706,
      -372
+    ],
+    [
+     706,
+     -371
     ],
     [
      706,
@@ -176,6 +188,10 @@
      -375
     ],
     [
+     705,
+     -370
+    ],
+    [
      706,
      -377
     ],
@@ -188,6 +204,10 @@
      -374
     ],
     [
+     706,
+     -370
+    ],
+    [
      703,
      -376
     ]
@@ -196,11 +216,16 @@
   },
   "residents": [
    {
-    "name": "hilel143",
-    "uuid": "1ef0ce50-ce50-43ff-8914-5d51f122a5f0"
+    "name": "SomeoneRandomis",
+    "uuid": "e8dcde7b-70ab-48c1-bb00-b08199677571"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

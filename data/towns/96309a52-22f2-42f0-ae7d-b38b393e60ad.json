@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Curacao",
   "uuid": "96309a52-22f2-42f0-ae7d-b38b393e60ad",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "gezdomovec",
-   "uuid": "25d9aa8a-2411-4688-9de7-fd54a27c2c8c"
+   "name": "NPC75",
+   "uuid": "cb044888-0bd1-203c-a4a6-786ade8595d5"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791899595423,
-   "joinedNationAt": 1791916037077,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792863256049
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 46,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 4,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,16 +112,12 @@
      227
     ],
     [
-     -1548,
-     222
-    ],
-    [
      -1551,
      225
     ],
     [
      -1548,
-     223
+     222
     ],
     [
      -1551,
@@ -129,7 +125,7 @@
     ],
     [
      -1548,
-     224
+     223
     ],
     [
      -1551,
@@ -137,11 +133,15 @@
     ],
     [
      -1548,
-     225
+     224
     ],
     [
      -1551,
      224
+    ],
+    [
+     -1548,
+     225
     ],
     [
      -1551,
@@ -156,20 +156,20 @@
      220
     ],
     [
+     -1550,
+     227
+    ],
+    [
      -1543,
      228
     ],
     [
      -1550,
-     227
+     226
     ],
     [
      -1543,
      227
-    ],
-    [
-     -1550,
-     226
     ],
     [
      -1550,
@@ -246,10 +246,6 @@
     [
      -1547,
      226
-    ],
-    [
-     -1547,
-     223
     ],
     [
      -1552,
@@ -257,11 +253,15 @@
     ],
     [
      -1547,
-     224
+     223
     ],
     [
      -1552,
      221
+    ],
+    [
+     -1547,
+     224
     ],
     [
      -1542,
@@ -280,24 +280,17 @@
   },
   "residents": [
    {
-    "name": "gezdomovec",
-    "uuid": "25d9aa8a-2411-4688-9de7-fd54a27c2c8c"
-   },
-   {
-    "name": "Gezdak",
-    "uuid": "c8c6a399-48b0-4475-a82c-639cee085b44"
-   },
-   {
-    "name": "lolmaster22",
-    "uuid": "75011405-3f15-41f5-9349-a521caadf100"
-   },
+    "name": "NPC75",
+    "uuid": "cb044888-0bd1-203c-a4a6-786ade8595d5"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [
    {
     "name": "EconomyPuma3131",
     "uuid": "9c208806-622a-4035-8426-8b755720dcac"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Olomouc",
   "uuid": "aa444ad5-2658-42cf-a9a3-f076d52be6e8",
-  "board": "Anyone can join",
+  "board": "Anyone can join!",
   "founder": "Macxs445",
   "wiki": null,
   "discord": null,
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1782729793270,
-   "joinedNationAt": 1791807773724,
+   "joinedNationAt": 1792853962202,
    "ruinedAt": null
   },
   "status": {
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 141,
+   "numTownBlocks": 160,
    "maxTownBlocks": 218,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 14,
-   "numTrusted": 5,
+   "numTrusted": 4,
    "numOutlaws": 14,
    "balance": 0.0,
    "forSalePrice": null
@@ -152,6 +152,10 @@
      -704
     ],
     [
+     380,
+     -710
+    ],
+    [
      389,
      -711
     ],
@@ -176,11 +180,19 @@
      -708
     ],
     [
+     380,
+     -706
+    ],
+    [
      381,
      -705
     ],
     [
      389,
+     -707
+    ],
+    [
+     380,
      -707
     ],
     [
@@ -192,20 +204,40 @@
      -706
     ],
     [
+     380,
+     -708
+    ],
+    [
      381,
      -707
     ],
     [
      389,
      -705
+    ],
+    [
+     380,
+     -709
+    ],
+    [
+     381,
+     -708
     ],
     [
      389,
      -718
     ],
     [
+     380,
+     -704
+    ],
+    [
      389,
      -717
+    ],
+    [
+     380,
+     -705
     ],
     [
      389,
@@ -256,12 +288,28 @@
      -707
     ],
     [
+     379,
+     -704
+    ],
+    [
+     381,
+     -709
+    ],
+    [
      384,
      -705
     ],
     [
      388,
      -712
+    ],
+    [
+     379,
+     -705
+    ],
+    [
+     381,
+     -710
     ],
     [
      384,
@@ -272,12 +320,20 @@
      -713
     ],
     [
+     379,
+     -706
+    ],
+    [
      384,
      -707
     ],
     [
      388,
      -710
+    ],
+    [
+     379,
+     -707
     ],
     [
      384,
@@ -332,6 +388,10 @@
      -704
     ],
     [
+     379,
+     -708
+    ],
+    [
      383,
      -707
     ],
@@ -344,12 +404,20 @@
      -706
     ],
     [
+     379,
+     -709
+    ],
+    [
      391,
      -708
     ],
     [
      383,
      -709
+    ],
+    [
+     379,
+     -710
     ],
     [
      391,
@@ -542,6 +610,14 @@
     [
      391,
      -718
+    ],
+    [
+     382,
+     -709
+    ],
+    [
+     382,
+     -710
     ],
     [
      382,
@@ -676,10 +752,6 @@
     "uuid": "2e6c7416-6de2-414b-8034-a142a80ccd36"
    },
    {
-    "name": "Hesiceek",
-    "uuid": "27e7a1c6-4b71-4ad3-8b2e-c17010a09600"
-   },
-   {
     "name": "Netyks",
     "uuid": "82b854f5-d4ab-484b-90e3-7cc2bcd98cae"
    },
@@ -714,6 +786,10 @@
    {
     "name": "janvacha",
     "uuid": "03991f3f-5f42-4a48-99a8-f8f6db917428"
+   },
+   {
+    "name": "gamepayder",
+    "uuid": "c7c87745-d108-41ea-bfcb-4f08727a6718"
    }
   ],
   "trusted": [
@@ -724,10 +800,6 @@
    {
     "name": "AlbireoCZ",
     "uuid": "4275d88e-dc68-49af-8a47-2603da0a35f1"
-   },
-   {
-    "name": "dinnerbone37665",
-    "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
    },
    {
     "name": "MeetYT123",
@@ -756,10 +828,6 @@
     "uuid": "09d1a2d5-1e56-4b1b-a074-4fb8cdbb0ac7"
    },
    {
-    "name": "Datel17",
-    "uuid": "b15d0083-ff87-4812-9dbf-9edefa1a0b76"
-   },
-   {
     "name": "Filipka123",
     "uuid": "5febf484-1f05-44ce-b0d2-3d231600ee26"
    },
@@ -780,10 +848,6 @@
     "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    },
    {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
-   },
-   {
     "name": "MikosXD627",
     "uuid": "bc1a56ff-e886-4ee5-843a-f71d7024b831"
    },
@@ -794,6 +858,14 @@
    {
     "name": "Aarizqaid",
     "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
+   },
+   {
+    "name": "JPPAS",
+    "uuid": "2f4166d2-21d1-4f3f-bcb6-5ce5c7fbcb7e"
+   },
+   {
+    "name": "dinnerbone37665",
+    "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
    }
   ],
   "quarters": [
@@ -816,6 +888,18 @@
    {
     "name": "Gloomy Residence",
     "uuid": "d5941cef-c62f-4274-a251-d43c39066659"
+   },
+   {
+    "name": "Bland Suite",
+    "uuid": "1220b39f-5939-4574-a590-8fa7922fe703"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "c369e957-7e38-462b-9739-4c6d98463d2b"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "7c547a2e-e8e1-499a-b58c-3465b907a794"
    }
   ],
   "ranks": {

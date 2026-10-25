@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "RSK",
   "uuid": "b16eb8ca-27f3-49e8-8ffb-cdf7bf177c49",
@@ -12,12 +12,12 @@
    "uuid": "3ade7085-3663-4965-8d35-3099812deb5b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Yugoslavia",
+   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
   },
   "timestamps": {
    "registered": 1777845518760,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792689072953,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 234,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 60,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 1.0,
@@ -1038,6 +1038,10 @@
    {
     "name": "MaxTheAbbot",
     "uuid": "c35c902d-9464-4ddd-a9a4-8c6f8bb556e6"
+   },
+   {
+    "name": "Fioleciak_94",
+    "uuid": "fe873284-ea1b-4bb0-a2b4-31f4d7ec7689"
    }
   ],
   "trusted": [

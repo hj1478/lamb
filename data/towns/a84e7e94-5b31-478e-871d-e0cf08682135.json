@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Sharjah",
   "uuid": "a84e7e94-5b31-478e-871d-e0cf08682135",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 82,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 10,
+   "numOutlaws": 9,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -470,10 +470,6 @@
    {
     "name": "0xMilord",
     "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
-   },
-   {
-    "name": "morgbeast",
-    "uuid": "a0c542ef-2c5b-43c3-a582-32cc1ad09ef2"
    }
   ],
   "quarters": [

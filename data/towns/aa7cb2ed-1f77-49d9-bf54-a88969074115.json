@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Lunarcrest",
   "uuid": "aa7cb2ed-1f77-49d9-bf54-a88969074115",
-  "board": "/town set board [msg]",
+  "board": "Long Live Lunarcrest",
   "founder": "SilverSpadeMC",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 6.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,32 +80,32 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14473.471924047719,
-    "y": 63.0,
-    "z": 2373.9769092620745,
-    "pitch": 24.24276,
-    "yaw": 71.833984
+    "x": 14457.514843540468,
+    "y": 64.0,
+    "z": 2370.4981343511854,
+    "pitch": 2.7418249,
+    "yaw": 108.47504
    },
    "homeBlock": [
-    904,
+    903,
     148
    ],
    "townBlocks": [
     [
-     902,
-     148
-    ],
-    [
      901,
      147
     ],
     [
      902,
-     147
+     148
     ],
     [
      901,
      148
+    ],
+    [
+     902,
+     147
     ],
     [
      901,
@@ -120,12 +120,36 @@
      147
     ],
     [
+     905,
+     150
+    ],
+    [
+     905,
+     149
+    ],
+    [
+     905,
+     151
+    ],
+    [
      904,
      147
     ],
     [
      904,
+     149
+    ],
+    [
+     904,
      148
+    ],
+    [
+     904,
+     151
+    ],
+    [
+     904,
+     150
     ],
     [
      903,
@@ -134,6 +158,10 @@
     [
      903,
      146
+    ],
+    [
+     903,
+     149
     ],
     [
      903,
@@ -142,6 +170,10 @@
     [
      902,
      146
+    ],
+    [
+     903,
+     150
     ]
    ],
    "worlds": {}
@@ -150,6 +182,14 @@
    {
     "name": "SilverSpadeMC",
     "uuid": "8da4a4dc-66c0-4d4c-a63b-6fd229732e6e"
+   },
+   {
+    "name": "Thugatron300",
+    "uuid": "2341f96e-b032-45d2-a59c-61d140ea6f02"
+   },
+   {
+    "name": "Megladon831",
+    "uuid": "2e6b8f76-4a66-43f4-b178-5fe410abd07e"
    }
   ],
   "trusted": [
@@ -158,7 +198,12 @@
     "uuid": "f52739e0-bcbf-4376-b280-029af790bab3"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Knoxarr",
+    "uuid": "ba63373b-051a-453d-9a23-910557e6adba"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

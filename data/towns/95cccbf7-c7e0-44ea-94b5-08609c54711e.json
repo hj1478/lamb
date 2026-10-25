@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
-  "name": "Boryspil",
+  "name": "Troyeshchyna",
   "uuid": "95cccbf7-c7e0-44ea-94b5-08609c54711e",
   "board": "development and prosperity",
   "founder": "DarkFenixKV",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 110,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11083.117055224866,
-    "y": 64.0,
-    "z": -11736.34205219024,
-    "pitch": 4.200042,
-    "yaw": -1.9625244
+    "x": 11127.50218344181,
+    "y": 63.0,
+    "z": -11701.154424117889,
+    "pitch": 0.2219369,
+    "yaw": -105.36365
    },
    "homeBlock": [
-    692,
-    -734
+    695,
+    -732
    ],
    "townBlocks": [
     [
@@ -538,10 +538,6 @@
    {
     "name": "DarkFenixKV",
     "uuid": "40f51b46-6abe-423f-a3e2-1e4c4fbc1301"
-   },
-   {
-    "name": "YcazMC",
-    "uuid": "f449cc4d-4836-4f63-b747-395b68396708"
    },
    {
     "name": "SweptBranch153",

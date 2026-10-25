@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Real_Atlantis",
   "uuid": "a0920ae8-7cfa-4397-a4e9-f0df023f02a8",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 183.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,23 +80,63 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3795.571380091099,
+    "x": -3789.05943766553,
     "y": 64.0,
-    "z": 27867.02872795091,
-    "pitch": 83.22073,
-    "yaw": -177.38797
+    "z": 27861.69999998808,
+    "pitch": 36.49601,
+    "yaw": -145.05626
    },
    "homeBlock": [
-    -238,
+    -237,
     1741
    ],
    "townBlocks": [
+    [
+     -239,
+     1738
+    ],
+    [
+     -239,
+     1739
+    ],
+    [
+     -239,
+     1740
+    ],
     [
      -239,
      1741
     ],
     [
      -238,
+     1738
+    ],
+    [
+     -238,
+     1740
+    ],
+    [
+     -238,
+     1739
+    ],
+    [
+     -237,
+     1738
+    ],
+    [
+     -238,
+     1741
+    ],
+    [
+     -237,
+     1739
+    ],
+    [
+     -237,
+     1740
+    ],
+    [
+     -237,
      1741
     ]
    ],
@@ -110,7 +150,28 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "c2cc37de-0351-4f35-9d7d-e4bd5bf4c334"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "93380791-839d-4658-ab58-6ddd9ca38612"
+   },
+   {
+    "name": "Dull Apartment",
+    "uuid": "213620a4-245d-4457-b171-d9a15f19c5dc"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "89e02ee5-3be2-4498-8de8-e7779339f659"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "6f0640d4-d6e0-4faf-ba82-ce3a76de70d1"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

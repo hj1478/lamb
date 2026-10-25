@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Akkadia",
   "uuid": "a6e0fb34-51ca-4f40-ac67-9ca5c4e6ee30",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45316.551832277626,
+    "x": 45317.69999998808,
     "y": 68.0,
-    "z": -6187.323573697803,
-    "pitch": 29.549988,
-    "yaw": 94.78143
+    "z": -6187.308179768867,
+    "pitch": -8.550005,
+    "yaw": 89.23138
    },
    "homeBlock": [
     2832,
@@ -105,6 +105,10 @@
     ],
     [
      2830,
+     -386
+    ],
+    [
+     2830,
      -387
     ],
     [
@@ -112,12 +116,28 @@
      -388
     ],
     [
+     2830,
+     -388
+    ],
+    [
+     2832,
+     -385
+    ],
+    [
      2832,
      -387
     ],
     [
+     2833,
+     -386
+    ],
+    [
      2832,
      -386
+    ],
+    [
+     2831,
+     -385
     ]
    ],
    "worlds": {}
@@ -126,16 +146,34 @@
    {
     "name": "ONEBUILDS",
     "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
+   },
+   {
+    "name": "ezwo",
+    "uuid": "5c2d8fa8-5b33-4cbd-a096-e2047c9d20ec"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "CrownOfLech",
+    "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
+   }
+  ],
   "outlaws": [
    {
     "name": "AtillaKagan",
     "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Bland Tenement",
+    "uuid": "bb3ec7c9-2836-434f-82e7-73dcb14da505"
+   },
+   {
+    "name": "sungji",
+    "uuid": "15105a1c-305e-478b-a9c6-974558197e24"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

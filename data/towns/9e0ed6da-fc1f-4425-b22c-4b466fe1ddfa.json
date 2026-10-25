@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Plogoff",
   "uuid": "9e0ed6da-fc1f-4425-b22c-4b466fe1ddfa",
-  "board": "/town set board [msg]",
+  "board": "Eclairee par le phare brille la mer",
   "founder": "_Hermine_",
   "wiki": null,
   "discord": null,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1665.1605966367258,
+    "x": -1674.7466475370193,
     "y": 63.0,
-    "z": -10666.128951364464,
-    "pitch": 0.733709,
-    "yaw": 43.326874
+    "z": -10671.720318323014,
+    "pitch": 3.433706,
+    "yaw": 80.97595
    },
    "homeBlock": [
     -105,
@@ -112,12 +112,28 @@
      -668
     ],
     [
+     -102,
+     -668
+    ],
+    [
+     -102,
+     -667
+    ],
+    [
      -105,
      -666
     ],
     [
+     -103,
+     -667
+    ],
+    [
      -105,
      -667
+    ],
+    [
+     -103,
+     -668
     ],
     [
      -106,
@@ -128,12 +144,20 @@
      -667
     ],
     [
+     -103,
+     -666
+    ],
+    [
      -106,
      -666
     ],
     [
      -104,
      -667
+    ],
+    [
+     -104,
+     -666
     ],
     [
      -104,
@@ -146,6 +170,10 @@
    {
     "name": "_Hermine_",
     "uuid": "1b43206e-4c8a-4350-85d2-84a43a01581f"
+   },
+   {
+    "name": "OSCARO_D",
+    "uuid": "ce107af9-c59d-4606-a4c2-ac380566b6bd"
    }
   ],
   "trusted": [],

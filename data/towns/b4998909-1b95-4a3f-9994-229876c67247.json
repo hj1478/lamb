@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Cologne",
   "uuid": "b4998909-1b95-4a3f-9994-229876c67247",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 197,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 15,
    "numTrusted": 1,
-   "numOutlaws": 12,
-   "balance": 1670.0,
+   "numOutlaws": 13,
+   "balance": 1885.0,
    "forSalePrice": null
   },
   "perms": {
@@ -914,6 +914,34 @@
    {
     "name": "Musikmaedchen_11",
     "uuid": "a384c754-cd78-4d78-8d30-252c18f33ebd"
+   },
+   {
+    "name": "sougenbun",
+    "uuid": "2f2fa516-aea9-43b8-9480-a85028043c6b"
+   },
+   {
+    "name": "Otarin1707",
+    "uuid": "d2e05238-dbe3-4201-b289-825918f1ee26"
+   },
+   {
+    "name": "MUR4TA",
+    "uuid": "5d4e54cd-c53a-4c24-a149-ec921fdbbd35"
+   },
+   {
+    "name": "p1nk_h4ze",
+    "uuid": "5b2f94f6-5cb3-4dc8-a450-8117b54697c6"
+   },
+   {
+    "name": "Adas2024",
+    "uuid": "9c1db0ae-7085-4f01-b591-a1cefe8df66a"
+   },
+   {
+    "name": "sari1234567",
+    "uuid": "fbcfdc9d-29e2-4ab0-aee5-290063ff2c81"
+   },
+   {
+    "name": "WhoMoons",
+    "uuid": "af827f1b-bd64-4671-be86-9788440bdd40"
    }
   ],
   "trusted": [
@@ -944,10 +972,6 @@
     "uuid": "9fa510ab-6e37-4431-badf-5cae3b4d34f3"
    },
    {
-    "name": "Addychi01",
-    "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
-   },
-   {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
@@ -970,6 +994,14 @@
    {
     "name": "Meng_Shuo",
     "uuid": "dc7eb3bb-9e46-4ad7-9bd1-ca5a923c980c"
+   },
+   {
+    "name": "kbbnm",
+    "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
+   },
+   {
+    "name": "xtapodi_",
+    "uuid": "b84f91b7-efd6-43db-b926-d9a362456ca9"
    }
   ],
   "quarters": [
@@ -986,20 +1018,12 @@
     "uuid": "3580b4a5-692e-48ff-bd4f-5b0b13fddbb7"
    },
    {
-    "name": "Luxurious Property",
-    "uuid": "211f4601-704e-4f1e-a4a0-68a7587f4681"
-   },
-   {
     "name": "Mangrove Logs - 54 Stacks -",
     "uuid": "edda724b-5972-405e-8f28-204cd2d67f38"
    },
    {
     "name": "Mud - 54 Stacks -",
     "uuid": "8ffd5ae3-8ab1-4ce6-85bb-7f5a5a8186b0"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "00145653-27ac-4c4a-a78e-263b9a84b63c"
    },
    {
     "name": "Smooth Stone - 54 Stacks -",
@@ -1016,14 +1040,6 @@
    {
     "name": "Granite - 54 Stacks -",
     "uuid": "3d15585a-208b-4e22-90a6-da19c4691b2a"
-   },
-   {
-    "name": "Andesite - 54 Stacks -",
-    "uuid": "4029599a-b0e9-42c0-a34b-00fc0e88e5f7"
-   },
-   {
-    "name": "Andesite - 54 Stacks -",
-    "uuid": "41ed215b-ed08-41d0-8e63-62f88cf83a21"
    },
    {
     "name": "Diorite - 54 Stacks -",
@@ -1155,15 +1171,7 @@
    },
    {
     "name": "Oak Logs - 54 Stacks -",
-    "uuid": "0bfa0a89-0da1-4c26-a993-8c4a1d9063e1"
-   },
-   {
-    "name": "Oak Logs - 54 Stacks -",
     "uuid": "cd4d48ca-8c26-45cf-8a80-7ea260962d23"
-   },
-   {
-    "name": "Spruce Logs - 54 Stacks -",
-    "uuid": "2005360a-8390-49fc-843d-f777f0874c78"
    },
    {
     "name": "Birch Logs - 54 Stacks -",
@@ -1210,28 +1218,12 @@
     "uuid": "adcede2a-3f9e-409b-9ce4-dd35cdf59f60"
    },
    {
-    "name": "Upbeat Apartment",
-    "uuid": "36ccaf6b-65a4-431b-91d4-6c0dea461ece"
-   },
-   {
     "name": "Sandstone - 54 Stacks -",
     "uuid": "5ffb9711-98e3-43cc-b351-343a159c6985"
    },
    {
-    "name": "Warped Wart Blocks - 54 Stacks -",
-    "uuid": "24969048-18ef-4b15-924d-d348b056e877"
-   },
-   {
-    "name": "Nether Wart Blocks - 54 Stacks -",
-    "uuid": "48d3a4d1-3b8f-4ed8-ab0a-dcb0d1fb1ee0"
-   },
-   {
     "name": "Gravel - 54 Stacks -",
     "uuid": "a3a947be-c275-4d7e-9f2f-86775703b255"
-   },
-   {
-    "name": "Gloomy Apartment",
-    "uuid": "96ebd343-8958-45b1-918d-e9b7e19a158a"
    },
    {
     "name": "Sand - 54 Stacks -",
@@ -1242,20 +1234,8 @@
     "uuid": "2e9e9717-2da3-4abc-9018-33f206ff78ef"
    },
    {
-    "name": "Sugar Cane - 54 Stacks -",
-    "uuid": "d56d1c63-6951-42a0-8c1e-8bd83c00508d"
-   },
-   {
     "name": "Sand - 54 Stacks -",
     "uuid": "184371fc-cc05-4a9a-a63e-e614cf252a6c"
-   },
-   {
-    "name": "Honeycomb - 54 Stacks -",
-    "uuid": "76754729-f9d5-409b-a6e8-97fefdf3454f"
-   },
-   {
-    "name": "Elegant Dwelling",
-    "uuid": "08f7d886-547b-40b7-bd19-2210526e75a4"
    },
    {
     "name": "Tuff - 54 Stacks -",
@@ -1264,14 +1244,6 @@
    {
     "name": "Spruce Logs - 54 Stacks -",
     "uuid": "de87fce6-966e-4998-9e79-18457855a7b8"
-   },
-   {
-    "name": "Dark Oak Logs - 54 Stacks -",
-    "uuid": "93c56b5d-0a11-4881-babe-84abe5cde750"
-   },
-   {
-    "name": "Pale Oak Logs - 54 Stacks -",
-    "uuid": "9ce5a3da-dd8f-48c4-9c97-d09c0e0bcbdb"
    },
    {
     "name": "Pale Oak Logs - 54 Stacks -",
@@ -1286,8 +1258,80 @@
     "uuid": "50626455-a30a-4117-bdf9-0e16a53e7f6c"
    },
    {
+    "name": "RECYCLING - ALL BLOCKS WANTED",
+    "uuid": "02ba7774-92f0-4e2b-9b19-246baddaff07"
+   },
+   {
+    "name": "RECYCLING BIN",
+    "uuid": "ff961a71-433d-4134-9d14-0137030aa6f5"
+   },
+   {
+    "name": "Mossy Bricks - 54 Stacks -",
+    "uuid": "aa815718-a616-4861-9306-f006e22cc67a"
+   },
+   {
+    "name": "Cobblestone - 54 Stacks -",
+    "uuid": "54d0b904-cd44-41ee-99e3-e72d460e1257"
+   },
+   {
+    "name": "Stone - 54 Stacks -",
+    "uuid": "7db6f5f6-5e87-4203-b6a3-2866528589a7"
+   },
+   {
     "name": "Bamboo - 54 Stacks -",
     "uuid": "7eaa3289-41c3-4b9c-88f8-8d3aa023a39f"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "08f7d886-547b-40b7-bd19-2210526e75a4"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "96ebd343-8958-45b1-918d-e9b7e19a158a"
+   },
+   {
+    "name": "free food !",
+    "uuid": "bdea830f-96d7-43ae-b43b-3a45efc7fe82"
+   },
+   {
+    "name": "free food !",
+    "uuid": "beafd74c-df68-4e4c-ad32-e371ea03c3b9"
+   },
+   {
+    "name": "Dark Oak Logs - 54 Stacks -",
+    "uuid": "4f5e1da4-3238-4851-9d4b-7f387897d1b1"
+   },
+   {
+    "name": "Dark Oak Logs - 54 Stacks -",
+    "uuid": "93c56b5d-0a11-4881-babe-84abe5cde750"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "c9f087c8-a0ab-4321-b56e-42e1e451f9a6"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "00145653-27ac-4c4a-a78e-263b9a84b63c"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "36ccaf6b-65a4-431b-91d4-6c0dea461ece"
+   },
+   {
+    "name": "Oak Logs - 54 Stacks -",
+    "uuid": "0bfa0a89-0da1-4c26-a993-8c4a1d9063e1"
+   },
+   {
+    "name": "Spruce Logs - 54 Stacks -",
+    "uuid": "2005360a-8390-49fc-843d-f777f0874c78"
+   },
+   {
+    "name": "Pale Oak Logs - 54 Stacks -",
+    "uuid": "9ce5a3da-dd8f-48c4-9c97-d09c0e0bcbdb"
+   },
+   {
+    "name": "Addychi01 - 135 Stacks -",
+    "uuid": "ec32790e-fe3d-41a7-9bfc-c5941e7b7736"
    },
    {
     "name": "Grass - 54 Stacks -",
@@ -1298,16 +1342,24 @@
     "uuid": "49f73425-0925-4d08-9c99-d40422439525"
    },
    {
-    "name": "RECYCLING - ALL BLOCKS WANTED",
-    "uuid": "02ba7774-92f0-4e2b-9b19-246baddaff07"
+    "name": "Andesite - 54 Stacks -",
+    "uuid": "4029599a-b0e9-42c0-a34b-00fc0e88e5f7"
    },
    {
-    "name": "RECYCLING BIN",
-    "uuid": "ff961a71-433d-4134-9d14-0137030aa6f5"
+    "name": "Andesite - 54 Stacks -",
+    "uuid": "41ed215b-ed08-41d0-8e63-62f88cf83a21"
    },
    {
-    "name": "Enraging Quarter",
-    "uuid": "c9f087c8-a0ab-4321-b56e-42e1e451f9a6"
+    "name": "Bamboo Blocks - 54 Stacks -",
+    "uuid": "47f4fb12-e13e-4f52-b644-6a058cd28b4f"
+   },
+   {
+    "name": "Carrot - 54 Stacks -",
+    "uuid": "3c2058db-cbe3-4313-9e3b-ba20739083d4"
+   },
+   {
+    "name": "Sugar Cane - 54 Stacks -",
+    "uuid": "d56d1c63-6951-42a0-8c1e-8bd83c00508d"
    },
    {
     "name": "Beetroot - 54 Stacks -",
@@ -1319,43 +1371,15 @@
    },
    {
     "name": "Cobblestone - 54 Stacks -",
-    "uuid": "54d0b904-cd44-41ee-99e3-e72d460e1257"
+    "uuid": "091d5189-5694-4386-97ba-2c803ee925f7"
    },
    {
-    "name": "Cobblestone - 54 Stacks -",
-    "uuid": "091d5189-5694-4386-97ba-2c803ee925f7"
+    "name": "Honeycomb - 54 Stacks -",
+    "uuid": "76754729-f9d5-409b-a6e8-97fefdf3454f"
    },
    {
     "name": "Dripstone Blocks - 54 Stacks -",
     "uuid": "42f92a9b-739f-4b46-8815-2a9b1fb3b2ba"
-   },
-   {
-    "name": "Stone - 54 Stacks -",
-    "uuid": "7db6f5f6-5e87-4203-b6a3-2866528589a7"
-   },
-   {
-    "name": "Mossy Bricks - 54 Stacks -",
-    "uuid": "aa815718-a616-4861-9306-f006e22cc67a"
-   },
-   {
-    "name": "free food !",
-    "uuid": "beafd74c-df68-4e4c-ad32-e371ea03c3b9"
-   },
-   {
-    "name": "free food !",
-    "uuid": "bdea830f-96d7-43ae-b43b-3a45efc7fe82"
-   },
-   {
-    "name": "Carrot - 54 Stacks -",
-    "uuid": "3c2058db-cbe3-4313-9e3b-ba20739083d4"
-   },
-   {
-    "name": "Bamboo Blocks - 54 Stacks -",
-    "uuid": "47f4fb12-e13e-4f52-b644-6a058cd28b4f"
-   },
-   {
-    "name": "Dark Oak Logs - 54 Stacks -",
-    "uuid": "4f5e1da4-3238-4851-9d4b-7f387897d1b1"
    }
   ],
   "ranks": {

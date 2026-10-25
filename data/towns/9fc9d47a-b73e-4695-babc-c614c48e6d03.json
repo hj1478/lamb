@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Cefalu",
   "uuid": "9fc9d47a-b73e-4695-babc-c614c48e6d03",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 14,
    "numTrusted": 13,
    "numOutlaws": 0,
-   "balance": 51.0,
+   "balance": 125.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1261,56 +1261,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "mapart",
-    "uuid": "723ae70b-6ee8-466c-baae-5a36041eeec2",
-    "createdAt": 1779147960406,
-    "createdBy": "Coorisnar",
-    "access": "NATION",
-    "location": {
-     "x": 3129,
-     "y": 185,
-     "z": -6744
-    }
-   },
-   {
-    "name": "Main",
-    "uuid": "ff6f2b3e-a70e-4380-a053-ccc559e2c44d",
-    "createdAt": 1779006554415,
-    "createdBy": "Padme1",
-    "access": "RESIDENT",
-    "location": {
-     "x": 3091,
-     "y": 52,
-     "z": -6730
-    }
-   },
-   {
-    "name": "shop",
-    "uuid": "407dd9d4-549b-400b-846f-dc7c6ab2b05e",
-    "createdAt": 1781047047523,
-    "createdBy": "Padme1",
-    "access": "RESIDENT",
-    "location": {
-     "x": 3085,
-     "y": -61,
-     "z": -6745
-    }
-   },
-   {
-    "name": "farms",
-    "uuid": "f3217e51-cefe-47e0-9bcc-0d8184c54b42",
-    "createdAt": 1780210900441,
-    "createdBy": "Padme1",
-    "access": "RESIDENT",
-    "location": {
-     "x": 3090,
-     "y": 12,
-     "z": -6722
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

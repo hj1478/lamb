@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Polska",
   "uuid": "a7e78a71-27e8-4a37-a0ef-db67e05c4f83",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 64,
-   "maxTownBlocks": 232,
+   "numTownBlocks": 72,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
+   "numResidents": 16,
    "numTrusted": 1,
-   "numOutlaws": 9,
-   "balance": 0.0,
+   "numOutlaws": 10,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -184,8 +184,16 @@
      -786
     ],
     [
+     676,
+     -781
+    ],
+    [
      674,
      -787
+    ],
+    [
+     676,
+     -782
     ],
     [
      672,
@@ -196,24 +204,48 @@
      -788
     ],
     [
+     676,
+     -783
+    ],
+    [
      672,
      -781
+    ],
+    [
+     676,
+     -784
     ],
     [
      673,
      -783
     ],
     [
+     676,
+     -785
+    ],
+    [
      673,
      -784
+    ],
+    [
+     676,
+     -786
     ],
     [
      673,
      -785
     ],
     [
+     676,
+     -787
+    ],
+    [
      673,
      -786
+    ],
+    [
+     676,
+     -788
     ],
     [
      671,
@@ -394,6 +426,26 @@
    {
     "name": "kamil321321",
     "uuid": "548585d4-203f-4a36-ac8f-d209f1e47ab0"
+   },
+   {
+    "name": "Tudodoshe",
+    "uuid": "826d025d-f6a8-4518-81ab-57c0a8b12a43"
+   },
+   {
+    "name": "Karolekin123",
+    "uuid": "df34e411-fbc6-4381-8953-28afc158528e"
+   },
+   {
+    "name": "DominBoloy",
+    "uuid": "aaa1bf6c-d8bb-467e-9bbe-e0060a3736ff"
+   },
+   {
+    "name": "CrystalFrags_",
+    "uuid": "215cb66b-9479-4307-9b2d-c2fdc908f4b8"
+   },
+   {
+    "name": "Piatnaa",
+    "uuid": "6d3712ed-df79-4ca1-a20d-d725844ed6ca"
    }
   ],
   "trusted": [
@@ -438,6 +490,10 @@
    {
     "name": "KajoGrzybek",
     "uuid": "b1d630b8-f007-418f-b29d-48b142cded65"
+   },
+   {
+    "name": "HasanHasa",
+    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
    }
   ],
   "quarters": [],

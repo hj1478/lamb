@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Malibu",
   "uuid": "9575906f-2329-4c8d-9ff1-38637f24152e",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 157,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -733,16 +733,8 @@
     "uuid": "066e2a06-64ba-4a81-ae09-bce1fde381dd"
    },
    {
-    "name": "Mandojan",
-    "uuid": "1a452715-4d77-4d58-b412-fad744c73dfa"
-   },
-   {
-    "name": "Cland3r",
-    "uuid": "3a8b118f-9deb-437d-aa09-2a92e2f0a319"
-   },
-   {
-    "name": "Doollse",
-    "uuid": "483c18b6-96e1-4199-9c00-6975efc10926"
+    "name": "SML128",
+    "uuid": "d01d0d62-26ee-41b0-b6c3-d8d723b519f1"
    },
    {
     "name": "BitZack_",
@@ -750,6 +742,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "SML128",
+    "uuid": "d01d0d62-26ee-41b0-b6c3-d8d723b519f1"
+   },
    {
     "name": "Explosivefirewk",
     "uuid": "066e2a06-64ba-4a81-ae09-bce1fde381dd"

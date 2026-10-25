@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Oxford",
   "uuid": "a71a8c4a-e84d-4b7a-895a-85b6b45efe12",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 153,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 157,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -148,6 +148,10 @@
      -780
     ],
     [
+     -32,
+     -783
+    ],
+    [
      -29,
      -779
     ],
@@ -405,6 +409,10 @@
     ],
     [
      -28,
+     -779
+    ],
+    [
+     -28,
      -778
     ],
     [
@@ -421,6 +429,10 @@
     ],
     [
      -36,
+     -780
+    ],
+    [
+     -28,
      -780
     ],
     [
@@ -626,6 +638,10 @@
     [
      -33,
      -768
+    ],
+    [
+     -33,
+     -783
     ],
     [
      -31,
@@ -712,32 +728,11 @@
     "uuid": "8a336431-6c7f-442c-ad1e-a7c62c314621"
    },
    {
-    "name": "clancko100",
-    "uuid": "dee03fea-edcd-4af9-bcbc-0d21648a57cb"
-   },
-   {
-    "name": "BellumThirio",
-    "uuid": "5cbe1e1d-6e29-40df-82f8-4a7b392dee72"
-   },
-   {
-    "name": "TripletMC",
-    "uuid": "5ed08b48-e7bd-4ee2-9d0f-e1f830de3ede"
-   },
-   {
-    "name": "BenjaminWhale",
-    "uuid": "49c009fd-fc65-42ba-a16f-9b8f467e0034"
-   },
-   {
     "name": "goodbyecreeper3",
     "uuid": "d52472e7-a98b-4691-a377-3bae4aa939bd"
    }
   ],
-  "trusted": [
-   {
-    "name": "clancko100",
-    "uuid": "dee03fea-edcd-4af9-bcbc-0d21648a57cb"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "Walltuh_",

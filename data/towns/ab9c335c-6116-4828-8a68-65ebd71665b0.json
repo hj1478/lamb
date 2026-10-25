@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Atlantic_Casina",
   "uuid": "ab9c335c-6116-4828-8a68-65ebd71665b0",
@@ -12,12 +12,12 @@
    "uuid": "101ae041-04a2-4255-b280-18c1465262f0"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792375603616,
-   "joinedNationAt": 1792375789567,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -96,19 +96,19 @@
      284
     ],
     [
-     -1797,
-     283
-    ],
-    [
      -1798,
      282
     ],
     [
-     -1798,
+     -1797,
      283
     ],
     [
      -1799,
+     283
+    ],
+    [
+     -1798,
      283
     ],
     [
@@ -145,12 +145,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "VannyVanMan",
-     "uuid": "3110cd84-e89c-485a-8fda-5c4275fa4537"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

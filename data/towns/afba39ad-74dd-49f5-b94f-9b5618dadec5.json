@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Amos",
   "uuid": "afba39ad-74dd-49f5-b94f-9b5618dadec5",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 978.0,
+   "balance": 955.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,16 @@
    ],
    "townBlocks": [
     [
+     -1689,
+     -700
+    ],
+    [
      -1690,
      -698
+    ],
+    [
+     -1691,
+     -699
     ],
     [
      -1690,
@@ -104,8 +112,16 @@
      -697
     ],
     [
+     -1691,
+     -700
+    ],
+    [
      -1689,
      -698
+    ],
+    [
+     -1690,
+     -700
     ],
     [
      -1689,
@@ -114,6 +130,10 @@
     [
      -1690,
      -697
+    ],
+    [
+     -1691,
+     -698
     ]
    ],
    "worlds": {}
@@ -122,9 +142,18 @@
    {
     "name": "gigijay",
     "uuid": "44544282-df1e-430c-ae35-9a3e087e9d1a"
+   },
+   {
+    "name": "Jaymimi24",
+    "uuid": "ef9d86b6-d9a6-41bd-9580-74a89d8a25f7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Jaymimi24",
+    "uuid": "ef9d86b6-d9a6-41bd-9580-74a89d8a25f7"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Knoxville",
   "uuid": "ad9b4da4-c888-4956-b2fd-fa1c04ab4d8a",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 69,
+   "numTownBlocks": 78,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -172,6 +172,10 @@
      -360
     ],
     [
+     -1843,
+     -353
+    ],
+    [
      -1842,
      -360
     ],
@@ -253,7 +257,15 @@
     ],
     [
      -1841,
+     -353
+    ],
+    [
+     -1841,
      -355
+    ],
+    [
+     -1841,
+     -354
     ],
     [
      -1841,
@@ -284,6 +296,10 @@
      -356
     ],
     [
+     -1842,
+     -353
+    ],
+    [
      -1851,
      -355
     ],
@@ -301,6 +317,10 @@
     ],
     [
      -1842,
+     -354
+    ],
+    [
+     -1842,
      -355
     ],
     [
@@ -314,6 +334,10 @@
     [
      -1844,
      -361
+    ],
+    [
+     -1844,
+     -353
     ],
     [
      -1850,
@@ -360,12 +384,24 @@
      -358
     ],
     [
+     -1840,
+     -356
+    ],
+    [
      -1851,
      -354
     ],
     [
+     -1840,
+     -355
+    ],
+    [
      -1848,
      -361
+    ],
+    [
+     -1840,
+     -354
     ]
    ],
    "worlds": {}
@@ -458,6 +494,10 @@
    {
     "name": "stone",
     "uuid": "7df3d622-a3d0-4533-bb42-c159e1b2552e"
+   },
+   {
+    "name": "Stone",
+    "uuid": "f1c1763d-1716-4815-a560-22b318e05f5e"
    }
   ],
   "ranks": {

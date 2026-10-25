@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Newberry",
   "uuid": "adf8bfbf-8f81-4092-b647-32420f3bed72",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 55.0
   },
   "perms": {
    "build": [
@@ -91,6 +91,10 @@
     1187
    ],
    "townBlocks": [
+    [
+     2577,
+     1188
+    ],
     [
      2577,
      1187

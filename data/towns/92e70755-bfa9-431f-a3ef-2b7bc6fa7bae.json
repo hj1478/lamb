@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "US_Embassy",
   "uuid": "92e70755-bfa9-431f-a3ef-2b7bc6fa7bae",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 92,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 243.0,
+   "balance": 208.0,
    "forSalePrice": null
   },
   "perms": {
@@ -466,6 +466,10 @@
    {
     "name": "Superman8646",
     "uuid": "01267a06-786a-4ebe-bb32-f1fdf35ed6e3"
+   },
+   {
+    "name": "Evan_chick3n",
+    "uuid": "370e2caa-286a-48cf-8bbf-04fe66f05a7d"
    }
   ],
   "trusted": [
@@ -491,13 +495,23 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Evan_chick3n",
+     "uuid": "370e2caa-286a-48cf-8bbf-04fe66f05a7d"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "Evan_chick3n",
+     "uuid": "370e2caa-286a-48cf-8bbf-04fe66f05a7d"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

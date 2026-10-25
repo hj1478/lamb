@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Anyuan",
   "uuid": "90d2521f-fb42-4d86-870f-ae09e630289c",
@@ -8,37 +8,37 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PandaMacko",
-   "uuid": "ebc69275-5fa2-488a-8ded-7b1319c84ccb"
+   "name": "NPC42",
+   "uuid": "24e2bcf0-fdcc-2001-8c39-8b2ba774dfa0"
   },
   "nation": {
-   "name": "PRC",
-   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788964628784,
-   "joinedNationAt": 1788965077078,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663203136
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 45,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,10 +140,6 @@
      -311
     ],
     [
-     2429,
-     -310
-    ],
-    [
      2425,
      -310
     ],
@@ -162,10 +158,6 @@
     [
      2431,
      -310
-    ],
-    [
-     2429,
-     -309
     ],
     [
      2434,
@@ -220,20 +212,12 @@
      -312
     ],
     [
-     2428,
-     -310
-    ],
-    [
      2427,
      -309
     ],
     [
      2431,
      -311
-    ],
-    [
-     2428,
-     -309
     ],
     [
      2427,
@@ -265,10 +249,6 @@
     ],
     [
      2430,
-     -309
-    ],
-    [
-     2430,
      -310
     ]
    ],
@@ -276,8 +256,8 @@
   },
   "residents": [
    {
-    "name": "PandaMacko",
-    "uuid": "ebc69275-5fa2-488a-8ded-7b1319c84ccb"
+    "name": "NPC42",
+    "uuid": "24e2bcf0-fdcc-2001-8c39-8b2ba774dfa0"
    }
   ],
   "trusted": [

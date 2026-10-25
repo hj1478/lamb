@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Hulunbuir",
   "uuid": "9bb5ee7d-34cf-419d-8e56-dbe514b63b6c",
@@ -12,23 +12,23 @@
    "uuid": "592654c3-ffc8-4489-8c87-598ced46666d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Manchuria",
+   "uuid": "0b048742-5448-454a-a0f6-645ff632e34f"
   },
   "timestamps": {
    "registered": 1781880442165,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792709847503,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 29,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": true,
+    "pvp": false,
     "explosion": false,
     "fire": false,
     "mobs": false

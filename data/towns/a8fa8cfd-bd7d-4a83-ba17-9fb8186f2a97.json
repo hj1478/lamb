@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Great_Moravia",
   "uuid": "a8fa8cfd-bd7d-4a83-ba17-9fb8186f2a97",
-  "board": "Duchy of Czechoslovakia",
+  "board": "Long Live The PLC",
   "founder": "void_master_89",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 52,
-   "maxTownBlocks": 208,
+   "numTownBlocks": 71,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
+   "numResidents": 8,
    "numTrusted": 2,
-   "numOutlaws": 3,
-   "balance": 34.0,
+   "numOutlaws": 4,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6152.12185314913,
+    "x": 6151.799847555389,
     "y": 64.0,
-    "z": -11014.080867262297,
-    "pitch": 19.80055,
-    "yaw": -0.09239054
+    "z": -11015.62692386055,
+    "pitch": 24.00055,
+    "yaw": 1.107544
    },
    "homeBlock": [
     384,
@@ -101,6 +101,10 @@
     ],
     [
      384,
+     -691
+    ],
+    [
+     384,
      -690
     ],
     [
@@ -108,6 +112,10 @@
      -683
     ],
     [
+     380,
+     -690
+    ],
+    [
      384,
      -685
     ],
@@ -141,7 +149,23 @@
     ],
     [
      380,
+     -682
+    ],
+    [
+     380,
+     -683
+    ],
+    [
+     380,
+     -684
+    ],
+    [
+     380,
      -685
+    ],
+    [
+     378,
+     -686
     ],
     [
      386,
@@ -172,6 +196,14 @@
      -690
     ],
     [
+     378,
+     -688
+    ],
+    [
+     378,
+     -687
+    ],
+    [
      382,
      -689
     ],
@@ -205,6 +237,14 @@
     ],
     [
      382,
+     -682
+    ],
+    [
+     382,
+     -683
+    ],
+    [
+     382,
      -684
     ],
     [
@@ -216,8 +256,16 @@
      -686
     ],
     [
+     381,
+     -682
+    ],
+    [
      382,
      -687
+    ],
+    [
+     381,
+     -683
     ],
     [
      381,
@@ -226,6 +274,18 @@
     [
      382,
      -688
+    ],
+    [
+     379,
+     -688
+    ],
+    [
+     379,
+     -689
+    ],
+    [
+     379,
+     -690
     ],
     [
      379,
@@ -252,6 +312,14 @@
      -688
     ],
     [
+     385,
+     -691
+    ],
+    [
+     383,
+     -691
+    ],
+    [
      383,
      -690
     ],
@@ -276,8 +344,16 @@
      -690
     ],
     [
+     383,
+     -683
+    ],
+    [
      385,
      -689
+    ],
+    [
+     383,
+     -682
     ],
     [
      383,
@@ -329,10 +405,6 @@
     "uuid": "f6a809e7-806e-487a-9dfa-30ec073c9ef4"
    },
    {
-    "name": "mitchellsmaid",
-    "uuid": "4959cb8b-fd64-4340-aac8-1e53215a0d2b"
-   },
-   {
     "name": "McFishy_76",
     "uuid": "103c9d8e-13ce-403e-a45b-431518e04bd8"
    },
@@ -367,6 +439,10 @@
    {
     "name": "Tomino1CZ",
     "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+   },
+   {
+    "name": "FeliksTV",
+    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
    }
   ],
   "quarters": [
@@ -457,6 +533,30 @@
    {
     "name": "Dingy Quarter",
     "uuid": "0b633b9b-3692-4274-b29d-c81ff94ef475"
+   },
+   {
+    "name": "Bland Tenement",
+    "uuid": "07e19fbe-20f3-4942-b485-4acd686d97b3"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "f3e7eb95-9291-4e0c-a2e3-343b4bea809f"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "e2369076-741e-4a24-9e68-fed9dc08afa4"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "ddbefdfc-4c5f-4023-b395-ef65bbcb930f"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "bab9bee2-c21f-42cd-bc94-4f48dbbcaa4b"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "bbe67fa8-e034-46ea-8dc1-3b25308fca2a"
    }
   ],
   "ranks": {
@@ -466,12 +566,7 @@
      "uuid": "9f69e1a0-90ed-4461-80e8-f032000f5eaf"
     }
    ],
-   "Builder": [
-    {
-     "name": "mitchellsmaid",
-     "uuid": "4959cb8b-fd64-4340-aac8-1e53215a0d2b"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
-  "name": "Massaua",
+  "name": "Eritrea",
   "uuid": "b33b6712-6791-432d-908f-8b036525495c",
-  "board": "Humana Civiltas",
+  "board": "Glory to Eritrea! Glory to Ethiopia! Glory to Abyssinia!",
   "founder": "butofufu",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": "Ethiopia",
+   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
   },
   "timestamps": {
    "registered": 1778796942725,
-   "joinedNationAt": 1792306218491,
+   "joinedNationAt": 1792404326370,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 176,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 3,
+   "numResidents": 8,
+   "numTrusted": 1,
    "numOutlaws": 9,
-   "balance": 10.0,
+   "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
@@ -800,32 +800,48 @@
   },
   "residents": [
    {
+    "name": "PromoCat373",
+    "uuid": "12d6d9de-b7cf-487a-8b94-d4d819dd3ba2"
+   },
+   {
+    "name": "Vitivity",
+    "uuid": "5df6a408-b160-405f-aeb8-c4dc2cec61f9"
+   },
+   {
+    "name": "OB_WhiteEye",
+    "uuid": "9b05e0c7-1346-49d5-93a1-a641b6827180"
+   },
+   {
+    "name": "JohnPaul1985",
+    "uuid": "c151a995-3bf1-4fb2-8eda-d72872d81d53"
+   },
+   {
+    "name": "Kisasooo",
+    "uuid": "bc6f1b5e-9dfd-40ba-af79-869032bea4d9"
+   },
+   {
+    "name": "rhanmitchell",
+    "uuid": "874aa4a5-eb8a-4c5d-82a2-edd927438a6f"
+   },
+   {
     "name": "icedteaslurpee",
     "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
+   },
+   {
+    "name": "dragondev02",
+    "uuid": "de4b9e98-4982-4c36-a54c-4dff24128609"
    }
   ],
   "trusted": [
    {
     "name": "icedteaslurpee",
     "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
-   },
-   {
-    "name": "Shedowo",
-    "uuid": "a5752e54-9239-4e66-bd6d-0a99b00d1fc2"
-   },
-   {
-    "name": "dottorecasa",
-    "uuid": "294c16a9-a28f-4a02-818a-b95d2edeef69"
    }
   ],
   "outlaws": [
    {
     "name": "CrazyDude5",
     "uuid": "b4ac745c-790d-4715-9fc2-64afc4d3b830"
-   },
-   {
-    "name": "dymoslaw",
-    "uuid": "7e601040-9069-457a-8d55-5fd04db9f253"
    },
    {
     "name": "Gamerhallootjes",
@@ -854,17 +870,13 @@
    {
     "name": "Shrimpshin_TM",
     "uuid": "fdf19cdf-fd4a-447b-9dfc-0bc0d7a6fe4c"
+   },
+   {
+    "name": "dguyslays",
+    "uuid": "d3bd1c51-5642-46b3-86bd-e396464c7819"
    }
   ],
   "quarters": [
-   {
-    "name": "Inviting Property",
-    "uuid": "3391f269-84a0-4b17-903d-87c56052d47d"
-   },
-   {
-    "name": "Inviting Property",
-    "uuid": "478798d7-024f-4d6d-823d-d6e3ff6f6b70"
-   },
    {
     "name": "Enraging Flat",
     "uuid": "bc624149-c6fa-4d2b-8bb6-4e620f370a1e"
@@ -886,14 +898,60 @@
     "uuid": "fee13a5a-289b-407f-9991-fbae51c907ee"
    },
    {
+    "name": "Welcoming Apartment",
+    "uuid": "ebb27125-2af8-4890-8ad2-361f3ce5a51e"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "327f75b5-95f4-4bf7-beb0-76080b190440"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "478798d7-024f-4d6d-823d-d6e3ff6f6b70"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "3391f269-84a0-4b17-903d-87c56052d47d"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "7821bcea-578d-4500-aebd-88fcbda71cc1"
+   },
+   {
     "name": "Perturbing Flat",
     "uuid": "198376c0-9d56-44d1-af47-9d715c3c76be"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "f3df9198-45c8-4d08-8d9f-1b79b693da74"
+   },
+   {
+    "name": "Bland Suite",
+    "uuid": "3410c3e2-979b-48f3-a173-1989b3486835"
+   },
+   {
+    "name": "Stylish Property",
+    "uuid": "91437fcf-9a3a-43a5-9b9b-49c0251c1c61"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "819ed118-0b90-45f7-85db-064d2185936e"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Vitivity",
+     "uuid": "5df6a408-b160-405f-aeb8-c4dc2cec61f9"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "PromoCat373",
+     "uuid": "12d6d9de-b7cf-487a-8b94-d4d819dd3ba2"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

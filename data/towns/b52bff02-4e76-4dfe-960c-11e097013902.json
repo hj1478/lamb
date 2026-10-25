@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "La_Mancha",
   "uuid": "b52bff02-4e76-4dfe-960c-11e097013902",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "sudaniki",
-   "uuid": "8f1b4106-f4f0-40ee-8ea1-5595a229da5b"
+   "name": "Okurarity",
+   "uuid": "a9d11845-114c-42f0-bb51-7efe10182a97"
   },
   "nation": {
    "name": "Kingdom_Of_Spain",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 140,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 69.0,
+   "numOutlaws": 3,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,46 @@
    ],
    "townBlocks": [
     [
+     -59,
+     -408
+    ],
+    [
+     -59,
+     -410
+    ],
+    [
+     -59,
+     -409
+    ],
+    [
+     -59,
+     -412
+    ],
+    [
+     -59,
+     -411
+    ],
+    [
+     -61,
+     -408
+    ],
+    [
+     -61,
+     -409
+    ],
+    [
+     -61,
+     -410
+    ],
+    [
+     -61,
+     -411
+    ],
+    [
+     -61,
+     -412
+    ],
+    [
      -63,
      -408
     ],
@@ -100,43 +140,47 @@
      -409
     ],
     [
-     -63,
-     -410
+     -62,
+     -412
     ],
     [
-     -61,
-     -408
+     -63,
+     -412
+    ],
+    [
+     -63,
+     -410
     ],
     [
      -63,
      -411
     ],
     [
-     -61,
-     -409
-    ],
-    [
      -62,
      -408
-    ],
-    [
-     -61,
-     -410
     ],
     [
      -60,
      -411
     ],
     [
+     -58,
+     -412
+    ],
+    [
      -62,
      -409
     ],
     [
-     -61,
-     -411
+     -60,
+     -412
     ],
     [
      -62,
+     -410
+    ],
+    [
+     -58,
      -410
     ],
     [
@@ -144,8 +188,20 @@
      -411
     ],
     [
+     -58,
+     -411
+    ],
+    [
+     -58,
+     -408
+    ],
+    [
      -60,
      -408
+    ],
+    [
+     -58,
+     -409
     ],
     [
      -60,
@@ -162,10 +218,6 @@
    {
     "name": "Okurarity",
     "uuid": "a9d11845-114c-42f0-bb51-7efe10182a97"
-   },
-   {
-    "name": "sudaniki",
-    "uuid": "8f1b4106-f4f0-40ee-8ea1-5595a229da5b"
    },
    {
     "name": "Ultraimada",
@@ -186,7 +238,20 @@
     "uuid": "d1190992-c483-49e1-a61e-59396ba0ce11"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Jaiminus",
+    "uuid": "37f532f5-d6b1-4a31-a527-598030cf208b"
+   },
+   {
+    "name": "Baviera_III",
+    "uuid": "0733843f-4cbe-42d6-a820-5e84ef159e32"
+   },
+   {
+    "name": "Aracnedix",
+    "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

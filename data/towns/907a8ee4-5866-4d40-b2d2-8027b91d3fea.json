@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T10:54:14Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Slate_Island",
   "uuid": "907a8ee4-5866-4d40-b2d2-8027b91d3fea",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 168,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 4,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 1762.0,
    "forSalePrice": null
@@ -781,20 +781,8 @@
     "uuid": "1116235b-08ec-49c0-929d-774daae67b52"
    },
    {
-    "name": "GerRussIca",
-    "uuid": "2803e617-8bfe-421f-a48c-3f36b5b59a35"
-   },
-   {
-    "name": "justalilbug",
-    "uuid": "7544fc8f-6d7c-45cc-a1a6-42f66f6fedf9"
-   },
-   {
     "name": "Vioweeb",
     "uuid": "3ab3e559-6ab3-4540-9204-01fdb55c1108"
-   },
-   {
-    "name": "Winklepicker279",
-    "uuid": "9230ee01-dc33-4b6d-9147-bcf5dcc64c9f"
    }
   ],
   "trusted": [
@@ -805,14 +793,6 @@
    {
     "name": "MelonPumpkinhead",
     "uuid": "1116235b-08ec-49c0-929d-774daae67b52"
-   },
-   {
-    "name": "justalilbug",
-    "uuid": "7544fc8f-6d7c-45cc-a1a6-42f66f6fedf9"
-   },
-   {
-    "name": "GerRussIca",
-    "uuid": "2803e617-8bfe-421f-a48c-3f36b5b59a35"
    }
   ],
   "outlaws": [],
@@ -822,14 +802,6 @@
     {
      "name": "MelonPumpkinhead",
      "uuid": "1116235b-08ec-49c0-929d-774daae67b52"
-    },
-    {
-     "name": "GerRussIca",
-     "uuid": "2803e617-8bfe-421f-a48c-3f36b5b59a35"
-    },
-    {
-     "name": "justalilbug",
-     "uuid": "7544fc8f-6d7c-45cc-a1a6-42f66f6fedf9"
     },
     {
      "name": "Vioweeb",

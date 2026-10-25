@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Nicomedia",
   "uuid": "a4cbc599-ceb3-46f7-aa2d-8ec78813ccb7",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 208,
-   "maxTownBlocks": 208,
+   "numTownBlocks": 205,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
+   "numResidents": 15,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 0.0,
@@ -108,10 +108,6 @@
      -477
     ],
     [
-     673,
-     -478
-    ],
-    [
      686,
      -458
     ],
@@ -177,10 +173,6 @@
     ],
     [
      675,
-     -478
-    ],
-    [
-     675,
      -476
     ],
     [
@@ -278,10 +270,6 @@
     [
      676,
      -477
-    ],
-    [
-     676,
-     -478
     ],
     [
      683,
@@ -932,8 +920,16 @@
     "uuid": "78853a6c-6eb3-4c14-bbbb-981a75302db7"
    },
    {
+    "name": "bananasfourlife",
+    "uuid": "0a55aec2-2963-4297-b707-b145a0586d7c"
+   },
+   {
     "name": "Chuknugit",
     "uuid": "bbad005f-fcdf-499d-9179-d3014af45be9"
+   },
+   {
+    "name": "CRBuck",
+    "uuid": "0a98f6b5-5e8d-4135-8696-1d7e84cea68c"
    },
    {
     "name": "Chantale3280",
@@ -948,10 +944,6 @@
     "uuid": "b41dd69f-d9c1-492b-8347-4388967506d9"
    },
    {
-    "name": "Wil069",
-    "uuid": "a3f718bd-eef3-4163-922a-99f85fd99957"
-   },
-   {
     "name": "MrXenia",
     "uuid": "390d1f0b-c564-4fa2-9a2c-fece61a10e0c"
    },
@@ -962,6 +954,26 @@
    {
     "name": "Wulfvix",
     "uuid": "ef207b48-a782-4e3a-87dd-9928906a9369"
+   },
+   {
+    "name": "GBor",
+    "uuid": "78d2c658-dbe6-4656-97c4-b0f22d0c3557"
+   },
+   {
+    "name": "Mitopko",
+    "uuid": "79789ff8-860d-4ca2-bdd6-f5e4bb770583"
+   },
+   {
+    "name": "UmaMoonlight",
+    "uuid": "82c29126-c990-47b5-9516-b0c9e0a6dc5a"
+   },
+   {
+    "name": "suzukiseiya",
+    "uuid": "699e64df-82b7-48ce-b5e9-680771bf37ac"
+   },
+   {
+    "name": "MattyKrabbyPatty",
+    "uuid": "f4ee1f39-c38f-467c-add8-fdc6722d0601"
    }
   ],
   "trusted": [],
@@ -978,6 +990,10 @@
   "quarters": [],
   "ranks": {
    "Councillor": [
+    {
+     "name": "bananasfourlife",
+     "uuid": "0a55aec2-2963-4297-b707-b145a0586d7c"
+    },
     {
      "name": "Chuknugit",
      "uuid": "bbad005f-fcdf-499d-9179-d3014af45be9"

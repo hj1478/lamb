@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Micoua",
   "uuid": "a8bdf851-fedc-436e-8a23-dd1b7e2a42e6",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 437,
-   "maxTownBlocks": 460,
+   "maxTownBlocks": 424,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 30,
-   "numTrusted": 19,
+   "numResidents": 27,
+   "numTrusted": 20,
    "numOutlaws": 24,
-   "balance": 1297.0,
+   "balance": 1324.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1876,10 +1876,6 @@
     "uuid": "0af32fd7-4d0a-41a7-8098-12f2283984f6"
    },
    {
-    "name": "45MCMXI",
-    "uuid": "09e05cb7-3c28-455c-811d-b6e9f2f8d250"
-   },
-   {
     "name": "StarSlayer0818",
     "uuid": "a6bbc9d7-5a55-474f-932b-df59d023ddec"
    },
@@ -1894,14 +1890,6 @@
    {
     "name": "Bergenline",
     "uuid": "8dc93ad6-b2fe-451f-94ea-9140ee003daa"
-   },
-   {
-    "name": "DGDog2025",
-    "uuid": "ab9b0d8c-d0e7-4d70-a461-1645d01cc884"
-   },
-   {
-    "name": "Stigarn",
-    "uuid": "c5834e55-40dc-4302-bbe4-5147e3897297"
    },
    {
     "name": "Quixotic_Critter",
@@ -1998,6 +1986,10 @@
     "uuid": "3ca3ef09-11cc-4942-80d5-815daad2f2ae"
    },
    {
+    "name": "EmpressCorgo",
+    "uuid": "1707d176-d0f2-4780-bf12-0d1ea29f76a0"
+   },
+   {
     "name": "ScoutMiner8541",
     "uuid": "645fbff1-44c3-47e5-92df-06032e9e0db8"
    },
@@ -2072,7 +2064,7 @@
     "uuid": "e26da781-b8cf-4acc-8084-dcaeb691dc03"
    },
    {
-    "name": "JoelTheBigMac",
+    "name": "rowdycroc",
     "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
    },
    {
@@ -2222,10 +2214,6 @@
     "uuid": "256ffa01-acc6-48cd-a7d3-4965bc7718ac"
    },
    {
-    "name": "Apartment 3",
-    "uuid": "eedd7d00-0eca-4c7c-a830-b2cd2e32fe20"
-   },
-   {
     "name": "Apt1",
     "uuid": "3c763e43-d7a8-4adb-b3ac-8ddf2ec24d00"
    },
@@ -2330,20 +2318,8 @@
     "uuid": "6cbaceef-15ff-4516-aa75-8832f967b02b"
    },
    {
-    "name": "Q8",
-    "uuid": "b81e6514-c3ad-43ee-8b22-c65255920181"
-   },
-   {
     "name": "Q13",
     "uuid": "b567d31c-add6-4822-bef0-46db4e9dc32a"
-   },
-   {
-    "name": "Q4",
-    "uuid": "0002ea11-6472-466a-8625-c7e802be9278"
-   },
-   {
-    "name": "Q11",
-    "uuid": "36935792-e6bb-4d9e-baeb-60597576d0f5"
    },
    {
     "name": "Q5",
@@ -2352,10 +2328,6 @@
    {
     "name": "Q9",
     "uuid": "42e14040-67fb-47c8-a68b-170bb6593246"
-   },
-   {
-    "name": "Q3",
-    "uuid": "7aaae8ac-dcbd-401a-a038-d1e1ef3f7758"
    },
    {
     "name": "Apartment 1",
@@ -2370,12 +2342,32 @@
     "uuid": "199940a1-eb29-4d8b-a030-82b050b5be3c"
    },
    {
+    "name": "Q3",
+    "uuid": "7aaae8ac-dcbd-401a-a038-d1e1ef3f7758"
+   },
+   {
     "name": "Q12",
     "uuid": "48b4209b-a4d4-4dd6-aab7-4d226a9e7ffc"
    },
    {
+    "name": "Apartment 3",
+    "uuid": "eedd7d00-0eca-4c7c-a830-b2cd2e32fe20"
+   },
+   {
     "name": "Q10",
     "uuid": "e7e57857-557f-45fa-9c03-a2eb1fc2c34d"
+   },
+   {
+    "name": "Q4",
+    "uuid": "0002ea11-6472-466a-8625-c7e802be9278"
+   },
+   {
+    "name": "Q8",
+    "uuid": "b81e6514-c3ad-43ee-8b22-c65255920181"
+   },
+   {
+    "name": "Q11",
+    "uuid": "36935792-e6bb-4d9e-baeb-60597576d0f5"
    }
   ],
   "ranks": {

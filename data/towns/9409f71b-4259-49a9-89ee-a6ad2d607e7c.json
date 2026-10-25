@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Isla_Magica",
   "uuid": "9409f71b-4259-49a9-89ee-a6ad2d607e7c",
@@ -12,12 +12,12 @@
    "uuid": "5c854144-d000-4957-b14f-d1c42dbf8433"
   },
   "nation": {
-   "name": "Spain",
-   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777747442101,
-   "joinedNationAt": 1782923056397,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 95,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -478,13 +478,22 @@
    {
     "name": "Axen9",
     "uuid": "5c854144-d000-4957-b14f-d1c42dbf8433"
+   },
+   {
+    "name": "caanpon",
+    "uuid": "766c2d02-90b9-4355-9f79-84a06e426c4c"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "caanpon",
+     "uuid": "766c2d02-90b9-4355-9f79-84a06e426c4c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

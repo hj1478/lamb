@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Hielluolandia",
   "uuid": "b2fbee3a-ffb9-4cf5-ad5a-de3fd3c810f7",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17257.729741715655,
-    "y": 64.0,
-    "z": -8085.030748523554,
-    "pitch": 21.186157,
-    "yaw": -142.35394
+    "x": 17232.458651717843,
+    "y": 211.0,
+    "z": -8084.656402392638,
+    "pitch": 82.19998,
+    "yaw": -7.3532715
    },
    "homeBlock": [
-    1078,
+    1077,
     -506
    ],
    "townBlocks": [
+    [
+     1076,
+     -506
+    ],
     [
      1077,
      -505

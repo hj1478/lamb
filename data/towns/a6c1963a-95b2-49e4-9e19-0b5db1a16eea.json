@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Nanking",
   "uuid": "a6c1963a-95b2-49e4-9e19-0b5db1a16eea",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DDNGSZX",
-   "uuid": "27826275-57de-41ec-8339-3f6ac4547e71"
+   "name": "Kuze_Hibiki",
+   "uuid": "24a41a8a-6dc1-4eb5-8734-30aac54503e8"
   },
   "nation": {
    "name": "Chunghua",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": false,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 423,
-   "maxTownBlocks": 450,
+   "maxTownBlocks": 438,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 35,
-   "numTrusted": 13,
-   "numOutlaws": 9,
+   "numResidents": 34,
+   "numTrusted": 14,
+   "numOutlaws": 8,
    "balance": 234.0,
    "forSalePrice": null
   },
@@ -952,12 +952,12 @@
      -233
     ],
     [
-     2574,
-     -234
-    ],
-    [
      2556,
      -259
+    ],
+    [
+     2574,
+     -234
     ],
     [
      2566,
@@ -1793,20 +1793,8 @@
   },
   "residents": [
    {
-    "name": "DDNGSZX",
-    "uuid": "27826275-57de-41ec-8339-3f6ac4547e71"
-   },
-   {
     "name": "MugiWind",
     "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
-   },
-   {
-    "name": "jxlovebg",
-    "uuid": "c7378149-0342-409e-9e63-9aef1af4303e"
-   },
-   {
-    "name": "lilioa",
-    "uuid": "184dabad-1ea0-4507-aa40-1a07c8bb4871"
    },
    {
     "name": "HifumiAnata",
@@ -1823,18 +1811,6 @@
    {
     "name": "xxxiaozhangya241",
     "uuid": "73937b26-1907-4ce2-a588-8c4417c93a62"
-   },
-   {
-    "name": "LaraPolkadot",
-    "uuid": "15bc8dcd-01b2-44af-9849-875f977de65a"
-   },
-   {
-    "name": "LukeDaBest161616",
-    "uuid": "fd626dfb-21b0-4082-b21a-6247440612ac"
-   },
-   {
-    "name": "Its_Furrina",
-    "uuid": "109f8d38-42bc-4590-89f8-fa47ccb0e173"
    },
    {
     "name": "4hwc",
@@ -1929,8 +1905,28 @@
     "uuid": "17604b67-3dee-4f71-b034-da71982d7897"
    },
    {
-    "name": "yigitcs34",
-    "uuid": "251e17b4-1f3d-44ef-985e-6c886a42e00d"
+    "name": "Kuze_Hibiki",
+    "uuid": "24a41a8a-6dc1-4eb5-8734-30aac54503e8"
+   },
+   {
+    "name": "SupnetHD",
+    "uuid": "caec4e9d-8b77-474b-8a18-6f87adc3bb95"
+   },
+   {
+    "name": "TheRe41Tr4X",
+    "uuid": "c21276b7-47c6-43a1-a0e7-e8994b22a299"
+   },
+   {
+    "name": "__AmiT__",
+    "uuid": "3fcffcfb-6133-48d3-a1f6-e494b8a0d22d"
+   },
+   {
+    "name": "Thisisyuanwu",
+    "uuid": "12b2bc28-e4ac-421b-9598-93bf36fb0124"
+   },
+   {
+    "name": "lilioa",
+    "uuid": "184dabad-1ea0-4507-aa40-1a07c8bb4871"
    }
   ],
   "trusted": [
@@ -1965,6 +1961,10 @@
    {
     "name": "SOME7HING",
     "uuid": "67b26d2e-5953-4637-9691-c646bb0ddd6d"
+   },
+   {
+    "name": "DDNGSZX",
+    "uuid": "27826275-57de-41ec-8339-3f6ac4547e71"
    },
    {
     "name": "Kushinada_Lucy",
@@ -2013,10 +2013,6 @@
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "Nanamipolaris",
-    "uuid": "513c48e3-2659-4246-9916-3a3baaed19a4"
-   },
-   {
     "name": "ClayCoffee",
     "uuid": "7bf20c7b-0b4a-4780-84c4-0a5f45e31f42"
    },
@@ -2029,10 +2025,6 @@
    {
     "name": "Perturbing Residence",
     "uuid": "5c674eb1-de2d-4e7b-82f3-9f7f3f179b0c"
-   },
-   {
-    "name": "Dingy Suite",
-    "uuid": "2abc9937-4efd-4727-96cc-6a15634558ab"
    },
    {
     "name": "Inconvenient Quarter",
@@ -2099,28 +2091,24 @@
     "uuid": "a787f210-718e-4817-a743-86c8f6240381"
    },
    {
-    "name": "Enraging Dwelling",
-    "uuid": "0499ae9a-4e3e-4373-a532-253a183c4ce2"
-   },
-   {
-    "name": "Gloomy Flat",
-    "uuid": "24cfa66a-4f4e-4351-a9ea-dc3074f41772"
-   },
-   {
-    "name": "Upbeat Apartment",
-    "uuid": "d75fb8ba-7d01-48ea-a9ff-f0c03c2d0641"
-   },
-   {
-    "name": "Inconvenient Property",
-    "uuid": "8b9f57bb-d9da-4746-a3b8-fd2ab9314e72"
-   },
-   {
     "name": "Lovely Tenement",
     "uuid": "16b303f2-95a1-4363-a597-a41de4515d0d"
    },
    {
     "name": "Lovely Apartment",
     "uuid": "ab28d851-8421-4562-a119-ba6439ea736b"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "aae42712-bb7e-4a44-93f4-baf7f5346ed9"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "dbdff883-9b17-40ca-a9ea-e0fc5a7a8b1e"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "2abc9937-4efd-4727-96cc-6a15634558ab"
    },
    {
     "name": "Welcoming Dwelling",
@@ -2131,12 +2119,60 @@
     "uuid": "00769507-38f7-4e98-94e2-38d5f80286e7"
    },
    {
-    "name": "Cheerful Property",
-    "uuid": "aae42712-bb7e-4a44-93f4-baf7f5346ed9"
+    "name": "Upbeat Apartment",
+    "uuid": "d75fb8ba-7d01-48ea-a9ff-f0c03c2d0641"
    },
    {
-    "name": "Enraging Quarter",
-    "uuid": "dbdff883-9b17-40ca-a9ea-e0fc5a7a8b1e"
+    "name": "Gloomy Flat",
+    "uuid": "24cfa66a-4f4e-4351-a9ea-dc3074f41772"
+   },
+   {
+    "name": "gate2",
+    "uuid": "f471bbfc-3621-40cd-912a-dc264c17b9e8"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "f9311925-82a4-4d75-b286-d9fd1e64f78f"
+   },
+   {
+    "name": "Stylish Property",
+    "uuid": "46b1c70f-66a3-4dcd-be96-36b498a85160"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "d3869c6f-ed44-432d-97b0-ecaedd02f6c5"
+   },
+   {
+    "name": "Inconvenient Residence",
+    "uuid": "a7723e0e-0346-4586-8120-e9a651538e03"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "2a017d4c-b2c9-4389-99a6-55fc04e9941e"
+   },
+   {
+    "name": "shuatieji",
+    "uuid": "f222ee63-4870-445e-b203-be40ccbc713a"
+   },
+   {
+    "name": "yangmaoji",
+    "uuid": "c5e9cdc1-fc43-45e3-aba5-c972cff5bcc0"
+   },
+   {
+    "name": "Stylish Flat",
+    "uuid": "21f9a9f8-625b-46ff-8423-b2817739323a"
+   },
+   {
+    "name": "Perturbing Residence",
+    "uuid": "20d9f733-ed1d-48d6-9857-87c8c229eaf8"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "ab90a2b5-a996-45f6-b62a-4badeaac415f"
+   },
+   {
+    "name": "Enraging Dwelling",
+    "uuid": "0499ae9a-4e3e-4373-a532-253a183c4ce2"
    }
   ],
   "ranks": {
@@ -2146,14 +2182,14 @@
      "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [
+   "Builder": [
     {
-     "name": "DDNGSZX",
-     "uuid": "27826275-57de-41ec-8339-3f6ac4547e71"
+     "name": "lilioa",
+     "uuid": "184dabad-1ea0-4507-aa40-1a07c8bb4871"
     }
    ],
+   "Recruiter": [],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

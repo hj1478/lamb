@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Xinhua_Bookstore",
   "uuid": "b369607d-fd22-43ef-8479-93222fce02b4",
@@ -12,12 +12,12 @@
    "uuid": "241b93ee-c7dd-4bbe-81c8-2313306c64fc"
   },
   "nation": {
-   "name": "Tang",
-   "uuid": "dbd533cf-1035-42c0-91f4-e2cb71bbf575"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786925012804,
-   "joinedNationAt": 1787543611213,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 0,

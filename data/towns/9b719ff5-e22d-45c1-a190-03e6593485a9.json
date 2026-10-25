@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Tarbert",
   "uuid": "9b719ff5-e22d-45c1-a190-03e6593485a9",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 48,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 28.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2458.765475748711,
-    "y": 68.0,
-    "z": -15548.83916073002,
-    "pitch": 30.449848,
-    "yaw": -93.4621
+    "x": -2458.761779890938,
+    "y": 66.0,
+    "z": -15546.396305541493,
+    "pitch": 88.950134,
+    "yaw": 12.884033
    },
    "homeBlock": [
     -154,
@@ -148,8 +148,16 @@
      -974
     ],
     [
+     -153,
+     -977
+    ],
+    [
      -157,
      -975
+    ],
+    [
+     -153,
+     -976
     ],
     [
      -157,
@@ -162,6 +170,14 @@
     [
      -152,
      -970
+    ],
+    [
+     -155,
+     -976
+    ],
+    [
+     -151,
+     -971
     ],
     [
      -151,
@@ -193,6 +209,10 @@
     ],
     [
      -158,
+     -976
+    ],
+    [
+     -154,
      -976
     ],
     [
@@ -246,6 +266,18 @@
     [
      -152,
      -975
+    ],
+    [
+     -152,
+     -976
+    ],
+    [
+     -152,
+     -977
+    ],
+    [
+     -152,
+     -978
     ],
     [
      -159,
@@ -268,6 +300,10 @@
      -973
     ],
     [
+     -150,
+     -978
+    ],
+    [
      -156,
      -974
     ],
@@ -280,8 +316,24 @@
      -972
     ],
     [
+     -150,
+     -977
+    ],
+    [
      -156,
      -970
+    ],
+    [
+     -151,
+     -978
+    ],
+    [
+     -151,
+     -977
+    ],
+    [
+     -151,
+     -976
     ]
    ],
    "worlds": {}
@@ -290,6 +342,10 @@
    {
     "name": "bluesuperman234",
     "uuid": "05e60fcc-7bee-40e6-ac7e-eebe5d52f880"
+   },
+   {
+    "name": "crispmite",
+    "uuid": "966d8ea4-4426-417d-8662-9245a43f310c"
    }
   ],
   "trusted": [

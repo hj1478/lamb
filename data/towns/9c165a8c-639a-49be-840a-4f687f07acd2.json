@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Stepanakert",
   "uuid": "9c165a8c-639a-49be-840a-4f687f07acd2",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 6,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 49.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -91,6 +91,26 @@
     -441
    ],
    "townBlocks": [
+    [
+     1044,
+     -441
+    ],
+    [
+     1044,
+     -440
+    ],
+    [
+     1042,
+     -441
+    ],
+    [
+     1042,
+     -440
+    ],
+    [
+     1043,
+     -440
+    ],
     [
      1043,
      -441

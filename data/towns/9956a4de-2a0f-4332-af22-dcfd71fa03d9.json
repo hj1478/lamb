@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Tosaz",
   "uuid": "9956a4de-2a0f-4332-af22-dcfd71fa03d9",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 1.0,
    "forSalePrice": null
@@ -576,19 +576,11 @@
   },
   "residents": [
    {
-    "name": "caglayass48",
-    "uuid": "c269d3d8-5b2e-435e-ac8e-1b238672910a"
-   },
-   {
     "name": "SnaleQ",
     "uuid": "12df578c-d24b-4c53-83b3-4285b64428d6"
    }
   ],
   "trusted": [
-   {
-    "name": "caglayass48",
-    "uuid": "c269d3d8-5b2e-435e-ac8e-1b238672910a"
-   },
    {
     "name": "Clurrg",
     "uuid": "6105a0d6-bfbc-4555-a090-db05df5fc998"
@@ -602,10 +594,6 @@
   "quarters": [],
   "ranks": {
    "Councillor": [
-    {
-     "name": "caglayass48",
-     "uuid": "c269d3d8-5b2e-435e-ac8e-1b238672910a"
-    },
     {
      "name": "SnaleQ",
      "uuid": "12df578c-d24b-4c53-83b3-4285b64428d6"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Qingyuan",
   "uuid": "9fffe5ca-9bae-4e53-ace4-14af7670992e",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 28,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 80.0,
@@ -210,6 +210,10 @@
    {
     "name": "Xinxin163",
     "uuid": "0eec2f09-c48a-4ca5-9137-3dc6711ea566"
+   },
+   {
+    "name": "yangdezhanghao",
+    "uuid": "92be7c8f-de51-43a4-a785-1b25845e00f6"
    }
   ],
   "trusted": [
@@ -237,7 +241,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "yangdezhanghao",
+     "uuid": "92be7c8f-de51-43a4-a785-1b25845e00f6"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

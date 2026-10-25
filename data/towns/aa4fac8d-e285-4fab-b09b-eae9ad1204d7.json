@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Rumelia",
   "uuid": "aa4fac8d-e285-4fab-b09b-eae9ad1204d7",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ThatOneKaiser",
-   "uuid": "4bc2defa-b841-4d51-9eff-f167d3fbbd36"
+   "name": "L0RD_KRAT05",
+   "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
   },
   "nation": {
-   "name": "Romania",
-   "uuid": "c86ccd50-b82b-4a33-93ec-b009822bfab3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779227247249,
-   "joinedNationAt": 1784397159131,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 421,
-   "maxTownBlocks": 168,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 9,
-   "numTrusted": 5,
+   "nationBonus": 0,
+   "numResidents": 8,
+   "numTrusted": 0,
    "numOutlaws": 12,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1780,24 +1780,16 @@
   },
   "residents": [
    {
-    "name": "ThatOneKaiser",
-    "uuid": "4bc2defa-b841-4d51-9eff-f167d3fbbd36"
-   },
-   {
     "name": "BigGrayDog",
     "uuid": "f3ccdb63-bb4a-46cb-ad3e-2d637e1924d0"
-   },
-   {
-    "name": "its_a_meLuigi64",
-    "uuid": "d1bbeecb-36ad-492e-b6f6-e087753ff57b"
    },
    {
     "name": "thatfoolralph",
     "uuid": "0123fd41-a893-4311-a2f5-829642ee95cb"
    },
    {
-    "name": "s3tt",
-    "uuid": "00366b50-93ce-4aa8-9892-1216e3ff22a7"
+    "name": "Whuky",
+    "uuid": "4b0357fb-ad04-4f7b-848d-3d138a04d4fe"
    },
    {
     "name": "benicioBR7m",
@@ -1814,30 +1806,13 @@
    {
     "name": "crashgoblin66",
     "uuid": "15216fbd-d063-4306-a06b-86c836308853"
+   },
+   {
+    "name": "L0RD_KRAT05",
+    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
    }
   ],
-  "trusted": [
-   {
-    "name": "DominusJunion",
-    "uuid": "5caf3a02-1efd-4dd7-b63e-69182c1fad0f"
-   },
-   {
-    "name": "its_a_meLuigi64",
-    "uuid": "d1bbeecb-36ad-492e-b6f6-e087753ff57b"
-   },
-   {
-    "name": "thatfoolralph",
-    "uuid": "0123fd41-a893-4311-a2f5-829642ee95cb"
-   },
-   {
-    "name": "r1c3_w4t3r",
-    "uuid": "f1499ea0-c34c-44e4-8dec-68fd4d2d161b"
-   },
-   {
-    "name": "3n91n33r",
-    "uuid": "d57a1e7d-32cc-422d-ade4-5d89a6dfb91b"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "ibraheemclock",
@@ -2055,12 +2030,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "its_a_meLuigi64",
-     "uuid": "d1bbeecb-36ad-492e-b6f6-e087753ff57b"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [

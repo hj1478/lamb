@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Axolotl_Paradise",
   "uuid": "a275cc8b-21ed-455d-a010-2eb2dbdb27f2",
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 59,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 5,
+   "numResidents": 5,
+   "numTrusted": 6,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -342,6 +342,14 @@
    {
     "name": "HydroSquirtle",
     "uuid": "b8da8716-91b8-4f7b-b991-f2f684313197"
+   },
+   {
+    "name": "Ducksoupboi",
+    "uuid": "a3e597a3-5e4e-445d-8532-e18a7b6353f2"
+   },
+   {
+    "name": "SharnyB",
+    "uuid": "33bd801b-ad76-444f-b269-2885cf3add20"
    }
   ],
   "trusted": [
@@ -362,6 +370,10 @@
     "uuid": "74bfffe6-f170-4243-9d8e-3ea6912f2345"
    },
    {
+    "name": "SharnyB",
+    "uuid": "33bd801b-ad76-444f-b269-2885cf3add20"
+   },
+   {
     "name": "Pandaknight123",
     "uuid": "b9e53171-1155-406d-9fd1-c3298ffaf864"
    }
@@ -376,7 +388,7 @@
     "uuid": "d3eeb80e-a476-46f2-b282-e7ab7c40fa62"
    },
    {
-    "name": "Leskyow",
+    "name": "Nxghtxd__",
     "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
    },
    {
@@ -462,14 +474,6 @@
     "uuid": "6fa06c11-0a47-4c81-982a-53e4e2b25882"
    },
    {
-    "name": "Welcoming Property",
-    "uuid": "e30e0800-eabe-42e0-bf0f-c3f6359ad4b1"
-   },
-   {
-    "name": "Cheerful Quarter",
-    "uuid": "95e95a84-ae31-4eeb-bd9c-657d800a005f"
-   },
-   {
     "name": "Inviting Tenement",
     "uuid": "bbfbb0b7-c506-4ca0-88b8-9ec665831651"
    },
@@ -482,8 +486,12 @@
     "uuid": "bc018e16-75cb-438e-8afe-5d14c15eb46a"
    },
    {
-    "name": "Annoying Apartment",
-    "uuid": "7abe8966-b6bb-473d-be93-0c94e12fc3e7"
+    "name": "Welcoming Property",
+    "uuid": "e30e0800-eabe-42e0-bf0f-c3f6359ad4b1"
+   },
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "95e95a84-ae31-4eeb-bd9c-657d800a005f"
    }
   ],
   "ranks": {

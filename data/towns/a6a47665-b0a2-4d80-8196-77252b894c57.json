@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Hark",
   "uuid": "a6a47665-b0a2-4d80-8196-77252b894c57",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 138,
-   "maxTownBlocks": 152,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 6,
-   "numTrusted": 4,
+   "numResidents": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 127.0,
    "forSalePrice": null
@@ -657,10 +657,6 @@
     "uuid": "9cf20694-0e51-486c-b712-d80af835e708"
    },
    {
-    "name": "Havenue",
-    "uuid": "e53c323d-5f69-41a7-a9f5-a9f4f6612887"
-   },
-   {
     "name": "veileddd",
     "uuid": "74734d91-d0ae-4b03-828d-a7a8fb1f6043"
    },
@@ -671,20 +667,12 @@
    {
     "name": "BEST_DUCK1812",
     "uuid": "6a3297da-6a1b-486e-8826-6bc9911cb22c"
-   },
-   {
-    "name": "Antosha32",
-    "uuid": "68c865da-b6c7-4bf8-8b3f-b77ac3437777"
    }
   ],
   "trusted": [
    {
     "name": "yarch1e",
     "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
-   },
-   {
-    "name": "Havenue",
-    "uuid": "e53c323d-5f69-41a7-a9f5-a9f4f6612887"
    },
    {
     "name": "0_ggmaster_0",

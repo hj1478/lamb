@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Jelenec",
   "uuid": "aa0f6f4a-a4af-4a80-b8b2-d57dbf85067e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 17,
    "maxTownBlocks": 74,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 12.0,
+   "balance": 71.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -150,6 +150,10 @@
     [
      446,
      -664
+    ],
+    [
+     446,
+     -667
     ],
     [
      446,

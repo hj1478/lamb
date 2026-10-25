@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Winkler",
   "uuid": "a25c9033-a0eb-436c-9668-5a8b8cdb2b0b",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     -1862,
+     -731
+    ],
+    [
+     -1862,
+     -730
+    ],
+    [
      -1865,
      -732
     ],
@@ -109,10 +117,26 @@
     ],
     [
      -1864,
+     -732
+    ],
+    [
+     -1864,
      -730
     ],
     [
      -1866,
+     -731
+    ],
+    [
+     -1863,
+     -732
+    ],
+    [
+     -1863,
+     -730
+    ],
+    [
+     -1863,
      -731
     ]
    ],
@@ -122,9 +146,17 @@
    {
     "name": "TommieBL",
     "uuid": "75a5bcf1-b577-4f49-aa60-2544de280afc"
+   },
+   {
+    "name": "Blackbird26",
+    "uuid": "7d5d6946-04bb-47b1-8e20-c51765c0e1b3"
    }
   ],
   "trusted": [
+   {
+    "name": "Blackbird26",
+    "uuid": "7d5d6946-04bb-47b1-8e20-c51765c0e1b3"
+   },
    {
     "name": "TOSd",
     "uuid": "436f6677-1793-4875-876d-9b6c0e5016f0"

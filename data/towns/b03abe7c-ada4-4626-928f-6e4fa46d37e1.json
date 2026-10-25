@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Bonaire",
   "uuid": "b03abe7c-ada4-4626-928f-6e4fa46d37e1",
@@ -22,10 +22,10 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 31,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 2,
-   "numOutlaws": 5,
+   "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -226,6 +226,10 @@
    {
     "name": "Tuhooja09",
     "uuid": "6ba3f4ac-ef7d-4477-bb50-bd6030a6dc81"
+   },
+   {
+    "name": "Dummypotato",
+    "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
    }
   ],
   "trusted": [
@@ -258,9 +262,34 @@
    {
     "name": "Tldigi",
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "36hoi",
+    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "de60884e-55f2-4a98-8630-9624fa333bea"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "f707a3a2-8af1-4cf7-92c5-a4c0e19fa9e1"
+   },
+   {
+    "name": "bro my base",
+    "uuid": "ba960372-971e-4de3-b3db-8eb12025ea7d"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "ab5a94bf-ea4e-4cf6-931e-8a5b546eabe0"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

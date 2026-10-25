@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Three_Rivers",
   "uuid": "9b3102e0-e0bf-4cc3-8da0-79f3db2559e6",
@@ -12,12 +12,12 @@
    "uuid": "5c981e10-7798-448d-8859-c7b056d700e8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Rhodesia",
+   "uuid": "21a64c19-1e38-480d-8dc3-c0621acd1e22"
   },
   "timestamps": {
    "registered": 1792264122213,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792529792339,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,24 +80,52 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8272.515050460914,
+    "x": 8279.866947803948,
     "y": 82.0,
-    "z": 13145.413833471055,
-    "pitch": 44.699978,
-    "yaw": -3.588018
+    "z": 13124.407149024524,
+    "pitch": 22.050035,
+    "yaw": 0.3544922
    },
    "homeBlock": [
     517,
-    821
+    820
    ],
    "townBlocks": [
+    [
+     516,
+     820
+    ],
+    [
+     517,
+     818
+    ],
+    [
+     516,
+     821
+    ],
+    [
+     517,
+     819
+    ],
     [
      517,
      820
     ],
     [
+     518,
+     819
+    ],
+    [
      517,
      821
+    ],
+    [
+     518,
+     820
+    ],
+    [
+     516,
+     819
     ],
     [
      518,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Timbuktu",
   "uuid": "a630703b-1b82-4c29-b56d-bf55328817a9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 148,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 12,
-   "numTrusted": 1,
+   "numResidents": 13,
+   "numTrusted": 2,
    "numOutlaws": 9,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -873.3043435278943,
-    "y": 68.0,
-    "z": 1748.936607204475,
-    "pitch": 6.1463237,
-    "yaw": 99.470215
+    "x": -969.6999999880791,
+    "y": 48.0,
+    "z": 1718.300000011921,
+    "pitch": -2.5520735,
+    "yaw": -45.1593
    },
    "homeBlock": [
-    -55,
-    109
+    -61,
+    107
    ],
    "townBlocks": [
     [
@@ -734,9 +734,17 @@
    {
     "name": "YAMUKO123",
     "uuid": "5066af9e-f356-4408-a80a-0f48102d8b0d"
+   },
+   {
+    "name": "block_master55",
+    "uuid": "d82aacd6-39e4-4214-8183-3f8b8cf9cb0d"
    }
   ],
   "trusted": [
+   {
+    "name": "Andakira",
+    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
    {
     "name": "JamesIsTaken",
     "uuid": "63e85765-101a-41fa-8017-a2d2b8a24c95"
@@ -776,8 +784,8 @@
     "uuid": "ef634f59-3102-4352-9a80-b7b4a606569a"
    },
    {
-    "name": "JoelTheBigMac",
-    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
    }
   ],
   "quarters": [
@@ -830,7 +838,7 @@
     "uuid": "ae365f64-c780-4018-9df2-7e573cb90335"
    },
    {
-    "name": "Upbeat Apartment",
+    "name": "poopy storage",
     "uuid": "d84cac7d-3a43-4227-89a1-58063429f3da"
    }
   ],

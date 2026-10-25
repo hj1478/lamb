@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Dagistania",
   "uuid": "a5d604a8-5e85-48cf-886b-816add196fef",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 50,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 53,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      1063,
+     -543
+    ],
+    [
+     1063,
      -544
     ],
     [
@@ -184,6 +188,10 @@
      -550
     ],
     [
+     1064,
+     -543
+    ],
+    [
      1066,
      -549
     ],
@@ -278,6 +286,10 @@
     [
      1061,
      -549
+    ],
+    [
+     1061,
+     -548
     ],
     [
      1063,
@@ -298,6 +310,10 @@
    {
     "name": "Ceppelni",
     "uuid": "30c2b0dc-4b31-48e6-9aa5-ba5bf2125c6b"
+   },
+   {
+    "name": "Laserkimo",
+    "uuid": "30a5e8d1-a38f-4b36-819b-71398817fde4"
    }
   ],
   "trusted": [],
@@ -305,7 +321,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Laserkimo",
+     "uuid": "30a5e8d1-a38f-4b36-819b-71398817fde4"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

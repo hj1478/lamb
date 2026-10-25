@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Arezzo",
   "uuid": "a3321a0d-f02b-4fad-9aa4-205146e18662",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 64,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 90,
+   "maxTownBlocks": 316,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 3,
-   "numOutlaws": 5,
-   "balance": 283.0,
+   "numResidents": 18,
+   "numTrusted": 4,
+   "numOutlaws": 6,
+   "balance": 128.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     208,
+     -339
+    ],
+    [
+     210,
+     -339
+    ],
+    [
+     210,
+     -340
+    ],
+    [
      210,
      -341
     ],
@@ -150,6 +162,10 @@
     [
      210,
      -345
+    ],
+    [
+     208,
+     -340
     ],
     [
      210,
@@ -216,24 +232,40 @@
      -343
     ],
     [
-     209,
-     -344
-    ],
-    [
      205,
      -341
     ],
     [
      207,
      -348
+    ],
+    [
+     209,
+     -344
     ],
     [
      204,
      -341
     ],
     [
+     205,
+     -340
+    ],
+    [
+     204,
+     -340
+    ],
+    [
+     205,
+     -339
+    ],
+    [
      209,
      -347
+    ],
+    [
+     204,
+     -339
     ],
     [
      209,
@@ -241,11 +273,15 @@
     ],
     [
      207,
+     -339
+    ],
+    [
+     207,
      -341
     ],
     [
-     209,
-     -341
+     207,
+     -340
     ],
     [
      207,
@@ -257,7 +293,7 @@
     ],
     [
      209,
-     -342
+     -341
     ],
     [
      207,
@@ -268,8 +304,8 @@
      -347
     ],
     [
-     207,
-     -345
+     209,
+     -342
     ],
     [
      205,
@@ -277,11 +313,23 @@
     ],
     [
      207,
-     -344
+     -345
+    ],
+    [
+     209,
+     -339
     ],
     [
      205,
      -345
+    ],
+    [
+     207,
+     -344
+    ],
+    [
+     209,
+     -340
     ],
     [
      206,
@@ -320,8 +368,32 @@
      -342
     ],
     [
+     203,
+     -344
+    ],
+    [
+     211,
+     -340
+    ],
+    [
+     206,
+     -339
+    ],
+    [
+     203,
+     -345
+    ],
+    [
+     206,
+     -340
+    ],
+    [
      211,
      -341
+    ],
+    [
+     203,
+     -346
     ],
     [
      211,
@@ -332,8 +404,16 @@
      -343
     ],
     [
+     203,
+     -347
+    ],
+    [
      211,
      -344
+    ],
+    [
+     203,
+     -348
     ],
     [
      211,
@@ -346,6 +426,30 @@
     [
      211,
      -347
+    ],
+    [
+     203,
+     -339
+    ],
+    [
+     203,
+     -340
+    ],
+    [
+     203,
+     -341
+    ],
+    [
+     203,
+     -342
+    ],
+    [
+     203,
+     -343
+    ],
+    [
+     211,
+     -339
     ]
    ],
    "worlds": {}
@@ -382,6 +486,46 @@
    {
     "name": "Bruggie_14",
     "uuid": "17f2262a-f9f1-4090-95db-95c6000c95a6"
+   },
+   {
+    "name": "ChezCrab",
+    "uuid": "092ca831-200a-4050-9ad8-0a7b5fae230c"
+   },
+   {
+    "name": "Fxndxzz_",
+    "uuid": "244c8f39-6fbf-4523-b831-720e442abfbf"
+   },
+   {
+    "name": "wafflesdabest",
+    "uuid": "f62bfc6d-a292-47de-b32a-520be67a9111"
+   },
+   {
+    "name": "ALIOK147",
+    "uuid": "108a6584-8f45-4bf1-8e17-b02c6bbe46e2"
+   },
+   {
+    "name": "mwvi",
+    "uuid": "ff0da8bd-9cf0-468a-9144-1f4b1154666a"
+   },
+   {
+    "name": "Rejkamis",
+    "uuid": "b255e188-83d3-4070-bcd3-c2a6d14fde1d"
+   },
+   {
+    "name": "FreeFountain30",
+    "uuid": "1e9a4faa-ba7f-4a9a-baa3-fd6c29e7e363"
+   },
+   {
+    "name": "Wamp1ptiiiOI",
+    "uuid": "9da56b8b-dc74-4e95-9611-833ce9dd4fcd"
+   },
+   {
+    "name": "RiotRux14",
+    "uuid": "3ea39bd5-0fed-4b79-9fbd-a4cd44c3568f"
+   },
+   {
+    "name": "HOONPARKS",
+    "uuid": "641028db-1196-4420-ad78-473679a524cf"
    }
   ],
   "trusted": [
@@ -396,6 +540,10 @@
    {
     "name": "C1P0T34NCH0",
     "uuid": "fcad9f60-91f5-4389-a394-ed77c7c240c8"
+   },
+   {
+    "name": "mwvi",
+    "uuid": "ff0da8bd-9cf0-468a-9144-1f4b1154666a"
    }
   ],
   "outlaws": [
@@ -418,6 +566,10 @@
    {
     "name": "DRpellgg",
     "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
    }
   ],
   "quarters": [],
@@ -430,6 +582,10 @@
     {
      "name": "C1P0T34NCH0",
      "uuid": "fcad9f60-91f5-4389-a394-ed77c7c240c8"
+    },
+    {
+     "name": "mwvi",
+     "uuid": "ff0da8bd-9cf0-468a-9144-1f4b1154666a"
     }
    ],
    "Builder": [
@@ -442,6 +598,10 @@
     {
      "name": "Larkira",
      "uuid": "98e581e3-6d47-490f-a43f-e24316abd889"
+    },
+    {
+     "name": "Sammy_boi1",
+     "uuid": "b27d8b88-dc45-48df-8977-038503ba2811"
     }
    ],
    "Police": [

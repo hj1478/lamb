@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Buenos_Aires",
   "uuid": "a2bc6812-325e-4f78-828a-a43b9d1fe9ae",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 452,
-   "maxTownBlocks": 440,
+   "maxTownBlocks": 452,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 30,
-   "numTrusted": 5,
-   "numOutlaws": 4,
+   "numResidents": 31,
+   "numTrusted": 4,
+   "numOutlaws": 2,
    "balance": 6.0,
    "forSalePrice": null
   },
@@ -1920,10 +1920,6 @@
     "uuid": "5846a00c-49f9-4111-9ba2-0ca8c36d5db5"
    },
    {
-    "name": "Vicuu",
-    "uuid": "1a923ff9-4b26-418f-94b1-2dc58400dbbe"
-   },
-   {
     "name": "TheMintySheep",
     "uuid": "1eeb7a2b-2c59-4ad5-b4aa-a8e9e2e261ae"
    },
@@ -1950,10 +1946,6 @@
    {
     "name": "Ulisao",
     "uuid": "6acee030-73e5-4508-97de-2c35b2569ca3"
-   },
-   {
-    "name": "Joacraft1612",
-    "uuid": "cdf35e10-7927-4ace-9a35-28ac3d273d4d"
    },
    {
     "name": "GoodPopcorn36",
@@ -2012,16 +2004,28 @@
     "uuid": "226a4ac1-62f5-4f53-bcd2-5415457e08db"
    },
    {
-    "name": "neo_un1verse",
-    "uuid": "220a64ee-f72e-4718-92dc-be08e3f5d2ac"
-   },
-   {
     "name": "lautidk_ok",
     "uuid": "f6f1273b-da63-4c57-9abc-1e3152cd74f7"
    },
    {
     "name": "BukmosToxic",
     "uuid": "b395da22-26c7-4dbd-a7a0-162731da476a"
+   },
+   {
+    "name": "ArchieIsVeryDum",
+    "uuid": "fea898c2-842f-4ccb-9be7-0e3c9baefbae"
+   },
+   {
+    "name": "godson753951",
+    "uuid": "2dca54a1-7e02-4f6c-8c33-1f4776d6c31d"
+   },
+   {
+    "name": "OrangeAndBleuu",
+    "uuid": "98a799ac-ac38-4471-912b-1a63f2632b5b"
+   },
+   {
+    "name": "LeoL2112",
+    "uuid": "dc0db87c-1d63-447e-b028-22bee8a8f31d"
    }
   ],
   "trusted": [
@@ -2040,10 +2044,6 @@
    {
     "name": "Pharsyss",
     "uuid": "9ee581d6-0a44-4ad2-8468-ad9ce914ddd9"
-   },
-   {
-    "name": "SorryBuddy",
-    "uuid": "eb91b659-367a-4cfe-9420-04d3ce3006f1"
    }
   ],
   "outlaws": [
@@ -2054,14 +2054,6 @@
    {
     "name": "RealYoPickk",
     "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
-   },
-   {
-    "name": "RyanGhastling",
-    "uuid": "e51266c9-1bcc-46db-9fbd-67771d7332a9"
-   },
-   {
-    "name": "Sakballer",
-    "uuid": "579ac3bd-fa7f-4c96-b0dc-45f8afe96d2c"
    }
   ],
   "quarters": [
@@ -2076,10 +2068,6 @@
    {
     "name": "Buenos Aires",
     "uuid": "db66347f-1616-4f81-859a-440d431c0e29"
-   },
-   {
-    "name": "Renault",
-    "uuid": "ffc23887-7391-4862-afc4-6cbb924e6b55"
    },
    {
     "name": "Puerto Bandera",
@@ -2236,6 +2224,10 @@
    {
     "name": "Pepper Mall",
     "uuid": "f509af92-8d33-4ec5-a521-24be831967bc"
+   },
+   {
+    "name": "PresidenteFranco",
+    "uuid": "ffc23887-7391-4862-afc4-6cbb924e6b55"
    }
   ],
   "ranks": {

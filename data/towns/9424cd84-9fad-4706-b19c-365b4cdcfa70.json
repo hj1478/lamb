@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Daphne",
   "uuid": "9424cd84-9fad-4706-b19c-365b4cdcfa70",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 49,
-   "maxTownBlocks": 240,
+   "numTownBlocks": 59,
+   "maxTownBlocks": 252,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 15,
+   "numResidents": 16,
    "numTrusted": 1,
-   "numOutlaws": 9,
-   "balance": 0.0,
+   "numOutlaws": 10,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -105,6 +105,10 @@
     ],
     [
      -1967,
+     -207
+    ],
+    [
+     -1967,
      -206
     ],
     [
@@ -122,6 +126,14 @@
     [
      -1971,
      -205
+    ],
+    [
+     -1962,
+     -203
+    ],
+    [
+     -1965,
+     -199
     ],
     [
      -1965,
@@ -140,6 +152,10 @@
      -203
     ],
     [
+     -1962,
+     -202
+    ],
+    [
      -1965,
      -204
     ],
@@ -154,6 +170,10 @@
     [
      -1968,
      -208
+    ],
+    [
+     -1966,
+     -207
     ],
     [
      -1968,
@@ -205,7 +225,15 @@
     ],
     [
      -1966,
+     -199
+    ],
+    [
+     -1966,
      -200
+    ],
+    [
+     -1963,
+     -204
     ],
     [
      -1963,
@@ -214,6 +242,10 @@
     [
      -1963,
      -203
+    ],
+    [
+     -1963,
+     -200
     ],
     [
      -1963,
@@ -245,6 +277,10 @@
     ],
     [
      -1964,
+     -204
+    ],
+    [
+     -1964,
      -202
     ],
     [
@@ -258,6 +294,10 @@
     [
      -1964,
      -201
+    ],
+    [
+     -1964,
+     -199
     ],
     [
      -1969,
@@ -332,10 +372,6 @@
     "uuid": "4070105c-3d70-479b-8483-3c15c72da3fd"
    },
    {
-    "name": "BowenJ19",
-    "uuid": "2a260415-393f-46d2-878a-ab4584067d67"
-   },
-   {
     "name": "AliFlashBoy",
     "uuid": "ff596361-8364-485a-961e-54a5bbb91518"
    },
@@ -348,8 +384,16 @@
     "uuid": "ffe03ab0-7735-4dd9-92ad-ad8a1013f68c"
    },
    {
-    "name": "enderramdagon",
-    "uuid": "37fb7640-5628-4262-b898-60c3f458b433"
+    "name": "BowenJ19",
+    "uuid": "2a260415-393f-46d2-878a-ab4584067d67"
+   },
+   {
+    "name": "JeloMan123",
+    "uuid": "9c59fe02-8dd5-4025-9674-8a96d016f945"
+   },
+   {
+    "name": "ibongle",
+    "uuid": "7b09968e-5579-491a-948f-20f2c5dd346f"
    }
   ],
   "trusted": [
@@ -394,6 +438,10 @@
    {
     "name": "RealbuttonXYZ",
     "uuid": "ba1e6743-691e-4117-b75a-2be27e5566ec"
+   },
+   {
+    "name": "Nxghtxd__",
+    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
    }
   ],
   "quarters": [
@@ -414,18 +462,32 @@
     "uuid": "f72eb05f-0ed5-4a62-88de-25cd4d4faef6"
    },
    {
+    "name": "Annoying Residence",
+    "uuid": "8116140d-ea78-4a90-bec5-d1898c623387"
+   },
+   {
     "name": "Inviting Property",
     "uuid": "6372c9d8-d5fd-4cb9-8c80-6aed6b724900"
    },
    {
-    "name": "Annoying Residence",
-    "uuid": "8116140d-ea78-4a90-bec5-d1898c623387"
+    "name": "Upbeat Flat",
+    "uuid": "dd985cc8-6c79-43ca-b0cd-622e15b43cb2"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "dwarvenking1",
+     "uuid": "ba10286d-d3b9-40af-9fdb-4ef55a16c4bc"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "BowenJ19",
+     "uuid": "2a260415-393f-46d2-878a-ab4584067d67"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

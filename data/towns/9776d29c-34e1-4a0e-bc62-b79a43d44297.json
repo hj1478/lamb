@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Makurdi",
   "uuid": "9776d29c-34e1-4a0e-bc62-b79a43d44297",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 73,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,28 +80,80 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3622.545702184179,
-    "y": 54.0,
-    "z": 5038.745307136533,
-    "pitch": 28.145384,
-    "yaw": 137.69327
+    "x": 3651.917386876428,
+    "y": 71.0,
+    "z": 5041.868052231101,
+    "pitch": 5.4000716,
+    "yaw": -2.1276712
    },
    "homeBlock": [
-    226,
-    314
+    228,
+    315
    ],
    "townBlocks": [
     [
-     227,
+     229,
+     316
+    ],
+    [
+     224,
+     315
+    ],
+    [
+     224,
+     316
+    ],
+    [
+     229,
+     315
+    ],
+    [
+     224,
+     313
+    ],
+    [
+     229,
      314
     ],
     [
-     227,
-     315
+     224,
+     314
+    ],
+    [
+     229,
+     313
+    ],
+    [
+     229,
+     312
+    ],
+    [
+     224,
+     312
+    ],
+    [
+     224,
+     317
     ],
     [
      227,
-     316
+     312
+    ],
+    [
+     227,
+     313
+    ],
+    [
+     224,
+     318
+    ],
+    [
+     225,
+     319
+    ],
+    [
+     225,
+     320
     ],
     [
      225,
@@ -110,6 +162,122 @@
     [
      225,
      316
+    ],
+    [
+     225,
+     317
+    ],
+    [
+     225,
+     318
+    ],
+    [
+     228,
+     315
+    ],
+    [
+     228,
+     316
+    ],
+    [
+     228,
+     317
+    ],
+    [
+     228,
+     318
+    ],
+    [
+     229,
+     321
+    ],
+    [
+     229,
+     320
+    ],
+    [
+     228,
+     312
+    ],
+    [
+     229,
+     319
+    ],
+    [
+     228,
+     313
+    ],
+    [
+     229,
+     318
+    ],
+    [
+     228,
+     314
+    ],
+    [
+     229,
+     317
+    ],
+    [
+     231,
+     320
+    ],
+    [
+     228,
+     319
+    ],
+    [
+     228,
+     320
+    ],
+    [
+     228,
+     321
+    ],
+    [
+     225,
+     312
+    ],
+    [
+     225,
+     313
+    ],
+    [
+     225,
+     314
+    ],
+    [
+     231,
+     319
+    ],
+    [
+     231,
+     318
+    ],
+    [
+     231,
+     317
+    ],
+    [
+     231,
+     316
+    ],
+    [
+     232,
+     319
+    ],
+    [
+     232,
+     320
+    ],
+    [
+     232,
+     318
+    ],
+    [
+     233,
+     319
     ],
     [
      226,
@@ -129,15 +297,91 @@
     ],
     [
      226,
+     319
+    ],
+    [
+     226,
+     318
+    ],
+    [
+     226,
+     320
+    ],
+    [
+     226,
      313
     ],
     [
-     225,
+     227,
      314
     ],
     [
      227,
+     315
+    ],
+    [
+     227,
+     316
+    ],
+    [
+     227,
+     317
+    ],
+    [
+     227,
+     318
+    ],
+    [
+     227,
+     319
+    ],
+    [
+     227,
+     320
+    ],
+    [
+     227,
+     321
+    ],
+    [
+     230,
+     321
+    ],
+    [
+     230,
+     320
+    ],
+    [
+     230,
      313
+    ],
+    [
+     230,
+     312
+    ],
+    [
+     230,
+     315
+    ],
+    [
+     230,
+     314
+    ],
+    [
+     230,
+     317
+    ],
+    [
+     230,
+     316
+    ],
+    [
+     230,
+     319
+    ],
+    [
+     230,
+     318
     ]
    ],
    "worlds": {}
@@ -148,16 +392,28 @@
     "uuid": "681982af-530f-401f-bae1-1ef4e422196d"
    },
    {
-    "name": "MartinArthurFick",
-    "uuid": "acd72126-6917-419f-a9c3-4877c800c7bb"
-   },
-   {
     "name": "Lebaon",
     "uuid": "f22962d4-c996-4f9f-9a03-d685f5b425e8"
    },
    {
     "name": "j0ghurt",
     "uuid": "c5d11676-8e68-4c0a-b39a-d614ee6b94a7"
+   },
+   {
+    "name": "OsamaBinSchaden",
+    "uuid": "b3c538af-3b4c-4221-a628-d59f5ce02438"
+   },
+   {
+    "name": "TerexDerTitan",
+    "uuid": "5aa83c41-be5c-4789-b58a-2914f18e4159"
+   },
+   {
+    "name": "Lucas_W_",
+    "uuid": "e496c60c-b286-4dd8-8534-3f7b7244525e"
+   },
+   {
+    "name": "MartinArthurFick",
+    "uuid": "acd72126-6917-419f-a9c3-4877c800c7bb"
    }
   ],
   "trusted": [],
@@ -166,23 +422,40 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "MartinArthurFick",
-     "uuid": "acd72126-6917-419f-a9c3-4877c800c7bb"
-    },
-    {
      "name": "Lebaon",
      "uuid": "f22962d4-c996-4f9f-9a03-d685f5b425e8"
     },
     {
      "name": "j0ghurt",
      "uuid": "c5d11676-8e68-4c0a-b39a-d614ee6b94a7"
+    },
+    {
+     "name": "OsamaBinSchaden",
+     "uuid": "b3c538af-3b4c-4221-a628-d59f5ce02438"
+    },
+    {
+     "name": "TerexDerTitan",
+     "uuid": "5aa83c41-be5c-4789-b58a-2914f18e4159"
+    },
+    {
+     "name": "Lucas_W_",
+     "uuid": "e496c60c-b286-4dd8-8534-3f7b7244525e"
+    },
+    {
+     "name": "MartinArthurFick",
+     "uuid": "acd72126-6917-419f-a9c3-4877c800c7bb"
     }
    ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "j0ghurt",
+     "uuid": "c5d11676-8e68-4c0a-b39a-d614ee6b94a7"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

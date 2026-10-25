@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Wuhan",
   "uuid": "9a339a3a-7f12-49b2-9b99-641dd4c67a42",
-  "board": "Join Wuhan Force , For the Ming Federation",
+  "board": "We Are The World",
   "founder": "_Plumme",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Nostra:Nostra_Wuhan",
   "discord": null,
   "mayor": {
-   "name": "AstrInk",
-   "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   "name": "ItsFurina",
+   "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
   },
   "nation": {
    "name": "Ming",
@@ -22,10 +22,10 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 404,
-   "maxTownBlocks": 424,
+   "maxTownBlocks": 400,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 27,
+   "numResidents": 25,
    "numTrusted": 25,
    "numOutlaws": 9,
-   "balance": 48.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1741,10 +1741,6 @@
     "uuid": "d0a06c1f-af52-45a1-8284-309c85e8c049"
    },
    {
-    "name": "LongSea",
-    "uuid": "292fdf05-45c5-412d-91de-ea545ea33dd0"
-   },
-   {
     "name": "LB_2015",
     "uuid": "24baac6a-16dc-4e1b-90a9-1801b59ecb42"
    },
@@ -1785,10 +1781,6 @@
     "uuid": "ca9031ee-c897-4789-aecf-c47b617ee0de"
    },
    {
-    "name": "Ech0_0_",
-    "uuid": "90f74f7c-5cb7-402d-b1f3-d2c1dd78dc58"
-   },
-   {
     "name": "devlish_v9",
     "uuid": "93d7cc9c-276a-40c4-9b5f-4af3a4fe6abc"
    },
@@ -1799,10 +1791,6 @@
    {
     "name": "ISMELLKAP",
     "uuid": "f474aead-cd25-485e-a46e-4e071337559d"
-   },
-   {
-    "name": "AstrInk",
-    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
    },
    {
     "name": "_Xiaoqiao_",
@@ -1823,6 +1811,10 @@
    {
     "name": "_3XS_",
     "uuid": "95d4c7f4-cf83-4e79-97b0-0653be135a1b"
+   },
+   {
+    "name": "Ech0_0_",
+    "uuid": "90f74f7c-5cb7-402d-b1f3-d2c1dd78dc58"
    }
   ],
   "trusted": [
@@ -2080,13 +2072,14 @@
     {
      "name": "ItsFurina",
      "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
-    },
-    {
-     "name": "LongSea",
-     "uuid": "292fdf05-45c5-412d-91de-ea545ea33dd0"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "xiao_gaoQAQ",
+     "uuid": "edfa1e35-011c-4644-9e70-9613780b1c5d"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

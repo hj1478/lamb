@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Fort_Smith",
   "uuid": "b5993e2a-916c-40c5-a14e-6590cc705558",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mr_hamburgers",
-   "uuid": "6e2463e9-30b0-4b88-9580-a63bdba9ed28"
+   "name": "NPC51",
+   "uuid": "0afe4b5e-84e4-201c-a1bd-581be335c2e6"
   },
   "nation": {
-   "name": "Texas",
-   "uuid": "059fcc8b-3db5-41b1-8f99-306150225850"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781739163974,
-   "joinedNationAt": 1781847366624,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792749732644
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 49,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 2,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -292,12 +292,12 @@
   },
   "residents": [
    {
-    "name": "Mr_hamburgers",
-    "uuid": "6e2463e9-30b0-4b88-9580-a63bdba9ed28"
-   },
-   {
     "name": "Yuvlo",
     "uuid": "85785150-6c6b-4ae3-abc8-9f0a062f86a2"
+   },
+   {
+    "name": "NPC51",
+    "uuid": "0afe4b5e-84e4-201c-a1bd-581be335c2e6"
    }
   ],
   "trusted": [

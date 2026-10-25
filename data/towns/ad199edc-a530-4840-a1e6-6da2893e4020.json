@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "German",
   "uuid": "ad199edc-a530-4840-a1e6-6da2893e4020",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Crispyyychips",
-   "uuid": "7c00f1e4-7534-49fe-82f9-7042e4f1efd8"
+   "name": "NPC39",
+   "uuid": "1f4ddb88-d38f-20a8-8f21-75818280f79e"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778630549240,
-   "joinedNationAt": 1785637399869,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792663202354
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 110,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,32 +47,32 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
     "mobs": true
    }
@@ -536,16 +536,8 @@
   },
   "residents": [
    {
-    "name": "Crispyyychips",
-    "uuid": "7c00f1e4-7534-49fe-82f9-7042e4f1efd8"
-   },
-   {
-    "name": "Alik5990",
-    "uuid": "b5e549f1-e562-4f0b-bbce-8dafaa448edb"
-   },
-   {
-    "name": "MasterMason45RM",
-    "uuid": "2990dcab-b9c0-4669-b189-9d27415d6062"
+    "name": "NPC39",
+    "uuid": "1f4ddb88-d38f-20a8-8f21-75818280f79e"
    }
   ],
   "trusted": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Cenzur",
   "uuid": "aa4d5025-0609-42f1-8e92-45ec6d74b703",
-  "board": "Libya!",
+  "board": "Second town in Libya",
   "founder": "glaggle2001",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 10,
+   "numResidents": 2,
    "numTrusted": 4,
-   "numOutlaws": 0,
-   "balance": 7.0,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,14 +117,18 @@
     ],
     [
      258,
-     -271
-    ],
-    [
-     256,
-     -270
+     -268
     ],
     [
      258,
+     -271
+    ],
+    [
+     258,
+     -270
+    ],
+    [
+     256,
      -270
     ],
     [
@@ -146,6 +150,10 @@
    {
     "name": "glaggle2001",
     "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
+   },
+   {
+    "name": "EdisonlovesDarby",
+    "uuid": "10ae96c7-7061-4fe8-bb34-837bcf3fecda"
    }
   ],
   "trusted": [
@@ -154,7 +162,7 @@
     "uuid": "b75fa0bf-e7a2-492e-a124-b70f7c0867ba"
    },
    {
-    "name": "Leskyow",
+    "name": "Nxghtxd__",
     "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
    },
    {
@@ -166,19 +174,32 @@
     "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
+   },
+   {
+    "name": "Shu_Yi_Xiao_xiao",
+    "uuid": "42b5b730-bf2c-4fd7-bb37-0843ebff7767"
+   },
+   {
+    "name": "JPPAS",
+    "uuid": "2f4166d2-21d1-4f3f-bcb6-5ce5c7fbcb7e"
+   }
+  ],
   "quarters": [
    {
     "name": "Lovely Tenement",
     "uuid": "3ee02df1-f2e9-4ed2-b57e-364fd0fbe15c"
    },
    {
-    "name": "Lovely Property",
-    "uuid": "922abeca-1639-46df-94c7-ee45f14a219a"
-   },
-   {
     "name": "Perturbing Apartment",
     "uuid": "db19b8d5-cf04-45d6-84bd-762a8af1b951"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "922abeca-1639-46df-94c7-ee45f14a219a"
    }
   ],
   "ranks": {

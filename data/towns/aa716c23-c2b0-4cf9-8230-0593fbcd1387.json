@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T11:19:29Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "HUXF_SIEGE",
   "uuid": "aa716c23-c2b0-4cf9-8230-0593fbcd1387",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "BogSnorkeler",
-   "uuid": "40fb6ded-cef3-4790-b398-1a217204fb0f"
+   "name": "NPC83",
+   "uuid": "9f7411db-98b9-20c7-b8e6-743361059c02"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785507240350,
-   "joinedNationAt": 1785507333533,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792922700691
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 6,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": true,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,36 +132,11 @@
   },
   "residents": [
    {
-    "name": "BogSnorkeler",
-    "uuid": "40fb6ded-cef3-4790-b398-1a217204fb0f"
+    "name": "NPC83",
+    "uuid": "9f7411db-98b9-20c7-b8e6-743361059c02"
    }
   ],
-  "trusted": [
-   {
-    "name": "SaolGhra",
-    "uuid": "026a0cdf-ef09-488b-bee8-573dc3c791d5"
-   },
-   {
-    "name": "MultiTGM",
-    "uuid": "18e5436c-1c0e-49fd-b35f-b215038738f6"
-   },
-   {
-    "name": "23don",
-    "uuid": "c7a509ba-d21f-4509-88d0-e09cc49925ca"
-   },
-   {
-    "name": "Seristic",
-    "uuid": "7da43f72-25e9-44b1-bb26-e0c023c83e69"
-   },
-   {
-    "name": "makeoutcy",
-    "uuid": "d9bd8f1e-5ce7-450d-9173-943790e58c92"
-   },
-   {
-    "name": "Huxf",
-    "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

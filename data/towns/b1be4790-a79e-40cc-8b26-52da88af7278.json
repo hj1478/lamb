@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-25T11:43:13Z",
  "data": {
   "name": "Brotatoville",
   "uuid": "b1be4790-a79e-40cc-8b26-52da88af7278",
-  "board": "/town set board [msg]",
+  "board": "All hail Brotatoville All hail the Dictator",
   "founder": "Ali_dinocraft",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ali_dinocraft",
-   "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
+   "name": "Kawaii_Girl1234",
+   "uuid": "9b58ef59-fc64-4585-8745-c14199b5e8c3"
   },
   "nation": {
    "name": "Libya",
@@ -22,10 +22,10 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
+   "numTownBlocks": 35,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 697.0,
+   "balance": 51.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,74 +80,110 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3688.2354754722514,
-    "y": 63.0,
-    "z": -4839.453478235991,
-    "pitch": 45.15001,
-    "yaw": -111.72039
+    "x": 3690.7118126090377,
+    "y": 65.0,
+    "z": -4857.295505279232,
+    "pitch": 66.600006,
+    "yaw": 179.87943
    },
    "homeBlock": [
     230,
-    -303
+    -304
    ],
    "townBlocks": [
     [
-     230,
-     -303
-    ],
-    [
-     230,
-     -304
-    ],
-    [
-     231,
-     -303
-    ],
-    [
-     231,
-     -304
-    ],
-    [
      228,
-     -304
-    ],
-    [
-     228,
-     -303
-    ],
-    [
-     228,
-     -302
-    ],
-    [
-     231,
-     -305
-    ],
-    [
-     230,
-     -305
-    ],
-    [
-     232,
-     -305
-    ],
-    [
-     226,
      -301
     ],
     [
-     232,
+     228,
+     -305
+    ],
+    [
+     228,
      -304
     ],
     [
-     226,
+     228,
+     -303
+    ],
+    [
+     228,
      -302
+    ],
+    [
+     232,
+     -305
+    ],
+    [
+     232,
+     -304
     ],
     [
      225,
      -302
     ],
     [
+     232,
+     -306
+    ],
+    [
+     232,
+     -303
+    ],
+    [
+     230,
+     -303
+    ],
+    [
+     230,
+     -304
+    ],
+    [
+     231,
+     -303
+    ],
+    [
+     231,
+     -304
+    ],
+    [
+     230,
+     -302
+    ],
+    [
+     231,
+     -305
+    ],
+    [
+     231,
+     -306
+    ],
+    [
+     230,
+     -305
+    ],
+    [
+     230,
+     -306
+    ],
+    [
+     226,
+     -301
+    ],
+    [
+     226,
+     -302
+    ],
+    [
+     226,
+     -300
+    ],
+    [
+     227,
+     -305
+    ],
+    [
      227,
      -304
     ],
@@ -168,31 +204,43 @@
      -302
     ],
     [
+     227,
+     -300
+    ],
+    [
      229,
      -303
+    ],
+    [
+     228,
+     -306
     ],
     [
      229,
      -304
     ],
     [
+     229,
+     -305
+    ],
+    [
      226,
      -303
+    ],
+    [
+     229,
+     -306
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Ali_dinocraft",
-    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
+    "name": "Kawaii_Girl1234",
+    "uuid": "9b58ef59-fc64-4585-8745-c14199b5e8c3"
    }
   ],
   "trusted": [
-   {
-    "name": "Kawaii_Girl1234",
-    "uuid": "9b58ef59-fc64-4585-8745-c14199b5e8c3"
-   },
    {
     "name": "justraf12",
     "uuid": "f4579a95-5da6-492a-b021-714bb1f9769f"
@@ -212,12 +260,21 @@
    {
     "name": "theyendermen",
     "uuid": "d3456f07-1582-4cdd-acd2-f6482e2d49a2"
+   },
+   {
+    "name": "Ali_dinocraft",
+    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Kawaii_Girl1234",
+     "uuid": "9b58ef59-fc64-4585-8745-c14199b5e8c3"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
