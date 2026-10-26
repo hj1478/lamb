@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Manresa",
   "uuid": "c5479959-e467-4675-8877-672c3107d826",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 1,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 32.0,
    "forSalePrice": null
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     42,
+     -499
+    ],
+    [
+     42,
+     -496
+    ],
+    [
+     42,
+     -497
+    ],
+    [
+     42,
+     -498
+    ],
+    [
      43,
      -497
+    ],
+    [
+     43,
+     -496
     ],
     [
      41,
@@ -116,16 +136,8 @@
      -498
     ],
     [
-     42,
-     -499
-    ],
-    [
-     42,
-     -497
-    ],
-    [
-     42,
-     -498
+     41,
+     -496
     ]
    ],
    "worlds": {}
@@ -142,8 +154,16 @@
   ],
   "trusted": [
    {
+    "name": "Jaiminus",
+    "uuid": "37f532f5-d6b1-4a31-a527-598030cf208b"
+   },
+   {
     "name": "Lego42288",
     "uuid": "a7340b04-fa05-47a7-b321-78016cd2c178"
+   },
+   {
+    "name": "VioletDreivil",
+    "uuid": "6fb09c22-6f50-412a-9337-f01685961431"
    }
   ],
   "outlaws": [],

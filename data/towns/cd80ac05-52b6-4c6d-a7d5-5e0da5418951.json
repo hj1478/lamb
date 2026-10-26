@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Kolkata",
   "uuid": "cd80ac05-52b6-4c6d-a7d5-5e0da5418951",
@@ -8,8 +8,8 @@
   "wiki": "https://wiki.earthmc.net",
   "discord": null,
   "mayor": {
-   "name": "LIPACE",
-   "uuid": "958c78b1-78a9-4781-8ac5-963191814364"
+   "name": "2btrencher",
+   "uuid": "ab026702-a4a3-49a9-8117-a37eca025f25"
   },
   "nation": {
    "name": "Narmada",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 12.0,
+   "numOutlaws": 4,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 31669.636651028584,
+    "x": 31670.8638346096,
     "y": 63.0,
-    "z": -254.69999998807907,
-    "pitch": 19.199764,
-    "yaw": -23.51823
+    "z": -251.41513222753912,
+    "pitch": 17.249773,
+    "yaw": 78.481384
    },
    "homeBlock": [
     1979,
@@ -124,12 +124,33 @@
     "uuid": "ab026702-a4a3-49a9-8117-a37eca025f25"
    },
    {
-    "name": "LIPACE",
-    "uuid": "958c78b1-78a9-4781-8ac5-963191814364"
+    "name": "YTENDJR7",
+    "uuid": "79cc8623-58d0-4748-9f2c-6ab19394d0bf"
+   },
+   {
+    "name": "Lionboy615",
+    "uuid": "658ad5b2-ccea-4f63-a782-d11be9403c5e"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
+   {
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   },
+   {
+    "name": "MuchJester",
+    "uuid": "c8103fce-800b-4c9f-882f-27cd3cbb0cd2"
+   },
+   {
+    "name": "QueenOfDance",
+    "uuid": "75587256-0177-44f1-b08c-e40a6e405819"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

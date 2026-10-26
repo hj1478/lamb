@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Mercantia",
   "uuid": "bedb0717-f3b9-44c5-a4d2-f1b59a555924",
-  "board": "/town set board [msg]",
+  "board": "Low Prices, Great Deals!",
   "founder": "GALER_GG",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 10,
    "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 2,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 1140.5028032126174,
+    "x": 1143.539359147826,
     "y": 102.0,
-    "z": -9079.210943637932,
-    "pitch": 11.100063,
-    "yaw": -89.8208
+    "z": -9085.00163402962,
+    "pitch": 7.7999487,
+    "yaw": 58.402588
    },
    "homeBlock": [
     71,
@@ -92,7 +92,39 @@
    ],
    "townBlocks": [
     [
+     72,
+     -567
+    ],
+    [
+     70,
+     -569
+    ],
+    [
      71,
+     -569
+    ],
+    [
+     71,
+     -568
+    ],
+    [
+     70,
+     -567
+    ],
+    [
+     70,
+     -568
+    ],
+    [
+     71,
+     -567
+    ],
+    [
+     72,
+     -569
+    ],
+    [
+     73,
      -568
     ],
     [
@@ -112,7 +144,12 @@
     "uuid": "53fe6d9e-ebe4-43fc-ba8f-eab1333c4996"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Angry_Chocobo",
+    "uuid": "53fe6d9e-ebe4-43fc-ba8f-eab1333c4996"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

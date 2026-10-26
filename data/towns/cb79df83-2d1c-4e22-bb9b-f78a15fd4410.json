@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Piramida",
   "uuid": "cb79df83-2d1c-4e22-bb9b-f78a15fd4410",
@@ -12,12 +12,12 @@
    "uuid": "d70a8a6d-1141-426f-9b15-1ac9d19e2553"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arctic_Ocean",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
    "registered": 1789346284793,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792431037680,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 83,
-   "maxTownBlocks": 96,
+   "numTownBlocks": 85,
+   "maxTownBlocks": 126,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 8,
    "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 456.0,
+   "balance": 468.0,
    "forSalePrice": null
   },
   "perms": {
@@ -236,12 +236,12 @@
      -1810
     ],
     [
-     2229,
-     -1819
-    ],
-    [
      2228,
      -1807
+    ],
+    [
+     2229,
+     -1819
     ],
     [
      2228,
@@ -376,12 +376,16 @@
      -1812
     ],
     [
+     2225,
+     -1809
+    ],
+    [
      2231,
      -1816
     ],
     [
      2225,
-     -1809
+     -1810
     ],
     [
      2231,
@@ -389,7 +393,7 @@
     ],
     [
      2225,
-     -1810
+     -1815
     ],
     [
      2231,
@@ -402,6 +406,10 @@
     [
      2225,
      -1813
+    ],
+    [
+     2225,
+     -1814
     ],
     [
      2232,
@@ -518,10 +526,6 @@
     "uuid": "dd68e14f-cf48-49ed-a3e2-c12c4664ff98"
    },
    {
-    "name": "Armoury",
-    "uuid": "322e9617-63b5-4f53-bef9-5f62e6e0e25c"
-   },
-   {
     "name": "Enraging Apartment",
     "uuid": "62b50ca6-173a-4c1c-8c22-27d6852790a1"
    },
@@ -590,10 +594,6 @@
     "uuid": "ea9bc094-01ac-4d28-9664-879c7673f14a"
    },
    {
-    "name": "Vault A",
-    "uuid": "32b80dd7-c891-4689-97f7-28a8f29eb0a8"
-   },
-   {
     "name": "Vault F",
     "uuid": "4d1df8b9-31fa-4fbc-94bf-4766d7a8e64c"
    },
@@ -604,6 +604,10 @@
    {
     "name": "Vault C",
     "uuid": "728afc52-3189-4a7e-8db0-1f5b47b9a55b"
+   },
+   {
+    "name": "Vault A",
+    "uuid": "32b80dd7-c891-4689-97f7-28a8f29eb0a8"
    }
   ],
   "ranks": {

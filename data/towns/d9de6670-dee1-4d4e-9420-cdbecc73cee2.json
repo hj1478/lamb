@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Fairbanks",
   "uuid": "d9de6670-dee1-4d4e-9420-cdbecc73cee2",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 7,
-   "numTrusted": 0,
+   "nationBonus": 50,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 1.0,
    "forSalePrice": null
@@ -677,24 +677,12 @@
   },
   "residents": [
    {
-    "name": "Mrbj4002",
-    "uuid": "87a346ab-249c-4f97-ac21-976b4e54ccaf"
-   },
-   {
     "name": "UghBraces",
     "uuid": "c9a7d02a-9b53-4142-bb8b-e5431df02dc8"
    },
    {
-    "name": "brocadoDeFome",
-    "uuid": "7bb23463-f02e-4c14-9b6b-c6c623147c02"
-   },
-   {
     "name": "rcsemary",
     "uuid": "ddcb2924-f1fb-4888-bc4d-2fba945ca062"
-   },
-   {
-    "name": "young_picassoo",
-    "uuid": "23fe3ba9-e5c8-43cb-ae7e-ea57819285f8"
    },
    {
     "name": "BennyBlox_YT",
@@ -705,7 +693,12 @@
     "uuid": "f42aaa65-ada1-4b9d-88a4-f550f7d3b7ef"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Toopg",
+    "uuid": "02d8e245-6901-4105-9bfb-a78c5246841f"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Gateway",
   "uuid": "d65471b0-6878-47c5-bc23-bb6c33635e01",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 200,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 2,
+   "numResidents": 7,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 510.0,
+   "balance": 485.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": true,
     "mobs": false
    }
@@ -900,16 +900,8 @@
     "uuid": "3ee2150a-a96f-4658-83a9-6fb428b5ace0"
    },
    {
-    "name": "SuperschweinKing",
-    "uuid": "bec89fda-c131-4413-bbda-e3e9df2ad312"
-   },
-   {
     "name": "NPCrafter358",
     "uuid": "26469734-d454-45a1-bba0-086cde87b8f0"
-   },
-   {
-    "name": "LeoGamingHD",
-    "uuid": "62e9e4b0-8dfa-4c4e-b538-8f6e43d352b3"
    },
    {
     "name": "JumpingBlock117",
@@ -926,12 +918,20 @@
    {
     "name": "NuggetMcLovin",
     "uuid": "0a2bb3ce-e398-4929-921f-6ad0a6f13569"
+   },
+   {
+    "name": "0_jestyanka_0",
+    "uuid": "7f77c037-f3b3-4b4e-975d-be6be8004d53"
    }
   ],
   "trusted": [
    {
     "name": "Artanis973",
     "uuid": "be1f4963-1b94-4ce5-b2ea-6c4ee28fc58c"
+   },
+   {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
    },
    {
     "name": "NPCrafter358",

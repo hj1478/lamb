@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Valtherion",
   "uuid": "d8568bad-5d25-4f64-b5ae-0e7ce6486063",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 38,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 41,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13078.40521203658,
+    "x": 13078.48009980644,
     "y": 180.0,
-    "z": -13085.343437418504,
-    "pitch": 23.849777,
-    "yaw": 177.98291
+    "z": -13074.465863245174,
+    "pitch": -4.650165,
+    "yaw": -178.87671
    },
    "homeBlock": [
     817,
@@ -104,16 +104,12 @@
      -824
     ],
     [
-     817,
-     -823
-    ],
-    [
      816,
      -824
     ],
     [
      817,
-     -822
+     -823
     ],
     [
      816,
@@ -121,6 +117,10 @@
     ],
     [
      817,
+     -822
+    ],
+    [
+     817,
      -821
     ],
     [
@@ -144,15 +144,23 @@
      -819
     ],
     [
-     816,
-     -822
+     814,
+     -819
     ],
     [
      815,
      -820
     ],
     [
+     816,
+     -822
+    ],
+    [
      814,
+     -820
+    ],
+    [
+     815,
      -819
     ],
     [
@@ -161,23 +169,27 @@
     ],
     [
      815,
-     -819
+     -818
     ],
     [
      814,
-     -820
+     -817
+    ],
+    [
+     814,
+     -818
     ],
     [
      815,
-     -818
-    ],
-    [
-     814,
-     -818
+     -817
     ],
     [
      816,
      -818
+    ],
+    [
+     816,
+     -817
     ],
     [
      815,

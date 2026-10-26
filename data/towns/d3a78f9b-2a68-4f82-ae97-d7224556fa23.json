@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Nile",
   "uuid": "d3a78f9b-2a68-4f82-ae97-d7224556fa23",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 481,
+   "numTownBlocks": 484,
    "maxTownBlocks": 556,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 38,
-   "numTrusted": 2,
-   "numOutlaws": 4,
-   "balance": 3769.0,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,6 +117,14 @@
     ],
     [
      714,
+     -219
+    ],
+    [
+     714,
+     -218
+    ],
+    [
+     714,
      -217
     ],
     [
@@ -182,6 +190,10 @@
     [
      712,
      -212
+    ],
+    [
+     697,
+     -221
     ],
     [
      712,
@@ -1340,12 +1352,12 @@
      -203
     ],
     [
-     699,
-     -202
-    ],
-    [
      696,
      -196
+    ],
+    [
+     699,
+     -202
     ],
     [
      699,
@@ -2033,28 +2045,12 @@
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
    },
    {
-    "name": "ksmining2011",
-    "uuid": "c92c10a4-dbab-46d7-948f-e8bae0c67911"
-   },
-   {
     "name": "kennt3",
     "uuid": "bddb4841-0922-4abe-a711-bb2a8229ac92"
    },
    {
     "name": "DA7meey120",
     "uuid": "8bce030b-eb96-41b0-ac5a-49aa1d742c0f"
-   },
-   {
-    "name": "azm0w",
-    "uuid": "1414b16e-5993-42f7-afb4-8845e687573a"
-   },
-   {
-    "name": "7thPowerReal",
-    "uuid": "5303d007-54bd-4c80-9d4b-347661cf070b"
-   },
-   {
-    "name": "borsuk987",
-    "uuid": "fcd1bd66-8525-46fb-af06-5f3d4f7b8382"
    },
    {
     "name": "_GoatLord",
@@ -2175,6 +2171,22 @@
    {
     "name": "PeonyGrace6899",
     "uuid": "642a3c88-3689-460e-a6ed-f836df98f093"
+   },
+   {
+    "name": "Real1zm",
+    "uuid": "e5137568-0d5b-43ff-ad8f-a1d9855b1475"
+   },
+   {
+    "name": "Duck5goQuack",
+    "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
+   },
+   {
+    "name": "ArchitectorMaya",
+    "uuid": "e0368e37-e17b-4924-be8b-ea87386b9d4b"
+   },
+   {
+    "name": "CARIPPZ",
+    "uuid": "581d9ec2-8579-4d33-8b35-3e40363587a9"
    }
   ],
   "trusted": [
@@ -2185,24 +2197,16 @@
    {
     "name": "JR1258",
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
+   },
+   {
+    "name": "Duck5goQuack",
+    "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
    }
   ],
   "outlaws": [
    {
-    "name": "Aoblockminer",
-    "uuid": "268892b0-9b88-44be-bdf7-2ee93f20f6e6"
-   },
-   {
     "name": "Thanamos",
     "uuid": "673cb68c-c580-4c3d-9aa3-040c0873a5b4"
-   },
-   {
-    "name": "_Nai_Long_",
-    "uuid": "b7fbda72-8224-459a-a178-900b85f48f61"
-   },
-   {
-    "name": "Dckyoos",
-    "uuid": "82aa3778-169b-40bb-98cc-701c0ecdd474"
    }
   ],
   "quarters": [
@@ -2227,12 +2231,16 @@
     "uuid": "d46ba944-9ab9-4a92-b56d-0a2a78efa46a"
    },
    {
+    "name": "Annoying Tenement",
+    "uuid": "6784e92d-bcf3-4e6f-becd-2054b4793752"
+   },
+   {
     "name": "Poszan",
     "uuid": "98d28e1a-366c-499e-b3b9-a3d590651570"
    },
    {
-    "name": "Annoying Tenement",
-    "uuid": "6784e92d-bcf3-4e6f-becd-2054b4793752"
+    "name": "Duck",
+    "uuid": "cdc48592-a7b4-4ae5-be33-c358ce43ba8d"
    }
   ],
   "ranks": {
@@ -2240,6 +2248,10 @@
     {
      "name": "JR1258",
      "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
+    },
+    {
+     "name": "Duck5goQuack",
+     "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
     }
    ],
    "Builder": [],
@@ -2250,20 +2262,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Trial",
-    "uuid": "eea6e7ed-096a-4f0d-895b-481757a1baa5",
-    "createdAt": 1782385077679,
-    "createdBy": "JR1258",
-    "access": "NATION",
-    "location": {
-     "x": 11179,
-     "y": 4,
-     "z": -3147
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

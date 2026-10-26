@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Western_Canada",
   "uuid": "b6df5506-cd15-48ee-9607-e4e95bba683b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 102,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 13,
    "numOutlaws": 0,
-   "balance": 60.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -43847.993777278236,
-    "y": 71.0,
-    "z": -15810.992468189937,
-    "pitch": -7.9500146,
-    "yaw": -179.84888
+    "x": -43848.0042153949,
+    "y": 70.0,
+    "z": -15759.290355582241,
+    "pitch": 4.349989,
+    "yaw": 0.00039672852
    },
    "homeBlock": [
     -2741,
-    -989
+    -985
    ],
    "townBlocks": [
     [
@@ -506,10 +506,6 @@
    {
     "name": "Vicky151",
     "uuid": "bc158a5d-da41-42b4-9cea-a137a660c679"
-   },
-   {
-    "name": "ARGY676767",
-    "uuid": "c0f41f9a-e3dc-45ff-8353-cce656c170df"
    },
    {
     "name": "songS2S2",

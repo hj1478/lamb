@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Trial_Waters",
   "uuid": "c1bd199a-7b4b-44f8-aafb-a83bc3a18c64",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "VenomPrime",
-   "uuid": "9f43b469-d795-4006-8290-5592e65b9f48"
+   "name": "NPC25",
+   "uuid": "6128850f-fe02-20f2-a0c9-0c7ed9cdace4"
   },
   "nation": {
-   "name": "Zion",
-   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782845285723,
-   "joinedNationAt": 1782845539465,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793008800930
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 34,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -232,8 +232,8 @@
   },
   "residents": [
    {
-    "name": "VenomPrime",
-    "uuid": "9f43b469-d795-4006-8290-5592e65b9f48"
+    "name": "NPC25",
+    "uuid": "6128850f-fe02-20f2-a0c9-0c7ed9cdace4"
    }
   ],
   "trusted": [

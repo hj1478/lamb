@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Tyre",
   "uuid": "ca1b1784-2d12-4aef-9f51-102af4b6bb0f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Encyclopediae",
-   "uuid": "e8b789f2-72be-4bdf-a3ca-74089645d1d9"
+   "name": "NPC110",
+   "uuid": "1d87d1d9-9cee-20c9-8369-4b052eb37075"
   },
   "nation": {
-   "name": "Palestine",
-   "uuid": "ff4b6b72-b5e2-49f4-955e-f3bdbea0321c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777338892702,
-   "joinedNationAt": 1777513901687,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793008952556
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 68,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 10,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -368,8 +368,16 @@
   },
   "residents": [
    {
-    "name": "Encyclopediae",
-    "uuid": "e8b789f2-72be-4bdf-a3ca-74089645d1d9"
+    "name": "Derman2",
+    "uuid": "7b2247df-d2c0-4c47-81d7-eda837efe264"
+   },
+   {
+    "name": "deitook",
+    "uuid": "f43c41ba-becd-43ec-beea-7128857b6757"
+   },
+   {
+    "name": "NPC110",
+    "uuid": "1d87d1d9-9cee-20c9-8369-4b052eb37075"
    }
   ],
   "trusted": [

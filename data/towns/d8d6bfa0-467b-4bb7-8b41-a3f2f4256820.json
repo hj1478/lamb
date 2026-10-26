@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "South_Germany",
   "uuid": "d8d6bfa0-467b-4bb7-8b41-a3f2f4256820",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 282,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
-   "numTrusted": 6,
-   "numOutlaws": 18,
+   "numResidents": 14,
+   "numTrusted": 7,
+   "numOutlaws": 17,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -1228,24 +1228,12 @@
     "uuid": "2dde1485-ee7f-40d6-ba04-57b32468eb1f"
    },
    {
-    "name": "Fatal_Fanz",
-    "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
-   },
-   {
-    "name": "Mayko123",
-    "uuid": "0dea47e8-3c22-4ce3-920f-19f3a7c87c23"
+    "name": "antonlaurin",
+    "uuid": "d560aeaf-5255-4f37-a7c9-483151235bac"
    },
    {
     "name": "pengdol511",
     "uuid": "1a292cf7-d46e-41f4-80cf-ab1be8bbed3d"
-   },
-   {
-    "name": "fayhefg",
-    "uuid": "c5c0d439-dd63-498b-8656-65473a6d4c5c"
-   },
-   {
-    "name": "MidShelfG",
-    "uuid": "7ae8e405-9764-407e-bced-ff2b7a7a99cc"
    },
    {
     "name": "KGlue333",
@@ -1286,9 +1274,17 @@
    {
     "name": "M1sscl1cked",
     "uuid": "c82b2282-ede2-4b02-a4b6-b61ab2803dd1"
+   },
+   {
+    "name": "mejasggg",
+    "uuid": "3ebf8a0c-d929-42db-9651-32a718c0b67e"
    }
   ],
   "trusted": [
+   {
+    "name": "mrnoobboi",
+    "uuid": "46cb2b16-03eb-4a48-9185-815e56d6f6b3"
+   },
    {
     "name": "ByteSlayer",
     "uuid": "941f7e0b-8775-49a1-83ec-2bea516a230d"
@@ -1302,8 +1298,8 @@
     "uuid": "64f399ce-0ec5-416b-999b-4446b7466d8e"
    },
    {
-    "name": "MikYoutube",
-    "uuid": "bd2e2462-bc66-49a1-9158-08242db4a4b5"
+    "name": "winnerzabest",
+    "uuid": "17e42e47-e776-401e-bc1d-865fbfb2f7c2"
    },
    {
     "name": "Wuffmaker",
@@ -1358,10 +1354,6 @@
    {
     "name": "TheMagicTom",
     "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
-   },
-   {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
    },
    {
     "name": "Ulvash",
@@ -1451,23 +1443,13 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Fatal_Fanz",
-     "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [
-    {
-     "name": "Fatal_Fanz",
-     "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
-    }
-   ],
+   "Realtor": [],
    "Settler": []
   },
   "warps": [],

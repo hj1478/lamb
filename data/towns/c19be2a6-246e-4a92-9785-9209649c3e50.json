@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Port_Victoria",
   "uuid": "c19be2a6-246e-4a92-9785-9209649c3e50",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "doubtOwOr",
-   "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
+   "name": "GoldiOwOr",
+   "uuid": "3506364d-1ad3-43ca-a677-891d0e62f082"
   },
   "nation": {
    "name": "Lake_Victoria",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 155,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 171,
+   "maxTownBlocks": 238,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 7,
+   "nationBonus": 10,
+   "numResidents": 19,
    "numTrusted": 6,
    "numOutlaws": 1,
-   "balance": 455.0,
+   "balance": 161.0,
    "forSalePrice": null
   },
   "perms": {
@@ -328,6 +328,38 @@
      514
     ],
     [
+     716,
+     515
+    ],
+    [
+     716,
+     516
+    ],
+    [
+     716,
+     517
+    ],
+    [
+     715,
+     515
+    ],
+    [
+     715,
+     514
+    ],
+    [
+     715,
+     517
+    ],
+    [
+     715,
+     516
+    ],
+    [
+     715,
+     518
+    ],
+    [
      700,
      510
     ],
@@ -620,6 +652,18 @@
      520
     ],
     [
+     714,
+     511
+    ],
+    [
+     714,
+     512
+    ],
+    [
+     714,
+     513
+    ],
+    [
      709,
      509
     ],
@@ -664,8 +708,28 @@
      511
     ],
     [
+     714,
+     514
+    ],
+    [
+     714,
+     515
+    ],
+    [
+     714,
+     516
+    ],
+    [
+     714,
+     517
+    ],
+    [
      706,
      520
+    ],
+    [
+     714,
+     518
     ],
     [
      706,
@@ -716,10 +780,6 @@
   },
   "residents": [
    {
-    "name": "doubtOwOr",
-    "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
-   },
-   {
     "name": "Dondidon1",
     "uuid": "d5d8bd19-85ff-4a76-b6dc-0e5bde041030"
    },
@@ -742,6 +802,58 @@
    {
     "name": "Renjata",
     "uuid": "74361ffa-0111-4d8d-b3ba-f46c6cdf8521"
+   },
+   {
+    "name": "GoldiOwOr",
+    "uuid": "3506364d-1ad3-43ca-a677-891d0e62f082"
+   },
+   {
+    "name": "doubtOwOr",
+    "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
+   },
+   {
+    "name": "BomboMan5",
+    "uuid": "9eb07fa7-c2eb-430d-bb03-958c498e7c2f"
+   },
+   {
+    "name": "CozyCandle",
+    "uuid": "9b0bc8c4-849b-4382-bd1d-8eaa03616089"
+   },
+   {
+    "name": "OofOldGrandpa",
+    "uuid": "1aa5e03b-6476-47c3-86a0-d68c6483ddaa"
+   },
+   {
+    "name": "Claudiu08",
+    "uuid": "8eb9b5a1-9730-4d9d-b00f-6b2c9b1a7945"
+   },
+   {
+    "name": "Edmont29",
+    "uuid": "dab8931c-c1f6-4540-a2a5-8b0ecfedcb64"
+   },
+   {
+    "name": "Gannibz",
+    "uuid": "2809c934-07b2-475f-bb2b-544b4fa68933"
+   },
+   {
+    "name": "wen1x",
+    "uuid": "d7adcfaf-90a7-4afc-a53d-8d72b83af6f4"
+   },
+   {
+    "name": "Binglow",
+    "uuid": "24e0dc1a-83b8-4164-a4b0-6ea8b360f0ab"
+   },
+   {
+    "name": "LpsxoZ",
+    "uuid": "d2a86d58-add3-4479-a77d-14c493172ef8"
+   },
+   {
+    "name": "GhostYoda8210",
+    "uuid": "69688aef-b723-4919-a778-70400ef41774"
+   },
+   {
+    "name": "madelius",
+    "uuid": "3be339e5-3c3d-4ca0-ae28-00667b69a328"
    }
   ],
   "trusted": [
@@ -782,10 +894,6 @@
     "uuid": "1ac4c5c1-c99d-4f96-a3a4-da5c1cfcca1e"
    },
    {
-    "name": "Stylish Quarter",
-    "uuid": "36b009ef-0a03-437f-88ed-bc4b5982434c"
-   },
-   {
     "name": "Dingy Dwelling",
     "uuid": "77980dbb-c453-4853-b69b-1cf93668a12e"
    },
@@ -799,9 +907,18 @@
     {
      "name": "DLOwOr",
      "uuid": "8e4c86be-d182-4b9b-a830-ebc9fea2916a"
+    },
+    {
+     "name": "doubtOwOr",
+     "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "GoldiOwOr",
+     "uuid": "3506364d-1ad3-43ca-a677-891d0e62f082"
+    }
+   ],
    "Recruiter": [
     {
      "name": "DLOwOr",

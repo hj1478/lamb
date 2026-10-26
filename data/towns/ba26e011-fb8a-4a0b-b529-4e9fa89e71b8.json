@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Kaer_Trolde",
   "uuid": "ba26e011-fb8a-4a0b-b529-4e9fa89e71b8",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 130,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 10,
+   "numResidents": 10,
+   "numTrusted": 10,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,24 +80,52 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6055.626291199719,
-    "y": 65.5,
-    "z": -28526.454803366032,
-    "pitch": -4.3499475,
-    "yaw": 179.54572
+    "x": 6077.420864727266,
+    "y": 71.0,
+    "z": -28534.52266618222,
+    "pitch": -4.9500194,
+    "yaw": -89.55285
    },
    "homeBlock": [
-    378,
-    -1783
+    379,
+    -1784
    ],
    "townBlocks": [
     [
+     381,
+     -1782
+    ],
+    [
+     381,
+     -1783
+    ],
+    [
+     381,
+     -1784
+    ],
+    [
+     380,
+     -1786
+    ],
+    [
+     381,
+     -1785
+    ],
+    [
+     381,
+     -1786
+    ],
+    [
      378,
      -1784
     ],
     [
      379,
      -1784
+    ],
+    [
+     380,
+     -1782
     ],
     [
      378,
@@ -108,12 +136,40 @@
      -1785
     ],
     [
+     380,
+     -1783
+    ],
+    [
+     378,
+     -1786
+    ],
+    [
+     379,
+     -1786
+    ],
+    [
+     380,
+     -1784
+    ],
+    [
      378,
      -1785
     ],
     [
+     380,
+     -1785
+    ],
+    [
+     379,
+     -1782
+    ],
+    [
      379,
      -1783
+    ],
+    [
+     378,
+     -1782
     ]
    ],
    "worlds": {}
@@ -124,11 +180,84 @@
     "uuid": "0c5b46b9-23ad-4d9c-b87f-d4a3adba7017"
    },
    {
-    "name": "redplanet1212",
-    "uuid": "9c312937-9c8a-43e2-ad64-90c0649c68f7"
+    "name": "Philigamer15",
+    "uuid": "1c81af5c-3da1-49ef-87bc-946d8590e7aa"
+   },
+   {
+    "name": "Soldat_jojo",
+    "uuid": "7164370e-aba3-4736-ad41-d6db083cca4a"
+   },
+   {
+    "name": "Tex129",
+    "uuid": "7c95cc6e-35d4-44ba-be75-206e92851be8"
+   },
+   {
+    "name": "shyneepotato",
+    "uuid": "2269ef98-3e42-49ec-ac50-d9bf05556d3d"
+   },
+   {
+    "name": "gigi_loves_lemon",
+    "uuid": "5a269862-1ce0-4475-8ae7-09c1a9b181ad"
+   },
+   {
+    "name": "Rynwn",
+    "uuid": "02abcd61-b5f1-4d95-a40a-54f262f62a47"
+   },
+   {
+    "name": "Ozy_Bear",
+    "uuid": "e9bce8d5-77c4-4071-b575-ac390aae2578"
+   },
+   {
+    "name": "Sportsman111",
+    "uuid": "258578ad-b9a4-4377-a0e1-193a04997ebd"
+   },
+   {
+    "name": "Mikey340",
+    "uuid": "c4dbca6f-b5e3-413d-ba75-e4d21d081d3c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Soldat_jojo",
+    "uuid": "7164370e-aba3-4736-ad41-d6db083cca4a"
+   },
+   {
+    "name": "Tex129",
+    "uuid": "7c95cc6e-35d4-44ba-be75-206e92851be8"
+   },
+   {
+    "name": "Sportsman111",
+    "uuid": "258578ad-b9a4-4377-a0e1-193a04997ebd"
+   },
+   {
+    "name": "Rynwn",
+    "uuid": "02abcd61-b5f1-4d95-a40a-54f262f62a47"
+   },
+   {
+    "name": "Philigamer15",
+    "uuid": "1c81af5c-3da1-49ef-87bc-946d8590e7aa"
+   },
+   {
+    "name": "shyneepotato",
+    "uuid": "2269ef98-3e42-49ec-ac50-d9bf05556d3d"
+   },
+   {
+    "name": "Mikey340",
+    "uuid": "c4dbca6f-b5e3-413d-ba75-e4d21d081d3c"
+   },
+   {
+    "name": "Bibibuzina",
+    "uuid": "347a2cae-dce2-46a5-8284-3213bf0da130"
+   },
+   {
+    "name": "gigi_loves_lemon",
+    "uuid": "5a269862-1ce0-4475-8ae7-09c1a9b181ad"
+   },
+   {
+    "name": "PROMY19",
+    "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

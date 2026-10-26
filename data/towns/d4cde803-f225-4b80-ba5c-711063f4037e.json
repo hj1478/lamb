@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Guigang",
   "uuid": "d4cde803-f225-4b80-ba5c-711063f4037e",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 39319.221980131944,
-    "y": 63.0,
-    "z": -441.5247256526846,
-    "pitch": 55.05006,
-    "yaw": 118.780334
+    "x": 39319.418178573855,
+    "y": 64.0,
+    "z": -441.47781449147107,
+    "pitch": -15.450023,
+    "yaw": 179.53085
    },
    "homeBlock": [
     2457,
@@ -168,9 +168,27 @@
     "uuid": "d0a368e0-3099-4711-9fdb-3b6702de14b7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "NL733",
+    "uuid": "cbd263fa-8eb8-47cf-9b19-01fd02e192ea"
+   },
+   {
+    "name": "ItzAmiya",
+    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   },
+   {
+    "name": "SOME7HING",
+    "uuid": "67b26d2e-5953-4637-9691-c646bb0ddd6d"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "贵港冰轨",
+    "uuid": "e6b88f8d-cc58-4fdf-998d-c586a30e1fea"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

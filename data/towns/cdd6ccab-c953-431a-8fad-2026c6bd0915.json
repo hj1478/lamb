@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Hawassa",
   "uuid": "cdd6ccab-c953-431a-8fad-2026c6bd0915",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": true
   },
   "stats": {
-   "numTownBlocks": 23,
-   "maxTownBlocks": 232,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 3.0,
@@ -93,6 +93,22 @@
    "townBlocks": [
     [
      882,
+     227
+    ],
+    [
+     882,
+     226
+    ],
+    [
+     881,
+     225
+    ],
+    [
+     883,
+     227
+    ],
+    [
+     883,
      226
     ],
     [
@@ -102,10 +118,6 @@
     [
      883,
      220
-    ],
-    [
-     881,
-     225
     ],
     [
      883,
@@ -122,14 +134,6 @@
     [
      883,
      224
-    ],
-    [
-     883,
-     227
-    ],
-    [
-     883,
-     226
     ],
     [
      884,
@@ -192,30 +196,6 @@
     "uuid": "a1ddc5ce-df96-4034-80bd-a3ac7145fb9f"
    },
    {
-    "name": "MothTheMortal",
-    "uuid": "d446c2c1-3108-4dc2-a219-2dda25f7e287"
-   },
-   {
-    "name": "Qorvath",
-    "uuid": "7fa64b06-4ff0-43a7-8794-0149e6a16e4e"
-   },
-   {
-    "name": "ASMH4444",
-    "uuid": "8d808c30-d148-4131-bcf1-6188f87ea3a1"
-   },
-   {
-    "name": "micolps3",
-    "uuid": "0386d179-84ce-4a13-aec6-ecb82fde4501"
-   },
-   {
-    "name": "501stt_",
-    "uuid": "3f5a9a49-2cbf-4798-adf3-cd80574b53c0"
-   },
-   {
-    "name": "eig_ht_",
-    "uuid": "356a68f8-37f9-4fec-bd1e-4b1514c9abe7"
-   },
-   {
     "name": "matt1582",
     "uuid": "ec0c1f39-03f9-4883-9957-fd8c12aba866"
    },
@@ -247,15 +227,14 @@
    {
     "name": "Upbeat Quarter",
     "uuid": "43821ddd-5762-419b-b163-cc41756e895e"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "ace83dd2-04e3-4069-b02d-fee90c701051"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "ASMH4444",
-     "uuid": "8d808c30-d148-4131-bcf1-6188f87ea3a1"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

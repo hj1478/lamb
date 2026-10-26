@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Agartha",
   "uuid": "c051c374-96f4-4554-aff1-c7b3220b752a",
@@ -22,10 +22,10 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 205,
-   "maxTownBlocks": 216,
+   "maxTownBlocks": 194,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 13,
+   "nationBonus": 50,
+   "numResidents": 12,
    "numTrusted": 8,
-   "numOutlaws": 7,
+   "numOutlaws": 6,
    "balance": 30.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -916,10 +916,6 @@
   },
   "residents": [
    {
-    "name": "breadmorebread",
-    "uuid": "d834f817-fc42-4870-a11f-3a55a41b1fa1"
-   },
-   {
     "name": "ZoixzR",
     "uuid": "cc394dbc-26b4-4c5f-a7f5-7b8034252c81"
    },
@@ -956,16 +952,16 @@
     "uuid": "b794d80c-23d0-463b-bd84-b49e6fe1c349"
    },
    {
-    "name": "AveryFB",
-    "uuid": "2ea7c5af-b749-4432-a807-80bac750cb9c"
-   },
-   {
     "name": "Sebi_055",
     "uuid": "54bbe369-ff91-45f7-8772-186601d54d07"
    },
    {
     "name": "joshuah14782",
     "uuid": "c9d0ec79-9ac4-499e-8f12-b5b7e48f2de3"
+   },
+   {
+    "name": "theunsaid",
+    "uuid": "130bc6be-fcdb-48e3-9e70-6a488cc0b05a"
    }
   ],
   "trusted": [
@@ -1022,10 +1018,6 @@
    {
     "name": "rpr220",
     "uuid": "efda09fe-9853-4ae6-b99d-ff4ed6a0da8e"
-   },
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    },
    {
     "name": "ryli22",

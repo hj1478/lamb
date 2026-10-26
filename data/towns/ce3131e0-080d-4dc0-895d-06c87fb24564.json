@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Mallavo",
   "uuid": "ce3131e0-080d-4dc0-895d-06c87fb24564",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Tecver",
-   "uuid": "4ec9a48b-ac4c-47d2-b7c2-7f66f29a551c"
+   "name": "SnowChild68",
+   "uuid": "b415a31d-fa9f-4bc4-9038-567792e2aef9"
   },
   "nation": {
    "name": "Nubia",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 56,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 2,
-   "numOutlaws": 3,
-   "balance": 4.0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 5,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": false,
     "fire": false,
     "mobs": false
@@ -325,19 +325,20 @@
   },
   "residents": [
    {
-    "name": "Tecver",
-    "uuid": "4ec9a48b-ac4c-47d2-b7c2-7f66f29a551c"
-   },
-   {
-    "name": "Starseed17",
-    "uuid": "c7943156-8f3d-4658-ada4-07a3bb75a62b"
-   },
-   {
-    "name": "Tavacraft",
-    "uuid": "3fee33e8-8a08-4d0a-be66-53ed7c4de2f5"
+    "name": "SnowChild68",
+    "uuid": "b415a31d-fa9f-4bc4-9038-567792e2aef9"
    }
   ],
-  "trusted": [
+  "trusted": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Tbone2468",
+    "uuid": "15449b6b-2cbf-481a-a223-b40b7e80ce26"
+   },
    {
     "name": "LPZE",
     "uuid": "bcefd252-dce4-4648-8d73-d1fa2b981814"
@@ -345,20 +346,10 @@
    {
     "name": "Tecver",
     "uuid": "4ec9a48b-ac4c-47d2-b7c2-7f66f29a551c"
-   }
-  ],
-  "outlaws": [
-   {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "ashes13C",
-    "uuid": "1e69d0e7-17c0-4879-80c0-b515c58ec3ab"
-   },
-   {
-    "name": "Tbone2468",
-    "uuid": "15449b6b-2cbf-481a-a223-b40b7e80ce26"
+    "name": "Barboda_",
+    "uuid": "b8eaa101-2d17-4ff4-b617-1036c162fe48"
    }
   ],
   "quarters": [
@@ -412,12 +403,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Tecver",
-     "uuid": "4ec9a48b-ac4c-47d2-b7c2-7f66f29a551c"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

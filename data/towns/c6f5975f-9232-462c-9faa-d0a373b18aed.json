@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Vale",
   "uuid": "c6f5975f-9232-462c-9faa-d0a373b18aed",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 129,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 132,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 1,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 28581.694490355334,
+    "x": 28577.930010353008,
     "y": 103.0,
-    "z": -3311.6456844014565,
-    "pitch": -6.442247,
-    "yaw": 59.030445
+    "z": -3299.1241448143596,
+    "pitch": 0.23615974,
+    "yaw": 70.51489
    },
    "homeBlock": [
     1786,
@@ -552,6 +552,10 @@
      -210
     ],
     [
+     1776,
+     -208
+    ],
+    [
      1785,
      -205
     ],
@@ -564,7 +568,15 @@
      -204
     ],
     [
+     1776,
+     -206
+    ],
+    [
      1785,
+     -207
+    ],
+    [
+     1776,
      -207
     ],
     [
@@ -621,10 +633,6 @@
     "uuid": "d999bed7-2264-4556-8f40-f1c46bb6158c"
    },
    {
-    "name": "isbot1",
-    "uuid": "d27a9798-8735-41cd-a324-a7f63aaf44ae"
-   },
-   {
     "name": "Ludrixius",
     "uuid": "1ddd0346-5e5a-4de5-8d24-f598f73d0063"
    },
@@ -641,7 +649,12 @@
     "uuid": "d6200d94-d861-4113-acca-fff07b2ee751"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "isbot1",
+    "uuid": "d27a9798-8735-41cd-a324-a7f63aaf44ae"
+   }
+  ],
   "outlaws": [
    {
     "name": "nokteholda",
@@ -656,16 +669,15 @@
    {
     "name": "Gloomy Tenement",
     "uuid": "af615a43-8ebf-4cc8-89c5-51b06cc6ed4a"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "ff747c88-805b-4e7c-a301-fcb461549377"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "isbot1",
-     "uuid": "d27a9798-8735-41cd-a324-a7f63aaf44ae"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

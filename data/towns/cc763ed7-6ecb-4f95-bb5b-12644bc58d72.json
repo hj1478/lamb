@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Brighton",
   "uuid": "cc763ed7-6ecb-4f95-bb5b-12644bc58d72",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 55,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 56,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 54.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -842.674885876806,
-    "y": 264.0,
-    "z": -13047.558155139828,
-    "pitch": 19.350029,
-    "yaw": 80.26915
+    "x": -968.2976585455098,
+    "y": 1.0,
+    "z": -13013.806837533431,
+    "pitch": 90.0,
+    "yaw": -95.08084
    },
    "homeBlock": [
-    -53,
-    -816
+    -61,
+    -814
    ],
    "townBlocks": [
     [
@@ -293,6 +293,10 @@
     ],
     [
      -59,
+     -818
+    ],
+    [
+     -59,
      -817
     ],
     [
@@ -318,10 +322,6 @@
    {
     "name": "Jakob3005",
     "uuid": "3076708e-9a4f-4d2b-ab98-270eaa4b9bbe"
-   },
-   {
-    "name": "Kazkyy",
-    "uuid": "0551164a-3dac-437d-8452-913b7acb768e"
    },
    {
     "name": "arpivok",
@@ -364,22 +364,12 @@
      "uuid": "d3b3fff4-3870-49e4-9144-67e9e943ceaf"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "Kazkyy",
-     "uuid": "0551164a-3dac-437d-8452-913b7acb768e"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "Kazkyy",
-     "uuid": "0551164a-3dac-437d-8452-913b7acb768e"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

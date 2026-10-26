@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "South_Dakota",
   "uuid": "c7e208f4-b800-4425-b311-0967dbc0a936",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 103,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -510,10 +510,6 @@
    {
     "name": "tezzuskhrist",
     "uuid": "469fa62e-bcf7-4fe1-89de-2762266d33b4"
-   },
-   {
-    "name": "Darda",
-    "uuid": "16c4682b-3239-4954-a900-1fe55ea771f1"
    }
   ],
   "trusted": [],

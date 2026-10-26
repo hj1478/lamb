@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Monmouth",
   "uuid": "c8108f04-fb51-4bbe-9faf-89ed43712923",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 0,
-   "numOutlaws": 6,
-   "balance": 230.0,
+   "numResidents": 8,
+   "numTrusted": 1,
+   "numOutlaws": 14,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,23 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 52947.73894948763,
+    "x": 52976.40174736581,
     "y": 64.0,
-    "z": 24267.295189979166,
-    "pitch": 3.59987,
-    "yaw": -86.68985
+    "z": 24262.375424596343,
+    "pitch": -12.917539,
+    "yaw": 0.73687744
    },
    "homeBlock": [
-    3309,
+    3311,
     1516
    ],
    "townBlocks": [
     [
      3308,
+     1518
+    ],
+    [
+     3308,
      1517
     ],
     [
@@ -104,12 +108,40 @@
      1515
     ],
     [
+     3308,
+     1514
+    ],
+    [
+     3309,
+     1519
+    ],
+    [
+     3309,
+     1518
+    ],
+    [
      3309,
      1517
     ],
     [
      3309,
      1516
+    ],
+    [
+     3307,
+     1517
+    ],
+    [
+     3307,
+     1518
+    ],
+    [
+     3309,
+     1515
+    ],
+    [
+     3309,
+     1514
     ],
     [
      3312,
@@ -121,6 +153,22 @@
     ],
     [
      3312,
+     1519
+    ],
+    [
+     3312,
+     1516
+    ],
+    [
+     3312,
+     1515
+    ],
+    [
+     3311,
+     1519
+    ],
+    [
+     3307,
      1516
     ],
     [
@@ -138,14 +186,14 @@
     [
      3311,
      1518
-    ],
-    [
-     3309,
-     1515
     ],
     [
      3310,
      1518
+    ],
+    [
+     3310,
+     1519
     ],
     [
      3310,
@@ -176,10 +224,6 @@
     "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
    },
    {
-    "name": "mrkittydestroyer",
-    "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
-   },
-   {
     "name": "Danny_124",
     "uuid": "228eae5d-5e87-411b-a573-7834170244ba"
    },
@@ -190,9 +234,26 @@
    {
     "name": "P1N3APPLE4875",
     "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
+   },
+   {
+    "name": "bamah2012",
+    "uuid": "096c5063-1582-4628-8c7a-eb4c62b4e623"
+   },
+   {
+    "name": "kraizier",
+    "uuid": "4af8de8d-3d39-4672-b1c6-4107a8fa9a22"
+   },
+   {
+    "name": "MR_Peterson123",
+    "uuid": "458b2a97-d208-4080-8d85-36bb8bd80462"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+   }
+  ],
   "outlaws": [
    {
     "name": "oum1",
@@ -217,6 +278,38 @@
    {
     "name": "vodx_op",
     "uuid": "8358008e-67ac-498a-9dde-24c9dc294da9"
+   },
+   {
+    "name": "xImperator",
+    "uuid": "1ba28faf-cb16-4d0a-994a-1ffd056c9fd6"
+   },
+   {
+    "name": "MoonkeyEcho",
+    "uuid": "7a648029-731b-4976-8ebb-97d70987d890"
+   },
+   {
+    "name": "k7r9m",
+    "uuid": "3cd52480-05aa-4764-b237-50ce4fbb5a65"
+   },
+   {
+    "name": "dka33",
+    "uuid": "e2d91e31-cb29-4507-8cf4-2a9642bfe6a7"
+   },
+   {
+    "name": "Thecaspergod",
+    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
+   },
+   {
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "sobble1sgod",
+    "uuid": "8e10a836-9085-4040-a013-22767c78b1ad"
    }
   ],
   "quarters": [],
@@ -228,12 +321,12 @@
      "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
     },
     {
-     "name": "mrkittydestroyer",
-     "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
-    },
-    {
      "name": "P1N3APPLE4875",
      "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
+    },
+    {
+     "name": "kraizier",
+     "uuid": "4af8de8d-3d39-4672-b1c6-4107a8fa9a22"
     }
    ],
    "Recruiter": [],

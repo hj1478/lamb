@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Sisian",
   "uuid": "d1744e86-ab4b-42f5-9d7f-6524aa7ca152",
@@ -12,12 +12,12 @@
    "uuid": "2e2fc834-61d7-4096-800c-42ad98ed7479"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": "Bagratid",
+   "uuid": "11012001-f00b-42e4-851d-d816b278b9a3"
   },
   "timestamps": {
    "registered": 1788642198600,
-   "joinedNationAt": 1790618113499,
+   "joinedNationAt": 1792694012602,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 5,
+   "nationBonus": 10,
+   "numResidents": 1,
+   "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -140,12 +140,12 @@
      -435
     ],
     [
-     1026,
-     -435
-    ],
-    [
      1024,
      -436
+    ],
+    [
+     1026,
+     -435
     ],
     [
      1026,
@@ -158,21 +158,9 @@
    {
     "name": "AlfieTheWood",
     "uuid": "2e2fc834-61d7-4096-800c-42ad98ed7479"
-   },
-   {
-    "name": "xHadesxFr",
-    "uuid": "02afd19f-d7fe-4037-859d-17a0417875e2"
-   },
-   {
-    "name": "V3nom2016",
-    "uuid": "d490d46a-4f7c-47e5-8059-a0fcc9616695"
    }
   ],
   "trusted": [
-   {
-    "name": "V3nom2016",
-    "uuid": "d490d46a-4f7c-47e5-8059-a0fcc9616695"
-   },
    {
     "name": "Master_CFS",
     "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
@@ -180,10 +168,6 @@
    {
     "name": "borjanoob2012",
     "uuid": "4e4047ae-f489-4bd9-9a1a-e35eaa47cc86"
-   },
-   {
-    "name": "xHadesxFr",
-    "uuid": "02afd19f-d7fe-4037-859d-17a0417875e2"
    },
    {
     "name": "Tldigi",

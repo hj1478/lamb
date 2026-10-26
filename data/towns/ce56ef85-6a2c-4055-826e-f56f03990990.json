@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Xanadu",
   "uuid": "ce56ef85-6a2c-4055-826e-f56f03990990",
-  "board": "/town set board [msg]",
+  "board": "Code Lyoko",
   "founder": "MCAlex064823",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 12,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -104,12 +104,40 @@
      -395
     ],
     [
+     -133,
+     -396
+    ],
+    [
+     -134,
+     -393
+    ],
+    [
+     -132,
+     -393
+    ],
+    [
      -132,
      -394
     ],
     [
+     -134,
+     -396
+    ],
+    [
+     -134,
+     -395
+    ],
+    [
      -132,
      -395
+    ],
+    [
+     -134,
+     -394
+    ],
+    [
+     -132,
+     -396
     ]
    ],
    "worlds": {}
@@ -121,7 +149,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

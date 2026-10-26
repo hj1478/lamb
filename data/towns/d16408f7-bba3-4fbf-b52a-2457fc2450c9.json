@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Adolfo",
   "uuid": "d16408f7-bba3-4fbf-b52a-2457fc2450c9",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ItzGlazzy",
-   "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+   "name": "SirPug830",
+   "uuid": "a04cff05-9898-4860-8669-c7614912eae0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1785887113142,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792425528594,
    "ruinedAt": null
   },
   "status": {
@@ -25,22 +25,22 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 69,
-   "maxTownBlocks": 60,
+   "numTownBlocks": 75,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 5,
-   "numTrusted": 1,
+   "nationBonus": 100,
+   "numResidents": 4,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -208,12 +208,24 @@
      990
     ],
     [
+     -1096,
+     987
+    ],
+    [
+     -1096,
+     988
+    ],
+    [
      -1099,
      990
     ],
     [
      -1099,
      991
+    ],
+    [
+     -1098,
+     987
     ],
     [
      -1099,
@@ -238,6 +250,10 @@
     [
      -1099,
      992
+    ],
+    [
+     -1098,
+     988
     ],
     [
      -1099,
@@ -282,6 +298,14 @@
     [
      -1097,
      990
+    ],
+    [
+     -1097,
+     987
+    ],
+    [
+     -1097,
+     988
     ],
     [
      -1101,
@@ -384,18 +408,18 @@
     "uuid": "ccfb187e-234e-4dde-a4d3-0ed50178a916"
    },
    {
-    "name": "ItzGlazzy",
-    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
-   },
-   {
-    "name": "Person_2d",
-    "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
+    "name": "SirPug830",
+    "uuid": "a04cff05-9898-4860-8669-c7614912eae0"
    }
   ],
   "trusted": [
    {
-    "name": "ItzGlazzy",
-    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+    "name": "shak2022",
+    "uuid": "98f54e1f-7945-46f3-8278-ba52e2842ccb"
+   },
+   {
+    "name": "Meshly",
+    "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Sita",
   "uuid": "bf19ee6f-12a7-4b2c-b9a5-4db68f2f64a3",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 201,
-   "maxTownBlocks": 448,
+   "numTownBlocks": 204,
+   "maxTownBlocks": 424,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 29,
+   "numResidents": 27,
    "numTrusted": 9,
-   "numOutlaws": 14,
-   "balance": 20.0,
+   "numOutlaws": 12,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 27912.59648365727,
+    "x": 27917.85073621612,
     "y": 71.0,
-    "z": -166.49312684557188,
-    "pitch": 1.145827,
-    "yaw": 26.867828
+    "z": -168.01159973541996,
+    "pitch": -1.5541285,
+    "yaw": 67.067856
    },
    "homeBlock": [
     1744,
@@ -228,6 +228,10 @@
      -13
     ],
     [
+     1747,
+     -9
+    ],
+    [
      1746,
      -14
     ],
@@ -260,12 +264,12 @@
      -9
     ],
     [
-     1746,
-     -22
-    ],
-    [
      1738,
      -13
+    ],
+    [
+     1746,
+     -22
     ],
     [
      1738,
@@ -624,6 +628,14 @@
      -15
     ],
     [
+     1748,
+     -10
+    ],
+    [
+     1748,
+     -9
+    ],
+    [
      1739,
      -11
     ],
@@ -636,12 +648,12 @@
      -29
     ],
     [
-     1748,
-     -28
-    ],
-    [
      1739,
      -13
+    ],
+    [
+     1748,
+     -28
     ],
     [
      1739,
@@ -912,10 +924,6 @@
     "uuid": "aca428ea-6847-4b65-801d-cba90375edaa"
    },
    {
-    "name": "DARK_ZENITSU",
-    "uuid": "62d2b225-3aa3-46d3-ba29-141b7c81d83e"
-   },
-   {
     "name": "Mrskythereal123",
     "uuid": "98428e63-e89f-43b6-b8d8-2676d0209946"
    },
@@ -928,20 +936,12 @@
     "uuid": "1b54a585-b995-449a-855a-a264e4b9a0fb"
    },
    {
-    "name": "xmxq",
-    "uuid": "33614960-37a3-40a7-a07b-0649bcaeec97"
-   },
-   {
     "name": "Dronegamer5",
     "uuid": "2e4e6a73-d52a-4eb1-aa6f-cbf06b129b57"
    },
    {
     "name": "NDPlayzVA",
     "uuid": "fa11bfd7-55da-43e8-9dea-7cbc463dd5f7"
-   },
-   {
-    "name": "bigboy1122r",
-    "uuid": "2b06ec94-30b6-44ec-bb37-d5869d16148d"
    },
    {
     "name": "snowyfox67",
@@ -956,16 +956,8 @@
     "uuid": "f76ed796-a92e-43b0-8bb9-d85eb68cada4"
    },
    {
-    "name": "xLigero",
-    "uuid": "a650b428-5705-4f18-a05b-58dfebefbba1"
-   },
-   {
     "name": "tomrobbo05",
     "uuid": "fe5dbb2d-f596-46ec-9598-773c3f3444a6"
-   },
-   {
-    "name": "icearce",
-    "uuid": "f3968a31-7497-4cc2-933a-983a0d4b3f53"
    },
    {
     "name": "p2n1",
@@ -1012,8 +1004,20 @@
     "uuid": "fd8fc6da-d4fb-4621-8799-753c4934862a"
    },
    {
-    "name": "theunsaid",
-    "uuid": "130bc6be-fcdb-48e3-9e70-6a488cc0b05a"
+    "name": "_M0rb1d_",
+    "uuid": "42b09930-bfe4-45c0-bf3e-aa90d92339d8"
+   },
+   {
+    "name": "ConnerFreer",
+    "uuid": "489a091e-09c2-442a-a146-72f5e0056f90"
+   },
+   {
+    "name": "McMatt",
+    "uuid": "deb2d915-e2b3-4e38-9f09-2a33f7694368"
+   },
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
    }
   ],
   "trusted": [
@@ -1055,10 +1059,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "RealYoPickk",
-    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
-   },
    {
     "name": "SammyTheGoat555",
     "uuid": "1d10cf5f-762d-4061-974c-e6772d2e0844"
@@ -1106,17 +1106,9 @@
    {
     "name": "xMxhan",
     "uuid": "a34e04e1-af44-4707-8e47-4bf5ba1028f5"
-   },
-   {
-    "name": "Sakballer",
-    "uuid": "579ac3bd-fa7f-4c96-b0dc-45f8afe96d2c"
    }
   ],
   "quarters": [
-   {
-    "name": "Trapdoor",
-    "uuid": "972215e3-9cdd-44ba-ba7f-a277f59d6843"
-   },
    {
     "name": "Bland Dwelling",
     "uuid": "246daf30-09e9-44dd-8545-9eed45078deb"
@@ -1132,10 +1124,6 @@
    {
     "name": "Stylish Quarter",
     "uuid": "e997125c-9093-453e-bf29-dec30be26ff0"
-   },
-   {
-    "name": "Dumping",
-    "uuid": "9314b4b3-a5d9-477d-a649-bd3dda8dfe4d"
    },
    {
     "name": "Dingy Quarter",
@@ -1160,18 +1148,6 @@
    {
     "name": "Upbeat Residence",
     "uuid": "506246cf-2ac4-4f49-8b56-fb2b90e1f6e8"
-   },
-   {
-    "name": "Narmada_Storage",
-    "uuid": "ce346cec-d587-405f-8b2c-475daea41150"
-   },
-   {
-    "name": "Dull Flat",
-    "uuid": "143b4d2e-f649-4a8d-a308-f456b08a2b72"
-   },
-   {
-    "name": "Doorway",
-    "uuid": "82d48fab-4169-4cc4-a7f7-472e9f254e7d"
    },
    {
     "name": "Inviting Apartment",
@@ -1208,6 +1184,10 @@
    {
     "name": "Mapart gangster1221",
     "uuid": "570f827f-4677-43a7-bf46-8f7804ba383f"
+   },
+   {
+    "name": "Doorway",
+    "uuid": "82d48fab-4169-4cc4-a7f7-472e9f254e7d"
    }
   ],
   "ranks": {

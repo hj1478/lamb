@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Amberley",
   "uuid": "bcd87daa-2ade-4486-81ec-d1dd08c60d88",
-  "board": "/town set board [msg]",
+  "board": null,
   "founder": "SillyPerson444",
   "wiki": null,
   "discord": null,
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 17,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -109,6 +109,10 @@
     ],
     [
      3883,
+     1518
+    ],
+    [
+     3883,
      1519
     ],
     [
@@ -170,7 +174,32 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Market Stall",
+    "uuid": "dd8ea16a-6598-452e-a138-8f5ec3c68182"
+   },
+   {
+    "name": "Market Stall",
+    "uuid": "0a38881f-2f06-459f-9af4-c45da07d32e5"
+   },
+   {
+    "name": "Market Stall",
+    "uuid": "82e803db-97a9-421b-b875-dae5f898f05e"
+   },
+   {
+    "name": "Market Stall",
+    "uuid": "dfde23df-61bd-44ff-a89a-c0f06b542a94"
+   },
+   {
+    "name": "Market Stall",
+    "uuid": "afc74051-7d53-445c-a7f0-82da89d6d651"
+   },
+   {
+    "name": "Market Stall",
+    "uuid": "f9c46d2b-3edf-4dc4-ad5a-d0e6ae3d2735"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

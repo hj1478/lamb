@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "New_Ireland",
   "uuid": "be9ea73f-7100-481b-93d1-ab3945c9969c",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 309,
-   "maxTownBlocks": 312,
+   "numTownBlocks": 311,
+   "maxTownBlocks": 288,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 21,
+   "numResidents": 19,
    "numTrusted": 13,
    "numOutlaws": 3,
-   "balance": 0.0,
+   "balance": 96.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1072,6 +1072,10 @@
      601
     ],
     [
+     3420,
+     602
+    ],
+    [
      3421,
      599
     ],
@@ -1090,6 +1094,10 @@
     [
      3421,
      598
+    ],
+    [
+     3420,
+     596
     ],
     [
      3400,
@@ -1353,24 +1361,16 @@
     "uuid": "c35c8fb4-4be5-4cd8-a7d6-88a5da305d5e"
    },
    {
+    "name": "Sigma_Cheese",
+    "uuid": "7666d8aa-c9a5-4ffc-89e6-d38ab849f496"
+   },
+   {
     "name": "htowereh",
     "uuid": "f47a1e10-4c72-4d15-88fe-5ff9ead5bc24"
    },
    {
-    "name": "GodlySwoon",
-    "uuid": "08669155-55aa-45bb-b66c-2d09cd2dbf81"
-   },
-   {
-    "name": "Ethanolgasgasgas",
-    "uuid": "57eddb79-bbd3-4115-b0cc-cdd6cf5aa129"
-   },
-   {
     "name": "JPumpkinH34b",
     "uuid": "49fea90a-acea-4a2c-87d2-293fc5e5ccb3"
-   },
-   {
-    "name": "Robflop500",
-    "uuid": "4367eacf-d84f-4403-be7f-925a0a13c1f2"
    },
    {
     "name": "CraftyCodez",
@@ -1615,12 +1615,7 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "lefave718",
-     "uuid": "d65a4b48-06af-4edd-82f7-94c132ba232c"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

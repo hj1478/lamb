@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Essen",
   "uuid": "c1b62b3d-df06-429d-9854-4888eaf2e81b",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 100,
-   "maxTownBlocks": 184,
+   "numTownBlocks": 105,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 5,
    "numTrusted": 3,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -368,8 +368,16 @@
      -741
     ],
     [
+     160,
+     -743
+    ],
+    [
      165,
      -738
+    ],
+    [
+     160,
+     -742
     ],
     [
      165,
@@ -473,7 +481,19 @@
     ],
     [
      161,
+     -742
+    ],
+    [
+     161,
+     -743
+    ],
+    [
+     161,
      -740
+    ],
+    [
+     161,
+     -741
     ],
     [
      161,
@@ -512,14 +532,6 @@
     "uuid": "9b0a92fc-6db1-49a3-8f1f-0f75d1cf3397"
    },
    {
-    "name": "RevengeDeath",
-    "uuid": "78e456ca-898c-43a1-b873-f941e0eff2c3"
-   },
-   {
-    "name": "PolarBC",
-    "uuid": "abd55250-9fd1-4d3a-8084-9aff092ee083"
-   },
-   {
     "name": "Doraa05",
     "uuid": "791946ec-4e57-47b4-b267-be64148dd14f"
    }
@@ -542,6 +554,10 @@
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
    }
   ],
   "quarters": [
@@ -564,16 +580,15 @@
    {
     "name": "Gloomy Tenement",
     "uuid": "2bd01a67-39cd-435b-aaca-bbc746646df5"
+   },
+   {
+    "name": "Annoying Suite",
+    "uuid": "840cb099-c14c-4e4b-a5e3-b5df560d6417"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "PolarBC",
-     "uuid": "abd55250-9fd1-4d3a-8084-9aff092ee083"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [
     {
      "name": "Wdefurs",

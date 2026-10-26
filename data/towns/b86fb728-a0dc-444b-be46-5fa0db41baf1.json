@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "ShaoGuan",
   "uuid": "b86fb728-a0dc-444b-be46-5fa0db41baf1",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 50,
+   "numTownBlocks": 53,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 9,
-   "numOutlaws": 1,
-   "balance": 29.0,
+   "numOutlaws": 0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -178,6 +178,18 @@
     [
      2540,
      -64
+    ],
+    [
+     2538,
+     -63
+    ],
+    [
+     2538,
+     -62
+    ],
+    [
+     2538,
+     -61
     ],
     [
      2542,
@@ -342,12 +354,7 @@
     "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    }
   ],
-  "outlaws": [
-   {
-    "name": "Truzz666",
-    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
-   }
-  ],
+  "outlaws": [],
   "quarters": [
    {
     "name": "港口 1",
@@ -363,7 +370,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "bLumend",
+     "uuid": "60fbdb93-3acf-4b61-b104-7172ec801f5b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

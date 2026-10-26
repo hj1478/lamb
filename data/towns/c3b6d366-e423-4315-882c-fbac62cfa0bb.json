@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Pollo",
   "uuid": "c3b6d366-e423-4315-882c-fbac62cfa0bb",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "GrChicken",
-   "uuid": "af5eb0a3-0e82-4186-a688-5b60230ed365"
+   "name": "NPC14",
+   "uuid": "e6809977-cb16-20a1-9683-9b25ff4b7232"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782042745795,
-   "joinedNationAt": 1782042759130,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792922401599
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -216,16 +216,11 @@
   },
   "residents": [
    {
-    "name": "GrChicken",
-    "uuid": "af5eb0a3-0e82-4186-a688-5b60230ed365"
+    "name": "NPC14",
+    "uuid": "e6809977-cb16-20a1-9683-9b25ff4b7232"
    }
   ],
-  "trusted": [
-   {
-    "name": "gianisss123",
-    "uuid": "9985aa2a-f4a0-4183-96f1-4eda41ead06c"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

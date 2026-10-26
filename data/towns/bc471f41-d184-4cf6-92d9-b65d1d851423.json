@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Hejaz",
   "uuid": "bc471f41-d184-4cf6-92d9-b65d1d851423",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "omarahmed191",
-   "uuid": "f3edc325-8031-46b2-9499-3b83fff3cbc5"
+   "name": "NPC71",
+   "uuid": "8c96e6b0-24fa-20cd-b5d0-9b5e76960379"
   },
   "nation": {
-   "name": "Arabia",
-   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784330015316,
-   "joinedNationAt": 1784330028021,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792836002333
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "omarahmed191",
-    "uuid": "f3edc325-8031-46b2-9499-3b83fff3cbc5"
+    "name": "NPC71",
+    "uuid": "8c96e6b0-24fa-20cd-b5d0-9b5e76960379"
    }
   ],
   "trusted": [],

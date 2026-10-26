@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Doncaster",
   "uuid": "c8549025-42bd-4da0-a2de-360a20d812ec",
@@ -12,12 +12,12 @@
    "uuid": "30288c1e-a014-4f1c-8e86-bebd66e04367"
   },
   "nation": {
-   "name": "British_Islands",
-   "uuid": "3f1b9ee5-2978-4b9d-bfa8-a02f6941430d"
+   "name": "Scotland",
+   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
   },
   "timestamps": {
    "registered": 1790164168193,
-   "joinedNationAt": 1791231114707,
+   "joinedNationAt": 1792527013224,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 61,
-   "maxTownBlocks": 96,
+   "numTownBlocks": 68,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 8,
-   "numTrusted": 0,
-   "numOutlaws": 6,
-   "balance": 0.0,
+   "nationBonus": 100,
+   "numResidents": 9,
+   "numTrusted": 1,
+   "numOutlaws": 7,
+   "balance": 63.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,14 @@
     -826
    ],
    "townBlocks": [
+    [
+     -29,
+     -836
+    ],
+    [
+     -29,
+     -835
+    ],
     [
      -29,
      -834
@@ -216,6 +224,10 @@
      -833
     ],
     [
+     -30,
+     -835
+    ],
+    [
      -29,
      -833
     ],
@@ -229,6 +241,10 @@
     ],
     [
      -30,
+     -836
+    ],
+    [
+     -30,
      -833
     ],
     [
@@ -236,16 +252,20 @@
      -831
     ],
     [
+     -30,
+     -834
+    ],
+    [
      -29,
      -830
     ],
     [
      -30,
-     -834
+     -831
     ],
     [
-     -30,
-     -831
+     -29,
+     -829
     ],
     [
      -35,
@@ -310,6 +330,14 @@
     [
      -28,
      -831
+    ],
+    [
+     -28,
+     -835
+    ],
+    [
+     -28,
+     -834
     ]
    ],
    "worlds": {
@@ -375,9 +403,18 @@
    {
     "name": "RevampedTed",
     "uuid": "338e0380-bd36-4125-8ac8-f42592784fd2"
+   },
+   {
+    "name": "edgywinner79",
+    "uuid": "91c5a8dc-d293-451b-ab9c-c66f1b9cbfc9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Cescobb",
+    "uuid": "19424c8a-9cc2-45e0-b817-9b6d43b4996f"
+   }
+  ],
   "outlaws": [
    {
     "name": "communistbandits",
@@ -402,6 +439,10 @@
    {
     "name": "Copppelia",
     "uuid": "eaa28acb-f899-4a3e-a47c-f0b99b9b5a55"
+   },
+   {
+    "name": "IAmSpade",
+    "uuid": "accf42e5-9de1-4b38-b87e-6783ce428691"
    }
   ],
   "quarters": [],

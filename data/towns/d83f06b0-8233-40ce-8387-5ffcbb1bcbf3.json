@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Dutch",
   "uuid": "d83f06b0-8233-40ce-8387-5ffcbb1bcbf3",
@@ -12,19 +12,19 @@
    "uuid": "3ab51b2e-fbe7-4a08-a7e7-edd011f04922"
   },
   "nation": {
-   "name": "Holland",
-   "uuid": "0cead27e-ea8f-4143-b53d-5b894646eb5d"
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
    "registered": 1776581943810,
-   "joinedNationAt": 1784073874660,
+   "joinedNationAt": 1792854720874,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 5,
+   "nationBonus": 100,
+   "numResidents": 6,
    "numTrusted": 3,
    "numOutlaws": 4,
    "balance": 4.0,
@@ -210,6 +210,10 @@
    {
     "name": "Jemoeder0546",
     "uuid": "179c7ee0-da48-4b7e-b38f-f67a78b40432"
+   },
+   {
+    "name": "_Buckeye",
+    "uuid": "4454fb5d-7c5b-43c8-aceb-4ebd71fab543"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Nayoro",
   "uuid": "ba37e6c1-a3bc-4588-a04b-d22aadb38a1b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 152,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 6,
    "numOutlaws": 1,
    "balance": 698.0,
@@ -704,6 +704,10 @@
   },
   "residents": [
    {
+    "name": "OnniTNT",
+    "uuid": "6e05bbdb-4f61-4ec4-8727-b33e317dbd5d"
+   },
+   {
     "name": "xkaddi",
     "uuid": "c30640d4-97df-46d6-a6d8-e1c12ad45256"
    },
@@ -718,6 +722,10 @@
    {
     "name": "MagicSam999",
     "uuid": "da7e2e0f-99e0-42c2-998b-3087f33f7724"
+   },
+   {
+    "name": "NotPhoenixYT",
+    "uuid": "72bc8c16-ebe3-4af0-9cea-a4b720f1f9ea"
    }
   ],
   "trusted": [
@@ -819,7 +827,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Yokir_",
+     "uuid": "9df75fe4-1fd8-4a95-bda1-96999e1098d6"
+    }
+   ],
    "Builder": [
     {
      "name": "Yokir_",

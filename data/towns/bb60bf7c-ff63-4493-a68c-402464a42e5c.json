@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Kigali",
   "uuid": "bb60bf7c-ff63-4493-a68c-402464a42e5c",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "teidova21",
-   "uuid": "e2bec02d-b456-49d8-b112-ac6af3d838c6"
+   "name": "NPC61",
+   "uuid": "157e665c-9f81-20fd-af45-4d285d1c3b74"
   },
   "nation": {
-   "name": "Lake_Victoria",
-   "uuid": "9aead187-15c6-4891-8b65-1193c2c6af81"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788984969226,
-   "joinedNationAt": 1788986354777,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792836000960
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 60.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,40 +112,15 @@
   },
   "residents": [
    {
-    "name": "teidova21",
-    "uuid": "e2bec02d-b456-49d8-b112-ac6af3d838c6"
-   },
-   {
-    "name": "Zucchini_i",
-    "uuid": "1e145d44-4154-4948-8c25-1fb21c31ca24"
-   },
-   {
-    "name": "Sharknow56",
-    "uuid": "d2eb173b-29bd-42fa-aa4e-3a43b4097d5c"
-   },
-   {
-    "name": "linlkin_prod",
-    "uuid": "6085104c-0655-4960-8321-731db5be4aaf"
+    "name": "NPC61",
+    "uuid": "157e665c-9f81-20fd-af45-4d285d1c3b74"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Zucchini_i",
-     "uuid": "1e145d44-4154-4948-8c25-1fb21c31ca24"
-    },
-    {
-     "name": "Sharknow56",
-     "uuid": "d2eb173b-29bd-42fa-aa4e-3a43b4097d5c"
-    },
-    {
-     "name": "linlkin_prod",
-     "uuid": "6085104c-0655-4960-8321-731db5be4aaf"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

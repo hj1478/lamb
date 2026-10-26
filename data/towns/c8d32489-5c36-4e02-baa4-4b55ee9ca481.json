@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Ciudad_Real",
   "uuid": "c8d32489-5c36-4e02-baa4-4b55ee9ca481",
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1791737903202,
-   "joinedNationAt": 1792237153008,
+   "joinedNationAt": 1792830167789,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 76,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 1229.0,
+   "numOutlaws": 0,
+   "balance": 1895.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,12 +96,12 @@
      -413
     ],
     [
-     -83,
-     -412
-    ],
-    [
      -86,
      -419
+    ],
+    [
+     -83,
+     -412
     ],
     [
      -83,
@@ -414,6 +414,14 @@
    {
     "name": "BerrakBekir07",
     "uuid": "f48c4f0a-ba13-41a8-ab3c-0b66c8c9aa47"
+   },
+   {
+    "name": "yigitcs34",
+    "uuid": "251e17b4-1f3d-44ef-985e-6c886a42e00d"
+   },
+   {
+    "name": "warruchi",
+    "uuid": "30e759a6-9982-4378-a69c-7c7a346eacb6"
    }
   ],
   "trusted": [
@@ -422,12 +430,7 @@
     "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
    }
   ],
-  "outlaws": [
-   {
-    "name": "yigitcs34",
-    "uuid": "251e17b4-1f3d-44ef-985e-6c886a42e00d"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [

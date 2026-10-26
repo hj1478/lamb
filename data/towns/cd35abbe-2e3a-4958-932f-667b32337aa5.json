@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Ur_Local_Auzzies",
   "uuid": "cd35abbe-2e3a-4958-932f-667b32337aa5",
@@ -12,12 +12,12 @@
    "uuid": "8cfcc903-aa7d-4b9d-bb45-d4481e824862"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
    "registered": 1792740499609,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792806150126,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      3430,
+     1133
+    ],
+    [
+     3430,
+     1134
+    ],
+    [
+     3429,
      1134
     ]
    ],
@@ -106,7 +114,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "unkowned",
+    "uuid": "a95ab6e2-4778-4e49-a068-f8aa90534b5b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

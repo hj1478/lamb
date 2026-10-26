@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Bamako",
   "uuid": "b72d2648-b7e3-48c2-9999-327fc686259f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "casperkul",
-   "uuid": "0247c863-e235-42b3-b4e2-fd799cd6f0ea"
+   "name": "NPC77",
+   "uuid": "20c9b530-e8ce-203a-8408-251ae26c7f01"
   },
   "nation": {
-   "name": "Songhai",
-   "uuid": "e36345ac-049f-4464-b24b-fe994980557a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779025794149,
-   "joinedNationAt": 1786295342448,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792871767330
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 7,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -156,8 +156,8 @@
   },
   "residents": [
    {
-    "name": "casperkul",
-    "uuid": "0247c863-e235-42b3-b4e2-fd799cd6f0ea"
+    "name": "NPC77",
+    "uuid": "20c9b530-e8ce-203a-8408-251ae26c7f01"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Money",
   "uuid": "d3dfe4ce-4846-4b42-9030-8777ce0e8475",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Troncatcomfy",
-   "uuid": "707f0123-88b2-450f-b39b-dc9be07f9ea2"
+   "name": "mining_skalps",
+   "uuid": "fa7c842a-6ccc-4274-9a1f-0a6cd3380282"
   },
   "nation": {
    "name": "Ethiopia",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 91,
+   "numTownBlocks": 92,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 23,
-   "balance": 142.0,
+   "numTrusted": 2,
+   "numOutlaws": 22,
+   "balance": 91.0,
    "forSalePrice": null
   },
   "perms": {
@@ -417,6 +417,10 @@
     ],
     [
      983,
+     258
+    ],
+    [
+     983,
      265
     ],
     [
@@ -460,14 +464,18 @@
   },
   "residents": [
    {
-    "name": "Troncatcomfy",
-    "uuid": "707f0123-88b2-450f-b39b-dc9be07f9ea2"
+    "name": "mining_skalps",
+    "uuid": "fa7c842a-6ccc-4274-9a1f-0a6cd3380282"
    }
   ],
   "trusted": [
    {
     "name": "axieyoel",
     "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
+   },
+   {
+    "name": "Troncatcomfy",
+    "uuid": "707f0123-88b2-450f-b39b-dc9be07f9ea2"
    }
   ],
   "outlaws": [
@@ -502,10 +510,6 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    },
    {
     "name": "TeBeflo",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Alabama",
   "uuid": "c5fa346f-c6df-4451-9e0b-3425d2cee220",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 94,
-   "maxTownBlocks": 126,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 8,
-   "numTrusted": 6,
+   "nationBonus": 10,
+   "numResidents": 6,
+   "numTrusted": 5,
    "numOutlaws": 2,
    "balance": 466.0,
    "forSalePrice": null
@@ -472,14 +472,6 @@
   },
   "residents": [
    {
-    "name": "ChekNAH",
-    "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
-   },
-   {
-    "name": "Raphagamer2015",
-    "uuid": "c81fb20a-3426-4ffc-83f9-182c158f3399"
-   },
-   {
     "name": "PresDJT",
     "uuid": "e1d36d54-d0e4-4777-874b-14106d3fbd91"
    },
@@ -520,10 +512,6 @@
    {
     "name": "MakRouss",
     "uuid": "f08ba846-6de5-45e1-89f6-fa55e3a224ce"
-   },
-   {
-    "name": "ChekNAH",
-    "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
    },
    {
     "name": "Stephen5311",
@@ -603,12 +591,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "ChekNAH",
-     "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

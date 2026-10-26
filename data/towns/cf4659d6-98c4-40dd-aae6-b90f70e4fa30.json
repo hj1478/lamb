@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "MannCo",
   "uuid": "cf4659d6-98c4-40dd-aae6-b90f70e4fa30",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 333.0,
+   "balance": 425.0,
    "forSalePrice": null
   },
   "perms": {
@@ -142,6 +142,10 @@
    {
     "name": "BigFacepalm",
     "uuid": "ae65584c-2583-4750-9adf-6d97b50e6000"
+   },
+   {
+    "name": "Stepini",
+    "uuid": "6c040fe7-558a-4fe0-a24f-90a4ba2e274a"
    }
   ],
   "trusted": [],
@@ -158,13 +162,23 @@
      "uuid": "ae65584c-2583-4750-9adf-6d97b50e6000"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Stepini",
+     "uuid": "6c040fe7-558a-4fe0-a24f-90a4ba2e274a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "Stepini",
+     "uuid": "6c040fe7-558a-4fe0-a24f-90a4ba2e274a"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

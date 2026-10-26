@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Iran",
   "uuid": "c7a233bd-c42c-4a65-b381-19d71763eb6b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 108,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 12,
+   "numResidents": 8,
    "numTrusted": 1,
-   "numOutlaws": 1,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -532,22 +532,6 @@
     "uuid": "857403b6-8a6d-43cd-a150-557a3bb4a20b"
    },
    {
-    "name": "Kian_REACTOR",
-    "uuid": "a1e59316-1ae4-456a-bc3d-80165b723828"
-   },
-   {
-    "name": "soorat118",
-    "uuid": "7b17b188-c645-4b3c-80fd-ca61fbb16e24"
-   },
-   {
-    "name": "Its_keysan7",
-    "uuid": "c29a3711-d1ff-4054-8549-5bd3dc9b5101"
-   },
-   {
-    "name": "FunkyEhhW",
-    "uuid": "b731cad2-c670-4ddb-9320-04df2b848396"
-   },
-   {
     "name": "MOHAMMAD1213",
     "uuid": "a5b4ea3c-1f44-490b-95bb-04ca7470648b"
    },
@@ -582,12 +566,7 @@
     "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
    }
   ],
-  "outlaws": [
-   {
-    "name": "Konstrukt",
-    "uuid": "0bcdfe81-f490-4a42-985b-76faa59b91a8"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

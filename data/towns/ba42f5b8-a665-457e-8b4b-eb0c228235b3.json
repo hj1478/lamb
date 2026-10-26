@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "New_Bali",
   "uuid": "ba42f5b8-a665-457e-8b4b-eb0c228235b3",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 9,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     2560,
+     660
+    ],
+    [
      2562,
      660
+    ],
+    [
+     2560,
+     661
+    ],
+    [
+     2559,
+     660
+    ],
+    [
+     2560,
+     659
     ],
     [
      2561,
@@ -106,6 +122,10 @@
     [
      2562,
      661
+    ],
+    [
+     2561,
+     659
     ]
    ],
    "worlds": {}
@@ -120,8 +140,12 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Upbeat Tenement",
+    "name": "Tower Flat",
     "uuid": "a2a2ad88-85c3-446f-9564-1a1523beb87b"
+   },
+   {
+    "name": "Southern House",
+    "uuid": "eced2ee0-c047-46cd-a08c-ffdedbde15ca"
    }
   ],
   "ranks": {

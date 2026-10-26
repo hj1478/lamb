@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Sand_Excavation",
   "uuid": "d8dd7633-c5be-4bba-a0af-f9f3bd1aa5df",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 48,
+   "numTownBlocks": 51,
    "maxTownBlocks": 66,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 3,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 170.0,
    "forSalePrice": null
   },
   "perms": {
@@ -157,6 +157,10 @@
     ],
     [
      78,
+     44
+    ],
+    [
+     78,
      43
     ],
     [
@@ -240,12 +244,20 @@
      43
     ],
     [
+     79,
+     44
+    ],
+    [
      77,
      42
     ],
     [
      77,
      41
+    ],
+    [
+     77,
+     44
     ],
     [
      77,
@@ -313,10 +325,6 @@
    {
     "name": "yoshibleu",
     "uuid": "90b131f4-8dc9-4116-bc00-cde7afa014ab"
-   },
-   {
-    "name": "Mystikaosss",
-    "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
    }
   ],
   "outlaws": [],

@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-26T13:15:20Z",
+ "data": {
+  "name": "Valley_Town",
+  "uuid": "2a13655a-7dff-445e-88cf-8dcf222f7417",
+  "board": "/town set board [msg]",
+  "founder": "PeetTheThief",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "PeetTheThief",
+   "uuid": "9ed6201b-49d5-4236-a8ff-04cae8fd7d9a"
+  },
+  "nation": {
+   "name": "Persia",
+   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
+  },
+  "timestamps": {
+   "registered": 1792977267661,
+   "joinedNationAt": 1792977285764,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 62,
+   "bonusBlocks": 0,
+   "nationBonus": 50,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 20385.68851318416,
+    "y": 75.0,
+    "z": -4380.304835539454,
+    "pitch": 28.499956,
+    "yaw": -60.856117
+   },
+   "homeBlock": [
+    1274,
+    -274
+   ],
+   "townBlocks": [
+    [
+     1274,
+     -274
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "PeetTheThief",
+    "uuid": "9ed6201b-49d5-4236-a8ff-04cae8fd7d9a"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

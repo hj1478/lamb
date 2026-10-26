@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Tani_City",
   "uuid": "b7875e8b-a3f9-4045-9358-72f67a80ddb8",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 0,
+   "numResidents": 2,
+   "numTrusted": 4,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -108,6 +108,10 @@
      -199
     ],
     [
+     175,
+     -200
+    ],
+    [
      176,
      -199
     ]
@@ -118,6 +122,10 @@
    {
     "name": "tanimod",
     "uuid": "7bc2f62f-5b6f-43cf-9a8c-f47c6f8c2522"
+   },
+   {
+    "name": "TaniModMaster",
+    "uuid": "5e0476ec-0948-4f86-b48e-2148bff12c19"
    }
   ],
   "trusted": [
@@ -130,11 +138,20 @@
     "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
    },
    {
+    "name": "TaniModMaster",
+    "uuid": "5e0476ec-0948-4f86-b48e-2148bff12c19"
+   },
+   {
     "name": "__lazii",
     "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

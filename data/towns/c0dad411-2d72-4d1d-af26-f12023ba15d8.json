@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "XinAn",
   "uuid": "c0dad411-2d72-4d1d-af26-f12023ba15d8",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 8,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 4,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -97,11 +97,19 @@
     ],
     [
      2495,
+     -295
+    ],
+    [
+     2495,
      -297
     ],
     [
      2495,
      -296
+    ],
+    [
+     2496,
+     -297
     ],
     [
      2496,
@@ -140,6 +148,10 @@
    {
     "name": "Yunxiao_",
     "uuid": "b4b0e79a-c29a-4ea8-bf26-8b97802a464a"
+   },
+   {
+    "name": "zkbcnm",
+    "uuid": "d1fb1ca3-5c6a-4ad2-8a26-e1a58f146f59"
    }
   ],
   "outlaws": [],

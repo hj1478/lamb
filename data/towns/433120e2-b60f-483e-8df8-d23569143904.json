@@ -1,0 +1,146 @@
+{
+ "fetched_at": "2026-10-26T13:15:20Z",
+ "data": {
+  "name": "TP_Canada",
+  "uuid": "433120e2-b60f-483e-8df8-d23569143904",
+  "board": "/town set board [msg]",
+  "founder": "TPM_Manousos",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "TPM_Manousos",
+   "uuid": "c3d3cecb-4d2d-44c9-8eec-7bdbc002e63b"
+  },
+  "nation": {
+   "name": "Acadia",
+   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+  },
+  "timestamps": {
+   "registered": 1792932941805,
+   "joinedNationAt": 1792933916731,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 124,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -23778.98280278573,
+    "y": 63.0,
+    "z": -11698.043206031738,
+    "pitch": 8.999904,
+    "yaw": 23.854004
+   },
+   "homeBlock": [
+    -1487,
+    -732
+   ],
+   "townBlocks": [
+    [
+     -1487,
+     -731
+    ],
+    [
+     -1487,
+     -732
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "TPM_Manousos",
+    "uuid": "c3d3cecb-4d2d-44c9-8eec-7bdbc002e63b"
+   },
+   {
+    "name": "TPinboy",
+    "uuid": "aed6cd69-70bb-42d6-a4d0-ccade5827149"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "TPinboy",
+     "uuid": "aed6cd69-70bb-42d6-a4d0-ccade5827149"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [
+    {
+     "name": "TPinboy",
+     "uuid": "aed6cd69-70bb-42d6-a4d0-ccade5827149"
+    }
+   ],
+   "Police": [],
+   "Tax-exempt": [
+    {
+     "name": "TPinboy",
+     "uuid": "aed6cd69-70bb-42d6-a4d0-ccade5827149"
+    }
+   ],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

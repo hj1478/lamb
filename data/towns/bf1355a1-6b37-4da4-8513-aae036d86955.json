@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Sio",
   "uuid": "bf1355a1-6b37-4da4-8513-aae036d86955",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -225,10 +225,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "Zsomesz",
-    "uuid": "320774a0-8f1a-416f-892c-ef70fefe55e4"
-   },
    {
     "name": "KisubiGamer",
     "uuid": "11aea1d8-d111-4b93-9fa6-05d5eba7448a"

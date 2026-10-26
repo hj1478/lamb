@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Sierra_Maestra",
   "uuid": "c489f1c2-579e-4167-b070-15c2d8bde51f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "tschawo178",
-   "uuid": "6aca43ff-badb-4a9c-a3dd-77e9c846a8d9"
+   "name": "NPC53",
+   "uuid": "b675df98-f54b-2023-8761-1b5907beb111"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1786815524450,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792765886335
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -122,6 +122,10 @@
    {
     "name": "tschawo178",
     "uuid": "6aca43ff-badb-4a9c-a3dd-77e9c846a8d9"
+   },
+   {
+    "name": "NPC53",
+    "uuid": "b675df98-f54b-2023-8761-1b5907beb111"
    }
   ],
   "trusted": [],

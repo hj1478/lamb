@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Farming_City",
   "uuid": "c8cdd32f-d8fb-4e71-9107-b7b70c4051d3",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Weitlhlainam",
-   "uuid": "973c8ada-e915-498d-ac75-5a2ff05d0618"
+   "name": "NPC91",
+   "uuid": "28477516-c0cf-20ff-8642-648ee92a2e6b"
   },
   "nation": {
-   "name": "Appalachia",
-   "uuid": "2c5dc18f-5209-4e70-91b1-4218c1d1b64a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781484811391,
-   "joinedNationAt": 1785669164303,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792927449183
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "Weitlhlainam",
-    "uuid": "973c8ada-e915-498d-ac75-5a2ff05d0618"
+    "name": "NPC91",
+    "uuid": "28477516-c0cf-20ff-8642-648ee92a2e6b"
    }
   ],
   "trusted": [],

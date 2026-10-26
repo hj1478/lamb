@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Otshelnik",
   "uuid": "da9006a4-8279-45c9-889e-3ff9e596d167",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,8 +92,40 @@
    ],
    "townBlocks": [
     [
+     3132,
+     -1242
+    ],
+    [
+     3134,
+     -1243
+    ],
+    [
+     3134,
+     -1242
+    ],
+    [
+     3132,
+     -1241
+    ],
+    [
      3134,
      -1241
+    ],
+    [
+     3132,
+     -1243
+    ],
+    [
+     3133,
+     -1241
+    ],
+    [
+     3133,
+     -1242
+    ],
+    [
+     3133,
+     -1243
     ]
    ],
    "worlds": {}
@@ -102,9 +134,18 @@
    {
     "name": "Boeing114",
     "uuid": "5bf5de38-1e56-4036-a981-98b6b984c70c"
+   },
+   {
+    "name": "BlockDoctor3000",
+    "uuid": "430e7ec8-a6a2-47bb-b099-d6691be8c65c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "BlockDoctor3000",
+    "uuid": "430e7ec8-a6a2-47bb-b099-d6691be8c65c"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Trail_Chamber",
   "uuid": "cf40c5cd-7a09-4762-952c-0801d5be5afe",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Wojownik23",
-   "uuid": "73aa3016-91c8-4664-86d3-9aa7c8f61bf8"
+   "name": "NPC59",
+   "uuid": "84d812e1-2ae5-20dc-ad7c-dbd114c9f030"
   },
   "nation": {
-   "name": "Sicily",
-   "uuid": "f58a652f-7b66-446f-9fe7-5fa233d03630"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787924624167,
-   "joinedNationAt": 1787925381366,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792775516185
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "Wojownik23",
-    "uuid": "73aa3016-91c8-4664-86d3-9aa7c8f61bf8"
+    "name": "NPC59",
+    "uuid": "84d812e1-2ae5-20dc-ad7c-dbd114c9f030"
    }
   ],
   "trusted": [

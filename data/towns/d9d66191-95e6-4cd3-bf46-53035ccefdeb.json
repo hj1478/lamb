@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T13:32:29Z",
+ "fetched_at": "2026-10-26T13:15:20Z",
  "data": {
   "name": "Tyumen",
   "uuid": "d9d66191-95e6-4cd3-bf46-53035ccefdeb",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 319,
-   "maxTownBlocks": 70,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 8,
    "balance": 0.0,
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -1390,6 +1390,10 @@
    {
     "name": "AquaLikeWater",
     "uuid": "e694120a-bd7a-44c7-8102-dec42f268efd"
+   },
+   {
+    "name": "JUANPIPA2012",
+    "uuid": "37a1ded5-86ff-4d7c-81eb-a1c0ccb20f6d"
    }
   ],
   "trusted": [],
@@ -1423,15 +1427,11 @@
     "uuid": "6ee1d6cf-26d3-4b3c-9368-4f144d4514f2"
    },
    {
-    "name": "Slapdragon",
+    "name": "Rubick_Kubik",
     "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
    }
   ],
   "quarters": [
-   {
-    "name": "Inconvenient Residence",
-    "uuid": "b3999e14-d0ef-46b7-9d7f-34ffa3b323cd"
-   },
    {
     "name": "sky log removal zone 1",
     "uuid": "e88bdca0-8dcf-490b-a197-d3bfc4a72619"
@@ -1441,7 +1441,7 @@
     "uuid": "0beb49da-fa4b-43db-9e09-13b605192f26"
    },
    {
-    "name": "Pyramid 1.2",
+    "name": "AquaLikeWater town",
     "uuid": "416362ab-58c1-44d0-9e15-82360563afee"
    }
   ],
