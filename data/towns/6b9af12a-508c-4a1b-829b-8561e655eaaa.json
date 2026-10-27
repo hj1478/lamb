@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "BeiBuli_Wei",
-  "uuid": "218a3f75-d06d-4fe7-b514-4066ce960b33",
-  "board": "North BuliBurg Outpost",
-  "founder": "JzSmartCookie",
+  "name": "New_Koblenz",
+  "uuid": "6b9af12a-508c-4a1b-829b-8561e655eaaa",
+  "board": "The greatest town!",
+  "founder": "OofOldGrandpa",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JzSmartCookie",
-   "uuid": "fba2c17e-5e24-4001-8483-7e8bf6aed5bc"
+   "name": "OofOldGrandpa",
+   "uuid": "1aa5e03b-6476-47c3-86a0-d68c6483ddaa"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Lake_Victoria",
+   "uuid": "9aead187-15c6-4891-8b65-1193c2c6af81"
   },
   "timestamps": {
-   "registered": 1778453798823,
-   "joinedNationAt": null,
+   "registered": 1793033009593,
+   "joinedNationAt": 1793033387344,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 10,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,71 +80,48 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41432.078279524176,
-    "y": 75.0,
-    "z": -11877.992429199623,
-    "pitch": 13.950232,
-    "yaw": 152.18579
+    "x": 12129.97752809328,
+    "y": 83.0,
+    "z": 8502.447365452554,
+    "pitch": -16.800068,
+    "yaw": 59.23435
    },
    "homeBlock": [
-    2589,
-    -743
+    758,
+    531
    ],
    "townBlocks": [
     [
-     2587,
-     -744
+     758,
+     531
     ],
     [
-     2588,
-     -745
-    ],
-    [
-     2587,
-     -745
-    ],
-    [
-     2588,
-     -744
-    ],
-    [
-     2587,
-     -743
-    ],
-    [
-     2589,
-     -743
-    ],
-    [
-     2589,
-     -744
-    ],
-    [
-     2589,
-     -745
-    ],
-    [
-     2588,
-     -743
-    ],
-    [
-     2588,
-     -742
+     758,
+     530
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "JzSmartCookie",
-    "uuid": "fba2c17e-5e24-4001-8483-7e8bf6aed5bc"
+    "name": "OofOldGrandpa",
+    "uuid": "1aa5e03b-6476-47c3-86a0-d68c6483ddaa"
+   },
+   {
+    "name": "Coreol",
+    "uuid": "2f52a5ae-2206-45d6-946f-becd0b879ef8"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Coreol",
+     "uuid": "2f52a5ae-2206-45d6-946f-becd0b879ef8"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

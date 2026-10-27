@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Grussyi",
   "uuid": "e6c1b285-15dc-41c7-9815-5693072ef79d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ruwblock",
-   "uuid": "9684713b-c706-46cd-af55-0a48bb711534"
+   "name": "Riddflys",
+   "uuid": "fcbaa7e2-598b-4e84-a5f8-d8f2eed09c7e"
   },
   "nation": {
    "name": "Georgia",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 228,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 6,
+   "nationBonus": 80,
+   "numResidents": 9,
+   "numTrusted": 4,
    "numOutlaws": 14,
-   "balance": 11.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17480.505818308546,
-    "y": 8.0,
-    "z": -6609.38213284587,
-    "pitch": 8.062435,
-    "yaw": 0.34051514
+    "x": 17480.462313916407,
+    "y": 7.0,
+    "z": -6613.558910234393,
+    "pitch": 24.412424,
+    "yaw": -178.6094
    },
    "homeBlock": [
     1092,
@@ -1017,10 +1017,6 @@
     "uuid": "7679b9cb-f249-495b-8c47-cbc894cabd55"
    },
    {
-    "name": "HonkDooder",
-    "uuid": "04f60610-762c-4cf5-982a-a5f6a08d7fb2"
-   },
-   {
     "name": "Bocas_15",
     "uuid": "1ea7dc14-fac4-4191-93c8-b9cf1e1f3293"
    },
@@ -1049,8 +1045,8 @@
     "uuid": "d134afe5-934e-4e6c-a75c-87606fda0757"
    },
    {
-    "name": "Ruwblock",
-    "uuid": "9684713b-c706-46cd-af55-0a48bb711534"
+    "name": "Riddflys",
+    "uuid": "fcbaa7e2-598b-4e84-a5f8-d8f2eed09c7e"
    }
   ],
   "trusted": [
@@ -1065,14 +1061,6 @@
    {
     "name": "buildrit",
     "uuid": "8a0b70c3-89ec-4041-bde5-45f5c42d6dfb"
-   },
-   {
-    "name": "pengpy",
-    "uuid": "6ce17d6c-5c2c-4b23-8b59-facb56df6e58"
-   },
-   {
-    "name": "Ruwblock",
-    "uuid": "9684713b-c706-46cd-af55-0a48bb711534"
    },
    {
     "name": "Nf_miracle",

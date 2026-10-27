@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Bornholm",
   "uuid": "e15e98d9-b784-461c-86a3-7c2b199598ea",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776899323752,
-   "joinedNationAt": 1780162481278,
+   "joinedNationAt": 1792605487447,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 22.0,
+   "balance": 84.0,
    "forSalePrice": null
   },
   "perms": {
@@ -550,6 +550,10 @@
    {
     "name": "cool_creeper61",
     "uuid": "c21c1a92-9a9a-4033-a2b7-b7085001a5c7"
+   },
+   {
+    "name": "Mertblgg",
+    "uuid": "45c41d1a-50cc-4f84-b4ef-d0ce61b330c7"
    }
   ],
   "trusted": [
@@ -563,7 +567,12 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "Mertblgg",
+     "uuid": "45c41d1a-50cc-4f84-b4ef-d0ce61b330c7"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

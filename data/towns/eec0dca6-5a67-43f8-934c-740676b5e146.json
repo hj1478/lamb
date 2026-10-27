@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Trikala",
   "uuid": "eec0dca6-5a67-43f8-934c-740676b5e146",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Manapo_",
-   "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
+   "name": "spartan8806",
+   "uuid": "a01f3402-f5a3-4850-a33e-dd5ead872bee"
   },
   "nation": {
    "name": "Greece",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1792578735980,
-   "joinedNationAt": 1792578752380,
+   "joinedNationAt": 1792675164535,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 51,
+   "numTownBlocks": 80,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numTrusted": 6,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7800.763940115106,
-    "y": 86.0,
-    "z": -6852.487432177758,
-    "pitch": 50.400192,
-    "yaw": -179.42426
+    "x": 7780.183402605314,
+    "y": 64.0,
+    "z": -6972.189673588891,
+    "pitch": 9.600026,
+    "yaw": 176.82153
    },
    "homeBlock": [
-    487,
-    -429
+    486,
+    -436
    ],
    "townBlocks": [
     [
@@ -101,7 +101,27 @@
     ],
     [
      485,
+     -437
+    ],
+    [
+     485,
      -436
+    ],
+    [
+     485,
+     -439
+    ],
+    [
+     485,
+     -438
+    ],
+    [
+     485,
+     -441
+    ],
+    [
+     485,
+     -440
     ],
     [
      485,
@@ -109,6 +129,14 @@
     ],
     [
      487,
+     -439
+    ],
+    [
+     487,
+     -440
+    ],
+    [
+     487,
      -435
     ],
     [
@@ -118,6 +146,10 @@
     [
      487,
      -437
+    ],
+    [
+     487,
+     -438
     ],
     [
      487,
@@ -152,16 +184,56 @@
      -430
     ],
     [
+     482,
+     -443
+    ],
+    [
+     485,
+     -443
+    ],
+    [
+     485,
+     -442
+    ],
+    [
+     482,
+     -444
+    ],
+    [
+     482,
+     -442
+    ],
+    [
+     484,
+     -442
+    ],
+    [
+     484,
+     -443
+    ],
+    [
      490,
      -426
+    ],
+    [
+     484,
+     -440
     ],
     [
      490,
      -427
     ],
     [
+     484,
+     -441
+    ],
+    [
      492,
      -426
+    ],
+    [
+     484,
+     -444
     ],
     [
      492,
@@ -217,7 +289,27 @@
     ],
     [
      486,
+     -441
+    ],
+    [
+     486,
+     -442
+    ],
+    [
+     486,
+     -439
+    ],
+    [
+     486,
+     -440
+    ],
+    [
+     486,
      -437
+    ],
+    [
+     486,
+     -438
     ],
     [
      486,
@@ -268,8 +360,16 @@
      -430
     ],
     [
+     481,
+     -443
+    ],
+    [
      491,
      -425
+    ],
+    [
+     483,
+     -445
     ],
     [
      491,
@@ -280,6 +380,10 @@
      -424
     ],
     [
+     483,
+     -443
+    ],
+    [
      490,
      -425
     ],
@@ -288,24 +392,66 @@
      -424
     ],
     [
+     483,
+     -444
+    ],
+    [
      494,
      -424
     ],
     [
+     483,
+     -441
+    ],
+    [
      494,
      -425
+    ],
+    [
+     483,
+     -442
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "spartan8806",
+    "uuid": "a01f3402-f5a3-4850-a33e-dd5ead872bee"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Mikieus",
+    "uuid": "8cbffc32-22f9-4a1e-83c3-e8bc43338476"
+   },
+   {
+    "name": "Whoovian",
+    "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
+   },
+   {
+    "name": "spartan8806",
+    "uuid": "a01f3402-f5a3-4850-a33e-dd5ead872bee"
+   },
+   {
+    "name": "Morf0nios",
+    "uuid": "bbadcef2-753b-4889-9c04-c9ca6593577b"
+   },
+   {
+    "name": "OwOyote8",
+    "uuid": "27557455-d0dc-41c0-9f85-12fc73f96f20"
+   },
+   {
     "name": "Manapo_",
     "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

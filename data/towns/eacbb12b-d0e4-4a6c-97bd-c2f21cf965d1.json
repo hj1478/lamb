@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Bifurcacao",
   "uuid": "eacbb12b-d0e4-4a6c-97bd-c2f21cf965d1",
-  "board": "/town set board [msg]",
+  "board": "Home of Brazils Cavalry",
   "founder": "SaintLaurentBong",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SaintLaurentBong",
+   "name": "AyoHondo",
    "uuid": "508012d2-9e68-41ed-bc91-d198281dde12"
   },
   "nation": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 1,
+   "numResidents": 5,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,45 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -16074.633873305524,
-    "y": 73.0,
-    "z": 14285.212789491923,
-    "pitch": 18.881138,
-    "yaw": 171.45346
+    "x": -16072.020931619858,
+    "y": 72.0,
+    "z": 14282.0790858691,
+    "pitch": 17.550129,
+    "yaw": -175.65016
    },
    "homeBlock": [
     -1005,
     892
    ],
    "townBlocks": [
+    [
+     -1006,
+     897
+    ],
+    [
+     -1007,
+     894
+    ],
+    [
+     -1006,
+     896
+    ],
+    [
+     -1007,
+     895
+    ],
+    [
+     -1007,
+     892
+    ],
+    [
+     -1007,
+     893
+    ],
+    [
+     -1006,
+     898
+    ],
     [
      -1006,
      893
@@ -106,6 +134,26 @@
     [
      -1006,
      894
+    ],
+    [
+     -1006,
+     891
+    ],
+    [
+     -1007,
+     898
+    ],
+    [
+     -1007,
+     896
+    ],
+    [
+     -1008,
+     895
+    ],
+    [
+     -1007,
+     897
     ],
     [
      -1005,
@@ -132,6 +180,22 @@
      895
     ],
     [
+     -1005,
+     898
+    ],
+    [
+     -1005,
+     897
+    ],
+    [
+     -1003,
+     894
+    ],
+    [
+     -1004,
+     891
+    ],
+    [
      -1004,
      892
     ],
@@ -146,13 +210,21 @@
     [
      -1004,
      895
+    ],
+    [
+     -1004,
+     896
+    ],
+    [
+     -1004,
+     897
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "SaintLaurentBong",
+    "name": "AyoHondo",
     "uuid": "508012d2-9e68-41ed-bc91-d198281dde12"
    },
    {
@@ -166,16 +238,29 @@
    {
     "name": "Your_Downfall",
     "uuid": "d7469b47-9c32-466c-ad5b-f97c8708643c"
+   },
+   {
+    "name": "Hashberry",
+    "uuid": "f16cbaec-7cf8-442a-8de9-acf1c68c4879"
    }
   ],
   "trusted": [
    {
     "name": "Your_Downfall",
     "uuid": "d7469b47-9c32-466c-ad5b-f97c8708643c"
+   },
+   {
+    "name": "Hashberry",
+    "uuid": "f16cbaec-7cf8-442a-8de9-acf1c68c4879"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Private Vault",
+    "uuid": "7259e9fc-fcce-48a5-8202-8ce3d0d0fa57"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {
@@ -185,6 +270,14 @@
     {
      "name": "LeanTemplar",
      "uuid": "5c0e4efb-caac-45c9-85cb-7d38c79f5466"
+    },
+    {
+     "name": "Your_Downfall",
+     "uuid": "d7469b47-9c32-466c-ad5b-f97c8708643c"
+    },
+    {
+     "name": "Hashberry",
+     "uuid": "f16cbaec-7cf8-442a-8de9-acf1c68c4879"
     }
    ],
    "Builder": [],

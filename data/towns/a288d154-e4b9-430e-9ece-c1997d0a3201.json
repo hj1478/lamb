@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Hejaz",
-  "uuid": "bc471f41-d184-4cf6-92d9-b65d1d851423",
-  "board": "Smile, it is Sunnah!",
-  "founder": "omarahmed191",
+  "name": "New_Biloxi",
+  "uuid": "a288d154-e4b9-430e-9ece-c1997d0a3201",
+  "board": "/town set board [msg]",
+  "founder": "eBeetle",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC71",
-   "uuid": "8c96e6b0-24fa-20cd-b5d0-9b5e76960379"
+   "name": "eBeetle",
+   "uuid": "cdfa4d15-27f1-412d-8c18-d95d089be1c1"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Gulf_Union",
+   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
-   "registered": 1784330015316,
-   "joinedNationAt": null,
-   "ruinedAt": 1792836002333
+   "registered": 1793071204383,
+   "joinedNationAt": 1793071230683,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,81 +47,77 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13369.52266740484,
-    "y": 63.0,
-    "z": -1193.3894084593396,
-    "pitch": 23.399921,
-    "yaw": 167.77588
+    "x": -31724.80880240296,
+    "y": 64.0,
+    "z": -3223.345772974058,
+    "pitch": 44.39994,
+    "yaw": -46.466553
    },
    "homeBlock": [
-    835,
-    -75
+    -1983,
+    -202
    ],
    "townBlocks": [
     [
-     835,
-     -76
+     -1982,
+     -203
     ],
     [
-     835,
-     -75
+     -1982,
+     -202
     ],
     [
-     835,
-     -77
+     -1983,
+     -201
     ],
     [
-     834,
-     -75
+     -1983,
+     -202
     ],
     [
-     834,
-     -76
-    ],
-    [
-     834,
-     -77
+     -1983,
+     -203
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC71",
-    "uuid": "8c96e6b0-24fa-20cd-b5d0-9b5e76960379"
+    "name": "eBeetle",
+    "uuid": "cdfa4d15-27f1-412d-8c18-d95d089be1c1"
    }
   ],
   "trusted": [],

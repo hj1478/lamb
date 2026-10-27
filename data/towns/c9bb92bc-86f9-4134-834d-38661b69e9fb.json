@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Hallownest",
-  "uuid": "3186e551-1734-436a-9d11-a09610405082",
+  "name": "BevrVille",
+  "uuid": "c9bb92bc-86f9-4134-834d-38661b69e9fb",
   "board": "/town set board [msg]",
-  "founder": "Airy_hfjONE",
+  "founder": "FanaticBook9828",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Airy_hfjONE",
-   "uuid": "9a0d4aca-4cdb-41c4-a629-dce7f61e30fd"
+   "name": "FanaticBook9828",
+   "uuid": "5c362a7a-c26d-4e27-ae53-0404a90c4ca9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Egypt",
+   "uuid": "157d7ef7-13db-46db-b20d-00cfd0b01155"
   },
   "timestamps": {
-   "registered": 1786767930534,
-   "joinedNationAt": null,
+   "registered": 1793070636430,
+   "joinedNationAt": 1793070660483,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 63.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,75 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32745.398968790414,
-    "y": 64.875,
-    "z": -23574.70497874008,
-    "pitch": 15.149959,
-    "yaw": 178.80356
+    "x": 10995.49329877617,
+    "y": 63.0,
+    "z": -3254.313450028512,
+    "pitch": 24.300034,
+    "yaw": 42.937576
    },
    "homeBlock": [
-    2046,
-    -1474
+    687,
+    -204
    ],
    "townBlocks": [
     [
-     2046,
-     -1474
+     687,
+     -204
     ],
     [
-     2048,
-     -1474
+     687,
+     -205
     ],
     [
-     2046,
-     -1475
+     687,
+     -203
     ],
     [
-     2046,
-     -1476
+     686,
+     -203
     ],
     [
-     2048,
-     -1476
+     686,
+     -204
     ],
     [
-     2046,
-     -1477
-    ],
-    [
-     2048,
-     -1475
-    ],
-    [
-     2047,
-     -1477
-    ],
-    [
-     2047,
-     -1474
-    ],
-    [
-     2048,
-     -1477
-    ],
-    [
-     2047,
-     -1476
-    ],
-    [
-     2047,
-     -1475
+     686,
+     -205
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Airy_hfjONE",
-    "uuid": "9a0d4aca-4cdb-41c4-a629-dce7f61e30fd"
+    "name": "FanaticBook9828",
+    "uuid": "5c362a7a-c26d-4e27-ae53-0404a90c4ca9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Andre1098",
+    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

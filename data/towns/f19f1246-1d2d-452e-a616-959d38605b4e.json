@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Pavia",
   "uuid": "f19f1246-1d2d-452e-a616-959d38605b4e",
-  "board": "10 towers 3 bridges and a church",
+  "board": "12 towers 3 bridges and a church",
   "founder": "just_perq",
   "wiki": null,
   "discord": null,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 157,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 9,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 10.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -740,6 +740,10 @@
     "uuid": "5c0dccdd-3493-40da-a135-93ccb95cdc31"
    },
    {
+    "name": "Space_Dog01",
+    "uuid": "3bd96b9e-b164-4f0b-a7b9-ccf5164dc01b"
+   },
+   {
     "name": "Zyn0x_",
     "uuid": "bef75574-25ce-4c90-98f5-3ae25e6af704"
    },
@@ -780,7 +784,7 @@
     "uuid": "9e7a353d-5eae-416e-b450-83914409137b"
    },
    {
-    "name": "eff35",
+    "name": "ezgif",
     "uuid": "b945cc3a-bb68-4933-ab65-06431a95d7f3"
    }
   ],
@@ -898,6 +902,10 @@
     "uuid": "dfc75fef-2cb5-4ab9-9612-19685c5db6b4"
    },
    {
+    "name": "Stylish Quarter",
+    "uuid": "4e3490fd-b6a2-4f58-8cdb-0dec53e2c81c"
+   },
+   {
     "name": "Welcoming Dwelling",
     "uuid": "79fd84ab-6291-4c82-b34f-c7a3534170bf"
    }
@@ -917,13 +925,22 @@
     {
      "name": "Hypetalk",
      "uuid": "5c0dccdd-3493-40da-a135-93ccb95cdc31"
+    },
+    {
+     "name": "Space_Dog01",
+     "uuid": "3bd96b9e-b164-4f0b-a7b9-ccf5164dc01b"
     }
    ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "Space_Dog01",
+     "uuid": "3bd96b9e-b164-4f0b-a7b9-ccf5164dc01b"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

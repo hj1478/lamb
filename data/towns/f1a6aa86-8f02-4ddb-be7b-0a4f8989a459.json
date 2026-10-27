@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Calavera",
   "uuid": "f1a6aa86-8f02-4ddb-be7b-0a4f8989a459",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "loveproblemhihi",
-   "uuid": "11a53525-8e39-4c99-b309-39f5fd69abb2"
+   "name": "NPC32",
+   "uuid": "8938a3c7-698f-207e-bc1e-3d4ab14eceb6"
   },
   "nation": {
-   "name": "Yucatan",
-   "uuid": "506cc5c5-3e9e-4fbb-867e-3b872a9068ba"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789276081919,
-   "joinedNationAt": 1789276092413,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792922404112
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "loveproblemhihi",
-    "uuid": "11a53525-8e39-4c99-b309-39f5fd69abb2"
+    "name": "NPC32",
+    "uuid": "8938a3c7-698f-207e-bc1e-3d4ab14eceb6"
    }
   ],
   "trusted": [],

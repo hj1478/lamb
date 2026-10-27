@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Starbase",
   "uuid": "e9db712a-8de4-4cf3-8473-2ef61fa7df5a",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 60,
-   "maxTownBlocks": 212,
+   "numTownBlocks": 66,
+   "maxTownBlocks": 236,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 11,
+   "numResidents": 13,
    "numTrusted": 6,
-   "numOutlaws": 11,
+   "numOutlaws": 15,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34957.362124013016,
+    "x": -34880.40844884818,
     "y": 63.0,
-    "z": -1633.3493593021863,
-    "pitch": 43.886875,
-    "yaw": 89.23071
+    "z": -1539.512499988079,
+    "pitch": 55.349957,
+    "yaw": 0.7499217
    },
    "homeBlock": [
-    -2185,
-    -103
+    -2181,
+    -97
    ],
    "townBlocks": [
     [
@@ -156,12 +156,16 @@
      -98
     ],
     [
-     -2184,
-     -95
+     -2187,
+     -99
     ],
     [
      -2187,
      -102
+    ],
+    [
+     -2184,
+     -95
     ],
     [
      -2184,
@@ -244,8 +248,16 @@
      -97
     ],
     [
+     -2189,
+     -101
+    ],
+    [
      -2185,
      -95
+    ],
+    [
+     -2189,
+     -100
     ],
     [
      -2185,
@@ -254,6 +266,18 @@
     [
      -2181,
      -95
+    ],
+    [
+     -2189,
+     -99
+    ],
+    [
+     -2188,
+     -99
+    ],
+    [
+     -2188,
+     -100
     ],
     [
      -2183,
@@ -344,10 +368,6 @@
     "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
    },
    {
-    "name": "C0sm0Starz",
-    "uuid": "7d44ec03-3fa2-475e-8050-896ba9dd8507"
-   },
-   {
     "name": "TheSunSeekr",
     "uuid": "620dcc17-e639-4267-b8c9-cf31fb73ce6c"
    },
@@ -378,6 +398,18 @@
    {
     "name": "AlexandraToasty",
     "uuid": "b44f76ac-6ddc-41df-ab79-1c83c1ca8191"
+   },
+   {
+    "name": "WolfMP2015",
+    "uuid": "3b5419f3-dbfc-4c14-8336-029eba6dd4e2"
+   },
+   {
+    "name": "FunnyMix69",
+    "uuid": "34687517-989b-4af2-a9fa-6e657c7be11e"
+   },
+   {
+    "name": "WeenyyMix",
+    "uuid": "197b28a8-1ad7-43f1-838b-2d14c2f0bde9"
    }
   ],
   "trusted": [
@@ -424,7 +456,7 @@
     "uuid": "def0f314-4315-4dbf-9916-1b0151389e27"
    },
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
@@ -450,6 +482,22 @@
    {
     "name": "chostpr",
     "uuid": "8b8ad4fb-4fca-4e43-ab37-7337901cddbb"
+   },
+   {
+    "name": "AutPig_",
+    "uuid": "111348b6-ecd2-48ef-becb-74f3c84d4ec3"
+   },
+   {
+    "name": "aim9b",
+    "uuid": "11e1a230-3401-4cf4-a0ef-179bcc35e580"
+   },
+   {
+    "name": "Historian_Man",
+    "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
+   },
+   {
+    "name": "batmanforreal67",
+    "uuid": "ceedd81f-9a82-4430-a1fd-c5a16659e7ee"
    }
   ],
   "quarters": [

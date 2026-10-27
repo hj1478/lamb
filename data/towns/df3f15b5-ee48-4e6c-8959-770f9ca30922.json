@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "BrazilTown",
   "uuid": "df3f15b5-ee48-4e6c-8959-770f9ca30922",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 14,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 60.0,
+   "balance": 28.0,
    "forSalePrice": null
   },
   "perms": {
@@ -54,19 +54,19 @@
    ],
    "destroy": [
     false,
-    false,
+    true,
     false,
     false
    ],
    "switch": [
     false,
-    false,
+    true,
     false,
     false
    ],
    "itemUse": [
     false,
-    false,
+    true,
     false,
     false
    ],
@@ -92,6 +92,46 @@
    ],
    "townBlocks": [
     [
+     -1557,
+     -1013
+    ],
+    [
+     -1557,
+     -1011
+    ],
+    [
+     -1555,
+     -1012
+    ],
+    [
+     -1557,
+     -1012
+    ],
+    [
+     -1555,
+     -1013
+    ],
+    [
+     -1558,
+     -1011
+    ],
+    [
+     -1557,
+     -1010
+    ],
+    [
+     -1558,
+     -1012
+    ],
+    [
+     -1556,
+     -1010
+    ],
+    [
+     -1555,
+     -1010
+    ],
+    [
      -1556,
      -1011
     ],
@@ -104,16 +144,8 @@
      -1012
     ],
     [
-     -1555,
-     -1012
-    ],
-    [
-     -1557,
-     -1011
-    ],
-    [
-     -1557,
-     -1012
+     -1556,
+     -1013
     ]
    ],
    "worlds": {}

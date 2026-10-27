@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Al-Riyadh",
   "uuid": "e015e32b-e3fe-450d-9ebb-b5d42af88fef",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RipSwaggy",
-   "uuid": "888435c6-4b69-464a-bfaf-f8176a0ea4bb"
+   "name": "NPC90",
+   "uuid": "54993872-ada7-20c8-b1e4-e9dd1cf7848c"
   },
   "nation": {
-   "name": "Arabia",
-   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784814112845,
-   "joinedNationAt": 1785026196267,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792927239263
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -160,30 +160,14 @@
   },
   "residents": [
    {
-    "name": "RipSwaggy",
-    "uuid": "888435c6-4b69-464a-bfaf-f8176a0ea4bb"
-   },
-   {
-    "name": "MorgiYT",
-    "uuid": "f7c609ef-47eb-4054-ab75-a7ef68d56289"
-   },
-   {
-    "name": "George_956",
-    "uuid": "bb3f0bf9-866e-4f3c-980c-853bd66573bb"
+    "name": "NPC90",
+    "uuid": "54993872-ada7-20c8-b1e4-e9dd1cf7848c"
    }
   ],
   "trusted": [
    {
-    "name": "Omariuss",
-    "uuid": "e244591a-9275-4d40-b75d-3fead5e62399"
-   },
-   {
-    "name": "Cor0ri",
-    "uuid": "c2af5ad0-55da-490d-8199-ebee7edde54e"
-   },
-   {
-    "name": "36hoi",
-    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
+    "name": "ProfuseComet985",
+    "uuid": "5404ea00-974c-4c28-b490-f10394f58147"
    }
   ],
   "outlaws": [],

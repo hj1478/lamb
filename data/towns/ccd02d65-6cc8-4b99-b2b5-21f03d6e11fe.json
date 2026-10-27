@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Bingazi",
-  "uuid": "5ac427ca-bf66-40ea-92da-99a46f88ecbd",
-  "board": "/town set board [msg]",
-  "founder": "Karujise",
+  "name": "Antikythira",
+  "uuid": "ccd02d65-6cc8-4b99-b2b5-21f03d6e11fe",
+  "board": "gamw ta kythira",
+  "founder": "MAMBO_DODO",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Karujise",
-   "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
+   "name": "MAMBO_DODO",
+   "uuid": "faf30ff7-69e1-423c-bc82-74cb302f0b8c"
   },
   "nation": {
-   "name": "Libya",
-   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
+   "name": "Greece",
+   "uuid": "dcdefdf8-ae51-4436-903a-4eb88c58087a"
   },
   "timestamps": {
-   "registered": 1792233173193,
-   "joinedNationAt": 1792234804112,
+   "registered": 1793048617122,
+   "joinedNationAt": 1793048647369,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,82 +80,90 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7716.507107442361,
-    "y": 65.0,
-    "z": -4173.489444972778,
-    "pitch": 7.7163615,
-    "yaw": -66.7218
+    "x": 8360.545216395914,
+    "y": 64.0,
+    "z": -5426.104678967083,
+    "pitch": 23.878689,
+    "yaw": -45.015713
    },
    "homeBlock": [
-    482,
-    -261
+    522,
+    -340
    ],
    "townBlocks": [
     [
-     480,
-     -262
+     520,
+     -338
     ],
     [
-     481,
-     -262
+     520,
+     -340
     ],
     [
-     481,
-     -263
+     520,
+     -339
     ],
     [
-     480,
-     -261
+     521,
+     -338
     ],
     [
-     481,
-     -261
+     523,
+     -339
     ],
     [
-     483,
-     -263
+     523,
+     -338
     ],
     [
-     482,
-     -260
+     522,
+     -338
     ],
     [
-     483,
-     -261
+     522,
+     -339
     ],
     [
-     483,
-     -262
+     523,
+     -340
     ],
     [
-     482,
-     -263
+     521,
+     -341
     ],
     [
-     482,
-     -261
+     522,
+     -340
     ],
     [
-     482,
-     -262
+     521,
+     -340
     ],
     [
-     484,
-     -262
+     521,
+     -339
+    ],
+    [
+     522,
+     -341
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Karujise",
-    "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
+    "name": "MAMBO_DODO",
+    "uuid": "faf30ff7-69e1-423c-bc82-74cb302f0b8c"
    }
   ],
   "trusted": [
    {
-    "name": "HasanHasa",
-    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+    "name": "Morf0nios",
+    "uuid": "bbadcef2-753b-4889-9c04-c9ca6593577b"
+   },
+   {
+    "name": "PROMY19",
+    "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
    }
   ],
   "outlaws": [],

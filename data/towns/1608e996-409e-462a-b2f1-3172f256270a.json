@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Tutaev",
-  "uuid": "250dedf1-d4a0-41cc-9166-56681ab32de6",
-  "board": "A small, peaceful trading town",
-  "founder": "PraiseZebra",
+  "name": "Vanguardia",
+  "uuid": "1608e996-409e-462a-b2f1-3172f256270a",
+  "board": "/town set board [msg]",
+  "founder": "ShadowWardenCraf",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PraiseZebra",
-   "uuid": "a602c75d-f494-4555-a7ab-2934a51f34b9"
+   "name": "ShadowWardenCraf",
+   "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
   },
   "nation": {
-   "name": "Soviet_Union",
-   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
+   "name": "Italy",
+   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
   },
   "timestamps": {
-   "registered": 1788410683996,
-   "joinedNationAt": 1788488856456,
+   "registered": 1793059205753,
+   "joinedNationAt": 1793059316055,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,35 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13926.58604272625,
-    "y": 63.0,
-    "z": -15501.339562068124,
-    "pitch": 5.9999723,
-    "yaw": -102.05127
+    "x": 3325.300000011921,
+    "y": 70.0,
+    "z": -5668.544761648953,
+    "pitch": 9.24138,
+    "yaw": -43.982643
    },
    "homeBlock": [
-    870,
-    -969
+    207,
+    -355
    ],
    "townBlocks": [
     [
-     870,
-     -969
+     208,
+     -355
+    ],
+    [
+     208,
+     -354
+    ],
+    [
+     207,
+     -355
+    ],
+    [
+     207,
+     -354
+    ],
+    [
+     209,
+     -354
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "PraiseZebra",
-    "uuid": "a602c75d-f494-4555-a7ab-2934a51f34b9"
+    "name": "ShadowWardenCraf",
+    "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ShadowWardenCraf",
+     "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

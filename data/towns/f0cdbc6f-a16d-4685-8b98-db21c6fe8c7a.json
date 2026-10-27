@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Horsieland",
   "uuid": "f0cdbc6f-a16d-4685-8b98-db21c6fe8c7a",
@@ -12,12 +12,12 @@
    "uuid": "1c3499e4-0213-4169-a5c0-645f4f0b8969"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1792002602343,
-   "joinedNationAt": 1792089239524,
+   "joinedNationAt": 1792516906362,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -98,6 +98,14 @@
     [
      299,
      -910
+    ],
+    [
+     297,
+     -910
+    ],
+    [
+     299,
+     -909
     ]
    ],
    "worlds": {}
@@ -106,13 +114,22 @@
    {
     "name": "Horselover323",
     "uuid": "1c3499e4-0213-4169-a5c0-645f4f0b8969"
+   },
+   {
+    "name": "Kaai_Yuki_",
+    "uuid": "2d1f9bd8-95e1-4b54-83b7-0c61546ccb1e"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Kaai_Yuki_",
+     "uuid": "2d1f9bd8-95e1-4b54-83b7-0c61546ccb1e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

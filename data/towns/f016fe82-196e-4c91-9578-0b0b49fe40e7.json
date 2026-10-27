@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "North_Lock_Rig",
   "uuid": "f016fe82-196e-4c91-9578-0b0b49fe40e7",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,20 @@
    ],
    "townBlocks": [
     [
+     3977,
+     418
+    ],
+    [
+     3976,
+     419
+    ],
+    [
      3976,
      418
+    ],
+    [
+     3977,
+     419
     ]
    ],
    "worlds": {}

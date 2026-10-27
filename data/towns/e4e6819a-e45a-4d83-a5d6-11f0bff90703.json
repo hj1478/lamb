@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Datong",
   "uuid": "e4e6819a-e45a-4d83-a5d6-11f0bff90703",
@@ -12,37 +12,37 @@
    "uuid": "adcaddbc-b12e-42cc-95db-f792232803bb"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Ming",
+   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
   },
   "timestamps": {
    "registered": 1792219188583,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792827613832,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 28,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 48.0,
+   "numOutlaws": 1,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,6 +96,10 @@
      -487
     ],
     [
+     2541,
+     -486
+    ],
+    [
      2540,
      -489
     ],
@@ -108,20 +112,80 @@
      -488
     ],
     [
+     2541,
+     -489
+    ],
+    [
+     2541,
+     -488
+    ],
+    [
+     2544,
+     -487
+    ],
+    [
+     2544,
+     -485
+    ],
+    [
+     2544,
+     -486
+    ],
+    [
+     2543,
+     -484
+    ],
+    [
+     2544,
+     -484
+    ],
+    [
+     2543,
+     -483
+    ],
+    [
+     2543,
+     -488
+    ],
+    [
+     2542,
+     -483
+    ],
+    [
+     2543,
+     -487
+    ],
+    [
+     2543,
+     -486
+    ],
+    [
+     2542,
+     -485
+    ],
+    [
      2538,
      -488
     ],
     [
-     2541,
-     -489
+     2543,
+     -485
+    ],
+    [
+     2542,
+     -484
+    ],
+    [
+     2542,
+     -487
     ],
     [
      2539,
      -489
     ],
     [
-     2541,
-     -488
+     2542,
+     -486
     ],
     [
      2539,
@@ -146,13 +210,31 @@
    {
     "name": "ConutKing",
     "uuid": "adcaddbc-b12e-42cc-95db-f792232803bb"
+   },
+   {
+    "name": "WqVpW",
+    "uuid": "56fca8cf-7412-4fe7-84e6-f2a148b362fe"
+   },
+   {
+    "name": "Lraga",
+    "uuid": "19fdd4ae-3139-48ab-b1c1-80b8477a1243"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Lraga",
+     "uuid": "19fdd4ae-3139-48ab-b1c1-80b8477a1243"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

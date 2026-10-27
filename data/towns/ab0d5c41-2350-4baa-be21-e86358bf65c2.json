@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Trail_Chamber",
-  "uuid": "cf40c5cd-7a09-4762-952c-0801d5be5afe",
+  "name": "Trapland",
+  "uuid": "ab0d5c41-2350-4baa-be21-e86358bf65c2",
   "board": "/town set board [msg]",
-  "founder": "Wojownik23",
+  "founder": "AtillaKagan",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC59",
-   "uuid": "84d812e1-2ae5-20dc-ad7c-dbd114c9f030"
+   "name": "AtillaKagan",
+   "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787924624167,
+   "registered": 1793035471901,
    "joinedNationAt": null,
-   "ruinedAt": 1792775516185
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,101 +35,76 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4116.561140555388,
-    "y": 3.0,
-    "z": -5068.784188001348,
-    "pitch": 73.38764,
-    "yaw": -73.404785
+    "x": 7274.716367979629,
+    "y": 83.0,
+    "z": 16934.28428725466,
+    "pitch": 26.10003,
+    "yaw": 86.69971
    },
    "homeBlock": [
-    257,
-    -317
+    454,
+    1058
    ],
    "townBlocks": [
     [
-     256,
-     -319
-    ],
-    [
-     256,
-     -317
-    ],
-    [
-     256,
-     -318
-    ],
-    [
-     257,
-     -319
-    ],
-    [
-     257,
-     -318
-    ],
-    [
-     257,
-     -317
+     454,
+     1058
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC59",
-    "uuid": "84d812e1-2ae5-20dc-ad7c-dbd114c9f030"
+    "name": "AtillaKagan",
+    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
    }
   ],
-  "trusted": [
-   {
-    "name": "Darth_Frog",
-    "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

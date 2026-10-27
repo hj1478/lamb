@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "DeepSeaSlate",
   "uuid": "f3e5b9b0-3a67-4acf-a0c3-d1b836331b8a",
-  "board": "Why on earth should I live under the ocean in the deepslate",
+  "board": "Why on earth am I living in deepslates under the ocean",
   "founder": "2_bird",
   "wiki": null,
   "discord": null,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32401.48451174687,
-    "y": -63.0,
-    "z": 14321.300000011921,
-    "pitch": 39.986073,
-    "yaw": 11.198242
+    "x": 32372.50903270343,
+    "y": -54.0,
+    "z": 14379.508540595381,
+    "pitch": 0.13884309,
+    "yaw": -180.0
    },
    "homeBlock": [
-    2025,
-    895
+    2023,
+    898
    ],
    "townBlocks": [
     [
@@ -112,16 +112,12 @@
      895
     ],
     [
-     2025,
-     896
-    ],
-    [
      2023,
      898
     ],
     [
      2025,
-     897
+     896
     ],
     [
      2023,
@@ -129,11 +125,15 @@
     ],
     [
      2025,
-     898
+     897
     ],
     [
      2023,
      896
+    ],
+    [
+     2025,
+     898
     ],
     [
      2023,
@@ -166,24 +166,16 @@
   ],
   "trusted": [
    {
-    "name": "KarlSalz",
-    "uuid": "06847aa5-f364-49da-ac1a-6df1ae98ba49"
-   },
-   {
-    "name": "Rain_Leng",
-    "uuid": "6a1caf9a-ddc3-4534-ba23-0db492ef8e01"
-   },
-   {
-    "name": "llWmfdll",
-    "uuid": "c385edac-cd55-4d02-bb8d-175210bbc693"
-   },
-   {
     "name": "_Koridor_92_",
     "uuid": "781851a5-821c-4c07-9eb8-500842eb546e"
    },
    {
     "name": "yangxingzhe",
     "uuid": "437797b6-6c26-47df-8c1d-e0ec8b0475d9"
+   },
+   {
+    "name": "KarlSalz",
+    "uuid": "06847aa5-f364-49da-ac1a-6df1ae98ba49"
    },
    {
     "name": "ji_mo",
@@ -194,12 +186,20 @@
     "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
    },
    {
+    "name": "Rain_Leng",
+    "uuid": "6a1caf9a-ddc3-4534-ba23-0db492ef8e01"
+   },
+   {
     "name": "sky_space_",
     "uuid": "d8acbba3-5804-4e63-8b23-ba6b6b4f8a57"
    },
    {
     "name": "PreviousYun",
     "uuid": "c782ae9c-163f-4313-af60-3d6a1a979037"
+   },
+   {
+    "name": "llWmfdll",
+    "uuid": "c385edac-cd55-4d02-bb8d-175210bbc693"
    },
    {
     "name": "Su_Su_a",
@@ -211,7 +211,16 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "CartN",
+    "uuid": "261d8614-bdfd-48c0-9d6e-94dd867d1b20"
+   },
+   {
+    "name": "CartE",
+    "uuid": "0748b505-66be-4e24-83a5-499cb201c2f8"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

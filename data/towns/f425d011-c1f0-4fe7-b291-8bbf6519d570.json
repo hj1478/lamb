@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Kaspi",
   "uuid": "f425d011-c1f0-4fe7-b291-8bbf6519d570",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 169,
-   "maxTownBlocks": 256,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 13,
-   "numTrusted": 1,
+   "numResidents": 9,
+   "numTrusted": 2,
    "numOutlaws": 5,
-   "balance": 1.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -776,28 +776,12 @@
     "uuid": "2a4af036-e332-4d63-9ade-722589e13bcc"
    },
    {
-    "name": "lynze_",
-    "uuid": "690ace08-2cf7-41c2-b2db-c0b61e41af25"
-   },
-   {
-    "name": "Aarizqaid",
-    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
-   },
-   {
     "name": "RReidoo",
     "uuid": "6a0e0d11-02f3-4a74-858b-5e1d768c24a8"
    },
    {
     "name": "samuray_",
     "uuid": "00ad70c7-b0f5-409d-aeb5-6bf40af6b67d"
-   },
-   {
-    "name": "ketlover",
-    "uuid": "7171c0e7-f8fd-4191-9762-48b6ae3de76a"
-   },
-   {
-    "name": "240DIRECTIONS",
-    "uuid": "6cfe2cd2-0380-4cea-a61b-1750ca91f58b"
    },
    {
     "name": "randomlyreal",
@@ -828,6 +812,10 @@
    {
     "name": "iThinkImCorben",
     "uuid": "1bb1cf83-1c58-48c2-8cdf-74634c504b85"
+   },
+   {
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
    }
   ],
   "outlaws": [
@@ -863,32 +851,13 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Aarizqaid",
-     "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Aarizqaid",
-     "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "Aarizqaid",
-     "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [
-    {
-     "name": "Aarizqaid",
-     "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
-    },
     {
      "name": "samuray_",
      "uuid": "00ad70c7-b0f5-409d-aeb5-6bf40af6b67d"

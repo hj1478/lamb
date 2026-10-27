@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Honolulu",
   "uuid": "f4a085b3-1fd4-4326-bcbf-8d82f77ed007",
@@ -21,28 +21,28 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 200,
-   "maxTownBlocks": 206,
+   "maxTownBlocks": 192,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 13,
+   "nationBonus": 60,
+   "numResidents": 11,
    "numTrusted": 3,
-   "numOutlaws": 9,
-   "balance": 19995.0,
+   "numOutlaws": 8,
+   "balance": 20000.0,
    "forSalePrice": null
   },
   "perms": {
@@ -900,14 +900,6 @@
     "uuid": "e356b02a-191b-41d8-b4ab-e85b1c935ddf"
    },
    {
-    "name": "monkeys169",
-    "uuid": "d2396f59-f23f-45a7-b156-282321f6e84e"
-   },
-   {
-    "name": "Salmon_hare",
-    "uuid": "800e3cd4-a8f9-44ff-af5b-1ace978f6778"
-   },
-   {
     "name": "Toopg",
     "uuid": "02d8e245-6901-4105-9bfb-a78c5246841f"
    },
@@ -966,10 +958,6 @@
    {
     "name": "oncup",
     "uuid": "3d384795-93eb-48e9-b601-e14bf141df55"
-   },
-   {
-    "name": "BurbLegend",
-    "uuid": "34f36162-e089-4207-a195-990f6af97bfa"
    },
    {
     "name": "White_sheep1234",

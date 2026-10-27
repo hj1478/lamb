@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Ferndale",
   "uuid": "dde3e2e5-5b55-445c-8768-34a25adc63d1",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 37,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 3,
-   "numOutlaws": 15,
-   "balance": 18.0,
+   "numOutlaws": 14,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,12 +108,20 @@
      -985
     ],
     [
+     1027,
+     -979
+    ],
+    [
      1029,
      -986
     ],
     [
      1031,
      -983
+    ],
+    [
+     1027,
+     -978
     ],
     [
      1027,
@@ -165,6 +173,10 @@
     ],
     [
      1026,
+     -979
+    ],
+    [
+     1026,
      -980
     ],
     [
@@ -174,6 +186,14 @@
     [
      1026,
      -982
+    ],
+    [
+     1028,
+     -978
+    ],
+    [
+     1028,
+     -979
     ],
     [
      1028,
@@ -258,6 +278,10 @@
    {
     "name": "javathebrave",
     "uuid": "a83cf0be-2d4d-4ee3-a835-cef8c2e88f8b"
+   },
+   {
+    "name": "HampterOverlord",
+    "uuid": "cd7e03b6-46ee-4679-890c-e3eb82f63f09"
    }
   ],
   "trusted": [
@@ -300,10 +324,6 @@
     "uuid": "71cbc64c-a1e9-4b5c-a66b-62589b0fa2a4"
    },
    {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
-   {
     "name": "sobrem4res",
     "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
    },
@@ -338,10 +358,6 @@
   ],
   "quarters": [
    {
-    "name": "Cheerful Tenement",
-    "uuid": "175cce62-48c7-4678-bb73-024a682d03d3"
-   },
-   {
     "name": "Cozy Inn",
     "uuid": "0796db76-9322-491d-b485-6d8d465904b7"
    },
@@ -358,16 +374,20 @@
     "uuid": "49ac65ab-aea7-4ff3-97c8-cabe78c411b0"
    },
    {
-    "name": "Welcome to Ferndale! <3",
-    "uuid": "3f1cf3e0-2ea5-4bae-a0df-441ea6621342"
-   },
-   {
     "name": "Edit's Home :)",
     "uuid": "f1bef0a7-a76f-4a1d-bfdd-9497c7c5d32d"
    },
    {
     "name": "java's Home :)",
     "uuid": "c4c1d7a8-631a-4037-810e-fbedc3c8e4f1"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "175cce62-48c7-4678-bb73-024a682d03d3"
+   },
+   {
+    "name": "Welcome to Ferndale! <3",
+    "uuid": "3f1cf3e0-2ea5-4bae-a0df-441ea6621342"
    }
   ],
   "ranks": {

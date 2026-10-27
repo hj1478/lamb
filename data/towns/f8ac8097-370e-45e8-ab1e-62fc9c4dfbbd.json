@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Riau",
   "uuid": "f8ac8097-370e-45e8-ab1e-62fc9c4dfbbd",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Riddflys",
-   "uuid": "fcbaa7e2-598b-4e84-a5f8-d8f2eed09c7e"
+   "name": "NPC97",
+   "uuid": "38896b75-5ced-2023-bd61-3ed8efb683bb"
   },
   "nation": {
-   "name": "Georgia",
-   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790883035954,
-   "joinedNationAt": 1790883053104,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792948504351
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -180,8 +180,8 @@
   },
   "residents": [
    {
-    "name": "Riddflys",
-    "uuid": "fcbaa7e2-598b-4e84-a5f8-d8f2eed09c7e"
+    "name": "NPC97",
+    "uuid": "38896b75-5ced-2023-bd61-3ed8efb683bb"
    }
   ],
   "trusted": [

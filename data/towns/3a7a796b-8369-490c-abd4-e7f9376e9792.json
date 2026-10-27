@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Kigali",
-  "uuid": "bb60bf7c-ff63-4493-a68c-402464a42e5c",
-  "board": "cool guys",
-  "founder": "teidova21",
+  "name": "Plavni",
+  "uuid": "3a7a796b-8369-490c-abd4-e7f9376e9792",
+  "board": "/town set board [msg]",
+  "founder": "Aceman_773",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC61",
-   "uuid": "157e665c-9f81-20fd-af45-4d285d1c3b74"
+   "name": "Aceman_773",
+   "uuid": "bdc1cbae-b96e-4c53-a719-f737a108d025"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Ukraine",
+   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
   },
   "timestamps": {
-   "registered": 1788984969226,
-   "joinedNationAt": null,
-   "ruinedAt": 1792836000960
+   "registered": 1793023938255,
+   "joinedNationAt": 1793048039892,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,84 +36,84 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 60.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10754.772642574295,
-    "y": 87.0,
-    "z": 8739.39208465489,
-    "pitch": 84.9,
-    "yaw": 101.177734
+    "x": 14045.10481080798,
+    "y": 63.0,
+    "z": -9675.506441595613,
+    "pitch": 25.649977,
+    "yaw": -89.79045
    },
    "homeBlock": [
-    672,
-    546
+    877,
+    -605
    ],
    "townBlocks": [
     [
-     673,
-     545
+     878,
+     -604
     ],
     [
-     673,
-     546
+     877,
+     -605
     ],
     [
-     672,
-     545
+     878,
+     -605
     ],
     [
-     672,
-     546
+     877,
+     -604
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC61",
-    "uuid": "157e665c-9f81-20fd-af45-4d285d1c3b74"
+    "name": "Aceman_773",
+    "uuid": "bdc1cbae-b96e-4c53-a719-f737a108d025"
    }
   ],
   "trusted": [],

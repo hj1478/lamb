@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Saskatchewan",
   "uuid": "f6b6add1-158b-4c32-b849-fb2761ee9b0b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 101,
-   "maxTownBlocks": 106,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 8,
+   "numResidents": 6,
    "numTrusted": 5,
-   "numOutlaws": 5,
+   "numOutlaws": 4,
    "balance": 4.0,
    "forSalePrice": null
   },
@@ -504,20 +504,12 @@
     "uuid": "bb4a34f9-2a74-456c-a355-14506d9d26e8"
    },
    {
-    "name": "CorgiPops",
-    "uuid": "5bd3633c-b909-4468-a31f-38b74c61cfe9"
-   },
-   {
     "name": "Nafaniel5",
     "uuid": "3a7ed482-6139-405a-9823-30ae3412d501"
    },
    {
     "name": "BobsMarket",
     "uuid": "f175cd8f-9e3e-427b-8cab-283d96ec71a4"
-   },
-   {
-    "name": "tiv106",
-    "uuid": "ca731feb-04f5-4d20-ae19-5f37842c8613"
    },
    {
     "name": "Chance_080",
@@ -555,10 +547,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Samisol",
-    "uuid": "ec827256-4c0e-4609-b0b2-4ef820d392fe"
-   },
    {
     "name": "TheTrexian",
     "uuid": "9859c65b-6eed-454f-b018-2f6360ba02eb"
@@ -623,12 +611,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "CorgiPops",
-     "uuid": "5bd3633c-b909-4468-a31f-38b74c61cfe9"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

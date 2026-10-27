@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Konigsberg",
   "uuid": "f52f2782-3234-4a87-853e-6abe6da914f4",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 523,
-   "maxTownBlocks": 544,
+   "numTownBlocks": 502,
+   "maxTownBlocks": 520,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 37,
+   "numResidents": 35,
    "numTrusted": 6,
-   "numOutlaws": 1,
-   "balance": 8.0,
+   "numOutlaws": 0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -189,14 +189,6 @@
     ],
     [
      466,
-     -857
-    ],
-    [
-     466,
-     -858
-    ],
-    [
-     466,
      -859
     ],
     [
@@ -218,14 +210,6 @@
     [
      466,
      -864
-    ],
-    [
-     466,
-     -855
-    ],
-    [
-     466,
-     -856
     ],
     [
      468,
@@ -320,10 +304,6 @@
      -859
     ],
     [
-     468,
-     -858
-    ],
-    [
      452,
      -858
     ],
@@ -336,20 +316,8 @@
      -857
     ],
     [
-     468,
-     -856
-    ],
-    [
      452,
      -856
-    ],
-    [
-     468,
-     -857
-    ],
-    [
-     468,
-     -855
     ],
     [
      454,
@@ -1108,10 +1076,6 @@
      -867
     ],
     [
-     471,
-     -856
-    ],
-    [
      449,
      -868
     ],
@@ -1192,22 +1156,6 @@
      -859
     ],
     [
-     470,
-     -856
-    ],
-    [
-     470,
-     -855
-    ],
-    [
-     470,
-     -858
-    ],
-    [
-     470,
-     -857
-    ],
-    [
      465,
      -879
     ],
@@ -1254,22 +1202,6 @@
     [
      461,
      -856
-    ],
-    [
-     467,
-     -855
-    ],
-    [
-     467,
-     -856
-    ],
-    [
-     467,
-     -857
-    ],
-    [
-     467,
-     -858
     ],
     [
      467,
@@ -1352,10 +1284,6 @@
      -858
     ],
     [
-     469,
-     -855
-    ],
-    [
      458,
      -856
     ],
@@ -1368,16 +1296,8 @@
      -860
     ],
     [
-     469,
-     -857
-    ],
-    [
      459,
      -861
-    ],
-    [
-     469,
-     -856
     ],
     [
      458,
@@ -1398,10 +1318,6 @@
     [
      459,
      -871
-    ],
-    [
-     469,
-     -858
     ],
     [
      458,
@@ -2208,24 +2124,12 @@
     "uuid": "c2d0b18f-f5ab-4761-98f6-260c30f62005"
    },
    {
-    "name": "NuclearSS1",
-    "uuid": "c4ceba6b-cd8a-496d-bfc4-d6bdbeec3f96"
-   },
-   {
     "name": "Kolo1206",
     "uuid": "e35f72ab-7ba4-41d1-9d3e-a034eb7cae55"
    },
    {
-    "name": "Divaaaaaka1776",
-    "uuid": "f0367edb-5342-48a7-bec4-309ff2439cd6"
-   },
-   {
     "name": "Chihlupik",
     "uuid": "6b734439-05d2-4178-8bdb-d3ba5b58b995"
-   },
-   {
-    "name": "HausMaster_GM",
-    "uuid": "41225316-729c-4e5b-89d7-6370b29aeb84"
    },
    {
     "name": "sab2003",
@@ -2250,10 +2154,6 @@
    {
     "name": "ShadowXSteelman",
     "uuid": "27ffb316-16bf-479b-b42d-77592111d2ef"
-   },
-   {
-    "name": "PopCman2014",
-    "uuid": "3bc11c96-b749-4f0b-b276-ba5cb23d6fb2"
    },
    {
     "name": "TheAxolotlFarmer",
@@ -2334,6 +2234,14 @@
    {
     "name": "AnnikaLMK",
     "uuid": "b6281119-a9c6-4456-bb8d-94bcc1da71d3"
+   },
+   {
+    "name": "Cloud_n1ne9087",
+    "uuid": "bf68c14c-2b55-4a51-906d-ef58da9cdc26"
+   },
+   {
+    "name": "NoobMaster2910",
+    "uuid": "5594dbe6-e006-4ec1-a228-cf6312ccff8a"
    }
   ],
   "trusted": [
@@ -2362,12 +2270,7 @@
     "uuid": "f4906824-37dc-4ec2-9cd6-3b39774124be"
    }
   ],
-  "outlaws": [
-   {
-    "name": "JoelTheBigMac",
-    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -2377,12 +2280,7 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "HausMaster_GM",
-     "uuid": "41225316-729c-4e5b-89d7-6370b29aeb84"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

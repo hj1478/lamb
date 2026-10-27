@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Barentsburg",
-  "uuid": "f7f649bc-1a67-4dbb-b761-d27cf68fd9ad",
-  "board": "Coal and Woke",
-  "founder": "LarryWaiter",
+  "name": "Paraguay",
+  "uuid": "9fbb6e12-c567-4c28-8828-ee485200e303",
+  "board": "/town set board [msg]",
+  "founder": "DarkBeaux",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LarryWaiter",
-   "uuid": "d40bbde6-24b7-47b0-b920-e1fa4e7845e7"
+   "name": "DarkBeaux",
+   "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
   },
   "nation": {
-   "name": "Svalbard",
-   "uuid": "c0c9269e-3681-420d-9746-7b833bddbf64"
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
-   "registered": 1790902478890,
-   "joinedNationAt": 1790902489091,
+   "registered": 1793045637854,
+   "joinedNationAt": 1793045652759,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 2,
-   "balance": 0.0,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,90 +80,64 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5110.79654436493,
+    "x": -20460.299572364,
     "y": 63.0,
-    "z": -28072.066380190445,
-    "pitch": 11.699934,
-    "yaw": 95.62561
+    "z": 16402.556929908536,
+    "pitch": 18.899979,
+    "yaw": 179.56506
    },
    "homeBlock": [
-    319,
-    -1755
+    -1279,
+    1025
    ],
    "townBlocks": [
     [
-     319,
-     -1757
+     -1280,
+     1024
     ],
     [
-     319,
-     -1755
+     -1280,
+     1025
     ],
     [
-     319,
-     -1756
+     -1278,
+     1024
     ],
     [
-     320,
-     -1754
+     -1278,
+     1026
     ],
     [
-     320,
-     -1755
+     -1280,
+     1026
     ],
     [
-     320,
-     -1756
+     -1278,
+     1025
     ],
     [
-     320,
-     -1757
+     -1279,
+     1024
     ],
     [
-     318,
-     -1757
+     -1279,
+     1025
     ],
     [
-     318,
-     -1755
-    ],
-    [
-     318,
-     -1756
-    ],
-    [
-     317,
-     -1757
-    ],
-    [
-     319,
-     -1754
+     -1279,
+     1026
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "LarryWaiter",
-    "uuid": "d40bbde6-24b7-47b0-b920-e1fa4e7845e7"
+    "name": "DarkBeaux",
+    "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
    }
   ],
-  "trusted": [
-   {
-    "name": "Rustymach56",
-    "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
-   }
-  ],
-  "outlaws": [
-   {
-    "name": "36hoi",
-    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
-   },
-   {
-    "name": "thearbysworker",
-    "uuid": "38b811ed-5b23-4052-b903-14e5bcfd5efa"
-   }
-  ],
+  "trusted": [],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

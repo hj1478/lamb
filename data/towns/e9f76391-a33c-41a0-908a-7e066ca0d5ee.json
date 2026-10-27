@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Marshalk",
   "uuid": "e9f76391-a33c-41a0-908a-7e066ca0d5ee",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 4,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,19 @@
    "townBlocks": [
     [
      114,
+     -1085
+    ],
+    [
+     114,
      -1086
     ],
     [
      113,
      -1086
+    ],
+    [
+     113,
+     -1085
     ]
    ],
    "worlds": {}

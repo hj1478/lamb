@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Helios",
   "uuid": "feacf11f-24af-4f5d-bb3a-7001da2ddb30",
@@ -12,12 +12,12 @@
    "uuid": "8c4f1836-6a24-4a7f-b6ca-88096e8e1243"
   },
   "nation": {
-   "name": "Alaska",
-   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785101628348,
-   "joinedNationAt": 1785101649448,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

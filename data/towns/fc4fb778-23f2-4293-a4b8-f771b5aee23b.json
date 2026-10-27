@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Ostrava",
   "uuid": "fc4fb778-23f2-4293-a4b8-f771b5aee23b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 19,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,6 +100,22 @@
      -752
     ],
     [
+     319,
+     -749
+    ],
+    [
+     319,
+     -750
+    ],
+    [
+     319,
+     -748
+    ],
+    [
+     319,
+     -751
+    ],
+    [
      317,
      -751
     ],
@@ -124,11 +140,11 @@
      -752
     ],
     [
-     316,
-     -751
+     318,
+     -748
     ],
     [
-     318,
+     316,
      -751
     ],
     [
@@ -137,11 +153,19 @@
     ],
     [
      318,
-     -752
+     -751
     ],
     [
      316,
      -750
+    ],
+    [
+     318,
+     -752
+    ],
+    [
+     317,
+     -748
     ]
    ],
    "worlds": {}
@@ -154,7 +178,40 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Perturbing Residence",
+    "uuid": "ef6893c2-30c8-4457-a42f-b81acec6b937"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "c7f91a4f-a586-4577-9562-3e6bdea73542"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "65ddc2a3-f736-4842-9021-8229be5d31de"
+   },
+   {
+    "name": "Cheerful Flat",
+    "uuid": "4ba66c14-a057-43ec-96fc-205d125490fa"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "f1e17ef9-57af-456e-992d-09093686bc1b"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "b0128360-8ec1-4b22-8671-722fc5589a68"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "b12cee46-aa70-4d99-b794-b9f4b6e1655f"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "90224004-ba20-47f0-a6a3-270179326f48"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

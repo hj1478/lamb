@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-10-27T12:22:53Z",
+ "data": {
+  "name": "Akhisarspor",
+  "uuid": "4dd3f64f-bcc2-46c1-9d60-c0edc106495c",
+  "board": "/town set board [msg]",
+  "founder": "AKHISARLI",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "AKHISARLI",
+   "uuid": "80ab7077-601b-4741-90e3-1b56146cde06"
+  },
+  "nation": {
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+  },
+  "timestamps": {
+   "registered": 1793034277108,
+   "joinedNationAt": 1793034285308,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 12296.226656346074,
+    "y": 81.0,
+    "z": -7735.217161751668,
+    "pitch": 5.080654,
+    "yaw": -178.63025
+   },
+   "homeBlock": [
+    768,
+    -484
+   ],
+   "townBlocks": [
+    [
+     768,
+     -484
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "AKHISARLI",
+    "uuid": "80ab7077-601b-4741-90e3-1b56146cde06"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "FatihAr",
+    "uuid": "efd71f8e-3304-4cb9-87c9-a660eb66fef8"
+   },
+   {
+    "name": "LassqL",
+    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

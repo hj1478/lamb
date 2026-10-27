@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Acarnania",
   "uuid": "ef73bd3b-9c82-4546-b138-09b010f2af99",
@@ -12,12 +12,12 @@
    "uuid": "8cbffc32-22f9-4a1e-83c3-e8bc43338476"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": "Greece",
+   "uuid": "dcdefdf8-ae51-4436-903a-4eb88c58087a"
   },
   "timestamps": {
    "registered": 1776496771520,
-   "joinedNationAt": 1789243294329,
+   "joinedNationAt": 1792576840673,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 110,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 2,
-   "numTrusted": 9,
+   "numTrusted": 10,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -572,6 +572,10 @@
    {
     "name": "fanisGR_",
     "uuid": "b3a66f56-849b-4a1c-a31d-190cf2442b58"
+   },
+   {
+    "name": "Astroleon_kun",
+    "uuid": "91cfed4e-8d8b-4d10-a4b0-fd51300f89de"
    },
    {
     "name": "OwOyote8",

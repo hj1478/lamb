@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Jonkoping",
   "uuid": "ffcf0050-dd13-47ff-94ea-0c9e47c858df",
-  "board": "Ninth biggest city in Sweden!",
+  "board": "Storst, bast och vackrast anda!",
   "founder": "Viggobyggm",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 119,
-   "maxTownBlocks": 236,
+   "numTownBlocks": 129,
+   "maxTownBlocks": 248,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
-   "numTrusted": 2,
+   "numResidents": 14,
+   "numTrusted": 4,
    "numOutlaws": 1,
-   "balance": 57.0,
+   "balance": 278.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5087.331386674361,
-    "y": 63.0,
-    "z": -15398.558700547983,
-    "pitch": 33.749817,
-    "yaw": 179.8247
+    "x": 5087.500987398749,
+    "y": 63.0625,
+    "z": -15390.923654376866,
+    "pitch": 3.7498088,
+    "yaw": -177.62427
    },
    "homeBlock": [
     317,
-    -963
+    -962
    ],
    "townBlocks": [
     [
@@ -128,16 +128,12 @@
      -958
     ],
     [
-     318,
-     -961
-    ],
-    [
      314,
      -970
     ],
     [
      318,
-     -962
+     -961
     ],
     [
      314,
@@ -145,15 +141,35 @@
     ],
     [
      318,
+     -962
+    ],
+    [
+     314,
+     -972
+    ],
+    [
+     318,
      -959
+    ],
+    [
+     314,
+     -971
     ],
     [
      318,
      -960
     ],
     [
-     314,
-     -971
+     322,
+     -964
+    ],
+    [
+     322,
+     -965
+    ],
+    [
+     322,
+     -966
     ],
     [
      322,
@@ -186,6 +202,10 @@
     [
      318,
      -971
+    ],
+    [
+     318,
+     -972
     ],
     [
      315,
@@ -340,16 +360,12 @@
      -965
     ],
     [
-     320,
-     -966
-    ],
-    [
      316,
      -961
     ],
     [
      320,
-     -967
+     -966
     ],
     [
      316,
@@ -357,7 +373,7 @@
     ],
     [
      320,
-     -968
+     -967
     ],
     [
      316,
@@ -365,7 +381,7 @@
     ],
     [
      320,
-     -969
+     -968
     ],
     [
      316,
@@ -373,7 +389,7 @@
     ],
     [
      320,
-     -970
+     -969
     ],
     [
      316,
@@ -381,11 +397,15 @@
     ],
     [
      320,
-     -971
+     -970
     ],
     [
      316,
      -964
+    ],
+    [
+     320,
+     -971
     ],
     [
      316,
@@ -472,12 +492,12 @@
      -965
     ],
     [
-     319,
-     -971
-    ],
-    [
      314,
      -968
+    ],
+    [
+     319,
+     -971
     ],
     [
      314,
@@ -489,11 +509,27 @@
     ],
     [
      314,
+     -961
+    ],
+    [
+     314,
      -964
     ],
     [
      314,
      -963
+    ],
+    [
+     314,
+     -958
+    ],
+    [
+     314,
+     -960
+    ],
+    [
+     314,
+     -959
     ],
     [
      317,
@@ -566,6 +602,10 @@
     [
      323,
      -968
+    ],
+    [
+     323,
+     -967
     ]
    ],
    "worlds": {}
@@ -622,6 +662,10 @@
    {
     "name": "RAZE_FLUXXY",
     "uuid": "4eaff850-d22b-4b12-a2d3-f443975f8737"
+   },
+   {
+    "name": "MrTughilantPro",
+    "uuid": "d45668b3-870a-41b1-87ad-37d697e8f57b"
    }
   ],
   "trusted": [
@@ -630,8 +674,16 @@
     "uuid": "2a81f85e-d483-440d-ade3-38fe6daab4c7"
    },
    {
+    "name": "Livershot14",
+    "uuid": "42351d8a-1121-4e3d-b80d-7d58c91d0aed"
+   },
+   {
     "name": "ChrisNoSignal",
     "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
+   },
+   {
+    "name": "JohnDunsScotus",
+    "uuid": "d96a085f-1ca0-468a-b2b7-096fe2f70a4d"
    }
   ],
   "outlaws": [
@@ -670,8 +722,8 @@
     "uuid": "b01b4c57-4649-47ab-a6db-dce8821fd07a"
    },
    {
-    "name": "Elegant Dwelling",
-    "uuid": "2476a294-d7f9-4917-b4c9-275674777636"
+    "name": "Cheerful Property",
+    "uuid": "7fbc1e81-c042-452e-af7d-0b78a724eb8e"
    }
   ],
   "ranks": {

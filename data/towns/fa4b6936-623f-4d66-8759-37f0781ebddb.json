@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Urunamiu",
-  "uuid": "1aff88fe-7743-4967-8c40-26f9ca393ea3",
+  "name": "Summerside",
+  "uuid": "fa4b6936-623f-4d66-8759-37f0781ebddb",
   "board": "/town set board [msg]",
-  "founder": "UrasGames",
+  "founder": "Brightship",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "UrasGames",
-   "uuid": "76c93fa6-e133-4baa-8609-1ad140d2d9e7"
+   "name": "Brightship",
+   "uuid": "9491b6be-5570-44b8-a5cc-e7d7fff3005d"
   },
   "nation": {
-   "name": "Thailand",
-   "uuid": "950e2901-9272-42b4-94cf-39f730d29a06"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1780743846779,
-   "joinedNationAt": 1787067110628,
+   "registered": 1793059600759,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,79 +80,44 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35395.96016813742,
-    "y": 63.0,
-    "z": 3818.565604791559,
-    "pitch": -2.2500386,
-    "yaw": 159.97389
+    "x": -24638.120076593088,
+    "y": 65.0,
+    "z": -10777.473441725402,
+    "pitch": 6.9000077,
+    "yaw": 60.233765
    },
    "homeBlock": [
-    2212,
-    238
+    -1540,
+    -674
    ],
    "townBlocks": [
     [
-     2210,
-     238
-    ],
-    [
-     2211,
-     238
-    ],
-    [
-     2210,
-     237
-    ],
-    [
-     2211,
-     239
-    ],
-    [
-     2213,
-     237
-    ],
-    [
-     2210,
-     239
-    ],
-    [
-     2213,
-     238
-    ],
-    [
-     2211,
-     236
-    ],
-    [
-     2211,
-     237
-    ],
-    [
-     2212,
-     237
-    ],
-    [
-     2212,
-     238
-    ],
-    [
-     2212,
-     239
+     -1540,
+     -674
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "UrasGames",
-    "uuid": "76c93fa6-e133-4baa-8609-1ad140d2d9e7"
+    "name": "Brightship",
+    "uuid": "9491b6be-5570-44b8-a5cc-e7d7fff3005d"
+   },
+   {
+    "name": "Twisted_Dwarf",
+    "uuid": "81730c9a-10e2-4543-a1d1-6e185b5f586c"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Twisted_Dwarf",
+     "uuid": "81730c9a-10e2-4543-a1d1-6e185b5f586c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

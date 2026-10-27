@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Konotop",
   "uuid": "e0d23b8b-d902-472f-b0fb-bb1408458657",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 108,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 112,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 1011.0,
+   "balance": 979.0,
    "forSalePrice": null
   },
   "perms": {
@@ -141,6 +141,10 @@
     ],
     [
      730,
+     -764
+    ],
+    [
+     730,
      -765
     ],
     [
@@ -313,6 +317,10 @@
     ],
     [
      729,
+     -765
+    ],
+    [
+     729,
      -764
     ],
     [
@@ -362,6 +370,10 @@
     [
      728,
      -763
+    ],
+    [
+     731,
+     -764
     ],
     [
      728,
@@ -494,6 +506,10 @@
     [
      737,
      -761
+    ],
+    [
+     732,
+     -764
     ],
     [
      735,
@@ -534,6 +550,10 @@
    {
     "name": "f1ymmer",
     "uuid": "6a7665b3-d394-49e6-ac64-48846d50f3c4"
+   },
+   {
+    "name": "Myles16",
+    "uuid": "a80ea568-0c02-4212-abb9-6b21e72cb2d0"
    }
   ],
   "trusted": [
@@ -555,7 +575,48 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Elegant Quarter",
+    "uuid": "3d4bc641-cadb-46e6-8dd4-dd7fa67e3aa2"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "fa5a8549-73d6-42f5-b6a7-2228c54338ee"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "1c0d4a0a-6d29-40aa-bbc6-1c1ccd17a918"
+   },
+   {
+    "name": "Perturbing Property",
+    "uuid": "b29f0085-f251-4f88-b3ed-9049be561120"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "d4e3a279-e58e-4bb6-a509-548b8c497138"
+   },
+   {
+    "name": "Lovely Dwelling",
+    "uuid": "f56a3741-16b7-4f66-92e8-1a939b3954f9"
+   },
+   {
+    "name": "Perturbing Flat",
+    "uuid": "bfa47353-5009-45bf-98b5-c35873ace6e8"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "51765f1a-7962-48bd-96fc-5cbfae4fe266"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "d57b474e-4108-4f1a-874f-17fa5e026360"
+   },
+   {
+    "name": "Annoying Property",
+    "uuid": "cc830aa6-22f3-4a33-a8be-964ea87c3645"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

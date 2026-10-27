@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Pornic_Sud",
-  "uuid": "2e98a10b-ce80-4194-9657-ccdfe00ca8aa",
+  "name": "Fenborg",
+  "uuid": "d8a56dde-2462-4673-aba3-119e1f8ca2b2",
   "board": "/town set board [msg]",
-  "founder": "StayzGG",
+  "founder": "fenW",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "StayzGG",
-   "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+   "name": "fenW",
+   "uuid": "12a94702-9c48-42f5-b616-8d861fbe0b73"
   },
   "nation": {
-   "name": "Eire",
-   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
+   "name": "Denmark",
+   "uuid": "73f18d06-0647-4146-a27b-cfa22b5792b2"
   },
   "timestamps": {
-   "registered": 1787690968341,
-   "joinedNationAt": 1792531316937,
+   "registered": 1793048285884,
+   "joinedNationAt": 1793048301973,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 37,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 129.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,142 +80,182 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -537.5913865732512,
+    "x": 3777.419310625087,
     "y": 63.0,
-    "z": -9938.507110870996,
-    "pitch": 10.7998495,
-    "yaw": -50.500977
+    "z": -13238.850952659459,
+    "pitch": 17.850018,
+    "yaw": 100.50775
    },
    "homeBlock": [
-    -34,
-    -622
+    236,
+    -828
    ],
    "townBlocks": [
     [
-     -37,
-     -624
+     235,
+     -829
     ],
     [
-     -37,
-     -623
+     233,
+     -827
     ],
     [
-     -37,
-     -622
+     235,
+     -828
     ],
     [
-     -35,
-     -621
+     233,
+     -828
     ],
     [
-     -35,
-     -622
+     235,
+     -827
     ],
     [
-     -34,
-     -622
+     233,
+     -829
     ],
     [
-     -34,
-     -621
+     238,
+     -829
     ],
     [
-     -34,
-     -624
+     232,
+     -827
     ],
     [
-     -31,
-     -621
+     241,
+     -829
     ],
     [
-     -34,
-     -623
+     232,
+     -829
     ],
     [
-     -31,
-     -622
+     241,
+     -828
     ],
     [
-     -35,
-     -623
+     232,
+     -828
     ],
     [
-     -31,
-     -623
+     239,
+     -827
     ],
     [
-     -35,
-     -624
+     241,
+     -827
     ],
     [
-     -31,
-     -624
+     239,
+     -828
     ],
     [
-     -36,
-     -623
+     237,
+     -827
     ],
     [
-     -33,
-     -623
+     237,
+     -828
     ],
     [
-     -36,
-     -622
+     238,
+     -828
     ],
     [
-     -33,
-     -622
+     237,
+     -829
     ],
     [
-     -33,
-     -621
+     238,
+     -827
     ],
     [
-     -33,
-     -620
+     242,
+     -827
     ],
     [
-     -36,
-     -624
+     240,
+     -827
     ],
     [
-     -33,
-     -624
+     242,
+     -828
     ],
     [
-     -32,
-     -624
+     242,
+     -829
     ],
     [
-     -32,
-     -623
+     242,
+     -830
     ],
     [
-     -32,
-     -622
+     240,
+     -830
     ],
     [
-     -32,
-     -621
+     234,
+     -829
+    ],
+    [
+     234,
+     -830
+    ],
+    [
+     234,
+     -827
+    ],
+    [
+     240,
+     -828
+    ],
+    [
+     234,
+     -828
+    ],
+    [
+     240,
+     -829
+    ],
+    [
+     236,
+     -829
+    ],
+    [
+     236,
+     -828
+    ],
+    [
+     236,
+     -827
+    ],
+    [
+     239,
+     -829
+    ],
+    [
+     241,
+     -830
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Voizzzd",
-    "uuid": "1968d727-b364-4351-9714-ac9d67141570"
-   },
-   {
-    "name": "StayzGG",
-    "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+    "name": "fenW",
+    "uuid": "12a94702-9c48-42f5-b616-8d861fbe0b73"
    }
   ],
   "trusted": [
    {
-    "name": "Guibsadminshalla",
-    "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
+    "name": "Aradiante",
+    "uuid": "da8c04d6-ea79-4f2b-bb62-d263ab0e582a"
+   },
+   {
+    "name": "XLNuggets",
+    "uuid": "341b028f-07d8-4dcb-9f17-711d38f713f5"
    }
   ],
   "outlaws": [],

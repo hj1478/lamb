@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Juneau",
-  "uuid": "16c2c21f-9ac2-4418-9a7c-646fe2d86ede",
-  "board": "Home of the Tlingit People",
-  "founder": "coorslightyear",
+  "name": "Seaside_Fl",
+  "uuid": "83444e28-919d-4b90-99d3-69ba3d831332",
+  "board": "/town set board [msg]",
+  "founder": "Nomegranate",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "coorslightyear",
-   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+   "name": "Nomegranate",
+   "uuid": "e0e53140-679e-4451-8518-5b3d584c9e0e"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": "Gulf_Union",
+   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
-   "registered": 1792498362760,
-   "joinedNationAt": 1792498571517,
+   "registered": 1793065390265,
+   "joinedNationAt": 1793065429065,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,50 +80,37 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -48182.62475734805,
-    "y": 64.0,
-    "z": -15685.503313902107,
-    "pitch": 20.849976,
-    "yaw": 88.627716
+    "x": -30851.581964664736,
+    "y": 62.9375,
+    "z": -3163.676396445828,
+    "pitch": 17.9999,
+    "yaw": 114.34094
    },
    "homeBlock": [
-    -3012,
-    -981
+    -1929,
+    -198
    ],
    "townBlocks": [
     [
-     -3013,
-     -981
+     -1929,
+     -198
     ],
     [
-     -3012,
-     -981
-    ],
-    [
-     -3012,
-     -982
+     -1929,
+     -197
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "coorslightyear",
-    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+    "name": "Nomegranate",
+    "uuid": "e0e53140-679e-4451-8518-5b3d584c9e0e"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [
-   {
-    "name": "Apartment 2A",
-    "uuid": "b40f6a33-9a04-4a21-bc2a-2b6bcb70f945"
-   },
-   {
-    "name": "Apartment 1A",
-    "uuid": "d6691009-4057-46ca-b06b-59b3d86de81c"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

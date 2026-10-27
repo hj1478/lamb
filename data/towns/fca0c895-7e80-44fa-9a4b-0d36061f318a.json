@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Belgrade",
   "uuid": "fca0c895-7e80-44fa-9a4b-0d36061f318a",
-  "board": "0smancik lapis empire",
+  "board": "The white phoenix.",
   "founder": "MrDanj",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Batom0",
-   "uuid": "326580ef-317e-4f90-893a-1adc12fddbfc"
+   "name": "real_ttym",
+   "uuid": "d2c6bb32-6bee-4d1a-8766-9efd219bbf5d"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": "Yugoslavia",
+   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
   },
   "timestamps": {
    "registered": 1776453745916,
-   "joinedNationAt": 1792079794721,
+   "joinedNationAt": 1792749577555,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 60,
    "numResidents": 8,
-   "numTrusted": 0,
+   "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 94.0,
    "forSalePrice": null
   },
   "perms": {
@@ -672,8 +672,8 @@
   },
   "residents": [
    {
-    "name": "Ender_lotl",
-    "uuid": "ee602783-5a5a-4155-9e53-a4befc180a0c"
+    "name": "hermhm3344",
+    "uuid": "16a31846-a03a-4717-afbe-0ff504daab62"
    },
    {
     "name": "Helojelomelo",
@@ -688,10 +688,6 @@
     "uuid": "4b09f100-2d2a-49ad-af26-628fb22273aa"
    },
    {
-    "name": "Batom0",
-    "uuid": "326580ef-317e-4f90-893a-1adc12fddbfc"
-   },
-   {
     "name": "myboistefan",
     "uuid": "e6c43c5c-1554-4181-9b26-aedf4dbe2476"
    },
@@ -702,9 +698,26 @@
    {
     "name": "_4SIGHT_",
     "uuid": "9c6cb0a7-3bd8-4d06-98c9-199b6cf07cb8"
+   },
+   {
+    "name": "real_ttym",
+    "uuid": "d2c6bb32-6bee-4d1a-8766-9efd219bbf5d"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "poszan",
+    "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+   },
+   {
+    "name": "IceWolfTO",
+    "uuid": "4856417a-e991-4857-9ecc-1533ec35b9b7"
+   },
+   {
+    "name": "BiggieCevap",
+    "uuid": "27ed34e6-cced-47a4-bdf0-f9cfac7a974e"
+   }
+  ],
   "outlaws": [
    {
     "name": "MustangCricket",
@@ -713,48 +726,8 @@
   ],
   "quarters": [
    {
-    "name": "Apartment #6",
-    "uuid": "a9dba5b6-8d21-420d-8b7c-4bcfd854401e"
-   },
-   {
-    "name": "Apartment #4",
-    "uuid": "c0cdd9ef-9daf-4817-bc9a-3d2bb833fb9a"
-   },
-   {
-    "name": "Apartment #3",
-    "uuid": "700f919b-dd56-49ea-81b8-41c77223e9ba"
-   },
-   {
-    "name": "Apartment #7",
-    "uuid": "1a01c2f8-b20a-4ce5-a545-dd9126189b98"
-   },
-   {
-    "name": "Apartment #2",
-    "uuid": "63ec80de-d6d1-4d4c-9192-b64a7fa9b682"
-   },
-   {
-    "name": "Apartment #1",
-    "uuid": "786fb4e8-96c9-489e-b1c9-da0b1b4c16f8"
-   },
-   {
-    "name": "Apartment #5",
-    "uuid": "3bc2691e-b328-4d46-aab8-25cd05b1d76d"
-   },
-   {
-    "name": "Apartment #15",
-    "uuid": "b0d3b4f9-91b8-4e76-a321-c914d9e2d92e"
-   },
-   {
     "name": "Apartment #8",
     "uuid": "9254ab7d-b0af-47cd-8d1b-07e5d0347d0e"
-   },
-   {
-    "name": "Apartment #11",
-    "uuid": "8dd1572b-6d56-431f-bc89-fa1f0fca4d6f"
-   },
-   {
-    "name": "Apartment #14",
-    "uuid": "b218e1d1-b9bd-4281-b602-998b04a13bd1"
    },
    {
     "name": "Apartment #13",
@@ -775,6 +748,46 @@
    {
     "name": "Apartment #9",
     "uuid": "8d2aef41-0396-4c48-aa0e-5cadd5280eaf"
+   },
+   {
+    "name": "Apartment #7",
+    "uuid": "1a01c2f8-b20a-4ce5-a545-dd9126189b98"
+   },
+   {
+    "name": "Apartment #1",
+    "uuid": "786fb4e8-96c9-489e-b1c9-da0b1b4c16f8"
+   },
+   {
+    "name": "Apartment #2",
+    "uuid": "63ec80de-d6d1-4d4c-9192-b64a7fa9b682"
+   },
+   {
+    "name": "Apartment #3",
+    "uuid": "700f919b-dd56-49ea-81b8-41c77223e9ba"
+   },
+   {
+    "name": "Apartment #4",
+    "uuid": "c0cdd9ef-9daf-4817-bc9a-3d2bb833fb9a"
+   },
+   {
+    "name": "Apartment #5",
+    "uuid": "3bc2691e-b328-4d46-aab8-25cd05b1d76d"
+   },
+   {
+    "name": "Apartment #6",
+    "uuid": "a9dba5b6-8d21-420d-8b7c-4bcfd854401e"
+   },
+   {
+    "name": "Apartment #15",
+    "uuid": "b0d3b4f9-91b8-4e76-a321-c914d9e2d92e"
+   },
+   {
+    "name": "Apartment #11",
+    "uuid": "8dd1572b-6d56-431f-bc89-fa1f0fca4d6f"
+   },
+   {
+    "name": "Apartment #14",
+    "uuid": "b218e1d1-b9bd-4281-b602-998b04a13bd1"
    }
   ],
   "ranks": {

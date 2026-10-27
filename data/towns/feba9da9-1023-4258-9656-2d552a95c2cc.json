@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Kirkistan",
   "uuid": "feba9da9-1023-4258-9656-2d552a95c2cc",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Thorgny",
-   "uuid": "62a9c2d1-a8cf-42ee-8921-376ff25fccae"
+   "name": "NPC81",
+   "uuid": "2af07b13-d568-2040-aa05-021d4fe1138f"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789243761953,
-   "joinedNationAt": 1789243792701,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1792922405625
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Thorgny",
-    "uuid": "62a9c2d1-a8cf-42ee-8921-376ff25fccae"
+    "name": "NPC81",
+    "uuid": "2af07b13-d568-2040-aa05-021d4fe1138f"
    }
   ],
   "trusted": [

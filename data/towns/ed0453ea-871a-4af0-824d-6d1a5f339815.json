@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Vidin",
   "uuid": "ed0453ea-871a-4af0-824d-6d1a5f339815",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     509,
+     -556
+    ],
+    [
+     509,
+     -557
+    ],
+    [
+     509,
+     -555
+    ],
+    [
+     510,
+     -556
+    ],
+    [
      510,
      -557
     ]
@@ -104,7 +120,16 @@
     "uuid": "4e78a0ec-8d92-421c-939d-4522b55d2f9e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "btwDuckman",
+    "uuid": "60c86187-f252-4852-8737-6d2a701742f8"
+   },
+   {
+    "name": "Ripherrr",
+    "uuid": "5e167869-f5f6-4c80-a3f0-73dfffb3d79b"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Sierra_Maestra",
-  "uuid": "c489f1c2-579e-4167-b070-15c2d8bde51f",
+  "name": "Breckenridge",
+  "uuid": "793ccca8-9d7a-432f-8e66-6938d586b34e",
   "board": "/town set board [msg]",
-  "founder": "tschawo178",
+  "founder": "Konankadanka30",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC53",
-   "uuid": "b675df98-f54b-2023-8761-1b5907beb111"
+   "name": "Konankadanka30",
+   "uuid": "25256cd7-af88-4fdb-b684-5c6561742166"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786815524450,
+   "registered": 1793060652753,
    "joinedNationAt": null,
-   "ruinedAt": 1792765886335
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,85 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27499.49688416045,
-    "y": 85.9375,
-    "z": 700.701133434464,
-    "pitch": -1.2000246,
-    "yaw": -177.45016
+    "x": -36937.826912135686,
+    "y": 85.0,
+    "z": -7336.086948778225,
+    "pitch": 24.450024,
+    "yaw": -4.3399963
    },
    "homeBlock": [
-    -1719,
-    43
+    -2309,
+    -459
    ],
    "townBlocks": [
     [
-     -1720,
-     44
-    ],
-    [
-     -1720,
-     43
-    ],
-    [
-     -1718,
-     43
-    ],
-    [
-     -1718,
-     44
-    ],
-    [
-     -1719,
-     43
-    ],
-    [
-     -1719,
-     44
+     -2309,
+     -459
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "tschawo178",
-    "uuid": "6aca43ff-badb-4a9c-a3dd-77e9c846a8d9"
-   },
-   {
-    "name": "NPC53",
-    "uuid": "b675df98-f54b-2023-8761-1b5907beb111"
+    "name": "Konankadanka30",
+    "uuid": "25256cd7-af88-4fdb-b684-5c6561742166"
    }
   ],
   "trusted": [],

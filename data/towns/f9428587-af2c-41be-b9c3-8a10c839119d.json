@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Narekavan",
+  "name": "Jewtopia",
   "uuid": "f9428587-af2c-41be-b9c3-8a10c839119d",
-  "board": "/town set board [msg]",
+  "board": "Armenian Singapore of the Middle East",
   "founder": "coorslightyear",
   "wiki": null,
   "discord": null,
@@ -12,20 +12,20 @@
    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
   },
   "nation": {
-   "name": "Eastern_Anatolia",
+   "name": "Bagratid",
    "uuid": "11012001-f00b-42e4-851d-d816b278b9a3"
   },
   "timestamps": {
    "registered": 1792773344215,
-   "joinedNationAt": 1792773378300,
+   "joinedNationAt": 1792844269448,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 58,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 10,
+   "numResidents": 4,
    "numTrusted": 1,
-   "numOutlaws": 0,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,18 +80,66 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17602.15168391631,
+    "x": 17730.69999998808,
     "y": 63.0,
-    "z": -3180.4348033833767,
-    "pitch": 28.83279,
-    "yaw": -4.0727844
+    "z": -3202.304226788337,
+    "pitch": -0.80919456,
+    "yaw": 125.23189
    },
    "homeBlock": [
-    1100,
-    -199
+    1108,
+    -201
    ],
    "townBlocks": [
     [
+     1104,
+     -204
+    ],
+    [
+     1104,
+     -203
+    ],
+    [
+     1104,
+     -202
+    ],
+    [
+     1106,
+     -201
+    ],
+    [
+     1106,
+     -202
+    ],
+    [
+     1106,
+     -203
+    ],
+    [
+     1106,
+     -204
+    ],
+    [
+     1106,
+     -197
+    ],
+    [
+     1104,
+     -197
+    ],
+    [
+     1106,
+     -198
+    ],
+    [
+     1106,
+     -199
+    ],
+    [
+     1106,
+     -200
+    ],
+    [
      1101,
      -199
     ],
@@ -112,60 +160,148 @@
      -200
     ],
     [
+     1101,
+     -201
+    ],
+    [
      1099,
      -200
     ],
     [
-     1101,
+     1104,
+     -199
+    ],
+    [
+     1099,
      -201
+    ],
+    [
+     1104,
+     -198
+    ],
+    [
+     1108,
+     -202
+    ],
+    [
+     1108,
+     -201
+    ],
+    [
+     1108,
+     -200
+    ],
+    [
+     1108,
+     -199
+    ],
+    [
+     1108,
+     -198
+    ],
+    [
+     1102,
+     -200
+    ],
+    [
+     1102,
+     -199
+    ],
+    [
+     1102,
+     -201
+    ],
+    [
+     1102,
+     -198
     ],
     [
      1098,
      -200
     ],
     [
-     1104,
-     -199
-    ],
-    [
-     1099,
-     -201
-    ],
-    [
      1098,
      -201
     ],
     [
-     1102,
-     -200
+     1105,
+     -205
+    ],
+    [
+     1107,
+     -197
     ],
     [
      1103,
      -200
     ],
     [
-     1102,
-     -199
+     1107,
+     -201
     ],
     [
      1103,
      -201
     ],
     [
-     1102,
-     -201
+     1107,
+     -200
+    ],
+    [
+     1107,
+     -199
+    ],
+    [
+     1107,
+     -198
+    ],
+    [
+     1103,
+     -197
+    ],
+    [
+     1107,
+     -204
+    ],
+    [
+     1103,
+     -198
+    ],
+    [
+     1107,
+     -203
     ],
     [
      1103,
      -199
+    ],
+    [
+     1107,
+     -202
+    ],
+    [
+     1105,
+     -203
+    ],
+    [
+     1105,
+     -204
     ],
     [
      1105,
      -201
     ],
     [
+     1105,
+     -202
+    ],
+    [
      1100,
      -200
+    ],
+    [
+     1105,
+     -199
     ],
     [
      1100,
@@ -176,8 +312,16 @@
      -200
     ],
     [
+     1105,
+     -197
+    ],
+    [
      1100,
      -201
+    ],
+    [
+     1105,
+     -198
     ]
    ],
    "worlds": {}
@@ -186,6 +330,18 @@
    {
     "name": "coorslightyear",
     "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+   },
+   {
+    "name": "TheUltraSigma",
+    "uuid": "ac301828-8a36-48f2-b85a-9e43ae26bea9"
+   },
+   {
+    "name": "Gouddroog",
+    "uuid": "b319b317-df9a-4eaa-bcd4-631d4ffb690d"
+   },
+   {
+    "name": "SluckmeFlashback",
+    "uuid": "2ee6e94c-607a-4223-82bc-b62d2cfa906f"
    }
   ],
   "trusted": [
@@ -194,7 +350,20 @@
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   },
+   {
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

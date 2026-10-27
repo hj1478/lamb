@@ -1,46 +1,46 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "Revenge",
-  "uuid": "e14f8f48-693e-4e51-8d58-0ec4aa29ce0c",
-  "board": "/town set board [msg]",
-  "founder": "K0LLECTER",
+  "name": "Sumy",
+  "uuid": "dffaba32-d4e6-4e88-91c3-a4ba7e2cdbbb",
+  "board": "Forest of the East",
+  "founder": "Good_Ukrainian",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "K0LLECTER",
-   "uuid": "9ceeee29-a9e8-4781-b70c-03cd607dc940"
+   "name": "Good_Ukrainian",
+   "uuid": "565b4885-65a1-4b37-a472-2e8dbc939d89"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
   },
   "timestamps": {
-   "registered": 1790269746087,
-   "joinedNationAt": null,
+   "registered": 1793057195234,
+   "joinedNationAt": 1793057214675,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,52 +80,35 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 47575.158560452546,
-    "y": 67.0,
-    "z": 10085.870478324572,
-    "pitch": 12.809854,
-    "yaw": -18.11731
+    "x": 12505.701997623095,
+    "y": 65.0,
+    "z": -11993.973835823535,
+    "pitch": 3.8961544,
+    "yaw": 112.947205
    },
    "homeBlock": [
-    2973,
-    630
+    781,
+    -750
    ],
    "townBlocks": [
     [
-     2972,
-     629
+     780,
+     -750
     ],
     [
-     2973,
-     629
-    ],
-    [
-     2973,
-     630
+     781,
+     -750
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "K0LLECTER",
-    "uuid": "9ceeee29-a9e8-4781-b70c-03cd607dc940"
+    "name": "Good_Ukrainian",
+    "uuid": "565b4885-65a1-4b37-a472-2e8dbc939d89"
    }
   ],
-  "trusted": [
-   {
-    "name": "Swightness",
-    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
-   },
-   {
-    "name": "Galaxor5",
-    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
-   },
-   {
-    "name": "dex247",
-    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

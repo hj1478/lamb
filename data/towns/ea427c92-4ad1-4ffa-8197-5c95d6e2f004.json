@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "CedarKey",
   "uuid": "ea427c92-4ad1-4ffa-8197-5c95d6e2f004",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 108,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 3,
-   "balance": 46.0,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -534,12 +534,24 @@
    {
     "name": "Artica_SnowPaw",
     "uuid": "8e7f7b3e-aada-40a9-9901-3433a8011482"
+   },
+   {
+    "name": "GeneralMonk",
+    "uuid": "da0718e0-43ab-4286-a4cf-8355c28794f0"
    }
   ],
   "trusted": [
    {
+    "name": "Senpaii_soupp",
+    "uuid": "f48d75f3-0d7b-4851-8006-f7008521fb93"
+   },
+   {
     "name": "PickleNodean",
     "uuid": "331fc53b-e043-47a4-b799-e7d8d764cbe4"
+   },
+   {
+    "name": "xTheWardenx",
+    "uuid": "099af2f1-9ed3-4343-b701-7538739c343c"
    }
   ],
   "outlaws": [
@@ -574,28 +586,12 @@
     "uuid": "3754e4c3-9d1b-4ff1-9636-7916428d6fbf"
    },
    {
-    "name": "Chocolate02",
-    "uuid": "3f0315d2-822e-4a1a-a779-5ea1181e35e9"
-   },
-   {
-    "name": "Chocolate01",
-    "uuid": "299837e3-ac31-44d3-a031-c535a5939bf4"
-   },
-   {
     "name": "Vanilla01",
     "uuid": "f2c7a406-f74d-49a9-b4d6-013bdbb9e25f"
    },
    {
     "name": "Vanilla02",
     "uuid": "00226c51-bb65-4c4c-b024-2e09b65c88ed"
-   },
-   {
-    "name": "Strawberry02",
-    "uuid": "ff46f7c5-82c4-4d46-9535-220140487e3b"
-   },
-   {
-    "name": "Strawberry01",
-    "uuid": "2d13c2b6-fa5b-484f-960d-b663521ae7bc"
    },
    {
     "name": "Taxes",
@@ -678,10 +674,6 @@
     "uuid": "9a57c50b-0f19-44ac-8ec9-126bd037e6d9"
    },
    {
-    "name": "Exit",
-    "uuid": "fb5a4b8a-bb10-4b5c-8fd7-35529792cbc2"
-   },
-   {
     "name": "Swordtail 01",
     "uuid": "3b1215df-d864-476a-b529-0ac1b67ebd95"
    },
@@ -712,6 +704,26 @@
    {
     "name": "Swordtail 05",
     "uuid": "fbb94267-4cf7-4ec9-829a-95e6c9cb49f2"
+   },
+   {
+    "name": "Exit",
+    "uuid": "fb5a4b8a-bb10-4b5c-8fd7-35529792cbc2"
+   },
+   {
+    "name": "Strawberry01",
+    "uuid": "2d13c2b6-fa5b-484f-960d-b663521ae7bc"
+   },
+   {
+    "name": "Strawberry02",
+    "uuid": "ff46f7c5-82c4-4d46-9535-220140487e3b"
+   },
+   {
+    "name": "Chocolate01",
+    "uuid": "299837e3-ac31-44d3-a031-c535a5939bf4"
+   },
+   {
+    "name": "Chocolate02",
+    "uuid": "3f0315d2-822e-4a1a-a779-5ea1181e35e9"
    }
   ],
   "ranks": {

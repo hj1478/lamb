@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
-  "name": "El-Aaiun",
-  "uuid": "945d9886-e393-4779-87d0-0e19104fe0c4",
+  "name": "East_Hwanghae",
+  "uuid": "6cd2d258-b2b6-425e-9ead-6f177a101205",
   "board": "/town set board [msg]",
-  "founder": "TikTakMine1992",
+  "founder": "Dominateaur",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC63",
-   "uuid": "c9c10800-76c6-2059-8521-89af84aec75f"
+   "name": "Dominateaur",
+   "uuid": "44d78dc7-cc31-4b15-9ffa-55df992fc661"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "DPRK",
+   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
   },
   "timestamps": {
-   "registered": 1777042997435,
-   "joinedNationAt": null,
-   "ruinedAt": 1792836000160
+   "registered": 1793064268783,
+   "joinedNationAt": 1793064274783,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,65 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3867.2339899311496,
-    "y": 63.0,
-    "z": -2603.5348832882414,
-    "pitch": 69.15005,
-    "yaw": 112.962524
+    "x": 45349.324135296294,
+    "y": 64.0,
+    "z": -6522.909889736724,
+    "pitch": 21.048332,
+    "yaw": -166.13818
    },
    "homeBlock": [
-    -242,
-    -163
+    2834,
+    -408
    ],
    "townBlocks": [
     [
-     -242,
-     -163
+     2834,
+     -408
+    ],
+    [
+     2834,
+     -407
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC63",
-    "uuid": "c9c10800-76c6-2059-8521-89af84aec75f"
+    "name": "Dominateaur",
+    "uuid": "44d78dc7-cc31-4b15-9ffa-55df992fc661"
    }
   ],
   "trusted": [],

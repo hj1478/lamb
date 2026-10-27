@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T11:48:31Z",
+ "fetched_at": "2026-10-27T12:22:53Z",
  "data": {
   "name": "Trablus",
   "uuid": "e9254ce4-82a2-46cb-9b21-7875618af2a9",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 124,
-   "maxTownBlocks": 202,
+   "numTownBlocks": 138,
+   "maxTownBlocks": 190,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 16,
-   "numTrusted": 4,
-   "numOutlaws": 3,
-   "balance": 1091.0,
+   "numResidents": 15,
+   "numTrusted": 6,
+   "numOutlaws": 8,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -112,6 +112,18 @@
      -268
     ],
     [
+     260,
+     -265
+    ],
+    [
+     260,
+     -266
+    ],
+    [
+     260,
+     -264
+    ],
+    [
      275,
      -262
     ],
@@ -154,10 +166,6 @@
     [
      281,
      -259
-    ],
-    [
-     261,
-     -263
     ],
     [
      281,
@@ -290,6 +298,10 @@
     [
      270,
      -264
+    ],
+    [
+     271,
+     -260
     ],
     [
      271,
@@ -320,6 +332,10 @@
      -260
     ],
     [
+     271,
+     -259
+    ],
+    [
      263,
      -265
     ],
@@ -341,13 +357,17 @@
     ],
     [
      268,
-     -264
+     -261
     ],
     [
      263,
      -269
     ],
     [
+     268,
+     -264
+    ],
+    [
      277,
      -259
     ],
@@ -372,6 +392,10 @@
      -265
     ],
     [
+     274,
+     -259
+    ],
+    [
      285,
      -260
     ],
@@ -385,6 +409,10 @@
     ],
     [
      285,
+     -261
+    ],
+    [
+     262,
      -261
     ],
     [
@@ -488,11 +516,11 @@
      -265
     ],
     [
-     274,
+     266,
      -261
     ],
     [
-     266,
+     274,
      -261
     ],
     [
@@ -504,16 +532,16 @@
      -263
     ],
     [
-     274,
-     -262
+     265,
+     -261
     ],
     [
      266,
      -262
     ],
     [
-     265,
-     -261
+     274,
+     -262
     ],
     [
      273,
@@ -526,6 +554,10 @@
     [
      273,
      -263
+    ],
+    [
+     273,
+     -259
     ],
     [
      273,
@@ -544,12 +576,12 @@
      -260
     ],
     [
-     276,
-     -259
-    ],
-    [
      269,
      -263
+    ],
+    [
+     276,
+     -259
     ],
     [
      269,
@@ -586,18 +618,43 @@
     [
      283,
      -261
+    ],
+    [
+     272,
+     -260
+    ],
+    [
+     272,
+     -259
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -381,
+       209
+      ],
+      [
+       -380,
+       209
+      ],
+      [
+       -381,
+       210
+      ],
+      [
+       -380,
+       210
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
     "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
-   },
-   {
-    "name": "IQVX",
-    "uuid": "9633fcb3-979e-4205-91a1-f4c617f92d83"
    },
    {
     "name": "Shauzy_",
@@ -632,20 +689,8 @@
     "uuid": "79f87fba-4dd5-49f5-b57d-081843673fca"
    },
    {
-    "name": "Panawells",
-    "uuid": "4a10ff64-2e0d-4f90-81a6-b9fd147d7c22"
-   },
-   {
-    "name": "DapperW",
-    "uuid": "47859254-b7a5-447d-9386-d9a32b518298"
-   },
-   {
     "name": "VurKac12",
     "uuid": "b85573fe-8cfa-4edb-ad39-29f98fdb8938"
-   },
-   {
-    "name": "bello514",
-    "uuid": "8bfaf789-2f32-4484-99b1-53d9a71a7586"
    },
    {
     "name": "Slime9234",
@@ -654,12 +699,28 @@
    {
     "name": "TacitusKillgore",
     "uuid": "289d318a-9d6a-415c-8cca-9dc14edbedb2"
+   },
+   {
+    "name": "Panteelaa",
+    "uuid": "41202fc4-aaa0-4a8c-b510-8b6af5b79ca7"
+   },
+   {
+    "name": "ogaal",
+    "uuid": "494453ba-8908-4791-a5db-c774992f34f3"
+   },
+   {
+    "name": "Frogs_Gaming",
+    "uuid": "480e4654-7dc4-4553-8508-0c61b54720dc"
    }
   ],
   "trusted": [
    {
     "name": "BaroqueMan",
     "uuid": "cbfefb43-fd35-4db5-b2f3-e2e919d55d96"
+   },
+   {
+    "name": "Clext",
+    "uuid": "0fd85f7c-5ac2-409c-87cf-2f8f6e95f9d6"
    },
    {
     "name": "Weed525",
@@ -672,6 +733,10 @@
    {
     "name": "glaggle2001",
     "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
+   },
+   {
+    "name": "Ali_dinocraft",
+    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
    }
   ],
   "outlaws": [
@@ -686,6 +751,26 @@
    {
     "name": "Underground0908",
     "uuid": "c1526d2d-c6b0-426b-b7d0-549aca36fd37"
+   },
+   {
+    "name": "theyendermen",
+    "uuid": "d3456f07-1582-4cdd-acd2-f6482e2d49a2"
+   },
+   {
+    "name": "AtillaKagan",
+    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   },
+   {
+    "name": "Intelligenz",
+    "uuid": "e26da781-b8cf-4acc-8084-dcaeb691dc03"
+   },
+   {
+    "name": "Vera2824",
+    "uuid": "1cb4692d-0f1c-4890-9b11-46f75bbe82f9"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    }
   ],
   "quarters": [
