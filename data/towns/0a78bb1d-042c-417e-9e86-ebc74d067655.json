@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Vagharshapat",
   "uuid": "0a78bb1d-042c-417e-9e86-ebc74d067655",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 80,
    "numResidents": 4,
    "numTrusted": 15,
-   "numOutlaws": 4,
-   "balance": 211.0,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -578,10 +578,6 @@
    {
     "name": "OpGoodFruit",
     "uuid": "f0c834e3-25df-4915-8c0b-8acc4883496b"
-   },
-   {
-    "name": "Tldigi",
-    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
   "quarters": [

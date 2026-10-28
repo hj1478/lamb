@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Palm_Shores",
   "uuid": "1ef86dfe-f7ac-4e46-ac76-380bcf35abe2",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,20 +80,36 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28907.505202611457,
-    "y": 63.0,
-    "z": -2309.2730531459765,
-    "pitch": 8.113505,
-    "yaw": -113.25064
+    "x": -28883.239911600554,
+    "y": 65.0625,
+    "z": -2312.1335885583585,
+    "pitch": 8.549987,
+    "yaw": 90.60425
    },
    "homeBlock": [
-    -1807,
+    -1806,
     -145
    ],
    "townBlocks": [
     [
      -1807,
      -145
+    ],
+    [
+     -1807,
+     -144
+    ],
+    [
+     -1806,
+     -145
+    ],
+    [
+     -1808,
+     -145
+    ],
+    [
+     -1806,
+     -144
     ]
    ],
    "worlds": {}
@@ -102,6 +118,10 @@
    {
     "name": "FLEXSTORM",
     "uuid": "4d1a6ca7-26bb-4ed5-a647-85d14baacc1b"
+   },
+   {
+    "name": "WayneSGrocott",
+    "uuid": "9e455923-ff56-4064-a06a-fb64c8569824"
    }
   ],
   "trusted": [],

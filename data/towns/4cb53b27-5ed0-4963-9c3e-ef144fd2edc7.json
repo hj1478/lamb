@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Owls_Gulch",
-  "uuid": "a0493c0e-d3e5-46be-80e4-9461befcae4e",
-  "board": "/town set board [msg]",
-  "founder": "PurplePlayz1223",
+  "name": "Ravenza",
+  "uuid": "4cb53b27-5ed0-4963-9c3e-ef144fd2edc7",
+  "board": "a Peaceful city next to the sea",
+  "founder": "Cheru09",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC29",
-   "uuid": "3dc5d9f7-9a3f-204a-bd84-9bcecc016c43"
+   "name": "Cheru09",
+   "uuid": "e3d0fcff-43df-449a-95c0-0086c97bd5de"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1788994555500,
+   "registered": 1793110720905,
    "joinedNationAt": null,
-   "ruinedAt": 1792922402351
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,97 +35,76 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34348.324737972835,
-    "y": 70.9375,
-    "z": -9785.014627998957,
-    "pitch": 22.43063,
-    "yaw": -139.57788
+    "x": 49770.29760166002,
+    "y": 63.0,
+    "z": -15045.201620201811,
+    "pitch": 13.650007,
+    "yaw": 6.057251
    },
    "homeBlock": [
-    -2147,
-    -612
+    3110,
+    -941
    ],
    "townBlocks": [
     [
-     -2148,
-     -611
-    ],
-    [
-     -2147,
-     -612
-    ],
-    [
-     -2147,
-     -611
-    ],
-    [
-     -2148,
-     -613
-    ],
-    [
-     -2148,
-     -612
+     3110,
+     -941
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC29",
-    "uuid": "3dc5d9f7-9a3f-204a-bd84-9bcecc016c43"
+    "name": "Cheru09",
+    "uuid": "e3d0fcff-43df-449a-95c0-0086c97bd5de"
    }
   ],
-  "trusted": [
-   {
-    "name": "ro_1022210",
-    "uuid": "89da8567-b51f-49f3-84eb-4a561091dbe6"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

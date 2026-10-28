@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Alata",
   "uuid": "1c89d092-41ad-4091-990e-da17ff41c78f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Emperor_Vlad",
-   "uuid": "9d6e57e1-fdf3-4a6b-b40e-346195566e9c"
+   "name": "NPC96",
+   "uuid": "710a2e86-e67e-2032-bcd3-5c79656eaa8a"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1791978339040,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1792946910568
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "Emperor_Vlad",
-    "uuid": "9d6e57e1-fdf3-4a6b-b40e-346195566e9c"
+    "name": "NPC96",
+    "uuid": "710a2e86-e67e-2032-bcd3-5c79656eaa8a"
    }
   ],
   "trusted": [],

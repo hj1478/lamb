@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Sao_Bartolomeu",
   "uuid": "045e361e-ab19-47d8-8a87-e6e30baea069",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
+   "numTownBlocks": 22,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 53.0,
+   "balance": 42.0,
    "forSalePrice": null
   },
   "perms": {
@@ -112,16 +112,16 @@
      1186
     ],
     [
+     -1214,
+     1189
+    ],
+    [
      -1213,
      1187
     ],
     [
      -1212,
      1185
-    ],
-    [
-     -1214,
-     1189
     ],
     [
      -1215,
@@ -136,6 +136,10 @@
      1186
     ],
     [
+     -1215,
+     1188
+    ],
+    [
      -1214,
      1187
     ],
@@ -154,6 +158,10 @@
     [
      -1212,
      1188
+    ],
+    [
+     -1215,
+     1189
     ],
     [
      -1214,
@@ -188,7 +196,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "GuilhermeWS",
+     "uuid": "db9663d6-50c1-4c3a-b97d-2bc0790bdec0"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

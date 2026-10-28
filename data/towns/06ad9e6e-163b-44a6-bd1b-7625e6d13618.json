@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Blancquefort",
   "uuid": "06ad9e6e-163b-44a6-bd1b-7625e6d13618",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mystikaosss",
-   "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
+   "name": "Unaali",
+   "uuid": "d436e380-3eb9-4c2b-9a0b-8fc8d0558e05"
   },
   "nation": {
    "name": "France",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 6,
-   "numTrusted": 7,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -57.57404701126635,
+    "x": -57.48063137754525,
     "y": 37.0,
-    "z": -9290.557308096268,
-    "pitch": -1.9500254,
-    "yaw": 1.904833
+    "z": -9290.608845624767,
+    "pitch": -1.3500226,
+    "yaw": -0.052612305
    },
    "homeBlock": [
     -4,
@@ -724,10 +724,6 @@
   },
   "residents": [
    {
-    "name": "Mystikaosss",
-    "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
-   },
-   {
     "name": "Bowbes8",
     "uuid": "baea8308-868b-4614-8922-20a3269852d9"
    },
@@ -746,38 +742,13 @@
    {
     "name": "Sirzerchs",
     "uuid": "f0cecfa2-2c15-470a-b375-cbdb0186f675"
+   },
+   {
+    "name": "Unaali",
+    "uuid": "d436e380-3eb9-4c2b-9a0b-8fc8d0558e05"
    }
   ],
-  "trusted": [
-   {
-    "name": "1n1troll3ur",
-    "uuid": "235aded2-b084-48c2-aec3-0bcc040cf25d"
-   },
-   {
-    "name": "alexxxandra",
-    "uuid": "2d7a75d1-d7e5-45b6-b51f-63c0cddd664a"
-   },
-   {
-    "name": "Ayskow",
-    "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
-   },
-   {
-    "name": "Oce_78",
-    "uuid": "25e7015d-8ad0-4c27-bb4e-a31b4c17e979"
-   },
-   {
-    "name": "SalmonEntity",
-    "uuid": "5a50d777-8491-44be-a62e-8e0724f3b6a5"
-   },
-   {
-    "name": "ArnaudoizV2",
-    "uuid": "442c5753-1ba5-4b2e-836d-cf73d0f46a32"
-   },
-   {
-    "name": "4Cinna",
-    "uuid": "cf1fd47e-3544-4ba4-9c86-a3696c7c98cc"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

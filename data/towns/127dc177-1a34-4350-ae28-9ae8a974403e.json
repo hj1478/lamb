@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Finerland",
   "uuid": "127dc177-1a34-4350-ae28-9ae8a974403e",
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1784114666463,
-   "joinedNationAt": 1789920607140,
+   "joinedNationAt": 1793137844113,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 104,
-   "maxTownBlocks": 98,
+   "numTownBlocks": 112,
+   "maxTownBlocks": 110,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 4,
-   "numTrusted": 6,
+   "numResidents": 5,
+   "numTrusted": 8,
    "numOutlaws": 1,
-   "balance": 95.0,
+   "balance": 188.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5577.042735724993,
+    "x": 5582.901574486531,
     "y": 86.0,
-    "z": -11141.668279891523,
-    "pitch": -6.5474358,
-    "yaw": -58.355225
+    "z": -11138.516784717296,
+    "pitch": 5.7876987,
+    "yaw": -90.75995
    },
    "homeBlock": [
     348,
@@ -133,6 +133,10 @@
     ],
     [
      347,
+     -701
+    ],
+    [
+     347,
      -700
     ],
     [
@@ -161,6 +165,10 @@
     ],
     [
      344,
+     -701
+    ],
+    [
+     344,
      -699
     ],
     [
@@ -186,6 +194,10 @@
     [
      345,
      -700
+    ],
+    [
+     345,
+     -701
     ],
     [
      345,
@@ -224,32 +236,16 @@
      -695
     ],
     [
-     350,
-     -692
-    ],
-    [
      346,
      -694
-    ],
-    [
-     350,
-     -693
     ],
     [
      346,
      -697
     ],
     [
-     350,
-     -694
-    ],
-    [
      346,
      -696
-    ],
-    [
-     350,
-     -695
     ],
     [
      346,
@@ -265,15 +261,19 @@
     ],
     [
      346,
+     -701
+    ],
+    [
+     346,
      -700
     ],
     [
      350,
-     -691
+     -700
     ],
     [
      350,
-     -700
+     -701
     ],
     [
      346,
@@ -317,11 +317,23 @@
     ],
     [
      349,
+     -701
+    ],
+    [
+     349,
      -694
+    ],
+    [
+     342,
+     -700
     ],
     [
      349,
      -693
+    ],
+    [
+     342,
+     -701
     ],
     [
      349,
@@ -352,12 +364,24 @@
      -691
     ],
     [
-     343,
+     342,
      -692
     ],
     [
      343,
+     -692
+    ],
+    [
+     342,
      -693
+    ],
+    [
+     343,
+     -693
+    ],
+    [
+     342,
+     -694
     ],
     [
      343,
@@ -404,15 +428,11 @@
      -691
     ],
     [
-     351,
-     -692
+     342,
+     -690
     ],
     [
-     351,
-     -693
-    ],
-    [
-     351,
+     342,
      -691
     ],
     [
@@ -422,6 +442,14 @@
     [
      343,
      -700
+    ],
+    [
+     343,
+     -701
+    ],
+    [
+     343,
+     -702
     ],
     [
      343,
@@ -492,12 +520,16 @@
      -697
     ],
     [
-     351,
-     -694
+     348,
+     -701
     ],
     [
      351,
-     -695
+     -700
+    ],
+    [
+     351,
+     -701
     ],
     [
      351,
@@ -520,12 +552,16 @@
     "uuid": "e2af9201-37e1-4313-9e0f-4ac17ed336e0"
    },
    {
-    "name": "D2e0S1K0OjK47nL",
-    "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
+    "name": "Atomic2344",
+    "uuid": "a10044e7-9ecc-456d-98a9-0038db7570ea"
    },
    {
-    "name": "CodeD3mon",
-    "uuid": "c0b28363-7133-404f-ba29-d2d878584a52"
+    "name": "PaggaManntje",
+    "uuid": "f0c2674f-54c6-4bc5-96bc-840144191041"
+   },
+   {
+    "name": "D2e0S1K0OjK47nL",
+    "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
    }
   ],
   "trusted": [
@@ -542,16 +578,24 @@
     "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
    },
    {
+    "name": "Atomic2344",
+    "uuid": "a10044e7-9ecc-456d-98a9-0038db7570ea"
+   },
+   {
     "name": "D2e0S1K0OjK47nL",
     "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
    },
    {
-    "name": "tessiebear73",
-    "uuid": "3579c23d-9fae-410a-ae73-2dc9c6473ff3"
+    "name": "PaggaManntje",
+    "uuid": "f0c2674f-54c6-4bc5-96bc-840144191041"
    },
    {
     "name": "0_Programmss_0",
     "uuid": "79ad17dd-ddf4-43e0-af39-be4cae04573b"
+   },
+   {
+    "name": "tessiebear73",
+    "uuid": "3579c23d-9fae-410a-ae73-2dc9c6473ff3"
    }
   ],
   "outlaws": [

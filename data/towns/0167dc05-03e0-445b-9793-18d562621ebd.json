@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Zlin",
   "uuid": "0167dc05-03e0-445b-9793-18d562621ebd",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 79,
-   "maxTownBlocks": 134,
+   "numTownBlocks": 94,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 7,
-   "numTrusted": 4,
-   "numOutlaws": 6,
-   "balance": 36.0,
+   "numResidents": 4,
+   "numTrusted": 3,
+   "numOutlaws": 7,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -106,6 +106,10 @@
     [
      401,
      -705
+    ],
+    [
+     401,
+     -699
     ],
     [
      401,
@@ -144,6 +148,10 @@
      -709
     ],
     [
+     401,
+     -710
+    ],
+    [
      393,
      -708
     ],
@@ -162,6 +170,10 @@
     [
      401,
      -707
+    ],
+    [
+     397,
+     -699
     ],
     [
      396,
@@ -241,7 +253,23 @@
     ],
     [
      398,
+     -699
+    ],
+    [
+     398,
      -700
+    ],
+    [
+     398,
+     -711
+    ],
+    [
+     398,
+     -709
+    ],
+    [
+     398,
+     -710
     ],
     [
      398,
@@ -300,6 +328,10 @@
      -705
     ],
     [
+     400,
+     -699
+    ],
+    [
      402,
      -706
     ],
@@ -308,8 +340,20 @@
      -705
     ],
     [
+     400,
+     -709
+    ],
+    [
      395,
      -706
+    ],
+    [
+     400,
+     -711
+    ],
+    [
+     400,
+     -710
     ],
     [
      395,
@@ -384,12 +428,28 @@
      -705
     ],
     [
+     399,
+     -710
+    ],
+    [
      394,
      -706
     ],
     [
      399,
+     -709
+    ],
+    [
+     399,
+     -711
+    ],
+    [
+     399,
      -700
+    ],
+    [
+     399,
+     -699
     ],
     [
      399,
@@ -412,18 +472,6 @@
   },
   "residents": [
    {
-    "name": "Parcafan",
-    "uuid": "15c8167a-dda3-4095-ac1e-12160915fea6"
-   },
-   {
-    "name": "Vitaal007",
-    "uuid": "f582760c-03f6-4f50-8cde-868447057883"
-   },
-   {
-    "name": "Zman228",
-    "uuid": "965674c1-67fd-48a2-ab69-c9c471afc597"
-   },
-   {
     "name": "Klirxus",
     "uuid": "fc5151c7-ec0d-414e-8fcb-d08c846caec7"
    },
@@ -441,10 +489,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "Maraotay",
-    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
-   },
    {
     "name": "AlbireoCZ",
     "uuid": "4275d88e-dc68-49af-8a47-2603da0a35f1"
@@ -482,6 +526,10 @@
    {
     "name": "AlexTheBest048",
     "uuid": "d3fc9bb3-f77d-4e50-a98b-e69d81d8b5b9"
+   },
+   {
+    "name": "Dummypotato",
+    "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
    }
   ],
   "quarters": [],

@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Fort_St_Svetlana",
-  "uuid": "1a93e7c1-ac8c-43f1-ba64-5b124e0f8a5c",
-  "board": "the fort of peace",
-  "founder": "ulaloop",
+  "name": "East_Prague",
+  "uuid": "6a46011c-6884-46ea-8d65-06f3520ebf29",
+  "board": "/town set board [msg]",
+  "founder": "SNAPYBATTY",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ulaloop",
-   "uuid": "9cca8f74-c016-4f2f-bfa5-b5ace7bbf0fa"
+   "name": "SNAPYBATTY",
+   "uuid": "d1398d7d-bd54-4200-8fb1-7d3eb533023c"
   },
   "nation": {
-   "name": "Sakha_Republic",
-   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
   },
   "timestamps": {
-   "registered": 1784985040704,
-   "joinedNationAt": 1784985086005,
+   "registered": 1793127785256,
+   "joinedNationAt": 1793127867725,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,99 +80,60 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44228.2788368321,
-    "y": 62.9375,
-    "z": -20696.59630170534,
-    "pitch": 4.6500206,
-    "yaw": -88.35034
+    "x": 5558.8645211827925,
+    "y": 72.0,
+    "z": -11440.34611134318,
+    "pitch": 22.651676,
+    "yaw": -42.62805
    },
    "homeBlock": [
-    2764,
-    -1294
+    347,
+    -716
    ],
    "townBlocks": [
     [
-     2768,
-     -1294
+     347,
+     -715
     ],
     [
-     2768,
-     -1293
+     346,
+     -715
     ],
     [
-     2764,
-     -1293
+     348,
+     -716
     ],
     [
-     2767,
-     -1292
+     348,
+     -715
     ],
     [
-     2764,
-     -1295
+     346,
+     -716
     ],
     [
-     2767,
-     -1293
+     347,
+     -717
     ],
     [
-     2764,
-     -1294
-    ],
-    [
-     2767,
-     -1294
-    ],
-    [
-     2765,
-     -1292
-    ],
-    [
-     2763,
-     -1295
-    ],
-    [
-     2765,
-     -1293
-    ],
-    [
-     2763,
-     -1294
-    ],
-    [
-     2766,
-     -1292
-    ],
-    [
-     2766,
-     -1293
-    ],
-    [
-     2766,
-     -1294
-    ],
-    [
-     2766,
-     -1295
-    ],
-    [
-     2765,
-     -1294
-    ],
-    [
-     2765,
-     -1295
+     347,
+     -716
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ulaloop",
-    "uuid": "9cca8f74-c016-4f2f-bfa5-b5ace7bbf0fa"
+    "name": "SNAPYBATTY",
+    "uuid": "d1398d7d-bd54-4200-8fb1-7d3eb533023c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

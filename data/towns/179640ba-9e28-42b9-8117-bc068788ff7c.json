@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Sanliurfa",
   "uuid": "179640ba-9e28-42b9-8117-bc068788ff7c",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792925222206,
-   "joinedNationAt": 1792925340711,
+   "joinedNationAt": 1792929009584,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 95.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14358.909230544365,
+    "x": 14356.701997434238,
     "y": 72.0,
-    "z": -5726.572745996825,
-    "pitch": 37.650105,
-    "yaw": -121.86005
+    "z": -5716.742250433408,
+    "pitch": 20.55004,
+    "yaw": -152.15979
    },
    "homeBlock": [
     897,
@@ -92,8 +92,36 @@
    ],
    "townBlocks": [
     [
+     899,
+     -358
+    ],
+    [
+     898,
+     -358
+    ],
+    [
      898,
      -359
+    ],
+    [
+     898,
+     -360
+    ],
+    [
+     898,
+     -361
+    ],
+    [
+     899,
+     -359
+    ],
+    [
+     899,
+     -360
+    ],
+    [
+     899,
+     -361
     ],
     [
      897,
@@ -102,6 +130,14 @@
     [
      897,
      -358
+    ],
+    [
+     897,
+     -361
+    ],
+    [
+     897,
+     -360
     ]
    ],
    "worlds": {}
@@ -114,14 +150,28 @@
    {
     "name": "idobabo",
     "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
+   },
+   {
+    "name": "Eymen6116",
+    "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "idobabo",
+     "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Eymen6116",
+     "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

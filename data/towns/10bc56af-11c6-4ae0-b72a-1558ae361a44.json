@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Kabosu",
   "uuid": "10bc56af-11c6-4ae0-b72a-1558ae361a44",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Lunaticmapon007",
-   "uuid": "9289e1ac-40fb-4946-8d1c-323b95281f90"
+   "name": "NPC65",
+   "uuid": "e65a6b0c-3185-2032-9f3f-19f0043fc579"
   },
   "nation": {
-   "name": "Arabia",
-   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778897142080,
-   "joinedNationAt": 1784421052208,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793181601149
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -264,8 +264,8 @@
   },
   "residents": [
    {
-    "name": "Lunaticmapon007",
-    "uuid": "9289e1ac-40fb-4946-8d1c-323b95281f90"
+    "name": "NPC65",
+    "uuid": "e65a6b0c-3185-2032-9f3f-19f0043fc579"
    }
   ],
   "trusted": [],

@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Niambi",
-  "uuid": "445fe0f0-79a5-4a51-b1ba-deac3f15224f",
+  "name": "Zabljak",
+  "uuid": "e939de12-a665-4080-b1ac-aa4b97dd76a0",
   "board": "/town set board [msg]",
-  "founder": "The_Fairyman",
+  "founder": "Zet018",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "The_Fairyman",
-   "uuid": "7493f3e9-8677-422e-a691-f78ce86479ee"
+   "name": "Zet018",
+   "uuid": "4de7985c-9c42-435b-8c85-1a9df7ef4ee9"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789221178507,
+   "registered": 1793187580839,
    "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,40 +80,54 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12403.441980384081,
-    "y": 72.0,
-    "z": 11961.701805470582,
-    "pitch": 1.949773,
-    "yaw": -96.442444
+    "x": 6806.437044197435,
+    "y": 143.875,
+    "z": -8395.552160198575,
+    "pitch": 69.60001,
+    "yaw": 115.58435
    },
    "homeBlock": [
-    775,
-    747
+    425,
+    -525
    ],
    "townBlocks": [
     [
-     775,
-     747
-    ],
-    [
-     775,
-     748
+     425,
+     -525
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "The_Fairyman",
-    "uuid": "7493f3e9-8677-422e-a691-f78ce86479ee"
+    "name": "Zet018",
+    "uuid": "4de7985c-9c42-435b-8c85-1a9df7ef4ee9"
+   },
+   {
+    "name": "blauerfroschly",
+    "uuid": "75043def-1793-4ccf-9b48-5f84ec9d685c"
+   },
+   {
+    "name": "Nitinata12",
+    "uuid": "5ef5b091-b7de-4b3a-a2c3-a1b2a5c1319a"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Nitinata12",
+     "uuid": "5ef5b091-b7de-4b3a-a2c3-a1b2a5c1319a"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "blauerfroschly",
+     "uuid": "75043def-1793-4ccf-9b48-5f84ec9d685c"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

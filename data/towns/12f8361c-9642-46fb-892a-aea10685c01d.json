@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Trade",
   "uuid": "12f8361c-9642-46fb-892a-aea10685c01d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 216,
-   "maxTownBlocks": 280,
+   "numTownBlocks": 252,
+   "maxTownBlocks": 376,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
-   "numTrusted": 5,
+   "numResidents": 23,
+   "numTrusted": 7,
    "numOutlaws": 34,
-   "balance": 67.0,
+   "balance": 72.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4068.587722591288,
-    "y": 63.0,
-    "z": -13335.47620157794,
-    "pitch": -0.7095157,
-    "yaw": -90.26915
+    "x": 4081.6993521811455,
+    "y": 69.0,
+    "z": -13358.978746457457,
+    "pitch": 3.9059458,
+    "yaw": -90.26976
    },
    "homeBlock": [
-    254,
-    -834
+    255,
+    -835
    ],
    "townBlocks": [
     [
@@ -120,6 +120,10 @@
      -846
     ],
     [
+     264,
+     -845
+    ],
+    [
      248,
      -844
     ],
@@ -142,6 +146,22 @@
     [
      246,
      -842
+    ],
+    [
+     264,
+     -836
+    ],
+    [
+     264,
+     -835
+    ],
+    [
+     264,
+     -834
+    ],
+    [
+     264,
+     -833
     ],
     [
      256,
@@ -188,24 +208,52 @@
      -838
     ],
     [
+     264,
+     -841
+    ],
+    [
      256,
      -835
+    ],
+    [
+     264,
+     -840
     ],
     [
      256,
      -836
     ],
     [
+     264,
+     -839
+    ],
+    [
      256,
      -833
+    ],
+    [
+     264,
+     -838
     ],
     [
      256,
      -834
     ],
     [
+     264,
+     -837
+    ],
+    [
+     265,
+     -846
+    ],
+    [
      247,
      -842
+    ],
+    [
+     265,
+     -847
     ],
     [
      247,
@@ -214,6 +262,42 @@
     [
      247,
      -844
+    ],
+    [
+     265,
+     -842
+    ],
+    [
+     265,
+     -843
+    ],
+    [
+     265,
+     -844
+    ],
+    [
+     265,
+     -845
+    ],
+    [
+     265,
+     -838
+    ],
+    [
+     265,
+     -839
+    ],
+    [
+     265,
+     -840
+    ],
+    [
+     265,
+     -841
+    ],
+    [
+     265,
+     -837
     ],
     [
      250,
@@ -313,6 +397,10 @@
     ],
     [
      250,
+     -830
+    ],
+    [
+     250,
      -831
     ],
     [
@@ -320,8 +408,16 @@
      -828
     ],
     [
+     250,
+     -828
+    ],
+    [
      255,
      -827
+    ],
+    [
+     250,
+     -829
     ],
     [
      263,
@@ -386,6 +482,10 @@
     [
      263,
      -844
+    ],
+    [
+     263,
+     -845
     ],
     [
      263,
@@ -404,6 +504,10 @@
      -828
     ],
     [
+     262,
+     -846
+    ],
+    [
      258,
      -831
     ],
@@ -562,6 +666,10 @@
     [
      260,
      -831
+    ],
+    [
+     262,
+     -845
     ],
     [
      260,
@@ -673,6 +781,10 @@
     ],
     [
      252,
+     -828
+    ],
+    [
+     252,
      -829
     ],
     [
@@ -749,6 +861,10 @@
     ],
     [
      251,
+     -828
+    ],
+    [
+     251,
      -829
     ],
     [
@@ -776,6 +892,10 @@
      -833
     ],
     [
+     259,
+     -828
+    ],
+    [
      251,
      -834
     ],
@@ -798,6 +918,26 @@
     [
      249,
      -834
+    ],
+    [
+     249,
+     -829
+    ],
+    [
+     249,
+     -833
+    ],
+    [
+     249,
+     -832
+    ],
+    [
+     249,
+     -831
+    ],
+    [
+     249,
+     -830
     ],
     [
      254,
@@ -950,6 +1090,10 @@
     [
      261,
      -844
+    ],
+    [
+     261,
+     -845
     ],
     [
      254,
@@ -959,10 +1103,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "foxnation",
-    "uuid": "bb547134-e3d2-47e4-b027-231fd544c493"
-   },
    {
     "name": "Stef640",
     "uuid": "6a0b9b64-ed2f-4947-bfa0-bb4a6635ef39"
@@ -1016,8 +1156,44 @@
     "uuid": "3f68c890-9ddc-423f-a6c1-1ca34b9bd8ae"
    },
    {
-    "name": "Farmerinarmor",
-    "uuid": "779f0358-08de-4963-87d2-2bd5fdff95bd"
+    "name": "Yeager22",
+    "uuid": "05b34d8d-431a-438d-91ca-aa1d6ed185c5"
+   },
+   {
+    "name": "Delphy_MMXX",
+    "uuid": "c997bbab-b64a-4bf7-b86c-5998f9ef7f27"
+   },
+   {
+    "name": "FantacyDrlft",
+    "uuid": "608df108-8afb-4f08-b951-8094b5ab473f"
+   },
+   {
+    "name": "PaoDeQueijoDEUS",
+    "uuid": "5db2adab-85df-42d2-a5bc-18b3b9fdb43a"
+   },
+   {
+    "name": "jace678",
+    "uuid": "d9afb97b-fb14-4a4b-8604-7fb77268017f"
+   },
+   {
+    "name": "Saxon2021",
+    "uuid": "54c4c3b2-b04c-4293-9707-605e800167ae"
+   },
+   {
+    "name": "NicoMaster2929",
+    "uuid": "74e62a8e-dc2c-47c3-9d73-02ca0b4ed1cf"
+   },
+   {
+    "name": "MiauDichWeg",
+    "uuid": "2c5f2b3a-474e-4e3f-830c-86b645d989ae"
+   },
+   {
+    "name": "Void2019",
+    "uuid": "d86c618c-4270-484f-ac07-349fefc9550c"
+   },
+   {
+    "name": "SebaCieBije",
+    "uuid": "5a10ae0f-c47e-44bb-bef2-febd32c5492d"
    }
   ],
   "trusted": [
@@ -1032,6 +1208,14 @@
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "foxnation",
+    "uuid": "bb547134-e3d2-47e4-b027-231fd544c493"
+   },
+   {
+    "name": "Allags",
+    "uuid": "9f84b2cb-5c58-4110-9137-eda117f7a8dc"
    },
    {
     "name": "GrayMold9",
@@ -1052,10 +1236,6 @@
     "uuid": "4735ef09-ac88-430e-9389-9377d2abcb3a"
    },
    {
-    "name": "SaloCorey",
-    "uuid": "fea57df2-23dd-48c1-b63d-98eefa7d68a1"
-   },
-   {
     "name": "NoahShan",
     "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"
    },
@@ -1064,16 +1244,8 @@
     "uuid": "02d83fda-4308-4503-870a-21a27d354c99"
    },
    {
-    "name": "Horselover323",
-    "uuid": "1c3499e4-0213-4169-a5c0-645f4f0b8969"
-   },
-   {
     "name": "MrVinachi",
     "uuid": "a662b215-3b9d-46d2-90a0-04791e455113"
-   },
-   {
-    "name": "Subutai_",
-    "uuid": "9de6d3dd-d563-4e91-b0af-05a4216165db"
    },
    {
     "name": "Addychi01",
@@ -1116,10 +1288,6 @@
     "uuid": "dfb58cfc-18d0-4641-9866-56a5fa6a501c"
    },
    {
-    "name": "Veyronity",
-    "uuid": "5b8274bf-b162-4336-85a0-48f9d5380a78"
-   },
-   {
     "name": "FourAces2021",
     "uuid": "c1fbfe0f-55c7-43b6-9f48-799440d800d2"
    },
@@ -1152,20 +1320,12 @@
     "uuid": "fec8a941-ec29-4fe8-ace8-c662a74006f1"
    },
    {
-    "name": "ItzDarken",
-    "uuid": "4abef3c8-7dfb-40a3-8c5f-8c2f82bf874b"
-   },
-   {
     "name": "hungrybalong6",
     "uuid": "def0f314-4315-4dbf-9916-1b0151389e27"
    },
    {
     "name": "Aradiante",
     "uuid": "da8c04d6-ea79-4f2b-bb62-d263ab0e582a"
-   },
-   {
-    "name": "DunQuick",
-    "uuid": "15eeb159-e0b0-4ca8-b0d5-6b8080d087e9"
    },
    {
     "name": "XLNuggets",
@@ -1178,6 +1338,30 @@
    {
     "name": "mrnoobboi",
     "uuid": "46cb2b16-03eb-4a48-9185-815e56d6f6b3"
+   },
+   {
+    "name": "YellowVictini",
+    "uuid": "204f2ae1-547b-48f7-8f09-af11224dceec"
+   },
+   {
+    "name": "Dalynx09",
+    "uuid": "c42bb042-40c9-4972-935c-bbe4d9ed0325"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "KolonDee",
+    "uuid": "4e370281-392d-4113-9432-68074dc9a247"
+   },
+   {
+    "name": "ZuluComic411037",
+    "uuid": "a6ac37b8-0d06-432a-bcf6-c3cc488753fc"
    }
   ],
   "quarters": [
@@ -1188,10 +1372,6 @@
   ],
   "ranks": {
    "Councillor": [
-    {
-     "name": "foxnation",
-     "uuid": "bb547134-e3d2-47e4-b027-231fd544c493"
-    },
     {
      "name": "Stef640",
      "uuid": "6a0b9b64-ed2f-4947-bfa0-bb4a6635ef39"

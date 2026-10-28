@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Bathurst",
   "uuid": "142ab7c8-c22c-4d6d-983d-f081eaf66f87",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 53384.230402187095,
-    "y": 71.0,
-    "z": 20711.407525282713,
-    "pitch": 12.268095,
-    "yaw": -70.98102
+    "x": 53384.60440713461,
+    "y": 72.0625,
+    "z": 20708.50219998748,
+    "pitch": 3.7956777,
+    "yaw": -179.49847
    },
    "homeBlock": [
     3336,
@@ -92,7 +92,63 @@
    ],
    "townBlocks": [
     [
+     3334,
+     1295
+    ],
+    [
+     3334,
+     1294
+    ],
+    [
+     3334,
+     1293
+    ],
+    [
+     3338,
+     1293
+    ],
+    [
+     3337,
+     1295
+    ],
+    [
+     3337,
+     1294
+    ],
+    [
      3336,
+     1295
+    ],
+    [
+     3338,
+     1295
+    ],
+    [
+     3337,
+     1293
+    ],
+    [
+     3338,
+     1294
+    ],
+    [
+     3336,
+     1293
+    ],
+    [
+     3336,
+     1294
+    ],
+    [
+     3335,
+     1293
+    ],
+    [
+     3335,
+     1295
+    ],
+    [
+     3335,
      1294
     ]
    ],
@@ -102,6 +158,14 @@
    {
     "name": "dep94mitch",
     "uuid": "7f0ad2b1-401f-4f53-a228-c0a235cd38de"
+   },
+   {
+    "name": "mcdoronaldo",
+    "uuid": "2902b1c5-61a7-4136-8990-1de989b858cc"
+   },
+   {
+    "name": "kimtaekimti",
+    "uuid": "bc10767e-c9cb-400f-b44f-edacae076458"
    }
   ],
   "trusted": [],

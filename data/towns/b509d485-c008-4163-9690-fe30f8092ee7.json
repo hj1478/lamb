@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "AGALAR",
-  "uuid": "8834b0d3-a853-4294-b3ec-5e99bea419a4",
+  "name": "TDK_Central",
+  "uuid": "b509d485-c008-4163-9690-fe30f8092ee7",
   "board": "/town set board [msg]",
-  "founder": "idobabo",
+  "founder": "Samu444",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "idobabo",
-   "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
+   "name": "Samu444",
+   "uuid": "d46587f2-f531-41f7-8d59-c8fedb8ae210"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1792341894913,
-   "joinedNationAt": 1792838553803,
+   "registered": 1793132766618,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "nationBonus": 0,
+   "numResidents": 4,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,80 +73,91 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14144.733276881087,
-    "y": 96.0,
-    "z": -7474.670382091857,
-    "pitch": -1.6499768,
-    "yaw": 169.50488
+    "x": 10002.399472474102,
+    "y": 64.0,
+    "z": 8868.849159280251,
+    "pitch": 23.550783,
+    "yaw": 73.06537
    },
    "homeBlock": [
-    884,
-    -468
+    625,
+    554
    ],
    "townBlocks": [
     [
-     883,
-     -469
+     625,
+     554
     ],
     [
-     883,
-     -470
+     625,
+     555
     ],
     [
-     884,
-     -468
+     625,
+     553
     ],
     [
-     883,
-     -468
+     624,
+     554
     ],
     [
-     884,
-     -469
+     624,
+     553
+    ],
+    [
+     626,
+     555
+    ],
+    [
+     626,
+     554
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Eymen6116",
-    "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
+    "name": "Samu444",
+    "uuid": "d46587f2-f531-41f7-8d59-c8fedb8ae210"
    },
    {
-    "name": "Itzygz0636",
-    "uuid": "669b7d1b-8ae3-49a0-8f59-f18d603730a1"
+    "name": "HugoPunchYT",
+    "uuid": "4f8106ea-76aa-4670-bf24-004d946f731a"
    },
    {
-    "name": "idobabo",
-    "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
-   }
-  ],
-  "trusted": [
+    "name": "gamerjanjan",
+    "uuid": "b40974c4-e479-4b0e-a643-0f298ac39546"
+   },
    {
-    "name": "ArdaTe_",
-    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+    "name": "Lu1sf2",
+    "uuid": "19cd8ac2-48ef-4677-b786-2c5335464f5f"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [
     {
-     "name": "Itzygz0636",
-     "uuid": "669b7d1b-8ae3-49a0-8f59-f18d603730a1"
+     "name": "HugoPunchYT",
+     "uuid": "4f8106ea-76aa-4670-bf24-004d946f731a"
     }
    ],
    "Builder": [
     {
-     "name": "Eymen6116",
-     "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
+     "name": "gamerjanjan",
+     "uuid": "b40974c4-e479-4b0e-a643-0f298ac39546"
+    },
+    {
+     "name": "Lu1sf2",
+     "uuid": "19cd8ac2-48ef-4677-b786-2c5335464f5f"
     }
    ],
    "Recruiter": [],

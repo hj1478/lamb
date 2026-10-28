@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Lalambia",
   "uuid": "13009e40-830e-4b99-83bd-5cd17525287a",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32178.8939512647,
+    "x": -32170.4527602998,
     "y": 66.0,
-    "z": -210.67082147216937,
-    "pitch": -6.0822015,
-    "yaw": -172.27534
+    "z": -199.54592880938117,
+    "pitch": -11.0513935,
+    "yaw": -86.96271
    },
    "homeBlock": [
-    -2012,
-    -14
+    -2011,
+    -13
    ],
    "townBlocks": [
     [
@@ -142,6 +142,14 @@
     [
      -2011,
      -15
+    ],
+    [
+     -2010,
+     -12
+    ],
+    [
+     -2010,
+     -13
     ]
    ],
    "worlds": {}

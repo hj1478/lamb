@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Nordaustlandet",
   "uuid": "0f1bc465-e2e7-497c-a036-cd4566a8dfae",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8616.699999988079,
-    "y": 71.0,
-    "z": -29415.338999776803,
-    "pitch": 33.29992,
-    "yaw": 101.68881
+    "x": 8614.547323927141,
+    "y": 75.0,
+    "z": -29415.37058614087,
+    "pitch": 90.0,
+    "yaw": -91.212685
    },
    "homeBlock": [
     538,
@@ -92,7 +92,27 @@
    ],
    "townBlocks": [
     [
+     537,
+     -1838
+    ],
+    [
      538,
+     -1838
+    ],
+    [
+     538,
+     -1840
+    ],
+    [
+     538,
+     -1839
+    ],
+    [
+     537,
+     -1840
+    ],
+    [
+     537,
      -1839
     ]
    ],

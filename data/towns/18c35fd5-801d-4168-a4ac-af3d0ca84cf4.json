@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Medellin",
   "uuid": "18c35fd5-801d-4168-a4ac-af3d0ca84cf4",
-  "board": "Everything blooms here",
+  "board": "Where Everything Blooms (Ally of Alba)",
   "founder": "LuqDud3",
   "wiki": null,
   "discord": null,
@@ -22,25 +22,25 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 6,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -94,6 +94,42 @@
     [
      -1716,
      305
+    ],
+    [
+     -1715,
+     306
+    ],
+    [
+     -1716,
+     306
+    ],
+    [
+     -1715,
+     305
+    ],
+    [
+     -1715,
+     307
+    ],
+    [
+     -1717,
+     305
+    ],
+    [
+     -1718,
+     306
+    ],
+    [
+     -1716,
+     307
+    ],
+    [
+     -1717,
+     307
+    ],
+    [
+     -1717,
+     306
     ]
    ],
    "worlds": {}
@@ -102,9 +138,38 @@
    {
     "name": "LuqDud3",
     "uuid": "208cdb94-1ea8-4eb4-82ee-0cec21063f33"
+   },
+   {
+    "name": "mumu45t",
+    "uuid": "ca804a46-c9cf-4781-b2bf-8b94f829c110"
+   },
+   {
+    "name": "Camdaman23",
+    "uuid": "3c201886-df65-44d1-a4d1-70f28f54c7b2"
+   },
+   {
+    "name": "Amsbek",
+    "uuid": "6e342c5a-935f-493b-bc3d-f4cf5868ecdd"
+   },
+   {
+    "name": "Ghosty00O1",
+    "uuid": "250652c3-3e01-468f-9fd5-aa2fc75699fa"
+   },
+   {
+    "name": "LILstolfi",
+    "uuid": "a57df602-a459-4ee1-aced-9047d01d80ab"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Eucrazio",
+    "uuid": "8c5181ac-8b98-4863-b596-79f1a6978246"
+   },
+   {
+    "name": "Amsbek",
+    "uuid": "6e342c5a-935f-493b-bc3d-f4cf5868ecdd"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

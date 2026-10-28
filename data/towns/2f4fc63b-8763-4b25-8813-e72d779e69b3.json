@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Kirkistan",
-  "uuid": "feba9da9-1023-4258-9656-2d552a95c2cc",
+  "name": "New_Canada",
+  "uuid": "2f4fc63b-8763-4b25-8813-e72d779e69b3",
   "board": "/town set board [msg]",
-  "founder": "Thorgny",
+  "founder": "e3ea",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC81",
-   "uuid": "2af07b13-d568-2040-aa05-021d4fe1138f"
+   "name": "e3ea",
+   "uuid": "18a365e4-2d29-4e48-b2e9-5081317f9995"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
-   "registered": 1789243761953,
-   "joinedNationAt": null,
-   "ruinedAt": 1792922405625
+   "registered": 1793167255786,
+   "joinedNationAt": 1793167265687,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,80 +36,75 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9398.824430787598,
-    "y": 62.11076431274414,
-    "z": -7351.145197265972,
-    "pitch": 27.924797,
-    "yaw": -77.66747
+    "x": 47637.50304057627,
+    "y": 68.0,
+    "z": 18357.33652955533,
+    "pitch": 17.699987,
+    "yaw": -33.95114
    },
    "homeBlock": [
-    587,
-    -460
+    2977,
+    1147
    ],
    "townBlocks": [
     [
-     587,
-     -460
+     2977,
+     1147
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC81",
-    "uuid": "2af07b13-d568-2040-aa05-021d4fe1138f"
+    "name": "e3ea",
+    "uuid": "18a365e4-2d29-4e48-b2e9-5081317f9995"
    }
   ],
-  "trusted": [
-   {
-    "name": "Zyshia",
-    "uuid": "82e1631b-21c8-4a0b-b48a-a289076de313"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

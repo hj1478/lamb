@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Affenstadt",
   "uuid": "0d9d7e9a-ba5f-4a69-b47b-1f566ff2ea7d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "THE__TIME_WIZARD",
-   "uuid": "15e78476-aded-4360-991a-3ef858363a10"
+   "name": "NPC27",
+   "uuid": "eea28f55-d4f4-2099-be3b-fa516bc90659"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1785075837619,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793008800786
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "THE__TIME_WIZARD",
-    "uuid": "15e78476-aded-4360-991a-3ef858363a10"
+    "name": "NPC27",
+    "uuid": "eea28f55-d4f4-2099-be3b-fa516bc90659"
    }
   ],
   "trusted": [],

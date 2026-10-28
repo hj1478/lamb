@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Bleeding_Heart",
   "uuid": "06e2084d-a183-4857-a099-27bf0497fa29",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 3422.0,
+   "balance": 3976.0,
    "forSalePrice": null
   },
   "perms": {
@@ -206,9 +206,18 @@
    {
     "name": "Firingblind",
     "uuid": "1a832474-073b-4112-8d48-980d86415f43"
+   },
+   {
+    "name": "Auwowii",
+    "uuid": "2343cddf-0d08-420e-9f25-36dff69410e8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Auwowii",
+    "uuid": "2343cddf-0d08-420e-9f25-36dff69410e8"
+   }
+  ],
   "outlaws": [
    {
     "name": "Vfinestone",
@@ -221,6 +230,10 @@
     {
      "name": "tice__",
      "uuid": "128a2f6d-20d5-4f15-a011-9a9f074b3d1d"
+    },
+    {
+     "name": "Auwowii",
+     "uuid": "2343cddf-0d08-420e-9f25-36dff69410e8"
     }
    ],
    "Builder": [],

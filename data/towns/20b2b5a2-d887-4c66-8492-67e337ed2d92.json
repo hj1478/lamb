@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Guangzhou",
   "uuid": "20b2b5a2-d887-4c66-8492-67e337ed2d92",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 360,
-   "maxTownBlocks": 472,
+   "maxTownBlocks": 424,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 31,
+   "numResidents": 27,
    "numTrusted": 27,
    "numOutlaws": 3,
-   "balance": 241.0,
+   "balance": 206.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40582.05594242622,
+    "x": 40581.92190951225,
     "y": 54.0,
-    "z": -440.5473544437534,
-    "pitch": 1.4999647,
-    "yaw": 179.67473
+    "z": -440.2205404325567,
+    "pitch": -4.6499705,
+    "yaw": -179.72498
    },
    "homeBlock": [
     2536,
@@ -1548,10 +1548,6 @@
     "uuid": "170e6253-9b62-4ea5-ba6d-fc633daeff24"
    },
    {
-    "name": "Tommyxuan666",
-    "uuid": "ed5a549e-4068-43f3-ac7e-fdc67a6128d1"
-   },
-   {
     "name": "chinaplay",
     "uuid": "94774347-0a77-4e4b-bd26-56901276599f"
    },
@@ -1576,32 +1572,12 @@
     "uuid": "6ceec8be-4c4e-40d7-af63-89b3367e2b24"
    },
    {
-    "name": "Siberian_potato",
-    "uuid": "572d6f0a-6ac9-40cf-9881-7cfbd12c076c"
-   },
-   {
     "name": "7732_18_5",
     "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
    },
    {
-    "name": "leadraygaming",
-    "uuid": "09363860-f3de-4350-968b-f617b0027065"
-   },
-   {
     "name": "SOAIEST",
     "uuid": "1fccbb5d-ffbe-4111-b036-836b1a6bcd7e"
-   },
-   {
-    "name": "MCQWSK123",
-    "uuid": "83f0d41c-573b-4609-b703-add620ccc9ba"
-   },
-   {
-    "name": "Isgamer101",
-    "uuid": "a177004c-628a-4a00-8ef7-d54e195e565f"
-   },
-   {
-    "name": "Kubek456",
-    "uuid": "e97aacb6-620c-4138-a0bb-1764ee521df5"
    },
    {
     "name": "Kaishek_C",
@@ -1658,6 +1634,14 @@
    {
     "name": "Rynex_x",
     "uuid": "d30867be-afc6-410f-a87c-2d3395ed3918"
+   },
+   {
+    "name": "Auroramdl343",
+    "uuid": "3b32e87f-c93b-4b32-a582-bd0942a73d15"
+   },
+   {
+    "name": "fr1enship",
+    "uuid": "b933c991-f202-4ff2-bfa3-5677e50a2914"
    }
   ],
   "trusted": [
@@ -1786,10 +1770,6 @@
   ],
   "quarters": [
    {
-    "name": "-2F",
-    "uuid": "00471a32-8e15-400a-b6c7-7dbfcf4e2f18"
-   },
-   {
     "name": "Bland Suite",
     "uuid": "b87b5e31-4b98-4cf9-b5b5-586b82d8edfa"
    },
@@ -1870,28 +1850,12 @@
     "uuid": "38919d77-fad8-45d3-ac8f-895349536beb"
    },
    {
-    "name": "Dingy Apartment",
-    "uuid": "814ea932-f651-472f-877d-a674f1477735"
-   },
-   {
-    "name": "Enraging Suite",
-    "uuid": "d669a603-bd2c-4da5-9176-fb883ba71dd8"
-   },
-   {
     "name": "Luxurious Flat",
     "uuid": "17282f6b-dabd-4aee-8c5b-15136601d3ce"
    },
    {
     "name": "Cheerful Flat",
     "uuid": "83336954-63e8-4db8-8163-dff69f9fa3f0"
-   },
-   {
-    "name": "Enraging Suite",
-    "uuid": "6c9f16a2-9337-4d0f-86ba-29a5a4236bf0"
-   },
-   {
-    "name": "Bland Suite",
-    "uuid": "88206393-47f4-45b8-bcf8-ee8ae83b85d6"
    },
    {
     "name": "Dingy Dwelling",
@@ -1906,12 +1870,48 @@
     "uuid": "217e1417-1929-4a20-ab91-b0eb90215968"
    },
    {
-    "name": "Lovely Residence",
-    "uuid": "efcb1c93-5bb3-48e2-874f-84a3839f349c"
+    "name": "Bland Quarter",
+    "uuid": "106d63e4-ac07-4ef7-8d3e-3ce48bbe49a4"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "6c9f16a2-9337-4d0f-86ba-29a5a4236bf0"
+   },
+   {
+    "name": "Bland Suite",
+    "uuid": "88206393-47f4-45b8-bcf8-ee8ae83b85d6"
+   },
+   {
+    "name": "Dull Apartment",
+    "uuid": "36fec9f4-c54f-4151-896a-53517ee87ad7"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "c4dbbe90-2b20-402e-b51f-de6e76de2384"
+   },
+   {
+    "name": "Dull Property",
+    "uuid": "d484a1d1-cffa-4521-b62e-9c9f03bec5c3"
+   },
+   {
+    "name": "Dingy Apartment",
+    "uuid": "814ea932-f651-472f-877d-a674f1477735"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "d669a603-bd2c-4da5-9176-fb883ba71dd8"
+   },
+   {
+    "name": "云端摩天轮_Cloudtop_Ferris_Wheel",
+    "uuid": "49ff09f4-ac35-4307-aa3b-03f4e66844f5"
    },
    {
     "name": "Stylish Residence",
     "uuid": "a6921a86-4c2c-459d-b279-5e5df2dc3548"
+   },
+   {
+    "name": "-2F",
+    "uuid": "00471a32-8e15-400a-b6c7-7dbfcf4e2f18"
    }
   ],
   "ranks": {

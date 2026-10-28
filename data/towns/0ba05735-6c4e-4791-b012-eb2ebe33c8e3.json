@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Yafran",
   "uuid": "0ba05735-6c4e-4791-b012-eb2ebe33c8e3",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "InstantMoon",
-   "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+   "name": "Manoliaa",
+   "uuid": "7ae5500b-43b3-4ad4-af60-08070dd86857"
   },
   "nation": {
    "name": "Libya",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -94,17 +94,38 @@
     [
      259,
      -256
+    ],
+    [
+     259,
+     -255
+    ],
+    [
+     258,
+     -256
+    ],
+    [
+     260,
+     -256
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "Manoliaa",
+    "uuid": "7ae5500b-43b3-4ad4-af60-08070dd86857"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "DapperW",
+    "uuid": "47859254-b7a5-447d-9386-d9a32b518298"
+   },
+   {
     "name": "InstantMoon",
     "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Calavera",
-  "uuid": "f1a6aa86-8f02-4ddb-be7b-0a4f8989a459",
-  "board": "/town set board [msg]",
-  "founder": "loveproblemhihi",
+  "name": "Cuyahoga_Falls",
+  "uuid": "739fcb7a-6690-491c-9e57-06c0958f0395",
+  "board": "The river here lit on fire 3 times bc of cleveland",
+  "founder": "Kingbirdsb",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC32",
-   "uuid": "8938a3c7-698f-207e-bc1e-3d4ab14eceb6"
+   "name": "Kingbirdsb",
+   "uuid": "6cb216cb-7fdb-453a-9482-7765a5b86171"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
-   "registered": 1789276081919,
-   "joinedNationAt": null,
-   "ruinedAt": 1792922404112
+   "registered": 1793131131862,
+   "joinedNationAt": 1793142770196,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32380.707072395548,
-    "y": 63.0,
-    "z": 630.231428448506,
-    "pitch": 7.3500056,
-    "yaw": -3.3000488
+    "x": -29278.823618049537,
+    "y": 69.0,
+    "z": -7518.9210094300015,
+    "pitch": 18.149998,
+    "yaw": 85.48969
    },
    "homeBlock": [
-    -2024,
-    39
+    -1830,
+    -470
    ],
    "townBlocks": [
     [
-     -2024,
-     39
+     -1830,
+     -470
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC32",
-    "uuid": "8938a3c7-698f-207e-bc1e-3d4ab14eceb6"
+    "name": "Kingbirdsb",
+    "uuid": "6cb216cb-7fdb-453a-9482-7765a5b86171"
    }
   ],
   "trusted": [],

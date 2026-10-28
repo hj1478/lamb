@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Oakland",
   "uuid": "133af936-18c7-49c3-8a41-118037acc492",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 234,
-   "maxTownBlocks": 268,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 10,
    "numTrusted": 0,
-   "numOutlaws": 6,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -1053,32 +1053,8 @@
     "uuid": "81bf9da4-f08e-40c0-a889-235dbd08e0ab"
    },
    {
-    "name": "JohnDoe2019",
-    "uuid": "45ab96a7-09da-4bd2-85f6-15009eeb3602"
-   },
-   {
     "name": "jmdzack",
     "uuid": "c50a91db-ad9b-4427-9f20-da5a340127d0"
-   },
-   {
-    "name": "xX3li0087Xx",
-    "uuid": "df02f2d5-fac8-478e-bcca-ab52036facd0"
-   },
-   {
-    "name": "Pingu_4688",
-    "uuid": "5872d66c-50b7-4a61-9302-c089819aaae5"
-   },
-   {
-    "name": "MrB0ttHead",
-    "uuid": "ababc033-3ebe-4b50-952e-ae1099502d1f"
-   },
-   {
-    "name": "hipersonrecordin",
-    "uuid": "04014c73-e0b6-4f0c-a80f-c7412bdb2e33"
-   },
-   {
-    "name": "Hunter10499",
-    "uuid": "524d4c6d-6747-407c-9a18-5d731d012508"
    },
    {
     "name": "Crafty875",
@@ -1091,14 +1067,18 @@
    {
     "name": "THEKING1214",
     "uuid": "e8a72109-76ec-49fd-82fd-94091e115554"
+   },
+   {
+    "name": "Highpockets1987",
+    "uuid": "7d4bf66e-1427-429b-997f-0b4395af2f02"
+   },
+   {
+    "name": "JazzAndRiles",
+    "uuid": "c4d0d8fe-be38-46cf-9b07-827805d813d0"
    }
   ],
   "trusted": [],
   "outlaws": [
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
    {
     "name": "dedodegorila30cm",
     "uuid": "9f5ad137-7858-4525-aa08-03c265e5e8a1"
@@ -1106,10 +1086,6 @@
    {
     "name": "Jinvinho",
     "uuid": "0f8f56d2-34f0-4e72-8da1-92890379ed3f"
-   },
-   {
-    "name": "JA_Official",
-    "uuid": "2366796f-5a91-42d5-ba68-2b35943bd859"
    },
    {
     "name": "lntuit",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Mapart",
   "uuid": "1223bded-22ae-4647-9e30-f81e9816d4fe",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 13,
    "numOutlaws": 0,
-   "balance": 2283.0,
+   "balance": 3241.0,
    "forSalePrice": null
   },
   "perms": {
@@ -546,6 +546,10 @@
    {
     "name": "Aehmett",
     "uuid": "c14bb5d7-6d51-4e3f-a388-36d6a5992272"
+   },
+   {
+    "name": "tylordilian",
+    "uuid": "c70e7571-5e1c-47b2-85b1-492892e0de4a"
    }
   ],
   "trusted": [
@@ -753,10 +757,6 @@
     "uuid": "23265b37-e9ef-49ed-be6c-e60fe1e7b50c"
    },
    {
-    "name": "Upbeat Dwelling",
-    "uuid": "48c4dd08-afba-4460-830c-e87c8e1f6be9"
-   },
-   {
     "name": "Luxurious Tenement",
     "uuid": "7eaa4ca8-7ad2-442f-aace-a697de559aa7"
    },
@@ -771,10 +771,6 @@
    {
     "name": "Inviting Tenement",
     "uuid": "09fca1e9-ddfe-4190-8d91-23bec219001d"
-   },
-   {
-    "name": "Perturbing Suite",
-    "uuid": "e03dec91-be1f-497d-b043-3c582a64e9f8"
    },
    {
     "name": "Stylish Property",
@@ -1085,10 +1081,6 @@
     "uuid": "14508231-35ef-47a4-a525-55286eaaee2c"
    },
    {
-    "name": "Inviting Apartment",
-    "uuid": "8f6ebb5e-d08f-4c8b-9722-8fd259127fed"
-   },
-   {
     "name": "Inviting Flat",
     "uuid": "bc471ce3-4c62-4feb-883c-7a228e161eb7"
    },
@@ -1115,10 +1107,6 @@
    {
     "name": "Perturbing Property",
     "uuid": "43a0609f-4316-41a1-8181-8b89ac26eac5"
-   },
-   {
-    "name": "Elegant Residence",
-    "uuid": "1277d3d8-56b9-49cc-b4bd-1d84215c117d"
    },
    {
     "name": "Inconvenient Property",
@@ -1311,10 +1299,6 @@
    {
     "name": "Annoying Dwelling",
     "uuid": "ee89bd32-d8d2-4003-81fe-e0ac729d19e1"
-   },
-   {
-    "name": "Inconvenient Suite",
-    "uuid": "0cbfac19-c27b-48f0-9f62-263209d562c2"
    },
    {
     "name": "Inconvenient Suite",
@@ -1609,10 +1593,6 @@
     "uuid": "27c9eb65-9ed6-48cc-b05e-d45a40750031"
    },
    {
-    "name": "Bland Flat",
-    "uuid": "c199ecf2-3159-4df7-9a9b-65c69237d1b0"
-   },
-   {
     "name": "Stylish Property",
     "uuid": "afd2b77b-d7ab-4a02-9c1b-a1187905012c"
    },
@@ -1627,6 +1607,78 @@
    {
     "name": "Enraging Dwelling",
     "uuid": "f7c60a50-0d9b-4031-b8f8-b1a97ec56071"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "9297ee82-267c-46ff-9c30-35fc1b19eafb"
+   },
+   {
+    "name": "Perturbing Property",
+    "uuid": "3e9453e2-791f-462d-bdba-24d7067be3e1"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "f106f560-9183-40d4-8a77-38d4bad771e2"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "4bf5ea81-59b3-4f04-b78c-c921cac5f44f"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "f0f01661-bafc-406a-ac38-cfd5d02d89e9"
+   },
+   {
+    "name": "Stylish Flat",
+    "uuid": "820cad01-8cf5-4eae-9c83-83bca76bc47d"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "e3637363-d6ca-4b35-b000-b1eeaa6ad1ea"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "0f290a00-72c2-497a-bd1b-57d7939e6c1c"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "e36411d0-159b-4ebb-b3c3-a8deea3f6a21"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "4c40bb06-6af6-4b14-9248-c2991686ab6e"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "48c4dd08-afba-4460-830c-e87c8e1f6be9"
+   },
+   {
+    "name": "Bland Flat",
+    "uuid": "cd7207f1-e254-4310-ac32-7be90f2b51d9"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "486964da-0f7a-4591-b146-760b2242b26d"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "aadd678e-665f-4c09-a267-7e3838848959"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "247f7921-55dd-4204-a575-1ebb0989cbbf"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "dadc240c-05ec-470b-9bc4-788719234c67"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "e8f40a96-ff90-459f-86c1-e9738729d25c"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "b0f59627-7b4d-4334-8382-9730c564b1ac"
    }
   ],
   "ranks": {

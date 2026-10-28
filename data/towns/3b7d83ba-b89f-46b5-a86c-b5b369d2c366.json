@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Kilmore",
-  "uuid": "33fdcce0-2729-4607-b4bd-8836cd939c6b",
-  "board": "/town set board [msg]",
-  "founder": "vikaness",
+  "name": "Liberecc",
+  "uuid": "3b7d83ba-b89f-46b5-a86c-b5b369d2c366",
+  "board": "srdce severu cech",
+  "founder": "tegoel",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "vikaness",
-   "uuid": "519d7f8a-3410-4520-8fe4-a03524f15a44"
+   "name": "tegoel",
+   "uuid": "eb2f6abd-0919-402a-8986-cb193d1c2358"
   },
   "nation": {
-   "name": "Eire",
-   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
   },
   "timestamps": {
-   "registered": 1792829878711,
-   "joinedNationAt": 1792830366855,
+   "registered": 1793115306670,
+   "joinedNationAt": 1793116037872,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,28 +80,40 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3550.5688547453433,
-    "y": 63.0,
-    "z": -12729.611127405415,
-    "pitch": 41.250053,
-    "yaw": -12.203552
+    "x": 5426.9463965039995,
+    "y": 68.0,
+    "z": -11861.301911560016,
+    "pitch": 9.715833,
+    "yaw": -154.17706
    },
    "homeBlock": [
-    -222,
-    -796
+    339,
+    -742
    ],
    "townBlocks": [
     [
-     -222,
-     -796
+     339,
+     -741
+    ],
+    [
+     339,
+     -742
+    ],
+    [
+     339,
+     -739
+    ],
+    [
+     339,
+     -740
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "vikaness",
-    "uuid": "519d7f8a-3410-4520-8fe4-a03524f15a44"
+    "name": "tegoel",
+    "uuid": "eb2f6abd-0919-402a-8986-cb193d1c2358"
    }
   ],
   "trusted": [],

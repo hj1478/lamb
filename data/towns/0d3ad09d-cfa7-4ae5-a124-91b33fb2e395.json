@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Little_Saint_J",
   "uuid": "0d3ad09d-cfa7-4ae5-a124-91b33fb2e395",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SomeSnow",
-   "uuid": "b0595034-798c-4ff6-a43a-a174864ac817"
+   "name": "NPC63",
+   "uuid": "4c9c6858-055e-20c2-8566-d20d7c40764d"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1784597129200,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793181601043
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 3.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,28 +136,15 @@
   },
   "residents": [
    {
-    "name": "CardBorad710",
-    "uuid": "f05ad084-5f0d-4047-9488-6880d784247c"
-   },
-   {
-    "name": "SomeSnow",
-    "uuid": "b0595034-798c-4ff6-a43a-a174864ac817"
+    "name": "NPC63",
+    "uuid": "4c9c6858-055e-20c2-8566-d20d7c40764d"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "CardBorad710",
-     "uuid": "f05ad084-5f0d-4047-9488-6880d784247c"
-    },
-    {
-     "name": "SomeSnow",
-     "uuid": "b0595034-798c-4ff6-a43a-a174864ac817"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

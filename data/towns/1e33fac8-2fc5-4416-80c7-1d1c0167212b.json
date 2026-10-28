@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Timisoara",
   "uuid": "1e33fac8-2fc5-4416-80c7-1d1c0167212b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 127,
-   "maxTownBlocks": 208,
+   "numTownBlocks": 128,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
+   "numResidents": 6,
    "numTrusted": 0,
-   "numOutlaws": 19,
-   "balance": 24.0,
+   "numOutlaws": 17,
+   "balance": 120.0,
    "forSalePrice": null
   },
   "perms": {
@@ -282,6 +282,10 @@
     [
      473,
      -607
+    ],
+    [
+     473,
+     -616
     ],
     [
      481,
@@ -608,24 +612,8 @@
     "uuid": "21023488-efd0-4fba-b425-830a6daeec9a"
    },
    {
-    "name": "MrNoFace880",
-    "uuid": "4c397f51-69e8-4855-b5bd-8b96a0401c41"
-   },
-   {
-    "name": "DaveForce",
+    "name": "Oavid",
     "uuid": "160dac4c-eec0-45c2-9251-81727f59b4af"
-   },
-   {
-    "name": "LoyalCrowny",
-    "uuid": "608810f1-9f7d-4cc9-9f5b-9c87d20b04f6"
-   },
-   {
-    "name": "PriceEhl",
-    "uuid": "838e8f2b-4510-4236-a856-bfe8b8f165e2"
-   },
-   {
-    "name": "Flavia333",
-    "uuid": "51186c95-0f0e-4265-888c-4138c0233831"
    },
    {
     "name": "HypnoticalYT",
@@ -636,8 +624,12 @@
     "uuid": "64efe88e-5527-485c-a583-f20e62b2812a"
    },
    {
-    "name": "TomPacha",
-    "uuid": "dbf435c5-c854-4d5b-8510-6caf1307e3d3"
+    "name": "Gnomen99",
+    "uuid": "d0415c53-dc21-483f-8e32-9fb03bebb63b"
+   },
+   {
+    "name": "Kaelanhan1",
+    "uuid": "fd184caa-0f5e-4023-b044-fc56e78ab4e1"
    }
   ],
   "trusted": [],
@@ -659,20 +651,12 @@
     "uuid": "6da7c50a-9a5c-4cb0-8ef9-9041dc506f06"
    },
    {
-    "name": "RaccoonYeWest",
-    "uuid": "f01dc54b-a6d0-4e98-ab06-6b6e7ec3b664"
-   },
-   {
     "name": "Kedrion",
     "uuid": "f20f5577-339e-4eb0-8f39-26ff34db76f1"
    },
    {
     "name": "kostanasi11",
     "uuid": "a1110280-6ad3-4935-9c6d-5ac56b4dcdca"
-   },
-   {
-    "name": "UltraGabB",
-    "uuid": "0a8725c4-2eba-44f8-98a4-fff6acc3c9e9"
    },
    {
     "name": "ESKISEHIRLI",
@@ -685,10 +669,6 @@
    {
     "name": "Costel_Biju",
     "uuid": "30aa709b-965c-48ee-946f-67ab79a386de"
-   },
-   {
-    "name": "Cacik_",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
    },
    {
     "name": "Rabican",
@@ -717,6 +697,10 @@
    {
     "name": "ApeChad",
     "uuid": "b7a4ea0e-e8c0-44d9-a9b5-c8d3d9fd337e"
+   },
+   {
+    "name": "Zet018",
+    "uuid": "4de7985c-9c42-435b-8c85-1a9df7ef4ee9"
    }
   ],
   "quarters": [
@@ -749,14 +733,6 @@
     "uuid": "597a796c-0f9b-4294-9560-f6cdf35e83ed"
    },
    {
-    "name": "windcharge",
-    "uuid": "378083e0-53a1-4007-a32a-5673e50c2cce"
-   },
-   {
-    "name": "door",
-    "uuid": "4df792ae-e38b-48dd-9909-e8a360416f57"
-   },
-   {
     "name": "Dull Quarter",
     "uuid": "7728adf3-0384-4465-8cb3-d5434f4f028a"
    },
@@ -769,12 +745,56 @@
     "uuid": "a0ff9b7d-adb9-4a6e-9cc8-3a5788767403"
    },
    {
+    "name": "Elegant Property",
+    "uuid": "b731739c-3b36-4df2-a755-e8b55aa38d3e"
+   },
+   {
+    "name": "door",
+    "uuid": "4df792ae-e38b-48dd-9909-e8a360416f57"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "152037c2-72ee-4667-9ca6-c6d7ad2f3683"
+   },
+   {
+    "name": "Inviting Apartment",
+    "uuid": "b67c1226-34e0-4a83-87d5-f84dc319217a"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "dcabb5ea-991c-462d-a7df-f2347728bc55"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "3683c647-8650-4e31-8c59-6d91199dc3c6"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "b7070c68-ab26-4bbe-85e4-2137ab2cf9a8"
+   },
+   {
+    "name": "Annoying Tenement",
+    "uuid": "d1128c75-ab20-4ee0-aa45-17e146234dcb"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "b261082c-9239-4c10-9f8d-f4892ec3fb93"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "e264c9aa-65ed-429c-b55d-108eea68163c"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "fe2587ec-d674-4df7-9f5d-f4ecf9d7fcec"
+   },
+   {
     "name": "Dingy Residence",
     "uuid": "a2c34669-3148-496a-a6ea-2fffb68c8773"
    },
    {
-    "name": "Elegant Property",
-    "uuid": "b731739c-3b36-4df2-a755-e8b55aa38d3e"
+    "name": "Upbeat Apartment",
+    "uuid": "d53c90f7-68bb-45b8-8b41-a2fd46b5fe6d"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Iron",
   "uuid": "1e42bdb9-96ca-42cf-9070-8cbddad18df8",
@@ -12,12 +12,12 @@
    "uuid": "9a4bc521-edd4-4e4f-9c36-64f447972c5e"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1790276726518,
-   "joinedNationAt": 1790276753268,
+   "joinedNationAt": 1793026493258,
    "ruinedAt": null
   },
   "status": {
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 2.0,
    "forSalePrice": null
@@ -112,6 +112,10 @@
    {
     "name": "accvir",
     "uuid": "263441c4-0c18-4049-b675-757ad971dedb"
+   },
+   {
+    "name": "VeritasRatio",
+    "uuid": "d70a8a6d-1141-426f-9b15-1ac9d19e2553"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Beh",
   "uuid": "1a626af1-b5cf-433e-a6d8-2572d1832a86",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 122,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 6,
+   "nationBonus": 60,
+   "numResidents": 5,
    "numTrusted": 17,
    "numOutlaws": 2,
-   "balance": 280.0,
+   "balance": 209.0,
    "forSalePrice": null
   },
   "perms": {
@@ -608,10 +608,6 @@
   },
   "residents": [
    {
-    "name": "TrapDane",
-    "uuid": "03f8886d-f616-46ca-a238-e0920e10ce6c"
-   },
-   {
     "name": "TopShelfTonic",
     "uuid": "57c882ae-2371-4cd0-a906-f09c43cb129e"
    },
@@ -620,16 +616,16 @@
     "uuid": "5535f843-1837-4436-8bad-9f2643b11a8c"
    },
    {
-    "name": "kokiriglade",
-    "uuid": "89c29c53-ef0c-4623-92cb-0f79930a97c2"
-   },
-   {
     "name": "GoldLeaf_IX",
     "uuid": "fefe123a-c8e4-4049-9745-058422daee27"
    },
    {
     "name": "Ybrk",
     "uuid": "4ad22a5b-22d7-49d5-bb64-fc30eea7475b"
+   },
+   {
+    "name": "kokiriglade",
+    "uuid": "89c29c53-ef0c-4623-92cb-0f79930a97c2"
    }
   ],
   "trusted": [
@@ -719,12 +715,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "TrapDane",
-     "uuid": "03f8886d-f616-46ca-a238-e0920e10ce6c"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

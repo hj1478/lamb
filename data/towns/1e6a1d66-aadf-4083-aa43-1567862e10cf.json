@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Saint-Paul",
   "uuid": "1e6a1d66-aadf-4083-aa43-1567862e10cf",
-  "board": "/town set board [msg]",
+  "board": "the first(historically)",
   "founder": "StrongerFlea510",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "498783c2-283a-4229-a92d-7d8c9d40859d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Madagascar",
+   "uuid": "44f40831-d34f-49e0-a166-46401ad604c4"
   },
   "timestamps": {
    "registered": 1791723893641,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792950079231,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 60,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 19834.881443776452,
-    "y": 78.0625,
-    "z": 15717.223828519358,
-    "pitch": 37.654785,
-    "yaw": -107.02637
+    "x": 19824.706777928426,
+    "y": 63.0,
+    "z": 15724.430073979393,
+    "pitch": 29.940748,
+    "yaw": -169.12964
    },
    "homeBlock": [
     1239,
@@ -94,6 +94,34 @@
     [
      1239,
      982
+    ],
+    [
+     1239,
+     983
+    ],
+    [
+     1239,
+     980
+    ],
+    [
+     1239,
+     981
+    ],
+    [
+     1240,
+     982
+    ],
+    [
+     1240,
+     981
+    ],
+    [
+     1238,
+     982
+    ],
+    [
+     1238,
+     981
     ]
    ],
    "worlds": {}
@@ -102,20 +130,49 @@
    {
     "name": "StrongerFlea510",
     "uuid": "498783c2-283a-4229-a92d-7d8c9d40859d"
+   },
+   {
+    "name": "reallyretrofr",
+    "uuid": "94fe981f-d678-4eb8-a3d4-967194b46984"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "reallyretrofr",
+     "uuid": "94fe981f-d678-4eb8-a3d4-967194b46984"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
+   "Tax-exempt": [
+    {
+     "name": "StrongerFlea510",
+     "uuid": "498783c2-283a-4229-a92d-7d8c9d40859d"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "StrongerFlea510",
+     "uuid": "498783c2-283a-4229-a92d-7d8c9d40859d"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "reallyretrofr",
+     "uuid": "94fe981f-d678-4eb8-a3d4-967194b46984"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

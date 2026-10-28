@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Gridlock",
-  "uuid": "41c15d2b-353e-42bf-acff-6b52584a0d7b",
+  "name": "The_North",
+  "uuid": "930a96ef-a2c9-4843-83fc-3399f7fc0642",
   "board": "/town set board [msg]",
-  "founder": "EBSpremium",
+  "founder": "Yarknn_",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "EBSpremium",
-   "uuid": "b7ee22bb-ab2e-4c18-b044-55eb23071e39"
+   "name": "Yarknn_",
+   "uuid": "5ccc5521-cc55-4c8b-ba8d-a8d2634d762e"
   },
   "nation": {
-   "name": "Alaska",
-   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1787857060548,
-   "joinedNationAt": 1787857874006,
+   "registered": 1793111123708,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,55 +80,84 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -51248.70285946139,
-    "y": 121.0,
-    "z": -19175.73827266674,
-    "pitch": 65.440994,
-    "yaw": 0.48817372
+    "x": 34128.52968896964,
+    "y": 72.0,
+    "z": -17740.33178863148,
+    "pitch": 7.9501233,
+    "yaw": -3.1510267
    },
    "homeBlock": [
-    -3204,
-    -1199
+    2133,
+    -1109
    ],
    "townBlocks": [
     [
-     -3204,
-     -1199
+     2131,
+     -1109
     ],
     [
-     -3205,
-     -1199
+     2131,
+     -1110
     ],
     [
-     -3205,
-     -1198
+     2132,
+     -1109
     ],
     [
-     -3206,
-     -1199
+     2132,
+     -1110
     ],
     [
-     -3203,
-     -1199
+     2133,
+     -1109
     ],
     [
-     -3205,
-     -1200
+     2133,
+     -1108
+    ],
+    [
+     2134,
+     -1108
+    ],
+    [
+     2133,
+     -1110
+    ],
+    [
+     2134,
+     -1109
+    ],
+    [
+     2132,
+     -1108
+    ],
+    [
+     2134,
+     -1110
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "EBSpremium",
-    "uuid": "b7ee22bb-ab2e-4c18-b044-55eb23071e39"
+    "name": "Yarknn_",
+    "uuid": "5ccc5521-cc55-4c8b-ba8d-a8d2634d762e"
+   },
+   {
+    "name": "Veron0",
+    "uuid": "584a99ab-188c-44bc-b146-d37c8db6abf9"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Veron0",
+     "uuid": "584a99ab-188c-44bc-b146-d37c8db6abf9"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

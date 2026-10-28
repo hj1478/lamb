@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Bangkok",
   "uuid": "0cefe698-7cdc-4351-bf27-0a7648a95102",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 48,
-   "maxTownBlocks": 60,
+   "numTownBlocks": 57,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 47.0,
+   "balance": 66.0,
    "forSalePrice": null
   },
   "perms": {
@@ -109,7 +109,15 @@
     ],
     [
      2256,
+     196
+    ],
+    [
+     2256,
      195
+    ],
+    [
+     2252,
+     196
     ],
     [
      2252,
@@ -122,6 +130,10 @@
     [
      2252,
      193
+    ],
+    [
+     2250,
+     196
     ],
     [
      2250,
@@ -162,6 +174,10 @@
     [
      2251,
      191
+    ],
+    [
+     2257,
+     196
     ],
     [
      2251,
@@ -193,6 +209,10 @@
     ],
     [
      2251,
+     196
+    ],
+    [
+     2251,
      195
     ],
     [
@@ -210,6 +230,10 @@
     [
      2249,
      194
+    ],
+    [
+     2249,
+     196
     ],
     [
      2253,
@@ -236,6 +260,10 @@
      191
     ],
     [
+     2253,
+     196
+    ],
+    [
      2255,
      192
     ],
@@ -261,11 +289,19 @@
     ],
     [
      2255,
+     196
+    ],
+    [
+     2255,
      193
     ],
     [
      2255,
      194
+    ],
+    [
+     2254,
+     196
     ],
     [
      2254,
@@ -300,6 +336,10 @@
     "uuid": "4baac385-d19f-4f40-a45d-77baa66bf8bd"
    },
    {
+    "name": "ender_withering",
+    "uuid": "bede2133-4ac8-4c74-bf3f-61fd2f24f462"
+   },
+   {
     "name": "CactusLibrarian",
     "uuid": "96d4e6af-bc88-4492-bbc0-88bafc723114"
    },
@@ -323,7 +363,12 @@
      "uuid": "4baac385-d19f-4f40-a45d-77baa66bf8bd"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "ender_withering",
+     "uuid": "bede2133-4ac8-4c74-bf3f-61fd2f24f462"
+    }
+   ],
    "Recruiter": [
     {
      "name": "CactusLibrarian",

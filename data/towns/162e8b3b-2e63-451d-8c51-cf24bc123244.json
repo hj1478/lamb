@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Tingen",
   "uuid": "162e8b3b-2e63-451d-8c51-cf24bc123244",
@@ -31,18 +31,18 @@
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
-   "hasSnowAccumulation": true,
+   "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 114,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 2,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 22.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -50,7 +50,7 @@
     false,
     false,
     false,
-    true
+    false
    ],
    "destroy": [
     false,
@@ -62,13 +62,13 @@
     false,
     false,
     false,
-    true
+    false
    ],
    "itemUse": [
     false,
     false,
     false,
-    true
+    false
    ],
    "flags": {
     "pvp": false,
@@ -256,16 +256,12 @@
      -135
     ],
     [
-     2074,
-     -136
-    ],
-    [
      2070,
      -149
     ],
     [
      2074,
-     -137
+     -136
     ],
     [
      2070,
@@ -273,11 +269,15 @@
     ],
     [
      2074,
-     -138
+     -137
     ],
     [
      2070,
      -147
+    ],
+    [
+     2074,
+     -138
     ],
     [
      2070,
@@ -566,20 +566,12 @@
    {
     "name": "daviluiz2014",
     "uuid": "bb0dfde0-33b3-4242-9ccb-a0beacb8dfd6"
-   },
-   {
-    "name": "Bibibuzina",
-    "uuid": "347a2cae-dce2-46a5-8284-3213bf0da130"
    }
   ],
   "trusted": [
    {
-    "name": "aDuzo",
-    "uuid": "e8d0b8f9-a67d-4009-b145-04108b839ff8"
-   },
-   {
-    "name": "Bibibuzina",
-    "uuid": "347a2cae-dce2-46a5-8284-3213bf0da130"
+    "name": "OnyR_IC",
+    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
    }
   ],
   "outlaws": [

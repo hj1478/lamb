@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Benevia",
   "uuid": "0770530f-c679-4013-98ea-b1f09c61b762",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numResidents": 6,
+   "numTrusted": 1,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,6 +92,34 @@
    ],
    "townBlocks": [
     [
+     175,
+     -570
+    ],
+    [
+     172,
+     -572
+    ],
+    [
+     172,
+     -571
+    ],
+    [
+     172,
+     -570
+    ],
+    [
+     172,
+     -569
+    ],
+    [
+     172,
+     -568
+    ],
+    [
+     174,
+     -572
+    ],
+    [
      174,
      -571
     ],
@@ -104,20 +132,20 @@
      -569
     ],
     [
-     175,
-     -570
+     174,
+     -568
     ],
     [
      171,
      -571
     ],
     [
-     172,
-     -571
+     170,
+     -572
     ],
     [
-     172,
-     -570
+     171,
+     -572
     ],
     [
      171,
@@ -132,8 +160,16 @@
      -570
     ],
     [
-     172,
-     -569
+     170,
+     -571
+    ],
+    [
+     171,
+     -568
+    ],
+    [
+     173,
+     -572
     ],
     [
      173,
@@ -145,6 +181,18 @@
     ],
     [
      173,
+     -569
+    ],
+    [
+     170,
+     -568
+    ],
+    [
+     173,
+     -568
+    ],
+    [
+     170,
      -569
     ]
    ],
@@ -170,11 +218,58 @@
    {
     "name": "HynekLev",
     "uuid": "52374c6f-873b-4579-afee-084ad73b7171"
+   },
+   {
+    "name": "SaadPVPGOD",
+    "uuid": "5afa40da-a349-4fbd-af5c-f821992aa58e"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
-  "quarters": [],
+  "trusted": [
+   {
+    "name": "OnyR_IC",
+    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Enraging Property",
+    "uuid": "95f6ffbf-792c-49fd-b14f-8f36787e6986"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "12a44e82-31a1-4d11-9260-e7c0466d4ea4"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "e1b5f969-5d01-479e-9f02-c4964019cad2"
+   },
+   {
+    "name": "Annoying Tenement",
+    "uuid": "58ebfed0-e5d6-429c-b17b-a484d3316715"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "9d12d1c6-3eca-467d-ae3f-50e358a7e254"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "5923fbeb-efb4-4ed2-9953-28e066eb9f4c"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "1fdf6a8d-a8f4-43e9-8e1f-5e3bc5467a4e"
+   },
+   {
+    "name": "Bland Apartment",
+    "uuid": "f82d6188-ace0-4529-951d-3b7a0dd1d658"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

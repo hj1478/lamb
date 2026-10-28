@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Black_Belt",
   "uuid": "0aafdfdc-04b4-4630-9679-e51f2f395808",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 161,
+   "numTownBlocks": 178,
    "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 15,
-   "numTrusted": 10,
-   "numOutlaws": 3,
-   "balance": 135.0,
+   "numTrusted": 11,
+   "numOutlaws": 6,
+   "balance": 111.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     660,
+     716
+    ],
+    [
+     660,
+     717
+    ],
+    [
      641,
      712
     ],
@@ -412,6 +420,10 @@
      716
     ],
     [
+     659,
+     717
+    ],
+    [
      647,
      704
     ],
@@ -428,7 +440,15 @@
      715
     ],
     [
+     662,
+     717
+    ],
+    [
      647,
+     714
+    ],
+    [
+     664,
      714
     ],
     [
@@ -436,7 +456,15 @@
      715
     ],
     [
+     664,
+     715
+    ],
+    [
      647,
+     716
+    ],
+    [
+     664,
      716
     ],
     [
@@ -548,11 +576,23 @@
      712
     ],
     [
+     662,
+     716
+    ],
+    [
      651,
      713
     ],
     [
+     662,
+     715
+    ],
+    [
      651,
+     714
+    ],
+    [
+     662,
      714
     ],
     [
@@ -596,6 +636,22 @@
      705
     ],
     [
+     661,
+     714
+    ],
+    [
+     663,
+     716
+    ],
+    [
+     663,
+     714
+    ],
+    [
+     663,
+     715
+    ],
+    [
      656,
      712
     ],
@@ -612,8 +668,20 @@
      716
     ],
     [
+     661,
+     715
+    ],
+    [
+     661,
+     716
+    ],
+    [
      656,
      714
+    ],
+    [
+     661,
+     717
     ],
     [
      656,
@@ -740,10 +808,6 @@
   },
   "residents": [
    {
-    "name": "CaptainOFCopper",
-    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
-   },
-   {
     "name": "LeoTheLionSpear",
     "uuid": "b0a66c30-de22-40db-8472-75d253758cde"
    },
@@ -796,8 +860,12 @@
     "uuid": "30e752a8-b27c-4d35-ba1f-afd73fafd873"
    },
    {
-    "name": "Hayden928",
-    "uuid": "0a8a3b03-1e8a-4892-b1c0-1d6b74218789"
+    "name": "CaptainOFCopper",
+    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+   },
+   {
+    "name": "OptimusHarrison2",
+    "uuid": "fcc68518-37ec-4468-9140-2c12903ab5a5"
    }
   ],
   "trusted": [
@@ -816,6 +884,10 @@
    {
     "name": "Kokomo309",
     "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
+   },
+   {
+    "name": "OptimusHarrison2",
+    "uuid": "fcc68518-37ec-4468-9140-2c12903ab5a5"
    },
    {
     "name": "jupebean",
@@ -854,6 +926,18 @@
    {
     "name": "Khelium",
     "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "CTM0029",
+    "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
+   },
+   {
+    "name": "Lukegvespa",
+    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    }
   ],
   "quarters": [
@@ -881,10 +965,6 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "CaptainOFCopper",
-     "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
-    },
-    {
      "name": "LeoTheLionSpear",
      "uuid": "b0a66c30-de22-40db-8472-75d253758cde"
     },
@@ -903,6 +983,30 @@
   },
   "warps": [
    {
+    "name": "storage",
+    "uuid": "85081d3c-91c9-42f1-b083-54f59df88543",
+    "createdAt": 1792769870847,
+    "createdBy": "CaptainOFCopper",
+    "access": "RESIDENT",
+    "location": {
+     "x": 10328,
+     "y": 79,
+     "z": 11385
+    }
+   },
+   {
+    "name": "Desta",
+    "uuid": "2cdc45b4-ab24-41a9-bcb0-d0318a022fb6",
+    "createdAt": 1792648794249,
+    "createdBy": "CaptainOFCopper",
+    "access": "RESIDENT",
+    "location": {
+     "x": 10550,
+     "y": 83,
+     "z": 11441
+    }
+   },
+   {
     "name": "Farm",
     "uuid": "6dd4db0d-eb95-4307-826a-8126648503b2",
     "createdAt": 1792073341823,
@@ -915,15 +1019,15 @@
     }
    },
    {
-    "name": "Storage",
-    "uuid": "dce4dba2-b6ad-40d0-9a1a-67a64762b6a9",
-    "createdAt": 1791956473425,
+    "name": "CanalSt",
+    "uuid": "9d410265-35f6-4c07-b38e-b9f25665ba7a",
+    "createdAt": 1792868344947,
     "createdBy": "CaptainOFCopper",
     "access": "RESIDENT",
     "location": {
-     "x": 10329,
-     "y": 79,
-     "z": 11385
+     "x": 10368,
+     "y": 81,
+     "z": 11331
     }
    }
   ],

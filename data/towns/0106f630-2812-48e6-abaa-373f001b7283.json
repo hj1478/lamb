@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Bella_Vista",
   "uuid": "0106f630-2812-48e6-abaa-373f001b7283",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
+   "numTownBlocks": 38,
    "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 2,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -97,7 +97,7 @@
     ],
     [
      -1127,
-     1192
+     1189
     ],
     [
      -1128,
@@ -105,19 +105,35 @@
     ],
     [
      -1127,
-     1191
+     1192
     ],
     [
      -1128,
      1193
     ],
     [
+     -1127,
+     1191
+    ],
+    [
+     -1127,
+     1188
+    ],
+    [
      -1125,
      1190
     ],
     [
      -1125,
      1191
+    ],
+    [
+     -1125,
+     1188
+    ],
+    [
+     -1125,
+     1189
     ],
     [
      -1127,
@@ -184,6 +200,10 @@
      1191
     ],
     [
+     -1124,
+     1189
+    ],
+    [
      -1126,
      1192
     ],
@@ -209,7 +229,19 @@
     ],
     [
      -1126,
+     1188
+    ],
+    [
+     -1126,
+     1189
+    ],
+    [
+     -1126,
      1190
+    ],
+    [
+     -1128,
+     1189
     ]
    ],
    "worlds": {}
@@ -224,7 +256,12 @@
     "uuid": "42be125c-c7f4-483d-b887-b7b3fd4f3a65"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Chiaro0",
+    "uuid": "ced20961-a62e-41e6-b06b-9a7509eccd7a"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

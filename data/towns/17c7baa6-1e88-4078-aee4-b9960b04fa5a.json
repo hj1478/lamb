@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Somniora_Haven",
   "uuid": "17c7baa6-1e88-4078-aee4-b9960b04fa5a",
-  "board": "/town set board [msg]",
+  "board": "Welcome to Somniora_Haven !",
   "founder": "OnyR_IC",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,37 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 33240.07748517164,
-    "y": 103.0,
-    "z": -2396.228436332292,
-    "pitch": 22.49977,
-    "yaw": -142.55347
+    "x": 33237.85779733365,
+    "y": 101.9375,
+    "z": -2414.649564421733,
+    "pitch": 6.8997827,
+    "yaw": -31.103455
    },
    "homeBlock": [
     2077,
-    -150
+    -151
    ],
    "townBlocks": [
+    [
+     2077,
+     -151
+    ],
+    [
+     2076,
+     -151
+    ],
+    [
+     2078,
+     -150
+    ],
+    [
+     2078,
+     -151
+    ],
+    [
+     2076,
+     -150
+    ],
     [
      2077,
      -150

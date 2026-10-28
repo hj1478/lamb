@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Chennai",
   "uuid": "141a9856-6e67-4c20-8938-86b76414edc0",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 7,
-   "numOutlaws": 1,
-   "balance": 32.0,
+   "numResidents": 10,
+   "numTrusted": 9,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -129,7 +129,39 @@
     ],
     [
      1793,
+     213
+    ],
+    [
+     1793,
+     214
+    ],
+    [
+     1792,
+     212
+    ],
+    [
+     1793,
      217
+    ],
+    [
+     1792,
+     214
+    ],
+    [
+     1792,
+     213
+    ],
+    [
+     1793,
+     212
+    ],
+    [
+     1798,
+     213
+    ],
+    [
+     1798,
+     212
     ],
     [
      1794,
@@ -138,6 +170,10 @@
     [
      1794,
      213
+    ],
+    [
+     1792,
+     215
     ],
     [
      1794,
@@ -149,15 +185,19 @@
     ],
     [
      1794,
-     211
+     210
     ],
     [
-     1797,
+     1794,
      211
     ],
     [
      1796,
      215
+    ],
+    [
+     1797,
+     211
     ],
     [
      1796,
@@ -189,6 +229,10 @@
     ],
     [
      1797,
+     209
+    ],
+    [
+     1797,
      210
     ],
     [
@@ -198,6 +242,10 @@
     [
      1796,
      210
+    ],
+    [
+     1796,
+     209
     ]
    ],
    "worlds": {}
@@ -220,6 +268,18 @@
     "uuid": "a4ba77db-d842-41ce-ac8e-7505eef0eb60"
    },
    {
+    "name": "flitzerblitz",
+    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+   },
+   {
+    "name": "ShivajiGamer",
+    "uuid": "b719da2a-9402-4021-becb-7754e971473f"
+   },
+   {
+    "name": "Kinger_XD",
+    "uuid": "d28fa00d-7147-4b79-91a6-9d85df97bfe1"
+   },
+   {
     "name": "Navigation2013",
     "uuid": "aab815a9-2f51-4b63-b0b5-cfc8eb6c264f"
    },
@@ -228,15 +288,15 @@
     "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
    },
    {
-    "name": "flitzerblitz",
-    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
-   },
-   {
-    "name": "Minnonsme",
-    "uuid": "72fe9dda-f640-4cd3-a05e-a4e4e0f2375f"
+    "name": "Tommydrummer78",
+    "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
    }
   ],
   "trusted": [
+   {
+    "name": "ShivajiGamer",
+    "uuid": "b719da2a-9402-4021-becb-7754e971473f"
+   },
    {
     "name": "giacomause2",
     "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
@@ -264,12 +324,48 @@
    {
     "name": "Danny_362",
     "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
+   },
+   {
+    "name": "Tommydrummer78",
+    "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
    }
   ],
   "outlaws": [
    {
     "name": "vodx_op",
     "uuid": "8358008e-67ac-498a-9dde-24c9dc294da9"
+   },
+   {
+    "name": "SeanElephant1",
+    "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
+   },
+   {
+    "name": "ZenixLeVrai",
+    "uuid": "9f42c7b7-bdda-43c5-b435-533344f0ecbf"
+   },
+   {
+    "name": "StayzGG",
+    "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+   },
+   {
+    "name": "Okurarity",
+    "uuid": "a9d11845-114c-42f0-bb51-7efe10182a97"
+   },
+   {
+    "name": "OofOldGrandpa",
+    "uuid": "1aa5e03b-6476-47c3-86a0-d68c6483ddaa"
+   },
+   {
+    "name": "asahinoyami",
+    "uuid": "4db5b09d-b1f5-4d41-950a-29413b69eb24"
+   },
+   {
+    "name": "HumbleDoggie",
+    "uuid": "11671848-1004-4cf7-a4d8-3654bc105a9c"
+   },
+   {
+    "name": "Lord_Poseidon_",
+    "uuid": "93ac63f2-319c-4fc8-9d0d-b008826cdcf3"
    }
   ],
   "quarters": [],
@@ -278,6 +374,10 @@
     {
      "name": "flitzerblitz",
      "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+    },
+    {
+     "name": "Tommydrummer78",
+     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
     }
    ],
    "Builder": [
@@ -287,10 +387,20 @@
     }
    ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "giacomause2",
+     "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "karl_pro_max300",
+     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

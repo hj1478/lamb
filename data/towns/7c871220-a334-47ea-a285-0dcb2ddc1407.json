@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Erdovar",
-  "uuid": "2f35807a-f66f-4154-8e4c-fe4337e65e74",
-  "board": "/town set board [msg]",
-  "founder": "Marrowed",
+  "name": "Bikini_Bottom",
+  "uuid": "7c871220-a334-47ea-a285-0dcb2ddc1407",
+  "board": "meth is now legal",
+  "founder": "coorslightyear",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Marrowed",
-   "uuid": "c119bb89-f5bf-4385-ae0c-0e68332dc543"
+   "name": "coorslightyear",
+   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
   },
   "nation": {
-   "name": "Liao",
-   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
+   "name": "Hawaii",
+   "uuid": "b1d72cb1-4935-4e54-98f8-767ad795f584"
   },
   "timestamps": {
-   "registered": 1789229735757,
-   "joinedNationAt": 1789229885992,
+   "registered": 1793118780942,
+   "joinedNationAt": 1793119242092,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 99.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,35 +73,63 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35982.55480366216,
-    "y": 83.0,
-    "z": -12535.282383169058,
-    "pitch": -31.35015,
-    "yaw": -11.774595
+    "x": -58971.30530825417,
+    "y": 63.0,
+    "z": -568.6594835226556,
+    "pitch": -0.30005217,
+    "yaw": -90.23633
    },
    "homeBlock": [
-    2248,
-    -784
+    -3686,
+    -36
    ],
    "townBlocks": [
     [
-     2248,
-     -784
+     -3685,
+     -36
+    ],
+    [
+     -3685,
+     -35
+    ],
+    [
+     -3684,
+     -36
+    ],
+    [
+     -3683,
+     -36
+    ],
+    [
+     -3684,
+     -35
+    ],
+    [
+     -3686,
+     -35
+    ],
+    [
+     -3686,
+     -36
+    ],
+    [
+     -3683,
+     -35
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Marrowed",
-    "uuid": "c119bb89-f5bf-4385-ae0c-0e68332dc543"
+    "name": "coorslightyear",
+    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
    }
   ],
   "trusted": [],

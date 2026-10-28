@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Aram",
   "uuid": "2183a666-8323-4bd5-8f4e-e14d3b836370",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 4,
+   "numTrusted": 3,
    "numOutlaws": 2,
-   "balance": 12.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -193,10 +193,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
    {
     "name": "Bomber_Addict",
     "uuid": "181d4b7f-a3bc-4216-bcab-63edccc568d0"

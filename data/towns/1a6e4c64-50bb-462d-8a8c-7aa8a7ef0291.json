@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Hormuz",
   "uuid": "1a6e4c64-50bb-462d-8a8c-7aa8a7ef0291",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "galaxystar241",
-   "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
+   "name": "kbbnm",
+   "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
   },
   "nation": {
    "name": "UAE",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -40,10 +40,10 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 2,
-   "numTrusted": 2,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 350.0
   },
   "perms": {
    "build": [
@@ -560,18 +560,30 @@
     "uuid": "7ca93b10-0479-4b84-8923-62edf99e59a3"
    },
    {
-    "name": "galaxystar241",
-    "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
+    "name": "kbbnm",
+    "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
    }
   ],
   "trusted": [
    {
-    "name": "galaxystar241",
-    "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
+    "name": "ItsFurina",
+    "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
    },
    {
-    "name": "CrazyDude5",
-    "uuid": "b4ac745c-790d-4715-9fc2-64afc4d3b830"
+    "name": "yangxingzhe",
+    "uuid": "437797b6-6c26-47df-8c1d-e0ec8b0475d9"
+   },
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   },
+   {
+    "name": "ji_mo",
+    "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    }
   ],
   "outlaws": [],
@@ -618,54 +630,14 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Police": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "galaxystar241",
-     "uuid": "dbf49c72-ddef-46b3-996f-7519da13b79e"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

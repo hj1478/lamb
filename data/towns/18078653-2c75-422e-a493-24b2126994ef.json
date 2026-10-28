@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Ganktown",
   "uuid": "18078653-2c75-422e-a493-24b2126994ef",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "crow1326",
-   "uuid": "12c818b8-a1e4-48d0-9bd2-987b20a12abd"
+   "name": "Xtvr",
+   "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
   },
   "nation": {
    "name": "Chicagoland",
@@ -17,11 +17,11 @@
   },
   "timestamps": {
    "registered": 1792414570402,
-   "joinedNationAt": 1792414623052,
+   "joinedNationAt": 1793067752274,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 224,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 12,
+   "numTrusted": 13,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -94,28 +94,164 @@
     [
      -2104,
      -456
+    ],
+    [
+     -2105,
+     -456
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
+    "name": "Xtvr",
+    "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+   },
+   {
+    "name": "_2Bit",
+    "uuid": "56947302-98e0-4ca1-bbd5-329256633173"
+   },
+   {
+    "name": "paymxnt",
+    "uuid": "512ac510-2bd4-4b83-a8a9-5eb22067314d"
+   },
+   {
+    "name": "PoopCamel",
+    "uuid": "c29df550-32e8-4b84-83e6-129e2b97b40f"
+   },
+   {
+    "name": "Hltch",
+    "uuid": "405cd7eb-f0a3-45d7-bf12-e1de1fa3cb0e"
+   },
+   {
+    "name": "r3almedusa",
+    "uuid": "7e89438a-046b-4f31-8829-a6d8372ed982"
+   },
+   {
     "name": "crow1326",
     "uuid": "12c818b8-a1e4-48d0-9bd2-987b20a12abd"
+   },
+   {
+    "name": "Zqben",
+    "uuid": "b7654f2b-7000-4944-98e1-d4bc8bb67699"
+   },
+   {
+    "name": "KevlarProps",
+    "uuid": "9368f307-6635-43e2-84c6-8aa806c7b99d"
+   },
+   {
+    "name": "App1eTheWeener",
+    "uuid": "fc57ada8-8cf2-4d3b-af38-c2d278266f52"
+   },
+   {
+    "name": "zmtqt",
+    "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
+   },
+   {
+    "name": "Bacillen",
+    "uuid": "b1a5882f-161b-4289-94e3-8bbc86d261d8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "_2Bit",
+    "uuid": "56947302-98e0-4ca1-bbd5-329256633173"
+   },
+   {
+    "name": "PoopCamel",
+    "uuid": "c29df550-32e8-4b84-83e6-129e2b97b40f"
+   },
+   {
+    "name": "ImBenHaha",
+    "uuid": "1df2c13a-247d-4683-adb4-9fa7fdc6f961"
+   },
+   {
+    "name": "Hltch",
+    "uuid": "405cd7eb-f0a3-45d7-bf12-e1de1fa3cb0e"
+   },
+   {
+    "name": "r3almedusa",
+    "uuid": "7e89438a-046b-4f31-8829-a6d8372ed982"
+   },
+   {
+    "name": "App1eTheWeener",
+    "uuid": "fc57ada8-8cf2-4d3b-af38-c2d278266f52"
+   },
+   {
+    "name": "KevlarProps",
+    "uuid": "9368f307-6635-43e2-84c6-8aa806c7b99d"
+   },
+   {
+    "name": "Bacillen",
+    "uuid": "b1a5882f-161b-4289-94e3-8bbc86d261d8"
+   },
+   {
+    "name": "zmtqt",
+    "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
+   },
+   {
+    "name": "crow1326",
+    "uuid": "12c818b8-a1e4-48d0-9bd2-987b20a12abd"
+   },
+   {
+    "name": "Xtvr",
+    "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+   },
+   {
+    "name": "Zqben",
+    "uuid": "b7654f2b-7000-4944-98e1-d4bc8bb67699"
+   },
+   {
+    "name": "paymxnt",
+    "uuid": "512ac510-2bd4-4b83-a8a9-5eb22067314d"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "_2Bit",
+     "uuid": "56947302-98e0-4ca1-bbd5-329256633173"
+    },
+    {
+     "name": "paymxnt",
+     "uuid": "512ac510-2bd4-4b83-a8a9-5eb22067314d"
+    },
+    {
+     "name": "Zqben",
+     "uuid": "b7654f2b-7000-4944-98e1-d4bc8bb67699"
+    },
+    {
+     "name": "zmtqt",
+     "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "paymxnt",
+     "uuid": "512ac510-2bd4-4b83-a8a9-5eb22067314d"
+    },
+    {
+     "name": "PoopCamel",
+     "uuid": "c29df550-32e8-4b84-83e6-129e2b97b40f"
+    },
+    {
+     "name": "Zqben",
+     "uuid": "b7654f2b-7000-4944-98e1-d4bc8bb67699"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "paymxnt",
+     "uuid": "512ac510-2bd4-4b83-a8a9-5eb22067314d"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

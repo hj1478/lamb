@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Revachol",
   "uuid": "1e524daa-46cb-42d0-9cbb-2bc4e1204345",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
+   "numTownBlocks": 24,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 5,
-   "balance": 170.0,
+   "balance": 90.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     1260,
+     -666
+    ],
+    [
+     1260,
+     -669
+    ],
+    [
+     1260,
+     -667
+    ],
+    [
+     1260,
+     -668
+    ],
+    [
      1259,
      -666
     ],
@@ -105,6 +121,10 @@
     ],
     [
      1259,
+     -669
+    ],
+    [
+     1261,
      -669
     ],
     [
@@ -128,7 +148,23 @@
      -666
     ],
     [
-     1260,
+     1262,
+     -667
+    ],
+    [
+     1262,
+     -668
+    ],
+    [
+     1258,
+     -665
+    ],
+    [
+     1262,
+     -669
+    ],
+    [
+     1257,
      -666
     ],
     [
@@ -136,23 +172,15 @@
      -667
     ],
     [
+     1258,
+     -669
+    ],
+    [
      1257,
      -668
     ],
     [
      1258,
-     -668
-    ],
-    [
-     1260,
-     -669
-    ],
-    [
-     1260,
-     -667
-    ],
-    [
-     1260,
      -668
     ],
     [
@@ -182,13 +210,21 @@
     "uuid": "7cecca4d-754d-490a-ba1b-b75cc1cc30a5"
    },
    {
+    "name": "rfbb1t",
+    "uuid": "9c52cce8-197f-4b72-b32a-f5c4f6e687e7"
+   },
+   {
+    "name": "tacocatergy",
+    "uuid": "f345de28-2a01-4ea4-9ec9-0d6d43a9a09f"
+   },
+   {
     "name": "kylaxial",
     "uuid": "e1e3b7bd-1d92-45f9-8dac-497676d5f1d6"
    }
   ],
   "outlaws": [
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
@@ -214,10 +250,6 @@
     "uuid": "66f7b02a-2c70-426a-b39d-95e91b96c866"
    },
    {
-    "name": "Whirling 1",
-    "uuid": "775b1f1c-2134-4541-ab85-f79c4724fa2c"
-   },
-   {
     "name": "Whirling 2",
     "uuid": "7607b3e8-95f2-442b-8d40-9c41a3472a3c"
    },
@@ -228,6 +260,14 @@
    {
     "name": "Whirling 4",
     "uuid": "475da8c4-0823-4b50-a9ea-bbea9c834acf"
+   },
+   {
+    "name": "Chicken Coop",
+    "uuid": "9c448c79-182e-4e78-8a12-cf722c91e094"
+   },
+   {
+    "name": "Whirling 1",
+    "uuid": "775b1f1c-2134-4541-ab85-f79c4724fa2c"
    }
   ],
   "ranks": {

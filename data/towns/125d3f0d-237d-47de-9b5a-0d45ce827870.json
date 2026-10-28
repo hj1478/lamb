@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Mariehamn",
   "uuid": "125d3f0d-237d-47de-9b5a-0d45ce827870",
@@ -12,12 +12,12 @@
    "uuid": "8c99edaa-5ce7-417b-986d-b11fd52047fd"
   },
   "nation": {
-   "name": "Sweden",
-   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+   "name": "Russia",
+   "uuid": "1f81f523-7318-468d-9fc2-9ba4c71442e4"
   },
   "timestamps": {
    "registered": 1776449773746,
-   "joinedNationAt": 1786796080967,
+   "joinedNationAt": 1793124054672,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 148,
+   "numTownBlocks": 147,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7140.489825262095,
-    "y": 66.0,
-    "z": -16660.50900689384,
-    "pitch": -0.5511397,
-    "yaw": -0.115478516
+    "x": 7234.437662990947,
+    "y": 64.0,
+    "z": -16601.30000001192,
+    "pitch": 5.5566263,
+    "yaw": -138.16342
    },
    "homeBlock": [
-    446,
-    -1042
+    452,
+    -1038
    ],
    "townBlocks": [
     [
@@ -512,10 +512,6 @@
      -1038
     ],
     [
-     452,
-     -1037
-    ],
-    [
      449,
      -1045
     ],
@@ -702,8 +698,16 @@
     "uuid": "8c99edaa-5ce7-417b-986d-b11fd52047fd"
    },
    {
+    "name": "coicri",
+    "uuid": "38476a63-39b8-4510-8cd0-28cdc206f257"
+   },
+   {
     "name": "Terrafire36",
     "uuid": "5993b4b5-17b6-4d27-9189-4e7518c0f530"
+   },
+   {
+    "name": "ChrisNoSignal",
+    "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
    }
   ],
   "outlaws": [

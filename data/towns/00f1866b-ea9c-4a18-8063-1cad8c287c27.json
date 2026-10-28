@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Aldan",
   "uuid": "00f1866b-ea9c-4a18-8063-1cad8c287c27",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DrBlackAce",
-   "uuid": "ee85ef4d-5f1a-4778-9c9a-95fcf6dc7f3b"
+   "name": "DanielOHS",
+   "uuid": "ea06b00e-4acd-4096-a3e2-0c55a74c85ad"
   },
   "nation": {
    "name": "Sakha_Republic",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 57,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 4,
-   "balance": 4.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -328,10 +328,6 @@
     "uuid": "ee85ef4d-5f1a-4778-9c9a-95fcf6dc7f3b"
    },
    {
-    "name": "DJDANTE2026",
-    "uuid": "32c92c1e-2bcf-4634-8a36-e5a60caaaed6"
-   },
-   {
     "name": "DanielOHS",
     "uuid": "ea06b00e-4acd-4096-a3e2-0c55a74c85ad"
    },
@@ -395,12 +391,32 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Councillor": [
+    {
+     "name": "DrBlackAce",
+     "uuid": "ee85ef4d-5f1a-4778-9c9a-95fcf6dc7f3b"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "DrBlackAce",
+     "uuid": "ee85ef4d-5f1a-4778-9c9a-95fcf6dc7f3b"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "DrBlackAce",
+     "uuid": "ee85ef4d-5f1a-4778-9c9a-95fcf6dc7f3b"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "DrBlackAce",
+     "uuid": "ee85ef4d-5f1a-4778-9c9a-95fcf6dc7f3b"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

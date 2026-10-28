@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Art",
   "uuid": "0847823c-61de-4522-8804-e5bc39628f39",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 135,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 1,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 33.0,
    "forSalePrice": null
   },
   "perms": {
@@ -638,13 +638,13 @@
    {
     "name": "Chewiter",
     "uuid": "51458638-e48a-4f0f-b999-bdb6f42c13dc"
-   },
-   {
-    "name": "ChooCharlotte",
-    "uuid": "e29ece63-606e-4a0c-9cfa-4d7e989131e9"
    }
   ],
   "trusted": [
+   {
+    "name": "ChooCharlotte",
+    "uuid": "e29ece63-606e-4a0c-9cfa-4d7e989131e9"
+   },
    {
     "name": "AmSpyPlayz",
     "uuid": "573566ac-c795-4bfa-aee1-064e0c91dcdf"
@@ -686,12 +686,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "ChooCharlotte",
-     "uuid": "e29ece63-606e-4a0c-9cfa-4d7e989131e9"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

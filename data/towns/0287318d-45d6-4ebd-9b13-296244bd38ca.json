@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Kalafe",
   "uuid": "0287318d-45d6-4ebd-9b13-296244bd38ca",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 75,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 6,
-   "numTrusted": 1,
+   "numResidents": 8,
+   "numTrusted": 2,
    "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
@@ -400,6 +400,10 @@
     "uuid": "ce48ee6a-d83b-4604-a8ae-7f14abec5d66"
    },
    {
+    "name": "ItzLittleFunky",
+    "uuid": "f6439d5d-5d52-482d-a5d3-22c9d4b406bb"
+   },
+   {
     "name": "LINNYyln",
     "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"
    },
@@ -418,12 +422,20 @@
    {
     "name": "Aetvs",
     "uuid": "4c71dd83-41c4-4526-8ab1-1d8e214be605"
+   },
+   {
+    "name": "Kevin_dutz",
+    "uuid": "21ef03a3-e3c7-4ce9-b8db-5cfe7ba6d8b4"
    }
   ],
   "trusted": [
    {
     "name": "me1i90",
     "uuid": "50c39390-de75-4b47-a102-de5cbe7e2510"
+   },
+   {
+    "name": "ItzLittleFunky",
+    "uuid": "f6439d5d-5d52-482d-a5d3-22c9d4b406bb"
    }
   ],
   "outlaws": [
@@ -450,6 +462,10 @@
    ],
    "Builder": [],
    "Recruiter": [
+    {
+     "name": "ItzLittleFunky",
+     "uuid": "f6439d5d-5d52-482d-a5d3-22c9d4b406bb"
+    },
     {
      "name": "LINNYyln",
      "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"

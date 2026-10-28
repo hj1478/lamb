@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Ilyas",
-  "uuid": "43269f82-3740-4391-bea4-379448d7e810",
+  "name": "Ushitaki",
+  "uuid": "cd00d643-6e38-4797-8ae6-2dbf230ea330",
   "board": "/town set board [msg]",
-  "founder": "ilyasceri",
+  "founder": "ItzAmiya",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ilyasceri",
-   "uuid": "7a70fb99-1d52-4507-8114-2b3f6944731c"
+   "name": "ItzAmiya",
+   "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Japan",
+   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
   },
   "timestamps": {
-   "registered": 1783279173942,
-   "joinedNationAt": null,
+   "registered": 1793188208129,
+   "joinedNationAt": 1793188214980,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 66.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -50,81 +50,86 @@
     false,
     false,
     false,
-    true
+    false
    ],
    "destroy": [
     false,
     false,
     false,
-    true
+    false
    ],
    "switch": [
     false,
     false,
     false,
-    true
+    false
    ],
    "itemUse": [
     false,
     false,
     false,
-    true
+    false
    ],
    "flags": {
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16568.150222209733,
-    "y": 63.0,
-    "z": -18026.333814412843,
-    "pitch": 27.025858,
-    "yaw": 144.73145
+    "x": 50487.454245426765,
+    "y": 70.0,
+    "z": -7661.699999988079,
+    "pitch": 37.49997,
+    "yaw": -23.741272
    },
    "homeBlock": [
-    1035,
-    -1127
+    3155,
+    -479
    ],
    "townBlocks": [
     [
-     1035,
-     -1127
+     3155,
+     -478
     ],
     [
-     1034,
-     -1128
+     3155,
+     -479
     ],
     [
-     1034,
-     -1127
+     3155,
+     -480
     ],
     [
-     1035,
-     -1128
+     3156,
+     -479
     ],
     [
-     1033,
-     -1128
+     3154,
+     -479
     ],
     [
-     1033,
-     -1127
+     3154,
+     -480
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ilyasceri",
-    "uuid": "7a70fb99-1d52-4507-8114-2b3f6944731c"
+    "name": "ItzAmiya",
+    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "zkbcnm",
+    "uuid": "d1fb1ca3-5c6a-4ad2-8a26-e1a58f146f59"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

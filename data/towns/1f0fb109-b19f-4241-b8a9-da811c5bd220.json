@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Dragonportia",
   "uuid": "1f0fb109-b19f-4241-b8a9-da811c5bd220",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 87.0,
+   "balance": 91.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,6 +96,14 @@
      318
     ],
     [
+     -1728,
+     319
+    ],
+    [
+     -1728,
+     318
+    ],
+    [
      -1726,
      318
     ],
@@ -146,6 +154,10 @@
    {
     "name": "maxtonvee",
     "uuid": "14339f21-1178-4e70-a514-3baeb3635288"
+   },
+   {
+    "name": "crazygamer10127",
+    "uuid": "710ceee9-6d4c-4e66-b954-2122c42a2bc7"
    }
   ],
   "trusted": [
@@ -161,7 +173,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "crazygamer10127",
+     "uuid": "710ceee9-6d4c-4e66-b954-2122c42a2bc7"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

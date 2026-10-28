@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "Funk_Forest",
-  "uuid": "7926023e-fabc-44d3-9959-8460b51ff0f6",
+  "name": "Kanal",
+  "uuid": "a26ec6fe-c646-40fb-aeb3-959c109d0bf7",
   "board": "/town set board [msg]",
-  "founder": "_Blubby_",
+  "founder": "1nspectual",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Blubby_",
-   "uuid": "8b45826b-32d5-4658-bb43-d1a2d3e28f2e"
+   "name": "1nspectual",
+   "uuid": "c19db314-b80a-4741-a602-a976a451a4c8"
   },
   "nation": {
-   "name": "ROC",
-   "uuid": "41186ac6-1e3b-416c-9c27-bbdfd4593c06"
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
-   "registered": 1789221344339,
-   "joinedNationAt": 1789221411391,
+   "registered": 1793156540907,
+   "joinedNationAt": 1793156579809,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,31 +80,40 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 39281.480918425405,
-    "y": 78.0,
-    "z": -3623.2710862267463,
-    "pitch": 8.850303,
-    "yaw": -123.138916
+    "x": -34009.56895850204,
+    "y": 70.0,
+    "z": -7210.375318458751,
+    "pitch": 1.3472418,
+    "yaw": 179.07306
    },
    "homeBlock": [
-    2455,
-    -227
+    -2126,
+    -451
    ],
    "townBlocks": [
     [
-     2455,
-     -227
+     -2126,
+     -451
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_Blubby_",
-    "uuid": "8b45826b-32d5-4658-bb43-d1a2d3e28f2e"
+    "name": "1nspectual",
+    "uuid": "c19db314-b80a-4741-a602-a976a451a4c8"
+   },
+   {
+    "name": "DeadlyNote94263",
+    "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DeadlyNote94263",
+    "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

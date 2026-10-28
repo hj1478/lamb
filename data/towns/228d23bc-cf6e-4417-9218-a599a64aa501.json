@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Temple",
   "uuid": "228d23bc-cf6e-4417-9218-a599a64aa501",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 46,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 6,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 48.0,
+   "numOutlaws": 1,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,20 +92,188 @@
    ],
    "townBlocks": [
     [
+     2649,
+     -712
+    ],
+    [
+     2649,
+     -711
+    ],
+    [
+     2647,
+     -709
+    ],
+    [
+     2647,
+     -708
+    ],
+    [
+     2647,
+     -707
+    ],
+    [
      2650,
      -710
+    ],
+    [
+     2650,
+     -711
+    ],
+    [
+     2647,
+     -711
+    ],
+    [
+     2650,
+     -712
+    ],
+    [
+     2647,
+     -710
+    ],
+    [
+     2648,
+     -710
+    ],
+    [
+     2651,
+     -711
+    ],
+    [
+     2652,
+     -711
+    ],
+    [
+     2648,
+     -709
+    ],
+    [
+     2651,
+     -710
+    ],
+    [
+     2652,
+     -710
+    ],
+    [
+     2648,
+     -708
+    ],
+    [
+     2651,
+     -709
+    ],
+    [
+     2648,
+     -707
+    ],
+    [
+     2651,
+     -708
+    ],
+    [
+     2648,
+     -706
+    ],
+    [
+     2652,
+     -707
+    ],
+    [
+     2652,
+     -706
+    ],
+    [
+     2652,
+     -709
+    ],
+    [
+     2651,
+     -712
+    ],
+    [
+     2652,
+     -708
+    ],
+    [
+     2650,
+     -706
+    ],
+    [
+     2650,
+     -707
+    ],
+    [
+     2650,
+     -708
     ],
     [
      2650,
      -709
     ],
     [
+     2651,
+     -707
+    ],
+    [
+     2646,
+     -709
+    ],
+    [
+     2651,
+     -706
+    ],
+    [
+     2646,
+     -710
+    ],
+    [
+     2651,
+     -705
+    ],
+    [
+     2646,
+     -711
+    ],
+    [
+     2650,
+     -705
+    ],
+    [
+     2649,
+     -706
+    ],
+    [
+     2652,
+     -705
+    ],
+    [
+     2649,
+     -705
+    ],
+    [
+     2649,
+     -708
+    ],
+    [
+     2649,
+     -707
+    ],
+    [
      2649,
      -710
     ],
     [
+     2648,
+     -712
+    ],
+    [
      2649,
      -709
+    ],
+    [
+     2648,
+     -711
     ]
    ],
    "worlds": {}
@@ -118,6 +286,22 @@
    {
     "name": "charliehax",
     "uuid": "593ed0d2-6331-49b1-b4d2-5ebd31354879"
+   },
+   {
+    "name": "VeryOhioGuy",
+    "uuid": "96a5d477-ac77-4f7e-9d0d-687b7b065f09"
+   },
+   {
+    "name": "Stillygal",
+    "uuid": "0bb6d105-3f2b-4c2f-b1c2-1165eb0d9a69"
+   },
+   {
+    "name": "SlushyBoy",
+    "uuid": "a062768c-5280-402a-a296-e40c6257558f"
+   },
+   {
+    "name": "Ethan_Xanz",
+    "uuid": "4743ba83-596e-428f-ae43-006d5ecb00ef"
    }
   ],
   "trusted": [
@@ -126,17 +310,45 @@
     "uuid": "fc317a85-7958-40ae-9027-c4e5feba4d2c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "VeryOhioGuy",
+     "uuid": "96a5d477-ac77-4f7e-9d0d-687b7b065f09"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "VeryOhioGuy",
+     "uuid": "96a5d477-ac77-4f7e-9d0d-687b7b065f09"
+    },
+    {
+     "name": "Stillygal",
+     "uuid": "0bb6d105-3f2b-4c2f-b1c2-1165eb0d9a69"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "charliehax",
+     "uuid": "593ed0d2-6331-49b1-b4d2-5ebd31354879"
+    },
+    {
+     "name": "Stillygal",
+     "uuid": "0bb6d105-3f2b-4c2f-b1c2-1165eb0d9a69"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

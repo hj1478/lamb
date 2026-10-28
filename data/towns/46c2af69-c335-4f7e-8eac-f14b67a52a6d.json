@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
-  "name": "HUXF_SIEGE",
-  "uuid": "aa716c23-c2b0-4cf9-8230-0593fbcd1387",
+  "name": "GoldRetardsRush",
+  "uuid": "46c2af69-c335-4f7e-8eac-f14b67a52a6d",
   "board": "/town set board [msg]",
-  "founder": "zw1pex",
+  "founder": "Lorelollo10",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC83",
-   "uuid": "9f7411db-98b9-20c7-b8e6-743361059c02"
+   "name": "lavnchinger",
+   "uuid": "f1316e2d-3aa4-4cc8-b737-f9f5f188e825"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1785507240350,
+   "registered": 1793143619253,
    "joinedNationAt": null,
-   "ruinedAt": 1792922700691
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,112 +35,93 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
+    false,
+    false,
     true,
-    true,
-    true,
-    true
+    false
    ],
    "destroy": [
+    false,
+    false,
     true,
-    true,
-    true,
-    true
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
+    false,
+    false,
     true,
-    true,
-    true,
-    true
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4461.958456590075,
-    "y": 63.0,
-    "z": -6354.386663915741,
-    "pitch": 2.222279,
-    "yaw": -12.421753
+    "x": 19905.16403059768,
+    "y": 83.0,
+    "z": 15652.176723973087,
+    "pitch": 25.349894,
+    "yaw": -102.34277
    },
    "homeBlock": [
-    278,
-    -398
+    1244,
+    978
    ],
    "townBlocks": [
     [
-     278,
-     -398
-    ],
-    [
-     279,
-     -396
-    ],
-    [
-     280,
-     -397
-    ],
-    [
-     279,
-     -397
-    ],
-    [
-     280,
-     -398
-    ],
-    [
-     279,
-     -398
-    ],
-    [
-     280,
-     -396
-    ],
-    [
-     278,
-     -397
-    ],
-    [
-     278,
-     -396
+     1244,
+     978
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC83",
-    "uuid": "9f7411db-98b9-20c7-b8e6-743361059c02"
+    "name": "Lorelollo10",
+    "uuid": "d6403022-4052-46ad-909a-0e3bf94299be"
+   },
+   {
+    "name": "lavnchinger",
+    "uuid": "f1316e2d-3aa4-4cc8-b737-f9f5f188e825"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Lorelollo10",
+     "uuid": "d6403022-4052-46ad-909a-0e3bf94299be"
+    },
+    {
+     "name": "lavnchinger",
+     "uuid": "f1316e2d-3aa4-4cc8-b737-f9f5f188e825"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

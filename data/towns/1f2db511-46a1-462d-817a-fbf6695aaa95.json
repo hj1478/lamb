@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "New_Shawchow",
   "uuid": "1f2db511-46a1-462d-817a-fbf6695aaa95",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 48,
+   "numTownBlocks": 62,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
@@ -60,7 +60,7 @@
    ],
    "switch": [
     true,
-    true,
+    false,
     false,
     false
    ],
@@ -92,11 +92,31 @@
    ],
    "townBlocks": [
     [
+     847,
+     -645
+    ],
+    [
+     847,
+     -644
+    ],
+    [
+     847,
+     -643
+    ],
+    [
+     847,
+     -642
+    ],
+    [
      853,
      -645
     ],
     [
      853,
+     -646
+    ],
+    [
+     847,
      -646
     ],
     [
@@ -204,8 +224,16 @@
      -643
     ],
     [
+     854,
+     -646
+    ],
+    [
      853,
      -644
+    ],
+    [
+     854,
+     -640
     ],
     [
      854,
@@ -218,6 +246,14 @@
     [
      854,
      -643
+    ],
+    [
+     855,
+     -641
+    ],
+    [
+     855,
+     -645
     ],
     [
      850,
@@ -273,6 +309,22 @@
     ],
     [
      848,
+     -645
+    ],
+    [
+     848,
+     -646
+    ],
+    [
+     855,
+     -646
+    ],
+    [
+     848,
+     -641
+    ],
+    [
+     848,
      -642
     ],
     [
@@ -282,6 +334,10 @@
     [
      852,
      -645
+    ],
+    [
+     847,
+     -641
     ]
    ],
    "worlds": {}
@@ -301,10 +357,6 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Inconvenient Apartment",
-    "uuid": "19b37f38-733c-4363-85f4-803e4f376da3"
-   },
-   {
     "name": "Perturbing Dwelling",
     "uuid": "d7b847fa-0ff2-4389-96b6-b555771f1eee"
    },
@@ -319,6 +371,10 @@
    {
     "name": "Entrance",
     "uuid": "2884e95a-738d-4423-8507-e99666edbfed"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "19b37f38-733c-4363-85f4-803e4f376da3"
    }
   ],
   "ranks": {

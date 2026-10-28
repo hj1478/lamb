@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Mandate",
   "uuid": "0cb69b4d-5716-4e94-8e30-d28acba9b3e2",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 2,
+   "numResidents": 11,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 29.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1565,
+     236
+    ],
+    [
+     -1565,
      235
     ],
     [
@@ -108,6 +112,10 @@
      235
     ],
     [
+     -1563,
+     236
+    ],
+    [
      -1564,
      234
     ],
@@ -118,6 +126,10 @@
     [
      -1563,
      234
+    ],
+    [
+     -1564,
+     236
     ],
     [
      -1564,
@@ -127,10 +139,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "ImBenHaha",
-    "uuid": "1df2c13a-247d-4683-adb4-9fa7fdc6f961"
-   },
    {
     "name": "LoneFlooper",
     "uuid": "92090cad-9e40-4b40-bb26-8ea3e0c6fef3"
@@ -150,16 +158,60 @@
    {
     "name": "Aus__tizm",
     "uuid": "a87c4783-97b0-4820-946d-8e7059b125a2"
+   },
+   {
+    "name": "TchiefW",
+    "uuid": "f87864f2-e401-4c28-ac7e-43dc4895c7fc"
+   },
+   {
+    "name": "cosmic_so7",
+    "uuid": "d5b58206-1fce-4e0e-97aa-2bc56a8f3d82"
+   },
+   {
+    "name": "Yuista",
+    "uuid": "6e578793-4dcb-4eee-abb6-60e878a3db05"
+   },
+   {
+    "name": "ImBenHaha",
+    "uuid": "1df2c13a-247d-4683-adb4-9fa7fdc6f961"
+   },
+   {
+    "name": "phatasflip",
+    "uuid": "62a59a95-3d10-44d1-afd4-e60a4845a45e"
+   },
+   {
+    "name": "Tintallium",
+    "uuid": "b94d216b-e819-4c06-9153-78c54fea3b6a"
    }
   ],
   "trusted": [
+   {
+    "name": "Xtvr",
+    "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+   },
    {
     "name": "LoneFlooper",
     "uuid": "92090cad-9e40-4b40-bb26-8ea3e0c6fef3"
    },
    {
+    "name": "phatasflip",
+    "uuid": "62a59a95-3d10-44d1-afd4-e60a4845a45e"
+   },
+   {
+    "name": "App1eTheWeener",
+    "uuid": "fc57ada8-8cf2-4d3b-af38-c2d278266f52"
+   },
+   {
     "name": "paymxnt",
     "uuid": "512ac510-2bd4-4b83-a8a9-5eb22067314d"
+   },
+   {
+    "name": "zmtqt",
+    "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
+   },
+   {
+    "name": "Tintallium",
+    "uuid": "b94d216b-e819-4c06-9153-78c54fea3b6a"
    }
   ],
   "outlaws": [],

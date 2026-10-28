@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Fishermans_Rest",
   "uuid": "17f6381d-944a-4ecc-93b5-ea3daf70f9f6",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 1170.0,
+   "balance": 1710.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -6847.1475272625785,
-    "y": 63.0,
-    "z": 18095.771072885353,
-    "pitch": 8.249988,
-    "yaw": 95.0036
+    "x": -6836.300000011921,
+    "y": 65.0,
+    "z": 18091.69999998808,
+    "pitch": 14.399983,
+    "yaw": 104.90393
    },
    "homeBlock": [
     -428,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -428,
+     1132
+    ],
+    [
+     -428,
      1131
     ],
     [
@@ -104,10 +108,6 @@
      1129
     ],
     [
-     -428,
-     1128
-    ],
-    [
      -427,
      1129
     ],
@@ -120,8 +120,8 @@
      1131
     ],
     [
-     -429,
-     1128
+     -427,
+     1132
     ],
     [
      -429,
@@ -133,11 +133,11 @@
     ],
     [
      -429,
-     1131
+     1132
     ],
     [
-     -427,
-     1128
+     -429,
+     1131
     ]
    ],
    "worlds": {}
@@ -148,7 +148,16 @@
     "uuid": "64f399ce-0ec5-416b-999b-4446b7466d8e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "BornDay",
+    "uuid": "0e9af106-8da9-451f-862e-e1dc518703b6"
+   },
+   {
+    "name": "xwisper_",
+    "uuid": "0f7b002f-fdcd-46ba-a7c6-33d8f0439644"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

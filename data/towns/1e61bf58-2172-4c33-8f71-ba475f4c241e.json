@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Macro",
   "uuid": "1e61bf58-2172-4c33-8f71-ba475f4c241e",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 24.0,
    "forSalePrice": null
@@ -546,9 +546,18 @@
    {
     "name": "atomic_kuro",
     "uuid": "1259c595-fedc-4b0e-a9aa-d64cfbc596ae"
+   },
+   {
+    "name": "Tickinbeesr",
+    "uuid": "6175ad46-3ac1-4493-81cc-d9220ee4b875"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "TheMagicTom",
+    "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Millbrook",
   "uuid": "0ccb88a1-1ede-4591-bb0e-7967160b2aee",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Moochy14",
-   "uuid": "b0042fb2-e7b4-4169-97ae-2331aac7e87b"
+   "name": "NPC107",
+   "uuid": "53c3b888-0c82-20ee-a63f-e6afadce8a7f"
   },
   "nation": {
-   "name": "England",
-   "uuid": "52f45acd-c016-4c21-9c53-acf48b134159"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784838435427,
-   "joinedNationAt": 1784841194682,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793008800592
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,8 +136,8 @@
   },
   "residents": [
    {
-    "name": "Moochy14",
-    "uuid": "b0042fb2-e7b4-4169-97ae-2331aac7e87b"
+    "name": "NPC107",
+    "uuid": "53c3b888-0c82-20ee-a63f-e6afadce8a7f"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Managua",
   "uuid": "09552fae-8772-48b5-9bba-f43244c1f992",
@@ -12,7 +12,7 @@
    "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
   },
   "nation": {
-   "name": "Costa_Rica",
+   "name": "Nicaragua",
    "uuid": "956f81af-3c83-4ebb-bb63-96f8d2e72889"
   },
   "timestamps": {
@@ -24,7 +24,7 @@
    "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 33,
+   "numTownBlocks": 34,
    "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 23.0,
+   "balance": 82.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30954.652839216564,
+    "x": -30960.94236410126,
     "y": 63.0,
-    "z": 3589.3134425460858,
-    "pitch": 28.349834,
-    "yaw": -26.88623
+    "z": 3588.2381699528287,
+    "pitch": -22.500154,
+    "yaw": 0.113792434
    },
    "homeBlock": [
-    -1935,
+    -1936,
     224
    ],
    "townBlocks": [
@@ -146,6 +146,10 @@
     [
      -1930,
      227
+    ],
+    [
+     -1935,
+     223
     ],
     [
      -1935,

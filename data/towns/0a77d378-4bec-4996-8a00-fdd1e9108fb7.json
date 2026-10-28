@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Gora_Kalwaria",
   "uuid": "0a77d378-4bec-4996-8a00-fdd1e9108fb7",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 56,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 102,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "nationBonus": 30,
+   "numResidents": 6,
+   "numTrusted": 3,
    "numOutlaws": 2,
-   "balance": 67.0,
+   "balance": 115.0,
    "forSalePrice": null
   },
   "perms": {
@@ -330,13 +330,21 @@
    {
     "name": "EnchantedSraka15",
     "uuid": "dd24bdc3-ea72-44c0-81fe-3e36b7fc78c1"
+   },
+   {
+    "name": "z3b3rq",
+    "uuid": "8493f836-7911-4981-a070-a24d64b8e325"
+   },
+   {
+    "name": "Jankotelefon",
+    "uuid": "7246ee89-1127-4418-a845-a5693f5df34a"
+   },
+   {
+    "name": "PIOMAZZI",
+    "uuid": "84e69f95-b2b6-4168-8f15-0f60b4cdcf48"
    }
   ],
   "trusted": [
-   {
-    "name": "JPPAS",
-    "uuid": "2f4166d2-21d1-4f3f-bcb6-5ce5c7fbcb7e"
-   },
    {
     "name": "FeliksTV",
     "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
@@ -420,6 +428,14 @@
     {
      "name": "tha_cultist",
      "uuid": "587e37c7-b579-4d9e-b2ac-c10c5bb65486"
+    },
+    {
+     "name": "z3b3rq",
+     "uuid": "8493f836-7911-4981-a070-a24d64b8e325"
+    },
+    {
+     "name": "Jankotelefon",
+     "uuid": "7246ee89-1127-4418-a845-a5693f5df34a"
     }
    ],
    "Recruiter": [],
@@ -427,7 +443,12 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "z3b3rq",
+     "uuid": "8493f836-7911-4981-a070-a24d64b8e325"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

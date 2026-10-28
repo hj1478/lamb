@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Vanguardia",
   "uuid": "1608e996-409e-462a-b2f1-3172f256270a",
-  "board": "/town set board [msg]",
+  "board": "Welcome To Vanguardia our nation is Italy",
   "founder": "ShadowWardenCraf",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 9,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,8 +100,20 @@
      -354
     ],
     [
+     208,
+     -353
+    ],
+    [
+     207,
+     -353
+    ],
+    [
      207,
      -355
+    ],
+    [
+     209,
+     -353
     ],
     [
      207,
@@ -110,6 +122,10 @@
     [
      209,
      -354
+    ],
+    [
+     209,
+     -355
     ]
    ],
    "worlds": {}
@@ -122,7 +138,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "aada682b-4c43-4131-8ad1-a956539b5869"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

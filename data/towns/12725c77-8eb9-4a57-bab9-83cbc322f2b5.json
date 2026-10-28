@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Budapest",
   "uuid": "12725c77-8eb9-4a57-bab9-83cbc322f2b5",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 268,
-   "maxTownBlocks": 556,
+   "maxTownBlocks": 448,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 38,
+   "numResidents": 29,
    "numTrusted": 1,
    "numOutlaws": 13,
-   "balance": 13.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1180,6 +1180,10 @@
     "uuid": "3b0ac8f0-08bb-4ac3-b8e1-c35bb012e578"
    },
    {
+    "name": "stefan_fanutu",
+    "uuid": "08119929-1d8f-4079-81fe-909f18bbaa41"
+   },
+   {
     "name": "Miro_moo",
     "uuid": "624b7232-1cdf-4728-9bf3-eab3dcb385e0"
    },
@@ -1212,10 +1216,6 @@
     "uuid": "088e32d1-5bd7-484d-8316-8b2b25cd445c"
    },
    {
-    "name": "FakeSalvolin",
-    "uuid": "f9ff7250-5f68-43ee-842c-6c975ba7f81d"
-   },
-   {
     "name": "GreenerPasta",
     "uuid": "df08d0a5-e27b-41ca-9bf8-e87a8939f6be"
    },
@@ -1224,44 +1224,12 @@
     "uuid": "f0aadda6-2feb-47c2-b57a-92fa3600a470"
    },
    {
-    "name": "Fikos_Sk",
-    "uuid": "991ee117-c26b-4669-acb6-c3f1942392c9"
-   },
-   {
     "name": "Bendeguez",
     "uuid": "01ef2933-ceb7-4568-ac56-de68dbb70f9f"
    },
    {
-    "name": "Sky_w18",
-    "uuid": "ef63ceb8-c227-429a-8f8a-cca70f9b5aaf"
-   },
-   {
-    "name": "WalschiOG1948",
-    "uuid": "5b617c79-da13-4c6a-b1ea-1f12b688b4d2"
-   },
-   {
-    "name": "d3i4",
-    "uuid": "c1814aaf-e481-43db-a523-88e0b613512f"
-   },
-   {
-    "name": "OTG_Csuka23",
-    "uuid": "ec3b7380-a285-46f5-b001-3b72af22e58a"
-   },
-   {
-    "name": "TescosZsemle47",
-    "uuid": "460389ac-6cbf-4f62-8a39-e6cd99cc8071"
-   },
-   {
     "name": "MorKovacs",
     "uuid": "cd7d7f1c-d528-48ce-8b95-36d8aa553352"
-   },
-   {
-    "name": "gyaron87",
-    "uuid": "ae34940c-55fe-4a3a-a73c-4ace1371101f"
-   },
-   {
-    "name": "olibrap12",
-    "uuid": "0875d944-1611-4cd7-919a-3f791351f3ef"
    },
    {
     "name": "luxdos",
@@ -1274,10 +1242,6 @@
    {
     "name": "Memutza",
     "uuid": "17e432f2-2957-4075-a2ca-02be2a850142"
-   },
-   {
-    "name": "ElSkere",
-    "uuid": "2b3870f7-bb64-40a4-8f1f-493f8f635c3a"
    },
    {
     "name": "Gigio_VII",
@@ -1438,10 +1402,6 @@
     "uuid": "10c04937-34a1-4a47-a14f-09348d5e7e0e"
    },
    {
-    "name": "Gloomy Tenement",
-    "uuid": "51786eef-5929-468f-acd4-10df5006164a"
-   },
-   {
     "name": "Inconvenient Dwelling",
     "uuid": "76cf5072-d745-4371-bded-e4e48cf05669"
    },
@@ -1460,6 +1420,10 @@
    {
     "name": "Dull Tenement",
     "uuid": "5d65a2a4-73e3-46ae-96f8-d568b035840e"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "51786eef-5929-468f-acd4-10df5006164a"
    }
   ],
   "ranks": {
@@ -1472,20 +1436,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "TrialChamber",
-    "uuid": "7033b971-f391-4042-ac1e-13b51058fbdd",
-    "createdAt": 1791831079233,
-    "createdBy": "Don_Peanut",
-    "access": "NATION",
-    "location": {
-     "x": 6607,
-     "y": -24,
-     "z": -10597
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

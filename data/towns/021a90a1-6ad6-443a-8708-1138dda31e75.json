@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Amasya_Beyligi",
   "uuid": "021a90a1-6ad6-443a-8708-1138dda31e75",
@@ -12,12 +12,12 @@
    "uuid": "16e3254b-072f-4375-a482-67cc24ed5a0e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
    "registered": 1792342986562,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792610003864,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 37,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,32 +92,152 @@
    ],
    "townBlocks": [
     [
-     788,
+     791,
+     -472
+    ],
+    [
+     791,
      -473
     ],
     [
-     788,
+     791,
      -474
+    ],
+    [
+     791,
+     -475
+    ],
+    [
+     791,
+     -477
+    ],
+    [
+     791,
+     -478
+    ],
+    [
+     791,
+     -479
     ],
     [
      789,
      -472
     ],
     [
-     790,
-     -472
-    ],
-    [
      789,
-     -473
-    ],
-    [
-     790,
      -473
     ],
     [
      789,
      -474
+    ],
+    [
+     787,
+     -480
+    ],
+    [
+     787,
+     -479
+    ],
+    [
+     788,
+     -480
+    ],
+    [
+     790,
+     -472
+    ],
+    [
+     790,
+     -473
+    ],
+    [
+     790,
+     -474
+    ],
+    [
+     788,
+     -472
+    ],
+    [
+     790,
+     -479
+    ],
+    [
+     788,
+     -473
+    ],
+    [
+     790,
+     -480
+    ],
+    [
+     788,
+     -474
+    ],
+    [
+     788,
+     -475
+    ],
+    [
+     790,
+     -475
+    ],
+    [
+     788,
+     -476
+    ],
+    [
+     790,
+     -476
+    ],
+    [
+     788,
+     -477
+    ],
+    [
+     790,
+     -477
+    ],
+    [
+     788,
+     -478
+    ],
+    [
+     790,
+     -478
+    ],
+    [
+     788,
+     -479
+    ],
+    [
+     789,
+     -479
+    ],
+    [
+     789,
+     -480
+    ],
+    [
+     789,
+     -475
+    ],
+    [
+     789,
+     -476
+    ],
+    [
+     789,
+     -477
+    ],
+    [
+     789,
+     -478
+    ],
+    [
+     791,
+     -480
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Gdansk",
   "uuid": "190f76fe-40ac-4bd2-8a84-21c58fa7f574",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 251,
-   "maxTownBlocks": 352,
+   "numTownBlocks": 253,
+   "maxTownBlocks": 400,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 21,
+   "numResidents": 25,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -232,6 +232,10 @@
      -842
     ],
     [
+     413,
+     -860
+    ],
+    [
      412,
      -855
     ],
@@ -946,6 +950,10 @@
     [
      411,
      -841
+    ],
+    [
+     414,
+     -860
     ],
     [
      414,
@@ -1100,6 +1108,10 @@
   },
   "residents": [
    {
+    "name": "JustanEpik_Dude",
+    "uuid": "bd5e4152-4907-4a12-beb0-5f4894702e8a"
+   },
+   {
     "name": "alexnocivan",
     "uuid": "4f503739-c6a5-461c-a777-39f8b5df9e0a"
    },
@@ -1108,8 +1120,16 @@
     "uuid": "d36fd2e9-894f-417f-b150-c8b95b4c7108"
    },
    {
-    "name": "oCheekyChimp",
-    "uuid": "d614c5de-95e9-4d13-ac51-b75fb695becf"
+    "name": "GlitterSprinkle",
+    "uuid": "e4c81e7c-b068-46d2-85f9-6241aa0e0d8b"
+   },
+   {
+    "name": "PopcornCoran",
+    "uuid": "0692f663-b759-4a92-8aaf-249669ff1c56"
+   },
+   {
+    "name": "Overseqn",
+    "uuid": "1778aeb1-9244-4f0d-bc4b-dea630ebc22e"
    },
    {
     "name": "Xaverfun",
@@ -1130,10 +1150,6 @@
    {
     "name": "32JoeCamel",
     "uuid": "4f44b2ec-1174-4971-a11d-b7a7567e2da4"
-   },
-   {
-    "name": "HeartoftheShadow",
-    "uuid": "5266bfa0-1366-4f4b-91fc-6aae4fbd6035"
    },
    {
     "name": "Laliulu",
@@ -1182,6 +1198,14 @@
    {
     "name": "OscarGamer69",
     "uuid": "852c8b41-fdad-4e4d-aec0-4042ba44feb1"
+   },
+   {
+    "name": "aacademymaniacs",
+    "uuid": "7fb4f392-3b7b-4318-9130-4b1d4cca81bd"
+   },
+   {
+    "name": "Thecupshere",
+    "uuid": "27974fba-d454-47ba-aa9f-4803ca6edd9b"
    }
   ],
   "trusted": [
@@ -1213,10 +1237,6 @@
     "uuid": "05f1a8db-723a-4075-bb84-cfa40bc1c1ab"
    },
    {
-    "name": "Welcoming Suite",
-    "uuid": "ba73ca9d-7231-45ec-bafc-358e04cdd4d5"
-   },
-   {
     "name": "Annoying Dwelling",
     "uuid": "91bd7ad0-a805-41ea-8807-58ca92ab13c4"
    },
@@ -1235,6 +1255,10 @@
    {
     "name": "Enraging Flat",
     "uuid": "9f7536e7-05e4-41cc-b537-1922204768e8"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "ba73ca9d-7231-45ec-bafc-358e04cdd4d5"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Zuwarah",
   "uuid": "0a09fae8-e4aa-4a36-86fc-a1e92a7993c3",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 19,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 20.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,28 +80,60 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4025.2088750415955,
+    "x": 4041.1747404311704,
     "y": 63.0,
-    "z": -4327.932592052072,
-    "pitch": 31.918793,
-    "yaw": 160.82321
+    "z": -4315.86306853358,
+    "pitch": 40.91904,
+    "yaw": -177.27634
    },
    "homeBlock": [
-    251,
-    -271
+    252,
+    -270
    ],
    "townBlocks": [
     [
+     255,
+     -270
+    ],
+    [
+     253,
+     -269
+    ],
+    [
+     255,
+     -269
+    ],
+    [
      253,
      -271
+    ],
+    [
+     253,
+     -270
     ],
     [
      255,
      -271
     ],
     [
-     253,
+     251,
+     -268
+    ],
+    [
+     251,
+     -269
+    ],
+    [
+     251,
      -270
+    ],
+    [
+     251,
+     -271
+    ],
+    [
+     251,
+     -272
     ],
     [
      252,
@@ -109,19 +141,31 @@
     ],
     [
      254,
-     -271
-    ],
-    [
-     251,
      -270
     ],
     [
-     251,
+     252,
+     -272
+    ],
+    [
+     254,
      -271
     ],
     [
      252,
+     -268
+    ],
+    [
+     252,
+     -269
+    ],
+    [
+     252,
      -270
+    ],
+    [
+     254,
+     -269
     ]
    ],
    "worlds": {}
@@ -130,6 +174,10 @@
    {
     "name": "LevisAls",
     "uuid": "a74c0e35-a047-4498-ba8d-d5ac9ff3ce17"
+   },
+   {
+    "name": "Dhrem",
+    "uuid": "9849136a-b628-46f5-a488-c8c95d321a5e"
    }
   ],
   "trusted": [

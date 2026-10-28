@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Animal_Planet",
   "uuid": "0e6b3b0c-730a-45f7-ace6-5238fca35612",
@@ -25,22 +25,22 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 94,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 2,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 6,
    "balance": 0.0,
    "forSalePrice": null
@@ -480,7 +480,12 @@
     "uuid": "08188dc8-ed9b-421c-ba60-90412ff36aa9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "_RedNek",
+    "uuid": "08188dc8-ed9b-421c-ba60-90412ff36aa9"
+   }
+  ],
   "outlaws": [
    {
     "name": "MalMeteor",
@@ -503,7 +508,7 @@
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
    },
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Kifu",
   "uuid": "1e1c77a6-e48f-4d43-b647-6c6d92923f31",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "yuki_pon",
-   "uuid": "9501e66c-1df7-459c-8b81-f6e8ad1b0fdb"
+   "name": "NPC88",
+   "uuid": "f2e0f897-af95-209b-813e-c875096fcb3d"
   },
   "nation": {
-   "name": "Bokkai",
-   "uuid": "a258d426-9cbb-4fa3-bf97-4cbd57b4d13c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785159170330,
-   "joinedNationAt": 1785159374430,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793008803306
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 93,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -468,8 +468,8 @@
   },
   "residents": [
    {
-    "name": "yuki_pon",
-    "uuid": "9501e66c-1df7-459c-8b81-f6e8ad1b0fdb"
+    "name": "NPC88",
+    "uuid": "f2e0f897-af95-209b-813e-c875096fcb3d"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "EastFalkland",
   "uuid": "0cab3ddb-ea53-4839-b4cd-8ce85c73abdc",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 337.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21116.282059381625,
+    "x": -21116.70074221397,
     "y": 66.0,
-    "z": 28540.547534453082,
-    "pitch": 2.5502725,
-    "yaw": -135.63281
+    "z": 28540.720762327866,
+    "pitch": 4.349966,
+    "yaw": -135.03189
    },
    "homeBlock": [
     -1320,
@@ -92,8 +92,140 @@
    ],
    "townBlocks": [
     [
+     -1315,
+     1783
+    ],
+    [
+     -1315,
+     1784
+    ],
+    [
+     -1315,
+     1785
+    ],
+    [
+     -1315,
+     1782
+    ],
+    [
+     -1316,
+     1785
+    ],
+    [
+     -1320,
+     1782
+    ],
+    [
+     -1318,
+     1783
+    ],
+    [
+     -1316,
+     1783
+    ],
+    [
+     -1318,
+     1782
+    ],
+    [
+     -1320,
+     1781
+    ],
+    [
+     -1316,
+     1784
+    ],
+    [
+     -1320,
+     1780
+    ],
+    [
+     -1318,
+     1781
+    ],
+    [
+     -1316,
+     1782
+    ],
+    [
+     -1319,
+     1782
+    ],
+    [
+     -1321,
+     1785
+    ],
+    [
+     -1321,
+     1784
+    ],
+    [
+     -1319,
+     1781
+    ],
+    [
+     -1321,
+     1783
+    ],
+    [
+     -1319,
+     1784
+    ],
+    [
+     -1321,
+     1782
+    ],
+    [
+     -1319,
+     1783
+    ],
+    [
+     -1321,
+     1781
+    ],
+    [
+     -1320,
+     1785
+    ],
+    [
+     -1319,
+     1785
+    ],
+    [
+     -1321,
+     1780
+    ],
+    [
+     -1320,
+     1784
+    ],
+    [
+     -1318,
+     1785
+    ],
+    [
      -1320,
      1783
+    ],
+    [
+     -1318,
+     1784
+    ],
+    [
+     -1317,
+     1782
+    ],
+    [
+     -1317,
+     1783
+    ],
+    [
+     -1317,
+     1784
+    ],
+    [
+     -1317,
+     1785
     ]
    ],
    "worlds": {}
@@ -102,14 +234,36 @@
    {
     "name": "WillWill397",
     "uuid": "85e32827-31af-41db-a813-ae08d201d91a"
+   },
+   {
+    "name": "CapitalPlayer",
+    "uuid": "416049f7-affa-4f35-9702-3850ac2d01f3"
+   },
+   {
+    "name": "FailingSlow",
+    "uuid": "915506a7-4276-46ad-9102-c53280e448ef"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "WillWill397",
+     "uuid": "85e32827-31af-41db-a813-ae08d201d91a"
+    },
+    {
+     "name": "CapitalPlayer",
+     "uuid": "416049f7-affa-4f35-9702-3850ac2d01f3"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "FailingSlow",
+     "uuid": "915506a7-4276-46ad-9102-c53280e448ef"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

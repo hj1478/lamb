@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Charkov",
   "uuid": "08cdc399-4aa1-488a-a73a-0e6bd1df619d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 2,
+   "balance": 162.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,34 @@
    "townBlocks": [
     [
      817,
+     -713
+    ],
+    [
+     817,
+     -712
+    ],
+    [
+     816,
+     -712
+    ],
+    [
+     817,
+     -711
+    ],
+    [
+     816,
+     -711
+    ],
+    [
+     818,
+     -713
+    ],
+    [
+     816,
+     -713
+    ],
+    [
+     818,
      -712
     ]
    ],
@@ -102,22 +130,22 @@
    {
     "name": "conmancjm12",
     "uuid": "a5d09f25-1bb3-42d7-823b-ac2371b19a5f"
-   },
-   {
-    "name": "Eusoik",
-    "uuid": "61e28cfd-11a5-427b-b377-414d620501ee"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Farmerinarmor",
+    "uuid": "779f0358-08de-4963-87d2-2bd5fdff95bd"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Eusoik",
-     "uuid": "61e28cfd-11a5-427b-b377-414d620501ee"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

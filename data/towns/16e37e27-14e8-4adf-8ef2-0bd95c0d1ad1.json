@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T11:59:58Z",
+ "fetched_at": "2026-10-28T13:09:01Z",
  "data": {
   "name": "Thuwal",
   "uuid": "16e37e27-14e8-4adf-8ef2-0bd95c0d1ad1",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "36hoi",
+   "name": "7hoii",
    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
   },
   "nation": {
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 168,
-   "maxTownBlocks": 264,
+   "maxTownBlocks": 344,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 17,
-   "numTrusted": 4,
-   "numOutlaws": 15,
+   "nationBonus": 80,
+   "numResidents": 22,
+   "numTrusted": 3,
+   "numOutlaws": 17,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14050.718322100836,
+    "x": 14051.598382652624,
     "y": 63.0,
-    "z": -176.0755689658217,
-    "pitch": -1.0499798,
-    "yaw": 90.30017
+    "z": -176.17498837958658,
+    "pitch": -0.14999785,
+    "yaw": 89.39896
    },
    "homeBlock": [
     878,
@@ -400,6 +400,10 @@
      -5
     ],
     [
+     874,
+     -17
+    ],
+    [
      879,
      -4
     ],
@@ -409,7 +413,7 @@
     ],
     [
      874,
-     -17
+     -18
     ],
     [
      879,
@@ -421,7 +425,7 @@
     ],
     [
      874,
-     -18
+     -15
     ],
     [
      879,
@@ -433,18 +437,10 @@
     ],
     [
      874,
-     -15
-    ],
-    [
-     879,
-     -1
-    ],
-    [
-     874,
      -16
     ],
     [
-     878,
+     879,
      -1
     ],
     [
@@ -453,11 +449,15 @@
     ],
     [
      878,
-     -2
+     -1
     ],
     [
      874,
      -14
+    ],
+    [
+     878,
+     -2
     ],
     [
      874,
@@ -520,16 +520,16 @@
      -6
     ],
     [
+     874,
+     -19
+    ],
+    [
      875,
      -2
     ],
     [
      881,
      -9
-    ],
-    [
-     874,
-     -19
     ],
     [
      875,
@@ -544,12 +544,16 @@
      -3
     ],
     [
+     879,
+     -19
+    ],
+    [
      881,
      -2
     ],
     [
      879,
-     -19
+     -18
     ],
     [
      881,
@@ -557,7 +561,7 @@
     ],
     [
      879,
-     -18
+     -17
     ],
     [
      881,
@@ -565,10 +569,6 @@
     ],
     [
      879,
-     -17
-    ],
-    [
-     879,
      -16
     ],
     [
@@ -576,12 +576,12 @@
      -15
     ],
     [
-     881,
-     -1
-    ],
-    [
      879,
      -14
+    ],
+    [
+     881,
+     -1
     ],
     [
      879,
@@ -694,14 +694,14 @@
     [
      880,
      -6
-    ],
-    [
-     880,
-     -5
     ],
     [
      873,
      -19
+    ],
+    [
+     880,
+     -5
     ],
     [
      880,
@@ -773,6 +773,10 @@
   },
   "residents": [
    {
+    "name": "GMLukasz",
+    "uuid": "59450998-e8d8-4043-a91a-877e7ae8f6b3"
+   },
+   {
     "name": "Ondatra7830",
     "uuid": "35c143d1-5469-45ee-ad0a-976f5c1db2f5"
    },
@@ -785,16 +789,8 @@
     "uuid": "24669297-3f32-48e5-b909-4c4aedd8640b"
    },
    {
-    "name": "Cor0ri",
-    "uuid": "c2af5ad0-55da-490d-8199-ebee7edde54e"
-   },
-   {
     "name": "josamshaa",
     "uuid": "aa31e8a1-6590-4beb-b749-655591dc5017"
-   },
-   {
-    "name": "RIZER_XO",
-    "uuid": "77c074fd-558d-4e4f-8108-2c353b130d52"
    },
    {
     "name": "KryzianGG",
@@ -821,10 +817,6 @@
     "uuid": "8bef04e6-5499-4e15-ada9-f0cc0fd74be7"
    },
    {
-    "name": "36hoi",
-    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
-   },
-   {
     "name": "nicolino_44",
     "uuid": "bbc5402a-a4a0-4208-b0b7-ea4ed008b1b3"
    },
@@ -839,6 +831,34 @@
    {
     "name": "TheReal_Jeff",
     "uuid": "da768299-7c5a-421c-930e-9a07b138a08a"
+   },
+   {
+    "name": "Langggggggg",
+    "uuid": "931d9919-b929-4055-a3bf-066bf9363cce"
+   },
+   {
+    "name": "ChocoChipGuy",
+    "uuid": "f0bff56c-88c9-437c-a5a7-dfa3880f1221"
+   },
+   {
+    "name": "IQVX",
+    "uuid": "9633fcb3-979e-4205-91a1-f4c617f92d83"
+   },
+   {
+    "name": "BannedBlackGuy",
+    "uuid": "e6d6084f-63fb-4565-9a3c-316804c0b354"
+   },
+   {
+    "name": "Cor0ri",
+    "uuid": "c2af5ad0-55da-490d-8199-ebee7edde54e"
+   },
+   {
+    "name": "7hoii",
+    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
+   },
+   {
+    "name": "IGetOffToAlex",
+    "uuid": "507696c1-4047-47f1-afab-dfc87dcacc2e"
    }
   ],
   "trusted": [
@@ -851,17 +871,13 @@
     "uuid": "c2af5ad0-55da-490d-8199-ebee7edde54e"
    },
    {
-    "name": "KanziEnvy",
-    "uuid": "44f685f3-417a-4c14-9607-a9287a170a5f"
-   },
-   {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
   "outlaws": [
    {
-    "name": "89XD",
+    "name": "et6n",
     "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
    },
    {
@@ -879,10 +895,6 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    },
    {
     "name": "Liu__Bang",
@@ -919,6 +931,18 @@
    {
     "name": "ryli22",
     "uuid": "39984114-c0b1-44f0-9f2d-62771b49ca3a"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
+   },
+   {
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    }
   ],
   "quarters": [
@@ -987,14 +1011,6 @@
     "uuid": "a9bb8fc7-2aff-4105-8af9-d003201c7461"
    },
    {
-    "name": "Welcoming Quarter",
-    "uuid": "a9a2f7ef-c6d9-4f44-8d08-5de8398548a6"
-   },
-   {
-    "name": "Inconvenient Quarter",
-    "uuid": "434baef8-8b68-4f50-9cf2-2047fe9b88de"
-   },
-   {
     "name": "Enraging Residence",
     "uuid": "b20cb650-9cc3-45f6-80b1-772623e842a9"
    },
@@ -1019,16 +1035,8 @@
     "uuid": "ad96d709-6c60-4c52-a106-13082898774e"
    },
    {
-    "name": "Gloomy Tenement",
-    "uuid": "5fb52526-3d1e-4909-83c2-5342211dd3d6"
-   },
-   {
     "name": "Bland Tenement",
     "uuid": "8764ecfd-f052-41a1-94d0-65c24c0a857a"
-   },
-   {
-    "name": "Bland Suite",
-    "uuid": "347f05b6-ea58-4388-a38c-87bb9c9895c8"
    },
    {
     "name": "Dingy Dwelling",
@@ -1067,14 +1075,6 @@
     "uuid": "82f09428-e145-4e04-a2f0-7c2f9afe0741"
    },
    {
-    "name": "Inviting Dwelling",
-    "uuid": "ba3e7481-1f87-4071-8c05-2ad27d5702d4"
-   },
-   {
-    "name": "Dingy Flat",
-    "uuid": "21b1a53d-c4e2-436d-a9a0-6154a3dc0b5f"
-   },
-   {
     "name": "Inviting Property",
     "uuid": "b0ab0691-e480-4f39-8afe-2f057a2881e4"
    },
@@ -1087,16 +1087,40 @@
     "uuid": "eacafc5c-9879-4187-a95c-2af36a3f4a15"
    },
    {
-    "name": "Upbeat Quarter",
-    "uuid": "d7295072-fe98-4c1a-8ccc-2e9cfa24ddc9"
-   },
-   {
     "name": "Enraging Dwelling",
     "uuid": "50c33a32-6625-425a-9584-2d36e8c53961"
    },
    {
     "name": "Upbeat Dwelling",
     "uuid": "1eb8573b-568a-484e-bc2c-33487c635b3a"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "a9a2f7ef-c6d9-4f44-8d08-5de8398548a6"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "434baef8-8b68-4f50-9cf2-2047fe9b88de"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "ba3e7481-1f87-4071-8c05-2ad27d5702d4"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "5fb52526-3d1e-4909-83c2-5342211dd3d6"
+   },
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "d7295072-fe98-4c1a-8ccc-2e9cfa24ddc9"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "21b1a53d-c4e2-436d-a9a0-6154a3dc0b5f"
+   },
+   {
+    "name": "Bland Suite",
+    "uuid": "347f05b6-ea58-4388-a38c-87bb9c9895c8"
    }
   ],
   "ranks": {
