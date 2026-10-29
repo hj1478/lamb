@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Chillville",
   "uuid": "37c4d538-e131-436f-b53e-f2a1261ed4c4",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 10,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,8 +92,44 @@
    ],
    "townBlocks": [
     [
+     -2207,
+     -720
+    ],
+    [
+     -2207,
+     -719
+    ],
+    [
+     -2207,
+     -718
+    ],
+    [
+     -2209,
+     -720
+    ],
+    [
+     -2209,
+     -719
+    ],
+    [
      -2209,
      -718
+    ],
+    [
+     -2208,
+     -720
+    ],
+    [
+     -2208,
+     -719
+    ],
+    [
+     -2208,
+     -718
+    ],
+    [
+     -2210,
+     -719
     ]
    ],
    "worlds": {}
@@ -113,10 +149,28 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "TheRealPotatoGuy",
+    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Eklocks",
+     "uuid": "1606e553-ea7d-486b-b0b2-e17e12e8e968"
+    },
+    {
+     "name": "TheGoldfarb",
+     "uuid": "a9394002-9c0a-4aa1-a71d-3f96bfed65ab"
+    }
+   ],
    "Builder": [],
    "Recruiter": [
     {

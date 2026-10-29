@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Alesuned",
   "uuid": "2b7b7586-8315-4846-9d91-d744fa9b1b4b",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1787162635077,
-   "joinedNationAt": 1791737202447,
+   "joinedNationAt": 1792772994052,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 58,
-   "maxTownBlocks": 98,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 4,
-   "numTrusted": 5,
-   "numOutlaws": 1,
+   "nationBonus": 30,
+   "numResidents": 2,
+   "numTrusted": 4,
+   "numOutlaws": 0,
    "balance": 35.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3135.210603113304,
+    "x": 3135.5009026497455,
     "y": 41.0,
-    "z": -15750.048144174103,
-    "pitch": 13.893355,
-    "yaw": 179.49655
+    "z": -15748.431201321418,
+    "pitch": -1.6013967,
+    "yaw": 179.64844
    },
    "homeBlock": [
     195,
@@ -332,14 +332,6 @@
     "uuid": "e26dfaa5-dfc3-43e1-a3a8-fc8e065f0935"
    },
    {
-    "name": "FinnyBall",
-    "uuid": "1f4c59d9-6157-460e-b77f-535301bace9b"
-   },
-   {
-    "name": "YUNGRC",
-    "uuid": "13ac495d-1ec1-4245-a76f-9649a04b0b2b"
-   },
-   {
     "name": "TurkeyHammer",
     "uuid": "b385c5a1-4fed-4945-ac4f-7329e8a290cb"
    }
@@ -358,20 +350,11 @@
     "uuid": "fb0ee2cc-7292-41fa-999a-cbea89612343"
    },
    {
-    "name": "Gustaf_MJR",
-    "uuid": "906007d8-1ece-4bc5-a81b-4221b689abf8"
-   },
-   {
     "name": "Grenv",
     "uuid": "09700deb-0f48-48ee-8d1b-41078fa34e28"
    }
   ],
-  "outlaws": [
-   {
-    "name": "poods1234569",
-    "uuid": "171d05bd-3ca8-45ab-862d-2caa2f782446"
-   }
-  ],
+  "outlaws": [],
   "quarters": [
    {
     "name": "Gloomy Suite",

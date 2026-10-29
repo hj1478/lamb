@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "CabinTown",
   "uuid": "31a7f9d0-b8fc-4ba7-99f4-85c3137f59cf",
   "board": "Outback Resistance",
   "founder": "Galaxor5",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/YrWDjpHB8",
   "mayor": {
    "name": "Galaxor5",
    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 60,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
-   "numTrusted": 4,
-   "numOutlaws": 1,
-   "balance": 7.0,
+   "numResidents": 12,
+   "numTrusted": 5,
+   "numOutlaws": 4,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45662.83146219462,
-    "y": 93.0,
-    "z": 17157.620708608294,
-    "pitch": -17.620075,
-    "yaw": -26.089355
+    "x": 45711.69999998808,
+    "y": 36.0,
+    "z": 17135.69999998808,
+    "pitch": -1.4200155,
+    "yaw": 135.16092
    },
    "homeBlock": [
-    2853,
-    1072
+    2856,
+    1070
    ],
    "townBlocks": [
     [
@@ -112,8 +112,20 @@
      1070
     ],
     [
+     2856,
+     1069
+    ],
+    [
      2853,
      1072
+    ],
+    [
+     2853,
+     1071
+    ],
+    [
+     2855,
+     1069
     ],
     [
      2853,
@@ -138,6 +150,10 @@
     [
      2854,
      1071
+    ],
+    [
+     2854,
+     1070
     ],
     [
      2854,
@@ -170,6 +186,34 @@
    {
     "name": "WeirdlyWeird24",
     "uuid": "e3146d81-fffd-4ab2-ac97-9cdd0212a683"
+   },
+   {
+    "name": "ShyneV",
+    "uuid": "d1ffdd8a-620a-4638-a8bb-30880d977e43"
+   },
+   {
+    "name": "WolfieLou",
+    "uuid": "db685035-49ef-4ba7-8893-9d89bf4fcaa1"
+   },
+   {
+    "name": "Megatron_gaming",
+    "uuid": "4a812556-00fb-492f-8834-e5c0710539df"
+   },
+   {
+    "name": "Olivia_Playz781",
+    "uuid": "d51533e3-5f83-402a-8f60-5ee5eea38ad9"
+   },
+   {
+    "name": "Hamo25",
+    "uuid": "0f268d2c-40e8-42f6-991b-81ce89bf4c33"
+   },
+   {
+    "name": "Chapouk",
+    "uuid": "caed7b86-4de3-4ddc-bfe5-323ac224404a"
+   },
+   {
+    "name": "Beast1213j",
+    "uuid": "d832f28e-ab3e-4f42-83b3-5333cf5193d7"
    }
   ],
   "trusted": [
@@ -186,6 +230,10 @@
     "uuid": "de6f0a42-019b-4a14-8f99-1867951d6678"
    },
    {
+    "name": "Hamo25",
+    "uuid": "0f268d2c-40e8-42f6-991b-81ce89bf4c33"
+   },
+   {
     "name": "_PotionlesShadow",
     "uuid": "4f0e4a55-a35b-447f-a440-db747f731327"
    }
@@ -194,21 +242,21 @@
    {
     "name": "Swightness",
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "dex247",
+    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
+   },
+   {
+    "name": "Okurarity",
+    "uuid": "a9d11845-114c-42f0-bb51-7efe10182a97"
+   },
+   {
+    "name": "DaMonkePresident",
+    "uuid": "92b7aea1-7611-4f40-beec-d20c256bdf39"
    }
   ],
   "quarters": [
-   {
-    "name": "Enraging Property",
-    "uuid": "d4eb181b-c5a4-4045-a8ce-a9e8deccc930"
-   },
-   {
-    "name": "Bland Apartment",
-    "uuid": "9d23f3c5-b3f2-425a-9faa-4b39e7130810"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "bb2c8053-5214-4bd0-bf96-b9f359a18ee5"
-   },
    {
     "name": "Annoying Quarter",
     "uuid": "5e00cd02-4468-4835-b8f7-1bf643d62c28"
@@ -218,12 +266,76 @@
     "uuid": "1e95846d-8631-4850-a725-b54af3d3f6ee"
    },
    {
+    "name": "Stylish Suite",
+    "uuid": "2199b799-2fa1-4d7c-a00d-a0ac139f3006"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "d4eb181b-c5a4-4045-a8ce-a9e8deccc930"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "ba741c88-6e0e-422d-bfa5-eea6264bd67b"
+   },
+   {
+    "name": "duo house",
+    "uuid": "9a3c141c-4b7a-4b52-8b46-ccfdd32cf429"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "bb2c8053-5214-4bd0-bf96-b9f359a18ee5"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "c5521a50-59aa-4e34-a1fd-f3c786b71ff9"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "3e09d6fb-49f4-4694-8ea8-fd0be12083ef"
+   },
+   {
     "name": "Lovely Apartment",
     "uuid": "e110a40b-3ca1-46ec-b2ef-8d6f48d11df0"
    },
    {
-    "name": "Stylish Suite",
-    "uuid": "2199b799-2fa1-4d7c-a00d-a0ac139f3006"
+    "name": "Bland Apartment",
+    "uuid": "9d23f3c5-b3f2-425a-9faa-4b39e7130810"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "d8f506f9-e0c6-4303-ae00-b353ab562f0e"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "ee436e69-2910-49b5-a24e-fc9033061cdc"
+   },
+   {
+    "name": "Dingy Apartment",
+    "uuid": "06b77a3f-8777-4084-9bec-aff04f4a3245"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "3c9415f5-f537-4429-b145-c09f994c424b"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "a634b238-0c57-479d-9452-0b1c9ed312e1"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "ac1b5c50-183a-400f-a703-706b6f984d17"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "0e92da7d-6165-4eda-87bb-a30bb4a29723"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "89ed944d-72bf-4293-9990-bee79bb0b58d"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "9ceca1c4-b454-4018-aa69-a7444ada56c9"
    }
   ],
   "ranks": {

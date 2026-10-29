@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Westeria",
   "uuid": "469835f4-419c-4995-87f9-1ea96671711e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 41.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,10 +59,10 @@
     false
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
     false,
@@ -92,7 +92,19 @@
    ],
    "townBlocks": [
     [
+     2393,
+     -733
+    ],
+    [
      2394,
+     -732
+    ],
+    [
+     2395,
+     -732
+    ],
+    [
+     2393,
      -732
     ]
    ],
@@ -102,6 +114,10 @@
    {
     "name": "uucreeper",
     "uuid": "0afccce5-53af-4388-b7f8-1739ddd24228"
+   },
+   {
+    "name": "Nyx0_Sph3r3",
+    "uuid": "881e565e-4a0a-4937-8fc7-78a0506cc26c"
    }
   ],
   "trusted": [],

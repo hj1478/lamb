@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Harbin",
   "uuid": "2cd9e3e4-603e-464d-972a-08c69b220e6c",
@@ -12,12 +12,12 @@
    "uuid": "dd122a05-ea2f-4992-91b5-fd08ee840ac5"
   },
   "nation": {
-   "name": "Manchuria",
-   "uuid": "0b048742-5448-454a-a0f6-645ff632e34f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776491690946,
-   "joinedNationAt": 1792253012364,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
@@ -146,6 +146,10 @@
    {
     "name": "vwlv",
     "uuid": "dd122a05-ea2f-4992-91b5-fd08ee840ac5"
+   },
+   {
+    "name": "david_03max",
+    "uuid": "d47ecb3e-d210-4042-be9e-07cff345d775"
    }
   ],
   "trusted": [

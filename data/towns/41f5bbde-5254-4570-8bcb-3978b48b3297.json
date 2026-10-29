@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Shibamata",
   "uuid": "41f5bbde-5254-4570-8bcb-3978b48b3297",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 103,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 2,
-   "numTrusted": 17,
+   "numTrusted": 16,
    "numOutlaws": 0,
    "balance": 28.0,
    "forSalePrice": null
@@ -572,10 +572,6 @@
    {
     "name": "OZZ_2010",
     "uuid": "2a1ba2b6-3e81-42b4-9715-8d29e9a34373"
-   },
-   {
-    "name": "_Plumme",
-    "uuid": "fec2c3a5-23f9-4bc9-8ae6-52c5e0554916"
    },
    {
     "name": "shenhui35",

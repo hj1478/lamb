@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Cieux",
   "uuid": "2bb0b810-2157-4f0e-924c-fed47ba04fa7",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Maxscee",
-   "uuid": "28b8f9f1-9a54-4ecb-a195-ac3ffcea450a"
+   "name": "NPC32",
+   "uuid": "2a457b41-9c75-20e2-8d47-c00a51947869"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789152427799,
-   "joinedNationAt": 1789157740398,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793268002926
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Maxscee",
-    "uuid": "28b8f9f1-9a54-4ecb-a195-ac3ffcea450a"
+    "name": "NPC32",
+    "uuid": "2a457b41-9c75-20e2-8d47-c00a51947869"
    }
   ],
   "trusted": [],

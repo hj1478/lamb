@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Kaia",
   "uuid": "2daa8ff3-780f-4fa7-8639-3b6fe26d3d86",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 174,
-   "maxTownBlocks": 412,
+   "numTownBlocks": 177,
+   "maxTownBlocks": 448,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
+   "numResidents": 29,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 90.0,
+   "balance": 26.0,
    "forSalePrice": null
   },
   "perms": {
@@ -264,6 +264,10 @@
      -288
     ],
     [
+     -1764,
+     -287
+    ],
+    [
      -1750,
      -303
     ],
@@ -374,6 +378,10 @@
     [
      -1766,
      -289
+    ],
+    [
+     -1766,
+     -286
     ],
     [
      -1766,
@@ -662,6 +670,10 @@
     [
      -1748,
      -298
+    ],
+    [
+     -1765,
+     -286
     ],
     [
      -1765,
@@ -894,12 +906,24 @@
    {
     "name": "royalkiiler",
     "uuid": "7224e396-d29b-4cdd-9425-a76e1bd0ccd8"
+   },
+   {
+    "name": "duvkey",
+    "uuid": "0f30ffba-ae9f-40c8-a85c-55ce0c57f596"
+   },
+   {
+    "name": "Lexi1106",
+    "uuid": "488c0062-bb5d-4065-84b7-36fdc0262cba"
+   },
+   {
+    "name": "Cruzmega1212",
+    "uuid": "d583975e-ed7a-4650-9479-679355d56f96"
    }
   ],
   "trusted": [],
   "outlaws": [
    {
-    "name": "Slapdragon",
+    "name": "Rubick_Kubik",
     "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
    }
   ],
@@ -957,10 +981,6 @@
     "uuid": "58c2f301-48f9-4ac6-9f88-e650c4dcc1ae"
    },
    {
-    "name": "Cheerful Property",
-    "uuid": "6e1f1a63-af14-4c0d-9bcb-9ec666efb07d"
-   },
-   {
     "name": "Welcoming Property",
     "uuid": "40af8007-7a72-4c28-ba62-85def55598f7"
    },
@@ -979,6 +999,106 @@
    {
     "name": "Stylish Property",
     "uuid": "81652f0e-f547-4e98-b303-890123d2fc35"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "6e1f1a63-af14-4c0d-9bcb-9ec666efb07d"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "49e9139c-81a8-4b04-902f-d42767a90636"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "fa77f4f1-c363-4df1-b1c7-9e3735474718"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "84f61120-a1c5-43a4-9d19-f68aa24f9f74"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "5786ecb2-f981-468d-b679-6e04e2c521bb"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "85c87e7c-b632-41b5-9e85-077ee2dbb5ab"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "6a28b3a7-9d34-4c62-a104-4055b106dee4"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "0b600b50-76e1-491b-beab-14d0632a2dba"
+   },
+   {
+    "name": "Elegant Apartment",
+    "uuid": "17d9c540-2a1e-4960-bb5e-365eb1304721"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "9ce913a5-473d-458d-8220-dfcac55f14fa"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "46f897ec-83ae-42c2-91d0-6201c01d3781"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "2f89fdaf-75db-45e6-b1c8-61df81ed55ad"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "7f800192-013d-4d6b-a1f2-a837448e135f"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "f2edf452-8a07-424c-a2ac-67c49db11d6a"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "946e5e13-9f79-47f2-9ef9-5d71fed9e502"
+   },
+   {
+    "name": "Stylish Property",
+    "uuid": "eb422832-37aa-4432-9611-a49d0556fe6d"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "350a899c-1f6a-4e1c-82b4-bed452e93fc0"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "e450b69d-1762-4f17-9262-6ebd323498fd"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "24729a22-a2f9-46ab-bbe9-6c4067eea838"
+   },
+   {
+    "name": "Elegant Apartment",
+    "uuid": "f37aea10-d9cb-46e7-8172-c6cd6a7cb171"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "9d15ca88-561b-44e9-9923-b35c99ba584a"
+   },
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "a85039e7-d87c-448c-b533-e95169a04ace"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "93dc2de5-c3b6-46a1-813b-4b57ac2dc65b"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "8609e82b-6202-4a79-b5dd-b3596f0d28aa"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "661079a3-a519-4b0c-9f69-1476ec4dbf1c"
    }
   ],
   "ranks": {

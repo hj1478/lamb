@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "New_Melbourne",
   "uuid": "46ad0bbf-6650-44f7-9dbe-5ecafd972e70",
@@ -12,12 +12,12 @@
    "uuid": "aeb39bb1-9d2b-46cb-b786-155a0c939e2d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1793079609869,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793135414138,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 9,
+   "numTrusted": 10,
    "numOutlaws": 0,
-   "balance": 47.0,
+   "balance": 37.0,
    "forSalePrice": null
   },
   "perms": {
@@ -156,12 +156,12 @@
      966
     ],
     [
-     -1140,
-     968
-    ],
-    [
      -1143,
      963
+    ],
+    [
+     -1140,
+     968
     ],
     [
      -1143,
@@ -176,16 +176,12 @@
      964
     ],
     [
-     -1139,
-     964
-    ],
-    [
      -1144,
      963
     ],
     [
      -1139,
-     965
+     964
     ],
     [
      -1144,
@@ -193,7 +189,7 @@
     ],
     [
      -1139,
-     966
+     965
     ],
     [
      -1144,
@@ -201,7 +197,7 @@
     ],
     [
      -1139,
-     967
+     966
     ],
     [
      -1144,
@@ -209,11 +205,15 @@
     ],
     [
      -1139,
-     968
+     967
     ],
     [
      -1144,
      967
+    ],
+    [
+     -1139,
+     968
     ],
     [
      -1141,
@@ -262,7 +262,7 @@
     "uuid": "cb1aa45b-aa31-4645-8918-ab82222ccfa3"
    },
    {
-    "name": "nahember",
+    "name": "7ember",
     "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
    },
    {
@@ -272,6 +272,10 @@
    {
     "name": "Four1350",
     "uuid": "a96ca681-a8eb-427f-91e8-052c7e974b6b"
+   },
+   {
+    "name": "eeedanplays",
+    "uuid": "60c99a6e-a8a6-4a51-9115-821dad0b6ad1"
    },
    {
     "name": "Amazeon",

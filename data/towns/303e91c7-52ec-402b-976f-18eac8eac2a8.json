@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Aralia",
   "uuid": "303e91c7-52ec-402b-976f-18eac8eac2a8",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1777425246197,
-   "joinedNationAt": 1782843021285,
+   "joinedNationAt": 1792858864466,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 101,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 104,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 1,
+   "numResidents": 7,
+   "numTrusted": 2,
    "numOutlaws": 6,
-   "balance": 1779.0,
+   "balance": 332.0,
    "forSalePrice": null
   },
   "perms": {
@@ -162,6 +162,10 @@
     [
      -284,
      -140
+    ],
+    [
+     -284,
+     -135
     ],
     [
      -284,
@@ -494,11 +498,23 @@
     [
      -283,
      -143
+    ],
+    [
+     -283,
+     -136
+    ],
+    [
+     -283,
+     -135
     ]
    ],
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "aralziya2",
+    "uuid": "e4752493-612e-41bf-9c96-3d355de7d72f"
+   },
    {
     "name": "TrainOfSkeleton",
     "uuid": "8359e3eb-efea-4b98-930f-68d3c9848169"
@@ -528,6 +544,10 @@
    {
     "name": "TrainOfSkeleton",
     "uuid": "8359e3eb-efea-4b98-930f-68d3c9848169"
+   },
+   {
+    "name": "aralziya2",
+    "uuid": "e4752493-612e-41bf-9c96-3d355de7d72f"
    }
   ],
   "outlaws": [
@@ -616,6 +636,10 @@
   ],
   "ranks": {
    "Councillor": [
+    {
+     "name": "aralziya2",
+     "uuid": "e4752493-612e-41bf-9c96-3d355de7d72f"
+    },
     {
      "name": "TrainOfSkeleton",
      "uuid": "8359e3eb-efea-4b98-930f-68d3c9848169"

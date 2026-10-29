@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Cartel_Harbor",
   "uuid": "272f1c47-cea5-4133-9d7b-094f06ad5488",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Scarlet_19",
-   "uuid": "165ec530-73b0-4c09-87e2-c39fa9700c42"
+   "name": "NPC11",
+   "uuid": "80df5116-0369-20d6-bea6-848d50169d27"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787156540148,
-   "joinedNationAt": 1787156805445,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793268000762
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,20 +128,15 @@
   },
   "residents": [
    {
-    "name": "Scarlet_19",
-    "uuid": "165ec530-73b0-4c09-87e2-c39fa9700c42"
+    "name": "NPC11",
+    "uuid": "80df5116-0369-20d6-bea6-848d50169d27"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Scarlet_19",
-     "uuid": "165ec530-73b0-4c09-87e2-c39fa9700c42"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

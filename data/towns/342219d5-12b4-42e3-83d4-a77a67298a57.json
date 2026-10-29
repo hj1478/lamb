@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Zhangjiakou",
   "uuid": "342219d5-12b4-42e3-83d4-a77a67298a57",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 12,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 35.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41400.352321027065,
+    "x": 41400.51786291911,
     "y": 87.0,
-    "z": -7863.621727644407,
-    "pitch": 25.349972,
-    "yaw": 127.799866
+    "z": -7863.530831307415,
+    "pitch": 4.500056,
+    "yaw": -179.24365
    },
    "homeBlock": [
     2587,
     -492
    ],
    "townBlocks": [
+    [
+     2588,
+     -489
+    ],
+    [
+     2587,
+     -489
+    ],
     [
      2588,
      -491
@@ -112,19 +120,23 @@
      -492
     ],
     [
-     2586,
-     -492
-    ],
-    [
      2587,
      -490
     ],
     [
-     2586,
+     2587,
      -491
     ],
     [
-     2587,
+     2586,
+     -490
+    ],
+    [
+     2586,
+     -492
+    ],
+    [
+     2586,
      -491
     ]
    ],
@@ -144,9 +156,19 @@
     "uuid": "ddbfb4cf-fd09-42b6-92da-4793e4f00223"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ItzAmiya",
+    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "张家口门禁",
+    "uuid": "1071f65d-3d8e-410a-be9b-b525d5a67694"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

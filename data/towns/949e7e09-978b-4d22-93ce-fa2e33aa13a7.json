@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-29T13:15:16Z",
+ "data": {
+  "name": "Ovdalen",
+  "uuid": "949e7e09-978b-4d22-93ce-fa2e33aa13a7",
+  "board": "/town set board [msg]",
+  "founder": "Immortalility",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC74",
+   "uuid": "a1ca8476-261f-20a1-a9dd-9bb5e42b73f9"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793215677466,
+   "joinedNationAt": null,
+   "ruinedAt": 1793216032460
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 7507.94053812063,
+    "y": 63.0,
+    "z": -22280.683200710977,
+    "pitch": 23.549938,
+    "yaw": -179.39795
+   },
+   "homeBlock": [
+    469,
+    -1393
+   ],
+   "townBlocks": [
+    [
+     469,
+     -1393
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC74",
+    "uuid": "a1ca8476-261f-20a1-a9dd-9bb5e42b73f9"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

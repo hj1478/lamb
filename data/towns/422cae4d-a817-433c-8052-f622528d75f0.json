@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Pokemon",
   "uuid": "422cae4d-a817-433c-8052-f622528d75f0",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 134,
-   "maxTownBlocks": 130,
+   "numTownBlocks": 150,
+   "maxTownBlocks": 178,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 10,
+   "numResidents": 14,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 20.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 64134.52329258083,
+    "x": 64199.72330245056,
     "y": 66.0,
-    "z": 13999.500502801231,
-    "pitch": -0.014390692,
-    "yaw": 90.00537
+    "z": 13992.530871618528,
+    "pitch": 20.100037,
+    "yaw": -90.15015
    },
    "homeBlock": [
-    4008,
+    4012,
     874
    ],
    "townBlocks": [
@@ -140,6 +140,18 @@
      881
     ],
     [
+     4014,
+     877
+    ],
+    [
+     4014,
+     875
+    ],
+    [
+     4014,
+     876
+    ],
+    [
      4009,
      874
     ],
@@ -162,6 +174,22 @@
     [
      4013,
      879
+    ],
+    [
+     4014,
+     873
+    ],
+    [
+     4014,
+     874
+    ],
+    [
+     4014,
+     871
+    ],
+    [
+     4014,
+     872
     ],
     [
      4009,
@@ -232,6 +260,10 @@
      878
     ],
     [
+     4016,
+     871
+    ],
+    [
      4006,
      874
     ],
@@ -248,8 +280,16 @@
      877
     ],
     [
+     4016,
+     873
+    ],
+    [
      4006,
      878
+    ],
+    [
+     4016,
+     872
     ],
     [
      3998,
@@ -568,6 +608,10 @@
      872
     ],
     [
+     4015,
+     871
+    ],
+    [
      4002,
      878
     ],
@@ -600,6 +644,10 @@
      881
     ],
     [
+     4015,
+     875
+    ],
+    [
      4001,
      877
     ],
@@ -608,12 +656,24 @@
      882
     ],
     [
+     4015,
+     874
+    ],
+    [
      4002,
      883
     ],
     [
+     4015,
+     873
+    ],
+    [
      4002,
      884
+    ],
+    [
+     4015,
+     872
     ],
     [
      4008,
@@ -626,6 +686,10 @@
     [
      4008,
      882
+    ],
+    [
+     4015,
+     876
     ]
    ],
    "worlds": {}
@@ -670,6 +734,22 @@
    {
     "name": "Vanquish11",
     "uuid": "97971a83-5eb0-4384-a3f5-616c397217cf"
+   },
+   {
+    "name": "symeonzatocznik",
+    "uuid": "750d09ef-e312-46cf-8f96-22a142cadc5b"
+   },
+   {
+    "name": "TrollfaceIsHappy",
+    "uuid": "f52d3592-6401-49e1-8482-ccf6d0958845"
+   },
+   {
+    "name": "Ev_Rose27",
+    "uuid": "7c7cd4c5-aec8-4485-adf8-6cea2b797425"
+   },
+   {
+    "name": "jancster95",
+    "uuid": "0f9321b3-124e-47cd-9596-32e9ad4645da"
    }
   ],
   "trusted": [
@@ -678,16 +758,46 @@
     "uuid": "24a342fe-df4f-4a3c-b30e-1f8120b9237c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
   "quarters": [
    {
     "name": "Upbeat Dwelling",
     "uuid": "b24a16fa-302b-410c-a9b3-c0bc00c61d52"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "0a085edc-bb89-434e-a37d-52687fd93376"
+   },
+   {
+    "name": "Cheerful Flat",
+    "uuid": "4948d509-7389-4e4c-b8bc-542934f0549c"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "19dfeadf-1718-4554-919e-1a2f0233da6a"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "0d15b9ef-fd0e-40f7-9f2c-d35dc668d364"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "61b2bf9d-8180-472e-a999-663e7a0435c3"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "shu1911",
+     "uuid": "19639042-ed1e-43e9-88d5-ac162a3d2647"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

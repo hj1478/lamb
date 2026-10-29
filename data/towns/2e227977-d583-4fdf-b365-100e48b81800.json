@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Hamedan",
   "uuid": "2e227977-d583-4fdf-b365-100e48b81800",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Palatshu",
-   "uuid": "c6493c01-7e44-45a6-8eed-08cd58fb4ab6"
+   "name": "NPC77",
+   "uuid": "cf2e8113-e32f-2077-8b28-b3206df36827"
   },
   "nation": {
-   "name": "Persia",
-   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792978912170,
-   "joinedNationAt": 1792978922020,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793233867660
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,6 +100,14 @@
      -314
     ],
     [
+     1084,
+     -315
+    ],
+    [
+     1086,
+     -315
+    ],
+    [
      1085,
      -314
     ],
@@ -112,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "Palatshu",
-    "uuid": "c6493c01-7e44-45a6-8eed-08cd58fb4ab6"
+    "name": "NPC77",
+    "uuid": "cf2e8113-e32f-2077-8b28-b3206df36827"
    }
   ],
   "trusted": [],

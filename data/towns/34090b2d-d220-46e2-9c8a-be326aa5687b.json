@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Ponikos",
   "uuid": "34090b2d-d220-46e2-9c8a-be326aa5687b",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 170,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 7,
+   "nationBonus": 80,
+   "numResidents": 9,
    "numTrusted": 1,
-   "numOutlaws": 16,
-   "balance": 17.0,
+   "numOutlaws": 14,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45429.461012708045,
+    "x": 45331.97118591394,
     "y": 67.0,
-    "z": -12524.698099634055,
-    "pitch": -6.2737055,
-    "yaw": -0.4972185
+    "z": -12747.419318378452,
+    "pitch": 18.150015,
+    "yaw": 87.24805
    },
    "homeBlock": [
-    2839,
-    -783
+    2833,
+    -797
    ],
    "townBlocks": [
     [
@@ -781,6 +781,10 @@
   },
   "residents": [
    {
+    "name": "_JustReuben",
+    "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
+   },
+   {
     "name": "WizzMop",
     "uuid": "f8e33883-9db8-464d-8390-207dd2efa7df"
    },
@@ -807,6 +811,10 @@
    {
     "name": "Waffelnqueen039",
     "uuid": "1fa66aa7-0b59-4c76-bdc9-95c92edc3df3"
+   },
+   {
+    "name": "Ardaoski",
+    "uuid": "3d79cecd-70ee-496d-aa4b-a3eac9d0ea1d"
    }
   ],
   "trusted": [
@@ -861,14 +869,6 @@
     "uuid": "a662b215-3b9d-46d2-90a0-04791e455113"
    },
    {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
-   {
-    "name": "mrgris13",
-    "uuid": "71cbc64c-a1e9-4b5c-a66b-62589b0fa2a4"
-   },
-   {
     "name": "xolarza",
     "uuid": "c268c3a6-b921-4e9a-ab2a-78330941ca6b"
    },
@@ -909,6 +909,42 @@
    {
     "name": "Cheerful Property",
     "uuid": "556ac3ae-bc6a-4c12-928c-1ecc221d7dcb"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "116701b5-1de9-4c62-b16e-1348da93eb6f"
+   },
+   {
+    "name": "Gloomy Suite",
+    "uuid": "971e1ae7-b3ce-4f87-83b0-dd53ebbbe116"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "bda0e853-2a9b-4421-b337-d44dae657fa8"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "39d491b1-999e-4f00-a08e-ddd95054e624"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "a969c1dc-def0-41f3-8c30-8dd8ac3b9046"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "2414ad2e-8901-44a5-8a77-86fe1cfd9cbf"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "825bb9dc-5f0a-42b2-bc03-0d84abfc6861"
+   },
+   {
+    "name": "Gloomy Property",
+    "uuid": "dfc5ca21-a0ec-40fd-a78d-b86eef3e5556"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "d87e0040-6aa3-4f2f-8353-c497a41569cd"
    }
   ],
   "ranks": {
@@ -924,6 +960,10 @@
    ],
    "Builder": [
     {
+     "name": "_JustReuben",
+     "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
+    },
+    {
      "name": "GenjiGallyV12",
      "uuid": "a4993ee1-a919-44d2-a9cc-008a637d8138"
     },
@@ -937,6 +977,10 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [
+    {
+     "name": "_JustReuben",
+     "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
+    },
     {
      "name": "Daninatorw",
      "uuid": "c97e5351-be4b-43e7-bfc5-f28a99ede7a5"

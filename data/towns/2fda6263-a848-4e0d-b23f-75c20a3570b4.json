@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "SpriteLand",
   "uuid": "2fda6263-a848-4e0d-b23f-75c20a3570b4",
-  "board": "/town set board [msg]",
+  "board": "Slava Na Slovesku",
   "founder": "KickFlexisssek",
   "wiki": null,
   "discord": null,
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      386,
+     -659
+    ],
+    [
+     386,
      -660
     ],
     [
@@ -122,6 +126,14 @@
     [
      387,
      -662
+    ],
+    [
+     388,
+     -662
+    ],
+    [
+     387,
+     -659
     ]
    ],
    "worlds": {}
@@ -134,10 +146,6 @@
    {
     "name": "prosteluki",
     "uuid": "43bd71ba-5be0-4774-9cf0-efaec9acf1a6"
-   },
-   {
-    "name": "Veltrixik_YT",
-    "uuid": "7cbf8782-d73a-4772-8ac6-d791e6e8f62e"
    }
   ],
   "trusted": [],
@@ -145,6 +153,10 @@
    {
     "name": "Maraotay",
     "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "void_master_89",
+    "uuid": "65455ff8-767e-46ac-b829-7142e41b35a1"
    }
   ],
   "quarters": [],

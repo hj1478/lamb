@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Gumusdere",
   "uuid": "321c59ce-3b81-4d3d-8c15-eb00f2fc3c3a",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Savor35",
-   "uuid": "3bbfc4a4-608b-4cef-b282-ade7d388c789"
+   "name": "NPC55",
+   "uuid": "cdddb81a-7864-2017-9138-de113d78d833"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789395129352,
-   "joinedNationAt": 1789395173181,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793181600061
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "Savor35",
-    "uuid": "3bbfc4a4-608b-4cef-b282-ade7d388c789"
+    "name": "NPC55",
+    "uuid": "cdddb81a-7864-2017-9138-de113d78d833"
    }
   ],
   "trusted": [

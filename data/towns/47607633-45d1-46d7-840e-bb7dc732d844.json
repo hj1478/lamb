@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "SolyLuna",
   "uuid": "47607633-45d1-46d7-840e-bb7dc732d844",
@@ -12,12 +12,12 @@
    "uuid": "7331d249-ef67-4de3-a457-74da311395f4"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Uruguay",
+   "uuid": "b75404f8-0698-4865-b2c8-b687af410a65"
   },
   "timestamps": {
    "registered": 1791548396780,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792919383010,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,

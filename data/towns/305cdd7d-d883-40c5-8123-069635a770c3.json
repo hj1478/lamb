@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Port_Martin",
   "uuid": "305cdd7d-d883-40c5-8123-069635a770c3",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      1264,
+     947
+    ],
+    [
+     1264,
      946
     ],
     [
@@ -106,6 +110,10 @@
    {
     "name": "Null101000",
     "uuid": "35a2029b-3a67-4c64-938b-cc84fc0f6821"
+   },
+   {
+    "name": "AMCBcheetah",
+    "uuid": "6f3a5700-8fb3-4a01-90da-98b774512862"
    }
   ],
   "trusted": [],
@@ -113,7 +121,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "AMCBcheetah",
+     "uuid": "6f3a5700-8fb3-4a01-90da-98b774512862"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Sao_Vicente",
   "uuid": "343b7177-770e-4174-9b09-9923b149b0cd",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 205,
-   "maxTownBlocks": 724,
+   "numTownBlocks": 211,
+   "maxTownBlocks": 628,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 52,
+   "numResidents": 44,
    "numTrusted": 3,
-   "numOutlaws": 19,
-   "balance": 5.0,
+   "numOutlaws": 20,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -528,6 +528,10 @@
      1042
     ],
     [
+     -1039,
+     1045
+    ],
+    [
      -1037,
      1039
     ],
@@ -565,7 +569,15 @@
     ],
     [
      -1044,
+     1048
+    ],
+    [
+     -1044,
      1046
+    ],
+    [
+     -1044,
+     1047
     ],
     [
      -1049,
@@ -640,6 +652,10 @@
      1028
     ],
     [
+     -1044,
+     1029
+    ],
+    [
      -1038,
      1037
     ],
@@ -682,6 +698,14 @@
     [
      -1038,
      1044
+    ],
+    [
+     -1038,
+     1045
+    ],
+    [
+     -1038,
+     1046
     ],
     [
      -1049,
@@ -929,20 +953,12 @@
     "uuid": "d3e85cc7-c07a-4599-b27b-c560b7e17f8a"
    },
    {
-    "name": "blaia01",
-    "uuid": "ffba42ac-60af-4a05-982f-6a7f76e8eaa7"
-   },
-   {
     "name": "leakiM_",
     "uuid": "fcca1c07-8004-49dc-9bd6-7f97592f1fe0"
    },
    {
     "name": "Gusta_Malvadeza",
     "uuid": "f0848e6d-a245-436c-b759-29ce0b11d71c"
-   },
-   {
-    "name": "EYEron_Man",
-    "uuid": "b8d8a4e8-028a-4e75-a91e-5988bcdbc5ae"
    },
    {
     "name": "Anonymosboy",
@@ -961,52 +977,12 @@
     "uuid": "aec088f0-31e9-4ec7-8538-dc73ab0f9edc"
    },
    {
-    "name": "22Thiago30",
-    "uuid": "130d43c6-1a19-40d3-bf56-2ad4045e8e6b"
-   },
-   {
-    "name": "0Komori",
-    "uuid": "278d2b73-e6c8-435a-b533-22e85368ee19"
-   },
-   {
     "name": "Renni5983",
     "uuid": "ec5c5d1c-9503-46ee-93bf-c06016c15d74"
    },
    {
-    "name": "RafaTrovao",
-    "uuid": "b94b6e6b-0d59-4c28-975b-f04ceaaddf55"
-   },
-   {
-    "name": "Saywumi",
-    "uuid": "5d2066cd-f324-455d-868f-788feb8c162b"
-   },
-   {
-    "name": "duo_the_bird",
-    "uuid": "c679e01c-e070-4bd0-9dd6-83d63b79b55e"
-   },
-   {
     "name": "Artthurpagani10",
     "uuid": "5cf95b30-9c9d-4e2d-8f0c-dce04638e396"
-   },
-   {
-    "name": "PAT0NELA",
-    "uuid": "90454726-9afe-461b-8572-7a842e9bfd08"
-   },
-   {
-    "name": "Davirul03",
-    "uuid": "167ac5cf-53ab-4482-a485-c29d08594f46"
-   },
-   {
-    "name": "Guvys",
-    "uuid": "2895c343-e439-4e7d-b44a-03800ad8135f"
-   },
-   {
-    "name": "pollito3jesus",
-    "uuid": "fd0931f8-0118-4ae7-b581-b280a206bc2a"
-   },
-   {
-    "name": "Hazmat263",
-    "uuid": "bc703c5b-999e-43b2-a5ac-8edb6ed5ec57"
    },
    {
     "name": "__Salim__",
@@ -1105,10 +1081,6 @@
     "uuid": "0a6659bd-e4f9-45ab-9e72-f91f6a1c8ed6"
    },
    {
-    "name": "Canedoo01",
-    "uuid": "b899e2e1-5013-4157-b32f-95f0a2598aaa"
-   },
-   {
     "name": "HCBR12345",
     "uuid": "b2922fea-f3c5-427c-913f-b661bc7050c9"
    },
@@ -1127,6 +1099,26 @@
    {
     "name": "Joao_e_Gio",
     "uuid": "f08831f9-e4d7-4b69-b0f7-d973d9335bc1"
+   },
+   {
+    "name": "tttt1020",
+    "uuid": "f959a5a2-5c26-4053-b8d8-a639a8acaa41"
+   },
+   {
+    "name": "DeveloperMatt",
+    "uuid": "411dc8d2-a9c0-4f49-8dba-5e78fee3f105"
+   },
+   {
+    "name": "LeoFlopado",
+    "uuid": "c2177013-c7f2-4855-a592-84fc973e5e38"
+   },
+   {
+    "name": "Pedrobrunows",
+    "uuid": "3752a927-cb84-407c-ac66-f0acb30d6aa4"
+   },
+   {
+    "name": "OrdinaryToaster0",
+    "uuid": "d1ffec20-fd8f-4253-bc9a-76a304ea715d"
    }
   ],
   "trusted": [
@@ -1185,10 +1177,6 @@
     "uuid": "5a6d7cfe-e9d9-4af3-bed6-c6b967773a0d"
    },
    {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
-   {
     "name": "Lef_The_Butcher",
     "uuid": "3d208ed2-1742-48a6-b7be-f6a9a2200886"
    },
@@ -1219,6 +1207,14 @@
    {
     "name": "ZeeWad",
     "uuid": "a4160e58-ea44-4b76-893f-1a4fe7f93aea"
+   },
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "BoydT44",
+    "uuid": "8ce8d116-a1cd-46ed-93c1-3abf2fd8bb50"
    }
   ],
   "quarters": [
@@ -1273,10 +1269,6 @@
    {
     "name": "Apartamento 3",
     "uuid": "a98cc715-c6dd-468d-bd41-8eb5f815835c"
-   },
-   {
-    "name": "Quarto 3",
-    "uuid": "f5e85e9f-c04f-4c3b-a37a-1a2e21570684"
    },
    {
     "name": "Quarto de Luxo",
@@ -1341,6 +1333,14 @@
    {
     "name": "Dull Residence",
     "uuid": "afe771d1-5053-455a-9222-9d6cca7f9e1b"
+   },
+   {
+    "name": "Quarto 3",
+    "uuid": "f5e85e9f-c04f-4c3b-a37a-1a2e21570684"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "2c928cd3-9925-49e1-b712-7860d08bd273"
    }
   ],
   "ranks": {

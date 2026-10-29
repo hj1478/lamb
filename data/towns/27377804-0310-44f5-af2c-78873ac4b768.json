@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Kaurora",
   "uuid": "27377804-0310-44f5-af2c-78873ac4b768",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 160,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 3,
-   "balance": 827.0,
+   "balance": 785.0,
    "forSalePrice": null
   },
   "perms": {
@@ -744,16 +744,12 @@
     "uuid": "cf50fcc4-cb3d-4cdd-83d6-8249d0657760"
    },
    {
-    "name": "pocketpotoo",
-    "uuid": "6fe2a867-6c0c-4217-a7ce-849d434eb875"
+    "name": "BABS61",
+    "uuid": "602b41ea-4b13-42f0-85b0-0c88154bcf81"
    },
    {
     "name": "MrSqualcels",
     "uuid": "8141a637-579f-4cd1-96fb-f14d1444ab1d"
-   },
-   {
-    "name": "BABS61",
-    "uuid": "602b41ea-4b13-42f0-85b0-0c88154bcf81"
    }
   ],
   "trusted": [
@@ -794,18 +790,6 @@
     "uuid": "7e0b2d6f-702c-4c1d-bd1d-44fb26894f60"
    },
    {
-    "name": "Dark Oak Logs",
-    "uuid": "166ddedf-b4b2-4918-8f2b-6e8a6f008fe0"
-   },
-   {
-    "name": "Dark Oak Logs",
-    "uuid": "54786b41-5c15-4cf1-8103-f460267997f2"
-   },
-   {
-    "name": "Spruce Logs",
-    "uuid": "22bdaec8-655a-48e0-b458-0e1f7f08fbe0"
-   },
-   {
     "name": "Stripped Acacia Logs",
     "uuid": "66829e47-d919-4544-a129-3b55fe95b33f"
    }
@@ -815,10 +799,6 @@
     {
      "name": "Fishboi39218",
      "uuid": "cf50fcc4-cb3d-4cdd-83d6-8249d0657760"
-    },
-    {
-     "name": "pocketpotoo",
-     "uuid": "6fe2a867-6c0c-4217-a7ce-849d434eb875"
     },
     {
      "name": "MrSqualcels",

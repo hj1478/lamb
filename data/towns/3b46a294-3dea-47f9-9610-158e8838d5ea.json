@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "North_Harusburg",
   "uuid": "3b46a294-3dea-47f9-9610-158e8838d5ea",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 52,
-   "maxTownBlocks": 70,
+   "numTownBlocks": 53,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 5,
-   "numTrusted": 3,
+   "numResidents": 6,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 245.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5140.6160795054475,
+    "x": 5128.491091329757,
     "y": 63.0,
-    "z": -27999.51916240688,
-    "pitch": 26.099962,
-    "yaw": 89.697174
+    "z": -27998.461930843496,
+    "pitch": 59.999874,
+    "yaw": 0.29666138
    },
    "homeBlock": [
-    321,
+    320,
     -1750
    ],
    "townBlocks": [
@@ -128,11 +128,11 @@
      -1748
     ],
     [
-     322,
+     318,
      -1749
     ],
     [
-     318,
+     322,
      -1749
     ],
     [
@@ -148,19 +148,19 @@
      -1751
     ],
     [
-     322,
-     -1752
-    ],
-    [
      318,
      -1748
     ],
     [
      322,
-     -1753
+     -1752
     ],
     [
      318,
+     -1753
+    ],
+    [
+     322,
      -1753
     ],
     [
@@ -234,6 +234,10 @@
     [
      323,
      -1750
+    ],
+    [
+     323,
+     -1749
     ],
     [
      323,
@@ -308,10 +312,6 @@
     "uuid": "347a2cae-dce2-46a5-8284-3213bf0da130"
    },
    {
-    "name": "Nemo_025",
-    "uuid": "950c4097-b661-4069-bbf0-69bacb5dfe2e"
-   },
-   {
     "name": "Vennox77",
     "uuid": "546e64f1-5b15-42f8-a5fd-b8f1f2507b01"
    },
@@ -322,16 +322,20 @@
    {
     "name": "dargox59x",
     "uuid": "f2a7773c-91ee-4fff-8e0a-2d467a09a365"
+   },
+   {
+    "name": "Yrel9",
+    "uuid": "703f76e3-058d-49b8-93fd-4d85da22b790"
+   },
+   {
+    "name": "WyattNathanMine",
+    "uuid": "148ff7f3-e7fe-4451-92b6-cb58cd45038a"
    }
   ],
   "trusted": [
    {
     "name": "VeteranKlent",
     "uuid": "0c5b46b9-23ad-4d9c-b87f-d4a3adba7017"
-   },
-   {
-    "name": "Nemo_025",
-    "uuid": "950c4097-b661-4069-bbf0-69bacb5dfe2e"
    },
    {
     "name": "Vennox77",
@@ -341,32 +345,16 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Maruzensky Street",
-    "uuid": "2761610e-d3c0-41bf-ae01-f6f28d98c71b"
+    "name": "Luxurious Property",
+    "uuid": "9a157da6-6fc2-4727-a3fb-4ac4964bb76c"
    },
    {
-    "name": "Silence Suzuka Street",
-    "uuid": "11a356c9-406b-492b-8d98-f24d9b2633d6"
+    "name": "Residence 1 - Narita Brian St.",
+    "uuid": "16c33cf2-09ea-48bf-8e90-d54120031f8b"
    },
    {
-    "name": "Narita Brian Street",
-    "uuid": "e78c45ee-bd65-4702-8449-a7159db31667"
-   },
-   {
-    "name": "Meisho Doto Street",
-    "uuid": "e63f04a2-c9f5-425b-a783-473bd93e6d65"
-   },
-   {
-    "name": "Rice Shower Avenue",
-    "uuid": "a58b336a-672a-4ebc-bc2f-7dc4f6281c22"
-   },
-   {
-    "name": "Haru Urara Avenue",
-    "uuid": "0b3f515b-6efe-43bf-8cd6-b038c03ae628"
-   },
-   {
-    "name": "N.H Prefecture Highway 101 West",
-    "uuid": "34cf5df7-7f0c-49e0-8f87-5bcf8982f30b"
+    "name": "Rice Shower Avenue - Resident #1",
+    "uuid": "c723dba3-1b3b-4b37-afdd-c8552f6ec6a1"
    }
   ],
   "ranks": {

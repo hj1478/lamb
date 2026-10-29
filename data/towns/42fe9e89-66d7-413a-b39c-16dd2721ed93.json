@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Osogbo",
   "uuid": "42fe9e89-66d7-413a-b39c-16dd2721ed93",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 83,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 3,
-   "balance": 1185.0,
+   "balance": 1150.0,
    "forSalePrice": null
   },
   "perms": {
@@ -435,22 +435,9 @@
    {
     "name": "TheNinjaMilkman",
     "uuid": "326bd7f3-75ba-4b22-be66-c0b49bb4d186"
-   },
-   {
-    "name": "BoosyEater",
-    "uuid": "09fba33a-056b-456e-8652-a1369e04ea61"
-   },
-   {
-    "name": "AlneyGames",
-    "uuid": "a41c26a3-46d4-4140-a540-512f7b3d23d8"
    }
   ],
-  "trusted": [
-   {
-    "name": "BoosyEater",
-    "uuid": "09fba33a-056b-456e-8652-a1369e04ea61"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "MinhoVH",
@@ -504,12 +491,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "BoosyEater",
-     "uuid": "09fba33a-056b-456e-8652-a1369e04ea61"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

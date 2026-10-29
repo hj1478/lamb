@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Moon",
   "uuid": "2fc09cda-9421-4622-856e-ead86b2b9078",
-  "board": "Moo(n)",
+  "board": null,
   "founder": "felixsgt",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "bhbboy",
-   "uuid": "41ac7b5a-fab3-4afa-93ec-10b4d84b9200"
+   "name": "whatmilo",
+   "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": "Egypt",
+   "uuid": "157d7ef7-13db-46db-b20d-00cfd0b01155"
   },
   "timestamps": {
    "registered": 1788480039683,
-   "joinedNationAt": 1789331331815,
+   "joinedNationAt": 1793268044893,
    "ruinedAt": null
   },
   "status": {
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 1,
-   "balance": 2.0,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11694.699999988079,
-    "y": 43.0,
-    "z": -1522.699999988079,
-    "pitch": 0.71390295,
-    "yaw": 49.65677
+    "x": 11700.82116222142,
+    "y": 63.0,
+    "z": -1525.197388218726,
+    "pitch": 15.713892,
+    "yaw": 172.95671
    },
    "homeBlock": [
-    730,
+    731,
     -96
    ],
    "townBlocks": [
@@ -152,36 +152,18 @@
   },
   "residents": [
    {
-    "name": "bhbboy",
-    "uuid": "41ac7b5a-fab3-4afa-93ec-10b4d84b9200"
+    "name": "whatmilo",
+    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
    }
   ],
   "trusted": [
    {
-    "name": "twomoo1119",
-    "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
-   },
-   {
-    "name": "felixsgt",
-    "uuid": "fb727536-85ac-4e35-a8dd-f1eef6616f3a"
-   },
-   {
-    "name": "bhbboy",
-    "uuid": "41ac7b5a-fab3-4afa-93ec-10b4d84b9200"
+    "name": "whatmilo",
+    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
    }
   ],
-  "outlaws": [
-   {
-    "name": "GoldiOwOr",
-    "uuid": "3506364d-1ad3-43ca-a677-891d0e62f082"
-   }
-  ],
-  "quarters": [
-   {
-    "name": "le potions uwu",
-    "uuid": "9a661af5-24a1-45ff-ac2b-2780d2a4233c"
-   }
-  ],
+  "outlaws": [],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

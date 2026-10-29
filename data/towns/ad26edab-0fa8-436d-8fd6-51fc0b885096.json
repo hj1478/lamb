@@ -1,0 +1,160 @@
+{
+ "fetched_at": "2026-10-29T13:15:16Z",
+ "data": {
+  "name": "Dihpression",
+  "uuid": "ad26edab-0fa8-436d-8fd6-51fc0b885096",
+  "board": "/town set board [msg]",
+  "founder": "TeaSpoil",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "TeaSpoil",
+   "uuid": "cc2ac9db-b28f-4c3d-a213-c4e890d41282"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793234963728,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 5,
+   "maxTownBlocks": 48,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 4,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 41465.37800658541,
+    "y": 72.0,
+    "z": -14911.699999988079,
+    "pitch": 7.9499936,
+    "yaw": 16.80461
+   },
+   "homeBlock": [
+    2591,
+    -932
+   ],
+   "townBlocks": [
+    [
+     2590,
+     -931
+    ],
+    [
+     2590,
+     -932
+    ],
+    [
+     2591,
+     -933
+    ],
+    [
+     2591,
+     -932
+    ],
+    [
+     2591,
+     -931
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "TeaSpoil",
+    "uuid": "cc2ac9db-b28f-4c3d-a213-c4e890d41282"
+   },
+   {
+    "name": "SumoVale187",
+    "uuid": "9d6a71f6-bfdb-4df7-a2da-7b2136606af0"
+   },
+   {
+    "name": "Ameliee_01",
+    "uuid": "8693b8f2-fd66-427f-91c3-757911c7481c"
+   },
+   {
+    "name": "DJMalraux",
+    "uuid": "deccad18-cec9-41cd-97f5-b0f0b628aa4a"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Ameliee_01",
+    "uuid": "8693b8f2-fd66-427f-91c3-757911c7481c"
+   },
+   {
+    "name": "SumoVale187",
+    "uuid": "9d6a71f6-bfdb-4df7-a2da-7b2136606af0"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

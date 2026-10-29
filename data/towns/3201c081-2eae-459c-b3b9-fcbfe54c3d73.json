@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Santa_Banana",
   "uuid": "3201c081-2eae-459c-b3b9-fcbfe54c3d73",
-  "board": "/town set board [msg]",
+  "board": "msg Make Sure to Start Recruiting and Building!",
   "founder": "Joemamabanananan",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 46,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 35.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,19 +92,59 @@
    ],
    "townBlocks": [
     [
+     -3798,
+     823
+    ],
+    [
+     -3798,
+     822
+    ],
+    [
+     -3798,
+     821
+    ],
+    [
      -3797,
      823
+    ],
+    [
+     -3795,
+     821
+    ],
+    [
+     -3795,
+     823
+    ],
+    [
+     -3795,
+     822
     ],
     [
      -3796,
      822
     ],
     [
+     -3796,
+     823
+    ],
+    [
+     -3797,
+     820
+    ],
+    [
      -3797,
      822
     ],
     [
+     -3796,
+     820
+    ],
+    [
      -3797,
+     821
+    ],
+    [
+     -3796,
      821
     ]
    ],
@@ -118,6 +158,10 @@
    {
     "name": "MrStewie5",
     "uuid": "1c21f062-49c2-4d9f-b782-468ac23e7a64"
+   },
+   {
+    "name": "romansareback",
+    "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
    }
   ],
   "trusted": [],
@@ -125,8 +169,22 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "MrStewie5",
+     "uuid": "1c21f062-49c2-4d9f-b782-468ac23e7a64"
+    },
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

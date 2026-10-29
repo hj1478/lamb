@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "JungleTown",
   "uuid": "2749015c-b5c2-4e57-a98f-b4e2435a4584",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Diamant559",
-   "uuid": "c97b31e4-9500-4bce-9807-c84ce8fa1d79"
+   "name": "NPC46",
+   "uuid": "fe6dbc6d-9001-20b0-8ea2-fb1bf6698e46"
   },
   "nation": {
-   "name": "Yucatan",
-   "uuid": "506cc5c5-3e9e-4fbb-867e-3b872a9068ba"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789386069385,
-   "joinedNationAt": 1789386160137,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793095201644
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Diamant559",
-    "uuid": "c97b31e4-9500-4bce-9807-c84ce8fa1d79"
+    "name": "NPC46",
+    "uuid": "fe6dbc6d-9001-20b0-8ea2-fb1bf6698e46"
    }
   ],
   "trusted": [],

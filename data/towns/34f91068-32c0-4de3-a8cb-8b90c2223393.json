@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Modesto",
   "uuid": "34f91068-32c0-4de3-a8cb-8b90c2223393",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JA_Official",
-   "uuid": "2366796f-5a91-42d5-ba68-2b35943bd859"
+   "name": "NPC23",
+   "uuid": "ec6cc313-b9bc-20e6-acaa-a7515a35fe33"
   },
   "nation": {
-   "name": "Nevada",
-   "uuid": "dafa8769-b430-4660-88db-2785bb34bbff"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777725800602,
-   "joinedNationAt": 1789357276920,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793095201422
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 52,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 4,
-   "balance": 24.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -304,8 +304,8 @@
   },
   "residents": [
    {
-    "name": "JA_Official",
-    "uuid": "2366796f-5a91-42d5-ba68-2b35943bd859"
+    "name": "NPC23",
+    "uuid": "ec6cc313-b9bc-20e6-acaa-a7515a35fe33"
    }
   ],
   "trusted": [

@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-29T13:15:16Z",
+ "data": {
+  "name": "Jtown",
+  "uuid": "d742f5a5-fccb-40de-a80f-d6376b4819ac",
+  "board": "/town set board [msg]",
+  "founder": "Joleman1222",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC75",
+   "uuid": "385eb0c6-9bb5-20eb-9b8c-6e95199e78cc"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793215834604,
+   "joinedNationAt": null,
+   "ruinedAt": 1793216233287
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -31011.312982590232,
+    "y": 63.0,
+    "z": -29662.5668512803,
+    "pitch": 13.04999,
+    "yaw": 121.389465
+   },
+   "homeBlock": [
+    -1939,
+    -1854
+   ],
+   "townBlocks": [
+    [
+     -1939,
+     -1854
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC75",
+    "uuid": "385eb0c6-9bb5-20eb-9b8c-6e95199e78cc"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

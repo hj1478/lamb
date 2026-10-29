@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Camp_Winterset",
   "uuid": "2b9ea449-80ee-4ba1-9b64-a4f25b69735d",
-  "board": "Currently solo looking for people to join",
+  "board": "Join Now",
   "founder": "Hayden928",
   "wiki": null,
   "discord": null,
@@ -12,37 +12,37 @@
    "uuid": "0a8a3b03-1e8a-4892-b1c0-1d6b74218789"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
    "registered": 1792636057006,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792799850633,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 69.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -43894.687917780546,
-    "y": 79.0,
-    "z": -7945.810240536216,
-    "pitch": 11.699973,
-    "yaw": -168.84521
+    "x": -43896.60746600307,
+    "y": 78.9375,
+    "z": -7944.457352530438,
+    "pitch": 0.29998702,
+    "yaw": -179.9206
    },
    "homeBlock": [
     -2744,
@@ -94,6 +94,46 @@
     [
      -2744,
      -497
+    ],
+    [
+     -2744,
+     -498
+    ],
+    [
+     -2743,
+     -498
+    ],
+    [
+     -2744,
+     -496
+    ],
+    [
+     -2743,
+     -497
+    ],
+    [
+     -2745,
+     -497
+    ],
+    [
+     -2744,
+     -499
+    ],
+    [
+     -2745,
+     -499
+    ],
+    [
+     -2745,
+     -498
+    ],
+    [
+     -2746,
+     -499
+    ],
+    [
+     -2746,
+     -498
     ]
    ],
    "worlds": {}
@@ -102,9 +142,18 @@
    {
     "name": "Hayden928",
     "uuid": "0a8a3b03-1e8a-4892-b1c0-1d6b74218789"
+   },
+   {
+    "name": "StinkyUnicorn703",
+    "uuid": "8523d27f-8fb6-4754-a0b6-df8e0f624334"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "StinkyUnicorn703",
+    "uuid": "8523d27f-8fb6-4754-a0b6-df8e0f624334"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

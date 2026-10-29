@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "TheSigmaTown",
   "uuid": "3896fddc-89d1-4706-a8c1-3321ff6dc283",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheRealManDude",
-   "uuid": "d356af59-1986-41ca-823f-00ac04528c40"
+   "name": "Aeclipse_",
+   "uuid": "f2fe8ce7-a879-4662-a887-a93ee040fca0"
   },
   "nation": {
    "name": "Australia",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 4,
+   "numResidents": 2,
+   "numTrusted": 6,
    "numOutlaws": 2,
-   "balance": 11.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46371.335628576286,
-    "y": 8.0,
-    "z": 19037.73901529627,
-    "pitch": 27.146694,
-    "yaw": -60.576187
+    "x": 46358.55273821687,
+    "y": -8.0,
+    "z": 19040.598259756975,
+    "pitch": 88.54444,
+    "yaw": 90.937256
    },
    "homeBlock": [
-    2898,
-    1189
+    2897,
+    1190
    ],
    "townBlocks": [
     [
@@ -202,9 +202,21 @@
    {
     "name": "TheRealManDude",
     "uuid": "d356af59-1986-41ca-823f-00ac04528c40"
+   },
+   {
+    "name": "Aeclipse_",
+    "uuid": "f2fe8ce7-a879-4662-a887-a93ee040fca0"
    }
   ],
   "trusted": [
+   {
+    "name": "TheRealManDude",
+    "uuid": "d356af59-1986-41ca-823f-00ac04528c40"
+   },
+   {
+    "name": "aightnova_zz",
+    "uuid": "bdd58473-aa4e-4c84-ba83-4a26eae41e2e"
+   },
    {
     "name": "Sneakyavi",
     "uuid": "ea0eb001-7c24-45e8-96c3-f555456f5f33"
@@ -234,7 +246,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Aeclipse_",
+     "uuid": "f2fe8ce7-a879-4662-a887-a93ee040fca0"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

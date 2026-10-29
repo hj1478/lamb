@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Laz_State",
   "uuid": "26a4da21-42ee-4bb0-a323-75d21f63ebac",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 14,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 78.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -154,22 +154,13 @@
    {
     "name": "FeelThisPeople",
     "uuid": "38917069-a81c-4864-97e2-8350510dec37"
-   },
-   {
-    "name": "mlgcyclone12",
-    "uuid": "e6c70f17-8d49-4332-ac72-70b9816ec15b"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "mlgcyclone12",
-     "uuid": "e6c70f17-8d49-4332-ac72-70b9816ec15b"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

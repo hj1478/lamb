@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "New_Marais",
   "uuid": "38cbcf18-4d89-40b5-add7-6e215e93fe00",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/rFdHe9wnKy",
   "mayor": {
-   "name": "XiriTheBee",
-   "uuid": "a672c774-9145-41e5-a6af-0a77a497dcd1"
+   "name": "arsts",
+   "uuid": "8e610780-f402-416a-a47e-0119f0fb71a4"
   },
   "nation": {
    "name": "America",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1783481721912,
-   "joinedNationAt": 1783481737932,
+   "joinedNationAt": 1793201198610,
    "ruinedAt": null
   },
   "status": {
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 65,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 68,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 7,
+   "numResidents": 4,
+   "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 0.0,
-   "forSalePrice": 100.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29111.111727736537,
-    "y": 63.0,
-    "z": -9402.560660935338,
-    "pitch": 1.5495725,
-    "yaw": 89.07913
+    "x": -29120.99805328091,
+    "y": 76.0,
+    "z": -9370.193829917636,
+    "pitch": -2.767337,
+    "yaw": 179.58643
    },
    "homeBlock": [
-    -1820,
-    -588
+    -1821,
+    -586
    ],
    "townBlocks": [
     [
@@ -137,11 +137,23 @@
     ],
     [
      -1820,
+     -587
+    ],
+    [
+     -1820,
+     -586
+    ],
+    [
+     -1820,
      -585
     ],
     [
      -1820,
      -584
+    ],
+    [
+     -1820,
+     -589
     ],
     [
      -1820,
@@ -360,44 +372,19 @@
     "uuid": "8bb8bc58-30f0-4d62-bca6-b1284ecd6b49"
    },
    {
-    "name": "Window9a",
-    "uuid": "dec86b60-1c15-48dd-9f1a-7956bd3e1fe5"
+    "name": "arsts",
+    "uuid": "8e610780-f402-416a-a47e-0119f0fb71a4"
    },
    {
-    "name": "XiriTheBee",
-    "uuid": "a672c774-9145-41e5-a6af-0a77a497dcd1"
+    "name": "Krisx73",
+    "uuid": "40c0bd57-ece2-465f-b71e-595a1783a411"
+   },
+   {
+    "name": "pan132",
+    "uuid": "4db2e6d1-59f9-41fb-85f9-e60bb2b31cbf"
    }
   ],
-  "trusted": [
-   {
-    "name": "StarM3wtw0",
-    "uuid": "d932bf2e-05b6-41cd-aefc-58062780772c"
-   },
-   {
-    "name": "Rustymach56",
-    "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
-   },
-   {
-    "name": "Fake_Razor",
-    "uuid": "fdd4e805-8af8-4b7e-8f32-53ef02f98f17"
-   },
-   {
-    "name": "alktat",
-    "uuid": "e3819382-a969-4bdb-b34a-77f1699e41a2"
-   },
-   {
-    "name": "Majora_link",
-    "uuid": "39f645de-441d-4b1f-aa30-d5e963487ce0"
-   },
-   {
-    "name": "WokeBob",
-    "uuid": "a85b5327-51b6-412b-b505-0ce6b30331ef"
-   },
-   {
-    "name": "LarryWaiter",
-    "uuid": "d40bbde6-24b7-47b0-b920-e1fa4e7845e7"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "ItzDarken",
@@ -417,20 +404,11 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "ThinButterToast",
-     "uuid": "8bb8bc58-30f0-4d62-bca6-b1284ecd6b49"
-    },
-    {
-     "name": "XiriTheBee",
-     "uuid": "a672c774-9145-41e5-a6af-0a77a497dcd1"
+     "name": "Krisx73",
+     "uuid": "40c0bd57-ece2-465f-b71e-595a1783a411"
     }
    ],
-   "Builder": [
-    {
-     "name": "XiriTheBee",
-     "uuid": "a672c774-9145-41e5-a6af-0a77a497dcd1"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

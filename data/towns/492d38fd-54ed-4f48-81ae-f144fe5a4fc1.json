@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Columbia",
   "uuid": "492d38fd-54ed-4f48-81ae-f144fe5a4fc1",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 186,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 4,
+   "numResidents": 7,
+   "numTrusted": 5,
    "numOutlaws": 13,
    "balance": 0.0,
    "forSalePrice": null
@@ -844,10 +844,6 @@
     "uuid": "6c82b561-9e09-4a6d-9157-cf91f58bf53e"
    },
    {
-    "name": "VirtuallyInbound",
-    "uuid": "a399ade6-ba53-4799-ad2b-57b42f73c34f"
-   },
-   {
     "name": "propylethanol",
     "uuid": "aae193e0-979f-4e57-82bd-ee24a4144e5f"
    },
@@ -876,6 +872,10 @@
    {
     "name": "yergmite",
     "uuid": "af89f21d-8d1d-4460-877f-eb42de6f28cb"
+   },
+   {
+    "name": "alktat",
+    "uuid": "e3819382-a969-4bdb-b34a-77f1699e41a2"
    },
    {
     "name": "Giddy_5_year_old",

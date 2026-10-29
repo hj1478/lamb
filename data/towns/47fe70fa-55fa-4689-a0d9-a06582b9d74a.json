@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Air_Temple",
   "uuid": "47fe70fa-55fa-4689-a0d9-a06582b9d74a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kenovo10",
-   "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
+   "name": "Azurelogist",
+   "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
   },
   "nation": {
    "name": "Manchuria",
@@ -17,30 +17,30 @@
   },
   "timestamps": {
    "registered": 1792524260098,
-   "joinedNationAt": 1792524835998,
+   "joinedNationAt": 1793047239904,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 2,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42258.10739891939,
-    "y": 99.0,
-    "z": -13213.778703112223,
-    "pitch": 23.850008,
-    "yaw": -93.38465
+    "x": 42261.28868575859,
+    "y": 97.0,
+    "z": -13208.088524366158,
+    "pitch": 0.8999873,
+    "yaw": -91.73462
    },
    "homeBlock": [
     2641,
     -826
    ],
    "townBlocks": [
+    [
+     2642,
+     -826
+    ],
     [
      2641,
      -826
@@ -100,11 +104,16 @@
   },
   "residents": [
    {
+    "name": "Azurelogist",
+    "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+   }
+  ],
+  "trusted": [
+   {
     "name": "Kenovo10",
     "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

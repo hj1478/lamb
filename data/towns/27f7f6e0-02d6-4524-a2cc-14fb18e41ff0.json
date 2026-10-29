@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Malacca",
   "uuid": "27f7f6e0-02d6-4524-a2cc-14fb18e41ff0",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 103,
-   "maxTownBlocks": 118,
+   "numTownBlocks": 105,
+   "maxTownBlocks": 142,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 9,
+   "numResidents": 11,
    "numTrusted": 3,
    "numOutlaws": 4,
-   "balance": 53.0,
+   "balance": 28.0,
    "forSalePrice": null
   },
   "perms": {
@@ -312,6 +312,10 @@
      447
     ],
     [
+     2286,
+     444
+    ],
+    [
      2291,
      452
     ],
@@ -492,6 +496,10 @@
      444
     ],
     [
+     2287,
+     444
+    ],
+    [
      2282,
      445
     ],
@@ -507,6 +515,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "azterz0",
+    "uuid": "d5ce8eaa-4245-4729-84b4-92330bcc7c57"
+   },
    {
     "name": "1_Silverbolttt",
     "uuid": "6d41063b-90b0-4213-8a11-4a944b5d07d8"
@@ -542,6 +554,10 @@
    {
     "name": "cavecutter",
     "uuid": "4f3c277f-77b9-4dd1-ac8d-5e39191b0608"
+   },
+   {
+    "name": "TinselPath9578",
+    "uuid": "3ce504cb-2be7-4d71-9c13-eeccd28bef40"
    }
   ],
   "trusted": [
@@ -578,7 +594,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "azterz0",
+     "uuid": "d5ce8eaa-4245-4729-84b4-92330bcc7c57"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

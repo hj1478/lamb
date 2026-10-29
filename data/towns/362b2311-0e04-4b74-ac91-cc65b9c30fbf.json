@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
-  "name": "Skittles",
+  "name": "Gerudo",
   "uuid": "362b2311-0e04-4b74-ac91-cc65b9c30fbf",
   "board": "/town set board [msg]",
   "founder": "MekkeBarry",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MekkeBarry",
-   "uuid": "133ef34e-4861-45f7-bd04-ee529aee8fc3"
+   "name": "wunderkindt",
+   "uuid": "2bc25739-18a4-49e6-a310-2cff11209a45"
   },
   "nation": {
    "name": "Africa",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 99,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 110,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 7,
-   "numTrusted": 2,
+   "nationBonus": 50,
+   "numResidents": 5,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -492,24 +492,12 @@
   },
   "residents": [
    {
-    "name": "MekkeBarry",
-    "uuid": "133ef34e-4861-45f7-bd04-ee529aee8fc3"
-   },
-   {
     "name": "OFFCZE",
     "uuid": "dfca06ca-2b96-4645-984c-bb073187bfeb"
    },
    {
-    "name": "blockman52",
-    "uuid": "c0da1adc-8764-41bb-bb30-18129d41424a"
-   },
-   {
     "name": "WirrLy_",
     "uuid": "1a0b521f-2505-4b52-b092-ce5d93eb47db"
-   },
-   {
-    "name": "alwaysXtara24",
-    "uuid": "56b440c8-e6be-4a6d-95a9-81e9ca3db145"
    },
    {
     "name": "AncientPicard",
@@ -518,12 +506,28 @@
    {
     "name": "SoyToxic_YT",
     "uuid": "d4fe690c-834b-4f5e-8631-61fceec143a8"
+   },
+   {
+    "name": "wunderkindt",
+    "uuid": "2bc25739-18a4-49e6-a310-2cff11209a45"
    }
   ],
   "trusted": [
    {
     "name": "Alexbygden",
     "uuid": "e5b2dfb4-26c9-4f3d-9e5b-fa0bf4df47eb"
+   },
+   {
+    "name": "BornDay",
+    "uuid": "0e9af106-8da9-451f-862e-e1dc518703b6"
+   },
+   {
+    "name": "xwisper_",
+    "uuid": "0f7b002f-fdcd-46ba-a7c6-33d8f0439644"
+   },
+   {
+    "name": "MekkeBarry",
+    "uuid": "133ef34e-4861-45f7-bd04-ee529aee8fc3"
    },
    {
     "name": "MasterValterSP",

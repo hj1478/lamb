@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Doha_Qatar",
   "uuid": "289fe175-77bd-4c36-a3aa-9c8225273711",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,19 @@
    "townBlocks": [
     [
      1148,
+     -98
+    ],
+    [
+     1148,
      -99
+    ],
+    [
+     1147,
+     -99
+    ],
+    [
+     1147,
+     -98
     ]
    ],
    "worlds": {}

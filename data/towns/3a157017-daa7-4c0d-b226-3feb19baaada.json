@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Roro_Island",
   "uuid": "3a157017-daa7-4c0d-b226-3feb19baaada",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ZuppaFredda",
-   "uuid": "d24c48ed-a6af-4827-bd37-c868be39a50d"
+   "name": "NPC114",
+   "uuid": "ee3f1be7-1015-20a3-8e95-41102fcfa6f0"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1781535284273,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793035201513
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -41,40 +41,40 @@
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -256,18 +256,36 @@
   },
   "residents": [
    {
-    "name": "ZuppaFredda",
-    "uuid": "d24c48ed-a6af-4827-bd37-c868be39a50d"
+    "name": "NPC114",
+    "uuid": "ee3f1be7-1015-20a3-8e95-41102fcfa6f0"
    }
   ],
   "trusted": [
    {
-    "name": "stevethepillager",
-    "uuid": "e49c8d77-ffa7-437f-811e-a72279e5b612"
+    "name": "gangster1221",
+    "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
+   {
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "190c6e6d-2a03-46f8-8b5e-c14e117aebb5"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

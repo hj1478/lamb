@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Isla_De_Tropico",
   "uuid": "2d22b3f0-5f1c-4e29-b0fa-ecd95acdac92",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PickleJohnUn",
-   "uuid": "8aa82f9f-2996-443b-a74a-253e973427c0"
+   "name": "JustSabb",
+   "uuid": "831b7cf2-7710-46fa-923c-74e27df28087"
   },
   "nation": {
    "name": "Nusantara",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 180,
-   "maxTownBlocks": 90,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 5,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 55.0,
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44527.445975944676,
-    "y": 63.0,
-    "z": 10983.611341340205,
-    "pitch": 2.393219,
-    "yaw": 5.4704456
+    "x": 44534.43636441504,
+    "y": 69.0,
+    "z": 10991.654119341041,
+    "pitch": 0.1501918,
+    "yaw": -86.477325
    },
    "homeBlock": [
-    2782,
+    2783,
     686
    ],
    "townBlocks": [
@@ -821,24 +821,12 @@
   },
   "residents": [
    {
-    "name": "PickleJohnUn",
-    "uuid": "8aa82f9f-2996-443b-a74a-253e973427c0"
-   },
-   {
-    "name": "CookieInBlack",
-    "uuid": "466cbaf4-c0e7-48c6-8fc7-44abf97de54c"
-   },
-   {
     "name": "JustSabb",
     "uuid": "831b7cf2-7710-46fa-923c-74e27df28087"
    },
    {
     "name": "Lamantino007",
     "uuid": "3070541b-4277-4f6e-9189-7855f8e93776"
-   },
-   {
-    "name": "TheeGolden",
-    "uuid": "834d09ba-8a20-4811-8a27-c7273b0f20af"
    }
   ],
   "trusted": [],
@@ -847,25 +835,12 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "CookieInBlack",
-     "uuid": "466cbaf4-c0e7-48c6-8fc7-44abf97de54c"
-    },
-    {
      "name": "Lamantino007",
      "uuid": "3070541b-4277-4f6e-9189-7855f8e93776"
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "CookieInBlack",
-     "uuid": "466cbaf4-c0e7-48c6-8fc7-44abf97de54c"
-    },
-    {
-     "name": "TheeGolden",
-     "uuid": "834d09ba-8a20-4811-8a27-c7273b0f20af"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

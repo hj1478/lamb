@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Hazelmare",
   "uuid": "31f93c38-a0aa-4b3f-8f7a-12d032511358",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 70.0
   },
   "perms": {
    "build": [
@@ -110,30 +110,38 @@
    {
     "name": "JesusIsTuff",
     "uuid": "3e0d0e74-be34-4723-9e4b-878720737f01"
+   },
+   {
+    "name": "22div7",
+    "uuid": "7b429fca-490d-449a-8132-56026c097888"
+   },
+   {
+    "name": "killer7362",
+    "uuid": "1ee16562-37e7-4a07-886e-add2c75885a9"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [
    {
-    "name": "Lovely Quarter",
-    "uuid": "1c1efd37-8a8b-4444-8871-7f2cd3c59fc6"
-   },
-   {
     "name": "Upbeat Suite",
     "uuid": "c7c2c324-34d0-4503-84ef-5cfde240fe7f"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "083602d4-3ff3-4327-99a6-e07e86777b51"
    },
    {
     "name": "Inconvenient Apartment",
     "uuid": "8c3f73f0-a5ce-46eb-9175-6fa64a0f0f0d"
    },
    {
-    "name": "Upbeat Apartment",
-    "uuid": "24f2c068-989c-4420-a704-c97e7002f596"
+    "name": "Lovely Quarter",
+    "uuid": "1c1efd37-8a8b-4444-8871-7f2cd3c59fc6"
    },
    {
-    "name": "Inconvenient Suite",
-    "uuid": "083602d4-3ff3-4327-99a6-e07e86777b51"
+    "name": "Upbeat Apartment",
+    "uuid": "24f2c068-989c-4420-a704-c97e7002f596"
    }
   ],
   "ranks": {

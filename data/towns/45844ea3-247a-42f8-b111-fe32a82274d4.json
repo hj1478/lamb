@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "II",
   "uuid": "45844ea3-247a-42f8-b111-fe32a82274d4",
@@ -12,17 +12,17 @@
    "uuid": "bb766811-af51-40a8-9585-088ccd61b6f5"
   },
   "nation": {
-   "name": "Nepal",
-   "uuid": "cfcb82b0-ad84-4db7-a434-9b41402d49eb"
+   "name": "Narmada",
+   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
   },
   "timestamps": {
    "registered": 1785253510886,
-   "joinedNationAt": 1791965310852,
+   "joinedNationAt": 1793209550672,
    "ruinedAt": null
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 3517.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": false,
     "mobs": false
    }
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 33845.690748041874,
+    "x": 33848.65749269428,
     "y": 129.0,
-    "z": -2491.2491064236688,
-    "pitch": 12.554334,
-    "yaw": -178.31403
+    "z": -2449.661314145967,
+    "pitch": -6.150018,
+    "yaw": 178.0112
    },
    "homeBlock": [
     2115,
-    -156
+    -154
    ],
    "townBlocks": [
     [
@@ -101,6 +101,14 @@
     ],
     [
      2115,
+     -159
+    ],
+    [
+     2115,
+     -153
+    ],
+    [
+     2115,
      -154
     ],
     [
@@ -152,6 +160,10 @@
      -158
     ],
     [
+     2112,
+     -156
+    ],
+    [
      2114,
      -158
     ],
@@ -189,6 +201,10 @@
     ],
     [
      2116,
+     -156
+    ],
+    [
+     2118,
      -156
     ]
    ],

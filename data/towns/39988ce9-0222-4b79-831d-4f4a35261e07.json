@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Arta",
   "uuid": "39988ce9-0222-4b79-831d-4f4a35261e07",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 7,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -584,16 +584,20 @@
   },
   "residents": [
    {
-    "name": "Shoblab",
-    "uuid": "9dce6bb1-5ce3-4ea5-9f43-a06b15fbd37a"
-   },
-   {
     "name": "Director9",
     "uuid": "ef2c8f12-b1a3-4f64-8d45-9154a7a46fa4"
    },
    {
+    "name": "Qofil",
+    "uuid": "033adc5d-0912-4267-adb6-bb3326615390"
+   },
+   {
     "name": "Miaouli419",
     "uuid": "379dcab6-1c7d-42aa-9bd1-c95cb729e6c6"
+   },
+   {
+    "name": "Whoovian",
+    "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
    }
   ],
   "trusted": [

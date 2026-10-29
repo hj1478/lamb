@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Baranowicze",
   "uuid": "42d26b88-d704-4e7d-bdc6-62f3a3e83f76",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 218,
+   "numTownBlocks": 220,
    "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 11,
    "numTrusted": 3,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -569,6 +569,10 @@
     ],
     [
      601,
+     -804
+    ],
+    [
+     601,
      -803
     ],
     [
@@ -610,6 +614,10 @@
     [
      601,
      -787
+    ],
+    [
+     602,
+     -804
     ],
     [
      602,
@@ -980,10 +988,6 @@
     "uuid": "f0f48d67-64b1-4bab-abbf-83369ef27a46"
    },
    {
-    "name": "f3ld",
-    "uuid": "c21f7239-36d2-4bdb-a97f-c9face6824da"
-   },
-   {
     "name": "Starcezs",
     "uuid": "93d81ccf-922a-49a5-b90a-40b92416860d"
    },
@@ -1010,6 +1014,10 @@
    {
     "name": "mossCarvin",
     "uuid": "16f4c6cd-17eb-49c3-86b8-0a547a0f6566"
+   },
+   {
+    "name": "Sebechedoux",
+    "uuid": "fb70273d-c66b-406d-979d-c0c1eb076fd4"
    }
   ],
   "trusted": [
@@ -1026,7 +1034,12 @@
     "uuid": "48950f06-b211-4421-9ec5-d1ddc690fb11"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "stonemason453",
+    "uuid": "22be89ee-42b8-4d7a-9ad1-1d80f220461a"
+   }
+  ],
   "quarters": [
    {
     "name": "Lovely Flat",
@@ -1091,6 +1104,10 @@
    {
     "name": "Bland Quarter",
     "uuid": "661eacde-c87c-476a-a7b9-9dc529cf52af"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "203a9ef6-2774-45d3-91b5-7b247b728cff"
    }
   ],
   "ranks": {

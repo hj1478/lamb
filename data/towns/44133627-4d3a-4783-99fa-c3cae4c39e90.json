@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "SpoookyHollow",
   "uuid": "44133627-4d3a-4783-99fa-c3cae4c39e90",
@@ -12,12 +12,12 @@
    "uuid": "298d136b-ad22-43c1-b2bb-d09b1b25572e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Kara",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
    "registered": 1779413259192,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792787550762,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 105,
-   "maxTownBlocks": 96,
+   "numTownBlocks": 106,
+   "maxTownBlocks": 126,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 8,
    "numTrusted": 3,
    "numOutlaws": 10,
-   "balance": 2142.0,
+   "balance": 2300.0,
    "forSalePrice": null
   },
   "perms": {
@@ -436,6 +436,10 @@
      -1899
     ],
     [
+     1795,
+     -1894
+    ],
+    [
      1793,
      -1898
     ],
@@ -576,7 +580,7 @@
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "89XD",
+    "name": "et6n",
     "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
    },
    {
@@ -606,14 +610,6 @@
   ],
   "quarters": [
    {
-    "name": "Black Market Stall 2",
-    "uuid": "b30ba096-cdf9-44bf-97e6-32eeea9ae9f8"
-   },
-   {
-    "name": "Black Market Stall 1",
-    "uuid": "033b123b-a689-4ad1-9a21-e679d398303a"
-   },
-   {
     "name": "Spoooky Apartment 1",
     "uuid": "6afea192-21e3-4728-abd4-80f38ea013da"
    },
@@ -628,6 +624,34 @@
    {
     "name": "Spoooky Apartment 4",
     "uuid": "0353b93a-806c-4f9c-92e9-c122ba8548c2"
+   },
+   {
+    "name": "Black Market Info Center",
+    "uuid": "881a31de-3535-4051-b63c-9c8df760f434"
+   },
+   {
+    "name": "Gloomy Property",
+    "uuid": "b507ff2f-c9ac-48ff-bc23-6d2ca9ba1e60"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "19ec125f-8d05-4138-b537-05c94e4c7558"
+   },
+   {
+    "name": "Lovely Tenement",
+    "uuid": "c1bf25c2-9531-47aa-b566-c9599376eaa7"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "10f50542-4bfe-4de9-8b28-86e2efaed52d"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "b0bc572b-32fe-4fc6-9fc9-64662b8c83e4"
+   },
+   {
+    "name": "Welcoming Tenement",
+    "uuid": "1aab33c9-45a9-40c9-9c62-be45a975af8a"
    }
   ],
   "ranks": {

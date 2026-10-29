@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Decatur",
   "uuid": "2eb1286e-464d-4a87-8727-c3216eaaaa52",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792560752469,
-   "joinedNationAt": 1792560774869,
+   "joinedNationAt": 1793156986595,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 6.0,
+   "nationBonus": 80,
+   "numResidents": 3,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,56 @@
    ],
    "townBlocks": [
     [
+     -1942,
+     -311
+    ],
+    [
+     -1942,
+     -310
+    ],
+    [
+     -1943,
+     -310
+    ],
+    [
+     -1942,
+     -307
+    ],
+    [
+     -1945,
+     -311
+    ],
+    [
+     -1943,
+     -311
+    ],
+    [
+     -1943,
+     -308
+    ],
+    [
+     -1942,
+     -309
+    ],
+    [
+     -1943,
+     -309
+    ],
+    [
+     -1942,
+     -308
+    ],
+    [
      -1945,
      -308
     ],
     [
      -1944,
      -307
+    ],
+    [
+     -1941,
+     -310
     ],
     [
      -1945,
@@ -110,6 +154,14 @@
     [
      -1943,
      -307
+    ],
+    [
+     -1941,
+     -309
+    ],
+    [
+     -1940,
+     -308
     ],
     [
      -1945,
@@ -128,32 +180,52 @@
      -310
     ],
     [
-     -1942,
-     -310
+     -1941,
+     -311
     ],
     [
-     -1943,
-     -310
-    ],
-    [
-     -1942,
+     -1946,
      -307
     ],
     [
-     -1943,
+     -1941,
      -308
     ],
     [
-     -1942,
+     -1946,
+     -310
+    ],
+    [
+     -1939,
      -309
     ],
     [
-     -1943,
-     -309
+     -1946,
+     -311
     ],
     [
-     -1942,
+     -1946,
      -308
+    ],
+    [
+     -1946,
+     -309
+    ],
+    [
+     -1944,
+     -311
+    ],
+    [
+     -1940,
+     -311
+    ],
+    [
+     -1940,
+     -309
+    ],
+    [
+     -1940,
+     -310
     ]
    ],
    "worlds": {}
@@ -162,10 +234,32 @@
    {
     "name": "DogToyYoda14117",
     "uuid": "25f5fa45-4936-4367-9453-b7c2fedfb209"
+   },
+   {
+    "name": "diffenLukas",
+    "uuid": "f9ee4920-0ba6-4535-a8a8-2e43fe905e0a"
+   },
+   {
+    "name": "WilliamCreator7",
+    "uuid": "790880bf-23c1-492d-889b-85e6d1e80ae2"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "Hoffywin9999",
+    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+   },
+   {
+    "name": "willowy_winds",
+    "uuid": "2da28810-b43b-4eea-a4db-4a5755c16ad4"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

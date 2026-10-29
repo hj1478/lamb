@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Shanghai",
   "uuid": "3615a299-bf30-4300-94e5-48a35f591847",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 340,
-   "maxTownBlocks": 352,
+   "numTownBlocks": 321,
+   "maxTownBlocks": 340,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 21,
-   "numTrusted": 11,
+   "numResidents": 20,
+   "numTrusted": 12,
    "numOutlaws": 5,
-   "balance": 0.0,
+   "balance": 47.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,26 +91,6 @@
     -216
    ],
    "townBlocks": [
-    [
-     2706,
-     -209
-    ],
-    [
-     2706,
-     -210
-    ],
-    [
-     2706,
-     -211
-    ],
-    [
-     2706,
-     -212
-    ],
-    [
-     2706,
-     -213
-    ],
     [
      2706,
      -214
@@ -236,28 +216,12 @@
      -227
     ],
     [
-     2705,
-     -211
-    ],
-    [
      2725,
      -223
     ],
     [
-     2705,
-     -210
-    ],
-    [
      2725,
      -224
-    ],
-    [
-     2705,
-     -213
-    ],
-    [
-     2705,
-     -212
     ],
     [
      2705,
@@ -308,28 +272,12 @@
      -218
     ],
     [
-     2705,
-     -209
-    ],
-    [
-     2705,
-     -208
-    ],
-    [
      2725,
      -214
     ],
     [
-     2707,
-     -212
-    ],
-    [
      2715,
      -218
-    ],
-    [
-     2707,
-     -211
     ],
     [
      2715,
@@ -392,14 +340,6 @@
      -220
     ],
     [
-     2707,
-     -210
-    ],
-    [
-     2707,
-     -209
-    ],
-    [
      2721,
      -214
     ],
@@ -444,10 +384,6 @@
      -211
     ],
     [
-     2704,
-     -216
-    ],
-    [
      2707,
      -222
     ],
@@ -464,20 +400,12 @@
      -213
     ],
     [
-     2704,
-     -218
-    ],
-    [
      2707,
      -224
     ],
     [
      2715,
      -214
-    ],
-    [
-     2704,
-     -217
     ],
     [
      2707,
@@ -494,10 +422,6 @@
     [
      2721,
      -212
-    ],
-    [
-     2704,
-     -219
     ],
     [
      2707,
@@ -1472,6 +1396,10 @@
     "uuid": "89978060-2b84-4ddd-bf2f-c1139a33414d"
    },
    {
+    "name": "MrBlixz",
+    "uuid": "92e518fc-8733-4b9f-81e7-07558b8b8f77"
+   },
+   {
     "name": "MAyullyn",
     "uuid": "55f23fe2-d007-46c3-b901-574f5fb70a5a"
    },
@@ -1492,16 +1420,8 @@
     "uuid": "616e9fd0-5023-4dab-bd4b-4ab8f2fcc34e"
    },
    {
-    "name": "SHADER12",
-    "uuid": "8f578396-b63a-4e09-8f2f-1d3f9692d341"
-   },
-   {
-    "name": "BabaKn",
-    "uuid": "f4f18edc-b379-44f6-9dd2-d8ffae151bb1"
-   },
-   {
-    "name": "geenmilo",
-    "uuid": "cc5d63d7-ae5a-492d-a71f-75e2ab68a853"
+    "name": "rfdfa",
+    "uuid": "9807a2b2-bda5-4e47-9005-d16848e9a114"
    },
    {
     "name": "Tunnie_",
@@ -1541,6 +1461,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "U_N_Owen1939",
+    "uuid": "d557b767-a6dd-4784-b6ac-f40cb41e4fc7"
+   },
    {
     "name": "RevDestiny",
     "uuid": "1e57446c-eeee-4cd2-9a97-0a446ea1d0b4"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Grozny",
   "uuid": "2ff5d43c-ca79-4054-830f-392015f08289",
@@ -8,20 +8,20 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SpicyCrew",
-   "uuid": "c60f91eb-b507-4e8e-b13f-8f0016ef4ca3"
+   "name": "slavic_potato",
+   "uuid": "d61da2ba-de5c-4cbb-b4d9-d7a238c867e0"
   },
   "nation": {
-   "name": "Ukraine",
-   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
   },
   "timestamps": {
    "registered": 1777047285185,
-   "joinedNationAt": 1786479648430,
+   "joinedNationAt": 1793074614419,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 60,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 5,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -336,20 +336,11 @@
   },
   "residents": [
    {
-    "name": "SpicyCrew",
-    "uuid": "c60f91eb-b507-4e8e-b13f-8f0016ef4ca3"
-   },
-   {
-    "name": "Miner_trooper",
-    "uuid": "70d26c42-6c8a-455d-ae8f-1a9893903fdf"
+    "name": "slavic_potato",
+    "uuid": "d61da2ba-de5c-4cbb-b4d9-d7a238c867e0"
    }
   ],
-  "trusted": [
-   {
-    "name": "XxSlayerMCxX",
-    "uuid": "7f235a6f-2988-4967-ba5d-adbe2781728f"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "dv6724",

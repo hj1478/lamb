@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Chernobyl",
   "uuid": "444d9bc3-1d83-42ef-8324-8ac4058240a9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 395,
-   "maxTownBlocks": 412,
+   "numTownBlocks": 403,
+   "maxTownBlocks": 448,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
+   "numResidents": 29,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 18.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,6 +117,14 @@
     ],
     [
      660,
+     -772
+    ],
+    [
+     660,
+     -771
+    ],
+    [
+     660,
      -776
     ],
     [
@@ -816,6 +824,10 @@
      -775
     ],
     [
+     662,
+     -771
+    ],
+    [
      649,
      -776
     ],
@@ -912,6 +924,10 @@
      -776
     ],
     [
+     662,
+     -772
+    ],
+    [
      651,
      -775
     ],
@@ -1230,6 +1246,14 @@
     [
      657,
      -768
+    ],
+    [
+     663,
+     -772
+    ],
+    [
+     663,
+     -771
     ],
     [
      663,
@@ -1656,12 +1680,20 @@
      -762
     ],
     [
+     661,
+     -772
+    ],
+    [
      640,
      -768
     ],
     [
      637,
      -765
+    ],
+    [
+     661,
+     -771
     ],
     [
      640,
@@ -1682,18 +1714,6 @@
    {
     "name": "Mongomery2324",
     "uuid": "3b339b34-827e-4f5d-b699-e5c672611408"
-   },
-   {
-    "name": "TimKnight2013",
-    "uuid": "8a7da251-6660-4b5b-b99d-d49169f5ff45"
-   },
-   {
-    "name": "CarelessWand08",
-    "uuid": "12fc6053-3ad2-45ae-a0d9-653395d91ba0"
-   },
-   {
-    "name": "Minecrafter986",
-    "uuid": "a500c014-925c-4f84-ac1e-5c94a1149f61"
    },
    {
     "name": "KajusGAZ",
@@ -1778,6 +1798,30 @@
    {
     "name": "HellHunter157",
     "uuid": "22e59d8a-28ab-410c-974e-cb13e830544d"
+   },
+   {
+    "name": "theezakje34",
+    "uuid": "27ace375-95a3-4262-9134-e1e5a952b661"
+   },
+   {
+    "name": "FwJester",
+    "uuid": "8d0dab06-e1d9-4e9a-b9d2-c816cd81e595"
+   },
+   {
+    "name": "Mxuffin",
+    "uuid": "ed560075-77b0-499a-a240-4d4499d0e62a"
+   },
+   {
+    "name": "toma6665",
+    "uuid": "ce389917-b892-4094-a729-5d78b3858bef"
+   },
+   {
+    "name": "limelight1726",
+    "uuid": "8829fc67-9445-4363-815e-cd2c47b995df"
+   },
+   {
+    "name": "xxmordasxx",
+    "uuid": "fbb9310f-ba0c-497e-8a77-f5494a8cc73e"
    }
   ],
   "trusted": [
@@ -1838,14 +1882,6 @@
     "uuid": "8e1bcdaa-5e5e-4da7-a299-99c66edf9ab5"
    },
    {
-    "name": "Cheerful Property",
-    "uuid": "183020b6-4ee0-4338-ae09-55b148487567"
-   },
-   {
-    "name": "Dingy Suite",
-    "uuid": "3f03809d-f085-4b50-85ca-96dddb6e3d1c"
-   },
-   {
     "name": "Perturbing Apartment",
     "uuid": "baeeab8c-4cb3-40fd-8fcc-2692c8f3c13b"
    },
@@ -1856,6 +1892,14 @@
    {
     "name": "Bland Quarter",
     "uuid": "ce8d3cc8-5509-45bc-a4aa-538d4a7e92e1"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "3f03809d-f085-4b50-85ca-96dddb6e3d1c"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "183020b6-4ee0-4338-ae09-55b148487567"
    }
   ],
   "ranks": {

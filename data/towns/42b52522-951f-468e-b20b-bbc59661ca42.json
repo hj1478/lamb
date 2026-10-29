@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Moosino",
   "uuid": "42b52522-951f-468e-b20b-bbc59661ca42",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 94,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 95,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 5,
-   "balance": 7.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6746.700745319952,
+    "x": 6746.70003004643,
     "y": 70.0,
-    "z": 6810.700864674241,
-    "pitch": 5.2502723,
-    "yaw": -141.60037
+    "z": 6813.29110650974,
+    "pitch": 13.800295,
+    "yaw": -92.85033
    },
    "homeBlock": [
     421,
@@ -469,6 +469,10 @@
      "townblocks": [
       [
        148,
+       -212
+      ],
+      [
+       148,
        -213
       ]
      ]
@@ -479,10 +483,6 @@
    {
     "name": "Cilantro67",
     "uuid": "787c40a1-b6ca-4905-9eeb-d05d87fbd58d"
-   },
-   {
-    "name": "cooker44",
-    "uuid": "82ca2cee-f3c1-4a7e-90d4-66762bc01c0e"
    },
    {
     "name": "BobTheGasoline",
@@ -658,7 +658,19 @@
     "uuid": "b65e592e-fff0-433f-8cf7-31f46b93b0cd"
    },
    {
-    "name": "Moon Storage",
+    "name": "EXIT (WARNING PVP)",
+    "uuid": "33909873-c09f-42bc-8f96-8221cad7ad80"
+   },
+   {
+    "name": "Airlock (Please dont let in)",
+    "uuid": "e260788c-0a30-4757-aa95-42dcc2360c4a"
+   },
+   {
+    "name": "WELCOME to Moosino",
+    "uuid": "8f377cd3-ce50-41ef-b562-4d9d361cf799"
+   },
+   {
+    "name": "Public Moon Storage",
     "uuid": "55fa487b-1bd9-47f2-8369-f68c6da3ef6b"
    }
   ],
@@ -671,10 +683,6 @@
    ],
    "Builder": [],
    "Recruiter": [
-    {
-     "name": "cooker44",
-     "uuid": "82ca2cee-f3c1-4a7e-90d4-66762bc01c0e"
-    },
     {
      "name": "BobTheGasoline",
      "uuid": "4fe18992-0bd7-48b3-92c0-4c58e6c0f38d"

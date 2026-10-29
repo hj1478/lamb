@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Utah",
   "uuid": "31aeb3ef-c85f-43e1-824c-92cdce10194a",
@@ -12,12 +12,12 @@
    "uuid": "38823f9d-8db2-4cb4-9b76-cac7cbaef1e0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Zion",
+   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
   },
   "timestamps": {
    "registered": 1784424152410,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793156675970,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 59,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "nationBonus": 80,
+   "numResidents": 5,
+   "numTrusted": 5,
    "numOutlaws": 2,
-   "balance": 656.0,
+   "balance": 733.0,
    "forSalePrice": null
   },
   "perms": {
@@ -342,6 +342,14 @@
    {
     "name": "NotStaticX11",
     "uuid": "2fc352a2-f778-435f-9719-7eed2ff7c5a5"
+   },
+   {
+    "name": "JavaCrash",
+    "uuid": "d7ad518c-0296-466a-b375-6e6edb339bee"
+   },
+   {
+    "name": "JoeOneKnows",
+    "uuid": "5b322bf1-ac9b-4d1b-a867-3c45f9257816"
    }
   ],
   "trusted": [
@@ -358,8 +366,12 @@
     "uuid": "9972dfcf-b704-45fe-a2bf-0be9d7fc6fc5"
    },
    {
-    "name": "Xyl_o",
-    "uuid": "fb56a59c-963e-47bf-85d6-310bdd3665bc"
+    "name": "JoeOneKnows",
+    "uuid": "5b322bf1-ac9b-4d1b-a867-3c45f9257816"
+   },
+   {
+    "name": "JavaCrash",
+    "uuid": "d7ad518c-0296-466a-b375-6e6edb339bee"
    }
   ],
   "outlaws": [
@@ -376,8 +388,16 @@
   "ranks": {
    "Councillor": [
     {
+     "name": "AmEricd",
+     "uuid": "9972dfcf-b704-45fe-a2bf-0be9d7fc6fc5"
+    },
+    {
      "name": "NotStaticX11",
      "uuid": "2fc352a2-f778-435f-9719-7eed2ff7c5a5"
+    },
+    {
+     "name": "JavaCrash",
+     "uuid": "d7ad518c-0296-466a-b375-6e6edb339bee"
     }
    ],
    "Builder": [],

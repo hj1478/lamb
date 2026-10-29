@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Erycis",
   "uuid": "33543d7d-e0fe-48f1-adb6-6581b4a1a550",
@@ -12,12 +12,12 @@
    "uuid": "fd38c84e-9ced-4126-bbf9-3df1353f48e8"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777676388358,
-   "joinedNationAt": 1786724722909,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 5,

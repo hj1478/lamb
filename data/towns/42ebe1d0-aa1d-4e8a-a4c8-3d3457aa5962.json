@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Turku",
   "uuid": "42ebe1d0-aa1d-4e8a-a4c8-3d3457aa5962",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 96,
+   "numTownBlocks": 37,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,6 +108,14 @@
      -1056
     ],
     [
+     485,
+     -1053
+    ],
+    [
+     485,
+     -1052
+    ],
+    [
      486,
      -1053
     ],
@@ -118,6 +126,10 @@
     [
      489,
      -1053
+    ],
+    [
+     486,
+     -1051
     ],
     [
      489,
@@ -236,10 +248,6 @@
     "uuid": "5c10c0e4-d9e5-4dda-a449-f8cb06ab8265"
    },
    {
-    "name": "sacurawr",
-    "uuid": "aca2e768-76dc-47fc-9fe9-3916ea229f48"
-   },
-   {
     "name": "WPAR123",
     "uuid": "1eaa9d10-59da-4710-9853-a9fa7e4d2280"
    }
@@ -248,12 +256,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "sacurawr",
-     "uuid": "aca2e768-76dc-47fc-9fe9-3916ea229f48"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

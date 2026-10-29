@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Islay",
   "uuid": "2ebe251b-56c2-441b-bfc4-036412493a50",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 187,
-   "maxTownBlocks": 436,
+   "maxTownBlocks": 400,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 28,
+   "numResidents": 25,
    "numTrusted": 5,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -853,18 +853,6 @@
     "uuid": "607770e1-3b38-441c-b15d-8e10219ae185"
    },
    {
-    "name": "Rainexer",
-    "uuid": "115f39eb-b77d-447a-bac5-72e5afcf8f29"
-   },
-   {
-    "name": "yedque",
-    "uuid": "f90df65d-9bb3-48e4-8355-cf6964c9927d"
-   },
-   {
-    "name": "dudo05",
-    "uuid": "6163f280-6dc0-4219-98f2-20763d235734"
-   },
-   {
     "name": "kaasssss",
     "uuid": "1095d146-11c5-4fd0-b340-1045cdd05775"
    },
@@ -1019,10 +1007,6 @@
     "uuid": "6329d2c4-bb01-4cc8-a46a-e41451a5c24c"
    },
    {
-    "name": "Lovely Flat",
-    "uuid": "28ac634a-1dcf-4580-99fd-a25114d4ef50"
-   },
-   {
     "name": "Perturbing Residence",
     "uuid": "1253d057-47f0-4959-9de0-cd7056e3a452"
    },
@@ -1033,6 +1017,10 @@
    {
     "name": "Dingy Suite",
     "uuid": "5981f638-4077-4efa-b71a-80f8687a9e5a"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "28ac634a-1dcf-4580-99fd-a25114d4ef50"
    }
   ],
   "ranks": {
@@ -1042,18 +1030,52 @@
      "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
+   "Builder": [
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+    }
+   ],
+   "Police": [
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+    }
+   ],
    "Tax-exempt": [
     {
      "name": "kt0ph",
      "uuid": "607770e1-3b38-441c-b15d-8e10219ae185"
+    },
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
     }
    ],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Treasurer": [
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "tHEcanadian_",
+     "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Central_Canada",
   "uuid": "26de23dd-9085-442e-9dc6-7d566467db7b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ailliamy",
-   "uuid": "aff2ea20-65fd-4b8f-8a70-45c26fee123b"
+   "name": "Covalant",
+   "uuid": "ae7435df-cdd8-4ca9-9271-11e7c7b0f2a3"
   },
   "nation": {
    "name": "Alberta",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -180,16 +180,8 @@
   },
   "residents": [
    {
-    "name": "Ailliamy",
-    "uuid": "aff2ea20-65fd-4b8f-8a70-45c26fee123b"
-   },
-   {
     "name": "Covalant",
     "uuid": "ae7435df-cdd8-4ca9-9271-11e7c7b0f2a3"
-   },
-   {
-    "name": "SussySamantha",
-    "uuid": "411165eb-b108-4d42-884d-d511995b01fd"
    }
   ],
   "trusted": [],

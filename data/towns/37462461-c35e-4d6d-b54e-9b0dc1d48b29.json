@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Tobruk",
   "uuid": "37462461-c35e-4d6d-b54e-9b0dc1d48b29",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -42,8 +42,8 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 311.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 90.0
   },
   "perms": {
    "build": [
@@ -112,20 +112,20 @@
      -249
     ],
     [
+     517,
+     -248
+    ],
+    [
      518,
      -249
     ],
     [
      517,
-     -248
+     -247
     ],
     [
      518,
      -248
-    ],
-    [
-     517,
-     -247
     ]
    ],
    "worlds": {}

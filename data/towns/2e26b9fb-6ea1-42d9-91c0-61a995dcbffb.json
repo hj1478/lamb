@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Maksat",
   "uuid": "2e26b9fb-6ea1-42d9-91c0-61a995dcbffb",
@@ -12,12 +12,12 @@
    "uuid": "fbac5abf-e742-41bc-a690-94c6db653e82"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Texas",
+   "uuid": "059fcc8b-3db5-41b1-8f99-306150225850"
   },
   "timestamps": {
    "registered": 1792482644911,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793215701236,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 19.0,
+   "balance": 145.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -37899.0946678508,
-    "y": 132.0,
-    "z": -4263.292095955963,
-    "pitch": 17.78712,
-    "yaw": -75.79556
+    "x": -37884.254409515524,
+    "y": 136.0,
+    "z": -4288.037174211318,
+    "pitch": 9.954399,
+    "yaw": -179.55316
    },
    "homeBlock": [
-    -2369,
-    -267
+    -2368,
+    -269
    ],
    "townBlocks": [
     [

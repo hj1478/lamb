@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T12:03:01Z",
+ "fetched_at": "2026-10-29T13:15:16Z",
  "data": {
   "name": "Paarl",
   "uuid": "382d7a01-6bf6-413c-9747-955c54053727",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 37,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 1,
+   "numResidents": 4,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 153.0,
+   "numOutlaws": 2,
+   "balance": 69.0,
    "forSalePrice": null
   },
   "perms": {
@@ -105,6 +105,10 @@
     ],
     [
      501,
+     1246
+    ],
+    [
+     501,
      1243
     ],
     [
@@ -134,6 +138,10 @@
     [
      503,
      1243
+    ],
+    [
+     502,
+     1246
     ],
     [
      503,
@@ -196,12 +204,32 @@
      1244
     ],
     [
+     498,
+     1243
+    ],
+    [
+     498,
+     1244
+    ],
+    [
      500,
+     1243
+    ],
+    [
+     499,
      1243
     ],
     [
      500,
      1242
+    ],
+    [
+     499,
+     1245
+    ],
+    [
+     499,
+     1244
     ],
     [
      500,
@@ -218,10 +246,31 @@
    {
     "name": "SkySquirrel11",
     "uuid": "e751a7c7-68e1-4923-8b70-88ba1dda4bf8"
+   },
+   {
+    "name": "Wolfspider314",
+    "uuid": "2b24fe8d-5a8a-4a6f-b612-80d54249135e"
+   },
+   {
+    "name": "Notjojoo",
+    "uuid": "79397a3e-8414-48ba-9b54-09340f609a93"
+   },
+   {
+    "name": "apzeoirutut",
+    "uuid": "e5ed3b03-a884-4c08-8970-d9a930551022"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "tiborius1",
+    "uuid": "7c17fac4-831d-4a35-ae46-ed00c4c33b36"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
