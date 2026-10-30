@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "New_Koblenz",
   "uuid": "6b9af12a-508c-4a1b-829b-8561e655eaaa",
-  "board": "The greatest town!",
+  "board": "Farming,fishing and mining! Join us!",
   "founder": "OofOldGrandpa",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,47 @@
    "townBlocks": [
     [
      758,
+     532
+    ],
+    [
+     758,
+     531
+    ],
+    [
+     757,
      531
     ],
     [
      758,
      530
+    ],
+    [
+     759,
+     529
+    ],
+    [
+     757,
+     530
+    ],
+    [
+     759,
+     530
+    ],
+    [
+     758,
+     529
+    ],
+    [
+     759,
+     531
+    ],
+    [
+     757,
+     532
+    ],
+    [
+     759,
+     532
     ]
    ],
    "worlds": {}
@@ -110,6 +146,14 @@
    {
     "name": "Coreol",
     "uuid": "2f52a5ae-2206-45d6-946f-becd0b879ef8"
+   },
+   {
+    "name": "shakamaka090214",
+    "uuid": "8d2b7fdc-021a-4e2d-87f4-3f112c6e28e0"
+   },
+   {
+    "name": "Daba_895",
+    "uuid": "1dd603c2-42d9-4cdd-8d1d-29e511157e2a"
    }
   ],
   "trusted": [],
@@ -122,13 +166,45 @@
      "uuid": "2f52a5ae-2206-45d6-946f-becd0b879ef8"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
+   "Builder": [
+    {
+     "name": "shakamaka090214",
+     "uuid": "8d2b7fdc-021a-4e2d-87f4-3f112c6e28e0"
+    },
+    {
+     "name": "Daba_895",
+     "uuid": "1dd603c2-42d9-4cdd-8d1d-29e511157e2a"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Coreol",
+     "uuid": "2f52a5ae-2206-45d6-946f-becd0b879ef8"
+    },
+    {
+     "name": "shakamaka090214",
+     "uuid": "8d2b7fdc-021a-4e2d-87f4-3f112c6e28e0"
+    }
+   ],
+   "Police": [
+    {
+     "name": "shakamaka090214",
+     "uuid": "8d2b7fdc-021a-4e2d-87f4-3f112c6e28e0"
+    },
+    {
+     "name": "Daba_895",
+     "uuid": "1dd603c2-42d9-4cdd-8d1d-29e511157e2a"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "shakamaka090214",
+     "uuid": "8d2b7fdc-021a-4e2d-87f4-3f112c6e28e0"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

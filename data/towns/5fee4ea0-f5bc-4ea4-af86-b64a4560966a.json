@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Barentsoya",
   "uuid": "5fee4ea0-f5bc-4ea4-af86-b64a4560966a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 20,
    "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 4,
    "numTrusted": 11,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 87.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     470,
+     -1776
+    ],
+    [
      472,
      -1775
     ],
@@ -102,6 +106,10 @@
     [
      472,
      -1774
+    ],
+    [
+     472,
+     -1776
     ],
     [
      470,
@@ -121,6 +129,14 @@
     ],
     [
      471,
+     -1776
+    ],
+    [
+     469,
+     -1772
+    ],
+    [
+     471,
      -1775
     ],
     [
@@ -146,6 +162,14 @@
     [
      472,
      -1773
+    ],
+    [
+     469,
+     -1776
+    ],
+    [
+     472,
+     -1772
     ]
    ],
    "worlds": {}

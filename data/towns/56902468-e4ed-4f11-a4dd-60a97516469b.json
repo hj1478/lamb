@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Luxford",
   "uuid": "56902468-e4ed-4f11-a4dd-60a97516469b",
@@ -12,12 +12,12 @@
    "uuid": "e25bcefb-fa69-46d2-b3b7-050cac915782"
   },
   "nation": {
-   "name": "New_York",
-   "uuid": "f5254fa5-98b8-41d9-9bc8-ed3ddb00c354"
+   "name": "Acadia",
+   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
   },
   "timestamps": {
    "registered": 1787329949997,
-   "joinedNationAt": 1792525925976,
+   "joinedNationAt": 1792958610686,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 55,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "numResidents": 5,
+   "numTrusted": 5,
    "numOutlaws": 2,
-   "balance": 11.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -24077.72521745336,
-    "y": 64.0,
-    "z": -9410.300274977048,
-    "pitch": 11.399968,
-    "yaw": 103.57886
+    "x": -24127.703060791453,
+    "y": 65.0,
+    "z": -9392.400463354948,
+    "pitch": 18.000114,
+    "yaw": -129.67273
    },
    "homeBlock": [
-    -1505,
-    -589
+    -1508,
+    -588
    ],
    "townBlocks": [
     [
@@ -326,9 +326,25 @@
    {
     "name": "ayfinz",
     "uuid": "151c6ec5-7279-4a8b-8a1d-4283a37770aa"
+   },
+   {
+    "name": "bigyvlauraboss",
+    "uuid": "3fe039fe-ed16-4e34-9d0b-e2c06b0d2cae"
+   },
+   {
+    "name": "Vilby123456yu",
+    "uuid": "e6721816-4160-40a4-8378-b83107c1b2c9"
    }
   ],
   "trusted": [
+   {
+    "name": "arsts",
+    "uuid": "8e610780-f402-416a-a47e-0119f0fb71a4"
+   },
+   {
+    "name": "mymomhadballs",
+    "uuid": "c75b678c-e814-48fb-8fee-7cfa73b54478"
+   },
    {
     "name": "mrkittydestroyer",
     "uuid": "05104764-c10b-4a8d-9453-7d6cd04ebc77"
@@ -340,10 +356,6 @@
    {
     "name": "S59",
     "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
-   },
-   {
-    "name": "toutef",
-    "uuid": "be166334-bce1-4770-91f0-57f79264422e"
    }
   ],
   "outlaws": [

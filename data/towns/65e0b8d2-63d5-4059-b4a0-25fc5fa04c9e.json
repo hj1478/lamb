@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Rybinsk",
   "uuid": "65e0b8d2-63d5-4059-b4a0-25fc5fa04c9e",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1787865172569,
-   "joinedNationAt": 1787865220706,
+   "joinedNationAt": 1793032817567,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 74,
+   "numTownBlocks": 76,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -104,16 +104,20 @@
      -970
     ],
     [
+     855,
+     -976
+    ],
+    [
      866,
      -969
     ],
     [
-     866,
-     -968
-    ],
-    [
      855,
      -975
+    ],
+    [
+     866,
+     -968
     ],
     [
      855,
@@ -256,6 +260,10 @@
      -972
     ],
     [
+     856,
+     -975
+    ],
+    [
      859,
      -976
     ],
@@ -304,24 +312,24 @@
      -975
     ],
     [
-     861,
-     -970
-    ],
-    [
      860,
      -971
+    ],
+    [
+     861,
+     -970
     ],
     [
      861,
      -969
     ],
     [
-     861,
-     -972
-    ],
-    [
      860,
      -973
+    ],
+    [
+     861,
+     -972
     ],
     [
      864,
@@ -420,6 +428,14 @@
    {
     "name": "Elegant Dwelling",
     "uuid": "9a30cee8-ced1-44be-9bad-1579d1928913"
+   },
+   {
+    "name": "Lovely Dwelling",
+    "uuid": "a79d0a6e-d1be-45ea-84ea-47e80b471513"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "2c75ec7a-9059-4a07-8044-baf647370f5f"
    }
   ],
   "ranks": {

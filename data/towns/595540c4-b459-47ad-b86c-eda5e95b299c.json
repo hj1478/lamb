@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Tenerife",
   "uuid": "595540c4-b459-47ad-b86c-eda5e95b299c",
@@ -12,12 +12,12 @@
    "uuid": "801bc34f-438a-4859-8e49-9927f567a4d9"
   },
   "nation": {
-   "name": "Spain",
-   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776460925695,
-   "joinedNationAt": 1783970964640,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,

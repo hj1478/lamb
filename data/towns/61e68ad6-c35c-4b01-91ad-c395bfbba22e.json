@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Zeravundia",
   "uuid": "61e68ad6-c35c-4b01-91ad-c395bfbba22e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Applebees2013",
-   "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+   "name": "NPC53",
+   "uuid": "29b1dbdf-3cd8-204c-8889-1432598c00c3"
   },
   "nation": {
-   "name": "Eastern_Anatolia",
-   "uuid": "11012001-f00b-42e4-851d-d816b278b9a3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792620224412,
-   "joinedNationAt": 1792620286371,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793135986869
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Applebees2013",
-    "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+    "name": "NPC53",
+    "uuid": "29b1dbdf-3cd8-204c-8889-1432598c00c3"
    }
   ],
   "trusted": [],

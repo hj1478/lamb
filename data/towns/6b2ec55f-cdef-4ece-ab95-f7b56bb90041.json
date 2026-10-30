@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Sumatra_Passage",
   "uuid": "6b2ec55f-cdef-4ece-ab95-f7b56bb90041",
@@ -31,17 +31,17 @@
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
-   "hasSnowAccumulation": true,
+   "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 31,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 1,
-   "numOutlaws": 3,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 36619.1961541497,
-    "y": 63.0,
-    "z": 7467.844411137522,
-    "pitch": 16.650026,
-    "yaw": 85.33417
+    "x": 36636.69999998808,
+    "y": 45.0,
+    "z": 7458.783397998912,
+    "pitch": 30.599813,
+    "yaw": 87.54166
    },
    "homeBlock": [
-    2288,
+    2289,
     466
    ],
    "townBlocks": [
@@ -230,6 +230,10 @@
    {
     "name": "Icebear_20",
     "uuid": "dab74125-97e1-4409-9ffb-54d2d9a08168"
+   },
+   {
+    "name": "Murphsterr",
+    "uuid": "94d32724-193b-4fa7-b9b2-b2ca363646be"
    }
   ],
   "trusted": [
@@ -240,7 +244,7 @@
   ],
   "outlaws": [
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
@@ -250,6 +254,10 @@
    {
     "name": "oncup",
     "uuid": "3d384795-93eb-48e9-b601-e14bf141df55"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    }
   ],
   "quarters": [

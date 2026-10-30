@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Aria",
   "uuid": "69c14e42-c638-4f4e-b854-e67db9768875",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -93,7 +93,19 @@
    "townBlocks": [
     [
      1391,
+     -298
+    ],
+    [
+     1391,
      -299
+    ],
+    [
+     1392,
+     -299
+    ],
+    [
+     1392,
+     -298
     ]
    ],
    "worlds": {}

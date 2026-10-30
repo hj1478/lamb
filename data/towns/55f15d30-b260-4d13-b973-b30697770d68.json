@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Cozy_Cottages",
   "uuid": "55f15d30-b260-4d13-b973-b30697770d68",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     -1618,
+     1612
+    ],
+    [
      -1617,
      1612
     ]
@@ -102,6 +106,10 @@
    {
     "name": "Taiter80",
     "uuid": "a7a59962-a1ad-4ad4-8a58-c1cbdd931c00"
+   },
+   {
+    "name": "Wafflesquare16",
+    "uuid": "beaa4c04-4009-40db-a7ed-9ee4c9d8cb61"
    }
   ],
   "trusted": [],
@@ -109,7 +117,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Wafflesquare16",
+     "uuid": "beaa4c04-4009-40db-a7ed-9ee4c9d8cb61"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

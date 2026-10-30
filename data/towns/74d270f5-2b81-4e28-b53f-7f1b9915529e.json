@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Cozart",
-  "uuid": "1813a782-d1ce-4139-a92f-2c6815deec80",
+  "name": "Sitkadilak",
+  "uuid": "74d270f5-2b81-4e28-b53f-7f1b9915529e",
   "board": "/town set board [msg]",
-  "founder": "YurBoyDeathGod",
+  "founder": "EttaMC",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC17",
-   "uuid": "e3646f73-9d10-20fc-b3fa-11f0dd1d4ae0"
+   "name": "EttaMC",
+   "uuid": "7a23dd65-d40c-4efd-8369-043f008bf5fd"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Bering_Sea",
+   "uuid": "50841897-23f2-4f43-b07e-b1cc26fa845c"
   },
   "timestamps": {
-   "registered": 1786586274330,
-   "joinedNationAt": null,
-   "ruinedAt": 1793095200727
+   "registered": 1793359803454,
+   "joinedNationAt": 1793359973255,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,73 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33033.69999998808,
-    "y": 71.0,
-    "z": -11342.626499601512,
-    "pitch": 6.9885693,
-    "yaw": -70.55795
+    "x": -54996.57338214328,
+    "y": 63.0,
+    "z": -15091.889613551593,
+    "pitch": 28.859924,
+    "yaw": 55.518536
    },
    "homeBlock": [
-    -2065,
-    -709
+    -3438,
+    -944
    ],
    "townBlocks": [
     [
-     -2064,
-     -708
-    ],
-    [
-     -2064,
-     -709
-    ],
-    [
-     -2065,
-     -708
-    ],
-    [
-     -2065,
-     -709
+     -3438,
+     -944
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC17",
-    "uuid": "e3646f73-9d10-20fc-b3fa-11f0dd1d4ae0"
+    "name": "EttaMC",
+    "uuid": "7a23dd65-d40c-4efd-8369-043f008bf5fd"
    }
   ],
   "trusted": [],

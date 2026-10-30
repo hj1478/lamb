@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Swagspot",
-  "uuid": "4e3c2a4d-fba9-4ec8-845d-018784273fb2",
-  "board": "my precious swagspot",
-  "founder": "wistucky",
+  "name": "Misty",
+  "uuid": "80f63c7e-76d1-4016-9689-9f54e4d953c2",
+  "board": "/town set board [msg]",
+  "founder": "Aarizqaid",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "wistucky",
-   "uuid": "de5b7aba-8fda-4618-baf3-7826a3d65ef6"
+   "name": "Aarizqaid",
+   "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Iberia",
+   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
   },
   "timestamps": {
-   "registered": 1788678757866,
-   "joinedNationAt": null,
+   "registered": 1793279849002,
+   "joinedNationAt": 1793280184702,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,47 +80,52 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -19999.71816327058,
-    "y": 64.0,
-    "z": -13258.33675629483,
-    "pitch": 16.799881,
-    "yaw": 103.87082
+    "x": 15899.890824137125,
+    "y": 138.0,
+    "z": -8312.620009994498,
+    "pitch": 39.37628,
+    "yaw": 73.88025
    },
    "homeBlock": [
-    -1250,
-    -829
+    993,
+    -520
    ],
    "townBlocks": [
     [
-     -1251,
-     -827
+     993,
+     -520
     ],
     [
-     -1251,
-     -828
+     993,
+     -521
     ],
     [
-     -1250,
-     -829
+     993,
+     -519
     ],
     [
-     -1250,
-     -828
+     992,
+     -520
     ],
     [
-     -1251,
-     -829
+     992,
+     -521
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "wistucky",
-    "uuid": "de5b7aba-8fda-4618-baf3-7826a3d65ef6"
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "arrcann_",
+    "uuid": "2e550111-3a98-44ac-b845-532f4b3d9e9d"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

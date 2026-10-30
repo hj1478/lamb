@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Cook_Republic",
   "uuid": "69fddd1e-f690-40e6-8536-ef4860bd1be1",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 60.0,
@@ -170,6 +170,10 @@
    {
     "name": "Elgedarmer",
     "uuid": "764e49d5-95d1-4f96-ba01-3ec20706607f"
+   },
+   {
+    "name": "DoctorZaga",
+    "uuid": "1a6962b0-4a7a-4265-9134-c8efd6a02a3a"
    }
   ],
   "trusted": [],
@@ -178,7 +182,12 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "DoctorZaga",
+     "uuid": "1a6962b0-4a7a-4265-9134-c8efd6a02a3a"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

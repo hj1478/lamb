@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Monterey",
   "uuid": "63a587c8-ae49-44f2-aa74-223b7cef0558",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 270,
-   "maxTownBlocks": 328,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 19,
+   "numResidents": 14,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 587.0,
@@ -1193,10 +1193,6 @@
     "uuid": "330995ce-b0aa-4c86-9634-d561709b68ea"
    },
    {
-    "name": "JohnsJett",
-    "uuid": "35ec19b9-e225-421d-af47-eabc7391de6c"
-   },
-   {
     "name": "Connoos",
     "uuid": "2a0d7621-d1dc-489d-8109-65eb45db9b8f"
    },
@@ -1217,10 +1213,6 @@
     "uuid": "d7ae8e1d-b287-40b8-af5a-91760b9c925e"
    },
    {
-    "name": "GamerZilla64",
-    "uuid": "dde98d5c-130b-439f-bd71-802fb8a3a691"
-   },
-   {
     "name": "Lava_ispretty",
     "uuid": "d798f0e9-788c-4199-9f23-e62f6b1c59f3"
    },
@@ -1229,32 +1221,20 @@
     "uuid": "18c3db1b-4306-4321-8149-de3927df5013"
    },
    {
-    "name": "monsterboy112213",
-    "uuid": "5d0548ab-0e57-4c34-876f-30bf9e34f544"
-   },
-   {
     "name": "River0X",
     "uuid": "ecebc6fe-82d3-4284-b2e4-b9b11bda5294"
-   },
-   {
-    "name": "zev123444",
-    "uuid": "1b5e973f-ee4a-451c-b236-8e85973608a2"
    },
    {
     "name": "RogueActor33982",
     "uuid": "821f28b5-79a7-4463-b057-fb9c262d4604"
    },
    {
-    "name": "GerlanRHT",
-    "uuid": "037f8e3e-5256-421f-b70e-b26d2b4b81be"
-   },
-   {
-    "name": "Bonie_Bell",
-    "uuid": "1386f353-5df3-4bf2-a61d-3bc28f708f58"
-   },
-   {
     "name": "Siwisusi_alt",
     "uuid": "ba426ebc-c5ee-48ad-a11b-7e7b3ba27419"
+   },
+   {
+    "name": "meggjoy",
+    "uuid": "a6e00035-a6b8-4cbf-b22d-92667d20cc8a"
    }
   ],
   "trusted": [
@@ -1301,10 +1281,6 @@
    {
     "name": "Dull Property",
     "uuid": "5168d45f-4d11-4aa3-a799-8b48cabf022e"
-   },
-   {
-    "name": "Bland Property",
-    "uuid": "baf7525d-78e8-4895-9aed-8b9ef317cb3e"
    },
    {
     "name": "Annoying Tenement",
@@ -1497,6 +1473,10 @@
    {
     "name": "Lovely Flat",
     "uuid": "1b77c60e-4d6c-450e-a73a-a81aaed7da9f"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "baf7525d-78e8-4895-9aed-8b9ef317cb3e"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Huzhou",
   "uuid": "51e945ee-6913-40e3-a162-3810e05bcdb7",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": true
   },
   "stats": {
-   "numTownBlocks": 159,
-   "maxTownBlocks": 244,
+   "numTownBlocks": 151,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
-   "numTrusted": 9,
+   "numResidents": 10,
+   "numTrusted": 10,
    "numOutlaws": 10,
-   "balance": 0.0,
+   "balance": 567.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43107.406241874,
-    "y": 63.0,
-    "z": -3412.3593425315585,
-    "pitch": 81.14984,
-    "yaw": -86.45508
+    "x": 43145.575638407194,
+    "y": 64.0,
+    "z": -3487.452733933947,
+    "pitch": 69.29987,
+    "yaw": 1.2956543
    },
    "homeBlock": [
-    2694,
-    -214
+    2696,
+    -218
    ],
    "townBlocks": [
     [
@@ -249,35 +249,15 @@
     ],
     [
      2694,
-     -217
-    ],
-    [
-     2694,
      -216
-    ],
-    [
-     2694,
-     -219
     ],
     [
      2702,
      -211
     ],
     [
-     2694,
-     -218
-    ],
-    [
      2702,
      -210
-    ],
-    [
-     2694,
-     -221
-    ],
-    [
-     2694,
-     -220
     ],
     [
      2702,
@@ -485,6 +465,10 @@
     ],
     [
      2704,
+     -216
+    ],
+    [
+     2704,
      -215
     ],
     [
@@ -492,8 +476,16 @@
      -211
     ],
     [
+     2704,
+     -218
+    ],
+    [
      2696,
      -212
+    ],
+    [
+     2704,
+     -217
     ],
     [
      2696,
@@ -508,6 +500,10 @@
      -210
     ],
     [
+     2704,
+     -219
+    ],
+    [
      2698,
      -219
     ],
@@ -698,34 +694,6 @@
     [
      2702,
      -216
-    ],
-    [
-     2693,
-     -219
-    ],
-    [
-     2693,
-     -218
-    ],
-    [
-     2693,
-     -217
-    ],
-    [
-     2693,
-     -216
-    ],
-    [
-     2693,
-     -221
-    ],
-    [
-     2693,
-     -220
-    ],
-    [
-     2693,
-     -215
     ]
    ],
    "worlds": {}
@@ -758,14 +726,6 @@
    {
     "name": "Gubwon",
     "uuid": "0d59f29d-8258-4f15-adf0-17d3c11e61f5"
-   },
-   {
-    "name": "114_3S",
-    "uuid": "c4b0697a-5303-4ad5-9121-5b2d5ea18d46"
-   },
-   {
-    "name": "singlittlechef",
-    "uuid": "4131f79c-f8f1-41f0-97e7-fbc794f58be5"
    },
    {
     "name": "chenymshanghai",
@@ -816,6 +776,10 @@
    {
     "name": "bilibili_EMOCHAN",
     "uuid": "901285b8-0989-4227-9734-46068690d66c"
+   },
+   {
+    "name": "LAOLING__",
+    "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
    }
   ],
   "outlaws": [

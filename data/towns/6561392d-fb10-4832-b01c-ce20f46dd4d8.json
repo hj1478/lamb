@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-10-30T13:07:21Z",
+ "data": {
+  "name": "Larp",
+  "uuid": "6561392d-fb10-4832-b01c-ce20f46dd4d8",
+  "board": "/town set board [msg]",
+  "founder": "Azurelogist",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Azurelogist",
+   "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+  },
+  "nation": {
+   "name": "Ethiopia",
+   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+  },
+  "timestamps": {
+   "registered": 1793353589911,
+   "joinedNationAt": 1793353783261,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 13085.032055507863,
+    "y": 78.0,
+    "z": 3429.1776549707515,
+    "pitch": 33.350517,
+    "yaw": 3.315979
+   },
+   "homeBlock": [
+    817,
+    214
+   ],
+   "townBlocks": [
+    [
+     817,
+     214
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Azurelogist",
+    "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Intelligenz",
+    "uuid": "e26da781-b8cf-4acc-8084-dcaeb691dc03"
+   },
+   {
+    "name": "Vorticks",
+    "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

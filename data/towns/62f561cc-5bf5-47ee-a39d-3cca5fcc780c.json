@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Batumi",
   "uuid": "62f561cc-5bf5-47ee-a39d-3cca5fcc780c",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 255,
-   "maxTownBlocks": 248,
+   "numTownBlocks": 277,
+   "maxTownBlocks": 328,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 14,
-   "numTrusted": 15,
+   "nationBonus": 100,
+   "numResidents": 19,
+   "numTrusted": 16,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 669.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14910.505052165214,
+    "x": 14909.875401061354,
     "y": 85.0,
-    "z": -7486.39850405868,
-    "pitch": 8.418082,
-    "yaw": 91.989075
+    "z": -7486.657645841813,
+    "pitch": -0.29975992,
+    "yaw": 89.83361
    },
    "homeBlock": [
     931,
@@ -92,6 +92,34 @@
    ],
    "townBlocks": [
     [
+     944,
+     -467
+    ],
+    [
+     944,
+     -466
+    ],
+    [
+     944,
+     -469
+    ],
+    [
+     944,
+     -468
+    ],
+    [
+     944,
+     -463
+    ],
+    [
+     944,
+     -465
+    ],
+    [
+     944,
+     -464
+    ],
+    [
      943,
      -467
     ],
@@ -109,7 +137,15 @@
     ],
     [
      943,
+     -469
+    ],
+    [
+     943,
      -468
+    ],
+    [
+     943,
+     -463
     ],
     [
      937,
@@ -365,11 +401,27 @@
     ],
     [
      931,
+     -478
+    ],
+    [
+     931,
      -479
     ],
     [
      931,
+     -476
+    ],
+    [
+     931,
+     -477
+    ],
+    [
+     931,
      -474
+    ],
+    [
+     931,
+     -475
     ],
     [
      932,
@@ -392,6 +444,10 @@
      -465
     ],
     [
+     946,
+     -464
+    ],
+    [
      933,
      -466
     ],
@@ -400,8 +456,16 @@
      -467
     ],
     [
+     946,
+     -466
+    ],
+    [
      933,
      -468
+    ],
+    [
+     946,
+     -465
     ],
     [
      933,
@@ -454,6 +518,26 @@
     [
      933,
      -480
+    ],
+    [
+     945,
+     -467
+    ],
+    [
+     945,
+     -466
+    ],
+    [
+     945,
+     -465
+    ],
+    [
+     945,
+     -464
+    ],
+    [
+     945,
+     -463
     ],
     [
      929,
@@ -1006,6 +1090,10 @@
     [
      942,
      -464
+    ],
+    [
+     942,
+     -463
     ],
     [
      936,
@@ -1124,18 +1212,6 @@
     "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
    },
    {
-    "name": "Joqin",
-    "uuid": "ca3017d8-5a1e-4681-93fd-044a3240a5ef"
-   },
-   {
-    "name": "AlbbiG",
-    "uuid": "6aff1bdb-bf2b-41ed-b12e-4d47a879af80"
-   },
-   {
-    "name": "ultimate3banana",
-    "uuid": "3ea5a8bc-73a9-4b47-a084-f5a8d83873e5"
-   },
-   {
     "name": "Ferma_",
     "uuid": "35a8ed8b-42b4-4957-bb13-9c36ff3b610d"
    },
@@ -1170,6 +1246,38 @@
    {
     "name": "TomVoglCzech",
     "uuid": "81fd2ed2-3120-493a-8aab-8f95016a5870"
+   },
+   {
+    "name": "Vanilth",
+    "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+   },
+   {
+    "name": "WYDdylan",
+    "uuid": "f8ac68ca-80e6-4831-80b9-16dc1255b924"
+   },
+   {
+    "name": "truecj1",
+    "uuid": "087800f3-d351-490c-bbff-26cd54644163"
+   },
+   {
+    "name": "MowgliBeast",
+    "uuid": "1717f8d0-d171-4391-b154-0f1392546a1b"
+   },
+   {
+    "name": "Donkeydad19",
+    "uuid": "890fb839-1cfe-4604-8f8a-c6d07a6a0df6"
+   },
+   {
+    "name": "DustedDev",
+    "uuid": "a5b75b6d-657f-4203-9ccd-f17c40b309aa"
+   },
+   {
+    "name": "Ben_DemonKiller",
+    "uuid": "e51b2860-204b-496b-808d-1138efc6d332"
+   },
+   {
+    "name": "RdSparrowOG",
+    "uuid": "26eb716b-ba9e-46e5-b0c0-b375a6e82b5d"
    }
   ],
   "trusted": [
@@ -1226,6 +1334,10 @@
     "uuid": "9190e302-1501-4513-b058-9a4ff9d764bc"
    },
    {
+    "name": "FATE_ZEPHYR1",
+    "uuid": "6a6b6da9-bccb-4059-a899-208af6df22a2"
+   },
+   {
     "name": "AtomicPepsi2005",
     "uuid": "2373f377-9585-4c2e-a777-800a619ece93"
    },
@@ -1261,36 +1373,8 @@
     "uuid": "11242e33-bc2b-47e5-8d56-013a783f6957"
    },
    {
-    "name": "Dingy Suite",
-    "uuid": "fc386651-38a3-4854-a184-96d5cd7e7ecf"
-   },
-   {
-    "name": "Inconvenient Tenement",
-    "uuid": "62714527-2228-4012-aff9-2440c45d095a"
-   },
-   {
     "name": "Welcoming Tenement",
     "uuid": "58e6b2da-168a-4bed-b11b-f019eff144a1"
-   },
-   {
-    "name": "Inviting Flat",
-    "uuid": "3f912e86-9f5c-4b0f-857c-936911577f6f"
-   },
-   {
-    "name": "Stylish Suite",
-    "uuid": "26357ba4-d181-49d6-afa8-cf9212358515"
-   },
-   {
-    "name": "Lovely Residence",
-    "uuid": "169aa35c-aebd-4318-8c2d-ce8d684b6175"
-   },
-   {
-    "name": "Dingy Dwelling",
-    "uuid": "800a8f59-d063-423b-9d76-c27cb12f75c5"
-   },
-   {
-    "name": "Annoying Suite",
-    "uuid": "0814a626-1d11-492e-aabb-cb40d7042379"
    },
    {
     "name": "Inconvenient Apartment",
@@ -1301,16 +1385,8 @@
     "uuid": "cb54c7b0-1675-48f8-968d-4428ce59dc36"
    },
    {
-    "name": "Dull Dwelling",
-    "uuid": "3b8e2564-25b0-4f00-b84c-ed1e84fb29bf"
-   },
-   {
     "name": "Inviting Tenement",
     "uuid": "87582b0b-5668-42b6-8d99-7941294fc266"
-   },
-   {
-    "name": "Inviting Dwelling",
-    "uuid": "89b4d49e-c337-45a8-8bef-04f7ed588b5e"
    },
    {
     "name": "Enraging Property",
@@ -1326,13 +1402,38 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Vanilth",
+     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "Vanilth",
+     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+    }
+   ],
    "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
+   "Tax-exempt": [
+    {
+     "name": "Vanilth",
+     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "Vanilth",
+     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "Vanilth",
+     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

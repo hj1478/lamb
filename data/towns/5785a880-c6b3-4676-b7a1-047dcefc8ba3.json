@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Yichang",
   "uuid": "5785a880-c6b3-4676-b7a1-047dcefc8ba3",
@@ -12,12 +12,12 @@
    "uuid": "7165f5e4-1949-4e73-b6a7-65709c34919a"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "PRC",
+   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
   },
   "timestamps": {
    "registered": 1789089243792,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793303046414,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 23,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 56.0,
    "forSalePrice": null
   },
   "perms": {

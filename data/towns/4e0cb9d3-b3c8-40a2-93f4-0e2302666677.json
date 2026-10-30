@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Wilson",
   "uuid": "4e0cb9d3-b3c8-40a2-93f4-0e2302666677",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kixra027",
-   "uuid": "12f11202-8582-4b8f-9ec0-2ed36e396ceb"
+   "name": "NPC29",
+   "uuid": "49e14966-ecee-209f-9c6a-128d1ea5144c"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1777656995039,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793268002536
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": true,
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 7,
-   "balance": 1009.0,
+   "balance": 967.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -704,8 +704,8 @@
   },
   "residents": [
    {
-    "name": "kixra027",
-    "uuid": "12f11202-8582-4b8f-9ec0-2ed36e396ceb"
+    "name": "NPC29",
+    "uuid": "49e14966-ecee-209f-9c6a-128d1ea5144c"
    }
   ],
   "trusted": [],
@@ -769,18 +769,6 @@
     "uuid": "bf45cb68-41a1-4e19-8a52-215d474bc228"
    },
    {
-    "name": "Lovely Apartment",
-    "uuid": "860c02c6-a992-471e-864b-ad4c9df3e1ea"
-   },
-   {
-    "name": "Lovely Flat",
-    "uuid": "30d320c3-a314-4adf-a6ac-2a215f2e03ee"
-   },
-   {
-    "name": "Plot2",
-    "uuid": "6999a999-65f4-4a24-b730-b295d5a15f1d"
-   },
-   {
     "name": "clear chunk",
     "uuid": "33cf2e1d-8d7c-43f0-846c-0e0bc2e262e3"
    },
@@ -797,16 +785,8 @@
     "uuid": "c139f890-6d0e-425f-9440-6244d30750d4"
    },
    {
-    "name": "Kixra_Shop",
-    "uuid": "58db238a-e493-400f-ba79-16cd8eb5a057"
-   },
-   {
     "name": "Bland Tenement",
     "uuid": "f67eee00-59a8-4049-8373-dd62c4982088"
-   },
-   {
-    "name": "Cheerful Tenement",
-    "uuid": "99355e0a-12eb-4bdf-896f-b6415a388fb3"
    },
    {
     "name": "trapdoor",
@@ -831,17 +811,32 @@
    {
     "name": "Door",
     "uuid": "6c686853-5302-443f-9366-52244ee31c13"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "860c02c6-a992-471e-864b-ad4c9df3e1ea"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "30d320c3-a314-4adf-a6ac-2a215f2e03ee"
+   },
+   {
+    "name": "Plot2",
+    "uuid": "6999a999-65f4-4a24-b730-b295d5a15f1d"
+   },
+   {
+    "name": "Kixra_Shop",
+    "uuid": "58db238a-e493-400f-ba79-16cd8eb5a057"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "99355e0a-12eb-4bdf-896f-b6415a388fb3"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "kixra027",
-     "uuid": "12f11202-8582-4b8f-9ec0-2ed36e396ceb"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Babylon",
   "uuid": "4efc9ad0-83ea-41d6-ba9c-5acb47231938",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 96,
-   "maxTownBlocks": 134,
+   "numTownBlocks": 131,
+   "maxTownBlocks": 180,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 7,
+   "nationBonus": 60,
+   "numResidents": 10,
    "numTrusted": 2,
-   "numOutlaws": 5,
+   "numOutlaws": 11,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -172,12 +172,36 @@
      -251
     ],
     [
+     1006,
+     -261
+    ],
+    [
      1007,
      -252
     ],
     [
+     1006,
+     -260
+    ],
+    [
      1007,
      -253
+    ],
+    [
+     1005,
+     -261
+    ],
+    [
+     1006,
+     -259
+    ],
+    [
+     1006,
+     -258
+    ],
+    [
+     1006,
+     -257
     ],
     [
      1006,
@@ -209,6 +233,10 @@
     ],
     [
      1004,
+     -261
+    ],
+    [
+     1004,
      -259
     ],
     [
@@ -241,11 +269,71 @@
     ],
     [
      1001,
+     -257
+    ],
+    [
+     997,
+     -250
+    ],
+    [
+     1001,
+     -258
+    ],
+    [
+     1001,
+     -255
+    ],
+    [
+     1001,
+     -256
+    ],
+    [
+     997,
+     -247
+    ],
+    [
+     1001,
+     -261
+    ],
+    [
+     997,
+     -249
+    ],
+    [
+     1001,
+     -259
+    ],
+    [
+     997,
+     -248
+    ],
+    [
+     1001,
+     -260
+    ],
+    [
+     1001,
      -249
     ],
     [
      1001,
      -250
+    ],
+    [
+     1001,
+     -247
+    ],
+    [
+     1001,
+     -248
+    ],
+    [
+     1001,
+     -253
+    ],
+    [
+     1001,
+     -254
     ],
     [
      1001,
@@ -341,6 +429,10 @@
     ],
     [
      1002,
+     -261
+    ],
+    [
+     1002,
      -258
     ],
     [
@@ -364,8 +456,24 @@
      -255
     ],
     [
+     1001,
+     -245
+    ],
+    [
+     1003,
+     -261
+    ],
+    [
+     1001,
+     -246
+    ],
+    [
      1003,
      -260
+    ],
+    [
+     1001,
+     -244
     ],
     [
      1003,
@@ -414,6 +522,14 @@
     [
      1000,
      -247
+    ],
+    [
+     999,
+     -244
+    ],
+    [
+     1000,
+     -252
     ],
     [
      999,
@@ -421,11 +537,15 @@
     ],
     [
      1000,
-     -252
+     -251
+    ],
+    [
+     999,
+     -245
     ],
     [
      1000,
-     -251
+     -258
     ],
     [
      999,
@@ -444,12 +564,32 @@
      -249
     ],
     [
+     1000,
+     -261
+    ],
+    [
      999,
      -251
     ],
     [
      1000,
+     -260
+    ],
+    [
+     1000,
+     -259
+    ],
+    [
+     1000,
      -246
+    ],
+    [
+     1000,
+     -245
+    ],
+    [
+     1000,
+     -244
     ],
     [
      1009,
@@ -488,14 +628,6 @@
     "uuid": "d21fb6d6-d8aa-47a3-beb6-be3ed7768c52"
    },
    {
-    "name": "JaidenChezzy",
-    "uuid": "193447fa-ac76-4757-ae6d-1068c5c5fc7b"
-   },
-   {
-    "name": "BurntPorkchop",
-    "uuid": "811d62b2-1e8a-42e7-8d85-7efce90d7cc5"
-   },
-   {
     "name": "Apa6_may3ep",
     "uuid": "3464c409-7793-4aa7-a09a-79a9ff74c8bf"
    },
@@ -506,6 +638,26 @@
    {
     "name": "FactualDragon94",
     "uuid": "f353befe-8de8-4def-9156-6dea5b78e41e"
+   },
+   {
+    "name": "Bison",
+    "uuid": "d2f95234-d84f-4c46-bcfa-ca29faf8e582"
+   },
+   {
+    "name": "VWCGAME",
+    "uuid": "f5745f2b-f943-40f8-b77e-480716b8602d"
+   },
+   {
+    "name": "Maan14",
+    "uuid": "ce14a9f1-3c77-4e72-aea2-1aa6eb6ec402"
+   },
+   {
+    "name": "Vlad3171",
+    "uuid": "cd5451ea-55b4-45fc-a943-624df425236a"
+   },
+   {
+    "name": "_EnbySapphic",
+    "uuid": "195d75d5-d95c-495c-a343-52931409536a"
    }
   ],
   "trusted": [
@@ -532,12 +684,36 @@
     "uuid": "c83426ab-6ecd-4f02-81c7-de1d046072b1"
    },
    {
-    "name": "Slapdragon",
+    "name": "Rubick_Kubik",
     "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
    },
    {
     "name": "lilbludthetaxman",
     "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "pxs_msmc_ukw",
+    "uuid": "d0a31d1e-768b-46cc-b1bc-61662a212608"
+   },
+   {
+    "name": "S59",
+    "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+   },
+   {
+    "name": "DaliaRockk",
+    "uuid": "3a329a8b-fbb9-4807-85d3-f9fa2dd5b7dd"
+   },
+   {
+    "name": "TamePenguin",
+    "uuid": "92f6b7d4-0d8e-42b5-b286-4e309eebdd51"
+   },
+   {
+    "name": "ChrisNoSignal",
+    "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
+   },
+   {
+    "name": "xXTurtlakXx",
+    "uuid": "97802137-0eaa-43e9-a0e4-2c15f9a8e5cd"
    }
   ],
   "quarters": [
@@ -590,16 +766,60 @@
     "uuid": "db5a42e8-42f0-42fb-aae3-eaf8a1ede5f4"
    },
    {
+    "name": "box 6 stable 1",
+    "uuid": "a457b778-5c99-413a-a27b-5d5e0cfd1f4b"
+   },
+   {
+    "name": "Iceway_station",
+    "uuid": "7fec4853-e808-458f-b222-713b02fc7fe1"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "8564a2bf-29b9-4167-9b4b-190fe7676ee0"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "20455ee3-bfc2-40a7-b2db-2de7cc5c3a86"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "7c939b25-9219-490e-b6c1-e735e5aff02c"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "170fc56a-e0f8-407e-aad3-a02dc1bf57fb"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "7aa9aa41-7377-4918-8a5c-e938de19ef61"
+   },
+   {
     "name": "Perturbing Quarter",
     "uuid": "b215ea85-1d6e-4fda-b26c-2a09ddede8de"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "52f4674f-0d6a-4114-912f-7eb29d2ab49a"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "c09ad229-919d-496f-983a-ca2471f3622a"
    },
    {
     "name": "box 3 stable 2",
     "uuid": "9a8e08ef-e2a3-422a-9b3a-39216eb241ac"
    },
    {
-    "name": "box 6 stable 1",
-    "uuid": "a457b778-5c99-413a-a27b-5d5e0cfd1f4b"
+    "name": "Dingy Property",
+    "uuid": "65726e77-efa8-42ca-9c34-d94b427b7689"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "600e3c72-b77e-4b3f-a179-8cfb91a13a09"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "1421abef-44ee-4347-b918-ec72484456af"
    }
   ],
   "ranks": {

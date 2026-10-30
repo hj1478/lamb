@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Zwolle",
   "uuid": "555a8459-7521-4bfe-a963-7b4389e97f17",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 150,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 4,
+   "numResidents": 9,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -696,6 +696,10 @@
   },
   "residents": [
    {
+    "name": "Mr_Apex__",
+    "uuid": "e09de6c1-cc17-4eec-96b3-b1a718c6bae3"
+   },
+   {
     "name": "CCTrybus",
     "uuid": "627b5008-3a97-46b1-8b68-7a9ac22d6f79"
    },
@@ -722,16 +726,24 @@
    {
     "name": "GoogleMaps___",
     "uuid": "7b914a95-e124-4c67-89f8-b0439766075b"
+   },
+   {
+    "name": "Musmurd",
+    "uuid": "232fdab7-e90d-4b05-b82f-56870180bd6b"
    }
   ],
   "trusted": [
    {
-    "name": "Mirakel800",
+    "name": "Luck800",
     "uuid": "dab1442f-68ad-4ec6-8d15-b088369f4fe7"
    },
    {
     "name": "SgtRory",
     "uuid": "f3b9d191-2c08-49b1-aee9-2b5c75b0a5b1"
+   },
+   {
+    "name": "MikYoutube",
+    "uuid": "bd2e2462-bc66-49a1-9158-08242db4a4b5"
    },
    {
     "name": "MattieMirakel",

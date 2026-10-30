@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Big_Saint_James",
-  "uuid": "a29adff9-5179-44b5-921f-1b4655b68d6d",
+  "name": "Grenadines",
+  "uuid": "2039bd97-91d8-4bfd-86b4-52d9961f52d9",
   "board": "/town set board [msg]",
-  "founder": "DaFunnySeal1_28",
+  "founder": "Hairouna2",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DaFunnySeal1_28",
-   "uuid": "03a174c6-d984-4e43-a858-e2c9ba4c11c7"
+   "name": "Hairouna2",
+   "uuid": "88029d58-9605-4805-8ef1-4ffe1b16abdf"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1785120249488,
+   "registered": 1793318545915,
    "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,59 +80,60 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -41291.62887914759,
-    "y": 74.0,
-    "z": -2373.6707360135556,
-    "pitch": 17.399927,
-    "yaw": -173.61658
+    "x": -21950.07499998808,
+    "y": 63.0,
+    "z": 3319.3933178017874,
+    "pitch": 25.975912,
+    "yaw": -131.8435
    },
    "homeBlock": [
-    -2581,
-    -149
+    -1372,
+    207
    ],
    "townBlocks": [
     [
-     -2582,
-     -149
+     -1372,
+     207
     ],
     [
-     -2582,
-     -148
+     -1373,
+     206
     ],
     [
-     -2581,
-     -150
-    ],
-    [
-     -2581,
-     -149
-    ],
-    [
-     -2581,
-     -148
-    ],
-    [
-     -2580,
-     -149
-    ],
-    [
-     -2580,
-     -148
+     -1373,
+     207
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "DaFunnySeal1_28",
-    "uuid": "03a174c6-d984-4e43-a858-e2c9ba4c11c7"
+    "name": "Hairouna2",
+    "uuid": "88029d58-9605-4805-8ef1-4ffe1b16abdf"
+   },
+   {
+    "name": "Hairouna1",
+    "uuid": "58d80c20-1bb8-450d-9877-1521cce55d73"
+   },
+   {
+    "name": "VCBtheBoss",
+    "uuid": "37749461-6fd8-4f46-87e5-94e354362775"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Hairouna1",
+     "uuid": "58d80c20-1bb8-450d-9877-1521cce55d73"
+    },
+    {
+     "name": "VCBtheBoss",
+     "uuid": "37749461-6fd8-4f46-87e5-94e354362775"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

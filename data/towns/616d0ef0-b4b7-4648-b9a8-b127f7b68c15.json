@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Belle_River",
   "uuid": "616d0ef0-b4b7-4648-b9a8-b127f7b68c15",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 50,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 3,
-   "numOutlaws": 3,
+   "numResidents": 3,
+   "numTrusted": 4,
+   "numOutlaws": 8,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10749.681263673008,
-    "y": 302.0,
-    "z": 12091.346571045498,
-    "pitch": 39.450363,
-    "yaw": -11.894608
+    "x": 10750.940423954631,
+    "y": 84.0,
+    "z": 12089.966645168026,
+    "pitch": 0.44993228,
+    "yaw": 97.15502
    },
    "homeBlock": [
     671,
@@ -92,8 +92,92 @@
    ],
    "townBlocks": [
     [
+     674,
+     754
+    ],
+    [
+     674,
+     753
+    ],
+    [
+     674,
+     752
+    ],
+    [
+     674,
+     756
+    ],
+    [
+     674,
+     755
+    ],
+    [
+     672,
+     752
+    ],
+    [
+     672,
+     753
+    ],
+    [
+     677,
+     755
+    ],
+    [
+     672,
+     751
+    ],
+    [
+     676,
+     756
+    ],
+    [
+     672,
+     756
+    ],
+    [
+     676,
+     755
+    ],
+    [
+     672,
+     757
+    ],
+    [
+     676,
+     754
+    ],
+    [
+     672,
+     754
+    ],
+    [
+     676,
+     753
+    ],
+    [
+     677,
+     756
+    ],
+    [
+     672,
+     755
+    ],
+    [
+     676,
+     752
+    ],
+    [
      673,
      753
+    ],
+    [
+     673,
+     752
+    ],
+    [
+     673,
+     757
     ],
     [
      673,
@@ -117,6 +201,14 @@
     ],
     [
      669,
+     752
+    ],
+    [
+     669,
+     751
+    ],
+    [
+     669,
      754
     ],
     [
@@ -125,7 +217,15 @@
     ],
     [
      671,
+     752
+    ],
+    [
+     671,
      753
+    ],
+    [
+     671,
+     751
     ],
     [
      671,
@@ -133,6 +233,10 @@
     ],
     [
      671,
+     757
+    ],
+    [
+     671,
      754
     ],
     [
@@ -140,14 +244,6 @@
      755
     ],
     [
-     674,
-     754
-    ],
-    [
-     674,
-     753
-    ],
-    [
      675,
      754
     ],
@@ -156,20 +252,20 @@
      753
     ],
     [
-     674,
-     756
-    ],
-    [
      675,
      756
     ],
     [
-     674,
+     675,
      755
     ],
     [
      675,
-     755
+     752
+    ],
+    [
+     670,
+     757
     ],
     [
      670,
@@ -188,20 +284,12 @@
      755
     ],
     [
-     672,
-     753
+     670,
+     752
     ],
     [
-     672,
-     756
-    ],
-    [
-     672,
-     754
-    ],
-    [
-     672,
-     755
+     670,
+     751
     ]
    ],
    "worlds": {}
@@ -214,6 +302,10 @@
    {
     "name": "Lukegvespa",
     "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
+   },
+   {
+    "name": "loganprime2013",
+    "uuid": "62e9d3d9-4630-414b-a124-a591ed81d22f"
    }
   ],
   "trusted": [
@@ -228,6 +320,10 @@
    {
     "name": "Andre1098",
     "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
+   },
+   {
+    "name": "Lukegvespa",
+    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    }
   ],
   "outlaws": [
@@ -240,8 +336,28 @@
     "uuid": "5c981e10-7798-448d-8859-c7b056d700e8"
    },
    {
-    "name": "CaptainOFCopper",
-    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+    "name": "SlipperySalmon14",
+    "uuid": "f52739e0-bcbf-4376-b280-029af790bab3"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "combfy",
+    "uuid": "fc1f0d0b-c3fe-4cac-a1f4-ea3671ff8492"
+   },
+   {
+    "name": "Saltiestspinach",
+    "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
    }
   ],
   "quarters": [
@@ -252,6 +368,14 @@
    {
     "name": "Button And Barrel",
     "uuid": "d124272b-3f58-4cb2-83e8-c2ba4c9ed596"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "d14ecbcb-8bd7-4106-9b6a-13882a57d191"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "ac17bed9-7391-4276-8bba-062207401c5b"
    }
   ],
   "ranks": {

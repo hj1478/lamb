@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Auburn_AL",
   "uuid": "4fa75e90-cd53-4fde-b57e-671593369252",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1790553621651,
-   "joinedNationAt": 1790553640551,
+   "joinedNationAt": 1792953992528,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 168,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 200,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 9,
-   "numTrusted": 0,
-   "numOutlaws": 5,
+   "nationBonus": 80,
+   "numResidents": 10,
+   "numTrusted": 1,
+   "numOutlaws": 6,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -120,8 +120,16 @@
      -249
     ],
     [
+     -1935,
+     -249
+    ],
+    [
      -1931,
      -253
+    ],
+    [
+     -1935,
+     -250
     ],
     [
      -1931,
@@ -186,6 +194,10 @@
     [
      -1934,
      -254
+    ],
+    [
+     -1935,
+     -251
     ]
    ],
    "worlds": {}
@@ -226,9 +238,18 @@
    {
     "name": "JovenBanstead",
     "uuid": "00b8be61-76db-4e5a-9710-a07501fb45c3"
+   },
+   {
+    "name": "milliejrose",
+    "uuid": "baddf7df-01dd-437f-8116-52de871e8311"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Hoffywin9999",
+    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+   }
+  ],
   "outlaws": [
    {
     "name": "CharlemagneHappy",
@@ -243,22 +264,22 @@
     "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
    },
    {
-    "name": "SeanElephant1",
-    "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
-   },
-   {
     "name": "Nxghtxd__",
     "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "SeanElephant1",
+    "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
    }
   ],
   "quarters": [
    {
     "name": "Lovely Flat",
     "uuid": "f36d7c02-abc3-43b0-8eaa-60a7b7555e12"
-   },
-   {
-    "name": "Perturbing Residence",
-    "uuid": "9e5a0146-f227-48fe-aa6d-8a589c155210"
    },
    {
     "name": "Annoying Dwelling",
@@ -283,6 +304,10 @@
    {
     "name": "Lovely Flat",
     "uuid": "fcc760d1-3807-4bf1-b8d7-e55425a4ed38"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "0bb54580-6876-4f03-88c2-68f9c5132234"
    }
   ],
   "ranks": {

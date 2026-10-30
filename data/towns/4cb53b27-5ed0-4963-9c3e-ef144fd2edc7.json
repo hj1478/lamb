@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Ravenza",
   "uuid": "4cb53b27-5ed0-4963-9c3e-ef144fd2edc7",
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -93,6 +93,22 @@
    "townBlocks": [
     [
      3110,
+     -940
+    ],
+    [
+     3110,
+     -941
+    ],
+    [
+     3111,
+     -941
+    ],
+    [
+     3109,
+     -940
+    ],
+    [
+     3109,
      -941
     ]
    ],
@@ -102,14 +118,32 @@
    {
     "name": "Cheru09",
     "uuid": "e3d0fcff-43df-449a-95c0-0086c97bd5de"
+   },
+   {
+    "name": "TheGrassIsGreen9",
+    "uuid": "2e7ac7bf-0b0a-4ea9-9092-b6932fe8269a"
+   },
+   {
+    "name": "PosonedAlex928",
+    "uuid": "4500e367-870a-4994-9f4f-ea5d9b3cff7d"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "TheGrassIsGreen9",
+     "uuid": "2e7ac7bf-0b0a-4ea9-9092-b6932fe8269a"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "PosonedAlex928",
+     "uuid": "4500e367-870a-4994-9f4f-ea5d9b3cff7d"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

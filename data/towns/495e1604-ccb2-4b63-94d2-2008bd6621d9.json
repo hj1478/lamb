@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "New_Vienna",
   "uuid": "495e1604-ccb2-4b63-94d2-2008bd6621d9",
-  "board": "/town set board [msg]",
+  "board": "Baddies n spawn Australia",
   "founder": "Norvosk",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "HungryDangerBob",
-   "uuid": "75a5bd4e-5ca7-494e-84e6-fe61c7a53a92"
+   "name": "Zxbear26",
+   "uuid": "65cb3edd-c689-42fe-b253-00d6df8f7f25"
   },
   "nation": {
    "name": "Australia",
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 43,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 5,
+   "numResidents": 6,
+   "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
-   "forSalePrice": 150.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -268,10 +268,6 @@
   },
   "residents": [
    {
-    "name": "HungryDangerBob",
-    "uuid": "75a5bd4e-5ca7-494e-84e6-fe61c7a53a92"
-   },
-   {
     "name": "LEMENZ_LEMONADE",
     "uuid": "4fd241f2-c431-47d2-b4a6-7871b5356004"
    },
@@ -282,33 +278,29 @@
    {
     "name": "Haseebabidi",
     "uuid": "cf744347-6bec-4043-b880-1e5ff53e701a"
+   },
+   {
+    "name": "Zxbear26",
+    "uuid": "65cb3edd-c689-42fe-b253-00d6df8f7f25"
+   },
+   {
+    "name": "MmmSerek",
+    "uuid": "0dc41b30-4bca-4a3c-a260-0a4166da231c"
+   },
+   {
+    "name": "ThatRandomToasty",
+    "uuid": "9939833c-1e56-45a5-8dbc-887e1152838e"
    }
   ],
   "trusted": [
    {
-    "name": "Supernovium",
-    "uuid": "6ce7e65c-d1cc-4703-b25d-fcfba64d2bdf"
-   },
-   {
-    "name": "Mackay_177",
-    "uuid": "f56f9110-46c1-48fb-834c-19174ed90851"
-   },
-   {
-    "name": "MasterMJ3MC",
-    "uuid": "d259c28c-3109-4e0b-90e3-5a039aad468d"
-   },
-   {
-    "name": "SammyDrue",
-    "uuid": "1a0b3c8b-9ba1-4330-937a-7ffc360027f9"
-   },
-   {
-    "name": "Ali_dinocraft",
-    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
+    "name": "Panth_r",
+    "uuid": "7708bb6d-50ae-4e98-827f-e332a43ab4f9"
    }
   ],
   "outlaws": [
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
@@ -322,16 +314,8 @@
   ],
   "quarters": [
    {
-    "name": "Lovely Flat",
-    "uuid": "b5300c0a-db2d-4a4a-bece-10aadcb8214f"
-   },
-   {
     "name": "Upbeat Tenement",
     "uuid": "0e7fa9f1-0a24-4aab-b001-d5f3e2813a51"
-   },
-   {
-    "name": "Perturbing Residence",
-    "uuid": "7b4812c1-9389-414a-9fa7-be1e13036fa6"
    },
    {
     "name": "Elegant Property",
@@ -354,16 +338,24 @@
     "uuid": "33545ebb-4ec8-4495-bd3f-d3b9dc5477e0"
    },
    {
-    "name": "Gloomy Apartment",
-    "uuid": "235c1c0b-23f7-4e26-ac96-57196391fd94"
-   },
-   {
     "name": "Upbeat Quarter",
     "uuid": "71a44e0b-2cab-448d-b35f-c560e42fb48f"
    },
    {
     "name": "New Vienna Station",
     "uuid": "8f38b348-6a24-488a-bba5-99fb49c57625"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "235c1c0b-23f7-4e26-ac96-57196391fd94"
+   },
+   {
+    "name": "Perturbing Residence",
+    "uuid": "7b4812c1-9389-414a-9fa7-be1e13036fa6"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "b5300c0a-db2d-4a4a-bece-10aadcb8214f"
    }
   ],
   "ranks": {

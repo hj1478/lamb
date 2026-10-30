@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Reggio",
+  "name": "Palma",
   "uuid": "670c4f72-28b7-4021-96f4-cc9fb206c934",
   "board": "Bella Ciao",
   "founder": "CptnMonkee",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Deflects",
-   "uuid": "da756925-413f-4954-9063-9e19d1be9017"
+   "name": "Vellange",
+   "uuid": "c258e7fb-a1ce-4808-9db2-be38159b82b3"
   },
   "nation": {
    "name": "Sicily",
@@ -42,7 +42,7 @@
    "numResidents": 5,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -564,10 +564,6 @@
   },
   "residents": [
    {
-    "name": "Deflects",
-    "uuid": "da756925-413f-4954-9063-9e19d1be9017"
-   },
-   {
     "name": "ARAN_HOVA",
     "uuid": "ef93ea96-352f-4fe6-b833-fe3c96fb55e9"
    },
@@ -582,6 +578,10 @@
    {
     "name": "bamseisbest",
     "uuid": "f384a0fa-c32e-4f1e-9aff-29e097da40c7"
+   },
+   {
+    "name": "Vellange",
+    "uuid": "c258e7fb-a1ce-4808-9db2-be38159b82b3"
    }
   ],
   "trusted": [
@@ -601,7 +601,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ARAN_HOVA",
+     "uuid": "ef93ea96-352f-4fe6-b833-fe3c96fb55e9"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "East_Hwanghae",
   "uuid": "6cd2d258-b2b6-425e-9ead-6f177a101205",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dominateaur",
-   "uuid": "44d78dc7-cc31-4b15-9ffa-55df992fc661"
+   "name": "NPC76",
+   "uuid": "5f983ac5-1745-2008-a12a-99c404f33a3b"
   },
   "nation": {
-   "name": "DPRK",
-   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793064268783,
-   "joinedNationAt": 1793064274783,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793221772290
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "Dominateaur",
-    "uuid": "44d78dc7-cc31-4b15-9ffa-55df992fc661"
+    "name": "NPC76",
+    "uuid": "5f983ac5-1745-2008-a12a-99c404f33a3b"
    }
   ],
   "trusted": [],

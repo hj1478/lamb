@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Artvin",
   "uuid": "6814e19d-29b0-4d89-9f64-ba5243665a79",
@@ -12,12 +12,12 @@
    "uuid": "9e73b197-e27b-4192-83de-618c39c64448"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": "Georgia",
+   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
   },
   "timestamps": {
    "registered": 1791996355610,
-   "joinedNationAt": 1792266065946,
+   "joinedNationAt": 1793214871437,
    "ruinedAt": null
   },
   "status": {
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
+   "numTownBlocks": 19,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -120,8 +120,16 @@
      -478
     ],
     [
+     919,
+     -479
+    ],
+    [
      923,
      -479
+    ],
+    [
+     923,
+     -478
     ],
     [
      923,
@@ -133,6 +141,22 @@
     ],
     [
      920,
+     -480
+    ],
+    [
+     923,
+     -477
+    ],
+    [
+     920,
+     -479
+    ],
+    [
+     924,
+     -478
+    ],
+    [
+     924,
      -479
     ],
     [
@@ -156,6 +180,10 @@
    {
     "name": "Berkofix",
     "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
+   },
+   {
+    "name": "Vanilth",
+    "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
    },
    {
     "name": "rakuptka",

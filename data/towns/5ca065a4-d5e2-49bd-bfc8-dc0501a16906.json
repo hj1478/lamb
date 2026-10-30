@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "The_Walled_City",
   "uuid": "5ca065a4-d5e2-49bd-bfc8-dc0501a16906",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 82,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 70,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 6,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,8 +100,16 @@
      -558
     ],
     [
+     1496,
+     -557
+    ],
+    [
      1498,
      -557
+    ],
+    [
+     1496,
+     -558
     ],
     [
      1498,
@@ -118,6 +126,18 @@
     [
      1500,
      -556
+    ],
+    [
+     1497,
+     -554
+    ],
+    [
+     1500,
+     -558
+    ],
+    [
+     1500,
+     -557
     ],
     [
      1497,
@@ -168,10 +188,6 @@
     "uuid": "0acdcbd3-48c7-407d-84fc-6d8fc8e9dd02"
    },
    {
-    "name": "SillyPerson444",
-    "uuid": "e124dc79-3f1e-421d-b66e-a31b4a329300"
-   },
-   {
     "name": "YummyChezBurger",
     "uuid": "91ddf549-3db8-4112-a281-b2a45771d0aa"
    },
@@ -180,8 +196,8 @@
     "uuid": "66239aaa-a014-4df2-968d-928efa42835f"
    },
    {
-    "name": "Dyllypickles",
-    "uuid": "ee794256-d194-492c-a1b3-880ce7c57adc"
+    "name": "GoldenFox900",
+    "uuid": "0c9ebce5-4050-414e-a67f-8412ff2e13ac"
    }
   ],
   "trusted": [
@@ -193,8 +209,22 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Shadow_Wolf64",
+     "uuid": "0acdcbd3-48c7-407d-84fc-6d8fc8e9dd02"
+    },
+    {
+     "name": "GoldenFox900",
+     "uuid": "0c9ebce5-4050-414e-a67f-8412ff2e13ac"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "GoldenFox900",
+     "uuid": "0c9ebce5-4050-414e-a67f-8412ff2e13ac"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

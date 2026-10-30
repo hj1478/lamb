@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Blumenau",
   "uuid": "4c7d79f3-f4b6-4d12-8298-8271151bdebf",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
-   "maxTownBlocks": 208,
+   "numTownBlocks": 43,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
-   "numTrusted": 0,
+   "numResidents": 13,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -124,6 +124,10 @@
      1121
     ],
     [
+     -1098,
+     1125
+    ],
+    [
      -1096,
      1122
     ],
@@ -137,31 +141,63 @@
     ],
     [
      -1097,
+     1119
+    ],
+    [
+     -1097,
+     1120
+    ],
+    [
+     -1097,
+     1118
+    ],
+    [
+     -1100,
+     1124
+    ],
+    [
+     -1101,
+     1121
+    ],
+    [
+     -1096,
+     1119
+    ],
+    [
+     -1100,
+     1123
+    ],
+    [
+     -1101,
+     1122
+    ],
+    [
+     -1096,
+     1120
+    ],
+    [
+     -1095,
      1120
     ],
     [
      -1101,
-     1121
-    ],
-    [
-     -1100,
-     1124
-    ],
-    [
-     -1101,
-     1122
-    ],
-    [
-     -1100,
      1123
     ],
     [
-     -1101,
-     1123
+     -1095,
+     1119
     ],
     [
      -1101,
      1124
+    ],
+    [
+     -1100,
+     1120
+    ],
+    [
+     -1100,
+     1119
     ],
     [
      -1095,
@@ -193,11 +229,35 @@
     ],
     [
      -1099,
+     1125
+    ],
+    [
+     -1099,
+     1118
+    ],
+    [
+     -1099,
+     1119
+    ],
+    [
+     -1099,
      1122
+    ],
+    [
+     -1098,
+     1118
     ],
     [
      -1099,
      1123
+    ],
+    [
+     -1098,
+     1119
+    ],
+    [
+     -1099,
+     1120
     ],
     [
      -1099,
@@ -242,23 +302,40 @@
    {
     "name": "Thrzn",
     "uuid": "7179fa18-26ab-40a0-bf96-9cfb4ab240e1"
+   },
+   {
+    "name": "Takumny",
+    "uuid": "393944f3-93a2-47c8-a97a-f09d03f38cae"
+   },
+   {
+    "name": "yNxsGG_",
+    "uuid": "d7c20a6a-04fd-4c82-aa8f-544dac647513"
+   },
+   {
+    "name": "mariii_gray",
+    "uuid": "e00914fc-baa7-4e51-b64b-58fc5406983c"
+   },
+   {
+    "name": "Davyxz_",
+    "uuid": "11770cab-2441-44c2-8baf-19a1c875fbe8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "yNxsGG_",
+    "uuid": "d7c20a6a-04fd-4c82-aa8f-544dac647513"
+   },
+   {
+    "name": "Person_2d",
+    "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
+   },
+   {
+    "name": "Takumny",
+    "uuid": "393944f3-93a2-47c8-a97a-f09d03f38cae"
+   }
+  ],
   "outlaws": [],
   "quarters": [
-   {
-    "name": "3",
-    "uuid": "6ffe2d1d-94d4-4d35-927f-91364e854e4c"
-   },
-   {
-    "name": "4",
-    "uuid": "e1721a6b-2bc2-4f23-9a41-956d9aa8c394"
-   },
-   {
-    "name": "5",
-    "uuid": "bda50a95-3bab-47ad-9860-19ce9db6dcdd"
-   },
    {
     "name": "1",
     "uuid": "572e2dff-5e19-403f-a102-3c773af51f64"
@@ -270,6 +347,46 @@
    {
     "name": "2",
     "uuid": "ed60552a-5861-40fa-9fa9-9554cca0b2a5"
+   },
+   {
+    "name": "3",
+    "uuid": "6ffe2d1d-94d4-4d35-927f-91364e854e4c"
+   },
+   {
+    "name": "4",
+    "uuid": "e1721a6b-2bc2-4f23-9a41-956d9aa8c394"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "04b186de-f32c-4aed-b5c6-459f7ae56987"
+   },
+   {
+    "name": "Inconvenient Tenement",
+    "uuid": "cb3b9a75-0832-4bd1-a1c0-e934c87079f0"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "35f6c57e-20d8-4d53-86a5-4e4094d5458e"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "92f749e4-28cf-4b69-85e8-3806696ee872"
+   },
+   {
+    "name": "Enraging Tenement",
+    "uuid": "9d69c719-2e30-442f-b146-0315e6e425ed"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "45f9d61b-619c-4b31-be98-2f5c03633520"
+   },
+   {
+    "name": "Station",
+    "uuid": "68158df1-e545-41b1-b7a5-49ef4a376376"
+   },
+   {
+    "name": "5",
+    "uuid": "bda50a95-3bab-47ad-9860-19ce9db6dcdd"
    }
   ],
   "ranks": {
@@ -277,9 +394,22 @@
     {
      "name": "martintanko",
      "uuid": "40135006-60ff-4d6b-9e1e-c0aa3a6efdb6"
+    },
+    {
+     "name": "Takumny",
+     "uuid": "393944f3-93a2-47c8-a97a-f09d03f38cae"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Takumny",
+     "uuid": "393944f3-93a2-47c8-a97a-f09d03f38cae"
+    },
+    {
+     "name": "mariii_gray",
+     "uuid": "e00914fc-baa7-4e51-b64b-58fc5406983c"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

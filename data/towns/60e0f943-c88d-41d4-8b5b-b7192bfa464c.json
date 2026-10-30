@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "TheLostWorld",
   "uuid": "60e0f943-c88d-41d4-8b5b-b7192bfa464c",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FierceGrass",
-   "uuid": "14d9cb45-f1e8-41cb-b4e9-c472f52dced2"
+   "name": "NPC4",
+   "uuid": "3ff1a5b7-5652-204a-98c6-e78bc72c184e"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1783835835747,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793181602313
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -48,33 +48,33 @@
   "perms": {
    "build": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "FierceGrass",
-    "uuid": "14d9cb45-f1e8-41cb-b4e9-c472f52dced2"
+    "name": "NPC4",
+    "uuid": "3ff1a5b7-5652-204a-98c6-e78bc72c184e"
    }
   ],
   "trusted": [],

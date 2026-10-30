@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Dallas",
   "uuid": "56179f0e-76d9-44bc-9c2d-6a89307daa93",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 303,
-   "maxTownBlocks": 392,
+   "maxTownBlocks": 368,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 26,
+   "numResidents": 24,
    "numTrusted": 0,
    "numOutlaws": 12,
-   "balance": 1.0,
+   "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1353,10 +1353,6 @@
     "uuid": "56a2aa29-8329-4f5d-9f50-a6352de33159"
    },
    {
-    "name": "Chinoo777",
-    "uuid": "1e102da5-1af9-4b89-8971-05e8f9c6c399"
-   },
-   {
     "name": "Minecraft_v2",
     "uuid": "23245eb5-f5a8-4576-a279-bc89456da2e6"
    },
@@ -1367,10 +1363,6 @@
    {
     "name": "eljamesoloco",
     "uuid": "2e6912c2-c13c-472b-8972-d304023fa7c1"
-   },
-   {
-    "name": "TMauld05",
-    "uuid": "b73b6e02-e0d9-49ad-a4a5-dcf054cc72c0"
    },
    {
     "name": "Cubz__",
@@ -1409,12 +1401,12 @@
     "uuid": "9a230ae7-45d6-432e-924e-7d022ad1f57e"
    },
    {
-    "name": "beefourr",
-    "uuid": "5b32c015-bf2a-4080-a490-c4b6b4e042d7"
-   },
-   {
     "name": "EDAWGGGG_",
     "uuid": "68597ce0-13c4-4356-8b57-3c996f338464"
+   },
+   {
+    "name": "KingSpasian24",
+    "uuid": "8eb526d7-490f-43a0-9959-eec7f1fa652e"
    }
   ],
   "trusted": [],
@@ -1554,10 +1546,6 @@
     "uuid": "b93eeb81-b9ac-47e8-88cc-2a936fcb51a2"
    },
    {
-    "name": "Home Security",
-    "uuid": "0684f417-2eaa-4628-9e92-daaeeb47863a"
-   },
-   {
     "name": "Away Security",
     "uuid": "d2947ade-cf20-46c6-9c12-2762915e231c"
    },
@@ -1572,6 +1560,10 @@
    {
     "name": "Home",
     "uuid": "65d42dfc-0862-4c6f-945a-4ce31305f075"
+   },
+   {
+    "name": "Home Security",
+    "uuid": "0684f417-2eaa-4628-9e92-daaeeb47863a"
    }
   ],
   "ranks": {

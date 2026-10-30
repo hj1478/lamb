@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Coral_Bay",
   "uuid": "49aef5a0-5eb4-444d-a788-64a5d0516000",
-  "board": "/town set board [msg]",
+  "board": "Living a chill life",
   "founder": "Duckra_",
   "wiki": null,
   "discord": null,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -50017.343313721736,
+    "x": -50020.57306472465,
     "y": 63.0,
-    "z": 11200.463746708083,
-    "pitch": 84.14996,
-    "yaw": 177.49689
+    "z": 11207.270506315803,
+    "pitch": -8.373767,
+    "yaw": -0.14675903
    },
    "homeBlock": [
     -3127,
@@ -96,12 +96,32 @@
      700
     ],
     [
+     -3127,
+     699
+    ],
+    [
      -3126,
      700
     ],
     [
+     -3126,
+     699
+    ],
+    [
+     -3128,
+     699
+    ],
+    [
      -3125,
      701
+    ],
+    [
+     -3128,
+     700
+    ],
+    [
+     -3125,
+     699
     ],
     [
      -3125,
@@ -112,12 +132,20 @@
   },
   "residents": [
    {
-    "name": "Duckra_",
-    "uuid": "611181c7-8373-479a-a873-974c343b3772"
-   },
-   {
     "name": "Champ_AP",
     "uuid": "3f7572aa-8ada-44d3-a300-f9bb1ccbac4f"
+   },
+   {
+    "name": "EHBoelt",
+    "uuid": "e34a1eab-b615-4378-b6ef-989168d9a07f"
+   },
+   {
+    "name": "Raekby",
+    "uuid": "4c411447-46e7-41a8-85b6-6c2ad92c14ac"
+   },
+   {
+    "name": "Duckra_",
+    "uuid": "611181c7-8373-479a-a873-974c343b3772"
    }
   ],
   "trusted": [],
@@ -128,9 +156,18 @@
     {
      "name": "Champ_AP",
      "uuid": "3f7572aa-8ada-44d3-a300-f9bb1ccbac4f"
+    },
+    {
+     "name": "EHBoelt",
+     "uuid": "e34a1eab-b615-4378-b6ef-989168d9a07f"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Raekby",
+     "uuid": "4c411447-46e7-41a8-85b6-6c2ad92c14ac"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

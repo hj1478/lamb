@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Fiesch",
   "uuid": "69a50178-893f-4f80-b5ad-63d3dba147d9",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "KVAS_period",
-   "uuid": "618f6e79-1509-49b4-914a-dd41a1fdfadd"
+   "name": "NPC70",
+   "uuid": "07053394-61b9-20d6-bcd7-cc8cb1142222"
   },
   "nation": {
-   "name": "Switzerland",
-   "uuid": "fe3aa6fe-12b4-4a8c-98fb-30efc7e4342f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785679499132,
-   "joinedNationAt": 1785679539629,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793195703240
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "KVAS_period",
-    "uuid": "618f6e79-1509-49b4-914a-dd41a1fdfadd"
+    "name": "NPC70",
+    "uuid": "07053394-61b9-20d6-bcd7-cc8cb1142222"
    }
   ],
   "trusted": [

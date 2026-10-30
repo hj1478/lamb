@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Rosa",
   "uuid": "6229543e-1687-4868-b62f-d4986e9b2053",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Antlex",
-   "uuid": "74b99a41-83de-4032-a68e-d616b7f19243"
+   "name": "Deflects",
+   "uuid": "da756925-413f-4954-9063-9e19d1be9017"
   },
   "nation": {
    "name": null,
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 224,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 2000.0
   },
   "perms": {
    "build": [
@@ -992,22 +992,26 @@
   },
   "residents": [
    {
-    "name": "Antlex",
-    "uuid": "74b99a41-83de-4032-a68e-d616b7f19243"
-   },
-   {
     "name": "commanderbobguy",
     "uuid": "660f748d-ec5a-40fe-bfef-0a8607532fa8"
    },
    {
     "name": "bil1ymc",
     "uuid": "c13372d6-c396-4c71-8079-ff6f86c7ec90"
+   },
+   {
+    "name": "Deflects",
+    "uuid": "da756925-413f-4954-9063-9e19d1be9017"
+   },
+   {
+    "name": "justromann",
+    "uuid": "984c300d-ed52-4b60-a040-bdce6a2062ef"
    }
   ],
   "trusted": [
    {
-    "name": "BBeanyy",
-    "uuid": "e0e8699c-4d6f-4636-96f1-98acc777db78"
+    "name": "Vellange",
+    "uuid": "c258e7fb-a1ce-4808-9db2-be38159b82b3"
    }
   ],
   "outlaws": [],

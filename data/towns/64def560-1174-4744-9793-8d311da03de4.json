@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Blahaj",
   "uuid": "64def560-1174-4744-9793-8d311da03de4",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 7,
-   "balance": 99.0,
+   "numOutlaws": 4,
+   "balance": 117.0,
    "forSalePrice": null
   },
   "perms": {
@@ -160,24 +160,12 @@
   ],
   "outlaws": [
    {
-    "name": "Taha_AbuObaida",
-    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
-   },
-   {
-    "name": "tomato0oo",
-    "uuid": "4c12d753-04d8-45e3-ab93-d3d5e39ff6a4"
-   },
-   {
     "name": "Tomato426",
     "uuid": "609096df-3600-403e-a539-5819f9d6da95"
    },
    {
     "name": "Tomato_Actual",
     "uuid": "e34d7f0e-422a-4d73-8afd-6541a0674335"
-   },
-   {
-    "name": "TomatoCrab420",
-    "uuid": "908b5bd0-60b2-4b99-b339-9d6ec4b39f49"
    },
    {
     "name": "TomatoSandwich",

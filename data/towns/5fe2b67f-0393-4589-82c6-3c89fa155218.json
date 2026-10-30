@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "San_Sebastian",
   "uuid": "5fe2b67f-0393-4589-82c6-3c89fa155218",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792559764361,
-   "joinedNationAt": 1792561719882,
+   "joinedNationAt": 1792895169411,
    "ruinedAt": null
   },
   "status": {
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,25 +47,25 @@
   },
   "perms": {
    "build": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "destroy": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
@@ -92,24 +92,20 @@
    ],
    "townBlocks": [
     [
-     -1540,
-     1820
+     -1539,
+     1817
     ],
     [
-     -1538,
-     1820
-    ],
-    [
-     -1538,
-     1819
-    ],
-    [
-     -1540,
-     1819
+     -1539,
+     1818
     ],
     [
      -1539,
      1819
+    ],
+    [
+     -1538,
+     1818
     ],
     [
      -1539,
@@ -117,7 +113,35 @@
     ],
     [
      -1541,
+     1819
+    ],
+    [
+     -1541,
      1820
+    ],
+    [
+     -1540,
+     1820
+    ],
+    [
+     -1538,
+     1820
+    ],
+    [
+     -1540,
+     1821
+    ],
+    [
+     -1538,
+     1819
+    ],
+    [
+     -1540,
+     1818
+    ],
+    [
+     -1540,
+     1819
     ]
    ],
    "worlds": {}

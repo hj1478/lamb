@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Valkenburg",
   "uuid": "5119c26b-004b-4c25-9e7e-af8a4003d9a2",
-  "board": "/town set board [msg]",
+  "board": "Welcome to Valkenburg!!!!",
   "founder": "MattieMirakel",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PollekeSnolleke",
-   "uuid": "2e56c7fa-2eea-4d8b-a0e2-9d933ad8fe69"
+   "name": "Bonc302",
+   "uuid": "646f0ca0-2fee-40d0-856e-7886ea281cff"
   },
   "nation": {
    "name": "Netherlands",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 35,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 16,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2280.3358947398883,
+    "x": 2277.236627375721,
     "y": 69.0,
-    "z": -11895.355998863957,
-    "pitch": 15.74975,
-    "yaw": -178.19467
+    "z": -11894.486984198173,
+    "pitch": 3.656372,
+    "yaw": 90.09601
    },
    "homeBlock": [
     142,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      143,
+     -747
+    ],
+    [
+     143,
      -743
     ],
     [
@@ -144,6 +148,10 @@
      -745
     ],
     [
+     140,
+     -747
+    ],
+    [
      143,
      -742
     ],
@@ -156,12 +164,16 @@
      -743
     ],
     [
-     139,
-     -744
+     141,
+     -747
     ],
     [
      140,
      -742
+    ],
+    [
+     139,
+     -744
     ],
     [
      139,
@@ -174,12 +186,20 @@
     [
      139,
      -746
+    ],
+    [
+     139,
+     -747
     ],
     [
      144,
      -746
     ],
     [
+     144,
+     -747
+    ],
+    [
      145,
      -744
     ],
@@ -190,6 +210,10 @@
     [
      145,
      -746
+    ],
+    [
+     145,
+     -747
     ],
     [
      145,
@@ -214,6 +238,10 @@
     [
      142,
      -744
+    ],
+    [
+     142,
+     -747
     ],
     [
      144,
@@ -242,11 +270,23 @@
    {
     "name": "Bonc302",
     "uuid": "646f0ca0-2fee-40d0-856e-7886ea281cff"
+   },
+   {
+    "name": "bearpluff1011",
+    "uuid": "7bd5d6a5-05d9-4dba-892b-9891f0da777d"
+   },
+   {
+    "name": "vietlesbians",
+    "uuid": "2b65cde9-ca8d-402b-bf99-806257f6b980"
+   },
+   {
+    "name": "Benkievous_Mike",
+    "uuid": "dbb710b4-a81c-48bf-912a-e8b3564bef7e"
    }
   ],
   "trusted": [
    {
-    "name": "extreme_33337",
+    "name": "extreme33337",
     "uuid": "1ab4a974-972e-429f-945f-a43434adeff6"
    },
    {
@@ -274,7 +314,7 @@
     "uuid": "5ff6afd4-b03d-4956-b159-8da9def3e4a7"
    },
    {
-    "name": "Mirakel800",
+    "name": "Luck800",
     "uuid": "dab1442f-68ad-4ec6-8d15-b088369f4fe7"
    },
    {
@@ -311,9 +351,55 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Property",
+    "uuid": "69da6dd3-fa13-4801-b6be-1eb00296b208"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "62ad0cfd-0af1-4730-bfd4-7efb958f83ed"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "adb71593-201b-46c3-a077-32cce9569e66"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "b5dda986-1612-4c96-afa1-c6954decf0d4"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "2fa44226-bd59-4fe2-a183-a16bb0c843f1"
+   },
+   {
+    "name": "Bland Dwelling",
+    "uuid": "1fa37efe-2789-4f85-a8b5-629ed5e2ed21"
+   },
+   {
+    "name": "Lovely Residence",
+    "uuid": "e7e8f68e-4f15-4ab5-9bd2-9935984e6f33"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "d05a1f82-3cf6-4c61-ae0e-87d4d8f3525a"
+   },
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "7680b60b-16ed-4fa2-9952-32b8dd0e7a5b"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "PollekeSnolleke",
+     "uuid": "2e56c7fa-2eea-4d8b-a0e2-9d933ad8fe69"
+    },
+    {
+     "name": "bearpluff1011",
+     "uuid": "7bd5d6a5-05d9-4dba-892b-9891f0da777d"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

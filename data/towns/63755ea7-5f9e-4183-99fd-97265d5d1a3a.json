@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Trinopolis",
   "uuid": "63755ea7-5f9e-4183-99fd-97265d5d1a3a",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     -2486,
+     -533
+    ],
+    [
+     -2488,
+     -533
+    ],
+    [
+     -2486,
+     -528
+    ],
+    [
      -2488,
      -529
     ],
@@ -113,7 +125,19 @@
     ],
     [
      -2486,
+     -532
+    ],
+    [
+     -2488,
+     -532
+    ],
+    [
+     -2486,
      -531
+    ],
+    [
+     -2489,
+     -532
     ],
     [
      -2489,
@@ -122,6 +146,10 @@
     [
      -2489,
      -530
+    ],
+    [
+     -2487,
+     -528
     ],
     [
      -2489,
@@ -133,11 +161,19 @@
     ],
     [
      -2487,
+     -532
+    ],
+    [
+     -2487,
      -529
     ],
     [
      -2487,
      -530
+    ],
+    [
+     -2487,
+     -533
     ]
    ],
    "worlds": {}
@@ -150,6 +186,10 @@
    {
     "name": "kopereq0",
     "uuid": "7954c438-5c1f-40f5-8bf7-662f841b3dfc"
+   },
+   {
+    "name": "patizvx",
+    "uuid": "1b8f7ec9-c57b-48c0-8f6a-918d2397a5d4"
    }
   ],
   "trusted": [
@@ -159,7 +199,40 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "178a2412-d720-4437-9ed2-b25232421044"
+   },
+   {
+    "name": "Perturbing Residence",
+    "uuid": "af07594f-daa7-497f-99d5-f069463f9db1"
+   },
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "fa185aaa-4afd-49e3-bddf-b25f2e89af8d"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "4edcd232-4b73-4d5d-8f64-e204fdf2f5a4"
+   },
+   {
+    "name": "Perturbing Property",
+    "uuid": "8df888d2-8a7a-4f7e-b98c-4c6742185934"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "978d8398-3686-4e60-a600-53bb9244475e"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "abfd9fbc-fabc-48d9-aa6a-13f10a8f39cf"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "e10527f9-2d38-4cc3-b879-eb1c1838812d"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {
@@ -167,13 +240,33 @@
      "uuid": "7954c438-5c1f-40f5-8bf7-662f841b3dfc"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "patizvx",
+     "uuid": "1b8f7ec9-c57b-48c0-8f6a-918d2397a5d4"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "patizvx",
+     "uuid": "1b8f7ec9-c57b-48c0-8f6a-918d2397a5d4"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "patizvx",
+     "uuid": "1b8f7ec9-c57b-48c0-8f6a-918d2397a5d4"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "patizvx",
+     "uuid": "1b8f7ec9-c57b-48c0-8f6a-918d2397a5d4"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Antarctica",
   "uuid": "4f6f6c8e-4c65-4900-97ff-9203ebc12588",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PoppyPoopyPoo",
-   "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+   "name": "Duolingoose",
+   "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
   },
   "nation": {
    "name": "Ross_Sea",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 84,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 18,
+   "numResidents": 3,
+   "numTrusted": 19,
    "numOutlaws": 3,
-   "balance": 0.0,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -51768.84728201057,
-    "y": -34.0,
-    "z": 31737.06094220945,
-    "pitch": -11.549921,
-    "yaw": -105.96698
+    "x": -51734.97930998023,
+    "y": 66.0,
+    "z": 31760.90699732042,
+    "pitch": 21.450045,
+    "yaw": -146.80305
    },
    "homeBlock": [
-    -3236,
-    1983
+    -3234,
+    1985
    ],
    "townBlocks": [
     [
@@ -432,8 +432,16 @@
   },
   "residents": [
    {
-    "name": "PoppyPoopyPoo",
-    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+    "name": "Duolingoose",
+    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
+   },
+   {
+    "name": "shaoyunb111",
+    "uuid": "500a2b64-3c0a-4439-90fd-38b2099d4f28"
+   },
+   {
+    "name": "FunbaXD",
+    "uuid": "c6268d44-6d1a-48d2-a918-e7de843f03ab"
    }
   ],
   "trusted": [
@@ -498,6 +506,10 @@
     "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
    },
    {
+    "name": "FunbaXD",
+    "uuid": "c6268d44-6d1a-48d2-a918-e7de843f03ab"
+   },
+   {
     "name": "qianrubiao",
     "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
    },
@@ -528,8 +540,8 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "PoppyPoopyPoo",
-     "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+     "name": "shaoyunb111",
+     "uuid": "500a2b64-3c0a-4439-90fd-38b2099d4f28"
     }
    ],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Shops",
   "uuid": "4b7fcf65-dae6-45d4-af8e-ddfd1268de8c",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
+   "nationBonus": 30,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 58.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,11 +92,47 @@
    ],
    "townBlocks": [
     [
+     3894,
+     -1395
+    ],
+    [
+     3894,
+     -1393
+    ],
+    [
+     3894,
+     -1394
+    ],
+    [
+     3895,
+     -1393
+    ],
+    [
+     3895,
+     -1394
+    ],
+    [
+     3895,
+     -1395
+    ],
+    [
      3893,
      -1395
     ],
     [
+     3890,
+     -1395
+    ],
+    [
+     3890,
+     -1394
+    ],
+    [
      3891,
+     -1393
+    ],
+    [
+     3890,
      -1393
     ],
     [
@@ -142,6 +178,10 @@
    {
     "name": "t_spawn_shops",
     "uuid": "413b52a6-1944-46b4-a214-a5bb56dd15a8"
+   },
+   {
+    "name": "Nucl3arNiGHT",
+    "uuid": "003458e0-ddf9-4e81-a4cc-5ed9615cd6b6"
    }
   ],
   "trusted": [],

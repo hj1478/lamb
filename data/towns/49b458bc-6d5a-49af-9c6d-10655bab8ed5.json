@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Bean_Town",
   "uuid": "49b458bc-6d5a-49af-9c6d-10655bab8ed5",
@@ -12,12 +12,12 @@
    "uuid": "43420d32-5dca-48da-8b56-9aae1620ddb6"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": "Eire",
+   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
   },
   "timestamps": {
    "registered": 1792330106884,
-   "joinedNationAt": 1792330224979,
+   "joinedNationAt": 1792836440733,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 7,
    "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 8.0,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 59.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,32 @@
    ],
    "townBlocks": [
     [
+     90,
+     -735
+    ],
+    [
+     87,
+     -735
+    ],
+    [
+     87,
+     -736
+    ],
+    [
      88,
      -735
     ],
     [
      89,
      -735
+    ],
+    [
+     88,
+     -736
+    ],
+    [
+     89,
+     -736
     ]
    ],
    "worlds": {}
@@ -122,6 +142,10 @@
   ],
   "trusted": [
    {
+    "name": "sobble1sgod",
+    "uuid": "8e10a836-9085-4040-a013-22767c78b1ad"
+   },
+   {
     "name": "Karakartal1973",
     "uuid": "0a1992ba-0ddd-4623-9d1e-e0c7de8ab8bb"
    },
@@ -130,8 +154,18 @@
     "uuid": "70e766be-4630-49e2-bf4e-ddfa645fb6cc"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "SceptixOff",
+    "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Bland Property",
+    "uuid": "8f6ef6f2-7052-4c43-864d-659cbba01f89"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

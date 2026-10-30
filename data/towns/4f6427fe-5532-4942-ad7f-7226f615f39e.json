@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Rosemary_Field",
   "uuid": "4f6427fe-5532-4942-ad7f-7226f615f39e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 15,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 396.0,
+   "balance": 221.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,18 +80,54 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -41070.71369728055,
-    "y": 94.875,
-    "z": -7001.47475205276,
-    "pitch": 1.7605023,
-    "yaw": 121.68733
+    "x": -41056.77495936229,
+    "y": 95.0,
+    "z": -7012.202286578248,
+    "pitch": 11.971206,
+    "yaw": 89.22815
    },
    "homeBlock": [
     -2567,
-    -438
+    -439
    ],
    "townBlocks": [
     [
+     -2567,
+     -440
+    ],
+    [
+     -2567,
+     -439
+    ],
+    [
+     -2566,
+     -440
+    ],
+    [
+     -2568,
+     -440
+    ],
+    [
+     -2566,
+     -439
+    ],
+    [
+     -2568,
+     -439
+    ],
+    [
+     -2568,
+     -438
+    ],
+    [
+     -2570,
+     -439
+    ],
+    [
+     -2570,
+     -438
+    ],
+    [
      -2566,
      -438
     ],
@@ -100,12 +136,20 @@
      -438
     ],
     [
-     -2567,
+     -2570,
+     -440
+    ],
+    [
+     -2569,
      -439
     ],
     [
-     -2566,
-     -439
+     -2569,
+     -438
+    ],
+    [
+     -2569,
+     -440
     ]
    ],
    "worlds": {}
@@ -124,6 +168,10 @@
    {
     "name": "ChrisNoSignal",
     "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
+   },
+   {
+    "name": "jer_warrior",
+    "uuid": "e272bf3a-3ae9-4f3b-8090-be303a60bcb4"
    }
   ],
   "outlaws": [],

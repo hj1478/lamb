@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "NEW_WOLLYWOOD",
   "uuid": "4fd0fc53-ba53-4d86-9f6b-97fa73a65ea7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Zompinete",
-   "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
+   "name": "Abyss_UnderTaker",
+   "uuid": "2ea05876-6427-45f8-aad0-e77abdc93642"
   },
   "nation": {
    "name": null,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 0,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30579.552025509573,
-    "y": 80.9375,
-    "z": -4592.053453566263,
-    "pitch": 34.318035,
-    "yaw": -159.54643
+    "x": -30586.576017654486,
+    "y": 81.0,
+    "z": -4596.526167295578,
+    "pitch": 11.968107,
+    "yaw": -90.24601
    },
    "homeBlock": [
     -1912,
@@ -216,66 +216,22 @@
   },
   "residents": [
    {
-    "name": "Zompinete",
-    "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-   },
-   {
-    "name": "riddikium",
-    "uuid": "ef8b27e5-f91c-46b4-b127-8e52e9157238"
+    "name": "Abyss_UnderTaker",
+    "uuid": "2ea05876-6427-45f8-aad0-e77abdc93642"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Police": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Zompinete",
-     "uuid": "d7fec710-3d2d-4463-bfff-b9a906333edd"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Resolute",
   "uuid": "5c586e4c-796f-4362-bb24-91eb40782d37",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 606.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     -1937,
+     -1860
+    ],
+    [
+     -1937,
+     -1861
+    ],
+    [
+     -1936,
+     -1862
+    ],
+    [
      -1940,
-     -1859
+     -1861
+    ],
+    [
+     -1940,
+     -1862
+    ],
+    [
+     -1936,
+     -1863
     ],
     [
      -1938,
@@ -104,11 +124,39 @@
      -1858
     ],
     [
-     -1940,
+     -1938,
      -1857
     ],
     [
      -1938,
+     -1863
+    ],
+    [
+     -1938,
+     -1862
+    ],
+    [
+     -1938,
+     -1861
+    ],
+    [
+     -1938,
+     -1860
+    ],
+    [
+     -1938,
+     -1864
+    ],
+    [
+     -1940,
+     -1859
+    ],
+    [
+     -1940,
+     -1860
+    ],
+    [
+     -1940,
      -1857
     ],
     [
@@ -121,11 +169,43 @@
     ],
     [
      -1939,
+     -1861
+    ],
+    [
+     -1937,
+     -1862
+    ],
+    [
+     -1939,
+     -1860
+    ],
+    [
+     -1937,
+     -1863
+    ],
+    [
+     -1939,
      -1859
+    ],
+    [
+     -1937,
+     -1864
     ],
     [
      -1939,
      -1858
+    ],
+    [
+     -1939,
+     -1864
+    ],
+    [
+     -1939,
+     -1863
+    ],
+    [
+     -1939,
+     -1862
     ]
    ],
    "worlds": {}
@@ -142,6 +222,10 @@
    {
     "name": "Dragon623",
     "uuid": "ed3f8712-7dd2-44c5-b7b2-2d4f0499d3b6"
+   },
+   {
+    "name": "Vexon1042",
+    "uuid": "1678e990-0d05-4d44-84e5-601a8128c6d4"
    }
   ],
   "trusted": [
@@ -151,7 +235,28 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Border-Control",
+    "uuid": "1792d87a-091f-42b6-bffa-8911acfff776"
+   },
+   {
+    "name": "Border-Control",
+    "uuid": "f530a717-b43b-426a-b8de-1682f0bf10a8"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "b2057147-9fab-4941-b7f0-9a3cf279d127"
+   },
+   {
+    "name": "Annoying Suite",
+    "uuid": "78372f07-5924-4972-a204-a29d4fed50db"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "de0fcd45-84f7-43a8-bac6-4138bc5aa27d"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

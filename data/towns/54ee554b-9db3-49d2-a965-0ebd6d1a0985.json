@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Yop",
   "uuid": "54ee554b-9db3-49d2-a965-0ebd6d1a0985",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 19492.0,
+   "balance": 19457.0,
    "forSalePrice": null
   },
   "perms": {
@@ -354,9 +354,18 @@
    {
     "name": "ixenderous",
     "uuid": "3373a605-e841-4c1f-b8fc-b6f0b8d96c2b"
+   },
+   {
+    "name": "ku1ni",
+    "uuid": "e659e8db-10b7-4d11-beab-b7b1560a1994"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ku1ni",
+    "uuid": "e659e8db-10b7-4d11-beab-b7b1560a1994"
+   }
+  ],
   "outlaws": [
    {
     "name": "Ciharry",

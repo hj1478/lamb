@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Emberfall",
-  "uuid": "a8b06258-8deb-467a-b666-e754c0c625da",
+  "name": "Goldhaven",
+  "uuid": "b1d8d3b7-280c-4ff2-bd76-53749ee03c87",
   "board": "/town set board [msg]",
-  "founder": "G20Give",
+  "founder": "Lillwester",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "G20Give",
-   "uuid": "04f87c8d-3ff1-44cc-bf67-54c4de72f1c8"
+   "name": "Lillwester",
+   "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": "Amazon",
+   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
   },
   "timestamps": {
-   "registered": 1778552568535,
-   "joinedNationAt": 1778552601535,
+   "registered": 1793285264510,
+   "joinedNationAt": 1793285495642,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 1,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,137 +80,85 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12190.61055391425,
-    "y": 64.0,
-    "z": 1670.7649964772852,
-    "pitch": 33.45005,
-    "yaw": -0.4161682
+    "x": -26677.470174107748,
+    "y": 66.0,
+    "z": 10470.971472496372,
+    "pitch": 45.7447,
+    "yaw": -2.3701782
    },
    "homeBlock": [
-    761,
-    104
+    -1668,
+    654
    ],
    "townBlocks": [
     [
-     763,
-     106
+     -1667,
+     654
     ],
     [
-     763,
-     105
+     -1668,
+     656
     ],
     [
-     763,
-     104
+     -1668,
+     655
     ],
     [
-     763,
-     103
+     -1668,
+     654
     ],
     [
-     763,
-     107
+     -1668,
+     653
     ],
     [
-     761,
-     103
+     -1669,
+     654
     ],
     [
-     761,
-     108
+     -1670,
+     656
     ],
     [
-     761,
-     105
+     -1669,
+     653
     ],
     [
-     761,
-     104
+     -1669,
+     656
     ],
     [
-     761,
-     107
+     -1669,
+     655
     ],
     [
-     761,
-     106
+     -1670,
+     654
     ],
     [
-     764,
-     106
+     -1670,
+     655
     ],
     [
-     760,
-     106
-    ],
-    [
-     764,
-     105
-    ],
-    [
-     760,
-     107
-    ],
-    [
-     760,
-     104
-    ],
-    [
-     760,
-     105
-    ],
-    [
-     760,
-     108
-    ],
-    [
-     762,
-     102
-    ],
-    [
-     762,
-     103
-    ],
-    [
-     762,
-     104
-    ],
-    [
-     762,
-     105
-    ],
-    [
-     762,
-     106
-    ],
-    [
-     762,
-     107
-    ],
-    [
-     762,
-     108
+     -1670,
+     653
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "G20Give",
-    "uuid": "04f87c8d-3ff1-44cc-bf67-54c4de72f1c8"
-   },
-   {
-    "name": "Bananice_99",
-    "uuid": "7756af7c-ff29-4958-b059-9ceeaa769410"
+    "name": "Lillwester",
+    "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
    }
   ],
-  "trusted": [],
-  "outlaws": [
+  "trusted": [
    {
-    "name": "_Srdjan",
-    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
+    "name": "leonzombiiey67",
+    "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
    }
   ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

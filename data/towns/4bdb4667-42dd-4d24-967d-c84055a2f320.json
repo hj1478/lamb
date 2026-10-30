@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "St_Lawrence",
   "uuid": "4bdb4667-42dd-4d24-967d-c84055a2f320",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 162,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 168,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 2,
+   "numResidents": 13,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 4817.0,
+   "balance": 4713.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -24435.21567010565,
-    "y": 63.0,
-    "z": -11225.954359155801,
-    "pitch": -82.82906,
-    "yaw": -84.721794
+    "x": -24456.009740172183,
+    "y": 65.0,
+    "z": -11222.965581366387,
+    "pitch": 6.570953,
+    "yaw": -27.121801
    },
    "homeBlock": [
-    -1528,
+    -1529,
     -702
    ],
    "townBlocks": [
@@ -186,6 +186,10 @@
     [
      -1527,
      -711
+    ],
+    [
+     -1528,
+     -700
     ],
     [
      -1527,
@@ -412,6 +416,10 @@
      -706
     ],
     [
+     -1518,
+     -707
+    ],
+    [
      -1519,
      -707
     ],
@@ -484,6 +492,10 @@
      -711
     ],
     [
+     -1532,
+     -702
+    ],
+    [
      -1525,
      -709
     ],
@@ -514,6 +526,18 @@
     [
      -1525,
      -710
+    ],
+    [
+     -1517,
+     -705
+    ],
+    [
+     -1517,
+     -704
+    ],
+    [
+     -1517,
+     -706
     ],
     [
      -1524,
@@ -766,6 +790,34 @@
    {
     "name": "CapitalWill",
     "uuid": "9f20de13-066f-467f-9ace-e9aba216a750"
+   },
+   {
+    "name": "LuigiIsCool1234",
+    "uuid": "e7f00356-a73b-4939-95b8-04d1d165401e"
+   },
+   {
+    "name": "__Rae__",
+    "uuid": "99109870-55a7-4462-bc9b-0af7a73c92d6"
+   },
+   {
+    "name": "Sikoicho1",
+    "uuid": "4ca509a1-5e42-4084-9b46-052e12482e11"
+   },
+   {
+    "name": "BatemanBR",
+    "uuid": "585bf799-aa94-4348-9ffd-f434be4f4090"
+   },
+   {
+    "name": "Soul_Flake5",
+    "uuid": "c58f0945-b03e-45bc-b25f-237f3341cbae"
+   },
+   {
+    "name": "carlitooosvm",
+    "uuid": "80de3394-dd9a-470b-96b1-a2bd9c1f0e4b"
+   },
+   {
+    "name": "DaMARS111",
+    "uuid": "d519ebad-4f30-4aeb-bc72-5090f4b22989"
    }
   ],
   "trusted": [
@@ -776,6 +828,10 @@
    {
     "name": "Proser",
     "uuid": "8f90a970-90de-407d-b4e7-0d9fde10f51a"
+   },
+   {
+    "name": "__Rae__",
+    "uuid": "99109870-55a7-4462-bc9b-0af7a73c92d6"
    }
   ],
   "outlaws": [],
@@ -783,7 +839,12 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "LuigiIsCool1234",
+     "uuid": "e7f00356-a73b-4939-95b8-04d1d165401e"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

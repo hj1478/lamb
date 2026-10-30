@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "New_Edewecht",
   "uuid": "61ae4ecd-ea5e-4223-af5e-83019f494422",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ZweiBananen",
-   "uuid": "489165ba-ad8d-4f46-b672-f301c9aa7b39"
+   "name": "NPC41",
+   "uuid": "f6e474c6-a9a4-2084-9c5a-f62d70bf95ff"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789078187768,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793354403766
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "ZweiBananen",
-    "uuid": "489165ba-ad8d-4f46-b672-f301c9aa7b39"
+    "name": "NPC41",
+    "uuid": "f6e474c6-a9a4-2084-9c5a-f62d70bf95ff"
    }
   ],
   "trusted": [],

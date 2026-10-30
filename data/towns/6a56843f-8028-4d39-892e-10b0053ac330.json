@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Samara",
   "uuid": "6a56843f-8028-4d39-892e-10b0053ac330",
@@ -8,8 +8,8 @@
   "wiki": "https://wiki.earthmc.net/wiki/Nostra:Samara",
   "discord": null,
   "mayor": {
-   "name": "Nikita_Sergei",
-   "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
+   "name": "straightmiku",
+   "uuid": "5671c2d1-1f30-4967-85dc-ba6d527d485f"
   },
   "nation": {
    "name": "Soviet_Union",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 33,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 6,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -117,6 +117,10 @@
     ],
     [
      1129,
+     -814
+    ],
+    [
+     1129,
      -817
     ],
     [
@@ -125,7 +129,15 @@
     ],
     [
      1129,
+     -819
+    ],
+    [
+     1129,
      -818
+    ],
+    [
+     1130,
+     -819
     ],
     [
      1130,
@@ -144,6 +156,10 @@
      -815
     ],
     [
+     1130,
+     -814
+    ],
+    [
      1131,
      -815
     ],
@@ -158,6 +174,10 @@
     [
      1131,
      -818
+    ],
+    [
+     1127,
+     -819
     ],
     [
      1127,
@@ -172,6 +192,10 @@
      -817
     ],
     [
+     1128,
+     -819
+    ],
+    [
      1127,
      -816
     ],
@@ -181,6 +205,10 @@
     ],
     [
      1127,
+     -814
+    ],
+    [
+     1128,
      -814
     ],
     [
@@ -206,22 +234,80 @@
    {
     "name": "Ananasian",
     "uuid": "6c4e4b14-84a7-4333-bb28-2599a27d39ef"
+   },
+   {
+    "name": "Da_pok",
+    "uuid": "c1b6c824-87c9-46a8-bec9-bf2ca649086e"
+   },
+   {
+    "name": "emopiano",
+    "uuid": "aa4a1802-34dd-4026-8fdb-33485ee9e8ff"
+   },
+   {
+    "name": "MutuShh_",
+    "uuid": "2133032e-2ea6-408c-8e1c-8ae2f7c7a8a5"
+   },
+   {
+    "name": "straightmiku",
+    "uuid": "5671c2d1-1f30-4967-85dc-ba6d527d485f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Nikita_Sergei",
+    "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {
-    "name": "Welcoming Residence",
-    "uuid": "6fc7adf4-20d4-4136-98c1-1fc35d96822d"
+    "name": "Annoying Suite",
+    "uuid": "18aa119c-6d43-44db-8d65-59052ec2665a"
    },
    {
-    "name": "Gloomy Quarter",
-    "uuid": "73274777-40ea-4717-91c4-285df4c89f47"
+    "name": "Dull Property",
+    "uuid": "4f631965-7382-4ef6-b191-6376ac352fc4"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "b47775a9-62b7-4408-a92a-05661ed5198c"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "dba97b62-ae52-43a7-b596-7b20e0992d28"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "03afd515-c306-43e8-928e-6759ea54b21e"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "4f529155-4681-49b6-b2ab-cad5e9e497a1"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "5ec2b18c-2004-429c-9d56-5e8e28417f0a"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "1956dd24-e8ea-4bc8-af0d-5ae0fabbb573"
+   },
+   {
+    "name": "Dull Residence",
+    "uuid": "4b4bc5d0-6f6d-4f7e-80ff-d02b9af86c5c"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "4f3e8886-580b-4330-a8f2-d48acce940a6"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Nikita_Sergei",
+     "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

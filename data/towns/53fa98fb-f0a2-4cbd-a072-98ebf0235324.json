@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "HorzaTown",
   "uuid": "53fa98fb-f0a2-4cbd-a072-98ebf0235324",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,27 +35,27 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 86.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
     false,
     false,
-    false,
+    true,
     false
    ],
    "destroy": [
     false,
     false,
-    false,
+    true,
     false
    ],
    "switch": [
@@ -80,19 +80,47 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8989.534418040817,
-    "y": 83.5625,
-    "z": 3766.3591447968256,
-    "pitch": 76.19989,
-    "yaw": 86.215576
+    "x": 8997.852135740928,
+    "y": 74.5,
+    "z": 3765.471842277679,
+    "pitch": -0.45045316,
+    "yaw": 90.11728
    },
    "homeBlock": [
-    561,
+    562,
     235
    ],
    "townBlocks": [
     [
      560,
+     236
+    ],
+    [
+     560,
+     235
+    ],
+    [
+     562,
+     233
+    ],
+    [
+     560,
+     234
+    ],
+    [
+     560,
+     233
+    ],
+    [
+     563,
+     233
+    ],
+    [
+     561,
+     236
+    ],
+    [
+     561,
      235
     ],
     [
@@ -101,14 +129,18 @@
     ],
     [
      563,
-     235
-    ],
-    [
-     561,
      236
     ],
     [
      561,
+     233
+    ],
+    [
+     563,
+     234
+    ],
+    [
+     563,
      235
     ],
     [

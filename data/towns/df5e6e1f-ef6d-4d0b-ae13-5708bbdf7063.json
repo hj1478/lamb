@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Khoms",
-  "uuid": "6c0c480c-561d-44f8-baa9-dcb424ae143a",
+  "name": "Diamond_Casino",
+  "uuid": "df5e6e1f-ef6d-4d0b-ae13-5708bbdf7063",
   "board": "/town set board [msg]",
-  "founder": "unh2",
+  "founder": "gymJanne",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "unh2",
-   "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+   "name": "gymJanne",
+   "uuid": "3defed73-5c85-41ca-934b-422c9c19144b"
   },
   "nation": {
-   "name": "Libya",
-   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
-   "registered": 1792680897246,
-   "joinedNationAt": 1792681150326,
+   "registered": 1793312698260,
+   "joinedNationAt": 1793312784211,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 44.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,39 +80,40 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4916.800204381184,
-    "y": 63.49520087700592,
-    "z": -4154.438681982978,
-    "pitch": 16.164845,
-    "yaw": -98.96505
+    "x": -35626.11596102109,
+    "y": 73.0,
+    "z": -5438.548652040709,
+    "pitch": 41.34537,
+    "yaw": -95.20599
    },
    "homeBlock": [
-    307,
-    -260
+    -2227,
+    -340
    ],
    "townBlocks": [
     [
-     307,
-     -260
-    ],
-    [
-     306,
-     -261
-    ],
-    [
-     307,
-     -261
+     -2227,
+     -340
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "unh2",
-    "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+    "name": "gymJanne",
+    "uuid": "3defed73-5c85-41ca-934b-422c9c19144b"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "axieyoel",
+    "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
+   },
+   {
+    "name": "Troncatcomfy",
+    "uuid": "707f0123-88b2-450f-b39b-dc9be07f9ea2"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

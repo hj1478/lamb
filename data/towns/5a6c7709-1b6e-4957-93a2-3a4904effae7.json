@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Pleyadez",
   "uuid": "5a6c7709-1b6e-4957-93a2-3a4904effae7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1368,
+     171
+    ],
+    [
+     -1368,
      170
     ],
     [
@@ -100,12 +104,12 @@
      169
     ],
     [
-     -1369,
+     -1368,
      168
     ],
     [
      -1368,
-     168
+     167
     ],
     [
      -1367,
@@ -116,7 +120,43 @@
      169
     ],
     [
+     -1370,
+     167
+    ],
+    [
+     -1370,
+     168
+    ],
+    [
+     -1367,
+     171
+    ],
+    [
+     -1370,
+     169
+    ],
+    [
      -1369,
+     170
+    ],
+    [
+     -1369,
+     169
+    ],
+    [
+     -1369,
+     168
+    ],
+    [
+     -1371,
+     168
+    ],
+    [
+     -1369,
+     167
+    ],
+    [
+     -1371,
      167
     ]
    ],
@@ -130,6 +170,10 @@
    {
     "name": "dag616",
     "uuid": "2bef8dfa-8900-4925-8c3a-069bd070898a"
+   },
+   {
+    "name": "CoffeeSnow86427",
+    "uuid": "26014c47-1577-450c-b7a8-3b3507742ff8"
    }
   ],
   "trusted": [],
@@ -148,7 +192,12 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "CoffeeSnow86427",
+     "uuid": "26014c47-1577-450c-b7a8-3b3507742ff8"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

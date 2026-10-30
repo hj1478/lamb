@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Los_Pollos",
   "uuid": "6066d829-468d-4bd1-aaf8-5582c8f4b3ac",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 7,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -38256.55407337788,
-    "y": 75.0,
-    "z": -5082.37233189201,
-    "pitch": 70.055695,
-    "yaw": 1.9883423
+    "x": -38260.55820688543,
+    "y": 68.0,
+    "z": -5077.667501618252,
+    "pitch": 2.5845187,
+    "yaw": -179.98753
    },
    "homeBlock": [
     -2392,
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     -2391,
+     -318
+    ],
+    [
+     -2393,
+     -319
+    ],
+    [
+     -2393,
+     -318
+    ],
+    [
+     -2391,
+     -319
+    ],
+    [
      -2392,
      -317
+    ],
+    [
+     -2392,
+     -319
     ],
     [
      -2392,
@@ -109,6 +129,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "MiniiiMattt",
+    "uuid": "07a909a9-77e0-4d80-9254-fb561805e286"
+   },
    {
     "name": "TheGamingWall",
     "uuid": "0f688d5a-e8e7-4a9f-8042-2f3630d0d410"

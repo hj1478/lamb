@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
-  "name": "Dagestan",
-  "uuid": "8d97545b-b085-4853-9485-c6dbe1b1c92b",
+  "name": "BayHouse",
+  "uuid": "4f903265-d96f-4ba3-99da-2e92e3b431fe",
   "board": "/town set board [msg]",
-  "founder": "_Baer__",
+  "founder": "LostTrace",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Baer__",
-   "uuid": "addabc58-6cff-4dd2-bc0f-8486911e16f9"
+   "name": "LostTrace",
+   "uuid": "86b03d10-a0bf-41c8-80bc-f7df52f81056"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1777805103797,
-   "joinedNationAt": 1779470688054,
+   "registered": 1793313751381,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 18.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,52 +80,35 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17499.32567599739,
+    "x": 15903.94802697361,
     "y": 63.0,
-    "z": -7794.854323171553,
-    "pitch": 35.27354,
-    "yaw": 129.20453
+    "z": 16627.322744959198,
+    "pitch": 16.200087,
+    "yaw": -141.74274
    },
    "homeBlock": [
-    1093,
-    -488
+    993,
+    1039
    ],
    "townBlocks": [
     [
-     1093,
-     -488
+     994,
+     1039
     ],
     [
-     1093,
-     -487
-    ],
-    [
-     1093,
-     -489
-    ],
-    [
-     1094,
-     -488
+     993,
+     1039
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_Baer__",
-    "uuid": "addabc58-6cff-4dd2-bc0f-8486911e16f9"
+    "name": "LostTrace",
+    "uuid": "86b03d10-a0bf-41c8-80bc-f7df52f81056"
    }
   ],
-  "trusted": [
-   {
-    "name": "Finny_Lettuce",
-    "uuid": "1adfd1ad-d632-41f5-8e95-8280b8c6ef64"
-   },
-   {
-    "name": "FemboyKodiak",
-    "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

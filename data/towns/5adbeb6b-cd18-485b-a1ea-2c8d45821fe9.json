@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Hogwarts",
   "uuid": "5adbeb6b-cd18-485b-a1ea-2c8d45821fe9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 629,
-   "maxTownBlocks": 664,
+   "maxTownBlocks": 568,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 47,
+   "numResidents": 39,
    "numTrusted": 8,
    "numOutlaws": 5,
-   "balance": 1119.0,
+   "balance": 163.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2636,10 +2636,6 @@
     "uuid": "b6e9f4ea-5008-4423-ad2f-913fcff5745d"
    },
    {
-    "name": "Mehhlissa",
-    "uuid": "3d865d0f-36a6-4d2e-bece-8431b2fddbc4"
-   },
-   {
     "name": "_Willjum",
     "uuid": "c4e3d905-4058-41ee-bd0b-5159fde3475a"
    },
@@ -2652,44 +2648,12 @@
     "uuid": "b41954ce-26a6-4c36-8d61-58693ea6e4bf"
    },
    {
-    "name": "Rimojotj",
-    "uuid": "33686b76-3df5-4ea6-87d7-e8e4f13d9370"
-   },
-   {
     "name": "TriB4L",
     "uuid": "33986106-e16f-46c5-8737-4b6d238de5a6"
    },
    {
-    "name": "Prezmig",
-    "uuid": "02846a49-0c67-41e1-b991-32e7f1cd4b27"
-   },
-   {
-    "name": "gapipl",
-    "uuid": "b768551c-fcb9-44a6-af03-40fbd493bbae"
-   },
-   {
-    "name": "Barbar369",
-    "uuid": "13a6b1e7-a252-4615-9252-b5a7c1db11c1"
-   },
-   {
     "name": "LACUSISMANLY",
     "uuid": "3ccc6d2a-e8c8-4587-b373-b8dcd0b6381f"
-   },
-   {
-    "name": "tropic_crown0",
-    "uuid": "80ef4f1c-1b89-48a4-9cf4-db5f8e3235d7"
-   },
-   {
-    "name": "Gutterpossum07",
-    "uuid": "d45e45ea-0a62-4cdd-9f3a-16ad22f07fd1"
-   },
-   {
-    "name": "PizzaSuperSonic",
-    "uuid": "a8a6a0ec-11dc-4eec-b8b4-aafdb8546cc0"
-   },
-   {
-    "name": "DaenerysTargar",
-    "uuid": "20f5f972-7c6e-4d3b-b420-deca45e3db70"
    },
    {
     "name": "fentlacedkart",
@@ -2798,6 +2762,10 @@
    {
     "name": "joshlolook1",
     "uuid": "08f84f94-ce59-4810-b35b-a22489e90812"
+   },
+   {
+    "name": "lMayhem",
+    "uuid": "0c465b82-1fce-43a1-a0f8-8118e9adc186"
    }
   ],
   "trusted": [
@@ -2894,10 +2862,6 @@
     {
      "name": "ZupraMC",
      "uuid": "fc317a85-7958-40ae-9027-c4e5feba4d2c"
-    },
-    {
-     "name": "Mehhlissa",
-     "uuid": "3d865d0f-36a6-4d2e-bece-8431b2fddbc4"
     }
    ],
    "Police": [],
@@ -2908,27 +2872,15 @@
   },
   "warps": [
    {
-    "name": "mountain",
-    "uuid": "f708a31b-5127-4209-8409-7ca090fa3669",
-    "createdAt": 1789082533147,
+    "name": "shoprestock",
+    "uuid": "31676387-62cc-4ce3-82c1-e2856c321443",
+    "createdAt": 1792801773881,
     "createdBy": "ZupraMC",
     "access": "RESIDENT",
     "location": {
-     "x": 41803,
-     "y": 107,
-     "z": -11420
-    }
-   },
-   {
-    "name": "potionfarm",
-    "uuid": "d81641e6-0663-4116-87dc-3bbfbcbd43f2",
-    "createdAt": 1790725829666,
-    "createdBy": "ZupraMC",
-    "access": "RESIDENT",
-    "location": {
-     "x": 41888,
-     "y": 53,
-     "z": -10967
+     "x": 41882,
+     "y": 77,
+     "z": -11007
     }
    },
    {

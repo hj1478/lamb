@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-10-30T13:07:21Z",
+ "data": {
+  "name": "Westnew",
+  "uuid": "74843615-f4d4-4afc-943f-f21240f3ba03",
+  "board": "/town set board [msg]",
+  "founder": "Lillwester",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC8",
+   "uuid": "3d7f3486-cc61-2002-9031-2974b6f083e6"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793282423386,
+   "joinedNationAt": null,
+   "ruinedAt": 1793282481090
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 49647.332253932844,
+    "y": 63.875,
+    "z": 21399.606134945916,
+    "pitch": 87.35511,
+    "yaw": -138.27196
+   },
+   "homeBlock": [
+    3102,
+    1337
+   ],
+   "townBlocks": [
+    [
+     3102,
+     1337
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC8",
+    "uuid": "3d7f3486-cc61-2002-9031-2974b6f083e6"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

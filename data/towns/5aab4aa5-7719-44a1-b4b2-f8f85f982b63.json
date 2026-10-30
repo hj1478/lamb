@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Guilin",
   "uuid": "5aab4aa5-7719-44a1-b4b2-f8f85f982b63",
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 134,
+   "numTownBlocks": 136,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 5,
-   "numOutlaws": 10,
-   "balance": 138.0,
-   "forSalePrice": null
+   "numTrusted": 6,
+   "numOutlaws": 11,
+   "balance": 386.0,
+   "forSalePrice": 999999999.0
   },
   "perms": {
    "build": [
@@ -377,6 +377,10 @@
     ],
     [
      2474,
+     -86
+    ],
+    [
+     2474,
      -84
     ],
     [
@@ -482,6 +486,10 @@
     [
      2461,
      -82
+    ],
+    [
+     2475,
+     -86
     ],
     [
      2475,
@@ -650,6 +658,10 @@
     "uuid": "75c4975f-5f1b-4aad-958b-0fa5147a31ca"
    },
    {
+    "name": "Luzzzjing",
+    "uuid": "d35146e8-3ed4-4f9d-9177-482c46dc450f"
+   },
+   {
     "name": "Elysia_Official",
     "uuid": "0b6a200e-63f7-4b5a-8d14-e6fd1b1df824"
    },
@@ -668,7 +680,7 @@
     "uuid": "1983707b-bc77-49e9-8930-994c959d1e78"
    },
    {
-    "name": "89XD",
+    "name": "et6n",
     "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
    },
    {
@@ -702,6 +714,10 @@
    {
     "name": "Captain_Orin",
     "uuid": "9d707452-9934-460a-8ba5-db58fe79b542"
+   },
+   {
+    "name": "Curlley",
+    "uuid": "2dfc6f32-234f-4e4e-b21e-33d98195a35d"
    }
   ],
   "quarters": [

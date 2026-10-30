@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Nisibis",
   "uuid": "65b135db-a6c6-417e-b89c-cf2eb01efb5a",
@@ -12,37 +12,37 @@
    "uuid": "350e8fba-358e-472f-bc04-6f3d2287ac39"
   },
   "nation": {
-   "name": "Armenia",
-   "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
+   "name": "Georgia",
+   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
   },
   "timestamps": {
    "registered": 1787692546166,
-   "joinedNationAt": 1787692565548,
+   "joinedNationAt": 1792952925370,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 72,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 15.0,
+   "balance": 107.0,
    "forSalePrice": null
   },
   "perms": {
@@ -386,21 +386,26 @@
    {
     "name": "FailPrincess",
     "uuid": "350e8fba-358e-472f-bc04-6f3d2287ac39"
-   },
-   {
-    "name": "damix1451",
-    "uuid": "a4de2c95-60d9-4661-9010-a542eb479afd"
    }
   ],
-  "trusted": [],
-  "outlaws": [
+  "trusted": [
    {
-    "name": "GAMORTE",
-    "uuid": "d0163079-fafd-4018-90fc-bb5b978f5baf"
+    "name": "yarch1e",
+    "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
    },
+   {
+    "name": "borjanoob2012",
+    "uuid": "4e4047ae-f489-4bd9-9a1a-e35eaa47cc86"
+   }
+  ],
+  "outlaws": [
    {
     "name": "iluncy",
     "uuid": "ae809bbb-83b8-49ec-9366-3747d181c895"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
   "quarters": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Caceres",
   "uuid": "63cd4db3-f3bb-49df-a7e8-4975f1f7ff02",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Yamaakikun",
-   "uuid": "71031b7d-650b-48c3-b681-2a2639253cfb"
+   "name": "NPC40",
+   "uuid": "a4c1be14-19cb-20f8-8755-91ed545a4b6f"
   },
   "nation": {
-   "name": "Kingdom_Of_Spain",
-   "uuid": "ca8122c8-1009-480b-a29d-0a9dccb9f6c5"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778771554307,
-   "joinedNationAt": 1778771566657,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793354403604
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 110,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 6,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -536,8 +536,8 @@
   },
   "residents": [
    {
-    "name": "Yamaakikun",
-    "uuid": "71031b7d-650b-48c3-b681-2a2639253cfb"
+    "name": "NPC40",
+    "uuid": "a4c1be14-19cb-20f8-8755-91ed545a4b6f"
    }
   ],
   "trusted": [

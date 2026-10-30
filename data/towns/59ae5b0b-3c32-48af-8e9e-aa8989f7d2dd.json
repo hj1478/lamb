@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Como",
   "uuid": "59ae5b0b-3c32-48af-8e9e-aa8989f7d2dd",
@@ -12,12 +12,12 @@
    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791003776172,
-   "joinedNationAt": 1791910997922,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 44,
-   "maxTownBlocks": 292,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 16,
+   "nationBonus": 0,
+   "numResidents": 14,
    "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -316,24 +316,16 @@
     "uuid": "ed3b1029-7ce9-4615-9afe-db619ef286dd"
    },
    {
-    "name": "LeonJustLeon",
-    "uuid": "03ab27d9-8bc6-42c3-adb6-cfe92a550ee8"
-   },
-   {
     "name": "vitorbelesso",
     "uuid": "bb78cbbd-b928-4087-a441-d35d2fcb1e95"
-   },
-   {
-    "name": "itsZcraft",
-    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
    },
    {
     "name": "Charcoal1235",
     "uuid": "1675c32e-a5e1-40d3-a179-ef9b3d323cb6"
    },
    {
-    "name": "nurel14",
-    "uuid": "1624fd80-eb9d-4ca8-97d4-e52a720cf48b"
+    "name": "itsZcraft",
+    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
    }
   ],
   "trusted": [
@@ -350,7 +342,12 @@
     "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Baviera_III",
+    "uuid": "0733843f-4cbe-42d6-a820-5e84ef159e32"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

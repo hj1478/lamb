@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Istanbul_Park",
   "uuid": "673fb9a9-ba97-4302-89b5-383485ed6421",
   "board": "Home of the Istanbul Park Circuit",
   "founder": "32Piksel",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Istanbul_Park",
   "discord": null,
   "mayor": {
    "name": "10Piksel",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 5,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 52.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -494,8 +494,20 @@
     "uuid": "3aef3d29-f6a3-49e5-a2b6-b0bcbb3a428a"
    },
    {
+    "name": "Pak_Choy",
+    "uuid": "7786dff8-7d6b-475a-a409-10c32b85311a"
+   },
+   {
     "name": "PieTheHead",
     "uuid": "c2af6d17-68e5-41fe-bf2e-7f9e04cc3c72"
+   },
+   {
+    "name": "Duck5goQuack",
+    "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
+   },
+   {
+    "name": "memexcx",
+    "uuid": "6388c81e-b68c-4ebe-84a1-603a3b280ee8"
    }
   ],
   "outlaws": [],
@@ -503,6 +515,10 @@
    {
     "name": "F1 Pass",
     "uuid": "4e53e4d6-59cd-4399-9ef9-831c633369d2"
+   },
+   {
+    "name": "F1 Pit Spawn",
+    "uuid": "11c09e6b-6384-4601-b108-bcb0b4712215"
    }
   ],
   "ranks": {

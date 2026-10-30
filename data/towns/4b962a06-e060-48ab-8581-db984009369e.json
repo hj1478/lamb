@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Greenlands_Guild",
   "uuid": "4b962a06-e060-48ab-8581-db984009369e",
@@ -12,12 +12,12 @@
    "uuid": "d3bd1c51-5642-46b3-86bd-e396464c7819"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Avannaata",
+   "uuid": "5b513fbc-f812-4564-8d62-a3dd6bf00ac5"
   },
   "timestamps": {
    "registered": 1790053430193,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792920598004,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -50,25 +50,25 @@
     true,
     true,
     true,
-    true
+    false
    ],
    "destroy": [
+    false,
     true,
     true,
-    true,
-    true
+    false
    ],
    "switch": [
     true,
     true,
     true,
-    true
+    false
    ],
    "itemUse": [
     true,
     true,
     true,
-    true
+    false
    ],
    "flags": {
     "pvp": false,
@@ -92,6 +92,62 @@
    ],
    "townBlocks": [
     [
+     -888,
+     -1538
+    ],
+    [
+     -888,
+     -1537
+    ],
+    [
+     -890,
+     -1537
+    ],
+    [
+     -889,
+     -1536
+    ],
+    [
+     -888,
+     -1534
+    ],
+    [
+     -890,
+     -1536
+    ],
+    [
+     -889,
+     -1535
+    ],
+    [
+     -888,
+     -1536
+    ],
+    [
+     -888,
+     -1535
+    ],
+    [
+     -889,
+     -1538
+    ],
+    [
+     -889,
+     -1537
+    ],
+    [
+     -885,
+     -1537
+    ],
+    [
+     -885,
+     -1535
+    ],
+    [
+     -885,
+     -1536
+    ],
+    [
      -887,
      -1538
     ],
@@ -112,52 +168,12 @@
      -1535
     ],
     [
-     -888,
-     -1537
-    ],
-    [
-     -889,
-     -1536
-    ],
-    [
-     -888,
-     -1534
-    ],
-    [
-     -889,
-     -1535
-    ],
-    [
-     -888,
-     -1536
-    ],
-    [
-     -888,
-     -1535
-    ],
-    [
-     -889,
-     -1537
-    ],
-    [
      -886,
      -1534
     ],
     [
-     -885,
-     -1537
-    ],
-    [
      -886,
      -1535
-    ],
-    [
-     -885,
-     -1535
-    ],
-    [
-     -885,
-     -1536
     ],
     [
      -886,
@@ -186,10 +202,19 @@
    {
     "name": "duppan",
     "uuid": "be61dc4f-f657-4679-b691-e8a7b3f5251d"
+   },
+   {
+    "name": "AnomalyDecay",
+    "uuid": "a00fda73-f2a8-4e46-b73b-aa46ad297079"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "icedteaslurpee",
+    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
+   }
+  ],
   "quarters": [
    {
     "name": "Mainland Station",

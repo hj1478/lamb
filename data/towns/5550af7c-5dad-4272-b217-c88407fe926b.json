@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T11:48:08Z",
+ "fetched_at": "2026-10-30T13:07:21Z",
  "data": {
   "name": "Roaches",
   "uuid": "5550af7c-5dad-4272-b217-c88407fe926b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 99,
+   "numTownBlocks": 105,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 208.0,
+   "balance": 112.0,
    "forSalePrice": null
   },
   "perms": {
@@ -364,6 +364,10 @@
      -616
     ],
     [
+     211,
+     -620
+    ],
+    [
      207,
      -609
     ],
@@ -394,6 +398,10 @@
     [
      211,
      -618
+    ],
+    [
+     211,
+     -619
     ],
     [
      205,
@@ -444,8 +452,16 @@
      -622
     ],
     [
+     212,
+     -619
+    ],
+    [
      205,
      -621
+    ],
+    [
+     212,
+     -618
     ],
     [
      205,
@@ -466,6 +482,14 @@
     [
      212,
      -610
+    ],
+    [
+     212,
+     -617
+    ],
+    [
+     212,
+     -616
     ],
     [
      212,
@@ -503,7 +527,12 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Welcoming Flat",
+    "uuid": "4aa20b86-1738-4e75-af23-2d178085cb35"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
