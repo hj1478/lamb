@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Bikini_Bottom",
   "uuid": "7c871220-a334-47ea-a285-0dcb2ddc1407",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "coorslightyear",
-   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+   "name": "NPC81",
+   "uuid": "39a29096-93d2-20b6-8f1b-37d63926f11f"
   },
   "nation": {
-   "name": "Hawaii",
-   "uuid": "b1d72cb1-4935-4e54-98f8-767ad795f584"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793118780942,
-   "joinedNationAt": 1793119242092,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793311160662
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 99.0,
+   "numTrusted": 1,
+   "numOutlaws": 1,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,6 +92,42 @@
    ],
    "townBlocks": [
     [
+     -3686,
+     -34
+    ],
+    [
+     -3686,
+     -37
+    ],
+    [
+     -3684,
+     -36
+    ],
+    [
+     -3686,
+     -35
+    ],
+    [
+     -3684,
+     -35
+    ],
+    [
+     -3683,
+     -36
+    ],
+    [
+     -3686,
+     -36
+    ],
+    [
+     -3683,
+     -35
+    ],
+    [
+     -3685,
+     -37
+    ],
+    [
      -3685,
      -36
     ],
@@ -100,40 +136,30 @@
      -35
     ],
     [
-     -3684,
-     -36
-    ],
-    [
-     -3683,
-     -36
-    ],
-    [
-     -3684,
-     -35
-    ],
-    [
-     -3686,
-     -35
-    ],
-    [
-     -3686,
-     -36
-    ],
-    [
-     -3683,
-     -35
+     -3685,
+     -34
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "coorslightyear",
-    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+    "name": "NPC81",
+    "uuid": "39a29096-93d2-20b6-8f1b-37d63926f11f"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "shiopan229",
+    "uuid": "505184cd-1fa1-4fa2-ac95-797ea48d2d1d"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

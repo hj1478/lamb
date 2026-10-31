@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Uruk",
   "uuid": "85c97fa3-15a7-49c1-aecd-856372d288b3",
-  "board": "/town set board [msg]",
+  "board": "tuff tuff tuff sahur",
   "founder": "SWORDBREAKER633",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 42.0,
+   "nationBonus": 60,
+   "numResidents": 4,
+   "numTrusted": 5,
+   "numOutlaws": 1,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16550.468028023904,
-    "y": 63.0,
-    "z": -3575.4097292555352,
-    "pitch": 19.070414,
-    "yaw": -173.84369
+    "x": 16556.455456372674,
+    "y": 66.9375,
+    "z": -3579.3507481765496,
+    "pitch": 2.770554,
+    "yaw": 90.5655
    },
    "homeBlock": [
     1034,
     -224
    ],
    "townBlocks": [
+    [
+     1033,
+     -226
+    ],
     [
      1033,
      -225
@@ -100,8 +104,48 @@
      -224
     ],
     [
+     1033,
+     -223
+    ],
+    [
+     1034,
+     -225
+    ],
+    [
      1034,
      -224
+    ],
+    [
+     1034,
+     -223
+    ],
+    [
+     1035,
+     -224
+    ],
+    [
+     1035,
+     -225
+    ],
+    [
+     1031,
+     -224
+    ],
+    [
+     1032,
+     -225
+    ],
+    [
+     1032,
+     -224
+    ],
+    [
+     1032,
+     -226
+    ],
+    [
+     1032,
+     -223
     ]
    ],
    "worlds": {}
@@ -110,6 +154,18 @@
    {
     "name": "SWORDBREAKER633",
     "uuid": "3f67bb56-254c-405a-af4e-ad0fd6e550f3"
+   },
+   {
+    "name": "DaPlatypus24",
+    "uuid": "b1c8362a-d2a6-4439-9a42-f21639eb8afa"
+   },
+   {
+    "name": "Beee_Town13",
+    "uuid": "04e39b59-054b-4685-982a-bb68c7a7afda"
+   },
+   {
+    "name": "mr_bleppers",
+    "uuid": "9be987cf-c0bb-4613-9f93-66205264c69e"
    }
   ],
   "trusted": [
@@ -120,13 +176,44 @@
    {
     "name": "Andariyen",
     "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
+   },
+   {
+    "name": "DaPlatypus24",
+    "uuid": "b1c8362a-d2a6-4439-9a42-f21639eb8afa"
+   },
+   {
+    "name": "Beee_Town13",
+    "uuid": "04e39b59-054b-4685-982a-bb68c7a7afda"
+   },
+   {
+    "name": "Bee_Town13",
+    "uuid": "38f677f5-5ca5-42d3-8901-9273f3d55c4d"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Farmerinarmor",
+    "uuid": "779f0358-08de-4963-87d2-2bd5fdff95bd"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Beee_Town13",
+     "uuid": "04e39b59-054b-4685-982a-bb68c7a7afda"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "DaPlatypus24",
+     "uuid": "b1c8362a-d2a6-4439-9a42-f21639eb8afa"
+    },
+    {
+     "name": "mr_bleppers",
+     "uuid": "9be987cf-c0bb-4613-9f93-66205264c69e"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

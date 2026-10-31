@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Manzikert",
   "uuid": "7170345a-232a-4ae1-8d60-33228b4bcaea",
@@ -22,9 +22,9 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 138,
-   "maxTownBlocks": 176,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 8,
-   "numTrusted": 4,
-   "numOutlaws": 1,
-   "balance": 3.0,
+   "numTrusted": 6,
+   "numOutlaws": 2,
+   "balance": 926.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -690,6 +690,14 @@
     "uuid": "66875763-e47f-49cc-9273-eba7a2d0bf04"
    },
    {
+    "name": "Aklaplayz",
+    "uuid": "de9b8de2-ebab-48ef-9f42-cf02edda5f40"
+   },
+   {
+    "name": "XxKILLER_BTWxX",
+    "uuid": "189c1845-9545-42b2-8dfa-d6e2b1aac626"
+   },
+   {
     "name": "Agnesyatta",
     "uuid": "cd479be2-4cf0-4f44-8128-c7f68f899dab"
    },
@@ -700,8 +708,12 @@
   ],
   "outlaws": [
    {
-    "name": "Tldigi",
-    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
    }
   ],
   "quarters": [
@@ -710,12 +722,12 @@
     "uuid": "7510cbe3-c3ef-4812-8394-23b637667ddf"
    },
    {
-    "name": "Stylish Tenement",
-    "uuid": "9d98e55a-214f-412c-b21a-c72c0c9fd2be"
-   },
-   {
     "name": "Annoying Dwelling",
     "uuid": "865394dc-973e-4cc9-bb48-ad42189e8253"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "9d98e55a-214f-412c-b21a-c72c0c9fd2be"
    }
   ],
   "ranks": {

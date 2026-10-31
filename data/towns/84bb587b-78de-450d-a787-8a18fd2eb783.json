@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Monte_Carlo",
   "uuid": "84bb587b-78de-450d-a787-8a18fd2eb783",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 196,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 7,
    "numTrusted": 0,
-   "numOutlaws": 2,
+   "numOutlaws": 1,
    "balance": 88.0,
    "forSalePrice": null
   },
@@ -880,6 +880,10 @@
   },
   "residents": [
    {
+    "name": "Samisol",
+    "uuid": "ec827256-4c0e-4609-b0b2-4ef820d392fe"
+   },
+   {
     "name": "DinoGamer9346",
     "uuid": "6117a94e-ee2b-4d5f-b18e-18ac059d838d"
    },
@@ -902,22 +906,10 @@
    {
     "name": "Blo_1590_",
     "uuid": "fe2e310c-2fde-45e0-ab9f-146e741a5bb1"
-   },
-   {
-    "name": "Ooban_",
-    "uuid": "9cae3e5c-dd3e-45fd-8d66-706b253e4aea"
-   },
-   {
-    "name": "daringiscret",
-    "uuid": "b2ae91f9-ce0c-49ae-9578-399e38ebeb59"
    }
   ],
   "trusted": [],
   "outlaws": [
-   {
-    "name": "cosmobuzz",
-    "uuid": "059bafbc-6f7a-41ae-90e0-96587397656b"
-   },
    {
     "name": "NoahShan",
     "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"

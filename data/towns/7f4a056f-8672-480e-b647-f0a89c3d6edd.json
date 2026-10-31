@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Ossewa",
   "uuid": "7f4a056f-8672-480e-b647-f0a89c3d6edd",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 27,
    "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 8.0,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,24 @@
    ],
    "townBlocks": [
     [
-     409,
-     1233
+     413,
+     1235
     ],
     [
-     409,
+     413,
+     1236
+    ],
+    [
+     413,
      1234
+    ],
+    [
+     410,
+     1236
+    ],
+    [
+     410,
+     1235
     ],
     [
      410,
@@ -108,11 +120,63 @@
      1233
     ],
     [
-     409,
+     410,
      1232
     ],
     [
+     412,
+     1233
+    ],
+    [
+     411,
+     1237
+    ],
+    [
+     411,
+     1236
+    ],
+    [
+     412,
+     1236
+    ],
+    [
+     411,
+     1235
+    ],
+    [
+     412,
+     1235
+    ],
+    [
+     411,
+     1234
+    ],
+    [
+     412,
+     1234
+    ],
+    [
      410,
+     1237
+    ],
+    [
+     409,
+     1233
+    ],
+    [
+     409,
+     1234
+    ],
+    [
+     408,
+     1234
+    ],
+    [
+     408,
+     1235
+    ],
+    [
+     409,
      1232
     ],
     [
@@ -121,7 +185,19 @@
     ],
     [
      411,
-     1234
+     1232
+    ],
+    [
+     409,
+     1237
+    ],
+    [
+     409,
+     1235
+    ],
+    [
+     409,
+     1236
     ]
    ],
    "worlds": {}
@@ -133,7 +209,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

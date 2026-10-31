@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Little_Saint_J",
-  "uuid": "0d3ad09d-cfa7-4ae5-a124-91b33fb2e395",
+  "name": "Doula",
+  "uuid": "947a4767-b9fe-4689-9f66-263d05a20c5a",
   "board": "/town set board [msg]",
-  "founder": "CardBorad710",
+  "founder": "SirVonGhost",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC63",
-   "uuid": "4c9c6858-055e-20c2-8566-d20d7c40764d"
+   "name": "SirVonGhost",
+   "uuid": "2f0c14a6-037e-4bf8-8ed1-fa43cd8dbdd8"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1784597129200,
+   "registered": 1793445176460,
    "joinedNationAt": null,
-   "ruinedAt": 1793181601043
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,109 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28385.988627760897,
-    "y": 63.0,
-    "z": -231.57632776826097,
-    "pitch": 38.700146,
-    "yaw": 72.27765
+    "x": 10950.173440434839,
+    "y": 11.0,
+    "z": 10574.31179327482,
+    "pitch": 16.050066,
+    "yaw": 1.2470703
    },
    "homeBlock": [
-    -1775,
-    -15
+    684,
+    660
    ],
    "townBlocks": [
     [
-     -1773,
-     -15
-    ],
-    [
-     -1773,
-     -14
-    ],
-    [
-     -1775,
-     -13
-    ],
-    [
-     -1776,
-     -14
-    ],
-    [
-     -1775,
-     -15
-    ],
-    [
-     -1774,
-     -15
-    ],
-    [
-     -1775,
-     -14
-    ],
-    [
-     -1774,
-     -14
-    ],
-    [
-     -1774,
-     -13
-    ],
-    [
-     -1776,
-     -15
+     684,
+     660
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC63",
-    "uuid": "4c9c6858-055e-20c2-8566-d20d7c40764d"
+    "name": "SirVonGhost",
+    "uuid": "2f0c14a6-037e-4bf8-8ed1-fa43cd8dbdd8"
    }
   ],
   "trusted": [],

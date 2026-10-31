@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Luhansk",
   "uuid": "70ac076c-fba5-4c51-b218-d1659a58959b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ranger_Oro",
-   "uuid": "be6b896d-f6ee-4330-8e81-08a3593c398d"
+   "name": "Good_Ukrainian",
+   "uuid": "565b4885-65a1-4b37-a472-2e8dbc939d89"
   },
   "nation": {
    "name": "Soviet_Union",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 108,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 111,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 299.0,
+   "balance": 251.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     867,
+     -683
+    ],
+    [
      876,
      -683
     ],
@@ -305,6 +309,10 @@
     ],
     [
      880,
+     -684
+    ],
+    [
+     866,
      -684
     ],
     [
@@ -494,6 +502,10 @@
     [
      872,
      -684
+    ],
+    [
+     870,
+     -687
     ],
     [
      872,
@@ -530,6 +542,10 @@
    {
     "name": "Ranger_Oro",
     "uuid": "be6b896d-f6ee-4330-8e81-08a3593c398d"
+   },
+   {
+    "name": "Good_Ukrainian",
+    "uuid": "565b4885-65a1-4b37-a472-2e8dbc939d89"
    }
   ],
   "trusted": [],

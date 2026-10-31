@@ -1,41 +1,41 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Kelleys_Island",
-  "uuid": "f334fc68-481b-4779-a858-49ecfa2d3475",
-  "board": "I dont care if its not actually kellys bug off",
-  "founder": "Revzernia",
+  "name": "Kinngait",
+  "uuid": "91c76c11-32cd-40a1-90f3-932314e70d9b",
+  "board": "/town set board [msg]",
+  "founder": "AmethysttMC",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Revzernia",
-   "uuid": "9feb8745-cae3-4c34-b21b-e099747e421b"
+   "name": "code_tempesterss",
+   "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arctic_Isles",
+   "uuid": "d13fe63e-d51c-455e-b308-75e02a2570bb"
   },
   "timestamps": {
-   "registered": 1789515776941,
-   "joinedNationAt": null,
+   "registered": 1793379343783,
+   "joinedNationAt": 1793379372816,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
-   "hasNation": false,
+   "isForSale": true,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 7,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -43,7 +43,7 @@
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 40.0
   },
   "perms": {
    "build": [
@@ -80,28 +80,52 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29624.1266743734,
-    "y": 63.0,
-    "z": -7889.348914734789,
-    "pitch": 10.636029,
-    "yaw": 6.874237
+    "x": -30348.312002801653,
+    "y": 66.0,
+    "z": -29682.804772853586,
+    "pitch": 26.700014,
+    "yaw": -33.409668
    },
    "homeBlock": [
-    -1852,
-    -494
+    -1897,
+    -1856
    ],
    "townBlocks": [
     [
-     -1852,
-     -494
+     -1896,
+     -1855
+    ],
+    [
+     -1896,
+     -1856
+    ],
+    [
+     -1898,
+     -1856
+    ],
+    [
+     -1898,
+     -1855
+    ],
+    [
+     -1897,
+     -1855
+    ],
+    [
+     -1897,
+     -1856
+    ],
+    [
+     -1897,
+     -1857
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Revzernia",
-    "uuid": "9feb8745-cae3-4c34-b21b-e099747e421b"
+    "name": "code_tempesterss",
+    "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
    }
   ],
   "trusted": [],

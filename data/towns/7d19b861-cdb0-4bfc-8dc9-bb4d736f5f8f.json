@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Epirus",
   "uuid": "7d19b861-cdb0-4bfc-8dc9-bb4d736f5f8f",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 113,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 115,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -110,6 +110,10 @@
     [
      462,
      -447
+    ],
+    [
+     462,
+     -450
     ],
     [
      462,
@@ -542,6 +546,10 @@
     [
      463,
      -448
+    ],
+    [
+     463,
+     -450
     ]
    ],
    "worlds": {}
@@ -554,6 +562,14 @@
    {
     "name": "0carzy0",
     "uuid": "5129f584-b47e-4db0-a4ec-f7504d5a6caf"
+   },
+   {
+    "name": "Beefy",
+    "uuid": "1d4d6b2e-f510-4b03-bee9-c08acc9be8cd"
+   },
+   {
+    "name": "Cola2758",
+    "uuid": "7e747713-fcd6-4bda-b2d3-03ed1be530d1"
    }
   ],
   "trusted": [
@@ -562,7 +578,7 @@
     "uuid": "cbe1c828-73bc-4d20-83ea-86f5d3c238aa"
    },
    {
-    "name": "Uvud",
+    "name": "y_vd",
     "uuid": "40d505a0-4c28-4a52-80a5-b0a59e888a54"
    },
    {
@@ -571,7 +587,12 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Bland Suite",
+    "uuid": "ea078df3-1713-41e9-97c3-8faa15f4e287"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

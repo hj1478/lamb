@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Gokceada",
   "uuid": "73938326-5149-4298-ad91-5e522eebbb91",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -40,10 +40,10 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 5,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 10,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 1200.0
   },
   "perms": {
    "build": [
@@ -400,12 +400,7 @@
     "uuid": "ad6ae0f1-a522-4a39-9cce-db20de3e1902"
    }
   ],
-  "trusted": [
-   {
-    "name": "HasanHasa",
-    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "Japlo1505",

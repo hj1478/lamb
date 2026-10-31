@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Novus_Roselyn",
   "uuid": "76c1cf5c-dd4a-4cde-843f-4441e63b3e01",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 127,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 128,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 10.0,
+   "numOutlaws": 3,
+   "balance": 19.0,
    "forSalePrice": null
   },
   "perms": {
@@ -521,6 +521,10 @@
     ],
     [
      3067,
+     1314
+    ],
+    [
+     3067,
      1316
     ],
     [
@@ -618,6 +622,10 @@
    {
     "name": "IndigoCroissant",
     "uuid": "d5650c80-f356-44ca-8255-b686bdbae7f4"
+   },
+   {
+    "name": "panadajojo",
+    "uuid": "1fc5c8b4-485c-4694-ba27-03871028bc5a"
    }
   ],
   "trusted": [
@@ -632,6 +640,10 @@
   ],
   "outlaws": [
    {
+    "name": "Bigboi_Chungus",
+    "uuid": "fe671eb7-c451-4d18-baed-693ae9b379a8"
+   },
+   {
     "name": "akabur",
     "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
    },
@@ -642,7 +654,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "panadajojo",
+     "uuid": "1fc5c8b4-485c-4694-ba27-03871028bc5a"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

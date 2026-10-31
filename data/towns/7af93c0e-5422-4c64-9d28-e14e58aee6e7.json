@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Lafayette",
   "uuid": "7af93c0e-5422-4c64-9d28-e14e58aee6e7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 80,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 21.0,
+   "balance": 40.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,14 +92,6 @@
    ],
    "townBlocks": [
     [
-     -2062,
-     -208
-    ],
-    [
-     -2062,
-     -207
-    ],
-    [
      -2063,
      -205
     ],
@@ -108,20 +100,44 @@
      -206
     ],
     [
-     -2064,
-     -206
+     -2063,
+     -209
     ],
     [
      -2063,
-     -207
-    ],
-    [
-     -2064,
      -207
     ],
     [
      -2063,
      -208
+    ],
+    [
+     -2062,
+     -209
+    ],
+    [
+     -2062,
+     -208
+    ],
+    [
+     -2062,
+     -207
+    ],
+    [
+     -2064,
+     -205
+    ],
+    [
+     -2064,
+     -206
+    ],
+    [
+     -2064,
+     -207
+    ],
+    [
+     -2065,
+     -206
     ],
     [
      -2064,
@@ -146,9 +162,18 @@
    {
     "name": "TheReplayLied",
     "uuid": "146560ef-2b7e-4b4a-8ae7-73282d54316a"
+   },
+   {
+    "name": "v2TeeJay",
+    "uuid": "5b0bad49-ac15-4a21-a242-6d7864fe7d1f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "v2TeeJay",
+    "uuid": "5b0bad49-ac15-4a21-a242-6d7864fe7d1f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

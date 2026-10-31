@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "TERRANOVA",
   "uuid": "7c3e5fd1-ca21-4388-a755-79caf02e6951",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Parkerthemad",
-   "uuid": "f1c8cc3c-9a1e-4e33-8cad-75e707cdad19"
+   "name": "NPC82",
+   "uuid": "e38db4df-92a7-209c-b0c1-41644247cb84"
   },
   "nation": {
-   "name": "Zion",
-   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780973247489,
-   "joinedNationAt": 1785116932048,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793312545467
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 4,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -496,12 +496,8 @@
   },
   "residents": [
    {
-    "name": "Parkerthemad",
-    "uuid": "f1c8cc3c-9a1e-4e33-8cad-75e707cdad19"
-   },
-   {
-    "name": "jer_warrior",
-    "uuid": "e272bf3a-3ae9-4f3b-8090-be303a60bcb4"
+    "name": "NPC82",
+    "uuid": "e38db4df-92a7-209c-b0c1-41644247cb84"
    }
   ],
   "trusted": [
@@ -512,6 +508,10 @@
    {
     "name": "_WeirdGuy",
     "uuid": "81a4352b-6651-4b5f-a43d-563d9227987e"
+   },
+   {
+    "name": "Gustaf_MJR",
+    "uuid": "906007d8-1ece-4bc5-a81b-4221b689abf8"
    },
    {
     "name": "redshroomy",

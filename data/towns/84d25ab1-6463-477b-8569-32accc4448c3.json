@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Ayon",
   "uuid": "84d25ab1-6463-477b-8569-32accc4448c3",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": true
   },
   "stats": {
-   "numTownBlocks": 414,
-   "maxTownBlocks": 530,
+   "numTownBlocks": 429,
+   "maxTownBlocks": 506,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 40,
+   "numResidents": 38,
    "numTrusted": 5,
    "numOutlaws": 11,
-   "balance": 55.0,
+   "balance": 315.0,
    "forSalePrice": null
   },
   "perms": {
@@ -372,6 +372,10 @@
      -1391
     ],
     [
+     3757,
+     -1392
+    ],
+    [
      3788,
      -1394
     ],
@@ -382,6 +386,10 @@
     [
      3788,
      -1396
+    ],
+    [
+     3757,
+     -1391
     ],
     [
      3788,
@@ -472,8 +480,16 @@
      -1394
     ],
     [
+     3760,
+     -1390
+    ],
+    [
      3782,
      -1388
+    ],
+    [
+     3760,
+     -1389
     ],
     [
      3782,
@@ -514,6 +530,14 @@
     [
      3760,
      -1393
+    ],
+    [
+     3760,
+     -1392
+    ],
+    [
+     3760,
+     -1391
     ],
     [
      3785,
@@ -728,6 +752,26 @@
      -1392
     ],
     [
+     3758,
+     -1392
+    ],
+    [
+     3758,
+     -1393
+    ],
+    [
+     3758,
+     -1389
+    ],
+    [
+     3758,
+     -1390
+    ],
+    [
+     3758,
+     -1391
+    ],
+    [
      3775,
      -1399
     ],
@@ -856,6 +900,14 @@
      -1394
     ],
     [
+     3759,
+     -1391
+    ],
+    [
+     3759,
+     -1392
+    ],
+    [
      3780,
      -1388
     ],
@@ -876,8 +928,16 @@
      -1385
     ],
     [
+     3759,
+     -1389
+    ],
+    [
      3769,
      -1391
+    ],
+    [
+     3759,
+     -1390
     ],
     [
      3769,
@@ -1801,18 +1861,6 @@
     "uuid": "f399cee2-c045-4577-9401-46acf3f4fa75"
    },
    {
-    "name": "Cooljazper2",
-    "uuid": "5345317b-f078-400b-ad50-aeede1a0f328"
-   },
-   {
-    "name": "nelogik",
-    "uuid": "a561227c-242b-40a8-93f0-dcb75b46a491"
-   },
-   {
-    "name": "slic3rr",
-    "uuid": "c37a5ffd-25e8-453b-a7e1-7d9a79d2268f"
-   },
-   {
     "name": "JewBots",
     "uuid": "60d6ef2f-0e32-406c-91f3-d49e1a54446c"
    },
@@ -1915,6 +1963,10 @@
    {
     "name": "Memerman992",
     "uuid": "307087b7-73a9-4199-a812-c4b95c9077a5"
+   },
+   {
+    "name": "DIRECT_JELLY",
+    "uuid": "6a85d381-6085-42b3-9d30-9af8e607eb46"
    }
   ],
   "trusted": [
@@ -1945,6 +1997,10 @@
     "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
    },
    {
+    "name": "GetBetterPeasant",
+    "uuid": "6ee1d6cf-26d3-4b3c-9368-4f144d4514f2"
+   },
+   {
     "name": "Phann33",
     "uuid": "77f276fa-248b-4f7a-86e2-0abe81cd4e92"
    },
@@ -1965,16 +2021,12 @@
     "uuid": "013b54b8-ad9e-4401-9dea-89ad1555dbc6"
    },
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
     "name": "xMert_",
     "uuid": "51e50385-e71c-40a2-a9b5-ed9232052681"
-   },
-   {
-    "name": "Intelligenz",
-    "uuid": "e26da781-b8cf-4acc-8084-dcaeb691dc03"
    },
    {
     "name": "AtillaKagan",
@@ -1986,10 +2038,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Enraging Apartment",
-    "uuid": "d662b560-0192-4a66-a0b7-e661410a68c7"
-   },
    {
     "name": "Dull Apartment",
     "uuid": "5480e7a5-cef4-4dbe-80f8-029f36156a13"
@@ -2249,6 +2297,10 @@
    {
     "name": "Cheerful Property",
     "uuid": "d18698bc-196e-4fc7-aa7d-b7fade8ab2ae"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "d662b560-0192-4a66-a0b7-e661410a68c7"
    }
   ],
   "ranks": {

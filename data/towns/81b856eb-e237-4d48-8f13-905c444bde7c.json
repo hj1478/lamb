@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "New_Castlonia",
-  "uuid": "ef28a839-0934-4e14-b21d-fb27c57beefb",
-  "board": "Castlonia is now New. Land of the North.",
-  "founder": "Nah_Jaron",
+  "name": "Fluntegoris",
+  "uuid": "81b856eb-e237-4d48-8f13-905c444bde7c",
+  "board": "/town set board [msg]",
+  "founder": "Mister_Banana7",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Nah_Jaron",
-   "uuid": "4a600e76-7f78-45c8-ab1b-0bd0563c905d"
+   "name": "Mister_Banana7",
+   "uuid": "96bd5c47-7288-4d42-89b7-04f81c3668d7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "James_Bay",
+   "uuid": "6f88443b-e6cd-4c12-9757-c4696eca231d"
   },
   "timestamps": {
-   "registered": 1788635850204,
-   "joinedNationAt": null,
+   "registered": 1793397045376,
+   "joinedNationAt": 1793397075923,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 38.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,60 +80,36 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34407.69999998808,
-    "y": 65.0,
-    "z": -18729.634331290014,
-    "pitch": 52.608845,
-    "yaw": -20.196655
+    "x": -25658.59125900689,
+    "y": 86.0,
+    "z": -12532.804131509136,
+    "pitch": 26.131245,
+    "yaw": -137.76376
    },
    "homeBlock": [
-    -2151,
-    -1171
+    -1604,
+    -784
    ],
    "townBlocks": [
     [
-     -2150,
-     -1170
+     -1604,
+     -784
     ],
     [
-     -2150,
-     -1172
+     -1603,
+     -784
     ],
     [
-     -2150,
-     -1171
-    ],
-    [
-     -2152,
-     -1172
-    ],
-    [
-     -2151,
-     -1172
-    ],
-    [
-     -2151,
-     -1171
-    ],
-    [
-     -2152,
-     -1170
-    ],
-    [
-     -2151,
-     -1170
-    ],
-    [
-     -2152,
-     -1171
+     -1604,
+     -785
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Nah_Jaron",
-    "uuid": "4a600e76-7f78-45c8-ab1b-0bd0563c905d"
+    "name": "Mister_Banana7",
+    "uuid": "96bd5c47-7288-4d42-89b7-04f81c3668d7"
    }
   ],
   "trusted": [],

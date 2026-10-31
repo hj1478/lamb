@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Adalbert_Abbey",
   "uuid": "71460912-7fdd-49cb-bb00-42c2ede067d6",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Moaterowy",
-   "uuid": "7d3b9748-d128-4e77-8d63-655b341c2abd"
+   "name": "schring",
+   "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
   },
   "nation": {
    "name": "Papal_States",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 159,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 128,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 7,
+   "numResidents": 4,
+   "numTrusted": 11,
    "numOutlaws": 0,
-   "balance": 71.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,14 +96,6 @@
      -561
     ],
     [
-     238,
-     -566
-    ],
-    [
-     238,
-     -565
-    ],
-    [
      225,
      -565
     ],
@@ -176,23 +168,11 @@
      -568
     ],
     [
-     236,
-     -568
-    ],
-    [
      225,
      -567
     ],
     [
-     236,
-     -567
-    ],
-    [
      225,
-     -566
-    ],
-    [
-     236,
      -566
     ],
     [
@@ -240,32 +220,16 @@
      -558
     ],
     [
-     236,
-     -565
-    ],
-    [
      235,
      -557
-    ],
-    [
-     236,
-     -564
     ],
     [
      235,
      -556
     ],
     [
-     236,
-     -563
-    ],
-    [
      235,
      -555
-    ],
-    [
-     236,
-     -562
     ],
     [
      235,
@@ -312,10 +276,6 @@
      -569
     ],
     [
-     233,
-     -570
-    ],
-    [
      226,
      -570
     ],
@@ -332,52 +292,8 @@
      -569
     ],
     [
-     235,
-     -570
-    ],
-    [
      232,
      -568
-    ],
-    [
-     235,
-     -569
-    ],
-    [
-     233,
-     -568
-    ],
-    [
-     235,
-     -568
-    ],
-    [
-     232,
-     -570
-    ],
-    [
-     233,
-     -569
-    ],
-    [
-     235,
-     -567
-    ],
-    [
-     235,
-     -566
-    ],
-    [
-     235,
-     -565
-    ],
-    [
-     235,
-     -564
-    ],
-    [
-     235,
-     -563
     ],
     [
      232,
@@ -536,32 +452,16 @@
      -560
     ],
     [
-     234,
-     -569
-    ],
-    [
      231,
      -554
-    ],
-    [
-     234,
-     -570
     ],
     [
      231,
      -555
     ],
     [
-     234,
-     -567
-    ],
-    [
      231,
      -556
-    ],
-    [
-     234,
-     -568
     ],
     [
      231,
@@ -578,10 +478,6 @@
     [
      234,
      -553
-    ],
-    [
-     231,
-     -570
     ],
     [
      234,
@@ -689,10 +585,6 @@
     ],
     [
      237,
-     -563
-    ],
-    [
-     237,
      -560
     ],
     [
@@ -704,28 +596,12 @@
      -561
     ],
     [
-     237,
-     -566
-    ],
-    [
-     237,
-     -567
-    ],
-    [
      224,
      -563
     ],
     [
-     237,
-     -564
-    ],
-    [
      224,
      -562
-    ],
-    [
-     237,
-     -565
     ]
    ],
    "worlds": {}
@@ -742,17 +618,13 @@
    {
     "name": "Lickpl",
     "uuid": "1a0bd21b-445f-4bb0-b23c-741d265dddde"
+   },
+   {
+    "name": "schring",
+    "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
    }
   ],
   "trusted": [
-   {
-    "name": "x_omega_",
-    "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
-   },
-   {
-    "name": "salmonmaciek",
-    "uuid": "47bd2ab9-d0fc-4a13-b4a2-8a62972fead7"
-   },
    {
     "name": "Sazinom",
     "uuid": "a2c92a3b-aaad-4afa-8053-3f678e326780"
@@ -762,16 +634,40 @@
     "uuid": "891d5199-aec9-45ab-a813-7e50d8c0a4e6"
    },
    {
-    "name": "TheBestKrzysiek",
-    "uuid": "c62c3f2c-e355-4bd6-b888-02a9c56fd897"
-   },
-   {
     "name": "schring",
     "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
    },
    {
+    "name": "Ghiro03",
+    "uuid": "4368de29-9817-41b4-a51b-1a86dabd64ec"
+   },
+   {
+    "name": "x_omega_",
+    "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
+   },
+   {
+    "name": "salmonmaciek",
+    "uuid": "47bd2ab9-d0fc-4a13-b4a2-8a62972fead7"
+   },
+   {
+    "name": "Moaterowy",
+    "uuid": "7d3b9748-d128-4e77-8d63-655b341c2abd"
+   },
+   {
+    "name": "Arcanum_Maximum",
+    "uuid": "57afba5b-98a6-41be-b115-ba0f5fb9a079"
+   },
+   {
+    "name": "TheBestKrzysiek",
+    "uuid": "c62c3f2c-e355-4bd6-b888-02a9c56fd897"
+   },
+   {
     "name": "Lickpl",
     "uuid": "1a0bd21b-445f-4bb0-b23c-741d265dddde"
+   },
+   {
+    "name": "Lazyfan_",
+    "uuid": "25a9bc43-0cdf-4bf5-9119-0e563e945dc4"
    }
   ],
   "outlaws": [],

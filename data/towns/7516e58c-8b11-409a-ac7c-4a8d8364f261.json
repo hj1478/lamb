@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "West_Berlin",
   "uuid": "7516e58c-8b11-409a-ac7c-4a8d8364f261",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1781078566450,
-   "joinedNationAt": 1792397889733,
+   "joinedNationAt": 1793181967960,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 24,
    "numTrusted": 7,
-   "numOutlaws": 7,
-   "balance": 25.0,
+   "numOutlaws": 6,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -764,12 +764,12 @@
   },
   "residents": [
    {
-    "name": "Connor201452",
-    "uuid": "58148bbb-8cde-4c21-b7c2-eb0ff469537d"
+    "name": "crinnyosnova",
+    "uuid": "f490b38c-275f-4197-b9b4-5f9fa2230080"
    },
    {
-    "name": "twi0691",
-    "uuid": "d1988381-51f2-4f91-ac96-d68a025e7ec3"
+    "name": "Connor201452",
+    "uuid": "58148bbb-8cde-4c21-b7c2-eb0ff469537d"
    },
    {
     "name": "Plugner",
@@ -848,16 +848,16 @@
     "uuid": "eef7b565-a508-4d4a-b286-8bf1bf9624fb"
    },
    {
-    "name": "Popos6969",
-    "uuid": "1509f6be-c1f9-46e5-a668-0558aea24885"
-   },
-   {
     "name": "Artemplays",
     "uuid": "2c03e2e1-3a77-4514-9741-da0f625bf067"
    },
    {
     "name": "godzill412233",
     "uuid": "5a3d3ed8-089d-4397-960c-d5677234eef1"
+   },
+   {
+    "name": "DinoAstronaut10",
+    "uuid": "7786bf26-e1fc-46c1-a122-fec3ecf1eb11"
    }
   ],
   "trusted": [
@@ -894,10 +894,6 @@
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
-   },
-   {
-    "name": "BLIZZARDCYCLONE",
-    "uuid": "c82f327c-43de-48b6-bce1-4984bd91b770"
    },
    {
     "name": "DisasterRoyal346",
@@ -1087,7 +1083,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Enki_Ptah",
+     "uuid": "eef7b565-a508-4d4a-b286-8bf1bf9624fb"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Kabul",
   "uuid": "8f0ec2f3-18ba-4756-8de5-085ee199a783",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 381,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 2,
    "numTrusted": 25,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -1620,34 +1620,18 @@
   },
   "residents": [
    {
-    "name": "Zvietcong",
-    "uuid": "a3610fa8-07ca-4132-8e98-f93b8292d27c"
-   },
-   {
-    "name": "Jimmyse",
-    "uuid": "db6c2868-173a-48fd-b20c-68c70e52dd47"
+    "name": "badnameidea",
+    "uuid": "6f2f247d-9c3d-4cf1-a8ce-afd8b4b0d620"
    },
    {
     "name": "UnCry",
     "uuid": "e3cc89ff-135b-404c-bc17-a7e989eb26d1"
-   },
-   {
-    "name": "saffy_khan",
-    "uuid": "d520be14-67d3-4a44-b50e-8d4553ab5e19"
-   },
-   {
-    "name": "cute_st",
-    "uuid": "fe6a9144-9784-4a6d-a4b1-60ec2c3c30ac"
    }
   ],
   "trusted": [
    {
     "name": "_Takeeh",
     "uuid": "a56a393f-c083-416d-95d8-aad29ed2ae62"
-   },
-   {
-    "name": "SlickVK",
-    "uuid": "cd70c9ee-db32-4038-91af-742abd4cdb9e"
    },
    {
     "name": "Jooey83",
@@ -1690,6 +1674,10 @@
     "uuid": "4cbf893c-9c21-4d6c-b835-6cea8f59185e"
    },
    {
+    "name": "badnameidea",
+    "uuid": "6f2f247d-9c3d-4cf1-a8ce-afd8b4b0d620"
+   },
+   {
     "name": "johnzinnnn",
     "uuid": "6baff41d-2d79-4060-900a-cd4af756b7e4"
    },
@@ -1698,12 +1686,12 @@
     "uuid": "d1b6fb21-85a4-49c0-92f6-a037b2c6eb6f"
    },
    {
-    "name": "911saph",
-    "uuid": "7f88a905-efad-4074-9ff1-6dabe5e9fafb"
-   },
-   {
     "name": "Jepen",
     "uuid": "5d01467c-21ac-4acc-96a5-0cc06664a27c"
+   },
+   {
+    "name": "UnCry",
+    "uuid": "e3cc89ff-135b-404c-bc17-a7e989eb26d1"
    },
    {
     "name": "alolaninetales",
@@ -1744,7 +1732,7 @@
   ],
   "outlaws": [
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
@@ -1902,26 +1890,6 @@
     "uuid": "8b46ba82-b18a-482f-9658-4abb4e566145"
    },
    {
-    "name": "Stylish Tenement",
-    "uuid": "fd6968ee-8a3d-4276-abe8-4c788565b17d"
-   },
-   {
-    "name": "Luxurious Flat",
-    "uuid": "078d3a6c-89aa-4c54-b60a-6c9ee51453c9"
-   },
-   {
-    "name": "Upbeat Tenement",
-    "uuid": "c34883c7-c77b-45ca-9a3a-7cf58eda19e4"
-   },
-   {
-    "name": "Cheerful Suite",
-    "uuid": "c20755d2-d718-4379-8b39-0585d64c15e7"
-   },
-   {
-    "name": "Gloomy Quarter",
-    "uuid": "d1c432e4-59bc-4eaf-8baf-abcf6c054114"
-   },
-   {
     "name": "Elegant Property",
     "uuid": "160cb90a-2b6d-419a-a772-5e18318e519c"
    },
@@ -1944,10 +1912,35 @@
    {
     "name": "Inviting Quarter",
     "uuid": "4d471f7a-6d98-4b77-9593-8e4efa40e3c7"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "fd6968ee-8a3d-4276-abe8-4c788565b17d"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "c34883c7-c77b-45ca-9a3a-7cf58eda19e4"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "d1c432e4-59bc-4eaf-8baf-abcf6c054114"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "c20755d2-d718-4379-8b39-0585d64c15e7"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "078d3a6c-89aa-4c54-b60a-6c9ee51453c9"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "badnameidea",
+     "uuid": "6f2f247d-9c3d-4cf1-a8ce-afd8b4b0d620"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Terrarch",
   "uuid": "8d0cedf2-840d-4a65-91b7-9a96cf510648",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 5,
-   "numOutlaws": 12,
+   "numResidents": 3,
+   "numTrusted": 4,
+   "numOutlaws": 8,
    "balance": 70.0,
    "forSalePrice": null
   },
@@ -687,32 +687,12 @@
    {
     "name": "H4kiro",
     "uuid": "f342d7f2-7d0b-43be-a5a9-1d77a8239481"
-   },
-   {
-    "name": "MatrecoseQueijo",
-    "uuid": "eec97d65-905e-4bd4-b511-024eb193d42c"
-   },
-   {
-    "name": "Zqben",
-    "uuid": "b7654f2b-7000-4944-98e1-d4bc8bb67699"
-   },
-   {
-    "name": "ILuvIsaacClarke",
-    "uuid": "218545f7-8a53-4af2-8546-b226d5a15116"
-   },
-   {
-    "name": "crow1326",
-    "uuid": "12c818b8-a1e4-48d0-9bd2-987b20a12abd"
    }
   ],
   "trusted": [
    {
-    "name": "crow1326",
+    "name": "Zqvole",
     "uuid": "12c818b8-a1e4-48d0-9bd2-987b20a12abd"
-   },
-   {
-    "name": "ILuvIsaacClarke",
-    "uuid": "218545f7-8a53-4af2-8546-b226d5a15116"
    },
    {
     "name": "Zqben",
@@ -729,6 +709,10 @@
   ],
   "outlaws": [
    {
+    "name": "TheRealGhost__",
+    "uuid": "98e15448-109e-45aa-8d84-59a4b024139a"
+   },
+   {
     "name": "xEternalEclipse",
     "uuid": "117e16c1-5bc4-46e7-a142-4da8b30b912f"
    },
@@ -737,20 +721,8 @@
     "uuid": "b1a362d4-349c-4d77-a370-4873fb83519f"
    },
    {
-    "name": "Marrowed",
-    "uuid": "c119bb89-f5bf-4385-ae0c-0e68332dc543"
-   },
-   {
-    "name": "FemboyCake",
-    "uuid": "270161e8-39c5-434a-90c6-dc49f003674d"
-   },
-   {
     "name": "Martin9095",
     "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
-   },
-   {
-    "name": "Nullified_Voided",
-    "uuid": "a08e4f0e-5711-4a00-9cd7-8f0e495a4964"
    },
    {
     "name": "SubToAkio",
@@ -761,20 +733,12 @@
     "uuid": "faade5fe-0020-4c75-baec-db14305bcfa4"
    },
    {
-    "name": "Calico_Tails",
-    "uuid": "2301e60a-f602-41b2-b88e-944dc66b1744"
-   },
-   {
     "name": "lowtier3qd",
     "uuid": "315dc992-5297-4fba-a8d8-2626da16f105"
    },
    {
     "name": "ShebaIsInsane",
     "uuid": "f4a979a3-3c38-4fc7-b7ba-a5711b916afd"
-   },
-   {
-    "name": "ChariBri",
-    "uuid": "5c7e5677-e364-40b3-81b1-1e031ee9b305"
    }
   ],
   "quarters": [
@@ -944,12 +908,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "ILuvIsaacClarke",
-     "uuid": "218545f7-8a53-4af2-8546-b226d5a15116"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Prideville",
-  "uuid": "740c6836-e14d-4b4f-ac98-2aa35d60034d",
-  "board": "this is a WAR town",
-  "founder": "nahember",
+  "name": "Luxor",
+  "uuid": "6043c6c3-3435-4857-8394-5a7352625f1c",
+  "board": "/town set board [msg]",
+  "founder": "CodeKadry321",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "et_hereal",
-   "uuid": "187a6fe8-0269-4b48-9234-89c655477d38"
+   "name": "CodeKadry321",
+   "uuid": "fede4bcf-8753-461e-80d9-fd3f8ce78230"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": "Egypt",
+   "uuid": "157d7ef7-13db-46db-b20d-00cfd0b01155"
   },
   "timestamps": {
-   "registered": 1792120447827,
-   "joinedNationAt": 1792238112248,
+   "registered": 1793445004046,
+   "joinedNationAt": 1793445783082,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 5,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,84 +80,39 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3332.0433341596495,
-    "y": 203.0,
-    "z": -11938.126595870748,
-    "pitch": 49.404438,
-    "yaw": -1.1091309
+    "x": 11303.313156611359,
+    "y": 63.0,
+    "z": -1686.237432730432,
+    "pitch": 4.3499393,
+    "yaw": 60.529297
    },
    "homeBlock": [
-    208,
-    -747
+    706,
+    -106
    ],
    "townBlocks": [
     [
-     209,
-     -746
+     706,
+     -107
     ],
     [
-     209,
-     -747
+     707,
+     -107
     ],
     [
-     209,
-     -748
-    ],
-    [
-     208,
-     -747
-    ],
-    [
-     210,
-     -747
-    ],
-    [
-     208,
-     -746
-    ],
-    [
-     210,
-     -748
-    ],
-    [
-     210,
-     -746
-    ],
-    [
-     211,
-     -747
+     706,
+     -106
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "et_hereal",
-    "uuid": "187a6fe8-0269-4b48-9234-89c655477d38"
+    "name": "CodeKadry321",
+    "uuid": "fede4bcf-8753-461e-80d9-fd3f8ce78230"
    }
   ],
-  "trusted": [
-   {
-    "name": "nahember",
-    "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
-   },
-   {
-    "name": "SlipperySalmon14",
-    "uuid": "f52739e0-bcbf-4376-b280-029af790bab3"
-   },
-   {
-    "name": "Panth_r",
-    "uuid": "7708bb6d-50ae-4e98-827f-e332a43ab4f9"
-   },
-   {
-    "name": "12BarBruise",
-    "uuid": "e17c3b1d-1c20-41ec-928a-6f7f375c42f9"
-   },
-   {
-    "name": "Dishonesty",
-    "uuid": "bd313b6f-ff4a-440e-affa-ffe9c5706346"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

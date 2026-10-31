@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Suomi",
-  "uuid": "33c3674c-fe13-4823-988a-33708ab63fbf",
-  "board": "leather",
-  "founder": "Erikpromaster",
+  "name": "Piestany",
+  "uuid": "26a44854-2eb3-4e71-a539-d68e5ca350e2",
+  "board": "/town set board [msg]",
+  "founder": "Veltrixik_YT",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC58",
-   "uuid": "3eab8870-742b-2030-a05b-0837da160f8a"
+   "name": "Veltrixik_YT",
+   "uuid": "7cbf8782-d73a-4772-8ac6-d791e6e8f62e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Ukraine",
+   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
   },
   "timestamps": {
-   "registered": 1788541875775,
-   "joinedNationAt": null,
-   "ruinedAt": 1793181600510
+   "registered": 1793447752644,
+   "joinedNationAt": 1793448590839,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7738.8162828240775,
-    "y": 64.0625,
-    "z": -17284.551107496616,
-    "pitch": 2.2500706,
-    "yaw": 102.84667
+    "x": 6121.25327681225,
+    "y": 62.0,
+    "z": -10579.69230519437,
+    "pitch": 30.492579,
+    "yaw": -96.59448
    },
    "homeBlock": [
-    483,
-    -1081
+    382,
+    -662
    ],
    "townBlocks": [
     [
-     483,
-     -1081
+     382,
+     -662
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC58",
-    "uuid": "3eab8870-742b-2030-a05b-0837da160f8a"
+    "name": "Veltrixik_YT",
+    "uuid": "7cbf8782-d73a-4772-8ac6-d791e6e8f62e"
    }
   ],
   "trusted": [],

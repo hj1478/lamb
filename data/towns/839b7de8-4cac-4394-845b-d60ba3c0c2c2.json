@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Mississippi",
   "uuid": "839b7de8-4cac-4394-845b-d60ba3c0c2c2",
-  "board": "Live Free or Die",
+  "board": "allah mississippi poopgaming",
   "founder": "poopgaming88",
   "wiki": null,
   "discord": null,
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1789961068244,
-   "joinedNationAt": 1792810624068,
+   "joinedNationAt": 1792881142733,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 87,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 90,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -440,6 +440,18 @@
     "earthmc:moon": {
      "townblocks": [
       [
+       -33,
+       -289
+      ],
+      [
+       -32,
+       -289
+      ],
+      [
+       -33,
+       -290
+      ],
+      [
        -32,
        -290
       ]
@@ -459,7 +471,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "d7a80d07-264c-437f-a8a3-20d3c07abbc4"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

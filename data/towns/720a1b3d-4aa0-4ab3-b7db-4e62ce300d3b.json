@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Adrianople",
   "uuid": "720a1b3d-4aa0-4ab3-b7db-4e62ce300d3b",
-  "board": "the capital of thrace",
+  "board": "home of the greeko-bulgars",
   "founder": "Japlo1505",
   "wiki": null,
   "discord": null,
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792812388830,
-   "joinedNationAt": 1792812396285,
+   "joinedNationAt": 1793395763234,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 21,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,11 +92,11 @@
    ],
    "townBlocks": [
     [
-     579,
+     577,
      -503
     ],
     [
-     577,
+     579,
      -503
     ],
     [
@@ -105,6 +105,10 @@
     ],
     [
      579,
+     -504
+    ],
+    [
+     577,
      -504
     ],
     [
@@ -121,7 +125,7 @@
     ],
     [
      580,
-     -501
+     -500
     ],
     [
      578,
@@ -129,7 +133,19 @@
     ],
     [
      580,
+     -501
+    ],
+    [
+     580,
      -502
+    ],
+    [
+     576,
+     -503
+    ],
+    [
+     577,
+     -501
     ],
     [
      579,
@@ -144,8 +160,20 @@
      -502
     ],
     [
+     581,
+     -500
+    ],
+    [
+     581,
+     -501
+    ],
+    [
      580,
      -503
+    ],
+    [
+     580,
+     -504
     ]
    ],
    "worlds": {}
@@ -156,8 +184,22 @@
     "uuid": "07086844-94aa-4fef-aaaa-e89711ed442c"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "steliosdam",
+    "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
+   },
+   {
+    "name": "Luciano_Austrian",
+    "uuid": "39c5d27d-359c-4f43-b722-5054a61e1d71"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "btwDuckman",
+    "uuid": "60c86187-f252-4852-8737-6d2a701742f8"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

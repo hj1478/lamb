@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Mackinaw_City",
   "uuid": "74a6a376-1a56-4c08-85f2-3ca14de0a87a",
-  "board": "/town set board [msg]",
+  "board": "RIP Sir Patrick Stewart",
   "founder": "WokeBob",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 31,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 2,
-   "balance": 0.0,
+   "numTrusted": 2,
+   "numOutlaws": 5,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,28 +92,20 @@
    ],
    "townBlocks": [
     [
-     -1899,
-     -605
-    ],
-    [
      -1898,
      -604
     ],
     [
-     -1899,
+     -1898,
+     -603
+    ],
+    [
+     -1898,
      -602
     ],
     [
      -1898,
-     -603
-    ],
-    [
-     -1899,
-     -603
-    ],
-    [
-     -1899,
-     -604
+     -606
     ],
     [
      -1898,
@@ -121,39 +113,107 @@
     ],
     [
      -1900,
-     -602
+     -606
     ],
     [
-     -1900,
+     -1902,
      -603
-    ],
-    [
-     -1900,
-     -604
-    ],
-    [
-     -1900,
-     -605
     ],
     [
      -1902,
      -604
     ],
     [
+     -1896,
+     -604
+    ],
+    [
+     -1899,
+     -605
+    ],
+    [
+     -1899,
+     -606
+    ],
+    [
+     -1899,
+     -601
+    ],
+    [
+     -1899,
+     -602
+    ],
+    [
+     -1899,
+     -603
+    ],
+    [
+     -1899,
+     -604
+    ],
+    [
+     -1900,
+     -601
+    ],
+    [
+     -1900,
+     -602
+    ],
+    [
+     -1900,
+     -603
+    ],
+    [
+     -1900,
+     -604
+    ],
+    [
+     -1900,
+     -605
+    ],
+    [
+     -1897,
+     -602
+    ],
+    [
+     -1901,
+     -601
+    ],
+    [
+     -1897,
+     -603
+    ],
+    [
      -1901,
      -603
+    ],
+    [
+     -1897,
+     -604
     ],
     [
      -1901,
      -602
     ],
     [
-     -1901,
+     -1897,
      -605
     ],
     [
      -1901,
+     -605
+    ],
+    [
+     -1897,
+     -606
+    ],
+    [
+     -1901,
      -604
+    ],
+    [
+     -1901,
+     -606
     ]
    ],
    "worlds": {}
@@ -165,6 +225,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "Rustymach56",
+    "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
+   },
    {
     "name": "LarryWaiter",
     "uuid": "d40bbde6-24b7-47b0-b920-e1fa4e7845e7"
@@ -178,9 +242,30 @@
    {
     "name": "xtapodi_",
     "uuid": "b84f91b7-efd6-43db-b926-d9a362456ca9"
+   },
+   {
+    "name": "Gatorchomp_8",
+    "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
+   },
+   {
+    "name": "Hoffywin9999",
+    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+   },
+   {
+    "name": "slqg",
+    "uuid": "00418b0d-a5ba-47a1-af37-45c8dd98eb3f"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "alktat Memorial Bridge",
+    "uuid": "63f17fbd-4061-41b4-b310-7e6b83b2d1a2"
+   },
+   {
+    "name": "Woke Bridge",
+    "uuid": "2b93e91f-e453-4f0a-a81d-ded3407934c2"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Edfu",
   "uuid": "89a235ad-1048-425a-b301-47eafd431749",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 12,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 2.0,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,41 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11029.592342858254,
-    "y": 65.0,
-    "z": -1899.508592835685,
-    "pitch": 64.76943,
-    "yaw": -91.28894
+    "x": 11028.510061550493,
+    "y": 66.5,
+    "z": -1877.5014450121673,
+    "pitch": 13.680718,
+    "yaw": 89.721436
    },
    "homeBlock": [
     689,
-    -119
+    -118
    ],
    "townBlocks": [
+    [
+     691,
+     -117
+    ],
+    [
+     691,
+     -118
+    ],
+    [
+     687,
+     -118
+    ],
+    [
+     690,
+     -118
+    ],
+    [
+     690,
+     -119
+    ],
+    [
+     690,
+     -117
+    ],
     [
      689,
      -119
@@ -102,22 +126,18 @@
     [
      689,
      -118
-    ],
-    [
-     690,
-     -118
-    ],
-    [
-     690,
-     -119
     ],
     [
      688,
      -118
     ],
     [
-     690,
+     688,
      -117
+    ],
+    [
+     688,
+     -119
     ]
    ],
    "worlds": {}
@@ -137,7 +157,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "axieyoel",
+    "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
+   }
+  ],
   "quarters": [
    {
     "name": "Dingy Flat",
@@ -152,16 +177,40 @@
     "uuid": "eac5df48-dbf3-496a-9052-f828aac1d3b3"
    },
    {
-    "name": "Inviting Flat",
-    "uuid": "c70d2d14-03f0-4584-8394-42e99ad2f915"
-   },
-   {
     "name": "Inviting Residence",
     "uuid": "88a1cc9b-7451-4036-b995-bf89bc5ba409"
    },
    {
     "name": "Bland Quarter",
     "uuid": "a8be9933-b934-42a1-9e1d-29c9842ee762"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "b910a93a-fc03-4ad8-9347-1c6f28d70ff2"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "846032b5-3dc7-4c1b-8f63-f7d98db7b8f1"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "a421da6a-cf1f-4f3b-88cc-8ff548b4ee48"
+   },
+   {
+    "name": "Per-Ra Ned-jes",
+    "uuid": "3653462e-2fe6-4af3-a8ed-9c8703e9f85b"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "a682bba4-e71c-4e8e-a14a-b02f06ed67ae"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "be4741a3-bea3-4261-96fa-8b4181de352e"
+   },
+   {
+    "name": "Door",
+    "uuid": "53d1fa91-1fee-4631-a461-7502cc0aeedc"
    }
   ],
   "ranks": {

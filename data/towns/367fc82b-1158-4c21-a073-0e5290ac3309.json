@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "RobertLoggia",
-  "uuid": "9cdbbc55-7855-47ac-bedc-776f56a9d834",
-  "board": "/town set board [msg]",
-  "founder": "SlyaxCat",
+  "name": "IcePokemon",
+  "uuid": "367fc82b-1158-4c21-a073-0e5290ac3309",
+  "board": "pokemoncenter",
+  "founder": "supepokemen",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SlyaxCat",
-   "uuid": "e5e09cd2-1d9c-49ce-8039-4a2b855b0753"
+   "name": "supepokemen",
+   "uuid": "f1434d56-403a-490d-8afc-82a2cd756ac9"
   },
   "nation": {
-   "name": "Chicagoland",
-   "uuid": "b1992b2c-6e25-474a-955a-6b311cdfa39e"
+   "name": "Kara",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
-   "registered": 1789349392654,
-   "joinedNationAt": 1789485646967,
+   "registered": 1793425827764,
+   "joinedNationAt": 1793425883511,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,47 +80,48 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33910.92483549413,
-    "y": 70.0,
-    "z": -7381.658208917105,
-    "pitch": 19.224228,
-    "yaw": 89.39215
+    "x": 33307.29356680497,
+    "y": 63.0,
+    "z": -30117.464291397006,
+    "pitch": 8.41862,
+    "yaw": 124.503784
    },
    "homeBlock": [
-    -2120,
-    -462
+    2081,
+    -1883
    ],
    "townBlocks": [
     [
-     -2120,
-     -462
+     2081,
+     -1883
     ],
     [
-     -2120,
-     -461
+     2082,
+     -1883
     ],
     [
-     -2119,
-     -461
+     2081,
+     -1882
     ],
     [
-     -2119,
-     -463
-    ],
-    [
-     -2119,
-     -462
+     2082,
+     -1882
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "SlyaxCat",
-    "uuid": "e5e09cd2-1d9c-49ce-8039-4a2b855b0753"
+    "name": "supepokemen",
+    "uuid": "f1434d56-403a-490d-8afc-82a2cd756ac9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Alianaka",
+    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

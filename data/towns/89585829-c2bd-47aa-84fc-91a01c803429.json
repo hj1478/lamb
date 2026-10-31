@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Skopje",
   "uuid": "89585829-c2bd-47aa-84fc-91a01c803429",
   "board": "Capital of North Macedonia",
   "founder": "accvir",
   "wiki": null,
-  "discord": "https://discord.gg/zP4N8wDahP",
+  "discord": null,
   "mayor": {
    "name": "accvir",
    "uuid": "263441c4-0c18-4049-b675-757ad971dedb"
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": true
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 11,
    "numTrusted": 2,
-   "numOutlaws": 15,
-   "balance": 4.0,
+   "numOutlaws": 14,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1024,10 +1024,6 @@
     "uuid": "4695a74b-fecd-41b7-85e5-047539d5e3fc"
    },
    {
-    "name": "BrdarG",
-    "uuid": "f2440546-20d9-42aa-be1f-d15fc0769829"
-   },
-   {
     "name": "Huerz",
     "uuid": "28294592-af7e-4c51-9460-ff34a09bcc53"
    },
@@ -1046,6 +1042,10 @@
    {
     "name": "Zeorez17",
     "uuid": "c0bd003d-1074-4357-8593-44382c29d06d"
+   },
+   {
+    "name": "LucasMacdonald",
+    "uuid": "5f8c7e98-d12a-419b-920c-f07a0dc1a44e"
    }
   ],
   "trusted": [
@@ -1076,16 +1076,12 @@
     "uuid": "a03965cb-51fc-42bc-be1d-1e147af42302"
    },
    {
-    "name": "89XD",
+    "name": "et6n",
     "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
    },
    {
     "name": "OmskBH",
     "uuid": "0555a383-400c-45ab-bc4b-8b8ff1075cb7"
-   },
-   {
-    "name": "cosmobuzz",
-    "uuid": "059bafbc-6f7a-41ae-90e0-96587397656b"
    },
    {
     "name": "ItzDarken",
@@ -1262,18 +1258,6 @@
     "uuid": "21cf98f6-511f-4de1-9b06-f8243ebe4df7"
    },
    {
-    "name": "Dom Na CornealBreak4",
-    "uuid": "097b2bb4-d80d-4e32-89d3-c4486a95c2fe"
-   },
-   {
-    "name": "Dom Na CornealBreak4",
-    "uuid": "f0da7981-c454-48b6-be06-37fd5b47ec59"
-   },
-   {
-    "name": "Dom Na CornealBreak4",
-    "uuid": "30f50451-2ddc-4063-a31a-fa2655ca644a"
-   },
-   {
     "name": "Dom Na BrdarG",
     "uuid": "c58a4663-4dce-4f67-8e23-4ad79c4da3d8"
    },
@@ -1308,6 +1292,22 @@
    {
     "name": "Dom Na Zeorez17",
     "uuid": "766ce326-2b1a-4631-8ef6-4975e0d24051"
+   },
+   {
+    "name": "Dom Na CornealBreak4",
+    "uuid": "097b2bb4-d80d-4e32-89d3-c4486a95c2fe"
+   },
+   {
+    "name": "Dom Na CornealBreak4",
+    "uuid": "30f50451-2ddc-4063-a31a-fa2655ca644a"
+   },
+   {
+    "name": "Dom Na",
+    "uuid": "f0da7981-c454-48b6-be06-37fd5b47ec59"
+   },
+   {
+    "name": "Dom Na LucasMacdonald",
+    "uuid": "c1275cab-0223-4481-bfc8-99fe6f22fc98"
    }
   ],
   "ranks": {

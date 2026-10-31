@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Rustavi",
   "uuid": "6db56d57-26e0-4889-b777-44b4ef7585b8",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 401,
-   "maxTownBlocks": 472,
+   "maxTownBlocks": 400,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 31,
+   "numResidents": 25,
    "numTrusted": 18,
    "numOutlaws": 4,
-   "balance": 330.0,
+   "balance": 315.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1757,40 +1757,16 @@
     "uuid": "7b513484-4908-433b-afa2-d982874b06c6"
    },
    {
-    "name": "Plusheeisback",
-    "uuid": "68cec09c-e33a-4530-bf28-34ff8cc7b1f3"
-   },
-   {
     "name": "Kollynplays1107",
     "uuid": "7ec16f10-14f9-4721-b61f-cbd2ca313c48"
-   },
-   {
-    "name": "SbeSbob",
-    "uuid": "d0bbeac0-4543-4edb-a24d-666c3a1d1164"
    },
    {
     "name": "deepdarkdev",
     "uuid": "ea0e3953-0c08-410d-80aa-6e38cf8bdb9d"
    },
    {
-    "name": "Crjmsonlord",
-    "uuid": "80939539-e65a-487f-89a9-8976517513c7"
-   },
-   {
-    "name": "MysticGold44n69",
-    "uuid": "7bbec295-8678-4c66-bfc7-682a156579a6"
-   },
-   {
-    "name": "Semsan7018",
-    "uuid": "9fe68ce4-802d-4b4f-b695-6c26a1abe5d7"
-   },
-   {
     "name": "Nachostyle01",
     "uuid": "652166bc-5434-4e96-a07c-235a31cabab0"
-   },
-   {
-    "name": "Mendozajulian",
-    "uuid": "983710ad-2bd0-4a91-a150-69c14c06c23a"
    },
    {
     "name": "Abhinav_Mc",
@@ -1979,10 +1955,6 @@
      "uuid": "7b513484-4908-433b-afa2-d982874b06c6"
     },
     {
-     "name": "SbeSbob",
-     "uuid": "d0bbeac0-4543-4edb-a24d-666c3a1d1164"
-    },
-    {
      "name": "Nachostyle01",
      "uuid": "652166bc-5434-4e96-a07c-235a31cabab0"
     },
@@ -2052,18 +2024,6 @@
      "x": 16622,
      "y": 40,
      "z": -7587
-    }
-   },
-   {
-    "name": "Shop",
-    "uuid": "7e716ec8-4d2e-405d-b2be-2f971f7d3e93",
-    "createdAt": 1788640147846,
-    "createdBy": "DidiTuxa",
-    "access": "NATION",
-    "location": {
-     "x": 16575,
-     "y": 68,
-     "z": -7466
     }
    },
    {

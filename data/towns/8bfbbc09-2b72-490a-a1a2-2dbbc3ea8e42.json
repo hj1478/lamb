@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "BogLand",
-  "uuid": "5258324c-b847-4440-891c-577a924ccf9d",
+  "name": "Wareholm",
+  "uuid": "8bfbbc09-2b72-490a-a1a2-2dbbc3ea8e42",
   "board": "/town set board [msg]",
-  "founder": "ChadLeopold",
+  "founder": "PapyGrapie",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC56",
-   "uuid": "94049afa-8254-20c7-acfe-62f73cce94fb"
+   "name": "PapyGrapie",
+   "uuid": "c67b70d8-7c39-44ad-9bdc-cb79e365b927"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1788824699775,
+   "registered": 1793445960121,
    "joinedNationAt": null,
-   "ruinedAt": 1793181600132
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,81 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9540.28285866537,
-    "y": 63.0,
-    "z": -29461.40263667152,
-    "pitch": 17.01628,
-    "yaw": -77.81912
+    "x": 40985.35355648243,
+    "y": 82.0,
+    "z": -12770.454133169327,
+    "pitch": -1.9658573,
+    "yaw": -176.71204
    },
    "homeBlock": [
-    596,
-    -1842
+    2561,
+    -799
    ],
    "townBlocks": [
     [
-     596,
-     -1843
-    ],
-    [
-     595,
-     -1842
-    ],
-    [
-     596,
-     -1842
+     2561,
+     -799
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC56",
-    "uuid": "94049afa-8254-20c7-acfe-62f73cce94fb"
+    "name": "PapyGrapie",
+    "uuid": "c67b70d8-7c39-44ad-9bdc-cb79e365b927"
    }
   ],
   "trusted": [],

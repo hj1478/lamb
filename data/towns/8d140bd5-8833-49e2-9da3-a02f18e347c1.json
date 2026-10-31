@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Gibson_Desert",
   "uuid": "8d140bd5-8833-49e2-9da3-a02f18e347c1",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dinnerbone35",
-   "uuid": "c6d762f1-cb22-4e4a-86c4-9704c8905465"
+   "name": "NPC78",
+   "uuid": "60ff8f7c-859c-20ef-8ce6-de55ab619583"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789999530377,
-   "joinedNationAt": 1789999538073,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793258654741
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 5,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,13 +132,13 @@
   },
   "residents": [
    {
-    "name": "Dinnerbone35",
-    "uuid": "c6d762f1-cb22-4e4a-86c4-9704c8905465"
+    "name": "NPC78",
+    "uuid": "60ff8f7c-859c-20ef-8ce6-de55ab619583"
    }
   ],
   "trusted": [
    {
-    "name": "nahember",
+    "name": "7ember",
     "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
    },
    {

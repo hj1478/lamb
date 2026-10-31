@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Cuyahoga_Falls",
   "uuid": "739fcb7a-6690-491c-9e57-06c0958f0395",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1793131131862,
-   "joinedNationAt": 1793142770196,
+   "joinedNationAt": 1793312903879,
    "ruinedAt": null
   },
   "status": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -94,6 +94,30 @@
     [
      -1830,
      -470
+    ],
+    [
+     -1830,
+     -471
+    ],
+    [
+     -1830,
+     -472
+    ],
+    [
+     -1830,
+     -473
+    ],
+    [
+     -1831,
+     -470
+    ],
+    [
+     -1831,
+     -471
+    ],
+    [
+     -1831,
+     -472
     ]
    ],
    "worlds": {}
@@ -102,6 +126,10 @@
    {
     "name": "Kingbirdsb",
     "uuid": "6cb216cb-7fdb-453a-9482-7765a5b86171"
+   },
+   {
+    "name": "KingCat76",
+    "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
    }
   ],
   "trusted": [],
@@ -109,13 +137,38 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
+   "Builder": [
+    {
+     "name": "KingCat76",
+     "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "KingCat76",
+     "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    }
+   ],
+   "Police": [
+    {
+     "name": "KingCat76",
+     "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    }
+   ],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "KingCat76",
+     "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "KingCat76",
+     "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

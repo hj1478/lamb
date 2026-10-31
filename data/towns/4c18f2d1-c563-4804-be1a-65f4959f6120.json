@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Gumusdere",
-  "uuid": "321c59ce-3b81-4d3d-8c15-eb00f2fc3c3a",
+  "name": "Plains",
+  "uuid": "4c18f2d1-c563-4804-be1a-65f4959f6120",
   "board": "/town set board [msg]",
-  "founder": "Savor35",
+  "founder": "kingadoom",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC55",
-   "uuid": "cdddb81a-7864-2017-9138-de113d78d833"
+   "name": "NPC98",
+   "uuid": "b540a914-12eb-2023-9b4e-eae28611885f"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789395129352,
+   "registered": 1793392682979,
    "joinedNationAt": null,
-   "ruinedAt": 1793181600061
+   "ruinedAt": 1793435026931
   },
   "status": {
    "isPublic": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,40 +80,31 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11768.299358306303,
-    "y": 71.0,
-    "z": -7914.9246726954325,
-    "pitch": 8.985628,
-    "yaw": 58.137817
+    "x": -34395.39442217774,
+    "y": 70.221746039917,
+    "z": -6394.9380021128545,
+    "pitch": 23.910343,
+    "yaw": 23.965454
    },
    "homeBlock": [
-    735,
-    -495
+    -2150,
+    -400
    ],
    "townBlocks": [
     [
-     734,
-     -495
-    ],
-    [
-     735,
-     -495
+     -2150,
+     -400
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC55",
-    "uuid": "cdddb81a-7864-2017-9138-de113d78d833"
+    "name": "NPC98",
+    "uuid": "b540a914-12eb-2023-9b4e-eae28611885f"
    }
   ],
-  "trusted": [
-   {
-    "name": "ArdaTe_",
-    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

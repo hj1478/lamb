@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Tokezville",
-  "uuid": "03e9df1b-87d0-49ac-858a-4084f1376d87",
-  "board": "/town set board [msg]",
-  "founder": "T0K3ZS",
+  "name": "East_Ghan",
+  "uuid": "3f80519e-79df-486e-b34c-9be4b9b131a1",
+  "board": "For Ghan and For Aika",
+  "founder": "astaeromorph",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC61",
-   "uuid": "b93c1b96-c4c8-2006-9906-214e27952774"
+   "name": "astaeromorph",
+   "uuid": "62c759ad-2464-4838-930c-0cadcbe5f2c3"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1782085316833,
+   "registered": 1793367907494,
    "joinedNationAt": null,
-   "ruinedAt": 1793181600906
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,81 +47,65 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1.6984688160154071,
-    "y": 61.0,
-    "z": -13346.699999988079,
-    "pitch": 37.199986,
-    "yaw": -87.90749
+    "x": 48057.23296928386,
+    "y": 70.0,
+    "z": 17225.813052468926,
+    "pitch": 13.411891,
+    "yaw": -176.88306
    },
    "homeBlock": [
-    -1,
-    -835
+    3003,
+    1076
    ],
    "townBlocks": [
     [
-     -1,
-     -835
+     3003,
+     1076
     ],
     [
-     0,
-     -833
-    ],
-    [
-     0,
-     -834
-    ],
-    [
-     0,
-     -835
-    ],
-    [
-     -1,
-     -833
-    ],
-    [
-     -1,
-     -834
+     3003,
+     1075
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC61",
-    "uuid": "b93c1b96-c4c8-2006-9906-214e27952774"
+    "name": "astaeromorph",
+    "uuid": "62c759ad-2464-4838-930c-0cadcbe5f2c3"
    }
   ],
   "trusted": [],

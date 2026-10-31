@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Kholodnyy",
   "uuid": "7684e680-a85f-4842-a7f6-46db5a76f016",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 46,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 70,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      455,
+     -1851
+    ],
+    [
+     455,
      -1855
     ],
     [
@@ -109,11 +113,19 @@
     ],
     [
      457,
+     -1851
+    ],
+    [
+     457,
      -1852
     ],
     [
      454,
      -1855
+    ],
+    [
+     454,
+     -1856
     ],
     [
      454,
@@ -142,6 +154,10 @@
     [
      457,
      -1854
+    ],
+    [
+     458,
+     -1851
     ],
     [
      459,
@@ -158,6 +174,10 @@
     [
      459,
      -1856
+    ],
+    [
+     459,
+     -1851
     ],
     [
      459,
@@ -194,6 +214,10 @@
     [
      460,
      -1853
+    ],
+    [
+     456,
+     -1851
     ],
     [
      460,
@@ -242,9 +266,22 @@
    {
     "name": "Ripperdk",
     "uuid": "4a763731-2258-4219-bfbd-bfa29450cfa4"
+   },
+   {
+    "name": "hawley0343",
+    "uuid": "7d3e86db-09e8-45ff-8795-daf79c0fbb83"
+   },
+   {
+    "name": "stangersucks",
+    "uuid": "7d19a521-0a53-4b95-a66d-df3c222eaf28"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Rustymach56",
+    "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
+   }
+  ],
   "outlaws": [
    {
     "name": "RustyStank",

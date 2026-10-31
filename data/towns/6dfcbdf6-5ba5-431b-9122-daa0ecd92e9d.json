@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Skjoldhavn",
   "uuid": "6dfcbdf6-5ba5-431b-9122-daa0ecd92e9d",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 42,
-   "maxTownBlocks": 86,
+   "numTownBlocks": 47,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 4,
+   "numTrusted": 4,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -160,6 +160,10 @@
      -1451
     ],
     [
+     -510,
+     -1454
+    ],
+    [
      -506,
      -1454
     ],
@@ -168,8 +172,24 @@
      -1450
     ],
     [
+     -510,
+     -1453
+    ],
+    [
+     -510,
+     -1452
+    ],
+    [
+     -510,
+     -1451
+    ],
+    [
      -503,
      -1452
+    ],
+    [
+     -510,
+     -1450
     ],
     [
      -509,
@@ -268,45 +288,66 @@
     "uuid": "13598028-4a94-40b1-9c41-14bbb23abaa9"
    },
    {
-    "name": "CalamariMonarch",
-    "uuid": "ca937837-9b2b-4baa-9c92-2a64fa26e315"
+    "name": "diyo25",
+    "uuid": "5f4e6e8e-e96c-4c67-852a-e4b492384305"
    },
    {
-    "name": "mikailtarikci",
-    "uuid": "6e11cd1b-6678-4e66-a2bd-aac506a8ac10"
+    "name": "AjanKek",
+    "uuid": "96d9a149-4c25-45b0-a659-89682efee5af"
+   },
+   {
+    "name": "an_actuall",
+    "uuid": "fad2d065-4b37-49fd-b125-ccbc9f7fa004"
    }
   ],
   "trusted": [
    {
-    "name": "CalamariMonarch",
-    "uuid": "ca937837-9b2b-4baa-9c92-2a64fa26e315"
+    "name": "AjanKek",
+    "uuid": "96d9a149-4c25-45b0-a659-89682efee5af"
+   },
+   {
+    "name": "diyo25",
+    "uuid": "5f4e6e8e-e96c-4c67-852a-e4b492384305"
    },
    {
     "name": "Syrrez",
     "uuid": "6d8ea810-7ad4-49dc-a2a7-23fafa1b347d"
+   },
+   {
+    "name": "an_actuall",
+    "uuid": "fad2d065-4b37-49fd-b125-ccbc9f7fa004"
    }
   ],
   "outlaws": [
    {
-    "name": "juanfra007",
-    "uuid": "4f708af7-fe59-4356-a74d-24e28383c391"
-   },
-   {
     "name": "Zeldris700",
     "uuid": "6dd878ae-925c-4835-bf70-74d8d9133ceb"
+   },
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Bland Apartment",
+    "uuid": "312efc12-9554-45a8-b006-9f52a7dbf2cf"
+   },
+   {
+    "name": "Aeternum's Lobby",
+    "uuid": "8decb9d5-ed50-4288-9ce9-7278f8fc13ea"
+   }
+  ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "mikailtarikci",
-     "uuid": "6e11cd1b-6678-4e66-a2bd-aac506a8ac10"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "diyo25",
+     "uuid": "5f4e6e8e-e96c-4c67-852a-e4b492384305"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

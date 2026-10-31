@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Lagash",
   "uuid": "7864a370-aa2b-41d3-9497-e7037ce814fd",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 35,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "numTrusted": 7,
+   "numOutlaws": 51,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -110,6 +110,10 @@
     [
      1063,
      -224
+    ],
+    [
+     1063,
+     -222
     ],
     [
      1063,
@@ -238,16 +242,246 @@
   ],
   "trusted": [
    {
+    "name": "Andakira",
+    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
+   {
     "name": "FORDaLoZ",
     "uuid": "10286bc5-2980-422b-af54-6b1f7aa488bc"
    },
    {
+    "name": "Mine_bee",
+    "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
+   },
+   {
     "name": "Andariyen",
     "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
+   },
+   {
+    "name": "CrimeanGuyy",
+    "uuid": "071e21d0-6bf4-4623-9898-8cc194f6802e"
+   },
+   {
+    "name": "trenabuser1",
+    "uuid": "489e76b2-86e3-4dce-99b6-e376d3a6bf0c"
+   },
+   {
+    "name": "Andre1098",
+    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "GovernorAustria1",
+    "uuid": "3707249c-4e9f-4abf-9900-4483e8917bd7"
+   },
+   {
+    "name": "ssoybean",
+    "uuid": "ccd42cb1-1baf-42e3-84e2-3b3e18122cc7"
+   },
+   {
+    "name": "BlueSupreme",
+    "uuid": "19e26719-9541-4d5d-a597-4b3c9d86983b"
+   },
+   {
+    "name": "Khelium",
+    "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
+   },
+   {
+    "name": "Henrzz_",
+    "uuid": "fa872724-867e-4326-8b87-22435e14c67b"
+   },
+   {
+    "name": "xtapodi_",
+    "uuid": "b84f91b7-efd6-43db-b926-d9a362456ca9"
+   },
+   {
+    "name": "akabur",
+    "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
+   },
+   {
+    "name": "meneva",
+    "uuid": "0e66c74a-1270-4103-98c7-1111cd45afb8"
+   },
+   {
+    "name": "Aliostro",
+    "uuid": "2ece4fea-2e57-4667-b2cf-30baeee1c208"
+   },
+   {
+    "name": "YoGunnar",
+    "uuid": "eb7c8c24-eb18-44fa-a5d8-268f0913b837"
+   },
+   {
+    "name": "OMGdiamond888",
+    "uuid": "affdf2ef-d822-4fd9-b4f4-52866a59c22e"
+   },
+   {
+    "name": "ElJefe5775",
+    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "n3b4",
+    "uuid": "e18a7d21-d39c-4245-8dd7-d37836d65dd8"
+   },
+   {
+    "name": "rowdycroc",
+    "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
+   },
+   {
+    "name": "EdDington102",
+    "uuid": "0c53362e-3da6-49b9-82a6-53b4bccfc74a"
+   },
+   {
+    "name": "Sugar_U",
+    "uuid": "79c991c8-07a4-4367-ad18-412eadd486fb"
+   },
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   },
+   {
+    "name": "Farmerinarmor",
+    "uuid": "779f0358-08de-4963-87d2-2bd5fdff95bd"
+   },
+   {
+    "name": "GarrisonGrim",
+    "uuid": "97638abe-1d13-41c8-ab38-1cd2a70a31c5"
+   },
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "Swighted_",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
+   },
+   {
+    "name": "_Srdjan",
+    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
+   },
+   {
+    "name": "elpapito7",
+    "uuid": "eb3895bc-852e-4814-910a-ea4327ad6221"
+   },
+   {
+    "name": "Vfinestone",
+    "uuid": "e319f1e6-1eca-4296-9707-386c460b2703"
+   },
+   {
+    "name": "donkSlide",
+    "uuid": "34af2559-cd50-4dbc-98c9-e15b701d6056"
+   },
+   {
+    "name": "Lef_The_Butcher",
+    "uuid": "3d208ed2-1742-48a6-b7be-f6a9a2200886"
+   },
+   {
+    "name": "ItzDarken",
+    "uuid": "4abef3c8-7dfb-40a3-8c5f-8c2f82bf874b"
+   },
+   {
+    "name": "YrKD",
+    "uuid": "d04b24be-0610-4c59-ad9f-082636817f17"
+   },
+   {
+    "name": "DoomsdayTbot",
+    "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
+   },
+   {
+    "name": "DisasterRoyal346",
+    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
+   },
+   {
+    "name": "0xMilord",
+    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
+   },
+   {
+    "name": "Yim1_",
+    "uuid": "fef1a006-7b40-4561-8f15-fc9a166c3a9a"
+   },
+   {
+    "name": "jupebean",
+    "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   },
+   {
+    "name": "xMxhan",
+    "uuid": "a34e04e1-af44-4707-8e47-4bf5ba1028f5"
+   },
+   {
+    "name": "et6n",
+    "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
+   },
+   {
+    "name": "MarkusAntonyus",
+    "uuid": "92aabe90-bfe8-450a-9d58-dbc076d0974a"
+   },
+   {
+    "name": "GetBetterPeasant",
+    "uuid": "6ee1d6cf-26d3-4b3c-9368-4f144d4514f2"
+   },
+   {
+    "name": "jamari_aymara23",
+    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   },
+   {
+    "name": "whosgianna0w0",
+    "uuid": "85384984-b78f-4e27-b675-9fa4adfc551c"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   },
+   {
+    "name": "Huxf",
+    "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
+   },
+   {
+    "name": "UShope",
+    "uuid": "c17488d9-181c-4102-aaf2-23816b395da7"
+   },
+   {
+    "name": "hungrybalong6",
+    "uuid": "def0f314-4315-4dbf-9916-1b0151389e27"
+   },
+   {
+    "name": "TobiasDuVed",
+    "uuid": "d2520abb-fde4-48b3-b630-4c53f11a6bfc"
+   },
+   {
+    "name": "XukongZhiYing",
+    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
+   },
+   {
+    "name": "realmiryue1",
+    "uuid": "9e7a353d-5eae-416e-b450-83914409137b"
+   },
+   {
+    "name": "Kokoroyu",
+    "uuid": "5f3ee79b-bc8b-4127-82f4-e43b925882ef"
+   },
+   {
+    "name": "Rubick_Kubik",
+    "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
+   },
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "SammyTheGoat555",
+    "uuid": "1d10cf5f-762d-4061-974c-e6772d2e0844"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "MNGA HQ",
+    "uuid": "a75ce4fc-d3fb-449f-ac5d-4a202349db1b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

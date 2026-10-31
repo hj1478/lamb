@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Guanacaste",
   "uuid": "8aeec2a4-00f5-48d7-8f9a-5947d98a89b1",
@@ -12,7 +12,7 @@
    "uuid": "e8345d9f-5aca-48bc-b2f8-ee2429ffc9db"
   },
   "nation": {
-   "name": "Costa_Rica",
+   "name": "Nicaragua",
    "uuid": "956f81af-3c83-4ebb-bb63-96f8d2e72889"
   },
   "timestamps": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,12 +92,20 @@
    ],
    "townBlocks": [
     [
+     -1915,
+     266
+    ],
+    [
      -1914,
      266
     ],
     [
      -1914,
      267
+    ],
+    [
+     -1914,
+     264
     ],
     [
      -1914,
@@ -112,8 +120,20 @@
      266
     ],
     [
+     -1912,
+     265
+    ],
+    [
      -1913,
      265
+    ],
+    [
+     -1912,
+     266
+    ],
+    [
+     -1913,
+     264
     ]
    ],
    "worlds": {}
@@ -122,6 +142,10 @@
    {
     "name": "ClownfishFive",
     "uuid": "e8345d9f-5aca-48bc-b2f8-ee2429ffc9db"
+   },
+   {
+    "name": "ShmuppyDog",
+    "uuid": "d3d94be6-65b9-4f41-9e32-06135934e7e2"
    }
   ],
   "trusted": [],
@@ -129,7 +153,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "ShmuppyDog",
+     "uuid": "d3d94be6-65b9-4f41-9e32-06135934e7e2"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

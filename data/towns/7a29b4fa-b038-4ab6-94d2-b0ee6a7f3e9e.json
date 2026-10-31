@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Nondalton",
   "uuid": "7a29b4fa-b038-4ab6-94d2-b0ee6a7f3e9e",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/k2262everN",
   "mayor": {
-   "name": "Rogue408",
-   "uuid": "227d9df7-afb5-4caf-9394-fbbed8635d00"
+   "name": "KizelDorf",
+   "uuid": "60cc6adb-caa9-4305-8763-78ada4ebe4c9"
   },
   "nation": {
    "name": null,
@@ -424,14 +424,14 @@
   },
   "residents": [
    {
-    "name": "Rogue408",
-    "uuid": "227d9df7-afb5-4caf-9394-fbbed8635d00"
+    "name": "KizelDorf",
+    "uuid": "60cc6adb-caa9-4305-8763-78ada4ebe4c9"
    }
   ],
   "trusted": [
    {
-    "name": "Rogue408",
-    "uuid": "227d9df7-afb5-4caf-9394-fbbed8635d00"
+    "name": "KizelDorf",
+    "uuid": "60cc6adb-caa9-4305-8763-78ada4ebe4c9"
    },
    {
     "name": "MasterMatt444",
@@ -441,11 +441,26 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "KizelDorf",
+     "uuid": "60cc6adb-caa9-4305-8763-78ada4ebe4c9"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "KizelDorf",
+     "uuid": "60cc6adb-caa9-4305-8763-78ada4ebe4c9"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "KizelDorf",
+     "uuid": "60cc6adb-caa9-4305-8763-78ada4ebe4c9"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

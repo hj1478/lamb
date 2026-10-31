@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Polis",
   "uuid": "71a7cf09-7cb8-42ba-b48b-45bd7a3c7b9b",
@@ -12,12 +12,12 @@
    "uuid": "2f1483bd-cb4e-4079-9f2a-0b5c83a9712d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Hawaii",
+   "uuid": "b1d72cb1-4935-4e54-98f8-767ad795f584"
   },
   "timestamps": {
    "registered": 1793208063003,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793391324783,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

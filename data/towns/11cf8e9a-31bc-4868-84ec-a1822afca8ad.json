@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Trapland",
-  "uuid": "ab0d5c41-2350-4baa-be21-e86358bf65c2",
+  "name": "CasperWY",
+  "uuid": "11cf8e9a-31bc-4868-84ec-a1822afca8ad",
   "board": "/town set board [msg]",
-  "founder": "AtillaKagan",
+  "founder": "THEBEEBATTALION",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AtillaKagan",
-   "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   "name": "THEBEEBATTALION",
+   "uuid": "b1ecae92-8f08-49f3-9bb2-ab7321b227be"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Zion",
+   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
   },
   "timestamps": {
-   "registered": 1793035471901,
-   "joinedNationAt": null,
+   "registered": 1793408270210,
+   "joinedNationAt": 1793408440711,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -80,28 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7274.716367979629,
-    "y": 83.0,
-    "z": 16934.28428725466,
-    "pitch": 26.10003,
-    "yaw": 86.69971
+    "x": -40021.43035461285,
+    "y": 95.0,
+    "z": -9195.03642262542,
+    "pitch": 11.182489,
+    "yaw": -58.590576
    },
    "homeBlock": [
-    454,
-    1058
+    -2502,
+    -575
    ],
    "townBlocks": [
     [
-     454,
-     1058
+     -2502,
+     -575
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "AtillaKagan",
-    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+    "name": "THEBEEBATTALION",
+    "uuid": "b1ecae92-8f08-49f3-9bb2-ab7321b227be"
    }
   ],
   "trusted": [],

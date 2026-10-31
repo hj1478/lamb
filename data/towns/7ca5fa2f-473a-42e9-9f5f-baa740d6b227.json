@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Simpson",
   "uuid": "7ca5fa2f-473a-42e9-9f5f-baa740d6b227",
@@ -12,12 +12,12 @@
    "uuid": "80113197-b542-489c-a674-faf1ca14a529"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777538948686,
-   "joinedNationAt": 1777538953536,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,

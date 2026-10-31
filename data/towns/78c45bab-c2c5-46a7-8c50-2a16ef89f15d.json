@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Bahia_Blanca",
   "uuid": "78c45bab-c2c5-46a7-8c50-2a16ef89f15d",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "jayjaycaake",
-   "uuid": "79c04a22-fb9c-4015-a24a-c51d163d2089"
+   "name": "NPC45",
+   "uuid": "a1a1e1e7-0747-20cb-bb5a-edcbc531004a"
   },
   "nation": {
-   "name": "Argentina",
-   "uuid": "a37b3e38-02af-4d98-af67-7f44630d1139"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777327336372,
-   "joinedNationAt": 1777563857186,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793440802166
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 82,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 248.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -424,66 +424,22 @@
   },
   "residents": [
    {
-    "name": "jayjaycaake",
-    "uuid": "79c04a22-fb9c-4015-a24a-c51d163d2089"
-   },
-   {
-    "name": "DaHippo",
-    "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
+    "name": "NPC45",
+    "uuid": "a1a1e1e7-0747-20cb-bb5a-edcbc531004a"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Police": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "DaHippo",
-     "uuid": "d68a542b-f8f0-4645-a39d-04935bab1b7e"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Socorro_Polaco",
   "uuid": "7c07755e-83f8-4e32-8388-e014f3ec2669",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Gerwazy420",
-   "uuid": "0f90e650-6d6c-452a-be21-fdc08caaa518"
+   "name": "Mateplot",
+   "uuid": "97ab9b4d-7ab4-40ba-83e3-2d3669177c20"
   },
   "nation": {
    "name": "Baja",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 86,
-   "maxTownBlocks": 66,
+   "numTownBlocks": 54,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "nationBonus": 10,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 398.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 50.0
   },
   "perms": {
    "build": [
@@ -116,32 +116,12 @@
      75
     ],
     [
-     -2486,
-     73
-    ],
-    [
      -2490,
      74
     ],
     [
-     -2486,
-     70
-    ],
-    [
      -2490,
      73
-    ],
-    [
-     -2486,
-     71
-    ],
-    [
-     -2490,
-     72
-    ],
-    [
-     -2490,
-     71
     ],
     [
      -2490,
@@ -150,18 +130,10 @@
     [
      -2486,
      76
-    ],
-    [
-     -2492,
-     74
     ],
     [
      -2491,
      76
-    ],
-    [
-     -2492,
-     75
     ],
     [
      -2491,
@@ -180,10 +152,6 @@
      77
     ],
     [
-     -2491,
-     75
-    ],
-    [
      -2492,
      70
     ],
@@ -196,32 +164,16 @@
      71
     ],
     [
-     -2491,
-     73
-    ],
-    [
      -2492,
      72
     ],
     [
      -2491,
      70
-    ],
-    [
-     -2492,
-     73
-    ],
-    [
-     -2491,
-     71
     ],
     [
      -2487,
      77
-    ],
-    [
-     -2487,
-     76
     ],
     [
      -2483,
@@ -237,10 +189,6 @@
     ],
     [
      -2487,
-     75
-    ],
-    [
-     -2487,
      74
     ],
     [
@@ -250,29 +198,17 @@
     [
      -2484,
      73
-    ],
-    [
-     -2487,
-     71
     ],
     [
      -2484,
      76
     ],
     [
-     -2487,
-     70
-    ],
-    [
      -2484,
      75
     ],
     [
      -2484,
-     70
-    ],
-    [
-     -2484,
      72
     ],
     [
@@ -286,18 +222,10 @@
     [
      -2489,
      71
-    ],
-    [
-     -2489,
-     72
     ],
     [
      -2489,
      73
-    ],
-    [
-     -2489,
-     74
     ],
     [
      -2489,
@@ -317,27 +245,11 @@
     ],
     [
      -2488,
-     75
-    ],
-    [
-     -2494,
-     72
-    ],
-    [
-     -2488,
-     74
-    ],
-    [
-     -2488,
      73
     ],
     [
      -2494,
      70
-    ],
-    [
-     -2488,
-     72
     ],
     [
      -2488,
@@ -361,27 +273,11 @@
     ],
     [
      -2493,
-     73
-    ],
-    [
-     -2493,
-     74
-    ],
-    [
-     -2493,
      75
-    ],
-    [
-     -2485,
-     74
     ],
     [
      -2493,
      76
-    ],
-    [
-     -2485,
-     73
     ],
     [
      -2494,
@@ -400,10 +296,6 @@
      71
     ],
     [
-     -2494,
-     75
-    ],
-    [
      -2488,
      71
     ],
@@ -412,47 +304,28 @@
      76
     ],
     [
-     -2488,
-     70
-    ],
-    [
-     -2494,
-     73
-    ],
-    [
      -2485,
      76
-    ],
-    [
-     -2494,
-     74
-    ],
-    [
-     -2485,
-     75
-    ],
-    [
-     -2485,
-     70
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Gerwazy420",
-    "uuid": "0f90e650-6d6c-452a-be21-fdc08caaa518"
-   },
-   {
-    "name": "Kyle_Bordeaux",
-    "uuid": "c48452d7-14fa-45ca-8c8d-00a230b05952"
+    "name": "Mateplot",
+    "uuid": "97ab9b4d-7ab4-40ba-83e3-2d3669177c20"
    },
    {
     "name": "Axrielle",
     "uuid": "a23a939c-d450-4242-8f6d-11c8cb0ece6b"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Kyle_Bordeaux",
+    "uuid": "c48452d7-14fa-45ca-8c8d-00a230b05952"
+   }
+  ],
   "outlaws": [
    {
     "name": "donkSlide",
@@ -463,8 +336,8 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "Kyle_Bordeaux",
-     "uuid": "c48452d7-14fa-45ca-8c8d-00a230b05952"
+     "name": "Mateplot",
+     "uuid": "97ab9b4d-7ab4-40ba-83e3-2d3669177c20"
     },
     {
      "name": "Axrielle",

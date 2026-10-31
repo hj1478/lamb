@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Iron_Labs",
   "uuid": "79a9fcf4-85d2-41eb-8427-d0c5db31d184",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "cvb_matthew",
-   "uuid": "794b0fc2-0d8a-48f7-948a-dfb3aef8e0a7"
+   "name": "NPC84",
+   "uuid": "03d72dae-d600-2015-a707-89c5351dc599"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1784793022258,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793267888906
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "cvb_matthew",
-    "uuid": "794b0fc2-0d8a-48f7-948a-dfb3aef8e0a7"
+    "name": "NPC84",
+    "uuid": "03d72dae-d600-2015-a707-89c5351dc599"
    }
   ],
   "trusted": [],

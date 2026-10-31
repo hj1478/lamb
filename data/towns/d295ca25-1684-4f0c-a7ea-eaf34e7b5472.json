@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "KolkaTheSecond",
-  "uuid": "2243b646-ded2-4f62-9e2f-2bd2fae7e5df",
+  "name": "Lapland",
+  "uuid": "d295ca25-1684-4f0c-a7ea-eaf34e7b5472",
   "board": "/town set board [msg]",
-  "founder": "Alex_Karls",
+  "founder": "swag_femboy",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Alex_Karls",
-   "uuid": "256cc94e-2bee-4b39-a553-26ae52666dba"
+   "name": "swag_femboy",
+   "uuid": "9337c32c-205a-41dc-9e50-d3c94e6f6967"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": "Russian_Republic",
+   "uuid": "0afce234-26a8-46f0-ac1b-be7c0dd66a8a"
   },
   "timestamps": {
-   "registered": 1793187299967,
-   "joinedNationAt": 1793192090658,
+   "registered": 1793382606964,
+   "joinedNationAt": 1793384782371,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "nationBonus": 60,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,69 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8092.431546772362,
-    "y": 63.0,
-    "z": -15308.743567558575,
-    "pitch": 76.05003,
-    "yaw": 90.95511
+    "x": 10016.67491412112,
+    "y": 71.0,
+    "z": -22592.8408397906,
+    "pitch": 3.899977,
+    "yaw": -136.4252
    },
    "homeBlock": [
-    505,
-    -957
+    626,
+    -1413
    ],
    "townBlocks": [
     [
-     506,
-     -957
+     625,
+     -1413
     ],
     [
-     505,
-     -958
+     626,
+     -1412
     ],
     [
-     505,
-     -957
+     625,
+     -1412
+    ],
+    [
+     626,
+     -1413
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Alex_Karls",
-    "uuid": "256cc94e-2bee-4b39-a553-26ae52666dba"
+    "name": "swag_femboy",
+    "uuid": "9337c32c-205a-41dc-9e50-d3c94e6f6967"
    },
    {
-    "name": "GR33NCAT11",
-    "uuid": "779901d3-0a30-478c-b8ed-e80ffe4b9f58"
-   },
-   {
-    "name": "SeanOConnor8843",
-    "uuid": "4a9c7559-90bb-4e73-93b3-dda5f1de9bf8"
+    "name": "Denish26",
+    "uuid": "3b0bf7fc-cc1c-491a-8c5e-06499f20bf31"
    }
   ],
   "trusted": [
    {
-    "name": "GR33NCAT11",
-    "uuid": "779901d3-0a30-478c-b8ed-e80ffe4b9f58"
-   },
-   {
-    "name": "SeanOConnor8843",
-    "uuid": "4a9c7559-90bb-4e73-93b3-dda5f1de9bf8"
+    "name": "Denish26",
+    "uuid": "3b0bf7fc-cc1c-491a-8c5e-06499f20bf31"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "GR33NCAT11",
-     "uuid": "779901d3-0a30-478c-b8ed-e80ffe4b9f58"
-    },
-    {
-     "name": "SeanOConnor8843",
-     "uuid": "4a9c7559-90bb-4e73-93b3-dda5f1de9bf8"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

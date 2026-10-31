@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Shantipur",
   "uuid": "78144ed3-4f7d-425d-b326-76955b1bb9b4",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 50,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 16.0,
    "forSalePrice": null
@@ -142,30 +142,16 @@
    {
     "name": "VanEmil",
     "uuid": "cc1a9d31-459f-4a87-9504-7b4d9ec50519"
-   },
-   {
-    "name": "Heligt",
-    "uuid": "bd5c9463-60c6-46e9-9dca-fb89f52826c0"
    }
   ],
-  "trusted": [
-   {
-    "name": "Heligt",
-    "uuid": "bd5c9463-60c6-46e9-9dca-fb89f52826c0"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "Heligt",
-     "uuid": "bd5c9463-60c6-46e9-9dca-fb89f52826c0"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

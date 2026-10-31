@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Liepaja",
   "uuid": "76bfcf96-e07c-40e9-bf50-5c194d27c358",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 210,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
+   "numResidents": 9,
    "numTrusted": 3,
-   "numOutlaws": 7,
-   "balance": 0.0,
+   "numOutlaws": 5,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7594.390395051064,
+    "x": 7576.518881208785,
     "y": 64.0,
-    "z": -14850.486714018867,
-    "pitch": 20.699947,
-    "yaw": 92.67859
+    "z": -14842.704986072906,
+    "pitch": 89.8849,
+    "yaw": 3.6123047
    },
    "homeBlock": [
-    474,
-    -929
+    473,
+    -928
    ],
    "townBlocks": [
     [
@@ -948,14 +948,6 @@
     "uuid": "27bc5d77-2a8a-4ccb-b3cd-6d09795a87d6"
    },
    {
-    "name": "F1R3F1GHT",
-    "uuid": "5ebcc242-da2b-4f54-827a-b64845c69f31"
-   },
-   {
-    "name": "Alextintor23",
-    "uuid": "dd01b132-1da5-401b-90eb-6d60de708b48"
-   },
-   {
     "name": "Siebeboyy",
     "uuid": "8c343e0b-4df2-4146-b1cd-a0f5e29ae4e4"
    },
@@ -974,6 +966,10 @@
    {
     "name": "MafiaBiedry",
     "uuid": "64ef4baa-89c8-4fe7-b953-e5bd83222f11"
+   },
+   {
+    "name": "RelixTW",
+    "uuid": "ac15fc38-c450-44a8-8a67-1fa0fc721d25"
    }
   ],
   "trusted": [
@@ -991,10 +987,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "4CRAFT8",
-    "uuid": "3c7205b0-4a19-4dec-a490-6352d9094ceb"
-   },
    {
     "name": "BIG_ALL_IN",
     "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
@@ -1014,17 +1006,9 @@
    {
     "name": "SpyingBigfoot39",
     "uuid": "43d05a08-7fa0-4fb5-9e5f-a19679e2acd2"
-   },
-   {
-    "name": "FeliksTV",
-    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
    }
   ],
   "quarters": [
-   {
-    "name": "Bland Quarter",
-    "uuid": "f14259ec-854f-4e88-877d-1fa6afee5b0c"
-   },
    {
     "name": "Luxurious Tenement",
     "uuid": "d12393c9-5b36-4658-b51f-0f504c769c29"
@@ -1056,6 +1040,10 @@
    {
     "name": "Dingy Residence",
     "uuid": "aa54b45b-24fa-4712-8b41-7e51a69eb3e1"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "f14259ec-854f-4e88-877d-1fa6afee5b0c"
    }
   ],
   "ranks": {

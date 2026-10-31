@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Skunkolandia",
-  "uuid": "c35987ac-d1fb-49e0-a49e-92680341bab4",
-  "board": "A terra da planta boa",
-  "founder": "MeninoFumador",
+  "name": "Happy_Halloween",
+  "uuid": "f926ea1d-1549-4b74-8d0e-054e7e7f5711",
+  "board": "/town set board [msg]",
+  "founder": "TheNickValentine",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MeninoFumador",
-   "uuid": "71cd179b-2fb9-42d1-a786-7503abc3c0d0"
+   "name": "TheNickValentine",
+   "uuid": "129f615e-c437-4498-917b-1da58c204554"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Japan",
+   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
   },
   "timestamps": {
-   "registered": 1789495566708,
-   "joinedNationAt": null,
+   "registered": 1793414780564,
+   "joinedNationAt": 1793414796015,
    "ruinedAt": null
   },
   "status": {
@@ -28,18 +28,18 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 100,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,44 +80,39 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -17587.353688917065,
-    "y": 73.0,
-    "z": 13307.840986320438,
-    "pitch": 8.850018,
-    "yaw": -95.38989
+    "x": 47905.37585882458,
+    "y": 62.11076431274414,
+    "z": -7041.883930271347,
+    "pitch": 45.60387,
+    "yaw": 133.74217
    },
    "homeBlock": [
-    -1100,
-    831
+    2994,
+    -441
    ],
    "townBlocks": [
     [
-     -1100,
-     831
+     2993,
+     -441
+    ],
+    [
+     2994,
+     -441
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "MeninoFumador",
-    "uuid": "71cd179b-2fb9-42d1-a786-7503abc3c0d0"
-   },
-   {
-    "name": "Krawisk",
-    "uuid": "220e7ac5-a44b-4a6b-a2bb-2928d749d09e"
+    "name": "TheNickValentine",
+    "uuid": "129f615e-c437-4498-917b-1da58c204554"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Krawisk",
-     "uuid": "220e7ac5-a44b-4a6b-a2bb-2928d749d09e"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

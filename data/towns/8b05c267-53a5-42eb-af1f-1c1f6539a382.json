@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Priozyornyi",
   "uuid": "8b05c267-53a5-42eb-af1f-1c1f6539a382",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "straightmiku",
-   "uuid": "5671c2d1-1f30-4967-85dc-ba6d527d485f"
+   "name": "NPC73",
+   "uuid": "7f8f27b4-8c65-207d-9c25-52a17586a225"
   },
   "nation": {
-   "name": "Soviet_Union",
-   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789298088094,
-   "joinedNationAt": 1789298110597,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793210074488
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "straightmiku",
-    "uuid": "5671c2d1-1f30-4967-85dc-ba6d527d485f"
+    "name": "NPC73",
+    "uuid": "7f8f27b4-8c65-207d-9c25-52a17586a225"
    }
   ],
   "trusted": [

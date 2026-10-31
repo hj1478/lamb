@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Sioux_Center",
   "uuid": "6fc0a8c1-dd73-4aba-b1ca-a7ff8bc005ca",
@@ -12,16 +12,16 @@
    "uuid": "aabf60c0-d21f-4949-b835-1fbc5424631d"
   },
   "nation": {
-   "name": "Chicagoland",
-   "uuid": "b1992b2c-6e25-474a-955a-6b311cdfa39e"
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1780880012718,
-   "joinedNationAt": 1790528556421,
+   "joinedNationAt": 1792893802364,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 31,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 210.0,
+   "numOutlaws": 1,
+   "balance": 246.0,
    "forSalePrice": null
   },
   "perms": {
@@ -225,7 +225,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "TheRealPotatoGuy",
+    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

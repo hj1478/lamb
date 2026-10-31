@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Dornheim",
   "uuid": "8fb82b81-fa55-4ce7-9a32-4d0061513237",
-  "board": "/town set board [msg]",
+  "board": "[The Bank of Germany]",
   "founder": "Jax_The_Pro",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "04fe7aad-ea1d-4b95-a27d-32b50fc8cc35"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
    "registered": 1792456113313,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793152263903,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 75.0,
+   "balance": 143.0,
    "forSalePrice": null
   },
   "perms": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Culiacan",
   "uuid": "7efe6a83-c6f4-4d21-b4d1-73dc5610b1b0",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 132,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 6,
-   "numTrusted": 4,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 64.0,
+   "balance": 33.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -93,7 +93,31 @@
    "townBlocks": [
     [
      -2407,
+     -65
+    ],
+    [
+     -2407,
      -66
+    ],
+    [
+     -2407,
+     -69
+    ],
+    [
+     -2407,
+     -67
+    ],
+    [
+     -2407,
+     -68
+    ],
+    [
+     -2405,
+     -66
+    ],
+    [
+     -2406,
+     -65
     ],
     [
      -2406,
@@ -104,31 +128,35 @@
      -67
     ],
     [
-     -2408,
-     -69
+     -2405,
+     -65
     ],
     [
-     -2407,
-     -69
-    ],
-    [
-     -2406,
-     -69
-    ],
-    [
-     -2407,
-     -67
-    ],
-    [
-     -2406,
-     -67
-    ],
-    [
-     -2408,
+     -2405,
      -68
     ],
     [
-     -2407,
+     -2405,
+     -69
+    ],
+    [
+     -2408,
+     -69
+    ],
+    [
+     -2406,
+     -69
+    ],
+    [
+     -2406,
+     -70
+    ],
+    [
+     -2406,
+     -67
+    ],
+    [
+     -2408,
      -68
     ],
     [
@@ -144,18 +172,6 @@
     "uuid": "4dcb4fa2-ae7b-4ed0-af0b-8f81e3820352"
    },
    {
-    "name": "PabloEsNudista",
-    "uuid": "155fc375-a784-4263-a32c-1874a482f620"
-   },
-   {
-    "name": "Mist74",
-    "uuid": "0a2a65de-9e38-4da2-a984-ee272e2c159f"
-   },
-   {
-    "name": "Leonessphi",
-    "uuid": "3733f944-9615-4a12-89e2-722c1eaad8cc"
-   },
-   {
     "name": "BiggestGamer656",
     "uuid": "61a49c75-1473-495a-b9a6-b6b6d202cdd6"
    },
@@ -166,31 +182,14 @@
   ],
   "trusted": [
    {
-    "name": "PabloEsNudista",
-    "uuid": "155fc375-a784-4263-a32c-1874a482f620"
-   },
-   {
-    "name": "Leonessphi",
-    "uuid": "3733f944-9615-4a12-89e2-722c1eaad8cc"
-   },
-   {
     "name": "BiggestGamer656",
     "uuid": "61a49c75-1473-495a-b9a6-b6b6d202cdd6"
-   },
-   {
-    "name": "Mist74",
-    "uuid": "0a2a65de-9e38-4da2-a984-ee272e2c159f"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "PabloEsNudista",
-     "uuid": "155fc375-a784-4263-a32c-1874a482f620"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "Apolf17",
@@ -199,12 +198,7 @@
    ],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "Mist74",
-     "uuid": "0a2a65de-9e38-4da2-a984-ee272e2c159f"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

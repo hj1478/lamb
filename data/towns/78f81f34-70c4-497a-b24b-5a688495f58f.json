@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Beskardurikoriya",
   "uuid": "78f81f34-70c4-497a-b24b-5a688495f58f",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 68,
+   "numTownBlocks": 71,
    "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,18 @@
     -1326
    ],
    "townBlocks": [
+    [
+     1480,
+     -1326
+    ],
+    [
+     1480,
+     -1329
+    ],
+    [
+     1480,
+     -1328
+    ],
     [
      1480,
      -1327
@@ -160,12 +172,12 @@
      -1326
     ],
     [
-     1485,
-     -1325
-    ],
-    [
      1484,
      -1323
+    ],
+    [
+     1485,
+     -1325
     ],
     [
      1484,
@@ -372,16 +384,16 @@
     "uuid": "b2fe0bd7-cef6-4b28-a0ee-45982c147200"
    },
    {
-    "name": "OceanThunder16",
-    "uuid": "d13dc9ab-b9de-460d-8ef7-5647355e7929"
-   },
-   {
     "name": "LazyTurtle745",
     "uuid": "9557b06f-798f-4648-893e-fdec5be223b9"
    },
    {
     "name": "FreelandZ",
     "uuid": "94cd02db-7518-4246-bdd2-8e0fb26c5b2c"
+   },
+   {
+    "name": "DinoPlays335",
+    "uuid": "48fc971f-7b25-40fb-b1b1-d5db7f35df72"
    }
   ],
   "trusted": [],
@@ -389,10 +401,6 @@
   "quarters": [],
   "ranks": {
    "Councillor": [
-    {
-     "name": "OceanThunder16",
-     "uuid": "d13dc9ab-b9de-460d-8ef7-5647355e7929"
-    },
     {
      "name": "LazyTurtle745",
      "uuid": "9557b06f-798f-4648-893e-fdec5be223b9"
@@ -412,12 +420,7 @@
    ],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "OceanThunder16",
-     "uuid": "d13dc9ab-b9de-460d-8ef7-5647355e7929"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [
     {
      "name": "LazyTurtle745",

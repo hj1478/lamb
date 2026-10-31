@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Blakwood",
   "uuid": "82b4a0a4-b57b-4154-abe1-4c09698157ed",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -105,6 +105,10 @@
     ],
     [
      1045,
+     -819
+    ],
+    [
+     1045,
      -818
     ],
     [
@@ -112,8 +116,20 @@
      -819
     ],
     [
+     1044,
+     -817
+    ],
+    [
+     1044,
+     -818
+    ],
+    [
      1046,
      -819
+    ],
+    [
+     1046,
+     -820
     ],
     [
      1046,
@@ -128,10 +144,6 @@
   },
   "residents": [
    {
-    "name": "lollopollo2013",
-    "uuid": "007bdd07-8c2b-44ed-99ce-05cc8490be5e"
-   },
-   {
     "name": "LordCocco",
     "uuid": "643bea62-c4ab-4f62-9fe6-eceadb4e73d2"
    }
@@ -140,12 +152,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "lollopollo2013",
-     "uuid": "007bdd07-8c2b-44ed-99ce-05cc8490be5e"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

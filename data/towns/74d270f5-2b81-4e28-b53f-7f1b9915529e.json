@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Sitkadilak",
   "uuid": "74d270f5-2b81-4e28-b53f-7f1b9915529e",
@@ -12,12 +12,12 @@
    "uuid": "7a23dd65-d40c-4efd-8369-043f008bf5fd"
   },
   "nation": {
-   "name": "Bering_Sea",
-   "uuid": "50841897-23f2-4f43-b07e-b1cc26fa845c"
+   "name": "Alaska",
+   "uuid": "b100a2bb-69a7-4e8c-ac53-9a8cb7d82409"
   },
   "timestamps": {
    "registered": 1793359803454,
-   "joinedNationAt": 1793359973255,
+   "joinedNationAt": 1793376622859,
    "ruinedAt": null
   },
   "status": {
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -93,7 +93,19 @@
    "townBlocks": [
     [
      -3438,
+     -943
+    ],
+    [
+     -3438,
      -944
+    ],
+    [
+     -3437,
+     -943
+    ],
+    [
+     -3438,
+     -942
     ]
    ],
    "worlds": {}

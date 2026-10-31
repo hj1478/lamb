@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Alassaf",
-  "uuid": "eb98bb97-b451-4473-a89e-92f9e554ad8d",
+  "name": "Jatkosota",
+  "uuid": "6058121c-89ba-4e2f-acb8-34ca2832f199",
   "board": "/town set board [msg]",
-  "founder": "Abdullah_98_",
+  "founder": "StellaVI",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FemboyKodiak",
-   "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
+   "name": "StellaVI",
+   "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
   },
   "nation": {
-   "name": "Israel",
-   "uuid": "e2708a1d-fa36-4c58-98f4-fbc1ae049dbf"
+   "name": "Ethiopia",
+   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
   },
   "timestamps": {
-   "registered": 1781662293579,
-   "joinedNationAt": 1789335671542,
+   "registered": 1793389469266,
+   "joinedNationAt": 1793389477615,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 23,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,123 +73,126 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
-    "mobs": true
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14234.345976024488,
-    "y": 70.0,
-    "z": -5265.518736256494,
-    "pitch": -2.400029,
-    "yaw": -92.15581
+    "x": 18141.943963061633,
+    "y": 63.0,
+    "z": 4732.835805650386,
+    "pitch": 2.999823,
+    "yaw": -89.39378
    },
    "homeBlock": [
-    889,
-    -330
+    1133,
+    295
    ],
    "townBlocks": [
     [
-     890,
-     -329
+     1134,
+     296
     ],
     [
-     890,
-     -330
+     1133,
+     296
     ],
     [
-     889,
-     -330
+     1132,
+     295
     ],
     [
-     889,
-     -331
+     1133,
+     295
     ],
     [
-     890,
-     -328
+     1132,
+     296
     ],
     [
-     888,
-     -330
+     1134,
+     294
     ],
     [
-     888,
-     -331
+     1133,
+     298
     ],
     [
-     888,
-     -328
+     1134,
+     295
     ],
     [
-     888,
-     -329
+     1133,
+     297
     ],
     [
-     891,
-     -330
+     1132,
+     294
     ],
     [
-     891,
-     -329
+     1134,
+     293
     ],
     [
-     891,
-     -328
+     1132,
+     297
     ],
     [
-     891,
-     -331
+     1133,
+     294
     ],
     [
-     889,
-     -328
+     1129,
+     297
     ],
     [
-     889,
-     -329
+     1132,
+     298
     ],
     [
-     892,
-     -330
+     1133,
+     293
     ],
     [
-     890,
-     -331
+     1131,
+     298
     ],
     [
-     889,
-     -327
+     1131,
+     297
+    ],
+    [
+     1131,
+     296
+    ],
+    [
+     1131,
+     295
+    ],
+    [
+     1130,
+     296
+    ],
+    [
+     1130,
+     297
+    ],
+    [
+     1130,
+     298
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "FemboyKodiak",
-    "uuid": "97d01abe-6957-4a05-b34b-db8f62c25f54"
-   },
-   {
-    "name": "Bacillen",
-    "uuid": "b1a5882f-161b-4289-94e3-8bbc86d261d8"
+    "name": "StellaVI",
+    "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
    }
   ],
-  "trusted": [
-   {
-    "name": "NoahShan",
-    "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"
-   },
-   {
-    "name": "Fwishhy",
-    "uuid": "b4a806ec-56ea-48d5-8692-4a81e7acc957"
-   },
-   {
-    "name": "Bacillen",
-    "uuid": "b1a5882f-161b-4289-94e3-8bbc86d261d8"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

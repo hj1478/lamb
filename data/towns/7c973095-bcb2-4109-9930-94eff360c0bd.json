@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Dat_Mui-Ville",
   "uuid": "7c973095-bcb2-4109-9930-94eff360c0bd",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MrLucky38",
-   "uuid": "21cd923f-268f-4a17-bd04-ff3445e71f83"
+   "name": "InstantMoon",
+   "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
   },
   "nation": {
    "name": "Lanfang",
@@ -17,17 +17,17 @@
   },
   "timestamps": {
    "registered": 1783782437708,
-   "joinedNationAt": 1783782491921,
+   "joinedNationAt": 1792925613956,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 96,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 6,
+   "nationBonus": 60,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 183.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 600.0
   },
   "perms": {
    "build": [
@@ -480,42 +480,22 @@
   },
   "residents": [
    {
-    "name": "MrLucky38",
-    "uuid": "21cd923f-268f-4a17-bd04-ff3445e71f83"
-   },
-   {
     "name": "Amel_ac",
     "uuid": "f8839183-08fe-4858-9fa0-4d683c4ac690"
    },
    {
-    "name": "4m5m",
-    "uuid": "ea44bdee-0233-4837-9b9f-e4d9e6668e58"
+    "name": "InstantMoon",
+    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
    }
   ],
   "trusted": [
    {
-    "name": "1n1troll3ur",
-    "uuid": "235aded2-b084-48c2-aec3-0bcc040cf25d"
+    "name": "BaroqueMan",
+    "uuid": "cbfefb43-fd35-4db5-b2f3-e2e919d55d96"
    },
    {
-    "name": "Corentyn",
-    "uuid": "f00fec7b-c51d-4418-a38d-425dee6a1a18"
-   },
-   {
-    "name": "Pelle_Nomme",
-    "uuid": "96722925-6c17-4f31-81e0-47eb156f2578"
-   },
-   {
-    "name": "Vladie57",
-    "uuid": "4c629589-e2db-476b-a1b7-934c17f97074"
-   },
-   {
-    "name": "MrLucky38",
-    "uuid": "21cd923f-268f-4a17-bd04-ff3445e71f83"
-   },
-   {
-    "name": "Krimb",
-    "uuid": "5e55e72a-53ff-4e52-a17c-b4ab111b93e1"
+    "name": "HasanHasa",
+    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Ulaanhad",
   "uuid": "742753f9-99fb-43f9-b6f7-39c4d11abe03",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "shunseki",
-   "uuid": "1e203e10-5319-4382-9f41-69bb60c9534d"
+   "name": "NPC18",
+   "uuid": "688c51b6-7106-2079-a5f2-5a77ac9daafc"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1786546070629,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793440801725
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "shunseki",
-    "uuid": "1e203e10-5319-4382-9f41-69bb60c9534d"
+    "name": "NPC18",
+    "uuid": "688c51b6-7106-2079-a5f2-5a77ac9daafc"
    }
   ],
   "trusted": [],

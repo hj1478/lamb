@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Pskov",
   "uuid": "6fd9dcf6-6273-4152-968c-16acf0fd8afa",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 82,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 1,
+   "numResidents": 5,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 481.0,
+   "balance": 531.0,
    "forSalePrice": null
   },
   "perms": {
@@ -432,6 +432,10 @@
     "uuid": "67878092-9f1e-44dd-b593-862840a622e7"
    },
    {
+    "name": "Fourchettes",
+    "uuid": "a434cf0b-f2ea-4b2a-a012-6e9bf90c3c6b"
+   },
+   {
     "name": "davidorange67",
     "uuid": "e99cbec2-0227-4567-9549-1d1156334922"
    },
@@ -441,6 +445,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "Fourchettes",
+    "uuid": "a434cf0b-f2ea-4b2a-a012-6e9bf90c3c6b"
+   },
    {
     "name": "w0rek_kartofli",
     "uuid": "67878092-9f1e-44dd-b593-862840a622e7"
@@ -466,7 +474,12 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "Fourchettes",
+     "uuid": "a434cf0b-f2ea-4b2a-a012-6e9bf90c3c6b"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

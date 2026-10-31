@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "DillingBurg",
   "uuid": "7809bc06-f4b0-4a7b-aaf6-879994df436d",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 77,
-   "maxTownBlocks": 82,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 6,
-   "numTrusted": 7,
+   "nationBonus": 0,
+   "numResidents": 4,
+   "numTrusted": 6,
    "numOutlaws": 5,
    "balance": 1.0,
    "forSalePrice": null
@@ -413,20 +413,12 @@
     "uuid": "2d3d3044-2337-4d34-85a9-794942817500"
    },
    {
-    "name": "EricPCross",
-    "uuid": "f7df5ae2-0f72-4f2a-a7c6-4cb1e3561eb1"
-   },
-   {
     "name": "oxygenplague",
     "uuid": "6c368490-fcac-4f58-ba39-521f31ec3f4a"
    },
    {
     "name": "7_Coyote_7",
     "uuid": "cd6e2f32-ade2-4a8a-b9b7-d1242205014f"
-   },
-   {
-    "name": "idenwigd",
-    "uuid": "e0e94d7b-994d-4ac6-b0c9-ef63a4678346"
    },
    {
     "name": "workbot_",
@@ -437,10 +429,6 @@
    {
     "name": "oxygenplague",
     "uuid": "6c368490-fcac-4f58-ba39-521f31ec3f4a"
-   },
-   {
-    "name": "EricPCross",
-    "uuid": "f7df5ae2-0f72-4f2a-a7c6-4cb1e3561eb1"
    },
    {
     "name": "YasiiinBey",
@@ -584,12 +572,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "EricPCross",
-     "uuid": "f7df5ae2-0f72-4f2a-a7c6-4cb1e3561eb1"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

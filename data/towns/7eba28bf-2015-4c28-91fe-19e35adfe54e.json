@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "New_One_Chunk",
+  "name": "Krugelfall",
   "uuid": "7eba28bf-2015-4c28-91fe-19e35adfe54e",
-  "board": "Im back baby!!!!",
+  "board": "Welcome To Krugelfall.",
   "founder": "CARTERPROGAMER",
   "wiki": null,
   "discord": null,
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,12 +100,28 @@
      -603
     ],
     [
+     166,
+     -603
+    ],
+    [
+     168,
+     -601
+    ],
+    [
+     166,
+     -602
+    ],
+    [
      168,
      -602
     ],
     [
      166,
-     -602
+     -601
+    ],
+    [
+     167,
+     -601
     ],
     [
      167,
@@ -118,13 +134,43 @@
    {
     "name": "CARTERPROGAMER",
     "uuid": "44e46f69-2647-4d36-b3f6-e71678fb42b3"
+   },
+   {
+    "name": "Remmie_Reverie",
+    "uuid": "7dd44ee2-4cbb-492e-885c-7ea5e3c29474"
+   },
+   {
+    "name": "TheMaskInGoldYT",
+    "uuid": "fd9de72c-ebc8-4176-8bc5-dcf5b4c6c9cb"
+   },
+   {
+    "name": "TheDumbNoob123",
+    "uuid": "ef57a5cc-741c-4f76-b1dd-ff6dbb5e2772"
+   },
+   {
+    "name": "ryzen4070_",
+    "uuid": "4227201b-c319-4d5d-8ca8-dbfc814f23ad"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "TheMaskInGoldYT",
+    "uuid": "fd9de72c-ebc8-4176-8bc5-dcf5b4c6c9cb"
+   },
+   {
+    "name": "TheDumbNoob123",
+    "uuid": "ef57a5cc-741c-4f76-b1dd-ff6dbb5e2772"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "TheMaskInGoldYT",
+     "uuid": "fd9de72c-ebc8-4176-8bc5-dcf5b4c6c9cb"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

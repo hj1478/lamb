@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Ourense",
   "uuid": "707651b8-472f-4d7b-8d39-9ba4fa5651c8",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ElRoscao",
-   "uuid": "a7d19e26-6d28-409b-8829-fba458dd66be"
+   "name": "NPC105",
+   "uuid": "1db5ab61-88a0-20e6-9704-8fb1e3a99f2c"
   },
   "nation": {
-   "name": "Spain",
-   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786734238148,
-   "joinedNationAt": 1788454402828,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793440868893
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -172,8 +172,8 @@
   },
   "residents": [
    {
-    "name": "ElRoscao",
-    "uuid": "a7d19e26-6d28-409b-8829-fba458dd66be"
+    "name": "NPC105",
+    "uuid": "1db5ab61-88a0-20e6-9704-8fb1e3a99f2c"
    }
   ],
   "trusted": [

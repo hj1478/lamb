@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Sines",
   "uuid": "80b0f1fa-8535-4585-862a-154578a2127f",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 13,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 12,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -498,6 +498,10 @@
    {
     "name": "PauloRic_15",
     "uuid": "5c48fb95-fadf-4ccb-8b32-181c6fc6f3e2"
+   },
+   {
+    "name": "Jaqui77",
+    "uuid": "1ab7d3e8-7903-4ada-8ba7-2d57f2cf9237"
    }
   ],
   "trusted": [
@@ -518,16 +522,24 @@
     "uuid": "0c415c35-1ac9-4051-a616-e8030c446c77"
    },
    {
+    "name": "underrrr",
+    "uuid": "f81a5599-0947-42d9-b2b2-7f051b780208"
+   },
+   {
     "name": "RedPT12",
     "uuid": "94bf9925-a28e-45f4-826e-f28563472be0"
    },
    {
-    "name": "ArtistGames",
-    "uuid": "1f1709a6-e541-4d6b-854b-2dbac0bc0ffb"
-   },
-   {
     "name": "Hihihihhiih",
     "uuid": "8dcca0aa-7e41-40cb-8a8a-c883f22e4426"
+   },
+   {
+    "name": "FTbD8",
+    "uuid": "de5e4298-a627-44d4-ab57-2c917e85306b"
+   },
+   {
+    "name": "mmalaia",
+    "uuid": "16750e8a-065e-4fec-84eb-cdce51f32545"
    },
    {
     "name": "KAMOTARS",
@@ -540,18 +552,6 @@
    {
     "name": "RicordyYT",
     "uuid": "f91d393d-e3b5-4112-8559-0e448493a746"
-   },
-   {
-    "name": "underrrr",
-    "uuid": "f81a5599-0947-42d9-b2b2-7f051b780208"
-   },
-   {
-    "name": "FTbD8",
-    "uuid": "de5e4298-a627-44d4-ab57-2c917e85306b"
-   },
-   {
-    "name": "mmalaia",
-    "uuid": "16750e8a-065e-4fec-84eb-cdce51f32545"
    }
   ],
   "outlaws": [
@@ -566,7 +566,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Jaqui77",
+     "uuid": "1ab7d3e8-7903-4ada-8ba7-2d57f2cf9237"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

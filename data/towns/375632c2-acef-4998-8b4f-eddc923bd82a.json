@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Zeravundia",
-  "uuid": "61e68ad6-c35c-4b01-91ad-c395bfbba22e",
+  "name": "Spngnim",
+  "uuid": "375632c2-acef-4998-8b4f-eddc923bd82a",
   "board": "/town set board [msg]",
-  "founder": "Applebees2013",
+  "founder": "PolakNaSerwerze",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC53",
-   "uuid": "29b1dbdf-3cd8-204c-8889-1432598c00c3"
+   "name": "PolakNaSerwerze",
+   "uuid": "bb123ac4-a7d8-4667-9e3c-6e158d30fe46"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "DPRK",
+   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
   },
   "timestamps": {
-   "registered": 1792620224412,
-   "joinedNationAt": null,
-   "ruinedAt": 1793135986869
+   "registered": 1793381639561,
+   "joinedNationAt": 1793381719908,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,72 +36,72 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13158.24050825242,
-    "y": 73.0,
-    "z": -6151.267076423195,
-    "pitch": 36.749653,
-    "yaw": -52.225586
+    "x": 45293.77574614854,
+    "y": 72.0,
+    "z": -6511.30388077918,
+    "pitch": 9.749961,
+    "yaw": 14.687523
    },
    "homeBlock": [
-    822,
-    -385
+    2830,
+    -407
    ],
    "townBlocks": [
     [
-     822,
-     -385
+     2830,
+     -407
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC53",
-    "uuid": "29b1dbdf-3cd8-204c-8889-1432598c00c3"
+    "name": "PolakNaSerwerze",
+    "uuid": "bb123ac4-a7d8-4667-9e3c-6e158d30fe46"
    }
   ],
   "trusted": [],

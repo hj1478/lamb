@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Karaganda",
   "uuid": "71a76a25-26b2-4154-a542-4d6a88e3de7d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "L0RD_KRAT05",
-   "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+   "name": "_Snapshot",
+   "uuid": "b47ae35c-1107-4be9-a100-409368335802"
   },
   "nation": {
    "name": "Uzbekistan",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
-   "numTrusted": 5,
+   "numResidents": 2,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 99.0,
+   "balance": 89.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 25000.080149104047,
+    "x": 25029.346077215978,
     "y": 70.0,
-    "z": -10499.17763803912,
-    "pitch": 16.050093,
-    "yaw": -93.68024
+    "z": -10500.533077342372,
+    "pitch": -61.53546,
+    "yaw": -89.42984
    },
    "homeBlock": [
-    1562,
+    1564,
     -657
    ],
    "townBlocks": [
@@ -240,8 +240,12 @@
   },
   "residents": [
    {
-    "name": "L0RD_KRAT05",
-    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+    "name": "_Snapshot",
+    "uuid": "b47ae35c-1107-4be9-a100-409368335802"
+   },
+   {
+    "name": "vqxrvx",
+    "uuid": "348a6c04-fecf-49f0-8acf-806bd6139e41"
    }
   ],
   "trusted": [
@@ -258,12 +262,20 @@
     "uuid": "72d96d44-9775-4341-ada9-2247c4ed6f5b"
    },
    {
+    "name": "L0RD_KRAT05",
+    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+   },
+   {
     "name": "_Snapshot",
     "uuid": "b47ae35c-1107-4be9-a100-409368335802"
    },
    {
     "name": "Z0raa_a",
     "uuid": "fd85c432-f621-47e3-afd9-0530fe4f7cd8"
+   },
+   {
+    "name": "fawnmaster",
+    "uuid": "14f3dc19-3af0-421f-be66-897056382e77"
    }
   ],
   "outlaws": [],

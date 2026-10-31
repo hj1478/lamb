@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Phrog",
   "uuid": "8396c97a-21cb-44ae-841f-587667b4e07d",
@@ -12,19 +12,19 @@
    "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": "Alagoas",
+   "uuid": "4196a271-c9b3-4f0a-ad9b-b9a965b78935"
   },
   "timestamps": {
    "registered": 1792927819840,
-   "joinedNationAt": 1792927877390,
+   "joinedNationAt": 1793038438639,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 25,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 6970.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,18 +80,78 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -13925.752800505177,
+    "x": -13949.412585647082,
     "y": 70.0,
-    "z": 11196.35359603519,
-    "pitch": 21.54991,
-    "yaw": 179.5343
+    "z": 11240.344113318804,
+    "pitch": 3.0998836,
+    "yaw": 1.03479
    },
    "homeBlock": [
-    -871,
-    699
+    -872,
+    702
    ],
    "townBlocks": [
     [
+     -869,
+     703
+    ],
+    [
+     -869,
+     702
+    ],
+    [
+     -873,
+     699
+    ],
+    [
+     -873,
+     700
+    ],
+    [
+     -871,
+     699
+    ],
+    [
+     -869,
+     701
+    ],
+    [
+     -869,
+     700
+    ],
+    [
+     -869,
+     699
+    ],
+    [
+     -871,
+     702
+    ],
+    [
+     -873,
+     703
+    ],
+    [
+     -871,
+     703
+    ],
+    [
+     -873,
+     701
+    ],
+    [
+     -871,
+     700
+    ],
+    [
+     -873,
+     702
+    ],
+    [
+     -871,
+     701
+    ],
+    [
      -870,
      699
     ],
@@ -105,6 +165,10 @@
     ],
     [
      -872,
+     703
+    ],
+    [
+     -872,
      700
     ],
     [
@@ -116,59 +180,15 @@
      699
     ],
     [
-     -873,
-     699
-    ],
-    [
-     -869,
-     702
-    ],
-    [
-     -871,
-     699
-    ],
-    [
-     -869,
-     701
-    ],
-    [
-     -873,
-     700
+     -870,
+     703
     ],
     [
      -870,
      701
     ],
     [
-     -869,
-     700
-    ],
-    [
-     -869,
-     699
-    ],
-    [
      -870,
-     702
-    ],
-    [
-     -871,
-     702
-    ],
-    [
-     -871,
-     700
-    ],
-    [
-     -873,
-     701
-    ],
-    [
-     -871,
-     701
-    ],
-    [
-     -873,
      702
     ]
    ],
@@ -178,9 +198,34 @@
    {
     "name": "ChrisNoSignal",
     "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
+   },
+   {
+    "name": "blueshisgreen",
+    "uuid": "4709dc1c-fccd-4db4-bc4c-b4f12b0c812d"
+   },
+   {
+    "name": "saxonhermo12",
+    "uuid": "ff0e209d-9df5-41c5-8fc1-fd57368491dc"
+   },
+   {
+    "name": "poods1234569",
+    "uuid": "171d05bd-3ca8-45ab-862d-2caa2f782446"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Gustaf_MJR",
+    "uuid": "906007d8-1ece-4bc5-a81b-4221b689abf8"
+   },
+   {
+    "name": "poods1234569",
+    "uuid": "171d05bd-3ca8-45ab-862d-2caa2f782446"
+   },
+   {
+    "name": "saxonhermo12",
+    "uuid": "ff0e209d-9df5-41c5-8fc1-fd57368491dc"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Hiryu",
   "uuid": "8f2349ce-ab95-4a06-a595-9f62f4a6c8bd",
@@ -12,12 +12,12 @@
    "uuid": "f988d045-87b6-4cb4-94c4-e10996ad08c9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Bokkai",
+   "uuid": "a258d426-9cbb-4fa3-bf97-4cbd57b4d13c"
   },
   "timestamps": {
    "registered": 1793277927817,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793357369327,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,40 @@
    ],
    "townBlocks": [
     [
+     2913,
+     -538
+    ],
+    [
+     2913,
+     -537
+    ],
+    [
+     2914,
+     -539
+    ],
+    [
+     2914,
+     -538
+    ],
+    [
      2914,
      -537
+    ],
+    [
+     2913,
+     -539
+    ],
+    [
+     2915,
+     -537
+    ],
+    [
+     2915,
+     -538
+    ],
+    [
+     2915,
+     -539
     ]
    ],
    "worlds": {}
@@ -110,7 +142,12 @@
     "uuid": "a7d98dcf-cb9f-4ee6-b61c-bf7c6ecbc861"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

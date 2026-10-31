@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Watertown",
   "uuid": "7e737ad9-ba57-419f-ba6b-c49b8763904d",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 49,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 52,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 4,
+   "nationBonus": 60,
+   "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 243.0,
+   "numOutlaws": 1,
+   "balance": 190.0,
    "forSalePrice": null
   },
   "perms": {
@@ -165,6 +165,10 @@
     ],
     [
      2989,
+     796
+    ],
+    [
+     2989,
      797
     ],
     [
@@ -190,6 +194,10 @@
     [
      2990,
      797
+    ],
+    [
+     2990,
+     796
     ],
     [
      2987,
@@ -262,6 +270,10 @@
     [
      2985,
      795
+    ],
+    [
+     2988,
+     796
     ],
     [
      2988,
@@ -296,10 +308,6 @@
     "uuid": "c6155152-7cb2-4c7c-be62-87e61322a688"
    },
    {
-    "name": "Elythin",
-    "uuid": "a26b1be5-96c1-4c0c-84f9-73bc7ad214b8"
-   },
-   {
     "name": "TENCHEN801",
     "uuid": "76470b7c-430f-41d8-9bee-009d421fd4c9"
    },
@@ -309,7 +317,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "2tman4",
+    "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
+   }
+  ],
   "quarters": [
    {
     "name": "Plot 1",

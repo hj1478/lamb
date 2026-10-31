@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Quebec",
   "uuid": "78044414-7d22-4fb0-adc7-4a34c42e2f68",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 7,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27648.03950499461,
-    "y": 41.0,
-    "z": -16767.989287599125,
-    "pitch": -0.14999497,
-    "yaw": 0.08908746
+    "x": -27526.56921116397,
+    "y": 51.0,
+    "z": -16709.517462497457,
+    "pitch": 5.549953,
+    "yaw": 89.63959
    },
    "homeBlock": [
-    -1729,
-    -1048
+    -1721,
+    -1045
    ],
    "townBlocks": [
     [
@@ -1120,6 +1120,10 @@
    {
     "name": "llWmfdll",
     "uuid": "c385edac-cd55-4d02-bb8d-175210bbc693"
+   },
+   {
+    "name": "Pak_Choy",
+    "uuid": "7786dff8-7d6b-475a-a409-10c32b85311a"
    },
    {
     "name": "L1nks_",

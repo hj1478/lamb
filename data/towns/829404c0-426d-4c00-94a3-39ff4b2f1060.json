@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Albania",
   "uuid": "829404c0-426d-4c00-94a3-39ff4b2f1060",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Casualties",
-   "uuid": "2d702475-d561-4f17-b040-479bc104a666"
+   "name": "NPC49",
+   "uuid": "17d631b8-3afa-20f1-a8c8-ae24eada58db"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789754728887,
-   "joinedNationAt": 1789764077148,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793440802494
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,12 +100,8 @@
   },
   "residents": [
    {
-    "name": "Casualties",
-    "uuid": "2d702475-d561-4f17-b040-479bc104a666"
-   },
-   {
-    "name": "BaseBuyer",
-    "uuid": "d2477dd0-33d3-443f-83ee-576772d315cf"
+    "name": "NPC49",
+    "uuid": "17d631b8-3afa-20f1-a8c8-ae24eada58db"
    }
   ],
   "trusted": [],
@@ -113,21 +109,11 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "BaseBuyer",
-     "uuid": "d2477dd0-33d3-443f-83ee-576772d315cf"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "BaseBuyer",
-     "uuid": "d2477dd0-33d3-443f-83ee-576772d315cf"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

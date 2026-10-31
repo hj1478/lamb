@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
-  "name": "Orest",
-  "uuid": "b2da44cb-a673-4389-88f4-28c19df9a0c0",
+  "name": "Labrador",
+  "uuid": "fd8c0eb0-9612-47a1-9f05-9e0877436c2e",
   "board": "/town set board [msg]",
-  "founder": "Kingblade_BG",
+  "founder": "KRAKERJAX91",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kingblade_BG",
-   "uuid": "7469ee9b-a02b-49e2-83f2-730db869efc1"
+   "name": "KRAKERJAX91",
+   "uuid": "01f03b80-5993-4886-97a6-bb08a7dac7c6"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Vinland",
+   "uuid": "18b560da-e666-4c3e-980e-4074b8e38958"
   },
   "timestamps": {
-   "registered": 1788116725535,
-   "joinedNationAt": null,
+   "registered": 1793423688467,
+   "joinedNationAt": 1793423707918,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
-   "isNeutral": true,
+   "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,34 +74,62 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35914.36183184677,
-    "y": 86.0,
-    "z": -20259.23750001192,
-    "pitch": 7.800019,
-    "yaw": -125.32956
+    "x": -22481.68097648782,
+    "y": 74.0,
+    "z": -15226.577167877154,
+    "pitch": 44.099674,
+    "yaw": -52.3461
    },
    "homeBlock": [
-    2244,
-    -1267
+    -1406,
+    -952
    ],
    "townBlocks": [
     [
-     2244,
-     -1267
+     -1406,
+     -952
+    ],
+    [
+     -1404,
+     -951
+    ],
+    [
+     -1406,
+     -951
+    ],
+    [
+     -1404,
+     -952
+    ],
+    [
+     -1406,
+     -953
+    ],
+    [
+     -1405,
+     -953
+    ],
+    [
+     -1405,
+     -952
+    ],
+    [
+     -1405,
+     -951
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Kingblade_BG",
-    "uuid": "7469ee9b-a02b-49e2-83f2-730db869efc1"
+    "name": "KRAKERJAX91",
+    "uuid": "01f03b80-5993-4886-97a6-bb08a7dac7c6"
    }
   ],
   "trusted": [],

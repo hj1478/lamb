@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T11:13:43Z",
+ "fetched_at": "2026-10-31T12:44:57Z",
  "data": {
   "name": "Quebec_City",
   "uuid": "884eda8d-1c5c-4127-a7e2-6e30d206d3de",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "waalma13",
-   "uuid": "e30bf9de-cb6d-4836-b7c2-339aa4960d27"
+   "name": "AdamBetter7",
+   "uuid": "a62ee039-6364-4070-a876-488498b92fc5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Acadia",
+   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
   },
   "timestamps": {
    "registered": 1777182246226,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793449371720,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 62,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 8,
-   "numTrusted": 2,
+   "nationBonus": 100,
+   "numResidents": 7,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 306.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -344,14 +344,6 @@
   },
   "residents": [
    {
-    "name": "waalma13",
-    "uuid": "e30bf9de-cb6d-4836-b7c2-339aa4960d27"
-   },
-   {
-    "name": "SHNIZON_YT",
-    "uuid": "de62b99e-d6a7-4201-a0f6-2edf6ebf7a44"
-   },
-   {
     "name": "ender_em8",
     "uuid": "9f2fb14c-fda9-40f8-94ef-935bcc89971d"
    },
@@ -374,18 +366,13 @@
    {
     "name": "Niro714",
     "uuid": "8736b584-c2d5-432e-a901-d91da7a161df"
-   }
-  ],
-  "trusted": [
-   {
-    "name": "joshua_iscool",
-    "uuid": "199fad6a-5dba-4e27-a273-ae2c49192098"
    },
    {
-    "name": "SHNIZON_YT",
-    "uuid": "de62b99e-d6a7-4201-a0f6-2edf6ebf7a44"
+    "name": "AdamBetter7",
+    "uuid": "a62ee039-6364-4070-a876-488498b92fc5"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
    {
@@ -410,12 +397,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "SHNIZON_YT",
-     "uuid": "de62b99e-d6a7-4201-a0f6-2edf6ebf7a44"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
