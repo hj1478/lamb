@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "La_Mancha",
   "uuid": "b52bff02-4e76-4dfe-960c-11e097013902",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
+   "numTownBlocks": 37,
    "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 4,
-   "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 7.0,
+   "numTrusted": 2,
+   "numOutlaws": 5,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,9 +59,9 @@
     false
    ],
    "switch": [
-    false,
-    false,
-    false,
+    true,
+    true,
+    true,
     false
    ],
    "itemUse": [
@@ -112,6 +112,10 @@
      -411
     ],
     [
+     -59,
+     -413
+    ],
+    [
      -61,
      -408
     ],
@@ -132,6 +136,10 @@
      -412
     ],
     [
+     -61,
+     -413
+    ],
+    [
      -63,
      -408
     ],
@@ -140,12 +148,20 @@
      -409
     ],
     [
+     -63,
+     -412
+    ],
+    [
      -62,
      -412
     ],
     [
+     -62,
+     -413
+    ],
+    [
      -63,
-     -412
+     -413
     ],
     [
      -63,
@@ -176,12 +192,20 @@
      -412
     ],
     [
+     -64,
+     -413
+    ],
+    [
      -62,
      -410
     ],
     [
      -58,
      -410
+    ],
+    [
+     -60,
+     -413
     ],
     [
      -62,
@@ -206,6 +230,10 @@
     [
      -60,
      -409
+    ],
+    [
+     -64,
+     -412
     ],
     [
      -60,
@@ -234,6 +262,10 @@
   ],
   "trusted": [
    {
+    "name": "0Miura",
+    "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
+   },
+   {
     "name": "Hosizz1",
     "uuid": "d1190992-c483-49e1-a61e-59396ba0ce11"
    }
@@ -250,6 +282,14 @@
    {
     "name": "Aracnedix",
     "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "Xtvr",
+    "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
    }
   ],
   "quarters": [],

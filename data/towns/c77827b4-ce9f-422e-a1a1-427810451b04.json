@@ -1,35 +1,35 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Hamedan",
-  "uuid": "2e227977-d583-4fdf-b365-100e48b81800",
-  "board": "Ma Iraniyan az Shah-e vatanforush poshtibani nemikonim",
-  "founder": "Palatshu",
+  "name": "Arbores_Trial",
+  "uuid": "c77827b4-ce9f-422e-a1a1-427810451b04",
+  "board": "/town set board [msg]",
+  "founder": "Jojo1236380",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC77",
-   "uuid": "cf2e8113-e32f-2077-8b28-b3206df36827"
+   "name": "Jojo1236380",
+   "uuid": "d1caff41-a6b5-4224-b51e-e398ce89afc5"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1792978912170,
+   "registered": 1793529663314,
    "joinedNationAt": null,
-   "ruinedAt": 1793233867660
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,91 +40,96 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 51.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17385.46123362638,
-    "y": 98.0,
-    "z": -4999.510109735395,
-    "pitch": 89.85,
-    "yaw": -179.1814
+    "x": -21584.345597739844,
+    "y": -21.0,
+    "z": 11657.768296480483,
+    "pitch": 31.720959,
+    "yaw": 13.089783
    },
    "homeBlock": [
-    1086,
-    -313
+    -1350,
+    728
    ],
    "townBlocks": [
     [
-     1086,
-     -313
+     -1350,
+     728
     ],
     [
-     1086,
-     -314
+     -1349,
+     729
     ],
     [
-     1084,
-     -315
+     -1350,
+     727
     ],
     [
-     1086,
-     -315
+     -1349,
+     727
     ],
     [
-     1085,
-     -314
+     -1349,
+     728
     ],
     [
-     1085,
-     -315
+     -1350,
+     729
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC77",
-    "uuid": "cf2e8113-e32f-2077-8b28-b3206df36827"
+    "name": "Jojo1236380",
+    "uuid": "d1caff41-a6b5-4224-b51e-e398ce89afc5"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "SuperJJJ123",
+    "uuid": "f5b525d2-0eb0-47af-aad7-d834a7c3e362"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

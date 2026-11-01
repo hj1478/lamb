@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Troyeshchyna",
   "uuid": "95cccbf7-c7e0-44ea-94b5-08609c54711e",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 110,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -542,6 +542,10 @@
    {
     "name": "SweptBranch153",
     "uuid": "280a66c0-0865-4043-9de8-a28c149487ad"
+   },
+   {
+    "name": "Cold_toyota",
+    "uuid": "f771fd52-96bd-448c-86e3-5d1396728fdb"
    }
   ],
   "trusted": [
@@ -559,7 +563,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Cold_toyota",
+     "uuid": "f771fd52-96bd-448c-86e3-5d1396728fdb"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

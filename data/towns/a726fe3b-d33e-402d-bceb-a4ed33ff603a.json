@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Kyrene",
   "uuid": "a726fe3b-d33e-402d-bceb-a4ed33ff603a",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -93,6 +93,30 @@
    "townBlocks": [
     [
      493,
+     -261
+    ],
+    [
+     495,
+     -262
+    ],
+    [
+     495,
+     -261
+    ],
+    [
+     492,
+     -264
+    ],
+    [
+     493,
+     -264
+    ],
+    [
+     494,
+     -262
+    ],
+    [
+     495,
      -264
     ],
     [
@@ -104,6 +128,14 @@
      -263
     ],
     [
+     495,
+     -263
+    ],
+    [
+     492,
+     -262
+    ],
+    [
      493,
      -262
     ],
@@ -113,7 +145,35 @@
     ],
     [
      494,
+     -261
+    ],
+    [
+     492,
+     -261
+    ],
+    [
+     491,
+     -263
+    ],
+    [
+     490,
      -264
+    ],
+    [
+     491,
+     -264
+    ],
+    [
+     494,
+     -264
+    ],
+    [
+     491,
+     -262
+    ],
+    [
+     490,
+     -263
     ]
    ],
    "worlds": {}
@@ -125,6 +185,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "Morf0nios",
+    "uuid": "bbadcef2-753b-4889-9c04-c9ca6593577b"
+   },
    {
     "name": "PROMY19",
     "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"

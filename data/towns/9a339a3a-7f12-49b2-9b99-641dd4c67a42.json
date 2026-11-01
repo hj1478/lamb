@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Wuhan",
   "uuid": "9a339a3a-7f12-49b2-9b99-641dd4c67a42",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 404,
-   "maxTownBlocks": 400,
+   "maxTownBlocks": 412,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 25,
+   "numResidents": 26,
    "numTrusted": 25,
    "numOutlaws": 9,
-   "balance": 27.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1721,6 +1721,10 @@
     "uuid": "9c2df859-0a58-44bf-899e-280813263b7f"
    },
    {
+    "name": "2_Drop",
+    "uuid": "6156a1c4-83d0-499c-b911-a3634b556d42"
+   },
+   {
     "name": "Diegusmago",
     "uuid": "f677025e-2792-4c3b-9563-d8f29a315144"
    },
@@ -1953,7 +1957,7 @@
     "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
    },
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],

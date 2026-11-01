@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Foosha_Village",
   "uuid": "b3ac5875-4b68-473c-8652-a03e03d4637f",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 82,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 110,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 4,
-   "numTrusted": 3,
-   "numOutlaws": 2,
-   "balance": 5.0,
+   "nationBonus": 50,
+   "numResidents": 5,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": 999999999.0
   },
   "perms": {
@@ -438,9 +438,17 @@
    {
     "name": "Infinitysovo",
     "uuid": "6eeee05a-5593-46bf-9bc6-4e6f86c47465"
+   },
+   {
+    "name": "_Mimic_25",
+    "uuid": "d453c336-bf62-4ed5-ab9e-3225bbaeeb8d"
    }
   ],
   "trusted": [
+   {
+    "name": "Infinitysovo",
+    "uuid": "6eeee05a-5593-46bf-9bc6-4e6f86c47465"
+   },
    {
     "name": "elNevaXD",
     "uuid": "3c20d091-56eb-421c-be87-963a0c0e6614"
@@ -458,16 +466,16 @@
    {
     "name": "Dan_Sher",
     "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
-   },
-   {
-    "name": "_Mimic_25",
-    "uuid": "d453c336-bf62-4ed5-ab9e-3225bbaeeb8d"
    }
   ],
   "quarters": [
    {
     "name": "Bland Dwelling",
     "uuid": "502943a9-5e28-4b7b-bd18-6cb62d162563"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "0a2b5022-5513-4778-9ccf-8f3b0d256bcf"
    }
   ],
   "ranks": {

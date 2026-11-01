@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "XX_GetREKT_Xx",
   "uuid": "a5c6a3c3-83f3-42d7-b390-5d1e2300ebf5",
@@ -12,12 +12,12 @@
    "uuid": "2f865112-a71c-4150-9a4a-a2f100ebd25e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
    "registered": 1792911498692,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792977872372,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,18 @@
     -1023
    ],
    "townBlocks": [
+    [
+     -2890,
+     -1022
+    ],
+    [
+     -2890,
+     -1023
+    ],
+    [
+     -2891,
+     -1022
+    ],
     [
      -2891,
      -1023

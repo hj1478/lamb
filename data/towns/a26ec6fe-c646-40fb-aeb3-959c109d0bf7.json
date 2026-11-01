@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Kanal",
   "uuid": "a26ec6fe-c646-40fb-aeb3-959c109d0bf7",
@@ -12,12 +12,12 @@
    "uuid": "c19db314-b80a-4741-a602-a976a451a4c8"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": "Gulf_Union",
+   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
    "registered": 1793156540907,
-   "joinedNationAt": 1793156579809,
+   "joinedNationAt": 1793233416327,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 365.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34009.56895850204,
-    "y": 70.0,
-    "z": -7210.375318458751,
-    "pitch": 1.3472418,
-    "yaw": 179.07306
+    "x": -34008.55599760113,
+    "y": 69.0,
+    "z": -7207.559020359453,
+    "pitch": 0.49959454,
+    "yaw": -179.18861
    },
    "homeBlock": [
     -2126,
@@ -92,8 +92,52 @@
    ],
    "townBlocks": [
     [
+     -2124,
+     -450
+    ],
+    [
+     -2124,
+     -451
+    ],
+    [
+     -2124,
+     -452
+    ],
+    [
      -2126,
      -451
+    ],
+    [
+     -2126,
+     -452
+    ],
+    [
+     -2127,
+     -452
+    ],
+    [
+     -2126,
+     -450
+    ],
+    [
+     -2125,
+     -450
+    ],
+    [
+     -2125,
+     -451
+    ],
+    [
+     -2125,
+     -452
+    ],
+    [
+     -2127,
+     -451
+    ],
+    [
+     -2127,
+     -450
     ]
    ],
    "worlds": {}
@@ -106,6 +150,10 @@
    {
     "name": "DeadlyNote94263",
     "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
+   },
+   {
+    "name": "R4V3N0S",
+    "uuid": "0e3a159e-fcf7-4f4d-9303-d9198f04c22f"
    }
   ],
   "trusted": [
@@ -117,7 +165,16 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "DeadlyNote94263",
+     "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
+    },
+    {
+     "name": "R4V3N0S",
+     "uuid": "0e3a159e-fcf7-4f4d-9303-d9198f04c22f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

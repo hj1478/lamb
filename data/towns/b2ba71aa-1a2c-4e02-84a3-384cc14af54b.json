@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Chelenko",
   "uuid": "b2ba71aa-1a2c-4e02-84a3-384cc14af54b",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 60,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 849.0,
    "forSalePrice": null
@@ -500,11 +500,24 @@
     "uuid": "15f120e4-f7ea-4930-ba13-79b4bcec81e9"
    },
    {
-    "name": "Reese0328",
-    "uuid": "a586478d-7670-4212-a9ce-7224b46edcb5"
+    "name": "Humanhen",
+    "uuid": "72826d82-fa80-4607-9625-740522924569"
+   },
+   {
+    "name": "RumiLabubu",
+    "uuid": "ca0abf30-698f-4eb4-ab7b-ca67ca8a5b2f"
+   },
+   {
+    "name": "MrDonuttk",
+    "uuid": "f74785d3-27e1-40b3-9192-d394131d9586"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "RumiLabubu",
+    "uuid": "ca0abf30-698f-4eb4-ab7b-ca67ca8a5b2f"
+   }
+  ],
   "outlaws": [
    {
     "name": "elpapito7",
@@ -521,7 +534,16 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Humanhen",
+     "uuid": "72826d82-fa80-4607-9625-740522924569"
+    },
+    {
+     "name": "RumiLabubu",
+     "uuid": "ca0abf30-698f-4eb4-ab7b-ca67ca8a5b2f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

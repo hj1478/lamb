@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Oregon_City",
   "uuid": "9c17039a-e663-45a1-9f95-3884d2c5a967",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 20,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -44141.966898358405,
+    "x": -44118.953751669425,
     "y": 63.0,
-    "z": -9261.524386026309,
-    "pitch": 18.831665,
-    "yaw": 20.665344
+    "z": -9247.185083799566,
+    "pitch": 35.08973,
+    "yaw": -88.780365
    },
    "homeBlock": [
-    -2759,
-    -579
+    -2758,
+    -578
    ],
    "townBlocks": [
+    [
+     -2761,
+     -578
+    ],
     [
      -2760,
      -579
@@ -112,6 +116,10 @@
      -578
     ],
     [
+     -2757,
+     -579
+    ],
+    [
      -2758,
      -578
     ],
@@ -140,12 +148,24 @@
      -580
     ],
     [
+     -2761,
+     -582
+    ],
+    [
      -2759,
      -581
     ],
     [
      -2761,
+     -581
+    ],
+    [
+     -2761,
      -580
+    ],
+    [
+     -2759,
+     -582
     ],
     [
      -2761,
@@ -156,18 +176,22 @@
   },
   "residents": [
    {
-    "name": "AzurePhantom",
-    "uuid": "d8eb7c7a-5b3b-42ca-ba13-9c2e1ef44251"
-   },
-   {
     "name": "Fresh_peekon",
     "uuid": "6bae0bf4-d558-4efb-8fb6-baef2144dcac"
+   },
+   {
+    "name": "Frxsty_Dxrk",
+    "uuid": "62aff03e-ad16-4111-899d-9376e42c187c"
    }
   ],
   "trusted": [
    {
     "name": "Vorticks",
     "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
+   },
+   {
+    "name": "Frxsty_Dxrk",
+    "uuid": "62aff03e-ad16-4111-899d-9376e42c187c"
    }
   ],
   "outlaws": [],

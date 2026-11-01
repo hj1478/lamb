@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Mount_Washington",
   "uuid": "a86b7f8a-d556-490e-b55a-b11820ee1b8a",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 78,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 4,
-   "numOutlaws": 0,
+   "numResidents": 5,
+   "numTrusted": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -414,28 +414,33 @@
    {
     "name": "FusionCochon",
     "uuid": "9c494b46-8d51-4a2f-8874-454189708912"
+   },
+   {
+    "name": "OGMrlemon",
+    "uuid": "5a05a80f-e64d-4158-aee7-6be13f1790e6"
+   },
+   {
+    "name": "froggy169o",
+    "uuid": "ba35809f-481b-4183-8034-bea4fcc2830e"
+   },
+   {
+    "name": "NoBreakPasta",
+    "uuid": "3098f163-b8b7-4e04-81e3-00fc1f9e4818"
    }
   ],
-  "trusted": [
+  "trusted": [],
+  "outlaws": [
    {
-    "name": "icedteaslurpee",
-    "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
-   },
-   {
-    "name": "_Manly196898_",
-    "uuid": "f582a52f-226a-454d-b364-b438339904db"
-   },
-   {
-    "name": "pixeldddd",
-    "uuid": "b75fa0bf-e7a2-492e-a124-b70f7c0867ba"
-   },
-   {
-    "name": "Lambkill",
-    "uuid": "d450205e-d84e-4aeb-a23a-41a6c5fb085b"
+    "name": "BoydT44",
+    "uuid": "8ce8d116-a1cd-46ed-93c1-3abf2fd8bb50"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Lovely Property",
+    "uuid": "582c3bda-3ce5-4354-8a7e-8aa32ae61ff3"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

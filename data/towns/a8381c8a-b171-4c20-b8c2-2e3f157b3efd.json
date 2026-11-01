@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "South_Andaman",
   "uuid": "a8381c8a-b171-4c20-b8c2-2e3f157b3efd",
@@ -12,33 +12,33 @@
    "uuid": "4f7f4704-3053-4d1c-8da4-c07c35f418fa"
   },
   "nation": {
-   "name": "Narmada",
-   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791312442742,
-   "joinedNationAt": 1791314425199,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 64,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 79,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 1,
@@ -92,6 +92,30 @@
    ],
    "townBlocks": [
     [
+     2072,
+     240
+    ],
+    [
+     2078,
+     232
+    ],
+    [
+     2078,
+     234
+    ],
+    [
+     2078,
+     233
+    ],
+    [
+     2078,
+     236
+    ],
+    [
+     2078,
+     235
+    ],
+    [
      2076,
      232
     ],
@@ -137,6 +161,10 @@
     ],
     [
      2076,
+     241
+    ],
+    [
+     2076,
      238
     ],
     [
@@ -172,16 +200,16 @@
      237
     ],
     [
-     2075,
-     238
+     2072,
+     234
     ],
     [
      2074,
      235
     ],
     [
-     2072,
-     234
+     2075,
+     238
     ],
     [
      2072,
@@ -206,6 +234,10 @@
     [
      2075,
      236
+    ],
+    [
+     2072,
+     239
     ],
     [
      2074,
@@ -241,7 +273,15 @@
     ],
     [
      2074,
+     241
+    ],
+    [
+     2074,
      240
+    ],
+    [
+     2075,
+     241
     ],
     [
      2074,
@@ -288,12 +328,28 @@
      240
     ],
     [
+     2071,
+     234
+    ],
+    [
      2077,
+     233
+    ],
+    [
+     2071,
      233
     ],
     [
      2077,
      232
+    ],
+    [
+     2071,
+     235
+    ],
+    [
+     2073,
+     237
     ],
     [
      2073,
@@ -304,12 +360,16 @@
      240
     ],
     [
+     2073,
+     239
+    ],
+    [
      2077,
      239
     ],
     [
      2073,
-     239
+     238
     ],
     [
      2077,
@@ -368,8 +428,8 @@
   ],
   "outlaws": [
    {
-    "name": "MatskuX",
-    "uuid": "02a067d9-c6e7-49ea-b266-4a2b63d91429"
+    "name": "nokteholda",
+    "uuid": "ec5248a7-ce6d-4574-a42f-6551d0668766"
    }
   ],
   "quarters": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Micoua",
   "uuid": "a8bdf851-fedc-436e-8a23-dd1b7e2a42e6",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 437,
-   "maxTownBlocks": 424,
+   "maxTownBlocks": 436,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 27,
+   "numResidents": 28,
    "numTrusted": 20,
    "numOutlaws": 24,
-   "balance": 1324.0,
+   "balance": 1493.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1950,6 +1950,10 @@
    {
     "name": "Hades_Underworld",
     "uuid": "72a26d2c-4d32-4334-9539-18c2b02f738b"
+   },
+   {
+    "name": "_vBlossomOwO",
+    "uuid": "a528fc45-03fc-4297-95d4-f7f3c616a2c9"
    }
   ],
   "trusted": [
@@ -1958,7 +1962,7 @@
     "uuid": "2bcefc5a-4ed9-4e3c-9236-b277fe814571"
    },
    {
-    "name": "Luelia",
+    "name": "Lueeeh",
     "uuid": "bf9e1754-344c-4efa-b2de-34c89148c086"
    },
    {
@@ -2158,10 +2162,6 @@
     "uuid": "b99cf67f-0dfd-41b3-93e5-174448adabc0"
    },
    {
-    "name": "Bland Property",
-    "uuid": "d44f54d8-6c59-47ab-b3e7-20019a121e79"
-   },
-   {
     "name": "Welcoming Residence",
     "uuid": "0b28467a-dd19-49bf-9ee5-d085f98c8dbf"
    },
@@ -2176,10 +2176,6 @@
    {
     "name": "StorageDoor",
     "uuid": "3b967e9d-1d5a-46b4-9d9d-d0293e689784"
-   },
-   {
-    "name": "Apt3",
-    "uuid": "108b5bc5-3cba-4c7d-a902-75ca0b5a847c"
    },
    {
     "name": "Ap 1",
@@ -2214,32 +2210,12 @@
     "uuid": "256ffa01-acc6-48cd-a7d3-4965bc7718ac"
    },
    {
-    "name": "Apt1",
-    "uuid": "3c763e43-d7a8-4adb-b3ac-8ddf2ec24d00"
-   },
-   {
-    "name": "Apt2",
-    "uuid": "77a97d07-c48e-4468-96d9-78b007f97577"
-   },
-   {
     "name": "Apartment 4",
     "uuid": "0329eb6f-145c-448e-b628-99eed380ccbf"
    },
    {
-    "name": "Apt3",
-    "uuid": "5c6140e9-d98a-41cc-937c-1295cc4a7af4"
-   },
-   {
     "name": "Apartment 5",
     "uuid": "cc7e357c-d4e4-4dc7-949e-ba710f1e0f68"
-   },
-   {
-    "name": "Apartment 2",
-    "uuid": "cb6a164f-bb59-49d2-b473-c8abc9ae01ea"
-   },
-   {
-    "name": "Ap4",
-    "uuid": "c385fecc-7ca4-406a-9187-f2e69697dd28"
    },
    {
     "name": "Apt1",
@@ -2252,10 +2228,6 @@
    {
     "name": "105",
     "uuid": "33ca8489-96ac-4899-9451-5e146e585485"
-   },
-   {
-    "name": "Cheerful Flat",
-    "uuid": "7ceee797-4331-4dfc-b827-f9bd2e4f0155"
    },
    {
     "name": "202",
@@ -2318,44 +2290,20 @@
     "uuid": "6cbaceef-15ff-4516-aa75-8832f967b02b"
    },
    {
-    "name": "Q13",
-    "uuid": "b567d31c-add6-4822-bef0-46db4e9dc32a"
-   },
-   {
     "name": "Q5",
     "uuid": "98ca5680-573c-489a-b6d2-3e8d9cc4115f"
-   },
-   {
-    "name": "Q9",
-    "uuid": "42e14040-67fb-47c8-a68b-170bb6593246"
    },
    {
     "name": "Apartment 1",
     "uuid": "6c24fa2d-6a69-49a2-b8ce-b83478a47fe5"
    },
    {
-    "name": "Q7",
-    "uuid": "b9260f17-2681-4039-9044-1703e5a6bc72"
-   },
-   {
     "name": "Q6",
     "uuid": "199940a1-eb29-4d8b-a030-82b050b5be3c"
    },
    {
-    "name": "Q3",
-    "uuid": "7aaae8ac-dcbd-401a-a038-d1e1ef3f7758"
-   },
-   {
-    "name": "Q12",
-    "uuid": "48b4209b-a4d4-4dd6-aab7-4d226a9e7ffc"
-   },
-   {
     "name": "Apartment 3",
     "uuid": "eedd7d00-0eca-4c7c-a830-b2cd2e32fe20"
-   },
-   {
-    "name": "Q10",
-    "uuid": "e7e57857-557f-45fa-9c03-a2eb1fc2c34d"
    },
    {
     "name": "Q4",
@@ -2368,6 +2316,38 @@
    {
     "name": "Q11",
     "uuid": "36935792-e6bb-4d9e-baeb-60597576d0f5"
+   },
+   {
+    "name": "Apt3",
+    "uuid": "108b5bc5-3cba-4c7d-a902-75ca0b5a847c"
+   },
+   {
+    "name": "Q7",
+    "uuid": "b9260f17-2681-4039-9044-1703e5a6bc72"
+   },
+   {
+    "name": "Q13",
+    "uuid": "b567d31c-add6-4822-bef0-46db4e9dc32a"
+   },
+   {
+    "name": "Cheerful Flat",
+    "uuid": "7ceee797-4331-4dfc-b827-f9bd2e4f0155"
+   },
+   {
+    "name": "Apartment 2",
+    "uuid": "cb6a164f-bb59-49d2-b473-c8abc9ae01ea"
+   },
+   {
+    "name": "Q12",
+    "uuid": "48b4209b-a4d4-4dd6-aab7-4d226a9e7ffc"
+   },
+   {
+    "name": "Q10",
+    "uuid": "e7e57857-557f-45fa-9c03-a2eb1fc2c34d"
+   },
+   {
+    "name": "Q9",
+    "uuid": "42e14040-67fb-47c8-a68b-170bb6593246"
    }
   ],
   "ranks": {
@@ -2387,6 +2367,10 @@
     {
      "name": "Bergenline",
      "uuid": "8dc93ad6-b2fe-451f-94ea-9140ee003daa"
+    },
+    {
+     "name": "Hades_Underworld",
+     "uuid": "72a26d2c-4d32-4334-9539-18c2b02f738b"
     }
    ],
    "Builder": [

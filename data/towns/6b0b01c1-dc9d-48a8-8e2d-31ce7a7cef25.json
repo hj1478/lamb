@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Irontown",
-  "uuid": "a0868f9e-6b6f-4e1b-aa43-f2658f071fd4",
+  "name": "Onskan",
+  "uuid": "6b0b01c1-dc9d-48a8-8e2d-31ce7a7cef25",
   "board": "/town set board [msg]",
-  "founder": "Demir23ce",
+  "founder": "Immortalility",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Demir23ce",
-   "uuid": "0c9a6fb4-a588-40cc-bbfe-830942fa88e1"
+   "name": "Immortalility",
+   "uuid": "45cdd648-ce83-4897-9c5d-6eef454ca4d3"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
-   "registered": 1791997840911,
-   "joinedNationAt": 1792821799725,
+   "registered": 1793463676352,
+   "joinedNationAt": 1793463686844,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
    "balance": 4.0,
    "forSalePrice": null
   },
@@ -73,72 +73,56 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12408.136969841175,
-    "y": 107.0,
-    "z": -6791.9113529020515,
-    "pitch": 6.145925,
-    "yaw": 120.64679
+    "x": 6058.550093797329,
+    "y": 64.0,
+    "z": -18617.73530552181,
+    "pitch": 11.400038,
+    "yaw": -176.90237
    },
    "homeBlock": [
-    775,
-    -425
+    378,
+    -1164
    ],
    "townBlocks": [
     [
-     776,
-     -424
+     378,
+     -1164
     ],
     [
-     776,
-     -425
+     378,
+     -1165
     ],
     [
-     775,
-     -425
+     379,
+     -1164
     ],
     [
-     777,
-     -424
-    ],
-    [
-     775,
-     -424
-    ],
-    [
-     776,
-     -423
-    ],
-    [
-     775,
-     -423
-    ],
-    [
-     777,
-     -425
+     379,
+     -1165
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Demir23ce",
-    "uuid": "0c9a6fb4-a588-40cc-bbfe-830942fa88e1"
+    "name": "Immortalility",
+    "uuid": "45cdd648-ce83-4897-9c5d-6eef454ca4d3"
    }
   ],
-  "trusted": [],
-  "outlaws": [
+  "trusted": [
    {
-    "name": "xTheZemZem0",
-    "uuid": "feb21926-0c28-4d72-8d9c-71ba387bc87f"
+    "name": "Viggobyggm",
+    "uuid": "cb79647a-28a7-422f-9e2c-78e556035ea4"
    }
   ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

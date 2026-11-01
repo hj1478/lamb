@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Priozyornyi",
-  "uuid": "8b05c267-53a5-42eb-af1f-1c1f6539a382",
-  "board": "The Revolution of the Proletariat is Invincible",
-  "founder": "Nikita_Sergei",
+  "name": "Waterford",
+  "uuid": "c8f01905-0239-4455-90e5-74af9ebd28c9",
+  "board": "/town set board [msg]",
+  "founder": "RetroRemains",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC73",
-   "uuid": "7f8f27b4-8c65-207d-9c25-52a17586a225"
+   "name": "RetroRemains",
+   "uuid": "4a02f09e-2ddc-45d1-8865-81f8d34b7000"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789298088094,
+   "registered": 1793532476760,
    "joinedNationAt": null,
-   "ruinedAt": 1793210074488
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,101 +35,104 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 8,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 19082.650876290736,
-    "y": 63.0,
-    "z": -17527.69999998808,
-    "pitch": 14.892479,
-    "yaw": 21.066914
+    "x": -2702.272320015731,
+    "y": 64.0,
+    "z": -12591.519672868897,
+    "pitch": 7.499998,
+    "yaw": 74.689415
    },
    "homeBlock": [
-    1192,
-    -1096
+    -169,
+    -787
    ],
    "townBlocks": [
     [
-     1192,
-     -1096
+     -170,
+     -788
     ],
     [
-     1192,
-     -1097
+     -170,
+     -787
     ],
     [
-     1191,
-     -1095
+     -170,
+     -789
     ],
     [
-     1191,
-     -1097
+     -169,
+     -787
     ],
     [
-     1191,
-     -1096
+     -171,
+     -787
     ],
     [
-     1190,
-     -1096
+     -169,
+     -788
+    ],
+    [
+     -171,
+     -788
+    ],
+    [
+     -172,
+     -787
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC73",
-    "uuid": "7f8f27b4-8c65-207d-9c25-52a17586a225"
+    "name": "RetroRemains",
+    "uuid": "4a02f09e-2ddc-45d1-8865-81f8d34b7000"
    }
   ],
-  "trusted": [
-   {
-    "name": "Nikita_Sergei",
-    "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Kr_Army",
   "uuid": "b4802aea-70bf-42d8-bcaa-85378558d8ce",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1785669425304,
-   "joinedNationAt": 1786499817109,
+   "joinedNationAt": 1793121024559,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 54,
+   "maxTownBlocks": 66,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 14.0,
+   "numResidents": 3,
+   "numTrusted": 1,
+   "numOutlaws": 6,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,36 +80,24 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45710.54899002925,
-    "y": 106.0,
-    "z": -6611.090500025713,
-    "pitch": 26.399876,
-    "yaw": -75.55255
+    "x": 45703.74150442602,
+    "y": 78.0,
+    "z": -6646.097952320527,
+    "pitch": 26.442204,
+    "yaw": -31.476776
    },
    "homeBlock": [
     2856,
-    -414
+    -416
    ],
    "townBlocks": [
     [
-     2858,
-     -412
-    ],
-    [
-     2858,
+     2863,
      -413
     ],
     [
-     2858,
+     2863,
      -414
-    ],
-    [
-     2858,
-     -415
-    ],
-    [
-     2858,
-     -416
     ],
     [
      2855,
@@ -148,12 +136,124 @@
      -416
     ],
     [
-     2857,
+     2859,
      -412
     ],
     [
      2857,
+     -411
+    ],
+    [
+     2857,
+     -412
+    ],
+    [
+     2859,
+     -414
+    ],
+    [
+     2857,
      -413
+    ],
+    [
+     2859,
+     -413
+    ],
+    [
+     2856,
+     -411
+    ],
+    [
+     2856,
+     -412
+    ],
+    [
+     2856,
+     -413
+    ],
+    [
+     2862,
+     -412
+    ],
+    [
+     2862,
+     -413
+    ],
+    [
+     2856,
+     -414
+    ],
+    [
+     2856,
+     -415
+    ],
+    [
+     2865,
+     -413
+    ],
+    [
+     2856,
+     -416
+    ],
+    [
+     2865,
+     -412
+    ],
+    [
+     2862,
+     -414
+    ],
+    [
+     2866,
+     -414
+    ],
+    [
+     2866,
+     -413
+    ],
+    [
+     2866,
+     -412
+    ],
+    [
+     2858,
+     -411
+    ],
+    [
+     2858,
+     -412
+    ],
+    [
+     2858,
+     -413
+    ],
+    [
+     2858,
+     -414
+    ],
+    [
+     2858,
+     -415
+    ],
+    [
+     2858,
+     -416
+    ],
+    [
+     2865,
+     -414
+    ],
+    [
+     2860,
+     -414
+    ],
+    [
+     2860,
+     -413
+    ],
+    [
+     2860,
+     -412
     ],
     [
      2854,
@@ -176,32 +276,36 @@
      -411
     ],
     [
-     2856,
-     -411
-    ],
-    [
      2854,
      -412
     ],
     [
-     2856,
+     2863,
      -412
     ],
     [
-     2856,
+     2864,
+     -412
+    ],
+    [
+     2864,
      -413
     ],
     [
-     2856,
+     2864,
      -414
     ],
     [
-     2856,
-     -415
+     2861,
+     -412
     ],
     [
-     2856,
-     -416
+     2861,
+     -413
+    ],
+    [
+     2861,
+     -414
     ]
    ],
    "worlds": {}
@@ -210,13 +314,46 @@
    {
     "name": "sungjin89",
     "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
+   },
+   {
+    "name": "ZombieDan776",
+    "uuid": "2fd9d1d7-6aaa-44b4-9f36-8a49d70176f2"
+   },
+   {
+    "name": "BUILDERPPAP",
+    "uuid": "eb573e06-7320-4bad-a01b-0584dd5a5fe1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "BUILDERPPAP",
+    "uuid": "eb573e06-7320-4bad-a01b-0584dd5a5fe1"
+   }
+  ],
   "outlaws": [
    {
     "name": "Brometheu",
     "uuid": "fc37f7b8-2798-4e3b-a24c-1f6dac4f4a7f"
+   },
+   {
+    "name": "Qorrin",
+    "uuid": "dd8114c7-df72-4c09-8387-a51f9b85f30b"
+   },
+   {
+    "name": "CrownOfLech",
+    "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
+   },
+   {
+    "name": "Rubin808",
+    "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   },
+   {
+    "name": "ONEBUILDS",
+    "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
+   },
+   {
+    "name": "Shadow_Riftx",
+    "uuid": "63416f9e-aeca-43ba-a349-a6cd65aa582e"
    }
   ],
   "quarters": [],

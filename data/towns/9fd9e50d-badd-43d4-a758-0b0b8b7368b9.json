@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Heft",
-  "uuid": "960afb67-2864-4777-b393-51e7519ae1cd",
-  "board": "From the ashes of a grander age",
-  "founder": "AdobeAuditionCC",
+  "name": "Sariwon",
+  "uuid": "9fd9e50d-badd-43d4-a758-0b0b8b7368b9",
+  "board": "/town set board [msg]",
+  "founder": "Brometheu",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AdobeAuditionCC",
-   "uuid": "94264270-735d-4aca-a65c-78ac375d4043"
+   "name": "Brometheu",
+   "uuid": "fc37f7b8-2798-4e3b-a24c-1f6dac4f4a7f"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "DPRK",
+   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
   },
   "timestamps": {
-   "registered": 1789516734083,
-   "joinedNationAt": null,
+   "registered": 1793481227855,
+   "joinedNationAt": 1793481244792,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 12.0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,68 +80,70 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8003.796280405827,
-    "y": 112.0,
-    "z": 729.1944036017998,
-    "pitch": 47.606106,
-    "yaw": -176.06476
+    "x": 45028.75923122962,
+    "y": 64.0,
+    "z": -6502.578063442924,
+    "pitch": 7.9573317,
+    "yaw": -16.967896
    },
    "homeBlock": [
-    500,
-    45
+    2814,
+    -407
    ],
    "townBlocks": [
     [
-     501,
-     45
+     2814,
+     -406
     ],
     [
-     502,
-     45
+     2814,
+     -407
     ],
     [
-     501,
-     46
+     2814,
+     -408
     ],
     [
-     502,
-     46
+     2815,
+     -407
     ],
     [
-     502,
-     47
+     2813,
+     -406
     ],
     [
-     501,
-     44
+     2813,
+     -407
     ],
     [
-     501,
-     47
-    ],
-    [
-     500,
-     45
-    ],
-    [
-     500,
-     47
-    ],
-    [
-     500,
-     46
+     2813,
+     -408
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "AdobeAuditionCC",
-    "uuid": "94264270-735d-4aca-a65c-78ac375d4043"
+    "name": "Brometheu",
+    "uuid": "fc37f7b8-2798-4e3b-a24c-1f6dac4f4a7f"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "sungjin89",
+    "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
+   },
+   {
+    "name": "CrownOfLech",
+    "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Rubin808",
+    "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Hooker_Lake",
   "uuid": "9a325019-f05c-4071-940a-ce744faada1b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 94,
-   "maxTownBlocks": 102,
+   "maxTownBlocks": 78,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 6,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5375.0,
+   "balance": 5460.0,
    "forSalePrice": null
   },
   "perms": {
@@ -476,14 +476,6 @@
     "uuid": "58d96e17-e26a-431d-9943-7b18e2822f33"
    },
    {
-    "name": "Vrle",
-    "uuid": "7a9c42c5-c6bb-4868-ae85-6e6be578c96e"
-   },
-   {
-    "name": "shoomsi",
-    "uuid": "2f3c6425-598b-4246-9f13-50557a992132"
-   },
-   {
     "name": "nonchasigma",
     "uuid": "629364a5-127b-4e7a-86b1-e4d2ea90d55b"
    },
@@ -500,12 +492,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Vrle",
-     "uuid": "7a9c42c5-c6bb-4868-ae85-6e6be578c96e"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

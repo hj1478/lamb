@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Acre",
   "uuid": "9b8e317c-00e9-417f-9f0a-fb4fa604e3f2",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 362,
-   "maxTownBlocks": 376,
+   "maxTownBlocks": 352,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 23,
+   "numResidents": 21,
    "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 496.0,
+   "balance": 477.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1569,28 +1569,12 @@
     "uuid": "ea07ac82-9fe7-481d-ad10-9eef35d3700e"
    },
    {
-    "name": "CryptByte",
-    "uuid": "c793cfb4-f5c8-47bd-8408-d17124cd3250"
-   },
-   {
     "name": "BlueBlueBananas",
     "uuid": "7b354b88-3f68-433b-b021-f28eabb69504"
    },
    {
-    "name": "boscobru",
-    "uuid": "5a361646-352b-44b3-aad9-60064969f94f"
-   },
-   {
-    "name": "JohanMode69420",
-    "uuid": "d0d168a3-6d35-4e92-a1a3-c050481c78fd"
-   },
-   {
     "name": "TheAgate",
     "uuid": "57a13f3b-9af9-469a-97fe-0e07893c371b"
-   },
-   {
-    "name": "ARAVPROOO",
-    "uuid": "9ce48b2a-b1d3-4303-8f6d-717eed738f98"
    },
    {
     "name": "Misssske",
@@ -1639,6 +1623,14 @@
    {
     "name": "32Pengun",
     "uuid": "11bdc3a3-f707-433a-be77-36c833ea4098"
+   },
+   {
+    "name": "ppetey_",
+    "uuid": "70f23265-02b5-4f2e-b8c6-a51510087c35"
+   },
+   {
+    "name": "JupiterTheGod",
+    "uuid": "a320b46e-d11a-492c-8810-c236208592ba"
    }
   ],
   "trusted": [
@@ -1670,10 +1662,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Annoying Suite",
-    "uuid": "f68189c3-3b28-4588-9903-17bf8b3988ce"
-   },
    {
     "name": "Gloomy Suite",
     "uuid": "32eb2312-f809-4b91-b855-7b8a207eb8eb"
@@ -1751,10 +1739,6 @@
     "uuid": "52a1eb6f-332f-42c0-a7ef-8ac2494ae69f"
    },
    {
-    "name": "Gloomy Quarter",
-    "uuid": "9fa699aa-e860-43d7-a66e-4d39571b167e"
-   },
-   {
     "name": "Upbeat Tenement",
     "uuid": "32cc5dd2-b03b-471c-b82f-e44d03d03c66"
    },
@@ -1765,6 +1749,14 @@
    {
     "name": "Gloomy Suite",
     "uuid": "ed8c6880-7bcd-4197-a839-38f524e8a623"
+   },
+   {
+    "name": "Annoying Suite",
+    "uuid": "f68189c3-3b28-4588-9903-17bf8b3988ce"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "9fa699aa-e860-43d7-a66e-4d39571b167e"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Trinity",
   "uuid": "b436cc7c-2d32-4628-9182-f87ac15c8d66",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -108,6 +108,10 @@
      -218
     ],
     [
+     -1952,
+     -219
+    ],
+    [
      -1950,
      -218
     ]
@@ -121,7 +125,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "SharnyB",
+    "uuid": "33bd801b-ad76-444f-b269-2885cf3add20"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

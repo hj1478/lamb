@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Gym",
   "uuid": "b55aa472-6910-4089-a435-1a0f73469513",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 123,
+   "numTownBlocks": 137,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 3,
-   "balance": 30.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -313,6 +313,18 @@
     ],
     [
      1983,
+     -453
+    ],
+    [
+     1983,
+     -452
+    ],
+    [
+     1983,
+     -451
+    ],
+    [
+     1983,
      -450
     ],
     [
@@ -338,6 +350,14 @@
     [
      1983,
      -456
+    ],
+    [
+     1983,
+     -455
+    ],
+    [
+     1983,
+     -454
     ],
     [
      1989,
@@ -382,6 +402,14 @@
     [
      1989,
      -455
+    ],
+    [
+     1981,
+     -451
+    ],
+    [
+     1981,
+     -452
     ],
     [
      1989,
@@ -525,6 +553,10 @@
     ],
     [
      1982,
+     -456
+    ],
+    [
+     1982,
      -457
     ],
     [
@@ -554,6 +586,30 @@
     [
      1982,
      -450
+    ],
+    [
+     1982,
+     -451
+    ],
+    [
+     1982,
+     -452
+    ],
+    [
+     1982,
+     -453
+    ],
+    [
+     1982,
+     -454
+    ],
+    [
+     1982,
+     -455
+    ],
+    [
+     1980,
+     -452
     ],
     [
      1980,
@@ -638,20 +694,20 @@
     "uuid": "31c39970-5543-4fb2-9362-639ac96cb404"
    },
    {
-    "name": "Vault C",
-    "uuid": "1b7e671c-a2e5-4c72-89ba-02d8d276f088"
-   },
-   {
-    "name": "Vault A",
-    "uuid": "16f27de5-6fff-4a15-b1c9-7929fb066d25"
+    "name": "Vault B",
+    "uuid": "c3c3784e-a769-445c-a1fb-c6c7204395a7"
    },
    {
     "name": "Vault D",
     "uuid": "615fc20a-a9ab-48d1-9991-adffa9038e4b"
    },
    {
-    "name": "Vault B",
-    "uuid": "c3c3784e-a769-445c-a1fb-c6c7204395a7"
+    "name": "Vault C",
+    "uuid": "1b7e671c-a2e5-4c72-89ba-02d8d276f088"
+   },
+   {
+    "name": "Vault A",
+    "uuid": "16f27de5-6fff-4a15-b1c9-7929fb066d25"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Nazare",
   "uuid": "966e3e18-45f6-4d8c-8ad8-a52bed492359",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 373,
-   "maxTownBlocks": 532,
+   "maxTownBlocks": 464,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 36,
-   "numTrusted": 10,
-   "numOutlaws": 13,
-   "balance": 38.0,
+   "nationBonus": 80,
+   "numResidents": 32,
+   "numTrusted": 11,
+   "numOutlaws": 11,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1621,10 +1621,6 @@
     "uuid": "7d17b290-8ec9-4e53-a99f-0a55c4b1433b"
    },
    {
-    "name": "PedrogaooGrande",
-    "uuid": "a74a24f5-c72c-4d34-9bfb-e6e8faee18d4"
-   },
-   {
     "name": "PIPPALLOR_13",
     "uuid": "9c005926-9eb8-4b0e-b96e-fe46d6d89059"
    },
@@ -1635,10 +1631,6 @@
    {
     "name": "WatermeIoon",
     "uuid": "d25102b4-7c99-4b55-8925-c7a3405d070e"
-   },
-   {
-    "name": "VHSsilver",
-    "uuid": "c13f8fb1-ce35-4ca3-9a2f-ce0361f33deb"
    },
    {
     "name": "aim_Tuga",
@@ -1659,14 +1651,6 @@
    {
     "name": "ATGFOREVER",
     "uuid": "07f71643-a527-4d87-bd83-d236339988b9"
-   },
-   {
-    "name": "NovayZ",
-    "uuid": "605c1930-72e5-43e8-a363-e505c7025cf2"
-   },
-   {
-    "name": "pero_djetlic1421",
-    "uuid": "e4fc0201-8df3-42d6-8f77-d5638e5dc214"
    },
    {
     "name": "MCFake1999",
@@ -1771,6 +1755,10 @@
     "uuid": "deacf090-d60c-4973-b8ce-fa8c11653a2f"
    },
    {
+    "name": "Mimo_24",
+    "uuid": "2fb11351-02f9-48ce-b058-b0425edb25ad"
+   },
+   {
     "name": "RedPT12",
     "uuid": "94bf9925-a28e-45f4-826e-f28563472be0"
    },
@@ -1801,16 +1789,8 @@
     "uuid": "d1c9d145-efce-4a6f-b531-5e64cc1944e4"
    },
    {
-    "name": "DisasterRoyal346",
-    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
-   },
-   {
     "name": "XenonNetwork",
     "uuid": "aea2be67-7dc0-4bb8-b158-861f879c3378"
-   },
-   {
-    "name": "_Nai_Long_",
-    "uuid": "b7fbda72-8224-459a-a178-900b85f48f61"
    },
    {
     "name": "Sakxoia",
@@ -2087,18 +2067,6 @@
      "x": -2956,
      "y": 229,
      "z": -6908
-    }
-   },
-   {
-    "name": "Farms",
-    "uuid": "f7798aa7-b729-46af-b4d9-6a3926b099b6",
-    "createdAt": 1788608834742,
-    "createdBy": "RicordyYT",
-    "access": "NATION",
-    "location": {
-     "x": -3151,
-     "y": 31,
-     "z": -7146
     }
    }
   ],

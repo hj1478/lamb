@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "NRI",
   "uuid": "9fbd49ad-b977-423e-aeec-ada9a226ef9d",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 1295.0,
    "forSalePrice": null
@@ -131,9 +131,18 @@
    {
     "name": "ewr125",
     "uuid": "91c2d6d0-8be2-4ed2-8e1b-786d62850f57"
+   },
+   {
+    "name": "JS121",
+    "uuid": "ad138824-7d0e-4944-92af-3332bdacc8dc"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "JS121",
+    "uuid": "ad138824-7d0e-4944-92af-3332bdacc8dc"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

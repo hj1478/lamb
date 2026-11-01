@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Rumelia",
   "uuid": "aa4fac8d-e285-4fab-b09b-eae9ad1204d7",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "L0RD_KRAT05",
-   "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+   "name": "Rip_man321",
+   "uuid": "8c127e39-8882-4dce-bd72-5e0c79cf1773"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Yugoslavia",
+   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
   },
   "timestamps": {
    "registered": 1779227247249,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793276715066,
    "ruinedAt": null
   },
   "status": {
@@ -28,20 +28,20 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": true,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 421,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 8,
-   "numTrusted": 0,
-   "numOutlaws": 12,
+   "nationBonus": 60,
+   "numResidents": 9,
+   "numTrusted": 1,
+   "numOutlaws": 10,
    "balance": 1.0,
    "forSalePrice": null
   },
@@ -1792,10 +1792,6 @@
     "uuid": "4b0357fb-ad04-4f7b-848d-3d138a04d4fe"
    },
    {
-    "name": "benicioBR7m",
-    "uuid": "7afb9083-ad4b-45a3-81eb-e46571790505"
-   },
-   {
     "name": "ghonw",
     "uuid": "c6bc5416-9ae4-4f6b-b1fc-3e8cad3031cb"
    },
@@ -1808,16 +1804,25 @@
     "uuid": "15216fbd-d063-4306-a06b-86c836308853"
    },
    {
-    "name": "L0RD_KRAT05",
-    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
+    "name": "nixps",
+    "uuid": "f499a3fc-f7dc-4af1-b049-7c27acf3b453"
+   },
+   {
+    "name": "Le_Pacu",
+    "uuid": "dbda3e69-fbfd-43e5-9b13-9e5a473eefac"
+   },
+   {
+    "name": "Rip_man321",
+    "uuid": "8c127e39-8882-4dce-bd72-5e0c79cf1773"
    }
   ],
-  "trusted": [],
-  "outlaws": [
+  "trusted": [
    {
-    "name": "ibraheemclock",
-    "uuid": "01a82e60-8f45-41f8-9bdb-45993a0abe0a"
-   },
+    "name": "01kd",
+    "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+   }
+  ],
+  "outlaws": [
    {
     "name": "YrKD",
     "uuid": "d04b24be-0610-4c59-ad9f-082636817f17"
@@ -1833,10 +1838,6 @@
    {
     "name": "nachoman267",
     "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
-   },
-   {
-    "name": "F0rktus",
-    "uuid": "b8d62192-ef49-464f-82a6-543d576ccd13"
    },
    {
     "name": "Lastiy",
@@ -1891,10 +1892,6 @@
    {
     "name": "Rumelia Station",
     "uuid": "40839d4e-9aee-499a-8e86-ccd73a130635"
-   },
-   {
-    "name": "Cell Block 1",
-    "uuid": "3a96bb72-c2f3-4b6e-927e-b88ee9254b8f"
    },
    {
     "name": "Dull Suite",
@@ -2027,6 +2024,10 @@
    {
     "name": "Annoying Tenement",
     "uuid": "b244baf7-c21c-460f-8ed0-ff189b761fe5"
+   },
+   {
+    "name": "Cell Block 1",
+    "uuid": "3a96bb72-c2f3-4b6e-927e-b88ee9254b8f"
    }
   ],
   "ranks": {

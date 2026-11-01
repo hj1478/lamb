@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Tonghairutai",
   "uuid": "a63e8228-59c5-48a4-8e66-85c6509d39bc",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 56.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43999.183583617865,
+    "x": 43999.94800862446,
     "y": 70.0,
-    "z": -13174.670784643373,
-    "pitch": 13.349989,
-    "yaw": 60.36679
+    "z": -13173.760383671652,
+    "pitch": 15.899731,
+    "yaw": 52.596436
    },
    "homeBlock": [
     2749,
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      2749,
+     -822
+    ],
+    [
+     2749,
+     -821
+    ],
+    [
+     2749,
      -824
     ],
     [
@@ -109,7 +117,15 @@
     ],
     [
      2748,
+     -821
+    ],
+    [
+     2748,
      -823
+    ],
+    [
+     2748,
+     -822
     ],
     [
      2748,
@@ -120,8 +136,16 @@
      -824
     ],
     [
+     2750,
+     -822
+    ],
+    [
      2748,
      -826
+    ],
+    [
+     2750,
+     -821
     ],
     [
      2750,
@@ -146,13 +170,22 @@
    {
     "name": "Millionaire2468",
     "uuid": "36167ccc-e9f6-49e4-9f40-99044527170b"
+   },
+   {
+    "name": "MSTRMEDIOCRE",
+    "uuid": "203c9313-a224-494e-8cd5-de0a84685d88"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "MSTRMEDIOCRE",
+     "uuid": "203c9313-a224-494e-8cd5-de0a84685d88"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Panama",
   "uuid": "9789d159-130c-48d3-8689-7f578dbdf401",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 671,
-   "maxTownBlocks": 788,
+   "maxTownBlocks": 656,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 59,
+   "numResidents": 48,
    "numTrusted": 9,
-   "numOutlaws": 14,
-   "balance": 185.0,
+   "numOutlaws": 13,
+   "balance": 157.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28538.47132781745,
-    "y": 66.0,
-    "z": 4801.60617076173,
-    "pitch": -13.227092,
-    "yaw": 90.12109
+    "x": -28495.685701922706,
+    "y": 65.0,
+    "z": 4752.061828349739,
+    "pitch": 14.936676,
+    "yaw": 90.91513
    },
    "homeBlock": [
-    -1784,
-    300
+    -1781,
+    297
    ],
    "townBlocks": [
     [
@@ -2825,10 +2825,6 @@
     "uuid": "b2d3d2e2-d6b1-42b9-a099-3d17c8eb8939"
    },
    {
-    "name": "Link_MSR21",
-    "uuid": "ff46a091-b74c-4858-b6b1-cc323cbd29e2"
-   },
-   {
     "name": "SnappierFiber74",
     "uuid": "1f1bbe32-b8b0-46a7-8edb-27e847e1a6f2"
    },
@@ -2841,28 +2837,12 @@
     "uuid": "43c283e7-8636-4838-83fd-97f05056cdd5"
    },
    {
-    "name": "EveryWave",
-    "uuid": "ee0ed0ec-8b8e-4155-87b2-d70c366778ca"
-   },
-   {
     "name": "s1r_cheese",
     "uuid": "47364fee-dbfe-405e-af0a-591755930de3"
    },
    {
-    "name": "Nekoroxx",
-    "uuid": "738dabf6-dd1d-4951-a632-8065d2b5dbc4"
-   },
-   {
     "name": "imapinecone",
     "uuid": "8aebe135-3ee4-4c86-9e8c-89c22119fe7a"
-   },
-   {
-    "name": "choicecyber",
-    "uuid": "951afb45-e69e-4080-91ad-c7d41c2541ee"
-   },
-   {
-    "name": "octoberfireworks",
-    "uuid": "607d8e87-a3f1-48aa-a05f-36558786bd43"
    },
    {
     "name": "Bluehunter789",
@@ -2873,32 +2853,12 @@
     "uuid": "53a1fe39-3d3e-4fae-8ebe-207b5754df34"
    },
    {
-    "name": "epicigor2137",
-    "uuid": "1ceebdaf-590c-4dcf-ad10-e6b4a2c533f3"
-   },
-   {
-    "name": "Toprogress",
-    "uuid": "5c9bb3e0-1eaa-4c3e-aebe-077bac27c8fd"
-   },
-   {
-    "name": "spinningmonkey1",
-    "uuid": "288f9395-350b-4b43-89fc-4ead8a8649f3"
-   },
-   {
     "name": "EnTiCraft17",
     "uuid": "706aceb1-abc3-4ed6-9510-8ddd395754cc"
    },
    {
-    "name": "JaxonYTTT",
-    "uuid": "72deb7f7-40cd-4b32-8af6-0cd492672d80"
-   },
-   {
     "name": "Chri01",
     "uuid": "7c3262cb-bb99-43fa-bd93-dba374411a95"
-   },
-   {
-    "name": "XeonRade",
-    "uuid": "11bca794-30b8-47bf-aac1-dc694c8e8355"
    },
    {
     "name": "DraiBerlin",
@@ -3015,10 +2975,6 @@
    {
     "name": "gallimim",
     "uuid": "8f32baf3-2b85-4d99-8fb3-f70c5bc2d731"
-   },
-   {
-    "name": "Jack019_",
-    "uuid": "6125e345-c6be-4f0d-8b37-ef14773a2178"
    }
   ],
   "trusted": [
@@ -3067,10 +3023,6 @@
    {
     "name": "oncup",
     "uuid": "3d384795-93eb-48e9-b601-e14bf141df55"
-   },
-   {
-    "name": "SteelCove",
-    "uuid": "2ba3394d-ae1d-4530-8ea2-91b0f231c5e2"
    },
    {
     "name": "Swightness",

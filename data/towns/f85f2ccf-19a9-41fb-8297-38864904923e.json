@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Point_May",
-  "uuid": "597c3a00-d578-44da-a3b5-b94df025d676",
-  "board": "Funktown",
-  "founder": "sonicericsson",
+  "name": "Lagunica",
+  "uuid": "f85f2ccf-19a9-41fb-8297-38864904923e",
+  "board": "/town set board [msg]",
+  "founder": "Ikowoo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC34",
-   "uuid": "23a830e8-15bc-202c-a999-87f84e745b6b"
+   "name": "Ikowoo",
+   "uuid": "55e685c8-3ce5-409c-9d61-d4f21504768a"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789467140763,
+   "registered": 1793470562282,
    "joinedNationAt": null,
-   "ruinedAt": 1793268003051
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,81 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -20059.934206027792,
-    "y": 63.0,
-    "z": -10182.184772590252,
-    "pitch": -18.150064,
-    "yaw": -92.25992
+    "x": 11013.397248456966,
+    "y": 75.0,
+    "z": 7577.924455959934,
+    "pitch": 1.9081061,
+    "yaw": -154.85107
    },
    "homeBlock": [
-    -1254,
-    -637
+    688,
+    473
    ],
    "townBlocks": [
     [
-     -1254,
-     -637
-    ],
-    [
-     -1254,
-     -638
-    ],
-    [
-     -1254,
-     -636
+     688,
+     473
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC34",
-    "uuid": "23a830e8-15bc-202c-a999-87f84e745b6b"
+    "name": "Ikowoo",
+    "uuid": "55e685c8-3ce5-409c-9d61-d4f21504768a"
    }
   ],
   "trusted": [],

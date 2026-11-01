@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Fort_Wonder",
   "uuid": "9f847a78-db00-4570-9ad8-8d90eb6399e7",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Paln21",
-   "uuid": "d70171e3-535d-4666-9a41-f8eb707da430"
+   "name": "NPC58",
+   "uuid": "f7c7cd0b-f836-206a-a688-a238495127ee"
   },
   "nation": {
-   "name": "Narmada",
-   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780211883629,
-   "joinedNationAt": 1780220120240,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793527201548
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 78,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -413,8 +413,8 @@
   },
   "residents": [
    {
-    "name": "Paln21",
-    "uuid": "d70171e3-535d-4666-9a41-f8eb707da430"
+    "name": "NPC58",
+    "uuid": "f7c7cd0b-f836-206a-a688-a238495127ee"
    }
   ],
   "trusted": [

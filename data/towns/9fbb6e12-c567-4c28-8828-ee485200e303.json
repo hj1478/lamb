@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Paraguay",
   "uuid": "9fbb6e12-c567-4c28-8828-ee485200e303",
-  "board": "/town set board [msg]",
+  "board": "hi darkbeaux",
   "founder": "DarkBeaux",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DarkBeaux",
-   "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
+   "name": "Apollo_kaka",
+   "uuid": "1cb0fffe-5b6a-4454-b6dd-68fbbb85ecb3"
   },
   "nation": {
    "name": "Brazil",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 23.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,11 +104,11 @@
      1024
     ],
     [
-     -1278,
+     -1280,
      1026
     ],
     [
-     -1280,
+     -1278,
      1026
     ],
     [
@@ -132,11 +132,20 @@
   },
   "residents": [
    {
+    "name": "Apollo_kaka",
+    "uuid": "1cb0fffe-5b6a-4454-b6dd-68fbbb85ecb3"
+   },
+   {
     "name": "DarkBeaux",
     "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DarkBeaux",
+    "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

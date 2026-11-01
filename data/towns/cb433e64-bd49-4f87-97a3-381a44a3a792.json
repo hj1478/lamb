@@ -1,123 +1,116 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Lidkoping",
-  "uuid": "767816a3-4faa-4ea6-8738-36393d85d278",
-  "board": "/town set board [msg]",
-  "founder": "GOTIMAJA",
+  "name": "LV",
+  "uuid": "cb433e64-bd49-4f87-97a3-381a44a3a792",
+  "board": "Latvia for Latvians",
+  "founder": "Nils_Usakovs",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC21",
-   "uuid": "44c8421d-40d8-205f-bfbd-11a435854ec5"
+   "name": "Nils_Usakovs",
+   "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1788960444479,
+   "registered": 1793536913154,
    "joinedNationAt": null,
-   "ruinedAt": 1793268001238
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4721.658699086368,
+    "x": 8265.169434033382,
     "y": 63.0,
-    "z": -15732.57732294372,
-    "pitch": 48.149967,
-    "yaw": -172.4764
+    "z": -15179.976093924579,
+    "pitch": 23.100084,
+    "yaw": 175.69604
    },
    "homeBlock": [
-    295,
-    -984
+    516,
+    -949
    ],
    "townBlocks": [
     [
-     296,
-     -986
-    ],
-    [
-     295,
-     -986
-    ],
-    [
-     295,
-     -985
-    ],
-    [
-     295,
-     -984
+     516,
+     -949
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC21",
-    "uuid": "44c8421d-40d8-205f-bfbd-11a435854ec5"
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Cows_arethebest3",
+    "uuid": "64c49f3d-1304-4055-900e-cb264111ec15"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

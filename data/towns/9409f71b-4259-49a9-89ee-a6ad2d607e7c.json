@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Isla_Magica",
   "uuid": "9409f71b-4259-49a9-89ee-a6ad2d607e7c",
@@ -12,12 +12,12 @@
    "uuid": "5c854144-d000-4957-b14f-d1c42dbf8433"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Spain",
+   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
   },
   "timestamps": {
    "registered": 1777747442101,
-   "joinedNationAt": null,
+   "joinedNationAt": 1792938906862,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 95,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,

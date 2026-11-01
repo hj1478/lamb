@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Shirak",
   "uuid": "9dfab7ce-2a08-4e93-882a-5b17a577bb6b",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 164,
-   "maxTownBlocks": 202,
+   "maxTownBlocks": 192,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 16,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 6,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15549.02173594197,
-    "y": 85.5,
-    "z": -7302.5283060550255,
-    "pitch": 8.399954,
-    "yaw": -81.45038
+    "x": 15608.601032380946,
+    "y": 86.0,
+    "z": -7291.712519067228,
+    "pitch": 10.50002,
+    "yaw": -169.94873
    },
    "homeBlock": [
-    971,
-    -457
+    975,
+    -456
    ],
    "townBlocks": [
     [
@@ -188,20 +188,20 @@
      -467
     ],
     [
-     982,
-     -460
-    ],
-    [
      968,
      -458
     ],
     [
      982,
-     -461
+     -460
     ],
     [
      968,
      -459
+    ],
+    [
+     982,
+     -461
     ],
     [
      982,
@@ -560,12 +560,16 @@
      -457
     ],
     [
+     969,
+     -456
+    ],
+    [
      981,
      -472
     ],
     [
      969,
-     -456
+     -459
     ],
     [
      981,
@@ -573,7 +577,7 @@
     ],
     [
      969,
-     -459
+     -458
     ],
     [
      981,
@@ -581,10 +585,6 @@
     ],
     [
      969,
-     -458
-    ],
-    [
-     969,
      -453
     ],
     [
@@ -660,12 +660,12 @@
      -456
     ],
     [
-     977,
-     -457
-    ],
-    [
      970,
      -452
+    ],
+    [
+     977,
+     -457
     ],
     [
      970,
@@ -692,12 +692,12 @@
      -475
     ],
     [
-     976,
-     -474
-    ],
-    [
      973,
      -452
+    ],
+    [
+     976,
+     -474
     ],
     [
      973,
@@ -756,20 +756,8 @@
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    },
    {
-    "name": "idkvop",
-    "uuid": "0219fb22-8212-4c92-9b40-ebea6be5f61b"
-   },
-   {
     "name": "karolinios12",
     "uuid": "3d5b780a-187a-48ff-80cf-d960df3bcc31"
-   },
-   {
-    "name": "Uno097",
-    "uuid": "4a2a2e05-a889-4538-8322-230d19124048"
-   },
-   {
-    "name": "BadDetective",
-    "uuid": "a191e1ce-21c4-4419-8447-7e68f1025e31"
    },
    {
     "name": "zlisssy",
@@ -814,14 +802,21 @@
    {
     "name": "NotHere2X",
     "uuid": "dbb48366-2898-401d-9b1a-5d598d46e839"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "AlfieTheWood",
-    "uuid": "2e2fc834-61d7-4096-800c-42ad98ed7479"
+    "name": "attygamer4166",
+    "uuid": "5f0b78c5-985a-4d62-aeef-8e080ab7c92d"
+   },
+   {
+    "name": "BB_Hello_Mattie",
+    "uuid": "c0c1875f-b14c-427c-9199-46ce6eb7b000"
+   },
+   {
+    "name": "alkhachatryan",
+    "uuid": "a7af0509-747e-476c-b263-93a491849d5c"
    }
   ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "GovernorAustria1",
@@ -1056,6 +1051,10 @@
    {
     "name": "Luxurious Suite",
     "uuid": "bcc8e084-bfa9-49c1-a863-0df8b49a8861"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "0ef7e4d0-7cba-4e5b-b56b-7b58a6f35211"
    }
   ],
   "ranks": {

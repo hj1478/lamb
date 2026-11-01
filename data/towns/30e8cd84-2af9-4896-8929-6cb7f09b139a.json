@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Cartel_Harbor",
-  "uuid": "272f1c47-cea5-4133-9d7b-094f06ad5488",
+  "name": "Lake_Orion",
+  "uuid": "30e8cd84-2af9-4896-8929-6cb7f09b139a",
   "board": "/town set board [msg]",
-  "founder": "SNEGLEFACKENFAR",
+  "founder": "Shuggy346",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC11",
-   "uuid": "80df5116-0369-20d6-bea6-848d50169d27"
+   "name": "Shuggy346",
+   "uuid": "15884632-c442-4eb8-a1d0-d928da04eb85"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787156540148,
+   "registered": 1793477371729,
    "joinedNationAt": null,
-   "ruinedAt": 1793268000762
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,104 +35,101 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 27.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23073.066201546684,
-    "y": 64.0,
-    "z": 1215.05900103596,
-    "pitch": 19.169907,
-    "yaw": -92.14575
+    "x": 31394.46926278396,
+    "y": 111.0,
+    "z": -3821.1905921296293,
+    "pitch": 22.049877,
+    "yaw": 162.5979
    },
    "homeBlock": [
-    -1443,
-    75
+    1962,
+    -239
    ],
    "townBlocks": [
     [
-     -1441,
-     75
+     1961,
+     -240
     ],
     [
-     -1441,
-     76
+     1962,
+     -240
     ],
     [
-     -1443,
-     75
+     1961,
+     -239
     ],
     [
-     -1443,
-     74
+     1961,
+     -238
     ],
     [
-     -1443,
-     76
+     1962,
+     -238
     ],
     [
-     -1442,
-     75
-    ],
-    [
-     -1442,
-     76
-    ],
-    [
-     -1442,
-     74
+     1962,
+     -239
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC11",
-    "uuid": "80df5116-0369-20d6-bea6-848d50169d27"
+    "name": "Shuggy346",
+    "uuid": "15884632-c442-4eb8-a1d0-d928da04eb85"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Lord_Gibraltar",
+    "uuid": "6db958f7-004f-4451-a460-a0a12a7decba"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

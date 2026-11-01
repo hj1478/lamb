@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Mykolaiv",
   "uuid": "93b243df-90c4-467a-bcda-eda339961298",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MESHIKIARI",
-   "uuid": "7c9f1111-ec5c-467b-882d-ca34aff7ef80"
+   "name": "NPC50",
+   "uuid": "12a0337f-b6d9-20b1-b079-0f3f3d0ef2c1"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778318394028,
-   "joinedNationAt": 1778429609536,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793440802562
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 80,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -416,15 +416,11 @@
   },
   "residents": [
    {
-    "name": "MESHIKIARI",
-    "uuid": "7c9f1111-ec5c-467b-882d-ca34aff7ef80"
+    "name": "NPC50",
+    "uuid": "12a0337f-b6d9-20b1-b079-0f3f3d0ef2c1"
    }
   ],
   "trusted": [
-   {
-    "name": "MESHIKIARI",
-    "uuid": "7c9f1111-ec5c-467b-882d-ca34aff7ef80"
-   },
    {
     "name": "Nils_Usakovs",
     "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
@@ -437,12 +433,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "MESHIKIARI",
-     "uuid": "7c9f1111-ec5c-467b-882d-ca34aff7ef80"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

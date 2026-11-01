@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "East_Hwanghae",
-  "uuid": "6cd2d258-b2b6-425e-9ead-6f177a101205",
+  "name": "Ostersund",
+  "uuid": "475d19a3-d406-4fb8-9737-572e1743896e",
   "board": "/town set board [msg]",
-  "founder": "Dominateaur",
+  "founder": "P3np10",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC76",
-   "uuid": "5f983ac5-1745-2008-a12a-99c404f33a3b"
+   "name": "P3np10",
+   "uuid": "b1b1baae-245b-49c1-83a9-2faebabc7234"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793064268783,
+   "registered": 1793539658691,
    "joinedNationAt": null,
-   "ruinedAt": 1793221772290
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,65 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45349.324135296294,
-    "y": 64.0,
-    "z": -6522.909889736724,
-    "pitch": 21.048332,
-    "yaw": -166.13818
+    "x": 5225.754086572292,
+    "y": 67.0,
+    "z": -18331.63222727553,
+    "pitch": 18.210014,
+    "yaw": -35.16233
    },
    "homeBlock": [
-    2834,
-    -408
+    326,
+    -1146
    ],
    "townBlocks": [
     [
-     2834,
-     -408
-    ],
-    [
-     2834,
-     -407
+     326,
+     -1146
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC76",
-    "uuid": "5f983ac5-1745-2008-a12a-99c404f33a3b"
+    "name": "P3np10",
+    "uuid": "b1b1baae-245b-49c1-83a9-2faebabc7234"
    }
   ],
   "trusted": [],

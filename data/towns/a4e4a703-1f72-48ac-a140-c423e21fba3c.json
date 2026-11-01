@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Neo",
   "uuid": "a4e4a703-1f72-48ac-a140-c423e21fba3c",
-  "board": null,
+  "board": "Good morning, Night City!",
   "founder": "x4qri",
   "wiki": null,
   "discord": null,
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 128,
+   "numTownBlocks": 130,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -166,6 +166,10 @@
     [
      2456,
      22
+    ],
+    [
+     2466,
+     21
     ],
     [
      2456,
@@ -318,6 +322,10 @@
     [
      2462,
      24
+    ],
+    [
+     2467,
+     21
     ],
     [
      2462,
@@ -621,7 +629,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "iKurdo",
+    "uuid": "5e50643d-a306-4e71-be9a-ad490527cabe"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

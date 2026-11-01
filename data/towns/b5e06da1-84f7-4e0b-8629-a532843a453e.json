@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Nagaland",
   "uuid": "b5e06da1-84f7-4e0b-8629-a532843a453e",
-  "board": "/town set board [msg]",
+  "board": "Crossroads!",
   "founder": "Min1sterr",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 5,
+   "balance": 114.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,108 @@
    ],
    "townBlocks": [
     [
+     2110,
+     -136
+    ],
+    [
+     2110,
+     -135
+    ],
+    [
+     2111,
+     -133
+    ],
+    [
+     2111,
+     -134
+    ],
+    [
+     2111,
+     -132
+    ],
+    [
+     2112,
+     -136
+    ],
+    [
+     2112,
+     -135
+    ],
+    [
+     2111,
+     -135
+    ],
+    [
+     2111,
+     -136
+    ],
+    [
      2112,
      -134
+    ],
+    [
+     2112,
+     -133
+    ],
+    [
+     2110,
+     -132
+    ],
+    [
+     2112,
+     -132
+    ],
+    [
+     2110,
+     -134
+    ],
+    [
+     2110,
+     -133
+    ],
+    [
+     2114,
+     -134
+    ],
+    [
+     2113,
+     -133
+    ],
+    [
+     2114,
+     -133
+    ],
+    [
+     2113,
+     -134
+    ],
+    [
+     2114,
+     -136
+    ],
+    [
+     2113,
+     -135
+    ],
+    [
+     2114,
+     -135
+    ],
+    [
+     2113,
+     -136
+    ],
+    [
+     2115,
+     -134
+    ],
+    [
+     2115,
+     -135
+    ],
+    [
+     2115,
+     -136
     ]
    ],
    "worlds": {}
@@ -102,14 +202,57 @@
    {
     "name": "Min1sterr",
     "uuid": "15264ea1-3d55-4b5c-80f5-451053b48330"
+   },
+   {
+    "name": "P1N3APPLE4875",
+    "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
+   },
+   {
+    "name": "Jimbob_Joebruh",
+    "uuid": "b3d96478-dc79-4357-afb6-002b5b69970d"
+   },
+   {
+    "name": "AnLondon",
+    "uuid": "845a5f57-2894-45f5-9f06-47d11691506e"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "_Ap3x_V0id",
+    "uuid": "38df3688-b7ce-49bf-9a0b-34894d2d3b57"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "FeliksTV",
+    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
+   },
+   {
+    "name": "whatmilo",
+    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "P1N3APPLE4875",
+     "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "P1N3APPLE4875",
+     "uuid": "ce6daadb-5d94-49cf-910f-e12b41290a0a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

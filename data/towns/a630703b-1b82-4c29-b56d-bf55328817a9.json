@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Timbuktu",
   "uuid": "a630703b-1b82-4c29-b56d-bf55328817a9",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 148,
-   "maxTownBlocks": 156,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 13,
-   "numTrusted": 2,
-   "numOutlaws": 9,
+   "numResidents": 5,
+   "numTrusted": 0,
+   "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -688,44 +688,12 @@
   },
   "residents": [
    {
-    "name": "JamesIsTaken",
-    "uuid": "63e85765-101a-41fa-8017-a2d2b8a24c95"
-   },
-   {
     "name": "rzrt",
     "uuid": "47e6c8c9-19f9-4bb4-a204-d05ddfce29d0"
    },
    {
     "name": "felixsgt",
     "uuid": "fb727536-85ac-4e35-a8dd-f1eef6616f3a"
-   },
-   {
-    "name": "yt_elpepontv",
-    "uuid": "b75d331f-0628-4939-ba55-cfc9cf9db94d"
-   },
-   {
-    "name": "MariTeaa",
-    "uuid": "43b41a43-83e2-4ba4-835b-bd161a2a6f58"
-   },
-   {
-    "name": "UltimatiaX",
-    "uuid": "e8ced301-5bdd-4cb9-97c4-1afa50451c1f"
-   },
-   {
-    "name": "NONAMEnr1",
-    "uuid": "fd044e6f-d696-4880-bdfb-4fb40198bac2"
-   },
-   {
-    "name": "Cyning1",
-    "uuid": "26246954-e9e9-4cd6-9484-b08c3671bb55"
-   },
-   {
-    "name": "IAMASTEG0SAURUS",
-    "uuid": "eb27a0a3-d57c-42f3-b453-d259416c21f9"
-   },
-   {
-    "name": "mikeval17",
-    "uuid": "10b4bcf7-4879-4855-bb05-86f2cb9fca51"
    },
    {
     "name": "FantomZzZz",
@@ -740,16 +708,7 @@
     "uuid": "d82aacd6-39e4-4214-8183-3f8b8cf9cb0d"
    }
   ],
-  "trusted": [
-   {
-    "name": "Andakira",
-    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
-   },
-   {
-    "name": "JamesIsTaken",
-    "uuid": "63e85765-101a-41fa-8017-a2d2b8a24c95"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "MalMeteor",
@@ -758,14 +717,6 @@
    {
     "name": "Trundlex",
     "uuid": "16a246eb-7ed0-4cce-ad2d-e1f97cbfa03f"
-   },
-   {
-    "name": "n88e",
-    "uuid": "4295514a-4bed-49b7-8bbb-b89b1425cf7d"
-   },
-   {
-    "name": "ppmo",
-    "uuid": "e0951f3b-d44d-41c8-afcd-24eb3c2d9c6e"
    },
    {
     "name": "2DFemboy",
@@ -822,10 +773,6 @@
     "uuid": "284d22d9-eea3-4cb0-b995-05efee9bdb22"
    },
    {
-    "name": "Adobe 4",
-    "uuid": "74095b65-135f-423e-afd8-192dbbab2f9a"
-   },
-   {
     "name": "Adobe 3",
     "uuid": "07cd7edb-11fc-4547-82e0-6e8189fac952"
    },
@@ -834,12 +781,16 @@
     "uuid": "40d6b6c7-2fca-4b2e-83d2-b539f8948a44"
    },
    {
+    "name": "poopy storage",
+    "uuid": "d84cac7d-3a43-4227-89a1-58063429f3da"
+   },
+   {
     "name": "Entrance/Exit",
     "uuid": "ae365f64-c780-4018-9df2-7e573cb90335"
    },
    {
-    "name": "poopy storage",
-    "uuid": "d84cac7d-3a43-4227-89a1-58063429f3da"
+    "name": "Adobe 4",
+    "uuid": "74095b65-135f-423e-afd8-192dbbab2f9a"
    }
   ],
   "ranks": {

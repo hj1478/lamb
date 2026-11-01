@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Dyneburg",
   "uuid": "af16ebaf-2887-4d12-a0ba-3b6c77b54bd9",
-  "board": "o rany, Jugoslavia!",
+  "board": "Glory to Polish-Lithuanian Commonwealth!",
   "founder": "Stara_Pralka",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/xvs46GX2v",
   "mayor": {
-   "name": "Stara_Pralka",
-   "uuid": "6277f80f-8a8d-47c8-b115-12825bbfa691"
+   "name": "whatmilo",
+   "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
   },
   "nation": {
    "name": "PLC",
@@ -25,25 +25,25 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 171,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
-   "forSalePrice": 3000.0
+   "balance": 5.0,
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9511.109259119408,
-    "y": 64.0,
-    "z": -14540.743507220493,
-    "pitch": -1.9499977,
-    "yaw": -169.50006
+    "x": 9511.602982565595,
+    "y": 57.0,
+    "z": -14548.236072685719,
+    "pitch": 9.300444,
+    "yaw": 1.0510254
    },
    "homeBlock": [
     594,
-    -909
+    -910
    ],
    "townBlocks": [
     [
@@ -325,10 +325,6 @@
     ],
     [
      589,
-     -906
-    ],
-    [
-     589,
      -904
     ],
     [
@@ -766,6 +762,10 @@
     [
      595,
      -910
+    ],
+    [
+     587,
+     -912
     ],
     [
      597,
@@ -779,14 +779,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "Stara_Pralka",
-    "uuid": "6277f80f-8a8d-47c8-b115-12825bbfa691"
-   },
-   {
-    "name": "ImStillAlex",
-    "uuid": "58401ab6-b43c-455f-9e08-631ad2ecaab4"
-   },
    {
     "name": "WickedGamer14",
     "uuid": "c7323b3c-831b-4965-b453-ee8894128ea0"
@@ -802,11 +794,28 @@
    {
     "name": "otaviobw28",
     "uuid": "dcdf73f9-3cba-417e-a61b-3d61656f904a"
+   },
+   {
+    "name": "whatmilo",
+    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Terracotta",
+    "uuid": "693bc4c6-474d-43a2-8cfb-20f3af5b3ec2"
+   },
+   {
+    "name": "Terracotta",
+    "uuid": "30422c9a-c165-4f1d-84ac-1b243699e2ce"
+   },
+   {
+    "name": "Gravel",
+    "uuid": "567f7108-4bdc-4462-8b42-570339aa1719"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

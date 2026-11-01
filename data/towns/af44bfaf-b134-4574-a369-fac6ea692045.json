@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Erzincan",
   "uuid": "af44bfaf-b134-4574-a369-fac6ea692045",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "dv6724",
-   "uuid": "fbd4f717-3464-41b4-8895-8c8b46d2b4c1"
+   "name": "NPC91",
+   "uuid": "30f0a006-58a1-20bd-a7a8-a8a8d8ccdf1d"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777740920015,
-   "joinedNationAt": 1792765955199,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793384884245
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 311,
-   "maxTownBlocks": 340,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 20,
    "numTrusted": 5,
    "numOutlaws": 10,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -1353,16 +1353,12 @@
     "uuid": "372ead53-f10c-4316-935e-3ebda58c4c95"
    },
    {
+    "name": "Novachester",
+    "uuid": "26dbeb95-461f-40c3-b0b5-38d8bc6128d4"
+   },
+   {
     "name": "mapiii00",
     "uuid": "d2660aae-3a98-4748-ae42-92ca4687f41c"
-   },
-   {
-    "name": "dv6724",
-    "uuid": "fbd4f717-3464-41b4-8895-8c8b46d2b4c1"
-   },
-   {
-    "name": "Demirolli",
-    "uuid": "e6d98516-540e-4041-984b-7cca72e86a22"
    },
    {
     "name": "Dwazxx",
@@ -1423,6 +1419,10 @@
    {
     "name": "aggssgg",
     "uuid": "cbfedbed-cc00-47d8-ade2-6c4e34a20b68"
+   },
+   {
+    "name": "NPC91",
+    "uuid": "30f0a006-58a1-20bd-a7a8-a8a8d8ccdf1d"
    }
   ],
   "trusted": [

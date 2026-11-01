@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Ebisu",
   "uuid": "ab2eb2b4-807e-446e-b773-fff540635fbb",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 114,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 117,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 9,
    "numTrusted": 6,
    "numOutlaws": 0,
    "balance": 730.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42523.94381020418,
-    "y": 66.0,
-    "z": -1209.0363269241384,
-    "pitch": -14.242405,
-    "yaw": 89.493225
+    "x": 42519.44987554981,
+    "y": 67.0,
+    "z": -1208.420220665884,
+    "pitch": 40.79996,
+    "yaw": 173.64337
    },
    "homeBlock": [
     2657,
@@ -245,6 +245,10 @@
     ],
     [
      2654,
+     -78
+    ],
+    [
+     2654,
      -77
     ],
     [
@@ -404,8 +408,16 @@
      -75
     ],
     [
+     2655,
+     -78
+    ],
+    [
      2659,
      -79
+    ],
+    [
+     2659,
+     -78
     ],
     [
      2659,
@@ -562,6 +574,30 @@
    {
     "name": "LMAShaunter",
     "uuid": "7047b65e-fe20-4954-9980-e3cf22e1fa0b"
+   },
+   {
+    "name": "kuriman_113",
+    "uuid": "056a5799-8ada-48f6-acea-f51b37f421e5"
+   },
+   {
+    "name": "ITZ_Scrabz",
+    "uuid": "5252436f-91a6-4e0c-bec7-a28acabd4f33"
+   },
+   {
+    "name": "Cruuddy",
+    "uuid": "d2fa6ed2-a581-438d-b381-7d8e7ced67ef"
+   },
+   {
+    "name": "Peko_kyun",
+    "uuid": "3922aa19-cf81-44f7-9f03-79cc49c89809"
+   },
+   {
+    "name": "Matthnerd230",
+    "uuid": "3c76da26-8437-4ef7-b5e3-e78cc3dcd4ce"
+   },
+   {
+    "name": "WilliamWang2014",
+    "uuid": "4a370403-4ccb-4c0f-a0f1-e13c3eac6286"
    }
   ],
   "trusted": [
@@ -607,6 +643,10 @@
    {
     "name": "door",
     "uuid": "3dbbb477-4fd9-4e86-bcbd-8bab6b1c1a87"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "92be88e8-99f2-4936-918f-a718951eea88"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Dimona",
   "uuid": "a5b697f1-9bc1-4390-a00a-3deb252fc0f1",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 35,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 6,
    "balance": 50.0,
@@ -93,19 +93,7 @@
    "townBlocks": [
     [
      785,
-     -210
-    ],
-    [
-     785,
      -209
-    ],
-    [
-     785,
-     -212
-    ],
-    [
-     785,
-     -211
     ],
     [
      783,
@@ -114,18 +102,6 @@
     [
      783,
      -209
-    ],
-    [
-     783,
-     -210
-    ],
-    [
-     783,
-     -211
-    ],
-    [
-     783,
-     -212
     ],
     [
      783,
@@ -164,15 +140,7 @@
      -212
     ],
     [
-     784,
-     -210
-    ],
-    [
      782,
-     -211
-    ],
-    [
-     784,
      -211
     ],
     [
@@ -180,24 +148,12 @@
      -214
     ],
     [
-     784,
-     -212
-    ],
-    [
      782,
      -213
     ],
     [
      784,
-     -213
-    ],
-    [
-     784,
      -208
-    ],
-    [
-     784,
-     -209
     ],
     [
      781,
@@ -242,6 +198,10 @@
    {
     "name": "apg2498",
     "uuid": "879ba6b5-e372-4c8b-8adc-b1145c4f19d8"
+   },
+   {
+    "name": "RizzatronusPrime",
+    "uuid": "18488d00-086f-4791-97fb-ffda015f92ce"
    }
   ],
   "trusted": [
@@ -278,50 +238,6 @@
   ],
   "quarters": [
    {
-    "name": "Go",
-    "uuid": "664db489-33af-4938-93cd-62e9e0273677"
-   },
-   {
-    "name": "goobertheboii",
-    "uuid": "4b227997-1dd1-4802-b21b-3ef0534c1221"
-   },
-   {
-    "name": "fireworks",
-    "uuid": "e6cbf127-199f-484c-a3bd-65e24f7feaa3"
-   },
-   {
-    "name": "3-1",
-    "uuid": "ce2ed956-630e-4f93-a5c9-b56bd963a8bb"
-   },
-   {
-    "name": "3-2",
-    "uuid": "58a66101-bab1-449f-bb35-1d12df92e5df"
-   },
-   {
-    "name": "3-3",
-    "uuid": "c4add8dc-e93c-4cfc-8942-c535ad879b61"
-   },
-   {
-    "name": "wool",
-    "uuid": "cfc6dcec-e62c-42b6-837c-08a0e19ed535"
-   },
-   {
-    "name": "2-3",
-    "uuid": "872d41fb-dd72-41e1-ade4-43fbbe7e5438"
-   },
-   {
-    "name": "Inviting Property",
-    "uuid": "f90a4c28-696c-454d-a430-e404663c4f2b"
-   },
-   {
-    "name": "1-1",
-    "uuid": "18c80377-7f27-4990-84ed-37e2c0b950bc"
-   },
-   {
-    "name": "1-2",
-    "uuid": "a102d4b3-e069-4637-b5ae-43348f031ada"
-   },
-   {
     "name": "3-0",
     "uuid": "5410eef0-6b7b-4e4c-a925-5afcb6aa73c1"
    },
@@ -350,20 +266,12 @@
     "uuid": "e4179a84-bc1f-447e-b4cf-c8bcff2447de"
    },
    {
-    "name": "1-3",
-    "uuid": "d349b35a-5716-4120-9aef-6e44cb1f98ae"
-   },
-   {
     "name": "floor_1_#1",
     "uuid": "e68e02d6-1e24-42c6-aab0-20bfdd4ea469"
    },
    {
     "name": "floor_2_#1",
     "uuid": "3e3d29cd-5f0c-485c-ac76-480cc8fd7457"
-   },
-   {
-    "name": "2-2",
-    "uuid": "a7cb0c33-5552-4613-b5c0-4b68d2ea592c"
    }
   ],
   "ranks": {

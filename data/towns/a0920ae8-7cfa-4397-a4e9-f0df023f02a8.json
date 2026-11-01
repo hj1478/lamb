@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Real_Atlantis",
   "uuid": "a0920ae8-7cfa-4397-a4e9-f0df023f02a8",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 24,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 183.0,
+   "balance": 106.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -74,17 +74,17 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3789.05943766553,
+    "x": -3784.7380536370156,
     "y": 64.0,
-    "z": 27861.69999998808,
-    "pitch": 36.49601,
-    "yaw": -145.05626
+    "z": 27863.232214629978,
+    "pitch": 22.528027,
+    "yaw": 153.94138
    },
    "homeBlock": [
     -237,
@@ -92,6 +92,62 @@
    ],
    "townBlocks": [
     [
+     -237,
+     1742
+    ],
+    [
+     -237,
+     1743
+    ],
+    [
+     -237,
+     1744
+    ],
+    [
+     -238,
+     1738
+    ],
+    [
+     -238,
+     1740
+    ],
+    [
+     -238,
+     1739
+    ],
+    [
+     -238,
+     1742
+    ],
+    [
+     -238,
+     1741
+    ],
+    [
+     -238,
+     1743
+    ],
+    [
+     -236,
+     1743
+    ],
+    [
+     -236,
+     1742
+    ],
+    [
+     -236,
+     1744
+    ],
+    [
+     -239,
+     1743
+    ],
+    [
+     -240,
+     1741
+    ],
+    [
      -239,
      1738
     ],
@@ -108,32 +164,24 @@
      1741
     ],
     [
-     -238,
-     1738
-    ],
-    [
-     -238,
-     1740
-    ],
-    [
-     -238,
-     1739
+     -239,
+     1742
     ],
     [
      -237,
      1738
     ],
     [
-     -238,
+     -237,
+     1739
+    ],
+    [
+     -237,
+     1740
+    ],
+    [
+     -236,
      1741
-    ],
-    [
-     -237,
-     1739
-    ],
-    [
-     -237,
-     1740
     ],
     [
      -237,
@@ -160,16 +208,20 @@
     "uuid": "93380791-839d-4658-ab58-6ddd9ca38612"
    },
    {
-    "name": "Dull Apartment",
-    "uuid": "213620a4-245d-4457-b171-d9a15f19c5dc"
-   },
-   {
     "name": "Lovely Flat",
     "uuid": "89e02ee5-3be2-4498-8de8-e7779339f659"
    },
    {
     "name": "Perturbing Quarter",
     "uuid": "6f0640d4-d6e0-4faf-ba82-ce3a76de70d1"
+   },
+   {
+    "name": "Bland Flat",
+    "uuid": "fb68fc53-e56b-4543-b9f5-e84891417b4b"
+   },
+   {
+    "name": "Dull Apartment",
+    "uuid": "213620a4-245d-4457-b171-d9a15f19c5dc"
    }
   ],
   "ranks": {

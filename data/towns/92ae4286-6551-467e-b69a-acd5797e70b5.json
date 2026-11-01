@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Farm_Atlas",
   "uuid": "92ae4286-6551-467e-b69a-acd5797e70b5",
-  "board": "/town set board [msg]",
+  "board": "remember to upkeep the farms",
   "founder": "predatorjacob23",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "predatorjacob23",
-   "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
+   "name": "blakey_07",
+   "uuid": "dad44091-8b25-4608-907c-65d2d1742806"
   },
   "nation": {
    "name": "Iberia",
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 5,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 28.0,
-   "forSalePrice": null
+   "numOutlaws": 1,
+   "balance": 0.0,
+   "forSalePrice": 140.0
   },
   "perms": {
    "build": [
@@ -96,6 +96,14 @@
      -453
     ],
     [
+     958,
+     -453
+    ],
+    [
+     960,
+     -454
+    ],
+    [
      960,
      -452
     ],
@@ -108,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "predatorjacob23",
-    "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
+    "name": "blakey_07",
+    "uuid": "dad44091-8b25-4608-907c-65d2d1742806"
    }
   ],
   "trusted": [
@@ -118,10 +126,20 @@
     "uuid": "3dd91d3b-9847-424f-b213-f1c5e914af7c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Aarizqaid",
+    "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "blakey_07",
+     "uuid": "dad44091-8b25-4608-907c-65d2d1742806"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

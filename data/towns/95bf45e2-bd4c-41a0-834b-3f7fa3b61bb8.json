@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Bethoney",
   "uuid": "95bf45e2-bd4c-41a0-834b-3f7fa3b61bb8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "VenomKitty1234",
-   "uuid": "567751e8-d943-4465-b5b9-ee6ace79992a"
+   "name": "NPC63",
+   "uuid": "f8e6d8fb-63d0-20b7-aba1-6cc75dd3c82a"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1780723364220,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793527201990
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "VenomKitty1234",
-    "uuid": "567751e8-d943-4465-b5b9-ee6ace79992a"
+    "name": "NPC63",
+    "uuid": "f8e6d8fb-63d0-20b7-aba1-6cc75dd3c82a"
    }
   ],
   "trusted": [],

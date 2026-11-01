@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "DERKINFINE",
   "uuid": "92ef9e85-df0c-411b-b0a7-b82d277a45a2",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DIPYTIONAK",
-   "uuid": "c6f23959-d511-415f-a8ed-f5a16dd15dfb"
+   "name": "NPC102",
+   "uuid": "e3f67613-fca9-20e6-ac0d-e87b2db47f31"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1777774338979,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793440800717
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,48 +47,48 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -16966.54787353691,
-    "y": 64.0,
-    "z": 10231.499188607244,
-    "pitch": 64.20007,
-    "yaw": -120.299194
+    "x": -16925.18053145777,
+    "y": 175.0,
+    "z": 10192.724968384902,
+    "pitch": 15.65754,
+    "yaw": -169.52954
    },
    "homeBlock": [
-    -1061,
-    639
+    -1058,
+    637
    ],
    "townBlocks": [
     [
@@ -164,8 +164,8 @@
   },
   "residents": [
    {
-    "name": "DIPYTIONAK",
-    "uuid": "c6f23959-d511-415f-a8ed-f5a16dd15dfb"
+    "name": "NPC102",
+    "uuid": "e3f67613-fca9-20e6-ac0d-e87b2db47f31"
    }
   ],
   "trusted": [],

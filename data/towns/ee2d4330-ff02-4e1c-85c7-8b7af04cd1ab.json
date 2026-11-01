@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Ovdalen",
-  "uuid": "949e7e09-978b-4d22-93ce-fa2e33aa13a7",
-  "board": "/town set board [msg]",
-  "founder": "Immortalility",
+  "name": "Bundestag",
+  "uuid": "ee2d4330-ff02-4e1c-85c7-8b7af04cd1ab",
+  "board": "Binnenhof but German this time",
+  "founder": "limao_mao",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC74",
-   "uuid": "a1ca8476-261f-20a1-a9dd-9bb5e42b73f9"
+   "name": "limao_mao",
+   "uuid": "1df4938b-fed2-4615-b094-7acb97238bdc"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
-   "registered": 1793215677466,
-   "joinedNationAt": null,
-   "ruinedAt": 1793216032460
+   "registered": 1793512178310,
+   "joinedNationAt": 1793512185561,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7507.94053812063,
-    "y": 63.0,
-    "z": -22280.683200710977,
-    "pitch": 23.549938,
-    "yaw": -179.39795
+    "x": -36220.75604724218,
+    "y": 71.0,
+    "z": -16838.359409232275,
+    "pitch": 11.303337,
+    "yaw": 166.16861
    },
    "homeBlock": [
-    469,
-    -1393
+    -2264,
+    -1053
    ],
    "townBlocks": [
     [
-     469,
-     -1393
+     -2264,
+     -1053
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC74",
-    "uuid": "a1ca8476-261f-20a1-a9dd-9bb5e42b73f9"
+    "name": "limao_mao",
+    "uuid": "1df4938b-fed2-4615-b094-7acb97238bdc"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Andaman",
   "uuid": "a94bb3e5-61d7-4488-9a7f-f4e5e619e78e",
@@ -12,37 +12,37 @@
    "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
   },
   "nation": {
-   "name": "Narmada",
-   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791305795043,
-   "joinedNationAt": 1791305817014,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 166.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     2084,
+     204
+    ],
+    [
+     2084,
+     205
+    ],
+    [
+     2084,
+     206
+    ],
+    [
+     2086,
+     206
+    ],
+    [
      2082,
      204
     ],
@@ -112,8 +128,16 @@
      208
     ],
     [
+     2087,
+     204
+    ],
+    [
      2081,
      204
+    ],
+    [
+     2087,
+     205
     ],
     [
      2081,
@@ -164,6 +188,10 @@
      205
     ],
     [
+     2085,
+     206
+    ],
+    [
      2080,
      204
     ],
@@ -190,6 +218,26 @@
     [
      2080,
      210
+    ],
+    [
+     2085,
+     204
+    ],
+    [
+     2086,
+     204
+    ],
+    [
+     2085,
+     205
+    ],
+    [
+     2086,
+     205
+    ],
+    [
+     2086,
+     203
     ],
     [
      2078,
@@ -222,6 +270,10 @@
    {
     "name": "Elas67",
     "uuid": "70a7487b-70a8-4260-999c-be916aeadba5"
+   },
+   {
+    "name": "WeepingAngeI",
+    "uuid": "9676f6bf-ab6e-465c-934a-ca3d3f047563"
    }
   ],
   "trusted": [

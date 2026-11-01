@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Jtown",
-  "uuid": "d742f5a5-fccb-40de-a80f-d6376b4819ac",
+  "name": "ArchLand",
+  "uuid": "c17fe84d-72d4-4f9d-bc63-8203a1be6c98",
   "board": "/town set board [msg]",
-  "founder": "Joleman1222",
+  "founder": "Archlancer96",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC75",
-   "uuid": "385eb0c6-9bb5-20eb-9b8c-6e95199e78cc"
+   "name": "Archlancer96",
+   "uuid": "cfd9c3a6-92d1-4467-a59c-29109ef8be76"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793215834604,
+   "registered": 1793483061001,
    "joinedNationAt": null,
-   "ruinedAt": 1793216233287
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31011.312982590232,
-    "y": 63.0,
-    "z": -29662.5668512803,
-    "pitch": 13.04999,
-    "yaw": 121.389465
+    "x": 8330.905098799267,
+    "y": 65.0,
+    "z": -7818.604798786115,
+    "pitch": 22.350313,
+    "yaw": 41.611694
    },
    "homeBlock": [
-    -1939,
-    -1854
+    520,
+    -489
    ],
    "townBlocks": [
     [
-     -1939,
-     -1854
+     520,
+     -489
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC75",
-    "uuid": "385eb0c6-9bb5-20eb-9b8c-6e95199e78cc"
+    "name": "Archlancer96",
+    "uuid": "cfd9c3a6-92d1-4467-a59c-29109ef8be76"
    }
   ],
   "trusted": [],

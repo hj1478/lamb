@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Cieux",
-  "uuid": "2bb0b810-2157-4f0e-924c-fed47ba04fa7",
+  "name": "Yekaterinburg",
+  "uuid": "4f9df6dd-5074-4e58-964f-c665c9e9d926",
   "board": "/town set board [msg]",
-  "founder": "Maxscee",
+  "founder": "pokanaya",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC32",
-   "uuid": "2a457b41-9c75-20e2-8d47-c00a51947869"
+   "name": "pokanaya",
+   "uuid": "84a6e7e5-0efc-4b2d-956f-4ef71aeed01c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
   },
   "timestamps": {
-   "registered": 1789152427799,
-   "joinedNationAt": null,
-   "ruinedAt": 1793268002926
+   "registered": 1793487276693,
+   "joinedNationAt": 1793487301620,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,72 +36,72 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 314.47584730271194,
-    "y": 64.0,
-    "z": -9658.954825103534,
-    "pitch": 27.749723,
-    "yaw": 140.84778
+    "x": 21924.771868230677,
+    "y": 67.6212968405392,
+    "z": -14911.291417038958,
+    "pitch": 23.100086,
+    "yaw": -79.56482
    },
    "homeBlock": [
-    19,
-    -604
+    1370,
+    -932
    ],
    "townBlocks": [
     [
-     19,
-     -604
+     1370,
+     -932
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC32",
-    "uuid": "2a457b41-9c75-20e2-8d47-c00a51947869"
+    "name": "pokanaya",
+    "uuid": "84a6e7e5-0efc-4b2d-956f-4ef71aeed01c"
    }
   ],
   "trusted": [],

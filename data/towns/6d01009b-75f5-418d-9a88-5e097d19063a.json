@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Maycock",
-  "uuid": "986bbb7e-448a-4cb7-956a-6b3ad3bd57bb",
-  "board": "My island my rules",
-  "founder": "Miztral",
+  "name": "Souveranitat",
+  "uuid": "6d01009b-75f5-418d-9a88-5e097d19063a",
+  "board": "/town set board [msg]",
+  "founder": "Burgsuer",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Miztral",
-   "uuid": "fc4af9b1-c8da-4965-8767-8454984045dd"
+   "name": "Burgsuer",
+   "uuid": "6a8c12a5-6997-4e60-9741-f464e22e90af"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
   },
   "timestamps": {
-   "registered": 1785884951976,
-   "joinedNationAt": null,
+   "registered": 1793459204183,
+   "joinedNationAt": 1793459217730,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,40 +80,32 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 62567.55145466687,
-    "y": 66.0,
-    "z": -19113.607917006906,
-    "pitch": 2.9442835,
-    "yaw": 0.94973755
+    "x": 7416.031588414132,
+    "y": 68.0,
+    "z": -11767.177533331187,
+    "pitch": 42.165985,
+    "yaw": 0.3800496
    },
    "homeBlock": [
-    3910,
-    -1195
+    463,
+    -736
    ],
    "townBlocks": [
     [
-     3910,
-     -1194
+     463,
+     -736
     ],
     [
-     3911,
-     -1196
-    ],
-    [
-     3910,
-     -1195
-    ],
-    [
-     3911,
-     -1195
+     464,
+     -736
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Miztral",
-    "uuid": "fc4af9b1-c8da-4965-8767-8454984045dd"
+    "name": "Burgsuer",
+    "uuid": "6a8c12a5-6997-4e60-9741-f464e22e90af"
    }
   ],
   "trusted": [],

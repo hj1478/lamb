@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Netherland",
   "uuid": "a1ab2f71-7125-4cfd-9df1-9817f67386a6",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 238,
-   "maxTownBlocks": 340,
+   "maxTownBlocks": 316,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 20,
+   "numResidents": 18,
    "numTrusted": 5,
    "numOutlaws": 6,
-   "balance": 694.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1052,22 +1052,6 @@
     "uuid": "bd2e2462-bc66-49a1-9158-08242db4a4b5"
    },
    {
-    "name": "adamkarl",
-    "uuid": "7d2e848a-92b5-43ae-8176-94ff8ab40ed7"
-   },
-   {
-    "name": "semireal12345",
-    "uuid": "0c7b9645-01dc-4269-9ff6-74b135427e98"
-   },
-   {
-    "name": "hugobloodnut",
-    "uuid": "58a71b27-65f6-472d-8d45-7c87b7dc6a9f"
-   },
-   {
-    "name": "ZaxBHA",
-    "uuid": "6747770f-dc61-4140-8690-470c77d5f183"
-   },
-   {
     "name": "Masterwu69_",
     "uuid": "163ece0a-0e62-46e2-b795-263392f270ab"
    },
@@ -1104,10 +1088,6 @@
     "uuid": "28934f94-338f-430e-9a77-fdf53291e015"
    },
    {
-    "name": "Iamzachary008",
-    "uuid": "084b4ced-4314-4424-b1dc-7dc5096d6f88"
-   },
-   {
     "name": "DrPhoinix",
     "uuid": "79f8899c-7018-4b26-ae29-674f9f2501c2"
    },
@@ -1126,6 +1106,18 @@
    {
     "name": "PlasmoMC_",
     "uuid": "a881e1ca-18a0-40ed-9b0d-54371f4b0e3d"
+   },
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "TeNoTic",
+    "uuid": "9d26e83c-463c-4ecc-b037-26e5a027f508"
+   },
+   {
+    "name": "adr3Nc",
+    "uuid": "bd37b8e0-778f-4fee-a634-9acf56063ca4"
    }
   ],
   "trusted": [
@@ -1160,7 +1152,7 @@
     "uuid": "82dddac2-a8d9-428a-9da5-bb05c129e763"
    },
    {
-    "name": "36hoi",
+    "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
@@ -1282,14 +1274,6 @@
     "uuid": "1c47434f-532e-4e81-991c-976fbe8ff812"
    },
    {
-    "name": "Inconvenient Dwelling",
-    "uuid": "880cfbc1-3721-4b4f-8d12-7dcffb97cc00"
-   },
-   {
-    "name": "Upbeat Dwelling",
-    "uuid": "b88f88d2-d626-44ba-a592-20d629c2b5fd"
-   },
-   {
     "name": "Welcoming Apartment",
     "uuid": "45469f96-36ef-4179-8ab4-82669c4ecc5c"
    },
@@ -1316,6 +1300,14 @@
    {
     "name": "Lovely Apartment",
     "uuid": "f4d3bac0-c065-4ae7-bf4c-1e5b6e567fbb"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "b88f88d2-d626-44ba-a592-20d629c2b5fd"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "880cfbc1-3721-4b4f-8d12-7dcffb97cc00"
    }
   ],
   "ranks": {
@@ -1330,12 +1322,7 @@
      "uuid": "d70dca3c-ef3a-45e1-ad00-41bf9565221a"
     }
    ],
-   "Realtor": [
-    {
-     "name": "Iamzachary008",
-     "uuid": "084b4ced-4314-4424-b1dc-7dc5096d6f88"
-    }
-   ],
+   "Realtor": [],
    "Settler": []
   },
   "warps": [],

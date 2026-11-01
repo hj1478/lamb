@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Liku",
-  "uuid": "f7774786-56d8-48ee-bb6a-c1461c74e480",
-  "board": "The Worlds most eastern island that wasnt made by players",
-  "founder": "x178",
+  "name": "Versailles",
+  "uuid": "e0976eab-7f22-4b60-bf18-fe11a687cf1b",
+  "board": "/town set board [msg]",
+  "founder": "SaintStrxy",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Reppelosbohoc",
-   "uuid": "24ad98b0-295e-4dad-b60e-939c7994b00f"
+   "name": "DieaRestrict",
+   "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
   },
   "nation": {
-   "name": "Fiji",
-   "uuid": "07f772cf-7d8b-4d3f-897f-d6a0eedec00e"
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
   },
   "timestamps": {
-   "registered": 1778901843825,
-   "joinedNationAt": 1787948464491,
+   "registered": 1793512459379,
+   "joinedNationAt": 1793512475628,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,91 +73,98 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 64452.04864977833,
-    "y": 63.0,
-    "z": 14781.69979851892,
-    "pitch": 2.5091496,
-    "yaw": 179.78394
+    "x": 404.874982850445,
+    "y": 66.0,
+    "z": -10891.381627950987,
+    "pitch": -69.532745,
+    "yaw": -99.16089
    },
    "homeBlock": [
-    4028,
-    923
+    25,
+    -681
    ],
    "townBlocks": [
     [
-     4030,
-     922
+     25,
+     -682
     ],
     [
-     4030,
-     921
+     26,
+     -680
     ],
     [
-     4029,
-     921
+     25,
+     -681
     ],
     [
-     4030,
-     920
+     26,
+     -681
     ],
     [
-     4031,
-     921
+     25,
+     -680
     ],
     [
-     4029,
-     920
+     26,
+     -682
     ],
     [
-     4028,
-     922
+     25,
+     -683
     ],
     [
-     4028,
-     923
+     26,
+     -683
     ],
     [
-     4028,
-     921
+     27,
+     -681
     ],
     [
-     4029,
-     923
+     27,
+     -682
     ],
     [
-     4029,
-     922
+     28,
+     -681
+    ],
+    [
+     27,
+     -683
+    ],
+    [
+     28,
+     -682
+    ],
+    [
+     24,
+     -682
+    ],
+    [
+     24,
+     -681
+    ],
+    [
+     24,
+     -680
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Reppelosbohoc",
-    "uuid": "24ad98b0-295e-4dad-b60e-939c7994b00f"
-   },
-   {
-    "name": "riddikium",
-    "uuid": "ef8b27e5-f91c-46b4-b127-8e52e9157238"
+    "name": "DieaRestrict",
+    "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
    }
   ],
-  "trusted": [
-   {
-    "name": "DarkBeaux",
-    "uuid": "fe2b3882-39d2-423b-be83-e9274b4ae284"
-   },
-   {
-    "name": "glaggle2001",
-    "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

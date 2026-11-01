@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Kelowna",
   "uuid": "a37f6f51-15a4-4207-832a-30dc65738623",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Drixla",
-   "uuid": "6eb12c59-5387-4520-8e58-6409ae2f9d42"
+   "name": "NPC59",
+   "uuid": "bea10655-7af9-20d7-99a4-1e3a9ccf82b0"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778098113216,
-   "joinedNationAt": 1778098120433,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793527201643
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
@@ -36,43 +36,43 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 100,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 13,
+   "numTrusted": 11,
    "numOutlaws": 0,
    "balance": 101.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
     "mobs": true
    }
@@ -585,8 +585,8 @@
   },
   "residents": [
    {
-    "name": "Drixla",
-    "uuid": "6eb12c59-5387-4520-8e58-6409ae2f9d42"
+    "name": "NPC59",
+    "uuid": "bea10655-7af9-20d7-99a4-1e3a9ccf82b0"
    }
   ],
   "trusted": [
@@ -603,20 +603,12 @@
     "uuid": "5d4376e8-1b83-47e6-a5f7-4bdc9bc3eac3"
    },
    {
-    "name": "KARN4",
-    "uuid": "dc061b85-da48-4679-bed7-a5439cbaeb53"
-   },
-   {
     "name": "PaNd0Ra__b0X",
     "uuid": "0a246ab0-f971-4266-86d3-27b78df4007c"
    },
    {
-    "name": "nahember",
+    "name": "7ember",
     "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
-   },
-   {
-    "name": "Drixla",
-    "uuid": "6eb12c59-5387-4520-8e58-6409ae2f9d42"
    },
    {
     "name": "Nautical77",

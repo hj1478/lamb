@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Comtraya",
   "uuid": "97e6979f-27f3-4836-af87-bc41477c475a",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 38,
-   "balance": 3.0,
+   "numTrusted": 1,
+   "numOutlaws": 36,
+   "balance": 85.0,
    "forSalePrice": null
   },
   "perms": {
@@ -440,7 +440,12 @@
     "uuid": "87c65fa1-3270-4b9b-a05f-1275832298b8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "TheGmanSam",
+    "uuid": "623446ad-c8c4-45cc-8324-339ed86b1a42"
+   }
+  ],
   "outlaws": [
    {
     "name": "oPleco",
@@ -465,10 +470,6 @@
    {
     "name": "eboat",
     "uuid": "83519e3f-d43f-42ab-b684-914e83172d13"
-   },
-   {
-    "name": "FieldLord838",
-    "uuid": "f992a5b6-4c76-4350-ae3b-4af8dfb8ff5f"
    },
    {
     "name": "poopgaming88",
@@ -547,10 +548,6 @@
     "uuid": "4abef3c8-7dfb-40a3-8c5f-8c2f82bf874b"
    },
    {
-    "name": "DisasterRoyal346",
-    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
-   },
-   {
     "name": "Djortil",
     "uuid": "fc0fa3ea-03ab-4e60-95f2-878f4ba2128d"
    },
@@ -597,18 +594,6 @@
   ],
   "quarters": [
    {
-    "name": "Dull Tenement",
-    "uuid": "d3a5c0e9-e46b-4817-88fa-0485a71daa54"
-   },
-   {
-    "name": "Dingy Tenement",
-    "uuid": "e3dd9af3-e724-44c3-9472-94f3675ecb1c"
-   },
-   {
-    "name": "Perturbing Apartment",
-    "uuid": "f18c16d6-afd4-419c-9e15-b30110d2e2d3"
-   },
-   {
     "name": "Enraging Suite",
     "uuid": "dd2e13a2-a0a8-41ce-a97f-50ae0c4a3564"
    },
@@ -637,10 +622,6 @@
     "uuid": "f5795ee6-a498-40c9-80fc-6d88c288dba9"
    },
    {
-    "name": "Welcoming Flat",
-    "uuid": "f0871fba-7602-4ef6-a656-75e0581169c0"
-   },
-   {
     "name": "Lovely Dwelling",
     "uuid": "76497807-e087-478b-b10e-30262625a526"
    },
@@ -649,40 +630,16 @@
     "uuid": "dbad7917-1f51-4121-901f-2b2b25af0a66"
    },
    {
-    "name": "Elegant Dwelling",
-    "uuid": "ac8d5d8e-077e-4314-beb0-8086924a15e8"
-   },
-   {
-    "name": "Dull Flat",
-    "uuid": "fa7d0556-386c-411b-9161-ac71022f89e7"
-   },
-   {
-    "name": "Upbeat Property",
-    "uuid": "97054c7b-dcdd-4432-b62a-f2dea79f2c2a"
-   },
-   {
-    "name": "Dingy Tenement",
-    "uuid": "5a9277a0-f365-4abb-b1d7-974679034ea1"
-   },
-   {
     "name": "Inconvenient Suite",
     "uuid": "e5efb13f-ffdf-4c6f-9e19-e830b39574df"
-   },
-   {
-    "name": "Dingy Property",
-    "uuid": "950b7903-2c98-4966-85d6-6b0ff4fdb41d"
-   },
-   {
-    "name": "Dull Tenement",
-    "uuid": "6c1ae8e6-2a6b-4320-9cc0-43c992582b37"
    },
    {
     "name": "Dingy Property",
     "uuid": "3c70e99d-22c1-49ad-a0e0-d47a1d010449"
    },
    {
-    "name": "Annoying Dwelling",
-    "uuid": "ec1b0f96-3331-4757-ad64-85f133134c44"
+    "name": "Bland Property",
+    "uuid": "5c3cf28b-5519-4ff3-bf6b-5ae00aab546c"
    },
    {
     "name": "Enraging Property",
@@ -697,20 +654,76 @@
     "uuid": "46a1ac73-0d42-4fa2-96f9-fa6d8f57ca32"
    },
    {
-    "name": "Welcoming Tenement",
-    "uuid": "0e3505d2-c235-49e7-b169-9b16f2cfb46a"
-   },
-   {
     "name": "Luxurious Dwelling",
     "uuid": "ed976eb5-d4bb-4eb2-a6ad-8d155ec7b5db"
    },
    {
-    "name": "Bland Property",
-    "uuid": "5c3cf28b-5519-4ff3-bf6b-5ae00aab546c"
+    "name": "Welcoming Tenement",
+    "uuid": "0e3505d2-c235-49e7-b169-9b16f2cfb46a"
    },
    {
-    "name": "Inviting Property",
-    "uuid": "b2cc45f4-257e-427b-af19-2396a74435ce"
+    "name": "Inviting Apartment",
+    "uuid": "df49b00e-57c3-42ee-a8ea-8c388b693461"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "fa7d0556-386c-411b-9161-ac71022f89e7"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "5a9277a0-f365-4abb-b1d7-974679034ea1"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "97054c7b-dcdd-4432-b62a-f2dea79f2c2a"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "a99e3c2a-79b9-4a82-8589-0a508b51d6d1"
+   },
+   {
+    "name": "Annoying Residence",
+    "uuid": "e5433187-4a34-48af-9c5f-3eb81e450c01"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "950b7903-2c98-4966-85d6-6b0ff4fdb41d"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "f18c16d6-afd4-419c-9e15-b30110d2e2d3"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "d3a5c0e9-e46b-4817-88fa-0485a71daa54"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "e3dd9af3-e724-44c3-9472-94f3675ecb1c"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "ec1b0f96-3331-4757-ad64-85f133134c44"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "f0871fba-7602-4ef6-a656-75e0581169c0"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "ac8d5d8e-077e-4314-beb0-8086924a15e8"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "6c1ae8e6-2a6b-4320-9cc0-43c992582b37"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "eed9bf62-e9cf-42db-be9a-dec0d03ad8c5"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "b6f712d2-f2aa-495c-b6d1-8deddb1b0826"
    }
   ],
   "ranks": {

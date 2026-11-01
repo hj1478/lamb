@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Akkadia",
   "uuid": "a6e0fb34-51ca-4f40-ac67-9ca5c4e6ee30",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 15,
    "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 2,
-   "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numTrusted": 2,
+   "numOutlaws": 4,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -96,16 +96,16 @@
      -386
     ],
     [
+     2830,
+     -386
+    ],
+    [
      2831,
      -387
     ],
     [
      2832,
      -388
-    ],
-    [
-     2830,
-     -386
     ],
     [
      2830,
@@ -132,12 +132,24 @@
      -386
     ],
     [
+     2831,
+     -385
+    ],
+    [
      2832,
      -386
     ],
     [
-     2831,
+     2833,
      -385
+    ],
+    [
+     2833,
+     -388
+    ],
+    [
+     2833,
+     -387
     ]
    ],
    "worlds": {}
@@ -148,20 +160,36 @@
     "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
    },
    {
-    "name": "ezwo",
-    "uuid": "5c2d8fa8-5b33-4cbd-a096-e2047c9d20ec"
+    "name": "ItsSalah_",
+    "uuid": "aea28f3c-2c78-4290-b627-716dd54fa82a"
    }
   ],
   "trusted": [
    {
     "name": "CrownOfLech",
     "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
+   },
+   {
+    "name": "Shadow_Riftx",
+    "uuid": "63416f9e-aeca-43ba-a349-a6cd65aa582e"
    }
   ],
   "outlaws": [
    {
     "name": "AtillaKagan",
     "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   },
+   {
+    "name": "ezwo",
+    "uuid": "5c2d8fa8-5b33-4cbd-a096-e2047c9d20ec"
+   },
+   {
+    "name": "Rubin808",
+    "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   },
+   {
+    "name": "sungjin89",
+    "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
    }
   ],
   "quarters": [
@@ -172,13 +200,22 @@
    {
     "name": "sungji",
     "uuid": "15105a1c-305e-478b-a9c6-974558197e24"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "570ab8d0-1d08-4e7c-8d4f-7b32bcf71aa2"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "ONEBUILDS",
+     "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

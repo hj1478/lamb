@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "TortusLand",
   "uuid": "9c1234bd-49f5-4755-a28a-37a2d30aa9ed",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mimijumper8339",
-   "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
+   "name": "NPC54",
+   "uuid": "9a937a22-07df-2022-a16a-255ae0f7b233"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789234228981,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793440803012
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 16.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,94 +112,22 @@
   },
   "residents": [
    {
-    "name": "Mimijumper8339",
-    "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-   },
-   {
-    "name": "radittos",
-    "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
+    "name": "NPC54",
+    "uuid": "9a937a22-07df-2022-a16a-255ae0f7b233"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    }
-   ],
-   "Police": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Mimijumper8339",
-     "uuid": "bd8e66b1-d20a-407f-8391-be7b10135b84"
-    },
-    {
-     "name": "radittos",
-     "uuid": "dc07405f-5751-4dea-b203-d20d5c82fb7a"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

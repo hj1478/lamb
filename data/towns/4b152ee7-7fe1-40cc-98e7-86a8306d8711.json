@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "The_Great_River",
-  "uuid": "9fba6899-1563-4ce2-a2c0-33b7d58e8fde",
+  "name": "Barrackiye",
+  "uuid": "4b152ee7-7fe1-40cc-98e7-86a8306d8711",
   "board": "/town set board [msg]",
-  "founder": "Nemo_025",
+  "founder": "mirzabey66",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RustyStank",
-   "uuid": "2b831670-0d04-4811-8653-616947f8118c"
+   "name": "mirzabey66",
+   "uuid": "8d8c781a-5988-4f25-b346-f1fa3d3d791e"
   },
   "nation": {
-   "name": "Yukon",
-   "uuid": "ff708dc2-dca5-4bda-87ea-95ca16592af7"
+   "name": "Arabia",
+   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
   },
   "timestamps": {
-   "registered": 1792260518727,
-   "joinedNationAt": 1792260748583,
+   "registered": 1793464282230,
+   "joinedNationAt": 1793522225610,
    "ruinedAt": null
   },
   "status": {
@@ -31,18 +31,18 @@
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
-   "hasSnowAccumulation": false,
+   "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 17.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,79 +80,76 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -49182.79835340767,
-    "y": 81.0,
-    "z": -17368.08282743402,
-    "pitch": 37.200035,
-    "yaw": 133.30684
+    "x": 17177.967653006603,
+    "y": 63.0,
+    "z": 2934.441752696423,
+    "pitch": 26.099932,
+    "yaw": -13.268738
    },
    "homeBlock": [
-    -3074,
-    -1086
+    1073,
+    183
    ],
    "townBlocks": [
     [
-     -3073,
-     -1087
+     1073,
+     183
     ],
     [
-     -3074,
-     -1088
+     1074,
+     183
     ],
     [
-     -3073,
-     -1086
+     1072,
+     184
     ],
     [
-     -3073,
-     -1088
+     1074,
+     182
     ],
     [
-     -3075,
-     -1086
+     1072,
+     182
     ],
     [
-     -3074,
-     -1085
+     1072,
+     183
     ],
     [
-     -3075,
-     -1085
-    ],
-    [
-     -3074,
-     -1087
-    ],
-    [
-     -3073,
-     -1085
-    ],
-    [
-     -3075,
-     -1087
-    ],
-    [
-     -3074,
-     -1086
-    ],
-    [
-     -3076,
-     -1086
+     1073,
+     182
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "RustyStank",
-    "uuid": "2b831670-0d04-4811-8653-616947f8118c"
+    "name": "mirzabey66",
+    "uuid": "8d8c781a-5988-4f25-b346-f1fa3d3d791e"
+   },
+   {
+    "name": "LegitMags",
+    "uuid": "978a770f-59e1-4c6c-a944-66e3f950f52b"
+   },
+   {
+    "name": "TheOguz3521",
+    "uuid": "42c0dcc1-4c33-4d73-bdf7-a6913ffa057f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "LegitMags",
+     "uuid": "978a770f-59e1-4c6c-a944-66e3f950f52b"
+    },
+    {
+     "name": "TheOguz3521",
+     "uuid": "42c0dcc1-4c33-4d73-bdf7-a6913ffa057f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

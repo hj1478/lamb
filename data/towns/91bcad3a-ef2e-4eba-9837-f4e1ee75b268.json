@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Tasiujaq",
   "uuid": "91bcad3a-ef2e-4eba-9837-f4e1ee75b268",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 48,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 65,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 9,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 183.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,11 +120,27 @@
      -1007
     ],
     [
+     -1559,
+     -1008
+    ],
+    [
+     -1555,
+     -1004
+    ],
+    [
      -1555,
      -1005
     ],
     [
      -1559,
+     -1009
+    ],
+    [
+     -1559,
+     -1003
+    ],
+    [
+     -1559,
      -1004
     ],
     [
@@ -197,6 +213,10 @@
     ],
     [
      -1557,
+     -1003
+    ],
+    [
+     -1557,
      -1004
     ],
     [
@@ -204,16 +224,32 @@
      -1003
     ],
     [
+     -1560,
+     -1006
+    ],
+    [
      -1550,
      -1004
+    ],
+    [
+     -1560,
+     -1007
     ],
     [
      -1550,
      -1005
     ],
     [
+     -1560,
+     -1004
+    ],
+    [
      -1550,
      -1006
+    ],
+    [
+     -1560,
+     -1005
     ],
     [
      -1550,
@@ -222,6 +258,14 @@
     [
      -1557,
      -1007
+    ],
+    [
+     -1560,
+     -1008
+    ],
+    [
+     -1560,
+     -1009
     ],
     [
      -1551,
@@ -252,6 +296,18 @@
      -1008
     ],
     [
+     -1561,
+     -1005
+    ],
+    [
+     -1561,
+     -1006
+    ],
+    [
+     -1558,
+     -1003
+    ],
+    [
      -1558,
      -1004
     ],
@@ -274,6 +330,18 @@
     [
      -1556,
      -1007
+    ],
+    [
+     -1558,
+     -1008
+    ],
+    [
+     -1558,
+     -1009
+    ],
+    [
+     -1556,
+     -1003
     ],
     [
      -1556,
@@ -294,20 +362,74 @@
    {
     "name": "SimpleExamples",
     "uuid": "7e76aa46-2128-487f-b86a-934c05c8422c"
+   },
+   {
+    "name": "saddamhusien2006",
+    "uuid": "ce6a96d2-abea-45f5-897d-a435baacc0c2"
+   },
+   {
+    "name": "unprovidedlands",
+    "uuid": "2b7ea222-ebff-459c-bbbf-f59721696680"
+   },
+   {
+    "name": "tkmnophits",
+    "uuid": "bed0517b-3f06-4b8a-84e6-71161f7faec3"
+   },
+   {
+    "name": "lishkovitz",
+    "uuid": "d1002145-245e-452a-90a2-3ec10c233fd4"
+   },
+   {
+    "name": "LawlyMC",
+    "uuid": "4e2f5c87-9e43-47e7-ad96-797cabe13af9"
+   },
+   {
+    "name": "piepie_yeee",
+    "uuid": "4efcff8a-1d9a-479c-9631-8d27d45a9850"
+   },
+   {
+    "name": "THEGOATLebron",
+    "uuid": "848ea465-37d1-4cbb-a240-5e6e60868254"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "tplve",
+     "uuid": "4a684b14-f84d-45a0-a839-045252c1209d"
+    },
+    {
+     "name": "saddamhusien2006",
+     "uuid": "ce6a96d2-abea-45f5-897d-a435baacc0c2"
+    },
+    {
+     "name": "unprovidedlands",
+     "uuid": "2b7ea222-ebff-459c-bbbf-f59721696680"
+    },
+    {
+     "name": "tkmnophits",
+     "uuid": "bed0517b-3f06-4b8a-84e6-71161f7faec3"
+    }
+   ],
    "Builder": [
+    {
+     "name": "tplve",
+     "uuid": "4a684b14-f84d-45a0-a839-045252c1209d"
+    },
     {
      "name": "SimpleExamples",
      "uuid": "7e76aa46-2128-487f-b86a-934c05c8422c"
     }
    ],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "tplve",
+     "uuid": "4a684b14-f84d-45a0-a839-045252c1209d"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [
     {
@@ -321,6 +443,14 @@
     {
      "name": "SimpleExamples",
      "uuid": "7e76aa46-2128-487f-b86a-934c05c8422c"
+    },
+    {
+     "name": "lishkovitz",
+     "uuid": "d1002145-245e-452a-90a2-3ec10c233fd4"
+    },
+    {
+     "name": "LawlyMC",
+     "uuid": "4e2f5c87-9e43-47e7-ad96-797cabe13af9"
     }
    ]
   },

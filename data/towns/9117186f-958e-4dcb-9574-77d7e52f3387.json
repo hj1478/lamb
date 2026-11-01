@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Pinega",
   "uuid": "9117186f-958e-4dcb-9574-77d7e52f3387",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 155,
+   "numTownBlocks": 157,
    "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 3,
-   "balance": 9.0,
+   "balance": 19.0,
    "forSalePrice": null
   },
   "perms": {
@@ -124,12 +124,12 @@
      -1194
     ],
     [
-     976,
-     -1198
-    ],
-    [
      968,
      -1195
+    ],
+    [
+     976,
+     -1198
     ],
     [
      968,
@@ -252,12 +252,12 @@
      -1189
     ],
     [
-     965,
-     -1188
+     966,
+     -1192
     ],
     [
      965,
-     -1187
+     -1188
     ],
     [
      966,
@@ -265,7 +265,7 @@
     ],
     [
      965,
-     -1186
+     -1187
     ],
     [
      966,
@@ -273,11 +273,15 @@
     ],
     [
      965,
-     -1185
+     -1186
     ],
     [
      966,
      -1195
+    ],
+    [
+     965,
+     -1185
     ],
     [
      978,
@@ -340,6 +344,10 @@
      -1189
     ],
     [
+     967,
+     -1192
+    ],
+    [
      972,
      -1195
     ],
@@ -352,12 +360,12 @@
      -1194
     ],
     [
-     972,
-     -1193
-    ],
-    [
      967,
      -1194
+    ],
+    [
+     972,
+     -1193
     ],
     [
      967,
@@ -765,10 +773,6 @@
   ],
   "quarters": [
    {
-    "name": "Room 2",
-    "uuid": "73c6091d-52bc-4281-a3e1-e30412ef801c"
-   },
-   {
     "name": "Room 6",
     "uuid": "669a0516-0ace-444a-b847-557ed9941531"
    },
@@ -839,6 +843,10 @@
    {
     "name": "Executive Suite",
     "uuid": "507b329b-d53e-420a-85eb-c4458ed06110"
+   },
+   {
+    "name": "Room 2",
+    "uuid": "73c6091d-52bc-4281-a3e1-e30412ef801c"
    }
   ],
   "ranks": {

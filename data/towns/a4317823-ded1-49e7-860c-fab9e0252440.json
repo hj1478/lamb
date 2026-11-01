@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Tunudgusii",
   "uuid": "a4317823-ded1-49e7-860c-fab9e0252440",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 53,
-   "maxTownBlocks": 54,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 10,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -212,6 +212,10 @@
      -1109
     ],
     [
+     -3342,
+     -1110
+    ],
+    [
      -3341,
      -1111
     ],
@@ -262,10 +266,6 @@
     [
      -3335,
      -1110
-    ],
-    [
-     -3339,
-     -1105
     ],
     [
      -3336,

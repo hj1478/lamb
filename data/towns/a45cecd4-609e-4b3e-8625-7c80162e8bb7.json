@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "BoloTown",
   "uuid": "a45cecd4-609e-4b3e-8625-7c80162e8bb7",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -421.49295779735286,
+    "x": -421.1867904217167,
     "y": 63.0,
-    "z": -8994.262486791837,
-    "pitch": 43.49988,
-    "yaw": -92.05026
+    "z": -9001.728054500054,
+    "pitch": 22.650034,
+    "yaw": -178.15063
    },
    "homeBlock": [
     -27,
@@ -112,7 +112,12 @@
     "uuid": "83626ac9-3a98-433a-b6ab-86717cad52e4"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Oce_78",
+    "uuid": "25e7015d-8ad0-4c27-bb4e-a31b4c17e979"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

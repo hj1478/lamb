@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Patras",
   "uuid": "96819712-74e5-4f4d-a33c-bdbb0b5fdc44",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 256,
-   "maxTownBlocks": 236,
+   "numTownBlocks": 243,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 13,
+   "nationBonus": 100,
+   "numResidents": 15,
    "numTrusted": 4,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numOutlaws": 2,
+   "balance": 80.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -245,10 +245,6 @@
     ],
     [
      497,
-     -406
-    ],
-    [
-     497,
      -407
     ],
     [
@@ -258,14 +254,6 @@
     [
      497,
      -405
-    ],
-    [
-     498,
-     -407
-    ],
-    [
-     498,
-     -406
     ],
     [
      498,
@@ -306,10 +294,6 @@
     [
      498,
      -398
-    ],
-    [
-     498,
-     -405
     ],
     [
      498,
@@ -360,10 +344,6 @@
      -400
     ],
     [
-     500,
-     -407
-    ],
-    [
      493,
      -401
     ],
@@ -372,16 +352,8 @@
      -398
     ],
     [
-     500,
-     -405
-    ],
-    [
      493,
      -399
-    ],
-    [
-     500,
-     -406
     ],
     [
      493,
@@ -833,18 +805,6 @@
     ],
     [
      501,
-     -407
-    ],
-    [
-     501,
-     -406
-    ],
-    [
-     501,
-     -405
-    ],
-    [
-     501,
      -404
     ],
     [
@@ -902,18 +862,6 @@
     [
      489,
      -410
-    ],
-    [
-     499,
-     -407
-    ],
-    [
-     499,
-     -405
-    ],
-    [
-     499,
-     -406
     ],
     [
      499,
@@ -1072,16 +1020,16 @@
      -397
     ],
     [
-     485,
-     -399
+     496,
+     -392
     ],
     [
      490,
      -408
     ],
     [
-     496,
-     -392
+     485,
+     -399
     ],
     [
      490,
@@ -1170,16 +1118,24 @@
    {
     "name": "steliosdam",
     "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
+   },
+   {
+    "name": "SamVZS",
+    "uuid": "6d8a7860-1d14-4c7c-8abb-41f1584a9b77"
+   },
+   {
+    "name": "dingleberryfrmer",
+    "uuid": "abda4320-c885-49ac-bc3d-c469da7810fc"
    }
   ],
   "trusted": [
    {
-    "name": "Isaak__",
-    "uuid": "79f425f7-0954-4b26-a103-0c1c7843f15d"
+    "name": "LastOfTheHuns",
+    "uuid": "cc5d36b2-d9de-4467-9215-1853ec1bf9cb"
    },
    {
-    "name": "AdrI_20",
-    "uuid": "69d560e5-447a-4e0a-8e79-9c0c025e339f"
+    "name": "SamVZS",
+    "uuid": "6d8a7860-1d14-4c7c-8abb-41f1584a9b77"
    },
    {
     "name": "Szuper",
@@ -1194,16 +1150,16 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Sumeitideas",
+    "uuid": "27213f6d-5760-4a15-a13c-2198863f1248"
    }
   ],
   "quarters": [
    {
     "name": "Gloomy Quarter",
     "uuid": "bc04813a-40a8-4608-b8b6-79368122acee"
-   },
-   {
-    "name": "Inconvenient Tenement",
-    "uuid": "0c2a9e30-c6a7-46f8-973f-bf0d3df6f167"
    },
    {
     "name": "Enraging Apartment",
@@ -1254,8 +1210,12 @@
     "uuid": "2b7616c3-abe1-450e-8e6d-1377543f0104"
    },
    {
-    "name": "Inconvenient Flat",
-    "uuid": "455b6896-275e-4986-9445-48f5236834ad"
+    "name": "Lovely Suite",
+    "uuid": "94e635b1-790d-4bff-b234-63081805d9d3"
+   },
+   {
+    "name": "Inconvenient Tenement",
+    "uuid": "0c2a9e30-c6a7-46f8-973f-bf0d3df6f167"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Wild_Bear",
   "uuid": "9f818874-f4bd-44b1-85ae-09c6f45cdc95",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "envp",
-   "uuid": "0bf659ab-149b-433e-8a13-33e9d1ce2923"
+   "name": "NPC22",
+   "uuid": "f363e032-8f86-200a-843f-1b0b077aa4c7"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1778528362818,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793354402232
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -40,41 +40,41 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,35 +140,20 @@
   },
   "residents": [
    {
-    "name": "envp",
-    "uuid": "0bf659ab-149b-433e-8a13-33e9d1ce2923"
+    "name": "NPC22",
+    "uuid": "f363e032-8f86-200a-843f-1b0b077aa4c7"
    }
   ],
-  "trusted": [
-   {
-    "name": "envp",
-    "uuid": "0bf659ab-149b-433e-8a13-33e9d1ce2923"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "envp",
-     "uuid": "0bf659ab-149b-433e-8a13-33e9d1ce2923"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "envp",
-     "uuid": "0bf659ab-149b-433e-8a13-33e9d1ce2923"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

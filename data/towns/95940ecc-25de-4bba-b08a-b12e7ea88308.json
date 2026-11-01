@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Glorious_Town",
   "uuid": "95940ecc-25de-4bba-b08a-b12e7ea88308",
-  "board": "New town, nothing interesting here (yet)",
+  "board": null,
   "founder": "Alex72993",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 40,
    "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,70 @@
    ],
    "townBlocks": [
     [
+     712,
+     -173
+    ],
+    [
+     712,
+     -175
+    ],
+    [
+     712,
+     -174
+    ],
+    [
+     716,
+     -176
+    ],
+    [
+     717,
+     -171
+    ],
+    [
+     711,
+     -173
+    ],
+    [
+     716,
+     -175
+    ],
+    [
+     716,
+     -174
+    ],
+    [
+     716,
+     -173
+    ],
+    [
+     710,
+     -175
+    ],
+    [
+     716,
+     -172
+    ],
+    [
+     716,
+     -171
+    ],
+    [
+     711,
+     -174
+    ],
+    [
+     710,
+     -173
+    ],
+    [
+     711,
+     -175
+    ],
+    [
+     710,
+     -174
+    ],
+    [
      715,
      -173
     ],
@@ -100,8 +164,16 @@
      -174
     ],
     [
+     715,
+     -171
+    ],
+    [
      717,
      -176
+    ],
+    [
+     715,
+     -172
     ],
     [
      717,
@@ -116,6 +188,10 @@
      -176
     ],
     [
+     717,
+     -172
+    ],
+    [
      714,
      -175
     ],
@@ -124,28 +200,48 @@
      -173
     ],
     [
-     714,
-     -174
-    ],
-    [
-     714,
-     -173
-    ],
-    [
-     716,
-     -176
-    ],
-    [
-     716,
+     713,
      -175
     ],
     [
-     716,
+     709,
      -174
     ],
     [
-     716,
+     709,
      -173
+    ],
+    [
+     713,
+     -171
+    ],
+    [
+     713,
+     -172
+    ],
+    [
+     713,
+     -173
+    ],
+    [
+     713,
+     -174
+    ],
+    [
+     714,
+     -174
+    ],
+    [
+     714,
+     -173
+    ],
+    [
+     714,
+     -172
+    ],
+    [
+     714,
+     -171
     ],
     [
      715,
@@ -188,7 +284,7 @@
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "kaptanbaho",
+    "name": "sjadovv",
     "uuid": "3c55db3f-4e4c-4475-80b8-89c72f760fe6"
    },
    {
@@ -210,19 +306,75 @@
     "uuid": "584d83c7-20d2-4864-95bc-b803cab020f9"
    },
    {
-    "name": "Potato-carrot-farm",
-    "uuid": "1782ead0-eda9-4667-a556-8d96e1493a19"
+    "name": "Luxury-appartment",
+    "uuid": "464ab0e1-4856-4448-a14e-9d43ef4105d2"
    },
    {
-    "name": "Sugar-cane-farm",
-    "uuid": "9f8ff054-9838-4a6b-b89e-222634993674"
+    "name": "Medium-appartment-1",
+    "uuid": "80fd6052-9a63-4cbb-9ac2-dc7065cc40db"
    },
    {
-    "name": "Minecart",
+    "name": "Small-appartment",
+    "uuid": "be47487d-a3b5-4e9b-9b64-854d38ad4439"
+   },
+   {
+    "name": "Items_to_smelt",
+    "uuid": "6d5f4f1e-0c22-4268-a28f-2bac9ebd802b"
+   },
+   {
+    "name": "Fuel",
+    "uuid": "76080b43-47ef-4598-9ca2-a2d01ef9e098"
+   },
+   {
+    "name": "Result",
+    "uuid": "8443a6c2-58f0-4683-8b9a-652161438570"
+   },
+   {
+    "name": "Glorious Shop",
+    "uuid": "c90c576d-0563-4f85-b456-bb99a38c9567"
+   },
+   {
+    "name": "Door 1",
+    "uuid": "9949ec95-18f0-4d67-aa25-105d752d4df7"
+   },
+   {
+    "name": "Door 2",
+    "uuid": "b3bba199-6589-4a5d-8215-79e44407d721"
+   },
+   {
+    "name": "Luxury Small House",
+    "uuid": "24abaa1f-2a25-459f-81eb-d35c5273622f"
+   },
+   {
+    "name": "Door",
+    "uuid": "fc7e8584-ab5f-4689-89e8-9fcd593b0514"
+   },
+   {
+    "name": "Luxury Big House",
+    "uuid": "01a4e6da-eaea-4f40-850b-9bdd75b5102a"
+   },
+   {
+    "name": "Beacons (6)",
+    "uuid": "aa6a92ee-70fc-4daa-8e6c-5200d7acefaa"
+   },
+   {
+    "name": "Beacons (4)",
+    "uuid": "f80be331-a9c2-4cf8-a496-f01ba882fa1e"
+   },
+   {
+    "name": "Railway",
     "uuid": "3e1e582c-b7e7-4945-8688-d5994207cf56"
    },
    {
-    "name": "Bamboo-farm",
+    "name": "Sugar Cane Farm",
+    "uuid": "9f8ff054-9838-4a6b-b89e-222634993674"
+   },
+   {
+    "name": "Potato and Carrot Farm",
+    "uuid": "1782ead0-eda9-4667-a556-8d96e1493a19"
+   },
+   {
+    "name": "Bamboo Farm",
     "uuid": "582aae45-f576-4f8e-8c7c-a2663f836e55"
    },
    {
@@ -230,36 +382,8 @@
     "uuid": "4345a6b7-328a-4ffb-bdda-4fa98a387266"
    },
    {
-    "name": "Luxury-appartment",
-    "uuid": "464ab0e1-4856-4448-a14e-9d43ef4105d2"
-   },
-   {
-    "name": "Inconvenient Property",
-    "uuid": "8443a6c2-58f0-4683-8b9a-652161438570"
-   },
-   {
-    "name": "Enraging Tenement",
-    "uuid": "76080b43-47ef-4598-9ca2-a2d01ef9e098"
-   },
-   {
-    "name": "Enraging Property",
-    "uuid": "6d5f4f1e-0c22-4268-a28f-2bac9ebd802b"
-   },
-   {
-    "name": "Beacons-(4)",
-    "uuid": "f80be331-a9c2-4cf8-a496-f01ba882fa1e"
-   },
-   {
-    "name": "Medium-appartment-1",
-    "uuid": "80fd6052-9a63-4cbb-9ac2-dc7065cc40db"
-   },
-   {
-    "name": "Shop",
-    "uuid": "c90c576d-0563-4f85-b456-bb99a38c9567"
-   },
-   {
-    "name": "Small-appartment",
-    "uuid": "be47487d-a3b5-4e9b-9b64-854d38ad4439"
+    "name": "Authorised People Only!",
+    "uuid": "8934c4fe-466d-4d9c-a077-adda788a16a6"
    }
   ],
   "ranks": {

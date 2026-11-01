@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Dolok",
-  "uuid": "0164dd88-13ee-4f1a-820c-9435b0cd9e77",
+  "name": "Peony",
+  "uuid": "0b1acd79-7f60-47bc-82d1-edec991987ec",
   "board": "/town set board [msg]",
-  "founder": "mrgris13",
+  "founder": "Mindfolds",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mrgris13",
-   "uuid": "71cbc64c-a1e9-4b5c-a66b-62589b0fa2a4"
+   "name": "Mindfolds",
+   "uuid": "b12509e5-3ac7-4369-b20d-e97ec5f2357d"
   },
   "nation": {
-   "name": "Indonesia",
-   "uuid": "51ebf446-e3eb-41ea-80a3-62e0e342c79b"
+   "name": "Narmada",
+   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
   },
   "timestamps": {
-   "registered": 1788451148538,
-   "joinedNationAt": 1788719813990,
+   "registered": 1793531249306,
+   "joinedNationAt": 1793531263301,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 4,
+   "nationBonus": 80,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,82 +80,34 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 49595.758994307704,
+    "x": 33880.67289290845,
     "y": 63.0,
-    "z": 11018.97843721603,
-    "pitch": 30.824533,
-    "yaw": 169.75366
+    "z": 1961.507576425257,
+    "pitch": 36.149986,
+    "yaw": 127.862206
    },
    "homeBlock": [
-    3099,
-    688
+    2117,
+    122
    ],
    "townBlocks": [
     [
-     3098,
-     689
-    ],
-    [
-     3098,
-     688
-    ],
-    [
-     3099,
-     688
-    ],
-    [
-     3099,
-     689
-    ],
-    [
-     3099,
-     686
-    ],
-    [
-     3099,
-     687
-    ],
-    [
-     3098,
-     687
-    ],
-    [
-     3100,
-     687
-    ],
-    [
-     3100,
-     688
+     2117,
+     122
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "mrgris13",
-    "uuid": "71cbc64c-a1e9-4b5c-a66b-62589b0fa2a4"
-   },
-   {
-    "name": "Bananice_99",
-    "uuid": "7756af7c-ff29-4958-b059-9ceeaa769410"
+    "name": "Mindfolds",
+    "uuid": "b12509e5-3ac7-4369-b20d-e97ec5f2357d"
    }
   ],
   "trusted": [
    {
-    "name": "Swightness",
-    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
-   },
-   {
-    "name": "DoomsdayTbot",
-    "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
-   },
-   {
-    "name": "Galaxor5",
-    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
-   },
-   {
-    "name": "dex247",
-    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
+    "name": "_Melix_",
+    "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
    }
   ],
   "outlaws": [],

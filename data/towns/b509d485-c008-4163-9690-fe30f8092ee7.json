@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "TDK_Central",
   "uuid": "b509d485-c008-4163-9690-fe30f8092ee7",
@@ -12,12 +12,12 @@
    "uuid": "d46587f2-f531-41f7-8d59-c8fedb8ae210"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
    "registered": 1793132766618,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793383004180,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
+   "nationBonus": 100,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -112,12 +112,36 @@
      553
     ],
     [
+     627,
+     555
+    ],
+    [
+     623,
+     554
+    ],
+    [
+     627,
+     554
+    ],
+    [
+     623,
+     553
+    ],
+    [
+     624,
+     555
+    ],
+    [
      626,
      555
     ],
     [
      626,
      554
+    ],
+    [
+     626,
+     553
     ]
    ],
    "worlds": {}
@@ -132,12 +156,20 @@
     "uuid": "4f8106ea-76aa-4670-bf24-004d946f731a"
    },
    {
-    "name": "gamerjanjan",
-    "uuid": "b40974c4-e479-4b0e-a643-0f298ac39546"
-   },
-   {
     "name": "Lu1sf2",
     "uuid": "19cd8ac2-48ef-4677-b786-2c5335464f5f"
+   },
+   {
+    "name": "Juize_SJ",
+    "uuid": "73bdc62d-c47d-4410-9d29-8347daf9ee83"
+   },
+   {
+    "name": "Night_Wolf001",
+    "uuid": "25d4d5db-b7b7-4d2c-bbe1-60fccf732320"
+   },
+   {
+    "name": "gamerjanjan",
+    "uuid": "b40974c4-e479-4b0e-a643-0f298ac39546"
    }
   ],
   "trusted": [],
@@ -152,12 +184,20 @@
    ],
    "Builder": [
     {
-     "name": "gamerjanjan",
-     "uuid": "b40974c4-e479-4b0e-a643-0f298ac39546"
-    },
-    {
      "name": "Lu1sf2",
      "uuid": "19cd8ac2-48ef-4677-b786-2c5335464f5f"
+    },
+    {
+     "name": "Juize_SJ",
+     "uuid": "73bdc62d-c47d-4410-9d29-8347daf9ee83"
+    },
+    {
+     "name": "Night_Wolf001",
+     "uuid": "25d4d5db-b7b7-4d2c-bbe1-60fccf732320"
+    },
+    {
+     "name": "gamerjanjan",
+     "uuid": "b40974c4-e479-4b0e-a643-0f298ac39546"
     }
    ],
    "Recruiter": [],

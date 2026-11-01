@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Iron_Labs",
-  "uuid": "79a9fcf4-85d2-41eb-8427-d0c5db31d184",
+  "name": "Nabbelund",
+  "uuid": "121ca5b3-bdc7-4c37-96e1-9f29b91ce2d1",
   "board": "/town set board [msg]",
-  "founder": "cvb_matthew",
+  "founder": "_Computermouse",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC84",
-   "uuid": "03d72dae-d600-2015-a707-89c5351dc599"
+   "name": "_Computermouse",
+   "uuid": "cdef12f1-c175-481b-b0bc-f6c3650533df"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
-   "registered": 1784793022258,
-   "joinedNationAt": null,
-   "ruinedAt": 1793267888906
+   "registered": 1793520601430,
+   "joinedNationAt": 1793520721880,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,65 +47,73 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45767.329646562794,
-    "y": -22.0,
-    "z": -28287.62194042378,
-    "pitch": 26.700127,
-    "yaw": 2.0458374
+    "x": 6124.245130376928,
+    "y": 64.0,
+    "z": -15159.486636314323,
+    "pitch": -3.0000026,
+    "yaw": 45.348053
    },
    "homeBlock": [
-    2860,
-    -1768
+    382,
+    -948
    ],
    "townBlocks": [
     [
-     2860,
-     -1769
+     382,
+     -948
     ],
     [
-     2860,
-     -1768
+     382,
+     -949
+    ],
+    [
+     383,
+     -949
+    ],
+    [
+     383,
+     -948
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC84",
-    "uuid": "03d72dae-d600-2015-a707-89c5351dc599"
+    "name": "_Computermouse",
+    "uuid": "cdef12f1-c175-481b-b0bc-f6c3650533df"
    }
   ],
   "trusted": [],

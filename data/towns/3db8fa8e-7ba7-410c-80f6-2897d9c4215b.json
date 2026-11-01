@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Igdir",
-  "uuid": "63fdbeec-613b-4769-bd48-4bd6201ca5d6",
+  "name": "New_Burger_City",
+  "uuid": "3db8fa8e-7ba7-410c-80f6-2897d9c4215b",
   "board": "/town set board [msg]",
-  "founder": "BlueDiamondTR",
+  "founder": "burgertart",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC33",
-   "uuid": "891199cb-d056-206d-87ce-f692d05d56a1"
+   "name": "burgertart",
+   "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
-   "registered": 1787840832463,
-   "joinedNationAt": null,
-   "ruinedAt": 1793268003010
+   "registered": 1793527781634,
+   "joinedNationAt": 1793527820084,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,72 +36,72 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 27.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15729.689026366594,
-    "y": 104.0,
-    "z": -7038.224734036785,
-    "pitch": 17.249992,
-    "yaw": -28.74292
+    "x": 4537.225963997528,
+    "y": 63.0,
+    "z": -12408.276305842368,
+    "pitch": 24.7918,
+    "yaw": 178.88266
    },
    "homeBlock": [
-    983,
-    -440
+    283,
+    -776
    ],
    "townBlocks": [
     [
-     983,
-     -440
+     283,
+     -776
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC33",
-    "uuid": "891199cb-d056-206d-87ce-f692d05d56a1"
+    "name": "burgertart",
+    "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
    }
   ],
   "trusted": [],

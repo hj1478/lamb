@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Sverdlovsk",
   "uuid": "93a6cdbd-a78d-4ea6-a952-0e9018505515",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mayamittenz",
-   "uuid": "12315397-ef79-42c8-ad17-e87104062c34"
+   "name": "NPC39",
+   "uuid": "4cd77601-77a1-204e-b5a9-aeb184e70c51"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1786199739328,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793354403501
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -204,8 +204,8 @@
   },
   "residents": [
    {
-    "name": "mayamittenz",
-    "uuid": "12315397-ef79-42c8-ad17-e87104062c34"
+    "name": "NPC39",
+    "uuid": "4cd77601-77a1-204e-b5a9-aeb184e70c51"
    }
   ],
   "trusted": [

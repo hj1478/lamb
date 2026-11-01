@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Warsaw",
   "uuid": "9a1d9754-f341-4d10-a1fb-f1cbe3e5f4b4",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 708,
-   "maxTownBlocks": 832,
+   "maxTownBlocks": 808,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 61,
+   "numResidents": 59,
    "numTrusted": 13,
-   "numOutlaws": 4,
-   "balance": 397.0,
+   "numOutlaws": 5,
+   "balance": 390.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2937,6 +2937,14 @@
     "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
    },
    {
+    "name": "fswn",
+    "uuid": "ff58c6bc-c4c7-40e2-95d1-233b4d94013d"
+   },
+   {
+    "name": "tudorelul4",
+    "uuid": "c894e01b-308b-4754-8af9-879a9de935b4"
+   },
+   {
     "name": "Fascinatingly9",
     "uuid": "83114af6-cc17-4e90-ab79-a3e3a275ece1"
    },
@@ -2949,20 +2957,12 @@
     "uuid": "ea5200e4-f81d-4e94-bfb4-78fb8ca45026"
    },
    {
-    "name": "minkv",
-    "uuid": "3978a270-e692-4474-a611-598d504ec36b"
-   },
-   {
     "name": "JozoGaming11",
     "uuid": "efff1831-d1a5-4127-8d1a-c225545dc274"
    },
    {
     "name": "TurkManV",
     "uuid": "cbf2a154-5743-4c2e-abda-ec9a89dd5756"
-   },
-   {
-    "name": "Draxtariax",
-    "uuid": "19d0347e-a287-4f5a-a2d9-4798f127bbee"
    },
    {
     "name": "SamuraiJJP",
@@ -2977,24 +2977,8 @@
     "uuid": "186d21a2-c6d7-44cd-9fd7-6eeb9d172ba1"
    },
    {
-    "name": "Luixtiter",
-    "uuid": "5dec0eb0-8368-4dfc-a5f3-3bc2de9ebbac"
-   },
-   {
-    "name": "OriginalNick",
-    "uuid": "94eac22d-ee00-403a-b1e9-8e36070c22f7"
-   },
-   {
-    "name": "K4K447",
-    "uuid": "2ffd6aa3-edcb-470b-aa04-83710e51a540"
-   },
-   {
     "name": "Bullers108",
     "uuid": "1555867d-b539-43f4-a2d5-2b9f7f416ffc"
-   },
-   {
-    "name": "mikk_mikk",
-    "uuid": "994fe2dc-4508-43ae-b193-47d635ee7873"
    },
    {
     "name": "S1monx_",
@@ -3175,6 +3159,14 @@
    {
     "name": "TheSkylimit",
     "uuid": "7c9b5275-5301-4a47-ae6f-7352174676a5"
+   },
+   {
+    "name": "atomic_kuro",
+    "uuid": "1259c595-fedc-4b0e-a9aa-d64cfbc596ae"
+   },
+   {
+    "name": "Lokalni_degen",
+    "uuid": "5e343b23-537a-4d98-9dcd-6d65e842026a"
    }
   ],
   "trusted": [
@@ -3247,6 +3239,10 @@
    {
     "name": "FeliksTV",
     "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
    }
   ],
   "quarters": [
@@ -3384,6 +3380,10 @@
     {
      "name": "TheMagicTom",
      "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+    },
+    {
+     "name": "atomic_kuro",
+     "uuid": "1259c595-fedc-4b0e-a9aa-d64cfbc596ae"
     }
    ],
    "Builder": [],
@@ -3396,15 +3396,15 @@
   },
   "warps": [
    {
-    "name": "Shop",
-    "uuid": "d7463a71-b45d-42f5-9097-6af7df9f58c7",
-    "createdAt": 1792751090785,
+    "name": "Storage",
+    "uuid": "15d83788-6a36-4fad-a99c-16b73d164c7a",
+    "createdAt": 1793029890930,
     "createdBy": "TheMagicTom",
     "access": "NATION",
     "location": {
-     "x": 7469,
-     "y": 58,
-     "z": -13076
+     "x": 7527,
+     "y": 4,
+     "z": -13100
     }
    }
   ],

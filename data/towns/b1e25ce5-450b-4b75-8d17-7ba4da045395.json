@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Golden_Globe",
   "uuid": "b1e25ce5-450b-4b75-8d17-7ba4da045395",
-  "board": "/town set board [msg]",
+  "board": "Probably the best News in the world",
   "founder": "HIMATHY1823",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/EVXQnvJXQ5",
   "mayor": {
-   "name": "HIMATHY1823",
-   "uuid": "90e9f835-13e3-4098-8b4f-5ee70fa6f9ed"
+   "name": "TheeGolden",
+   "uuid": "834d09ba-8a20-4811-8a27-c7273b0f20af"
   },
   "nation": {
    "name": "America",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 130.0,
+   "balance": 115.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27487.041863827682,
-    "y": 63.0,
-    "z": -7107.079224326753,
-    "pitch": 14.100012,
-    "yaw": 97.965515
+    "x": -27490.00672639949,
+    "y": 64.0625,
+    "z": -7034.361034117227,
+    "pitch": -1.881263,
+    "yaw": -0.35159302
    },
    "homeBlock": [
-    -1718,
-    -445
+    -1719,
+    -440
    ],
    "townBlocks": [
     [
@@ -256,8 +256,12 @@
   },
   "residents": [
    {
-    "name": "HIMATHY1823",
-    "uuid": "90e9f835-13e3-4098-8b4f-5ee70fa6f9ed"
+    "name": "CookieInBlack",
+    "uuid": "466cbaf4-c0e7-48c6-8fc7-44abf97de54c"
+   },
+   {
+    "name": "TheeGolden",
+    "uuid": "834d09ba-8a20-4811-8a27-c7273b0f20af"
    }
   ],
   "trusted": [
@@ -285,7 +289,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "CookieInBlack",
+     "uuid": "466cbaf4-c0e7-48c6-8fc7-44abf97de54c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

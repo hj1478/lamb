@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Novosibirsk",
   "uuid": "9f2d0231-6bcc-41bd-be46-b4ef881ea842",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 45,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 4,
+   "numResidents": 7,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 17.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,23 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 29757.69999998808,
-    "y": 63.0,
-    "z": -13897.685947753644,
-    "pitch": 59.099983,
-    "yaw": -61.098022
+    "x": 29751.89848435001,
+    "y": 69.0,
+    "z": -13879.950726656607,
+    "pitch": 4.649856,
+    "yaw": -90.255066
    },
    "homeBlock": [
     1859,
-    -869
+    -868
    ],
    "townBlocks": [
     [
      1857,
+     -868
+    ],
+    [
+     1857,
      -866
     ],
     [
@@ -136,11 +140,19 @@
      -865
     ],
     [
+     1864,
+     -867
+    ],
+    [
      1859,
      -868
     ],
     [
      1862,
+     -866
+    ],
+    [
+     1864,
      -866
     ],
     [
@@ -152,16 +164,20 @@
      -867
     ],
     [
-     1862,
-     -868
-    ],
-    [
      1859,
      -870
     ],
     [
+     1862,
+     -868
+    ],
+    [
      1860,
      -865
+    ],
+    [
+     1863,
+     -868
     ],
     [
      1858,
@@ -172,12 +188,20 @@
      -872
     ],
     [
+     1863,
+     -867
+    ],
+    [
      1858,
      -868
     ],
     [
      1860,
      -871
+    ],
+    [
+     1863,
+     -866
     ],
     [
      1858,
@@ -274,12 +298,20 @@
    {
     "name": "Captain__Pancake",
     "uuid": "b4e8681c-86a8-4605-aa40-2a455178addf"
+   },
+   {
+    "name": "TheLegendArrox",
+    "uuid": "48f82257-621d-488c-b235-0f64b7682d53"
    }
   ],
   "trusted": [
    {
     "name": "BottledButter",
     "uuid": "03fcb822-3ae1-447e-9091-58d7fb96f382"
+   },
+   {
+    "name": "TheLegendArrox",
+    "uuid": "48f82257-621d-488c-b235-0f64b7682d53"
    },
    {
     "name": "Vandeuir",
@@ -295,11 +327,34 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Property",
+    "uuid": "0e2291c5-11b3-446b-8004-a4e54937ef8f"
+   },
+   {
+    "name": "Anne Frank's Hideout",
+    "uuid": "7732a6f9-af6c-4b02-b14f-68055a9a6b8d"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "TheLegendArrox",
+     "uuid": "48f82257-621d-488c-b235-0f64b7682d53"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "MixOfBlueGreen",
+     "uuid": "6179b212-cba8-4b61-9ddf-763f399ce767"
+    },
+    {
+     "name": "FunkyOofMan",
+     "uuid": "cc35e8a7-56fa-4877-88ef-1dcafd3dc93c"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

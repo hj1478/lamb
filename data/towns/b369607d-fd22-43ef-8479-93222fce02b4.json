@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
   "name": "Xinhua_Bookstore",
   "uuid": "b369607d-fd22-43ef-8479-93222fce02b4",
@@ -12,12 +12,12 @@
    "uuid": "241b93ee-c7dd-4bbe-81c8-2313306c64fc"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Ming",
+   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
   },
   "timestamps": {
    "registered": 1786925012804,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793031261268,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,32 +100,56 @@
      -373
     ],
     [
-     2474,
-     -374
+     2473,
+     -372
     ],
     [
-     2474,
-     -375
-    ],
-    [
-     2474,
-     -373
-    ],
-    [
-     2475,
-     -374
-    ],
-    [
-     2475,
-     -375
-    ],
-    [
-     2475,
-     -373
+     2473,
+     -371
     ],
     [
      2476,
      -375
+    ],
+    [
+     2472,
+     -373
+    ],
+    [
+     2472,
+     -371
+    ],
+    [
+     2474,
+     -374
+    ],
+    [
+     2472,
+     -372
+    ],
+    [
+     2474,
+     -375
+    ],
+    [
+     2474,
+     -372
+    ],
+    [
+     2474,
+     -373
+    ],
+    [
+     2475,
+     -374
+    ],
+    [
+     2475,
+     -375
+    ],
+    [
+     2475,
+     -373
     ]
    ],
    "worlds": {}

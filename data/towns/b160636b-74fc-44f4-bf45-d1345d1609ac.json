@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-25T11:43:13Z",
+ "fetched_at": "2026-11-01T13:35:11Z",
  "data": {
-  "name": "Yugoslavia",
+  "name": "Sarajevo",
   "uuid": "b160636b-74fc-44f4-bf45-d1345d1609ac",
   "board": "Kraljeva Gradina",
   "founder": "real_ttym",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 156,
-   "maxTownBlocks": 264,
+   "numTownBlocks": 165,
+   "maxTownBlocks": 372,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 17,
-   "numTrusted": 4,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numResidents": 26,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7411.76626051966,
-    "y": 68.0,
-    "z": -8728.080689196891,
-    "pitch": 39.449944,
-    "yaw": -179.85144
+    "x": 7310.856133893763,
+    "y": 74.0,
+    "z": -8744.1412861698,
+    "pitch": 28.949997,
+    "yaw": 114.14841
    },
    "homeBlock": [
-    463,
-    -546
+    456,
+    -547
    ],
    "townBlocks": [
     [
@@ -240,6 +240,10 @@
      -549
     ],
     [
+     463,
+     -542
+    ],
+    [
      458,
      -551
     ],
@@ -376,12 +380,24 @@
      -550
     ],
     [
+     461,
+     -542
+    ],
+    [
      456,
      -543
     ],
     [
+     461,
+     -541
+    ],
+    [
      456,
      -544
+    ],
+    [
+     461,
+     -540
     ],
     [
      456,
@@ -592,6 +608,10 @@
      -547
     ],
     [
+     462,
+     -542
+    ],
+    [
      469,
      -549
     ],
@@ -600,8 +620,16 @@
      -546
     ],
     [
+     462,
+     -541
+    ],
+    [
      469,
      -548
+    ],
+    [
+     460,
+     -541
     ],
     [
      469,
@@ -613,7 +641,15 @@
     ],
     [
      460,
+     -540
+    ],
+    [
+     460,
      -543
+    ],
+    [
+     460,
+     -542
     ],
     [
      461,
@@ -729,10 +765,6 @@
     "uuid": "72578f5c-204c-4d3c-8dfb-0350ae1d4601"
    },
    {
-    "name": "oViro",
-    "uuid": "51ebebf5-54f0-4628-9d68-1a7f3fc92562"
-   },
-   {
     "name": "Majimaji_14",
     "uuid": "2831d1e8-84cf-4b50-aaba-352f6eb23c3e"
    },
@@ -791,16 +823,52 @@
    {
     "name": "Nf_miracle",
     "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
+   },
+   {
+    "name": "assemiclz",
+    "uuid": "43bb6443-17c1-4485-855c-f18127840011"
+   },
+   {
+    "name": "penaldo232",
+    "uuid": "440281d1-1969-449d-af00-61e52e5c0175"
+   },
+   {
+    "name": "MAD_Marty",
+    "uuid": "ad5e43ca-0b35-418e-a8d0-c3dce94d8b00"
+   },
+   {
+    "name": "profmamba",
+    "uuid": "d3ca6c29-b138-42d7-a464-f519b978d53c"
+   },
+   {
+    "name": "PuppyDragon54321",
+    "uuid": "0b9b684c-8ed4-4850-aa21-5651255a88e5"
+   },
+   {
+    "name": "bluevalentine__",
+    "uuid": "07830a38-527a-43f0-84ec-a4c4b7552302"
+   },
+   {
+    "name": "Joshhhirl",
+    "uuid": "b3d09be6-0c9b-46ed-8425-e5af73cea5e9"
+   },
+   {
+    "name": "Flamingos2",
+    "uuid": "e765a319-d05c-43de-89fe-f2221e7368da"
+   },
+   {
+    "name": "pengpy",
+    "uuid": "6ce17d6c-5c2c-4b23-8b59-facb56df6e58"
+   },
+   {
+    "name": "Matti737",
+    "uuid": "067f5e98-fa32-4198-a10b-e8608d8c0b54"
    }
   ],
   "trusted": [
    {
-    "name": "4daniel",
-    "uuid": "5078196f-ad1d-4d95-b536-8935d139eb40"
-   },
-   {
-    "name": "TheDalmatian1",
-    "uuid": "bd23bda0-8c04-4829-aec9-94239909266b"
+    "name": "Kokomo309",
+    "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
    },
    {
     "name": "pengpy",
@@ -811,7 +879,12 @@
     "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Meshly",
+    "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
+   }
+  ],
   "quarters": [
    {
     "name": "Annoying Tenement",
