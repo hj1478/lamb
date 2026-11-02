@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Shintuya_Tribe",
   "uuid": "d1685a76-9bcc-445a-b264-e7cbbaf3ad19",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Traggled",
-   "uuid": "0055afc5-08f2-4f88-83d9-187ae09d9f05"
+   "name": "NPC37",
+   "uuid": "e0689eab-5c82-20cd-a038-94cded15ea84"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789608245557,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793613602651
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 21.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,20 +108,11 @@
   },
   "residents": [
    {
-    "name": "Traggled",
-    "uuid": "0055afc5-08f2-4f88-83d9-187ae09d9f05"
-   },
-   {
-    "name": "Happykiller43",
-    "uuid": "8c10c2ef-37c0-440b-ac08-b88dfb3f153c"
+    "name": "NPC37",
+    "uuid": "e0689eab-5c82-20cd-a038-94cded15ea84"
    }
   ],
-  "trusted": [
-   {
-    "name": "Happykiller43",
-    "uuid": "8c10c2ef-37c0-440b-ac08-b88dfb3f153c"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

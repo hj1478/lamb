@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Imatra",
   "uuid": "d8872485-38dd-49d1-a962-2a2164d48f8d",
-  "board": "Tervetuloa Imatraan!",
+  "board": "/town set board [msg]",
   "founder": "blabban77",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 14,
    "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 9,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,26 @@
    ],
    "townBlocks": [
     [
+     645,
+     -1076
+    ],
+    [
+     645,
+     -1077
+    ],
+    [
+     647,
+     -1079
+    ],
+    [
+     646,
+     -1080
+    ],
+    [
+     646,
+     -1079
+    ],
+    [
      646,
      -1078
     ],
@@ -105,23 +125,11 @@
     ],
     [
      645,
-     -1076
-    ],
-    [
-     645,
-     -1077
-    ],
-    [
-     647,
-     -1078
-    ],
-    [
-     645,
      -1078
     ],
     [
      647,
-     -1077
+     -1078
     ],
     [
      645,
@@ -129,11 +137,15 @@
     ],
     [
      647,
-     -1076
+     -1077
     ],
     [
-     646,
-     -1079
+     645,
+     -1080
+    ],
+    [
+     647,
+     -1076
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Pamphylia",
   "uuid": "d75fc1d2-0ef8-43b3-b70d-6a9c7bb4cd45",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 226,
-   "maxTownBlocks": 244,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
+   "numResidents": 13,
    "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,12 +100,12 @@
      -356
     ],
     [
-     704,
-     -364
-    ],
-    [
      687,
      -365
+    ],
+    [
+     704,
+     -364
     ],
     [
      721,
@@ -948,16 +948,12 @@
      -358
     ],
     [
-     717,
-     -359
-    ],
-    [
      685,
      -367
     ],
     [
      717,
-     -356
+     -359
     ],
     [
      685,
@@ -965,11 +961,15 @@
     ],
     [
      717,
-     -357
+     -356
     ],
     [
      685,
      -365
+    ],
+    [
+     717,
+     -357
     ],
     [
      707,
@@ -999,10 +999,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "asrinioo",
-    "uuid": "170afe85-7ab2-4ec6-a5e0-272fc342d444"
-   },
    {
     "name": "KingbroMC",
     "uuid": "cfc87643-2166-48a4-a775-0340c92e015a"
@@ -1046,6 +1042,14 @@
    {
     "name": "Toeey",
     "uuid": "98a6287a-b307-46be-922c-846227253860"
+   },
+   {
+    "name": "MaroonMannequin",
+    "uuid": "fc8ee895-cfdb-4dcd-8cf2-90c09072dd8b"
+   },
+   {
+    "name": "PizzaBella28",
+    "uuid": "4fedd3d6-e510-43cf-8d57-ec729987b284"
    }
   ],
   "trusted": [
@@ -1062,24 +1066,12 @@
   ],
   "quarters": [
    {
-    "name": "Elegant Dwelling",
-    "uuid": "26c914d4-8092-4c45-b1af-29496e70c656"
-   },
-   {
     "name": "Bland Residence",
     "uuid": "77a2f5d8-946e-4f71-aadc-9666241de363"
    },
    {
     "name": "Inviting Apartment",
     "uuid": "d393bb28-ea8d-4a9b-b827-61009a7b8b12"
-   },
-   {
-    "name": "Cheerful Residence",
-    "uuid": "7cea841b-0745-42b1-9d16-291e7d5ffb28"
-   },
-   {
-    "name": "Upbeat Flat",
-    "uuid": "dd257178-dabe-42a0-9db6-6f2063509065"
    },
    {
     "name": "Inconvenient Apartment",
@@ -1118,14 +1110,6 @@
     "uuid": "cfc5be08-1a66-4abf-80d9-1b55a2e29b75"
    },
    {
-    "name": "Bland Quarter",
-    "uuid": "11865072-1ec7-4fc2-bd58-c7b12cd1a000"
-   },
-   {
-    "name": "Dull Suite",
-    "uuid": "9bcf30a4-e2c3-4211-9939-b84a01d8c6c9"
-   },
-   {
     "name": "Perturbing Dwelling",
     "uuid": "8b2f6c98-365d-4219-8f5f-3a8049faf8e0"
    },
@@ -1162,10 +1146,6 @@
     "uuid": "5f8d0134-7d7e-4145-a84e-f0ae62274fce"
    },
    {
-    "name": "Upbeat Apartment",
-    "uuid": "bd921d72-b72a-4edb-ba02-4f1eab01620e"
-   },
-   {
     "name": "Elegant Apartment",
     "uuid": "930f18fa-df78-4ff8-b76b-70208103a612"
    },
@@ -1192,6 +1172,30 @@
    {
     "name": "Stylish Property",
     "uuid": "b0b3858d-c693-4416-8192-c1ea54ef42f3"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "9bcf30a4-e2c3-4211-9939-b84a01d8c6c9"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "bd921d72-b72a-4edb-ba02-4f1eab01620e"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "dd257178-dabe-42a0-9db6-6f2063509065"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "7cea841b-0745-42b1-9d16-291e7d5ffb28"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "11865072-1ec7-4fc2-bd58-c7b12cd1a000"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "26c914d4-8092-4c45-b1af-29496e70c656"
    }
   ],
   "ranks": {

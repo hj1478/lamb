@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Ludear",
   "uuid": "d7be0059-6af6-4f58-bee2-11e486921e91",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "dolphin5664",
-   "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
+   "name": "ChuegnzMan747",
+   "uuid": "04c60e60-d15f-4d7c-ae7c-cec259018cf5"
   },
   "nation": {
    "name": null,
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -97,23 +97,11 @@
     ],
     [
      3757,
-     -1392
-    ],
-    [
-     3758,
-     -1392
-    ],
-    [
-     3757,
      -1390
     ],
     [
      3756,
      -1389
-    ],
-    [
-     3757,
-     -1391
     ],
     [
      3756,
@@ -124,46 +112,6 @@
      -1388
     ],
     [
-     3758,
-     -1389
-    ],
-    [
-     3758,
-     -1390
-    ],
-    [
-     3758,
-     -1391
-    ],
-    [
-     3761,
-     -1390
-    ],
-    [
-     3761,
-     -1389
-    ],
-    [
-     3761,
-     -1388
-    ],
-    [
-     3759,
-     -1391
-    ],
-    [
-     3759,
-     -1392
-    ],
-    [
-     3760,
-     -1390
-    ],
-    [
-     3760,
-     -1389
-    ],
-    [
      3760,
      -1388
     ],
@@ -172,32 +120,36 @@
      -1388
     ],
     [
-     3759,
-     -1389
-    ],
-    [
      3757,
      -1389
-    ],
-    [
-     3759,
-     -1390
     ],
     [
      3759,
      -1388
     ],
     [
-     3760,
-     -1391
+     3761,
+     -1390
+    ],
+    [
+     3761,
+     -1389
+    ],
+    [
+     3761,
+     -1388
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "dolphin5664",
-    "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
+    "name": "ChuegnzMan747",
+    "uuid": "04c60e60-d15f-4d7c-ae7c-cec259018cf5"
+   },
+   {
+    "name": "umutttt16",
+    "uuid": "e02ffebb-a488-4e7a-be67-b6d7fcfa3e36"
    }
   ],
   "trusted": [
@@ -214,54 +166,14 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Police": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "dolphin5664",
-     "uuid": "b88b105b-208c-4c0e-8349-d9f7af885942"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

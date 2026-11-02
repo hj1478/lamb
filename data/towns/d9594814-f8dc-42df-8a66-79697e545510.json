@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Vandalia",
   "uuid": "d9594814-f8dc-42df-8a66-79697e545510",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 7,
    "numTrusted": 0,
-   "numOutlaws": 3,
+   "numOutlaws": 5,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -268,10 +268,6 @@
     "uuid": "d1c3382a-98a6-4f76-b374-faed772ba322"
    },
    {
-    "name": "rockytherok",
-    "uuid": "3ba3ac9a-d0cd-4424-9b5c-df4415663a11"
-   },
-   {
     "name": "Lentia_",
     "uuid": "e6144df4-8698-4fc0-9e6e-14589e833c97"
    },
@@ -309,6 +305,14 @@
    {
     "name": "Tldigi",
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "Vfinestone",
+    "uuid": "e319f1e6-1eca-4296-9707-386c460b2703"
    }
   ],
   "quarters": [
@@ -393,10 +397,6 @@
     "uuid": "16b14ec8-cb5b-4ec9-9a08-cf18e00876ab"
    },
    {
-    "name": "Annoying Flat",
-    "uuid": "c41ab02c-5053-4d9f-bba6-b2b0e7c57964"
-   },
-   {
     "name": "Luxurious Property",
     "uuid": "e8505fb3-d8bf-421e-95cb-d9c0bd2cd287"
    },
@@ -411,10 +411,6 @@
    {
     "name": "Church",
     "uuid": "5227424f-2fb9-4cfd-9674-eda9b28bfd6d"
-   },
-   {
-    "name": "Perturbing Flat",
-    "uuid": "e0ec2c97-1bcf-46eb-8ff2-d79db7e3d49b"
    },
    {
     "name": "6th Floor",
@@ -441,10 +437,6 @@
     "uuid": "19470b10-fc48-42bc-a922-1e26505596ff"
    },
    {
-    "name": "Waterfront Store",
-    "uuid": "e2d923ce-0904-4c95-95d5-ebccd124e5b4"
-   },
-   {
     "name": "Starter House 1",
     "uuid": "53743cda-3afe-4d6f-a9c6-97aeb70ace5f"
    },
@@ -459,6 +451,18 @@
    {
     "name": "The Docks",
     "uuid": "28921b38-c4b7-4018-984b-d4b1be700fa8"
+   },
+   {
+    "name": "Waterfront Store",
+    "uuid": "e2d923ce-0904-4c95-95d5-ebccd124e5b4"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "c41ab02c-5053-4d9f-bba6-b2b0e7c57964"
+   },
+   {
+    "name": "Perturbing Flat",
+    "uuid": "e0ec2c97-1bcf-46eb-8ff2-d79db7e3d49b"
    }
   ],
   "ranks": {

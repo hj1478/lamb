@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Nile",
   "uuid": "d3a78f9b-2a68-4f82-ae97-d7224556fa23",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 484,
-   "maxTownBlocks": 556,
+   "maxTownBlocks": 448,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 38,
-   "numTrusted": 3,
+   "numResidents": 29,
+   "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2049,44 +2049,8 @@
     "uuid": "bddb4841-0922-4abe-a711-bb2a8229ac92"
    },
    {
-    "name": "DA7meey120",
-    "uuid": "8bce030b-eb96-41b0-ac5a-49aa1d742c0f"
-   },
-   {
-    "name": "_GoatLord",
-    "uuid": "96a03741-4882-4999-88ce-ee26205fae9f"
-   },
-   {
-    "name": "SAMMCHAMER",
-    "uuid": "61e81451-2cc0-4125-a4dd-9fe747f969cf"
-   },
-   {
     "name": "FE_GE",
     "uuid": "663b50b5-f701-416a-bc06-2c9e947e6ea7"
-   },
-   {
-    "name": "SAOKHAM",
-    "uuid": "296036ac-163e-421b-97a4-2cf8c1843569"
-   },
-   {
-    "name": "elmerdo_kebabito",
-    "uuid": "b7b79c3e-759f-45a7-9242-3a362ca109b4"
-   },
-   {
-    "name": "ilyvidhi",
-    "uuid": "03ba766d-4084-48dc-a1ed-3eb6a97d1637"
-   },
-   {
-    "name": "flux8x",
-    "uuid": "ee64a168-4293-4265-941f-50180811c9cf"
-   },
-   {
-    "name": "ArtemisV2400",
-    "uuid": "9d065ca5-6960-4fbb-af07-ec6614ff11cc"
-   },
-   {
-    "name": "zxhang123",
-    "uuid": "dddbe0ca-918f-41c6-8509-f0021b2840fa"
    },
    {
     "name": "TalTalot",
@@ -2181,12 +2145,12 @@
     "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
    },
    {
-    "name": "ArchitectorMaya",
-    "uuid": "e0368e37-e17b-4924-be8b-ea87386b9d4b"
-   },
-   {
     "name": "CARIPPZ",
     "uuid": "581d9ec2-8579-4d33-8b35-3e40363587a9"
+   },
+   {
+    "name": "HOUP_2000",
+    "uuid": "ff9cd1a6-b2d0-4399-9b2b-f031d746e0f0"
    }
   ],
   "trusted": [
@@ -2197,6 +2161,14 @@
    {
     "name": "JR1258",
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
+   },
+   {
+    "name": "Swoozegames",
+    "uuid": "c56235be-cc05-44a2-b27c-b7f03d482eba"
+   },
+   {
+    "name": "xAriMC",
+    "uuid": "8a38ba1e-ee4e-4a35-891c-4167e165d0d6"
    },
    {
     "name": "Duck5goQuack",
@@ -2227,14 +2199,6 @@
     "uuid": "df6c3035-2890-497d-bd6c-84298225cc9e"
    },
    {
-    "name": "Annoying Dwelling",
-    "uuid": "d46ba944-9ab9-4a92-b56d-0a2a78efa46a"
-   },
-   {
-    "name": "Annoying Tenement",
-    "uuid": "6784e92d-bcf3-4e6f-becd-2054b4793752"
-   },
-   {
     "name": "Poszan",
     "uuid": "98d28e1a-366c-499e-b3b9-a3d590651570"
    },
@@ -2262,7 +2226,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "Track",
+    "uuid": "47852fcf-ddfb-4b93-a681-4e32b08b2355",
+    "createdAt": 1793558491191,
+    "createdBy": "JR1258",
+    "access": "NATION",
+    "location": {
+     "x": 11227,
+     "y": 63,
+     "z": -3556
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-02T16:11:47Z",
+ "data": {
+  "name": "Claimblocktwo",
+  "uuid": "8220a777-8907-4696-8e02-0812025af0c6",
+  "board": "/town set board [msg]",
+  "founder": "Sublette",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC119",
+   "uuid": "3509fdaf-b658-2060-ad7e-1dbda3d6072d"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793576493912,
+   "joinedNationAt": null,
+   "ruinedAt": 1793577946930
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 17039.422911448888,
+    "y": 63.0,
+    "z": -3496.646947018929,
+    "pitch": 14.399984,
+    "yaw": -168.59082
+   },
+   "homeBlock": [
+    1064,
+    -219
+   ],
+   "townBlocks": [
+    [
+     1064,
+     -219
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC119",
+    "uuid": "3509fdaf-b658-2060-ad7e-1dbda3d6072d"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

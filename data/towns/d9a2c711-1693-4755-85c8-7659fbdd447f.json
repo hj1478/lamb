@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Drobeta",
   "uuid": "d9a2c711-1693-4755-85c8-7659fbdd447f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DarknestKnight",
-   "uuid": "33d82102-e251-4f7d-b19d-2caa72f4dc34"
+   "name": "NPC66",
+   "uuid": "b6137cd2-86f9-20dc-84a9-a4d5a1fdd629"
   },
   "nation": {
-   "name": "Romania",
-   "uuid": "c86ccd50-b82b-4a33-93ec-b009822bfab3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783339790079,
-   "joinedNationAt": 1783339812577,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793527202220
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "DarknestKnight",
-    "uuid": "33d82102-e251-4f7d-b19d-2caa72f4dc34"
+    "name": "NPC66",
+    "uuid": "b6137cd2-86f9-20dc-84a9-a4d5a1fdd629"
    }
   ],
   "trusted": [

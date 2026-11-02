@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "New_Bali",
   "uuid": "ba42f5b8-a665-457e-8b4b-eb0c228235b3",
@@ -12,12 +12,12 @@
    "uuid": "28fb7af5-1902-45c5-9d7b-c3a7b570a040"
   },
   "nation": {
-   "name": "Lanfang",
-   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
+   "name": "Bali",
+   "uuid": "c6dc20db-29ce-4151-9f6a-4194011e3a2f"
   },
   "timestamps": {
    "registered": 1791908586241,
-   "joinedNationAt": 1791994756377,
+   "joinedNationAt": 1793185247453,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 40.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,16 +92,16 @@
    ],
    "townBlocks": [
     [
+     2559,
+     659
+    ],
+    [
      2560,
      660
     ],
     [
      2562,
      660
-    ],
-    [
-     2560,
-     661
     ],
     [
      2559,
@@ -109,6 +109,14 @@
     ],
     [
      2560,
+     661
+    ],
+    [
+     2560,
+     658
+    ],
+    [
+     2560,
      659
     ],
     [
@@ -120,12 +128,12 @@
      661
     ],
     [
-     2562,
-     661
-    ],
-    [
      2561,
      659
+    ],
+    [
+     2562,
+     661
     ]
    ],
    "worlds": {}
@@ -136,7 +144,12 @@
     "uuid": "28fb7af5-1902-45c5-9d7b-c3a7b570a040"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Jaston",
+    "uuid": "c53edd0e-655e-46e6-b18f-3ff9af92d8b7"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {

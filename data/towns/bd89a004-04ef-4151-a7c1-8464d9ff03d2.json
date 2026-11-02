@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Brusino",
   "uuid": "bd89a004-04ef-4151-a7c1-8464d9ff03d2",
@@ -12,12 +12,12 @@
    "uuid": "65209f08-7517-4b1d-90f0-92218f1a0453"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Switzerland",
+   "uuid": "fe3aa6fe-12b4-4a8c-98fb-30efc7e4342f"
   },
   "timestamps": {
    "registered": 1790973076300,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793392508129,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,10 @@
     -593
    ],
    "townBlocks": [
+    [
+     195,
+     -593
+    ],
     [
      196,
      -593

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Kaja",
   "uuid": "b731e55d-d18a-4717-b9d1-f4af3ece7dc9",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     710,
+     -1356
+    ],
+    [
      707,
      -1358
     ],
@@ -134,6 +138,10 @@
     [
      708,
      -1359
+    ],
+    [
+     710,
+     -1357
     ],
     [
      708,
@@ -150,22 +158,13 @@
    {
     "name": "Kaffebrod",
     "uuid": "ad60c810-b0f5-4058-8b96-78d2247c9170"
-   },
-   {
-    "name": "Issol",
-    "uuid": "d62a4767-dc37-4168-a452-695102bb6ae9"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Issol",
-     "uuid": "d62a4767-dc37-4168-a452-695102bb6ae9"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

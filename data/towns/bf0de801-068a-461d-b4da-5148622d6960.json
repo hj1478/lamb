@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Stonehenge",
   "uuid": "bf0de801-068a-461d-b4da-5148622d6960",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Qelaaja",
-   "uuid": "ed87bc7d-306d-4c7a-a945-21c3e4375004"
+   "name": "LastNightmare",
+   "uuid": "f03916df-6a8c-4d03-a5f5-d0f52e160135"
   },
   "nation": {
    "name": "Finland",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 34,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -232,14 +232,6 @@
   },
   "residents": [
    {
-    "name": "Qelaaja",
-    "uuid": "ed87bc7d-306d-4c7a-a945-21c3e4375004"
-   },
-   {
-    "name": "Wiliam_The_Bunny",
-    "uuid": "c31ee696-8884-40e8-b1b7-394c0e857cd9"
-   },
-   {
     "name": "LastNightmare",
     "uuid": "f03916df-6a8c-4d03-a5f5-d0f52e160135"
    },
@@ -257,25 +249,11 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Wiliam_The_Bunny",
-     "uuid": "c31ee696-8884-40e8-b1b7-394c0e857cd9"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "Qelaaja",
-     "uuid": "ed87bc7d-306d-4c7a-a945-21c3e4375004"
-    },
-    {
-     "name": "Wiliam_The_Bunny",
-     "uuid": "c31ee696-8884-40e8-b1b7-394c0e857cd9"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

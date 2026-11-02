@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "New_Ocean",
   "uuid": "cd9cc8a3-6a97-4da8-b413-e1810518e2a8",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 12,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 18311.43251056466,
-    "y": 71.0,
-    "z": -22456.69999998808,
-    "pitch": 27.24016,
-    "yaw": -41.007477
+    "x": 18311.59474887462,
+    "y": 70.0,
+    "z": -22456.585073719343,
+    "pitch": 66.70587,
+    "yaw": -174.74622
    },
    "homeBlock": [
     1144,
@@ -96,32 +96,12 @@
      -1404
     ],
     [
-     1145,
-     -1406
-    ],
-    [
      1144,
      -1406
     ],
     [
-     1145,
-     -1404
-    ],
-    [
      1144,
      -1405
-    ],
-    [
-     1145,
-     -1405
-    ],
-    [
-     1143,
-     -1405
-    ],
-    [
-     1143,
-     -1406
     ],
     [
      1144,
@@ -130,6 +110,30 @@
     [
      1146,
      -1405
+    ],
+    [
+     1146,
+     -1404
+    ],
+    [
+     1145,
+     -1406
+    ],
+    [
+     1145,
+     -1404
+    ],
+    [
+     1145,
+     -1405
+    ],
+    [
+     1143,
+     -1405
+    ],
+    [
+     1143,
+     -1406
     ],
     [
      1143,

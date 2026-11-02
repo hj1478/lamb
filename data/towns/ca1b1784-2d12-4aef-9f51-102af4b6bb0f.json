@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Tyre",
   "uuid": "ca1b1784-2d12-4aef-9f51-102af4b6bb0f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC110",
-   "uuid": "1d87d1d9-9cee-20c9-8369-4b052eb37075"
+   "name": "deitook",
+   "uuid": "f43c41ba-becd-43ec-beea-7128857b6757"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Palestine",
+   "uuid": "ff4b6b72-b5e2-49f4-955e-f3bdbea0321c"
   },
   "timestamps": {
    "registered": 1777338892702,
-   "joinedNationAt": null,
-   "ruinedAt": 1793008952556
+   "joinedNationAt": 1793028768535,
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": true,
+   "isOverClaimed": false,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 68,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 10,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
@@ -368,16 +368,12 @@
   },
   "residents": [
    {
-    "name": "Derman2",
-    "uuid": "7b2247df-d2c0-4c47-81d7-eda837efe264"
+    "name": "schweinekotelett",
+    "uuid": "e8b789f2-72be-4bdf-a3ca-74089645d1d9"
    },
    {
     "name": "deitook",
     "uuid": "f43c41ba-becd-43ec-beea-7128857b6757"
-   },
-   {
-    "name": "NPC110",
-    "uuid": "1d87d1d9-9cee-20c9-8369-4b052eb37075"
    }
   ],
   "trusted": [

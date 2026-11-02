@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Castle_Blanca",
   "uuid": "ccc0f763-5dea-4a5b-9833-1df9cc082bb8",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Snapshot",
-   "uuid": "b47ae35c-1107-4be9-a100-409368335802"
+   "name": "Z0raa_a",
+   "uuid": "fd85c432-f621-47e3-afd9-0530fe4f7cd8"
   },
   "nation": {
-   "name": "Florida",
-   "uuid": "6cbea29c-2f48-418c-89cf-0f1d2c76b825"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791687331697,
-   "joinedNationAt": 1791687352847,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": true,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 114,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 4,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 7,
    "numOutlaws": 1,
-   "balance": 95.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29119.563779408036,
+    "x": -29110.54992871533,
     "y": 63.0,
-    "z": -2705.483980915168,
-    "pitch": 65.84979,
-    "yaw": 89.37974
+    "z": -2729.1149785032608,
+    "pitch": 0.67999786,
+    "yaw": -0.41226703
    },
    "homeBlock": [
     -1820,
-    -170
+    -171
    ],
    "townBlocks": [
     [
@@ -316,40 +316,36 @@
      -165
     ],
     [
-     -1825,
-     -166
-    ],
-    [
      -1827,
      -171
     ],
     [
      -1825,
+     -166
+    ],
+    [
+     -1825,
      -167
+    ],
+    [
+     -1827,
+     -169
+    ],
+    [
+     -1825,
+     -168
     ],
     [
      -1824,
      -161
     ],
     [
-     -1825,
-     -168
-    ],
-    [
-     -1827,
-     -169
-    ],
-    [
-     -1825,
-     -169
-    ],
-    [
      -1827,
      -170
     ],
     [
      -1825,
-     -170
+     -169
     ],
     [
      -1827,
@@ -357,11 +353,15 @@
     ],
     [
      -1825,
-     -171
+     -170
     ],
     [
      -1827,
      -168
+    ],
+    [
+     -1825,
+     -171
     ],
     [
      -1827,
@@ -556,10 +556,6 @@
    }
   },
   "residents": [
-   {
-    "name": "_Snapshot",
-    "uuid": "b47ae35c-1107-4be9-a100-409368335802"
-   },
    {
     "name": "RubyCrayon",
     "uuid": "7724e85c-0ba7-4e90-97d4-5e23ab9d8efc"

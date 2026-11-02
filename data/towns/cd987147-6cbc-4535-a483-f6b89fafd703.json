@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Malampa",
   "uuid": "cd987147-6cbc-4535-a483-f6b89fafd703",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "100milosperhour",
-   "uuid": "1beb07d4-5d14-46f6-ad98-1fffb6058d73"
+   "name": "tHEcanadian_",
+   "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
   },
   "nation": {
    "name": "Vanuatu",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
-   "numTrusted": 3,
+   "numResidents": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -172,8 +172,12 @@
   },
   "residents": [
    {
-    "name": "100milosperhour",
-    "uuid": "1beb07d4-5d14-46f6-ad98-1fffb6058d73"
+    "name": "tHEcanadian_",
+    "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
+   },
+   {
+    "name": "L3_CHEESEMAN",
+    "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
    }
   ],
   "trusted": [
@@ -186,6 +190,10 @@
     "uuid": "ef53c7cf-d612-4704-842a-3674489c05fc"
    },
    {
+    "name": "L3_CHEESEMAN",
+    "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
+   },
+   {
     "name": "SpiteeNotNight",
     "uuid": "3ef6e2c4-a477-4a9d-be66-d3ce1ce415fd"
    }
@@ -193,9 +201,24 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Councillor": [
+    {
+     "name": "L3_CHEESEMAN",
+     "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "L3_CHEESEMAN",
+     "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "L3_CHEESEMAN",
+     "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "ShaoGuan",
   "uuid": "b86fb728-a0dc-444b-be46-5fa0db41baf1",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 9,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 17.0,
    "forSalePrice": null
   },
   "perms": {
@@ -348,10 +348,6 @@
    {
     "name": "Taoist1720",
     "uuid": "cd4667ae-2de3-4f0a-900a-80e63f3e956f"
-   },
-   {
-    "name": "Tsunlam123",
-    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    }
   ],
   "outlaws": [],
@@ -376,7 +372,12 @@
      "uuid": "60fbdb93-3acf-4b61-b104-7172ec801f5b"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "bLumend",
+     "uuid": "60fbdb93-3acf-4b61-b104-7172ec801f5b"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

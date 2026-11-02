@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Kaer_Trolde",
   "uuid": "ba26e011-fb8a-4a0b-b529-4e9fa89e71b8",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
+   "numTownBlocks": 25,
    "maxTownBlocks": 130,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 10,
-   "numTrusted": 10,
+   "numTrusted": 11,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     380,
+     -1782
+    ],
+    [
+     380,
+     -1783
+    ],
+    [
+     380,
+     -1784
+    ],
+    [
+     380,
+     -1785
+    ],
+    [
      381,
      -1782
     ],
@@ -116,47 +132,35 @@
      -1786
     ],
     [
-     378,
-     -1784
-    ],
-    [
      379,
      -1784
     ],
     [
-     380,
-     -1782
-    ],
-    [
      378,
-     -1783
+     -1784
     ],
     [
      379,
      -1785
     ],
     [
-     380,
+     378,
      -1783
     ],
     [
-     378,
-     -1786
+     377,
+     -1782
     ],
     [
      379,
      -1786
     ],
     [
-     380,
-     -1784
+     378,
+     -1786
     ],
     [
      378,
-     -1785
-    ],
-    [
-     380,
      -1785
     ],
     [
@@ -168,8 +172,24 @@
      -1783
     ],
     [
+     377,
+     -1785
+    ],
+    [
+     377,
+     -1786
+    ],
+    [
+     377,
+     -1783
+    ],
+    [
      378,
      -1782
+    ],
+    [
+     377,
+     -1784
     ]
    ],
    "worlds": {}
@@ -256,6 +276,10 @@
    {
     "name": "PROMY19",
     "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
+   },
+   {
+    "name": "Gabdee17",
+    "uuid": "c3156ffe-8d55-493c-bab9-3dcf0923d339"
    }
   ],
   "outlaws": [],

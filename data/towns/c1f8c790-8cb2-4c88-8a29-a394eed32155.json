@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Sumer",
   "uuid": "c1f8c790-8cb2-4c88-8a29-a394eed32155",
@@ -12,12 +12,12 @@
    "uuid": "3707249c-4e9f-4abf-9900-4483e8917bd7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Umayyad",
+   "uuid": "db376132-ba17-4fb1-9d7c-244dd46454e1"
   },
   "timestamps": {
    "registered": 1793022397272,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793557637223,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17036.30000001192,
+    "x": 17033.76249998808,
     "y": 63.0,
-    "z": -3305.0690503731225,
-    "pitch": 13.473202,
-    "yaw": -90.57031
+    "z": -3304.1344156105556,
+    "pitch": 27.612617,
+    "yaw": 102.33775
    },
    "homeBlock": [
     1064,

@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Minecraft",
   "uuid": "c6a64a38-cad5-4a65-bd14-ac8def4f7a94",
-  "board": "Taiwan",
+  "board": "THIS IS CHINA",
   "founder": "NYARUKO_dayo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Meltria",
-   "uuid": "d7f7494b-876f-413a-85f2-295c6f970baa"
+   "name": "512N",
+   "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": "Ming",
+   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
   },
   "timestamps": {
    "registered": 1777114119028,
-   "joinedNationAt": 1781083377601,
+   "joinedNationAt": 1793414631961,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 124,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 113,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 4,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numResidents": 2,
+   "numTrusted": 23,
+   "numOutlaws": 2,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43454.57754535375,
+    "x": 43448.34121528077,
     "y": 66.0,
-    "z": -615.609831253573,
-    "pitch": 2.4000487,
-    "yaw": -92.391716
+    "z": -615.9852049846927,
+    "pitch": 2.933876,
+    "yaw": -88.75592
    },
    "homeBlock": [
     2715,
@@ -92,6 +92,38 @@
    ],
    "townBlocks": [
     [
+     2710,
+     -29
+    ],
+    [
+     2710,
+     -28
+    ],
+    [
+     2710,
+     -31
+    ],
+    [
+     2710,
+     -30
+    ],
+    [
+     2715,
+     -28
+    ],
+    [
+     2715,
+     -29
+    ],
+    [
+     2715,
+     -30
+    ],
+    [
+     2715,
+     -31
+    ],
+    [
      2715,
      -32
     ],
@@ -124,24 +156,8 @@
      -39
     ],
     [
-     2715,
-     -40
-    ],
-    [
-     2715,
-     -41
-    ],
-    [
-     2714,
-     -40
-    ],
-    [
-     2714,
-     -41
-    ],
-    [
-     2714,
-     -42
+     2711,
+     -28
     ],
     [
      2714,
@@ -176,12 +192,36 @@
      -35
     ],
     [
-     2720,
-     -39
+     2714,
+     -28
+    ],
+    [
+     2711,
+     -30
+    ],
+    [
+     2714,
+     -29
+    ],
+    [
+     2711,
+     -29
+    ],
+    [
+     2714,
+     -30
+    ],
+    [
+     2714,
+     -31
+    ],
+    [
+     2711,
+     -31
     ],
     [
      2720,
-     -40
+     -39
     ],
     [
      2720,
@@ -190,14 +230,6 @@
     [
      2720,
      -38
-    ],
-    [
-     2720,
-     -41
-    ],
-    [
-     2720,
-     -42
     ],
     [
      2720,
@@ -232,56 +264,32 @@
      -37
     ],
     [
-     2712,
-     -42
-    ],
-    [
-     2712,
-     -41
+     2709,
+     -28
     ],
     [
      2721,
      -39
     ],
     [
-     2721,
-     -42
+     2709,
+     -29
     ],
     [
-     2721,
-     -41
-    ],
-    [
-     2712,
-     -36
-    ],
-    [
-     2712,
-     -35
-    ],
-    [
-     2712,
-     -34
-    ],
-    [
-     2712,
-     -33
-    ],
-    [
-     2712,
-     -40
+     2713,
+     -28
     ],
     [
      2721,
      -34
     ],
     [
-     2712,
-     -39
+     2713,
+     -30
     ],
     [
-     2712,
-     -38
+     2713,
+     -29
     ],
     [
      2713,
@@ -292,12 +300,12 @@
      -36
     ],
     [
-     2712,
-     -37
-    ],
-    [
      2721,
      -35
+    ],
+    [
+     2713,
+     -31
     ],
     [
      2713,
@@ -325,19 +333,7 @@
     ],
     [
      2713,
-     -40
-    ],
-    [
-     2713,
      -39
-    ],
-    [
-     2713,
-     -42
-    ],
-    [
-     2713,
-     -41
     ],
     [
      2716,
@@ -373,19 +369,7 @@
     ],
     [
      2716,
-     -41
-    ],
-    [
-     2716,
-     -42
-    ],
-    [
-     2716,
      -39
-    ],
-    [
-     2716,
-     -40
     ],
     [
      2716,
@@ -409,18 +393,6 @@
     ],
     [
      2718,
-     -40
-    ],
-    [
-     2718,
-     -41
-    ],
-    [
-     2718,
-     -42
-    ],
-    [
-     2718,
      -30
     ],
     [
@@ -450,22 +422,6 @@
     [
      2718,
      -37
-    ],
-    [
-     2715,
-     -42
-    ],
-    [
-     2719,
-     -41
-    ],
-    [
-     2719,
-     -40
-    ],
-    [
-     2719,
-     -42
     ],
     [
      2719,
@@ -500,27 +456,27 @@
      -39
     ],
     [
-     2717,
-     -40
-    ],
-    [
-     2717,
-     -41
-    ],
-    [
-     2717,
-     -42
+     2712,
+     -28
     ],
     [
      2712,
-     -32
+     -31
     ],
     [
      2718,
      -28
     ],
     [
+     2712,
+     -30
+    ],
+    [
      2718,
+     -29
+    ],
+    [
+     2712,
      -29
     ],
     [
@@ -592,54 +548,125 @@
   },
   "residents": [
    {
-    "name": "Meltria",
-    "uuid": "d7f7494b-876f-413a-85f2-295c6f970baa"
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    },
    {
-    "name": "Thomaslei830",
-    "uuid": "45791934-56d9-4280-b780-b26349b37222"
-   },
-   {
-    "name": "Tagszz",
-    "uuid": "4bff9bb4-8c46-4912-840c-3a8b2fe4c1f4"
+    "name": "512N",
+    "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
    }
   ],
   "trusted": [
+   {
+    "name": "512N",
+    "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
+   },
+   {
+    "name": "KarlSalz",
+    "uuid": "06847aa5-f364-49da-ac1a-6df1ae98ba49"
+   },
+   {
+    "name": "ZDself",
+    "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
+   },
+   {
+    "name": "Rain_Leng",
+    "uuid": "6a1caf9a-ddc3-4534-ba23-0db492ef8e01"
+   },
+   {
+    "name": "Truzz666",
+    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+   },
+   {
+    "name": "xiaoshisan13",
+    "uuid": "47f410c0-2c61-404c-bbc4-9c573b0e708f"
+   },
+   {
+    "name": "x4qri",
+    "uuid": "ecead593-8b83-4105-b020-92e1058d25fd"
+   },
+   {
+    "name": "NL733",
+    "uuid": "cbd263fa-8eb8-47cf-9b19-01fd02e192ea"
+   },
+   {
+    "name": "bbdqz",
+    "uuid": "b2edf2d2-2c5c-4fe2-9e53-36718b51b780"
+   },
+   {
+    "name": "Aka_Kiaki",
+    "uuid": "df0d00f6-9ced-48a7-9944-a65e9f702a69"
+   },
+   {
+    "name": "ItsFurina",
+    "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
+   },
+   {
+    "name": "_Koridor_92_",
+    "uuid": "781851a5-821c-4c07-9eb8-500842eb546e"
+   },
+   {
+    "name": "yangxingzhe",
+    "uuid": "437797b6-6c26-47df-8c1d-e0ec8b0475d9"
+   },
+   {
+    "name": "ji_mo",
+    "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+   },
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
+   },
+   {
+    "name": "kbbnm",
+    "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
+   },
+   {
+    "name": "Ehou03",
+    "uuid": "9605927f-b9cd-47a1-8f63-0580e3a4d489"
+   },
+   {
+    "name": "sky_space_",
+    "uuid": "d8acbba3-5804-4e63-8b23-ba6b6b4f8a57"
+   },
+   {
+    "name": "PreviousYun",
+    "uuid": "c782ae9c-163f-4313-af60-3d6a1a979037"
+   },
+   {
+    "name": "shenhui35",
+    "uuid": "c305dd5e-cdf0-4fa1-bf33-ae45529712d2"
+   },
+   {
+    "name": "Soundmist",
+    "uuid": "4ed82f45-3278-4cc5-b2cc-7764698f3b3c"
+   },
+   {
+    "name": "blackjiaji",
+    "uuid": "315aaa12-80c3-4224-ae2b-2406cdba83c5"
+   },
+   {
+    "name": "Nemoriver",
+    "uuid": "77b9ec62-ac44-4976-8828-d804342a7430"
+   }
+  ],
+  "outlaws": [
    {
     "name": "DoOoOonguri",
     "uuid": "e0b29b64-c150-40e4-bbd8-642f7d5ceadc"
    },
    {
-    "name": "sonya0819",
-    "uuid": "715bdbcd-6c34-43bc-9e0a-83b1e3bc95ef"
-   },
-   {
-    "name": "Meltria",
-    "uuid": "d7f7494b-876f-413a-85f2-295c6f970baa"
-   },
-   {
-    "name": "momo0163",
-    "uuid": "cb51396f-d2de-4447-8547-ba4099fb4c26"
+    "name": "yosubaby55",
+    "uuid": "6de28057-a7c5-46f4-b40e-9bbd28373160"
    }
   ],
-  "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Meltria",
-     "uuid": "d7f7494b-876f-413a-85f2-295c6f970baa"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "Meltria",
-     "uuid": "d7f7494b-876f-413a-85f2-295c6f970baa"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-11-02T16:11:47Z",
+ "data": {
+  "name": "Lechburg",
+  "uuid": "6142b961-3a7f-4d53-8f64-27a848b2b964",
+  "board": "/town set board [msg]",
+  "founder": "Lechniak",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Lechniak",
+   "uuid": "23449b4f-dff6-4f6d-9e2a-c918dc4554a0"
+  },
+  "nation": {
+   "name": "Mauretania",
+   "uuid": "1144631f-3d54-4d8a-b107-8fb89b020cca"
+  },
+  "timestamps": {
+   "registered": 1793558771868,
+   "joinedNationAt": 1793559008863,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 62,
+   "bonusBlocks": 0,
+   "nationBonus": 50,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 15.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 1379.6073604295102,
+    "y": 63.0625,
+    "z": -5809.462365147503,
+    "pitch": 31.650024,
+    "yaw": -118.7384
+   },
+   "homeBlock": [
+    86,
+    -364
+   ],
+   "townBlocks": [
+    [
+     86,
+     -364
+    ],
+    [
+     86,
+     -363
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Lechniak",
+    "uuid": "23449b4f-dff6-4f6d-9e2a-c918dc4554a0"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

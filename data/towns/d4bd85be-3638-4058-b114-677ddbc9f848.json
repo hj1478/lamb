@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Eridu",
   "uuid": "d4bd85be-3638-4058-b114-677ddbc9f848",
-  "board": "Sumerian venice",
+  "board": "work in progress",
   "founder": "hilel143",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 2,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17167.96994757973,
-    "y": 63.0,
-    "z": -3309.052102875146,
-    "pitch": 7.188671,
-    "yaw": 0.78787994
+    "x": 17190.563547376318,
+    "y": 67.0,
+    "z": -3287.264488878573,
+    "pitch": 12.194775,
+    "yaw": -2.849121
    },
    "homeBlock": [
-    1072,
-    -207
+    1074,
+    -206
    ],
    "townBlocks": [
     [
@@ -106,6 +106,14 @@
     [
      1072,
      -205
+    ],
+    [
+     1072,
+     -209
+    ],
+    [
+     1071,
+     -209
     ],
     [
      1070,
@@ -148,6 +156,10 @@
      -206
     ],
     [
+     1073,
+     -209
+    ],
+    [
      1070,
      -207
     ],
@@ -166,6 +178,18 @@
     [
      1073,
      -206
+    ],
+    [
+     1070,
+     -209
+    ],
+    [
+     1073,
+     -205
+    ],
+    [
+     1075,
+     -208
     ],
     [
      1075,
@@ -194,6 +218,14 @@
     [
      1074,
      -208
+    ],
+    [
+     1076,
+     -207
+    ],
+    [
+     1076,
+     -206
     ]
    ],
    "worlds": {}
@@ -202,10 +234,6 @@
    {
     "name": "hilel143",
     "uuid": "1ef0ce50-ce50-43ff-8914-5d51f122a5f0"
-   },
-   {
-    "name": "GovernorAustria1",
-    "uuid": "3707249c-4e9f-4abf-9900-4483e8917bd7"
    }
   ],
   "trusted": [
@@ -218,7 +246,12 @@
     "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "GovernorAustria1",
+    "uuid": "3707249c-4e9f-4abf-9900-4483e8917bd7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

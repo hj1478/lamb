@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Maluku",
   "uuid": "d84a4b48-8302-40bd-9324-477cbc4165a1",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "KRAKERJAX91",
-   "uuid": "01f03b80-5993-4886-97a6-bb08a7dac7c6"
+   "name": "NPC96",
+   "uuid": "cd85a981-1d75-2027-9a24-ae11e2fe2dfd"
   },
   "nation": {
-   "name": "Nusantara",
-   "uuid": "6388b87e-12ee-4f2c-86da-093dd18eac69"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788749560348,
-   "joinedNationAt": 1788749575371,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793418416242
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 130.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "KRAKERJAX91",
-    "uuid": "01f03b80-5993-4886-97a6-bb08a7dac7c6"
+    "name": "NPC96",
+    "uuid": "cd85a981-1d75-2027-9a24-ae11e2fe2dfd"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Colorado_Springs",
   "uuid": "cb05b3a7-f91f-4c35-a21f-6334f2db3929",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Chickengod12",
-   "uuid": "d676da24-1925-4d65-8fa2-6e50b7d098ae"
+   "name": "NPC65",
+   "uuid": "c3f1626d-ca21-206f-b727-6e3a04bfdcb2"
   },
   "nation": {
-   "name": "Texas",
-   "uuid": "059fcc8b-3db5-41b1-8f99-306150225850"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780538099367,
-   "joinedNationAt": 1780538362920,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793527202141
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "Chickengod12",
-    "uuid": "d676da24-1925-4d65-8fa2-6e50b7d098ae"
+    "name": "NPC65",
+    "uuid": "c3f1626d-ca21-206f-b727-6e3a04bfdcb2"
    }
   ],
   "trusted": [],

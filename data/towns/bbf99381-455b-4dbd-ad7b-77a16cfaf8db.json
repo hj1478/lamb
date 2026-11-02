@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Cienfuegos",
   "uuid": "bbf99381-455b-4dbd-ad7b-77a16cfaf8db",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 260,
-   "maxTownBlocks": 236,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 13,
-   "numTrusted": 14,
+   "nationBonus": 60,
+   "numResidents": 15,
+   "numTrusted": 15,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1136,6 +1136,10 @@
   },
   "residents": [
    {
+    "name": "BuggsHA",
+    "uuid": "9d2a190d-a5b1-4d03-ae75-20554c83c9e6"
+   },
+   {
     "name": "Archimedes_099",
     "uuid": "852fddbf-7f65-4979-a7fe-583b182a880b"
    },
@@ -1186,6 +1190,10 @@
    {
     "name": "ScrammyHoly",
     "uuid": "e2ded927-9915-4740-b60f-4d7e43502fcd"
+   },
+   {
+    "name": "Jeerome",
+    "uuid": "fcf906f0-dbde-4a10-9066-3423fb68c57f"
    }
   ],
   "trusted": [
@@ -1200,6 +1208,10 @@
    {
     "name": "PapiDebt",
     "uuid": "57d4b03b-f08b-45f8-90fc-fd52a2429bf9"
+   },
+   {
+    "name": "BuggsHA",
+    "uuid": "9d2a190d-a5b1-4d03-ae75-20554c83c9e6"
    },
    {
     "name": "ThyPhoenix",
@@ -1443,7 +1455,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BuggsHA",
+     "uuid": "9d2a190d-a5b1-4d03-ae75-20554c83c9e6"
+    }
+   ],
    "Builder": [
     {
      "name": "Archimedes_099",

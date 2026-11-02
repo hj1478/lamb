@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Ushitaki",
   "uuid": "cd00d643-6e38-4797-8ae6-2dbf230ea330",
-  "board": "/town set board [msg]",
+  "board": "I Love China Taiwan",
   "founder": "ItzAmiya",
   "wiki": null,
   "discord": null,
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1793188208129,
-   "joinedNationAt": 1793188214980,
+   "joinedNationAt": 1793618057355,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 54,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 8.0,
+   "numResidents": 2,
+   "numTrusted": 11,
+   "numOutlaws": 1,
+   "balance": 604.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 50487.454245426765,
+    "x": 50487.61592553694,
     "y": 70.0,
-    "z": -7661.699999988079,
-    "pitch": 37.49997,
-    "yaw": -23.741272
+    "z": -7661.449446496011,
+    "pitch": -0.44982153,
+    "yaw": 1.4633789
    },
    "homeBlock": [
     3155,
     -479
    ],
    "townBlocks": [
+    [
+     3155,
+     -476
+    ],
+    [
+     3155,
+     -477
+    ],
     [
      3155,
      -478
@@ -104,21 +112,209 @@
      -480
     ],
     [
+     3155,
+     -481
+    ],
+    [
+     3155,
+     -482
+    ],
+    [
+     3155,
+     -483
+    ],
+    [
+     3155,
+     -484
+    ],
+    [
+     3155,
+     -485
+    ],
+    [
+     3155,
+     -486
+    ],
+    [
+     3160,
+     -477
+    ],
+    [
+     3160,
+     -478
+    ],
+    [
+     3159,
+     -478
+    ],
+    [
+     3153,
+     -483
+    ],
+    [
+     3153,
+     -484
+    ],
+    [
+     3153,
+     -479
+    ],
+    [
+     3153,
+     -480
+    ],
+    [
+     3153,
+     -481
+    ],
+    [
+     3153,
+     -482
+    ],
+    [
      3156,
      -479
     ],
     [
+     3156,
+     -478
+    ],
+    [
+     3153,
+     -476
+    ],
+    [
+     3153,
+     -477
+    ],
+    [
+     3153,
+     -478
+    ],
+    [
+     3156,
+     -480
+    ],
+    [
+     3156,
+     -477
+    ],
+    [
+     3156,
+     -476
+    ],
+    [
+     3156,
+     -486
+    ],
+    [
+     3157,
+     -486
+    ],
+    [
+     3157,
+     -485
+    ],
+    [
+     3156,
+     -483
+    ],
+    [
+     3156,
+     -485
+    ],
+    [
+     3156,
+     -484
+    ],
+    [
+     3158,
+     -476
+    ],
+    [
+     3157,
+     -479
+    ],
+    [
+     3157,
+     -478
+    ],
+    [
+     3157,
+     -477
+    ],
+    [
+     3157,
+     -484
+    ],
+    [
+     3158,
+     -478
+    ],
+    [
+     3158,
+     -477
+    ],
+    [
+     3154,
+     -476
+    ],
+    [
+     3154,
+     -477
+    ],
+    [
+     3154,
+     -478
+    ],
+    [
+     3157,
+     -476
+    ],
+    [
+     3154,
+     -483
+    ],
+    [
+     3154,
+     -484
+    ],
+    [
+     3154,
+     -485
+    ],
+    [
      3154,
      -479
     ],
     [
+     3159,
+     -476
+    ],
+    [
      3154,
      -480
+    ],
+    [
+     3159,
+     -477
+    ],
+    [
+     3154,
+     -481
+    ],
+    [
+     3154,
+     -482
     ]
    ],
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "miZu337",
+    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
+   },
    {
     "name": "ItzAmiya",
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
@@ -126,12 +322,62 @@
   ],
   "trusted": [
    {
+    "name": "ZDself",
+    "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
+   },
+   {
+    "name": "Sepflower",
+    "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
+   },
+   {
+    "name": "dongzirui542",
+    "uuid": "ea51ee63-9583-47da-b5ae-c6f0a389f975"
+   },
+   {
+    "name": "oneCorn3562",
+    "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
+   },
+   {
+    "name": "XxStarryRTxX",
+    "uuid": "56751b51-4095-4833-9038-520ccc3a3bc5"
+   },
+   {
+    "name": "ItzAmiya",
+    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   },
+   {
     "name": "zkbcnm",
     "uuid": "d1fb1ca3-5c6a-4ad2-8a26-e1a58f146f59"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+   },
+   {
+    "name": "Ethan_miauen",
+    "uuid": "baa0ba2b-9a0c-4e8f-8dbb-316444f5210c"
+   },
+   {
+    "name": "bohe_mau",
+    "uuid": "4f5220dd-8453-4cca-b758-c518769c8674"
+   },
+   {
+    "name": "miZu337",
+    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "_Koridor_92_",
+    "uuid": "781851a5-821c-4c07-9eb8-500842eb546e"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Ushitaki的宇宙无敌小门禁",
+    "uuid": "8ce74280-ab44-4014-810c-e568f2729202"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

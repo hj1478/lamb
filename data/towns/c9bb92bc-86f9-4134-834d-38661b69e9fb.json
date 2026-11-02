@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "BevrVille",
   "uuid": "c9bb92bc-86f9-4134-834d-38661b69e9fb",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 10,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 63.0,
+   "numOutlaws": 2,
+   "balance": 54.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,16 @@
    ],
    "townBlocks": [
     [
+     685,
+     -204
+    ],
+    [
      687,
      -204
+    ],
+    [
+     685,
+     -203
     ],
     [
      687,
@@ -101,7 +109,15 @@
     ],
     [
      687,
+     -202
+    ],
+    [
+     687,
      -203
+    ],
+    [
+     686,
+     -202
     ],
     [
      686,
@@ -130,8 +146,26 @@
     "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "s___h___u",
+    "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
+   },
+   {
+    "name": "Mortarion6789",
+    "uuid": "57806801-09b0-40fa-9862-bcf4f89dd33d"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Apartment 1",
+    "uuid": "8ba78641-1609-4b05-af77-cc2fe596b300"
+   },
+   {
+    "name": "Apartment 2",
+    "uuid": "2124d6df-26ea-430a-9050-f95224175173"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

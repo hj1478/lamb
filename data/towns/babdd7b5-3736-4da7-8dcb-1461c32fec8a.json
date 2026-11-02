@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Cetatea_De_Otel",
   "uuid": "babdd7b5-3736-4da7-8dcb-1461c32fec8a",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 88,
-   "maxTownBlocks": 144,
+   "numTownBlocks": 90,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 7,
+   "numResidents": 9,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 51.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8192.87774651599,
-    "y": 185.0,
-    "z": -10008.270003912063,
-    "pitch": 11.83095,
-    "yaw": -92.121506
+    "x": 8195.16874617465,
+    "y": -24.0,
+    "z": -9984.410399252032,
+    "pitch": 21.81283,
+    "yaw": 88.467926
    },
    "homeBlock": [
     512,
-    -626
+    -625
    ],
    "townBlocks": [
     [
@@ -300,8 +300,16 @@
      -629
     ],
     [
+     512,
+     -624
+    ],
+    [
      513,
      -630
+    ],
+    [
+     512,
+     -625
     ],
     [
      513,
@@ -340,16 +348,16 @@
      -625
     ],
     [
-     518,
-     -624
+     513,
+     -622
     ],
     [
      514,
      -622
     ],
     [
-     513,
-     -622
+     518,
+     -624
     ],
     [
      514,
@@ -474,11 +482,68 @@
    {
     "name": "LucaLuk202",
     "uuid": "38b8fc50-8eef-470b-841a-27f3bf322256"
+   },
+   {
+    "name": "UltrasMirijevo",
+    "uuid": "723b4edd-5255-411f-8726-bb6df4fe1e65"
+   },
+   {
+    "name": "DeM4rCuS13",
+    "uuid": "14c1408c-60ff-4ff6-98fb-ba69adc315c4"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "ef958bc8-833d-4c00-b54b-d810fa6cde71"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "084c56e8-61fd-4bbc-91c2-3e4a63053bbc"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "10ab9eeb-4531-4cec-bf97-2014c6c91bf7"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "8ae347e3-d54f-45c8-824f-65247d4ced1a"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "e66ef80a-63a0-4bc2-83ca-49d62dcc0933"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "ffc4eee2-fe14-43dd-8f57-c483614b38ef"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "5d59c9ef-3b91-4a92-8ec5-4e7383851848"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "86e5f898-b87c-414a-ab35-56454b0ae240"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "a1a19834-16dd-4ca0-9ae1-b04ab6f77e2e"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "a92186fd-2093-405f-b5aa-e17ac2fe3c6a"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "7202be91-4eb0-47fb-9bce-0607e36da053"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "daf0ddcb-c71a-47fb-9460-f8552c478ff6"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

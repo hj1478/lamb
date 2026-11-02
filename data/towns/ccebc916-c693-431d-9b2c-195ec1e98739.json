@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "SIX_SEVEN",
   "uuid": "ccebc916-c693-431d-9b2c-195ec1e98739",
@@ -12,12 +12,12 @@
    "uuid": "9e5f869e-c479-41e5-8871-e5923e005c70"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Uruguay",
+   "uuid": "b75404f8-0698-4865-b2c8-b687af410a65"
   },
   "timestamps": {
    "registered": 1792881632261,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793060690662,
    "ruinedAt": null
   },
   "status": {
@@ -28,19 +28,19 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     -1300,
+     1209
+    ],
+    [
+     -1300,
+     1208
+    ],
+    [
      -1299,
-     1207
+     1209
+    ],
+    [
+     -1301,
+     1209
+    ],
+    [
+     -1301,
+     1208
     ],
     [
      -1300,
@@ -101,7 +117,15 @@
     ],
     [
      -1299,
+     1207
+    ],
+    [
+     -1299,
      1208
+    ],
+    [
+     -1301,
+     1207
     ]
    ],
    "worlds": {}
@@ -112,7 +136,12 @@
     "uuid": "9e5f869e-c479-41e5-8871-e5923e005c70"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

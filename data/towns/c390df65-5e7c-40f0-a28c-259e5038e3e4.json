@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Hometown",
   "uuid": "c390df65-5e7c-40f0-a28c-259e5038e3e4",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": false,
     "mobs": false
    }
@@ -416,16 +416,16 @@
   },
   "residents": [
    {
-    "name": "Time_Smokes",
-    "uuid": "02f75c03-52fc-49e7-b832-bda83e01aeb7"
-   },
-   {
     "name": "greenteasalsa",
     "uuid": "7699a41c-93de-4c0e-a05d-76d6403a107f"
    },
    {
     "name": "SILLYBILLY18471",
     "uuid": "512c84e5-09bd-4fa3-b635-cb8ac3283faf"
+   },
+   {
+    "name": "Otaku_Boi11",
+    "uuid": "4cef847b-5921-411f-b126-78d929d67c6b"
    }
   ],
   "trusted": [
@@ -464,10 +464,6 @@
    {
     "name": "Kat Shop",
     "uuid": "7b4c7c4a-b01a-44a8-b101-8147656e6532"
-   },
-   {
-    "name": "The Button",
-    "uuid": "444f4a40-26c0-4979-98b1-2a589aac9373"
    }
   ],
   "ranks": {

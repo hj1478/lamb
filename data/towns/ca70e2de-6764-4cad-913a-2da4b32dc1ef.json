@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Tuxtla_Gutierrez",
   "uuid": "ca70e2de-6764-4cad-913a-2da4b32dc1ef",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kymaxx",
-   "uuid": "07fee42d-2d60-4e1c-b436-708a9916716e"
+   "name": "NPC76",
+   "uuid": "b4ca8087-4e5e-20fd-8dca-c6016b0da8a8"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1793221520063,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793540074800
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -93,6 +93,22 @@
    "townBlocks": [
     [
      -2086,
+     120
+    ],
+    [
+     -2086,
+     122
+    ],
+    [
+     -2086,
+     121
+    ],
+    [
+     -2087,
+     122
+    ],
+    [
+     -2087,
      121
     ]
    ],
@@ -100,24 +116,15 @@
   },
   "residents": [
    {
-    "name": "Kymaxx",
-    "uuid": "07fee42d-2d60-4e1c-b436-708a9916716e"
-   },
-   {
-    "name": "P3np10",
-    "uuid": "b1b1baae-245b-49c1-83a9-2faebabc7234"
+    "name": "NPC76",
+    "uuid": "b4ca8087-4e5e-20fd-8dca-c6016b0da8a8"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "P3np10",
-     "uuid": "b1b1baae-245b-49c1-83a9-2faebabc7234"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

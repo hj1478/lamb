@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Whoville",
   "uuid": "b9ef34e5-10c6-4ab9-a791-d06573993b74",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 35,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 25.0,
    "forSalePrice": null
@@ -238,9 +238,17 @@
    {
     "name": "Lastiy",
     "uuid": "66c742d1-9754-43a1-b2a7-8cdd4ddb0d8c"
+   },
+   {
+    "name": "Flain",
+    "uuid": "8215e6f9-e68b-4b7f-b32a-56eb21880906"
    }
   ],
   "trusted": [
+   {
+    "name": "Flain",
+    "uuid": "8215e6f9-e68b-4b7f-b32a-56eb21880906"
+   },
    {
     "name": "Lastiy",
     "uuid": "66c742d1-9754-43a1-b2a7-8cdd4ddb0d8c"
@@ -249,7 +257,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Flain",
+     "uuid": "8215e6f9-e68b-4b7f-b32a-56eb21880906"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

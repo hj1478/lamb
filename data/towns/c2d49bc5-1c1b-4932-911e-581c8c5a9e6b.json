@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Rapture",
   "uuid": "c2d49bc5-1c1b-4932-911e-581c8c5a9e6b",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 60,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 5,
-   "balance": 3296.0,
+   "balance": 3261.0,
    "forSalePrice": null
   },
   "perms": {
@@ -342,10 +342,6 @@
    {
     "name": "Arson_Judge",
     "uuid": "c9d0c1a8-2d63-4f82-a2dc-ab7d7b7ebb8b"
-   },
-   {
-    "name": "GoblinCaulk",
-    "uuid": "2431954b-9002-4bbe-bdf7-94a4537fecce"
    },
    {
     "name": "penguinguy22",

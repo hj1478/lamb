@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Ghan",
   "uuid": "d65bf567-c8c7-4a2a-9707-f85b2dc5b7ec",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
@@ -102,6 +102,10 @@
     [
      2998,
      1076
+    ],
+    [
+     2999,
+     1075
     ]
    ],
    "worlds": {}
@@ -110,22 +114,18 @@
    {
     "name": "Jonnykool53",
     "uuid": "6f4d308b-ddb9-46e8-89a2-d3dabf09b428"
-   },
+   }
+  ],
+  "trusted": [
    {
     "name": "astaeromorph",
     "uuid": "62c759ad-2464-4838-930c-0cadcbe5f2c3"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "astaeromorph",
-     "uuid": "62c759ad-2464-4838-930c-0cadcbe5f2c3"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

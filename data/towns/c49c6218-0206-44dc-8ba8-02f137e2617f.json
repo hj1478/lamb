@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "Dokdo",
   "uuid": "c49c6218-0206-44dc-8ba8-02f137e2617f",
   "board": "The Last Town of the Kihwa Era",
   "founder": "Mr_MinShim",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Nostra:Dokdo",
   "discord": null,
   "mayor": {
    "name": "Mr_MinShim",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
-   "maxTownBlocks": 96,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numResidents": 4,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,15 +92,63 @@
    ],
    "townBlocks": [
     [
-     2946,
-     -378
-    ],
-    [
      2948,
      -377
     ],
     [
      2948,
+     -378
+    ],
+    [
+     2945,
+     -374
+    ],
+    [
+     2945,
+     -375
+    ],
+    [
+     2945,
+     -373
+    ],
+    [
+     2945,
+     -378
+    ],
+    [
+     2947,
+     -377
+    ],
+    [
+     2947,
+     -378
+    ],
+    [
+     2945,
+     -376
+    ],
+    [
+     2945,
+     -377
+    ],
+    [
+     2947,
+     -373
+    ],
+    [
+     2947,
+     -374
+    ],
+    [
+     2947,
+     -375
+    ],
+    [
+     2947,
+     -376
+    ],
+    [
+     2946,
      -378
     ],
     [
@@ -112,32 +160,12 @@
      -377
     ],
     [
-     2945,
-     -378
-    ],
-    [
-     2947,
-     -377
-    ],
-    [
-     2947,
-     -378
-    ],
-    [
-     2945,
-     -376
-    ],
-    [
-     2945,
-     -377
+     2946,
+     -373
     ],
     [
      2946,
      -376
-    ],
-    [
-     2947,
-     -373
     ],
     [
      2948,
@@ -146,10 +174,6 @@
     [
      2946,
      -377
-    ],
-    [
-     2947,
-     -374
     ],
     [
      2948,
@@ -160,20 +184,12 @@
      -374
     ],
     [
-     2947,
-     -375
-    ],
-    [
      2948,
      -373
     ],
     [
      2946,
      -375
-    ],
-    [
-     2947,
-     -376
     ],
     [
      2948,
@@ -192,37 +208,40 @@
     "uuid": "0f53d3d0-c73c-4b77-bfe3-d69672a4f79c"
    },
    {
-    "name": "showmaker1108",
-    "uuid": "9093a61e-275d-46fc-aa9f-123743288169"
+    "name": "KleinLeon17",
+    "uuid": "3b747a7b-5e0b-43bd-85d3-6a7fdf0cca08"
+   },
+   {
+    "name": "The_Futuretop",
+    "uuid": "5278b674-5e9b-4b05-81af-4a2b295f1b46"
    }
   ],
   "trusted": [
    {
     "name": "Not_tall",
     "uuid": "0f53d3d0-c73c-4b77-bfe3-d69672a4f79c"
+   },
+   {
+    "name": "The_Futuretop",
+    "uuid": "5278b674-5e9b-4b05-81af-4a2b295f1b46"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "ONEBUILDS",
+    "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Not_tall",
-     "uuid": "0f53d3d0-c73c-4b77-bfe3-d69672a4f79c"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "showmaker1108",
-     "uuid": "9093a61e-275d-46fc-aa9f-123743288169"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

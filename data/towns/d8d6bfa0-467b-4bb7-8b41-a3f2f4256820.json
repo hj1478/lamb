@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T13:15:20Z",
+ "fetched_at": "2026-11-02T16:11:47Z",
  "data": {
   "name": "South_Germany",
   "uuid": "d8d6bfa0-467b-4bb7-8b41-a3f2f4256820",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 282,
-   "maxTownBlocks": 268,
+   "maxTownBlocks": 280,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
-   "numTrusted": 7,
+   "numResidents": 15,
+   "numTrusted": 8,
    "numOutlaws": 17,
    "balance": 0.0,
    "forSalePrice": null
@@ -1228,20 +1228,20 @@
     "uuid": "2dde1485-ee7f-40d6-ba04-57b32468eb1f"
    },
    {
+    "name": "Leanda_Panda",
+    "uuid": "dc6e6d68-f6d6-472f-9a53-979e56493d3d"
+   },
+   {
     "name": "antonlaurin",
     "uuid": "d560aeaf-5255-4f37-a7c9-483151235bac"
    },
    {
+    "name": "Fatal_Fanz",
+    "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
+   },
+   {
     "name": "pengdol511",
     "uuid": "1a292cf7-d46e-41f4-80cf-ab1be8bbed3d"
-   },
-   {
-    "name": "KGlue333",
-    "uuid": "6db1cf21-0491-4aaa-85da-f2344ad3f0f1"
-   },
-   {
-    "name": "slimynoodles_989",
-    "uuid": "e11f94e1-4d93-4762-bcaa-f1efcaf46594"
    },
    {
     "name": "SmitmanNL",
@@ -1278,6 +1278,10 @@
    {
     "name": "mejasggg",
     "uuid": "3ebf8a0c-d929-42db-9651-32a718c0b67e"
+   },
+   {
+    "name": "winnerzabest",
+    "uuid": "17e42e47-e776-401e-bc1d-865fbfb2f7c2"
    }
   ],
   "trusted": [
@@ -1292,6 +1296,10 @@
    {
     "name": "Kyparittos",
     "uuid": "36a08b8f-dda3-4a12-bfd4-eadc9f29efbe"
+   },
+   {
+    "name": "Jeff97381",
+    "uuid": "0c480549-d654-4887-8f44-1517e00440d0"
    },
    {
     "name": "XLHeart",
@@ -1443,14 +1451,33 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Fatal_Fanz",
+     "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Realtor": [
+    {
+     "name": "Fatal_Fanz",
+     "uuid": "c1659d34-18aa-4f2f-8c40-ebbff313801f"
+    },
+    {
+     "name": "winnerzabest",
+     "uuid": "17e42e47-e776-401e-bc1d-865fbfb2f7c2"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Leanda_Panda",
+     "uuid": "dc6e6d68-f6d6-472f-9a53-979e56493d3d"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []
