@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Happy_Halloween",
   "uuid": "f926ea1d-1549-4b74-8d0e-054e7e7f5711",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheNickValentine",
-   "uuid": "129f615e-c437-4498-917b-1da58c204554"
+   "name": "NPC133",
+   "uuid": "ebbe174d-16dd-2050-87ed-d3adb54ccf59"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793414780564,
-   "joinedNationAt": 1793414796015,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793656485522
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "TheNickValentine",
-    "uuid": "129f615e-c437-4498-917b-1da58c204554"
+    "name": "NPC133",
+    "uuid": "ebbe174d-16dd-2050-87ed-d3adb54ccf59"
    }
   ],
   "trusted": [],

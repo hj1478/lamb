@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Port_Delta",
   "uuid": "f525010e-1ec3-407d-a805-88f31f1402b0",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 197.0,
    "forSalePrice": null
@@ -170,33 +170,14 @@
    {
     "name": "DaRealNooby",
     "uuid": "2cf01a68-353a-4b37-9bcc-ef51d8f7416f"
-   },
-   {
-    "name": "VeryNormalNaomi",
-    "uuid": "c04da025-3f9c-4e17-a6a1-b331d5adf3da"
    }
   ],
-  "trusted": [
-   {
-    "name": "VeryNormalNaomi",
-    "uuid": "c04da025-3f9c-4e17-a6a1-b331d5adf3da"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "VeryNormalNaomi",
-     "uuid": "c04da025-3f9c-4e17-a6a1-b331d5adf3da"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "VeryNormalNaomi",
-     "uuid": "c04da025-3f9c-4e17-a6a1-b331d5adf3da"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

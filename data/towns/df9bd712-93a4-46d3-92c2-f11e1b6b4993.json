@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "RS",
   "uuid": "df9bd712-93a4-46d3-92c2-f11e1b6b4993",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RoadRunner33mi",
-   "uuid": "c7673156-9939-4a97-9d95-1086d5517da6"
+   "name": "NPC127",
+   "uuid": "9747f111-b7ce-2000-9aaf-bda16e885407"
   },
   "nation": {
-   "name": "Hokkaido",
-   "uuid": "1b0372fe-6f27-4b06-a6e9-e5b5c90e6e72"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792321674488,
-   "joinedNationAt": 1792321699697,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793613860874
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "RoadRunner33mi",
-    "uuid": "c7673156-9939-4a97-9d95-1086d5517da6"
+    "name": "NPC127",
+    "uuid": "9747f111-b7ce-2000-9aaf-bda16e885407"
    }
   ],
   "trusted": [],

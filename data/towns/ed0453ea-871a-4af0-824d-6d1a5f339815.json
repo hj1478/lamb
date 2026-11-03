@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Vidin",
   "uuid": "ed0453ea-871a-4af0-824d-6d1a5f339815",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 9.0,
+   "numOutlaws": 3,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,39 @@
    "townBlocks": [
     [
      509,
+     -552
+    ],
+    [
+     510,
+     -552
+    ],
+    [
+     509,
+     -553
+    ],
+    [
+     510,
+     -554
+    ],
+    [
+     510,
+     -555
+    ],
+    [
+     509,
+     -551
+    ],
+    [
+     509,
      -556
     ],
     [
      509,
      -557
+    ],
+    [
+     509,
+     -554
     ],
     [
      509,
@@ -105,11 +133,119 @@
     ],
     [
      510,
+     -551
+    ],
+    [
+     509,
+     -558
+    ],
+    [
+     508,
+     -557
+    ],
+    [
+     508,
+     -558
+    ],
+    [
+     508,
+     -553
+    ],
+    [
+     508,
+     -554
+    ],
+    [
+     508,
+     -555
+    ],
+    [
+     508,
+     -556
+    ],
+    [
+     508,
+     -551
+    ],
+    [
+     508,
+     -552
+    ],
+    [
+     510,
      -556
     ],
     [
      510,
      -557
+    ],
+    [
+     507,
+     -556
+    ],
+    [
+     506,
+     -555
+    ],
+    [
+     507,
+     -555
+    ],
+    [
+     506,
+     -554
+    ],
+    [
+     507,
+     -554
+    ],
+    [
+     506,
+     -557
+    ],
+    [
+     507,
+     -553
+    ],
+    [
+     506,
+     -556
+    ],
+    [
+     507,
+     -552
+    ],
+    [
+     506,
+     -558
+    ],
+    [
+     506,
+     -553
+    ],
+    [
+     506,
+     -552
+    ],
+    [
+     505,
+     -558
+    ],
+    [
+     507,
+     -558
+    ],
+    [
+     505,
+     -557
+    ],
+    [
+     507,
+     -557
+    ],
+    [
+     505,
+     -556
     ]
    ],
    "worlds": {}
@@ -118,6 +254,14 @@
    {
     "name": "MoonLanderr2",
     "uuid": "4e78a0ec-8d92-421c-939d-4522b55d2f9e"
+   },
+   {
+    "name": "btwDuckman",
+    "uuid": "60c86187-f252-4852-8737-6d2a701742f8"
+   },
+   {
+    "name": "JustPhilip41",
+    "uuid": "17080815-58d8-4fb8-a5d3-231c372f7ba6"
    }
   ],
   "trusted": [
@@ -130,10 +274,37 @@
     "uuid": "5e167869-f5f6-4c80-a3f0-73dfffb3d79b"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "Fl0wj",
+    "uuid": "942c5656-0471-42f3-bfac-909e1c503bf7"
+   },
+   {
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Bland Residence",
+    "uuid": "8a157daa-77c6-4c5a-9b83-e8b18cc5a079"
+   },
+   {
+    "name": "Storage",
+    "uuid": "f8d340fa-5a6d-4a99-9768-7420490ed337"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "btwDuckman",
+     "uuid": "60c86187-f252-4852-8737-6d2a701742f8"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

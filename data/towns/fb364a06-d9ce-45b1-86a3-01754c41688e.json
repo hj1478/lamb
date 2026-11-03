@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Korytsa",
   "uuid": "fb364a06-d9ce-45b1-86a3-01754c41688e",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791697967699,
-   "joinedNationAt": 1792567123912,
+   "joinedNationAt": 1793461216533,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 4,
-   "numOutlaws": 0,
-   "balance": 14.0,
+   "nationBonus": 100,
+   "numResidents": 4,
+   "numTrusted": 9,
+   "numOutlaws": 8,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -144,8 +144,16 @@
      -464
     ],
     [
+     468,
+     -466
+    ],
+    [
      465,
      -463
+    ],
+    [
+     468,
+     -467
     ],
     [
      468,
@@ -178,6 +186,10 @@
     [
      467,
      -465
+    ],
+    [
+     467,
+     -466
     ],
     [
      469,
@@ -185,7 +197,7 @@
     ],
     [
      467,
-     -466
+     -467
     ],
     [
      469,
@@ -210,16 +222,44 @@
    {
     "name": "Fl0wj",
     "uuid": "942c5656-0471-42f3-bfac-909e1c503bf7"
+   },
+   {
+    "name": "kongames1542",
+    "uuid": "774f7659-d0cc-42e5-aec8-8fc261c084be"
+   },
+   {
+    "name": "FFerretF",
+    "uuid": "0cd04f41-2ab5-46aa-993d-fa3ab461d53b"
    }
   ],
   "trusted": [
+   {
+    "name": "FFerretF",
+    "uuid": "0cd04f41-2ab5-46aa-993d-fa3ab461d53b"
+   },
    {
     "name": "Japlo1505",
     "uuid": "07086844-94aa-4fef-aaaa-e89711ed442c"
    },
    {
+    "name": "steliosdam",
+    "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
+   },
+   {
+    "name": "dDelirious_",
+    "uuid": "785e3578-8db2-44d2-8526-bff365f94390"
+   },
+   {
+    "name": "kongames1542",
+    "uuid": "774f7659-d0cc-42e5-aec8-8fc261c084be"
+   },
+   {
     "name": "PROMY19",
     "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
+   },
+   {
+    "name": "Szuper",
+    "uuid": "d3e838f9-f039-4e18-8993-02dfdd433a12"
    },
    {
     "name": "Manapo_",
@@ -230,7 +270,40 @@
     "uuid": "39c5d27d-359c-4f43-b722-5054a61e1d71"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "CraftyEthan",
+    "uuid": "c358151d-ef68-4fcc-8ebd-6f2d435813ed"
+   },
+   {
+    "name": "lehose_",
+    "uuid": "0f81ba58-e6b8-4d9c-a54c-1d6471a1efc4"
+   },
+   {
+    "name": "akbaj",
+    "uuid": "3a72881e-10b6-4c81-8714-dc9b5d3832a9"
+   },
+   {
+    "name": "Thanamos",
+    "uuid": "673cb68c-c580-4c3d-9aa3-040c0873a5b4"
+   },
+   {
+    "name": "TeaInhaler",
+    "uuid": "21a48538-7d87-41d8-95c5-c49786770893"
+   },
+   {
+    "name": "Jekabs_BIG_GG",
+    "uuid": "cf0161ca-7027-4046-8565-3a294c846149"
+   },
+   {
+    "name": "MoonLanderr2",
+    "uuid": "4e78a0ec-8d92-421c-939d-4522b55d2f9e"
+   },
+   {
+    "name": "Sayfoulpe",
+    "uuid": "3891cc50-6d7a-485b-af50-76038440d389"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

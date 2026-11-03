@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Montevrain",
   "uuid": "eee74ac0-8af8-48a3-97e1-db9653bcee6f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DizzyDesiD",
-   "uuid": "3d768106-12f6-43df-887f-d614433b1ea7"
+   "name": "Darkrenheit",
+   "uuid": "45d38a1d-28f7-41be-894f-0c8ce1f052f7"
   },
   "nation": {
    "name": "France",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": true
   },
   "stats": {
-   "numTownBlocks": 75,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 82,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 512.6331050026805,
+    "x": 443.4832271050464,
     "y": 63.0,
-    "z": -11279.46935378508,
-    "pitch": 56.549984,
-    "yaw": 92.02734
+    "z": -11209.857085208016,
+    "pitch": 2.3998337,
+    "yaw": -129.82266
    },
    "homeBlock": [
-    32,
-    -705
+    27,
+    -701
    ],
    "townBlocks": [
     [
@@ -125,11 +125,23 @@
     ],
     [
      28,
+     -711
+    ],
+    [
+     28,
      -709
+    ],
+    [
+     28,
+     -710
     ],
     [
      32,
      -707
+    ],
+    [
+     29,
+     -699
     ],
     [
      29,
@@ -142,6 +154,14 @@
     [
      28,
      -700
+    ],
+    [
+     36,
+     -705
+    ],
+    [
+     36,
+     -706
     ],
     [
      31,
@@ -242,6 +262,10 @@
     [
      29,
      -706
+    ],
+    [
+     36,
+     -704
     ],
     [
      27,
@@ -358,6 +382,10 @@
     [
      30,
      -708
+    ],
+    [
+     30,
+     -699
     ],
     [
      30,
@@ -396,24 +424,41 @@
   },
   "residents": [
    {
-    "name": "DizzyDesiD",
-    "uuid": "3d768106-12f6-43df-887f-d614433b1ea7"
-   },
-   {
     "name": "dogxtreat",
     "uuid": "4b1a3699-56d0-414c-82be-5ebf2e15bfd5"
    },
    {
-    "name": "Ravocy_",
-    "uuid": "8358d434-edd1-4614-9b39-b0fc2967bdf9"
+    "name": "Darkrenheit",
+    "uuid": "45d38a1d-28f7-41be-894f-0c8ce1f052f7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Ravocy_",
+    "uuid": "8358d434-edd1-4614-9b39-b0fc2967bdf9"
+   },
+   {
+    "name": "Pelle_Nomme",
+    "uuid": "96722925-6c17-4f31-81e0-47eb156f2578"
+   },
+   {
+    "name": "Mystikaosss",
+    "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
+   },
+   {
+    "name": "Krimb",
+    "uuid": "5e55e72a-53ff-4e52-a17c-b4ab111b93e1"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {
     "name": "Bland Flat",
     "uuid": "708f3850-bf6b-4cd3-bd5e-b3da628c80e2"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "87db39f2-78f2-4908-84fe-d2f77ef4105b"
    },
    {
     "name": "Upbeat Apartment",
@@ -422,20 +467,11 @@
    {
     "name": "Enraging Flat",
     "uuid": "8cb003a6-34d0-4403-bb17-126da6944c78"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "87db39f2-78f2-4908-84fe-d2f77ef4105b"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "dogxtreat",
-     "uuid": "4b1a3699-56d0-414c-82be-5ebf2e15bfd5"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

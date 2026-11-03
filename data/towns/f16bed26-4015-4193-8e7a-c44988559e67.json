@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "LatinIslands",
   "uuid": "f16bed26-4015-4193-8e7a-c44988559e67",
-  "board": "/town set board [msg]",
+  "board": "Ally of Alba",
   "founder": "SpyingBigfoot39",
   "wiki": null,
   "discord": "https://discord.gg/5Abj3AutjD",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 203,
-   "maxTownBlocks": 472,
+   "maxTownBlocks": 604,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 31,
+   "numResidents": 42,
    "numTrusted": 5,
    "numOutlaws": 3,
-   "balance": 583.0,
+   "balance": 425.0,
    "forSalePrice": null
   },
   "perms": {
@@ -945,10 +945,6 @@
     "uuid": "32f1a8ae-62d2-486c-af9a-a14e588d1cae"
    },
    {
-    "name": "DolyFamily",
-    "uuid": "22a85bf2-40c8-45a9-81cb-13eab276a82e"
-   },
-   {
     "name": "sopany",
     "uuid": "5285fc42-9fa9-4bc2-9350-d5c92264bdde"
    },
@@ -961,16 +957,8 @@
     "uuid": "01bf8d9b-b033-425b-bc47-d2d24946583a"
    },
    {
-    "name": "SuperKnightYuu",
-    "uuid": "e1180248-2457-4727-bdbe-4e31ef493578"
-   },
-   {
     "name": "xSerikon",
     "uuid": "040e0b82-b6fa-4c2e-866b-2a498b5bc569"
-   },
-   {
-    "name": "LaRataPVP",
-    "uuid": "e7560a79-549c-42a0-b153-aa3e8e5358af"
    },
    {
     "name": "SnowYT7899",
@@ -1033,6 +1021,62 @@
     "uuid": "28229c26-6186-466b-8b91-6655afba3e05"
    },
    {
+    "name": "MaiGala",
+    "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
+   },
+   {
+    "name": "sakunoh_TmD",
+    "uuid": "b9cbcde1-c707-43c8-ad79-6fa0c30da79c"
+   },
+   {
+    "name": "ThreeDeeTime_",
+    "uuid": "80b1850a-dd14-4383-9ba8-bf43992e1eff"
+   },
+   {
+    "name": "pimpulis",
+    "uuid": "3f4c4beb-dd05-4ba0-8324-9fc475201bfb"
+   },
+   {
+    "name": "Rabbitarules",
+    "uuid": "96742776-0e6e-49be-b65b-57220cda2edc"
+   },
+   {
+    "name": "Kbot2222",
+    "uuid": "71d64e4e-3756-4a09-9266-ba8abea888d9"
+   },
+   {
+    "name": "luffy_s1493",
+    "uuid": "5143670c-0775-4f4a-a32f-9ec38818bd67"
+   },
+   {
+    "name": "Drast1c_",
+    "uuid": "d0f982e7-3022-43bd-b526-e5a513306915"
+   },
+   {
+    "name": "sqlar_",
+    "uuid": "f873ddcf-809a-4f17-87fb-b68532fb83e0"
+   },
+   {
+    "name": "Ghosted_ghost",
+    "uuid": "d81b878c-8dc6-49a3-adb1-0a72b720dc8b"
+   },
+   {
+    "name": "volcano720",
+    "uuid": "fe6e4bac-296b-40c5-b105-b6b647ee372d"
+   },
+   {
+    "name": "GAZDOJR",
+    "uuid": "7a7c5743-7948-4c4a-8a84-2e8824e6f7cf"
+   },
+   {
+    "name": "solarzxd",
+    "uuid": "6e9ac175-540e-40d3-ab8a-684a7d0423b8"
+   },
+   {
+    "name": "RundyBubble",
+    "uuid": "df9e760e-27b9-4d28-bfa4-947264fed2f9"
+   },
+   {
     "name": "ItzGlazzy",
     "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
    }
@@ -1083,16 +1127,16 @@
     "uuid": "fbce49b2-3913-4736-9163-742e407776cf"
    },
    {
-    "name": "Elegant Suite",
-    "uuid": "f5328254-04ce-476c-b5d5-b444f30bdd67"
-   },
-   {
     "name": "Inconvenient Tenement",
     "uuid": "82ba23e1-1c35-44f3-8d14-7dfb50077ff3"
    },
    {
     "name": "Upbeat Residence",
     "uuid": "7adae068-2a55-4210-9384-6dab4f886280"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "010c2c5f-02d4-4ab9-a4d1-0b6539edf22a"
    }
   ],
   "ranks": {
@@ -1132,8 +1176,18 @@
    ],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
+   "Treasurer": [
+    {
+     "name": "sopany",
+     "uuid": "5285fc42-9fa9-4bc2-9350-d5c92264bdde"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "sopany",
+     "uuid": "5285fc42-9fa9-4bc2-9350-d5c92264bdde"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

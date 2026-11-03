@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Sainte-Rose",
   "uuid": "f2d676ba-7b17-4783-a842-4776001ffd3a",
@@ -12,12 +12,12 @@
    "uuid": "662cdbc8-393e-4118-8e3f-7025770fd32c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Madagascar",
+   "uuid": "44f40831-d34f-49e0-a166-46401ad604c4"
   },
   "timestamps": {
    "registered": 1792709732341,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793296195862,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 124.0,
+   "numOutlaws": 7,
+   "balance": 147.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,12 @@
    ],
    "townBlocks": [
     [
-     1248,
-     982
-    ],
-    [
      1247,
      981
+    ],
+    [
+     1248,
+     982
     ],
     [
      1248,
@@ -112,8 +112,52 @@
      983
     ],
     [
+     1247,
+     984
+    ],
+    [
      1248,
      981
+    ],
+    [
+     1247,
+     980
+    ],
+    [
+     1250,
+     982
+    ],
+    [
+     1247,
+     985
+    ],
+    [
+     1248,
+     986
+    ],
+    [
+     1250,
+     981
+    ],
+    [
+     1247,
+     986
+    ],
+    [
+     1248,
+     984
+    ],
+    [
+     1248,
+     985
+    ],
+    [
+     1249,
+     984
+    ],
+    [
+     1249,
+     985
     ],
     [
      1249,
@@ -136,12 +180,12 @@
      982
     ],
     [
-     1250,
-     982
+     1246,
+     981
     ],
     [
-     1250,
-     981
+     1246,
+     980
     ]
    ],
    "worlds": {}
@@ -152,12 +196,41 @@
     "uuid": "662cdbc8-393e-4118-8e3f-7025770fd32c"
    },
    {
-    "name": "slapshot404",
-    "uuid": "97160b9b-11b9-404f-8547-a5cc13bbde55"
+    "name": "Soup_68",
+    "uuid": "9ef36c7c-ed4b-4103-a916-e091b9c40045"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "swiftwindbow",
+    "uuid": "791e2f0c-7435-4aa9-8ab8-756fdf8eacaf"
+   },
+   {
+    "name": "1nspectual",
+    "uuid": "c19db314-b80a-4741-a602-a976a451a4c8"
+   },
+   {
+    "name": "Infty5",
+    "uuid": "505415f7-c7d8-4b67-9da9-8e4c1b41486a"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "_Blands",
+    "uuid": "27b2330d-7312-4cbc-ac7f-0c6659a65f04"
+   },
+   {
+    "name": "AATISH30",
+    "uuid": "fea735c9-f9e2-4ffd-b396-1ecb6a2bfa40"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -166,8 +239,8 @@
      "uuid": "662cdbc8-393e-4118-8e3f-7025770fd32c"
     },
     {
-     "name": "slapshot404",
-     "uuid": "97160b9b-11b9-404f-8547-a5cc13bbde55"
+     "name": "Soup_68",
+     "uuid": "9ef36c7c-ed4b-4103-a916-e091b9c40045"
     }
    ],
    "Builder": [],

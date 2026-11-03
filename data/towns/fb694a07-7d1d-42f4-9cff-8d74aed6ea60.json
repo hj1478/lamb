@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Gelly_Town",
   "uuid": "fb694a07-7d1d-42f4-9cff-8d74aed6ea60",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Fruky",
-   "uuid": "5df2094e-1b83-4e16-9014-99b89c402c7d"
+   "name": "Fjorque",
+   "uuid": "f660274b-27fc-4672-9dc1-e0ac0ebf6ed3"
   },
   "nation": {
    "name": "Amazon",
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 100.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -252,12 +252,8 @@
   },
   "residents": [
    {
-    "name": "pelotamarinha",
-    "uuid": "edcc34fa-bb0a-49f0-bd60-a4ef37672094"
-   },
-   {
-    "name": "Fruky",
-    "uuid": "5df2094e-1b83-4e16-9014-99b89c402c7d"
+    "name": "Fjorque",
+    "uuid": "f660274b-27fc-4672-9dc1-e0ac0ebf6ed3"
    }
   ],
   "trusted": [
@@ -269,12 +265,8 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Elegant Dwelling",
-    "uuid": "8c4a12a9-a14a-4aeb-8263-0eccfb50c3dc"
-   },
-   {
-    "name": "Luxurious Flat",
-    "uuid": "4fd81152-9738-4a84-8966-a5dae2a3fa64"
+    "name": "Dingy Suite",
+    "uuid": "6e0bb07a-337e-4fab-8136-68e9e98a823a"
    },
    {
     "name": "Stylish Tenement",
@@ -285,16 +277,25 @@
     "uuid": "886a3522-101a-4024-a412-fb207cafefb6"
    },
    {
+    "name": "Elegant Dwelling",
+    "uuid": "8c4a12a9-a14a-4aeb-8263-0eccfb50c3dc"
+   },
+   {
     "name": "Bland Property",
     "uuid": "5123b643-0617-4154-a7a5-2b73fc8feba5"
    },
    {
-    "name": "Dingy Suite",
-    "uuid": "6e0bb07a-337e-4fab-8136-68e9e98a823a"
+    "name": "Luxurious Flat",
+    "uuid": "4fd81152-9738-4a84-8966-a5dae2a3fa64"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Fjorque",
+     "uuid": "f660274b-27fc-4672-9dc1-e0ac0ebf6ed3"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

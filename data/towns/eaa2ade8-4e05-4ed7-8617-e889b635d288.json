@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Goyang",
   "uuid": "eaa2ade8-4e05-4ed7-8617-e889b635d288",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 19.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      2838,
+     -397
+    ],
+    [
+     2838,
      -398
     ],
     [
@@ -101,11 +105,27 @@
     ],
     [
      2840,
+     -399
+    ],
+    [
+     2840,
      -398
+    ],
+    [
+     2840,
+     -397
+    ],
+    [
+     2839,
+     -396
     ],
     [
      2839,
      -398
+    ],
+    [
+     2839,
+     -397
     ],
     [
      2839,
@@ -122,7 +142,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "22473851-3952-45ec-be7c-7ab7636652e0"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

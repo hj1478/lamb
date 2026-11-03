@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Okavango",
   "uuid": "f67b2a76-7351-40cd-b445-86754c4f7dcb",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 164,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 7,
-   "numTrusted": 1,
-   "numOutlaws": 8,
+   "numResidents": 8,
+   "numTrusted": 2,
+   "numOutlaws": 10,
    "balance": 1.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8397.666696551214,
-    "y": 79.5,
-    "z": 15145.588704852633,
-    "pitch": 3.8999863,
-    "yaw": 178.65735
+    "x": 8407.504513415037,
+    "y": 80.0,
+    "z": 15174.642050396486,
+    "pitch": 7.9499993,
+    "yaw": -1.0426235
    },
    "homeBlock": [
-    524,
-    946
+    525,
+    948
    ],
    "townBlocks": [
     [
@@ -615,9 +615,17 @@
    {
     "name": "Yamnoo",
     "uuid": "fc4b0081-b85d-4126-a548-1a99326ed80f"
+   },
+   {
+    "name": "CloudyLemon69",
+    "uuid": "4156a80b-e633-432a-b97a-4e06da787f17"
    }
   ],
   "trusted": [
+   {
+    "name": "Goulash23",
+    "uuid": "209aca29-f02d-4fb8-b438-6c67b5197db1"
+   },
    {
     "name": "LastigJochie",
     "uuid": "807c5a56-6d81-4b2c-a493-b0bbdd62019e"
@@ -655,6 +663,14 @@
    {
     "name": "m9cc",
     "uuid": "99504837-e614-4c09-9e81-ed55ea81f37b"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "s___h___u",
+    "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
    }
   ],
   "quarters": [
@@ -715,10 +731,6 @@
     "uuid": "3268a81d-1a38-4bef-8c34-0acce199b4cd"
    },
    {
-    "name": "Unit 2",
-    "uuid": "c3c845ec-15af-4453-8b95-6dd00fd32a8c"
-   },
-   {
     "name": "Unit 3",
     "uuid": "895af8d3-273c-48b0-ade1-b489454b9fb6"
    },
@@ -737,6 +749,10 @@
    {
     "name": "Unit B",
     "uuid": "06298a41-1ccc-4f1c-a148-5b6cc86f843d"
+   },
+   {
+    "name": "Unit 2",
+    "uuid": "c3c845ec-15af-4453-8b95-6dd00fd32a8c"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Starbase",
   "uuid": "e9db712a-8de4-4cf3-8473-2ef61fa7df5a",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 66,
-   "maxTownBlocks": 236,
+   "numTownBlocks": 69,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 13,
+   "numResidents": 11,
    "numTrusted": 6,
-   "numOutlaws": 15,
+   "numOutlaws": 13,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34880.40844884818,
-    "y": 63.0,
-    "z": -1539.512499988079,
-    "pitch": 55.349957,
-    "yaw": 0.7499217
+    "x": -34977.30000001192,
+    "y": 71.0,
+    "z": -1569.300000011921,
+    "pitch": 61.200016,
+    "yaw": 133.48529
    },
    "homeBlock": [
-    -2181,
-    -97
+    -2187,
+    -99
    ],
    "townBlocks": [
     [
@@ -157,7 +157,15 @@
     ],
     [
      -2187,
+     -98
+    ],
+    [
+     -2187,
      -99
+    ],
+    [
+     -2188,
+     -98
     ],
     [
      -2187,
@@ -198,6 +206,10 @@
     [
      -2181,
      -102
+    ],
+    [
+     -2189,
+     -98
     ],
     [
      -2182,
@@ -244,12 +256,16 @@
      -96
     ],
     [
+     -2189,
+     -101
+    ],
+    [
      -2181,
      -97
     ],
     [
      -2189,
-     -101
+     -100
     ],
     [
      -2185,
@@ -257,7 +273,7 @@
     ],
     [
      -2189,
-     -100
+     -99
     ],
     [
      -2185,
@@ -268,24 +284,20 @@
      -95
     ],
     [
-     -2189,
-     -99
-    ],
-    [
      -2188,
      -99
     ],
     [
      -2188,
      -100
+    ],
+    [
+     -2188,
+     -101
     ],
     [
      -2183,
      -103
-    ],
-    [
-     -2188,
-     -101
     ],
     [
      -2183,
@@ -368,14 +380,6 @@
     "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
    },
    {
-    "name": "TheSunSeekr",
-    "uuid": "620dcc17-e639-4267-b8c9-cf31fb73ce6c"
-   },
-   {
-    "name": "alrightt",
-    "uuid": "0541ad79-7cf7-4296-831f-1cd1c9eda8bb"
-   },
-   {
     "name": "AbbySole",
     "uuid": "f15bd95f-aef7-4041-bbbb-2a8c2c676cc0"
    },
@@ -414,7 +418,7 @@
   ],
   "trusted": [
    {
-    "name": "nahember",
+    "name": "7ember",
     "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
    },
    {
@@ -486,14 +490,6 @@
    {
     "name": "AutPig_",
     "uuid": "111348b6-ecd2-48ef-becb-74f3c84d4ec3"
-   },
-   {
-    "name": "aim9b",
-    "uuid": "11e1a230-3401-4cf4-a0ef-179bcc35e580"
-   },
-   {
-    "name": "Historian_Man",
-    "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
    },
    {
     "name": "batmanforreal67",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "New_Birmingham",
   "uuid": "ec4e2a68-e31d-4f53-a8d6-59f5319acf60",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 163,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 6,
-   "numTrusted": 3,
+   "numResidents": 7,
+   "numTrusted": 4,
    "numOutlaws": 5,
    "balance": 0.0,
    "forSalePrice": null
@@ -756,6 +756,10 @@
     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
    },
    {
+    "name": "Obser22",
+    "uuid": "44b826cb-a482-47f8-bb8d-7201f286097e"
+   },
+   {
     "name": "TheRealHollow194",
     "uuid": "b1306e70-5869-4e9e-a19e-7a1d63faf268"
    },
@@ -784,6 +788,10 @@
    {
     "name": "Aethon_Shaan_XIX",
     "uuid": "0b3a1796-0295-483e-b7ee-9670b85c22cf"
+   },
+   {
+    "name": "jakod026",
+    "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
    }
   ],
   "outlaws": [
@@ -849,60 +857,23 @@
      "uuid": "b1306e70-5869-4e9e-a19e-7a1d63faf268"
     }
    ],
-   "Builder": [
-    {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
-    }
-   ],
+   "Builder": [],
+   "Recruiter": [],
    "Police": [
     {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
+     "name": "Obser22",
+     "uuid": "44b826cb-a482-47f8-bb8d-7201f286097e"
     }
    ],
-   "Tax-exempt": [
-    {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
-    },
-    {
-     "name": "TheRealHollow194",
-     "uuid": "b1306e70-5869-4e9e-a19e-7a1d63faf268"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [
     {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
-    },
-    {
      "name": "TheRealHollow194",
      "uuid": "b1306e70-5869-4e9e-a19e-7a1d63faf268"
     }
    ],
-   "Realtor": [
-    {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "jakod026",
-     "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
-    },
-    {
-     "name": "TheRealHollow194",
-     "uuid": "b1306e70-5869-4e9e-a19e-7a1d63faf268"
-    }
-   ]
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

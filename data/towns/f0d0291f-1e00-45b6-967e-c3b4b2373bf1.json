@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "DaShanTian",
   "uuid": "f0d0291f-1e00-45b6-967e-c3b4b2373bf1",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 106,
+   "numTownBlocks": 107,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 22,
+   "numOutlaws": 21,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -516,7 +516,16 @@
      8
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -92,
+       501
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -555,6 +564,10 @@
     "uuid": "6e4b2e66-5618-4bb3-9a03-d7e7753eb6f9"
    },
    {
+    "name": "2437441657",
+    "uuid": "49009f12-be00-4e1a-bf36-91f951591b39"
+   },
+   {
     "name": "_rwy",
     "uuid": "de91c949-f56b-496a-aca0-d7de5d9ee7a9"
    },
@@ -581,14 +594,6 @@
    {
     "name": "karolinios12",
     "uuid": "3d5b780a-187a-48ff-80cf-d960df3bcc31"
-   },
-   {
-    "name": "Uno097",
-    "uuid": "4a2a2e05-a889-4538-8322-230d19124048"
-   },
-   {
-    "name": "BadDetective",
-    "uuid": "a191e1ce-21c4-4419-8447-7e68f1025e31"
    },
    {
     "name": "zlisssy",

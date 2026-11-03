@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Versailles",
   "uuid": "e0976eab-7f22-4b60-bf18-fe11a687cf1b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DieaRestrict",
-   "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
+   "name": "SwordNoLife",
+   "uuid": "008ce780-a5d6-4518-a414-0c766894454e"
   },
   "nation": {
    "name": "France",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 21,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 24.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,6 +100,10 @@
      -680
     ],
     [
+     23,
+     -682
+    ],
+    [
      25,
      -681
     ],
@@ -122,6 +126,14 @@
     [
      26,
      -683
+    ],
+    [
+     28,
+     -680
+    ],
+    [
+     27,
+     -680
     ],
     [
      27,
@@ -154,14 +166,22 @@
     [
      24,
      -680
+    ],
+    [
+     23,
+     -680
+    ],
+    [
+     23,
+     -681
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "DieaRestrict",
-    "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
+    "name": "SwordNoLife",
+    "uuid": "008ce780-a5d6-4518-a414-0c766894454e"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Salisburgum",
   "uuid": "e9f2d4c2-3c1c-48e6-b56e-1f4f09cd1fa8",
@@ -12,17 +12,17 @@
    "uuid": "2b59c2b6-7500-411d-8ad8-d260b35228a6"
   },
   "nation": {
-   "name": "Denmark",
-   "uuid": "73f18d06-0647-4146-a27b-cfa22b5792b2"
+   "name": "Hungary",
+   "uuid": "5f85a3a1-fe2b-48e9-b711-aee0561f9f14"
   },
   "timestamps": {
    "registered": 1791057414787,
-   "joinedNationAt": 1791057764097,
+   "joinedNationAt": 1793458294770,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -122,9 +122,18 @@
    {
     "name": "TikTakMine1992",
     "uuid": "2b59c2b6-7500-411d-8ad8-d260b35228a6"
+   },
+   {
+    "name": "Mgr_Schneider",
+    "uuid": "28bbf80e-6be1-417d-b03c-5481ef67521a"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Mgr_Schneider",
+    "uuid": "28bbf80e-6be1-417d-b03c-5481ef67521a"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

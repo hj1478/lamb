@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Chatham_Island",
   "uuid": "eaf3a30f-530a-465c-af40-241ef0cc625e",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 72,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 186.0,
    "forSalePrice": null
@@ -386,12 +386,20 @@
    {
     "name": "StewTheFish",
     "uuid": "ae86819b-ea3f-4590-b57a-ccce2e662a31"
+   },
+   {
+    "name": "Abschuettler123",
+    "uuid": "aadd81e6-5493-4e7c-b1f4-82ad1dc2097c"
    }
   ],
   "trusted": [
    {
     "name": "StewTheFish",
     "uuid": "ae86819b-ea3f-4590-b57a-ccce2e662a31"
+   },
+   {
+    "name": "Abschuettler123",
+    "uuid": "aadd81e6-5493-4e7c-b1f4-82ad1dc2097c"
    }
   ],
   "outlaws": [
@@ -402,10 +410,20 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Abschuettler123",
+     "uuid": "aadd81e6-5493-4e7c-b1f4-82ad1dc2097c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "Abschuettler123",
+     "uuid": "aadd81e6-5493-4e7c-b1f4-82ad1dc2097c"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

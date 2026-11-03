@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Eskisehir",
   "uuid": "f395b36f-4344-4383-837e-ae0a726bc5a4",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Wrimz",
-   "uuid": "8d2f2d07-c72a-4a0d-8ce0-a1f2cbe7c942"
+   "name": "NPC20",
+   "uuid": "ee7c94ec-5bf6-20dd-b98c-1be7164a874e"
   },
   "nation": {
-   "name": "Turkiye",
-   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777670082400,
-   "joinedNationAt": 1778274068069,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793613601489
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 71,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 3,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -380,8 +380,8 @@
   },
   "residents": [
    {
-    "name": "Wrimz",
-    "uuid": "8d2f2d07-c72a-4a0d-8ce0-a1f2cbe7c942"
+    "name": "NPC20",
+    "uuid": "ee7c94ec-5bf6-20dd-b98c-1be7164a874e"
    }
   ],
   "trusted": [],
@@ -400,14 +400,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Luxurious Property",
-    "uuid": "ef197f07-6042-46db-81f5-f223bcca2299"
-   },
-   {
-    "name": "Enraging Suite",
-    "uuid": "9baec7e0-5481-415f-88cf-fd89793d8e7b"
-   },
    {
     "name": "Bland Tenement",
     "uuid": "b480e471-c73d-4edc-8c28-3a8753dc6fbf"
@@ -431,6 +423,14 @@
    {
     "name": "Depo",
     "uuid": "ae5356fa-bcbb-4403-8d5b-76b1afe9503b"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "9baec7e0-5481-415f-88cf-fd89793d8e7b"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "ef197f07-6042-46db-81f5-f223bcca2299"
    }
   ],
   "ranks": {

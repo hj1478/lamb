@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Yanan",
   "uuid": "e0f76f2e-f7bc-4b6a-a0b9-e9183d2df3d0",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 103,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 5,
+   "numResidents": 2,
+   "numTrusted": 6,
    "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
@@ -510,6 +510,10 @@
    {
     "name": "GGfun",
     "uuid": "1c2c85a5-e022-4ac7-be20-334eec410525"
+   },
+   {
+    "name": "MiKaMaKaBaKa",
+    "uuid": "f232b20f-be6b-482d-8951-da5b941425bc"
    }
   ],
   "trusted": [
@@ -532,6 +536,10 @@
    {
     "name": "jiliangboki",
     "uuid": "428ad8ee-0a3c-4aad-a13a-e599a6562c58"
+   },
+   {
+    "name": "MiKaMaKaBaKa",
+    "uuid": "f232b20f-be6b-482d-8951-da5b941425bc"
    }
   ],
   "outlaws": [
@@ -564,9 +572,19 @@
     "uuid": "34af2559-cd50-4dbc-98c9-e15b701d6056"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "幺零幺",
+    "uuid": "6b582836-6f01-406d-bb30-2c38c95c0a85"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "MiKaMaKaBaKa",
+     "uuid": "f232b20f-be6b-482d-8951-da5b941425bc"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Gotham",
   "uuid": "ef8c24e9-7977-4ff8-8ec2-1ad2edbc07f3",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "dwarvenking1",
-   "uuid": "ba10286d-d3b9-40af-9fdb-4ef55a16c4bc"
+   "name": "NPC135",
+   "uuid": "14b8e617-8acf-20a6-b0e3-47f721993633"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1793578135006,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793666286221
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,70 +35,62 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31359.14815477651,
-    "y": 66.0,
-    "z": -3266.5232744983923,
-    "pitch": 11.850002,
-    "yaw": -5.9998064
+    "x": -31346.400187660693,
+    "y": 65.0,
+    "z": -3272.084090968142,
+    "pitch": 19.799574,
+    "yaw": 90.884155
    },
    "homeBlock": [
     -1960,
     -205
    ],
    "townBlocks": [
-    [
-     -1961,
-     -204
-    ],
-    [
-     -1961,
-     -205
-    ],
     [
      -1960,
      -205
@@ -108,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "dwarvenking1",
-    "uuid": "ba10286d-d3b9-40af-9fdb-4ef55a16c4bc"
+    "name": "NPC135",
+    "uuid": "14b8e617-8acf-20a6-b0e3-47f721993633"
    }
   ],
   "trusted": [],

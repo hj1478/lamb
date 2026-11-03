@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Lima_Makam",
   "uuid": "f28d1632-d523-481b-b487-9dee6e3d1d7a",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "calie9336",
-   "uuid": "902f44bf-3852-47d9-9624-a4b9adbe40f8"
+   "name": "NPC107",
+   "uuid": "03e4dcfe-138e-2096-afdf-b251d952593a"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1792855298058,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793454848098
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1154.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "calie9336",
-    "uuid": "902f44bf-3852-47d9-9624-a4b9adbe40f8"
+    "name": "NPC107",
+    "uuid": "03e4dcfe-138e-2096-afdf-b251d952593a"
    }
   ],
   "trusted": [],

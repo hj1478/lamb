@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Limen",
   "uuid": "e7c00769-6ae6-401e-b868-8631b29084f7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 21,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 8.0,
+   "numOutlaws": 1,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -112,6 +112,10 @@
      -431
     ],
     [
+     624,
+     -429
+    ],
+    [
      628,
      -430
     ],
@@ -124,8 +128,16 @@
      -428
     ],
     [
+     625,
+     -430
+    ],
+    [
      627,
      -428
+    ],
+    [
+     625,
+     -429
     ],
     [
      627,
@@ -148,6 +160,14 @@
      -427
     ],
     [
+     624,
+     -430
+    ],
+    [
+     625,
+     -428
+    ],
+    [
      627,
      -430
     ],
@@ -165,7 +185,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

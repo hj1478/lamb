@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Rhodes_Island",
   "uuid": "f9077af1-8037-4d57-9271-4f766f313254",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ItzAmiya",
-   "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   "name": "oneCorn3562",
+   "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
   },
   "nation": {
    "name": "Dian",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 41,
+   "numTownBlocks": 67,
    "maxTownBlocks": 154,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 12,
-   "numTrusted": 23,
+   "numTrusted": 26,
    "numOutlaws": 7,
-   "balance": 17.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      2414,
+     -301
+    ],
+    [
+     2414,
+     -302
+    ],
+    [
+     2414,
      -299
     ],
     [
@@ -124,8 +132,12 @@
      -294
     ],
     [
-     2418,
-     -297
+     2413,
+     -303
+    ],
+    [
+     2413,
+     -304
     ],
     [
      2413,
@@ -133,6 +145,10 @@
     ],
     [
      2413,
+     -302
+    ],
+    [
+     2413,
      -299
     ],
     [
@@ -156,19 +172,59 @@
      -296
     ],
     [
-     2412,
-     -295
-    ],
-    [
      2413,
      -293
     ],
     [
-     2412,
+     2413,
      -294
     ],
     [
-     2413,
+     2414,
+     -303
+    ],
+    [
+     2410,
+     -302
+    ],
+    [
+     2410,
+     -303
+    ],
+    [
+     2410,
+     -298
+    ],
+    [
+     2410,
+     -299
+    ],
+    [
+     2410,
+     -300
+    ],
+    [
+     2418,
+     -297
+    ],
+    [
+     2412,
+     -303
+    ],
+    [
+     2412,
+     -302
+    ],
+    [
+     2412,
+     -304
+    ],
+    [
+     2412,
+     -295
+    ],
+    [
+     2412,
      -294
     ],
     [
@@ -217,6 +273,10 @@
     ],
     [
      2416,
+     -302
+    ],
+    [
+     2416,
      -298
     ],
     [
@@ -224,28 +284,60 @@
      -299
     ],
     [
+     2416,
+     -300
+    ],
+    [
+     2416,
+     -301
+    ],
+    [
      2415,
      -296
+    ],
+    [
+     2411,
+     -304
     ],
     [
      2415,
      -297
     ],
     [
+     2411,
+     -303
+    ],
+    [
      2415,
      -298
+    ],
+    [
+     2411,
+     -302
     ],
     [
      2415,
      -299
     ],
     [
+     2411,
+     -300
+    ],
+    [
      2415,
      -293
     ],
     [
+     2411,
+     -299
+    ],
+    [
      2415,
      -294
+    ],
+    [
+     2411,
+     -298
     ],
     [
      2415,
@@ -254,15 +346,23 @@
     [
      2415,
      -300
+    ],
+    [
+     2415,
+     -301
+    ],
+    [
+     2415,
+     -302
+    ],
+    [
+     2415,
+     -303
     ]
    ],
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "ItzAmiya",
-    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
-   },
    {
     "name": "steam789113",
     "uuid": "e689e188-c5a8-4dcd-9269-1c3aa0e92b4d"
@@ -284,10 +384,6 @@
     "uuid": "d9dd9578-5779-49d9-9fe0-c9ed6281aa20"
    },
    {
-    "name": "miZu337",
-    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
-   },
-   {
     "name": "lynsey0328",
     "uuid": "74e43f85-cbe8-4d48-9c08-6964ec419dfa"
    },
@@ -306,17 +402,17 @@
    {
     "name": "WZYYDS1",
     "uuid": "1a622d83-7964-484c-8436-a2bf4fd2bf37"
+   },
+   {
+    "name": "oneCorn3562",
+    "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
+   },
+   {
+    "name": "__xiaoliang_",
+    "uuid": "6b846167-bcb1-487a-badc-5a1d35a19861"
    }
   ],
   "trusted": [
-   {
-    "name": "Siudea",
-    "uuid": "b9c50ebd-ea61-441a-a671-c20065f2bb60"
-   },
-   {
-    "name": "Li___z",
-    "uuid": "d24b876d-32c4-407b-a22e-b60a34db6886"
-   },
    {
     "name": "Morind",
     "uuid": "483bc28c-e185-47c7-a568-69a658c05cff"
@@ -334,12 +430,56 @@
     "uuid": "ea51ee63-9583-47da-b5ae-c6f0a389f975"
    },
    {
+    "name": "Truzz666",
+    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+   },
+   {
+    "name": "miZu337",
+    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
+   },
+   {
+    "name": "meng_yuyun",
+    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
+   },
+   {
+    "name": "GreatRZ",
+    "uuid": "3a4ee232-14a5-425b-9bee-2606d517ab29"
+   },
+   {
+    "name": "ChaiTsama",
+    "uuid": "5e6a6f1b-8425-49dd-b1b0-4a526db0d34d"
+   },
+   {
+    "name": "Sepflower",
+    "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
+   },
+   {
+    "name": "CHyinban",
+    "uuid": "e7f741d0-5076-4da9-be25-cd7a608d9676"
+   },
+   {
+    "name": "Migang360",
+    "uuid": "241b93ee-c7dd-4bbe-81c8-2313306c64fc"
+   },
+   {
+    "name": "Siudea",
+    "uuid": "b9c50ebd-ea61-441a-a671-c20065f2bb60"
+   },
+   {
+    "name": "Li___z",
+    "uuid": "d24b876d-32c4-407b-a22e-b60a34db6886"
+   },
+   {
     "name": "oneCorn3562",
     "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
    },
    {
-    "name": "Truzz666",
-    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+    "name": "ItzAmiya",
+    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   },
+   {
+    "name": "__xiaoliang_",
+    "uuid": "6b846167-bcb1-487a-badc-5a1d35a19861"
    },
    {
     "name": "Researcher_Ivan",
@@ -366,36 +506,12 @@
     "uuid": "d1fb1ca3-5c6a-4ad2-8a26-e1a58f146f59"
    },
    {
-    "name": "meng_yuyun",
-    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
-   },
-   {
     "name": "NL733",
     "uuid": "cbd263fa-8eb8-47cf-9b19-01fd02e192ea"
    },
    {
-    "name": "GreatRZ",
-    "uuid": "3a4ee232-14a5-425b-9bee-2606d517ab29"
-   },
-   {
     "name": "Glitch9834",
     "uuid": "ebf47470-2dcc-4ecf-bf66-ecd72a65da27"
-   },
-   {
-    "name": "ChaiTsama",
-    "uuid": "5e6a6f1b-8425-49dd-b1b0-4a526db0d34d"
-   },
-   {
-    "name": "Sepflower",
-    "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
-   },
-   {
-    "name": "CHyinban",
-    "uuid": "e7f741d0-5076-4da9-be25-cd7a608d9676"
-   },
-   {
-    "name": "Migang360",
-    "uuid": "241b93ee-c7dd-4bbe-81c8-2313306c64fc"
    },
    {
     "name": "_TV_Man_",
@@ -428,8 +544,8 @@
     "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    },
    {
-    "name": "minori2846",
-    "uuid": "e2923627-d89c-44c1-83ba-4a0433428b8f"
+    "name": "toritorigames",
+    "uuid": "88ffa076-f7c8-4015-b1dd-766eae76c958"
    }
   ],
   "quarters": [
@@ -466,12 +582,12 @@
     "uuid": "193635ff-02a5-41b1-a960-64766b601fcf"
    },
    {
-    "name": "欢迎博士来到Rhodes_Island",
-    "uuid": "79e3d722-74d1-4104-a340-c080b8471873"
-   },
-   {
     "name": "高速熔炉",
     "uuid": "01640049-ec05-41f0-86b5-0ae0b6b280d1"
+   },
+   {
+    "name": "欢迎博士来到Rhodes_Island",
+    "uuid": "79e3d722-74d1-4104-a340-c080b8471873"
    }
   ],
   "ranks": {
@@ -481,27 +597,30 @@
      "uuid": "ca863eb9-fabd-4d43-adb5-99a75714b47a"
     },
     {
-     "name": "miZu337",
-     "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
-    },
-    {
      "name": "Stardust_Your",
      "uuid": "8035a698-9352-4adb-9fee-037d55e5b092"
+    },
+    {
+     "name": "oneCorn3562",
+     "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
     }
    ],
    "Builder": [
     {
      "name": "Hanry1",
      "uuid": "ca863eb9-fabd-4d43-adb5-99a75714b47a"
+    },
+    {
+     "name": "oneCorn3562",
+     "uuid": "1b162fa2-6d7a-4c35-bf54-4b96e8ac3ebc"
+    },
+    {
+     "name": "__xiaoliang_",
+     "uuid": "6b846167-bcb1-487a-badc-5a1d35a19861"
     }
    ],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "miZu337",
-     "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

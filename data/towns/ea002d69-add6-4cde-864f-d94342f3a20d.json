@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
-  "name": "Wagner",
+  "name": "Vault",
   "uuid": "ea002d69-add6-4cde-864f-d94342f3a20d",
   "board": "/town set board [msg]",
   "founder": "Erzziy",
@@ -12,12 +12,12 @@
    "uuid": "13dd75ac-3b32-4506-bb86-974d852df8ad"
   },
   "nation": {
-   "name": "Soviet_Union",
-   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
+   "name": "Russia",
+   "uuid": "1f81f523-7318-468d-9fc2-9ba4c71442e4"
   },
   "timestamps": {
    "registered": 1786931205792,
-   "joinedNationAt": 1786931675197,
+   "joinedNationAt": 1793659008445,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 25.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -162,9 +162,18 @@
    {
     "name": "Erzziy",
     "uuid": "13dd75ac-3b32-4506-bb86-974d852df8ad"
+   },
+   {
+    "name": "euez",
+    "uuid": "ade9fe9e-99cd-461d-ae5b-d49f217bb68b"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "euez",
+    "uuid": "ade9fe9e-99cd-461d-ae5b-d49f217bb68b"
+   }
+  ],
   "outlaws": [
    {
     "name": "Applebees2013",
@@ -181,7 +190,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "euez",
+     "uuid": "ade9fe9e-99cd-461d-ae5b-d49f217bb68b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

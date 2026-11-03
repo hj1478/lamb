@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Lagunica",
   "uuid": "f85f2ccf-19a9-41fb-8297-38864904923e",
@@ -12,37 +12,37 @@
    "uuid": "55e685c8-3ce5-409c-9d61-d4f21504768a"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
    "registered": 1793470562282,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793545890126,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,18 @@
     473
    ],
    "townBlocks": [
+    [
+     689,
+     473
+    ],
+    [
+     687,
+     473
+    ],
+    [
+     688,
+     472
+    ],
     [
      688,
      473

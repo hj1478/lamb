@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Edraria",
   "uuid": "dd9b9f61-7f55-4907-99c7-c6364af05974",
@@ -12,12 +12,12 @@
    "uuid": "fd4f38b1-3a20-4d94-9a98-85258857f952"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Amazon",
+   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
   },
   "timestamps": {
    "registered": 1791583899955,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793639883221,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 2.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,12 +100,24 @@
      729
     ],
     [
+     -1711,
+     728
+    ],
+    [
      -1710,
      730
     ],
     [
      -1711,
+     727
+    ],
+    [
+     -1711,
      730
+    ],
+    [
+     -1710,
+     731
     ],
     [
      -1711,
@@ -113,11 +125,35 @@
     ],
     [
      -1712,
+     728
+    ],
+    [
+     -1712,
      729
     ],
     [
      -1712,
      730
+    ],
+    [
+     -1712,
+     731
+    ],
+    [
+     -1710,
+     728
+    ],
+    [
+     -1712,
+     727
+    ],
+    [
+     -1713,
+     729
+    ],
+    [
+     -1713,
+     728
     ]
    ],
    "worlds": {}
@@ -133,7 +169,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

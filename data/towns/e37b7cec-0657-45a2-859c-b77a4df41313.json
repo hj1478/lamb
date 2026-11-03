@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "RatVille",
   "uuid": "e37b7cec-0657-45a2-859c-b77a4df41313",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "theratcoonman",
-   "uuid": "01b81ff5-4491-4015-aaaa-3ece48e0dded"
+   "name": "NPC2",
+   "uuid": "f64fe089-06e3-2094-90ea-ebc2666c4069"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777851860660,
-   "joinedNationAt": 1788138891534,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793700002932
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 23,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -188,8 +188,8 @@
   },
   "residents": [
    {
-    "name": "theratcoonman",
-    "uuid": "01b81ff5-4491-4015-aaaa-3ece48e0dded"
+    "name": "NPC2",
+    "uuid": "f64fe089-06e3-2094-90ea-ebc2666c4069"
    }
   ],
   "trusted": [],

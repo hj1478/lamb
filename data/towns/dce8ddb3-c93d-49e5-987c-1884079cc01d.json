@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Ng",
   "uuid": "dce8ddb3-c93d-49e5-987c-1884079cc01d",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Wayneing",
-   "uuid": "084d37dd-6cf8-4ee7-8222-6611af784c8d"
+   "name": "NPC25",
+   "uuid": "ddc99753-4bf4-20df-a14a-d538bec19c33"
   },
   "nation": {
-   "name": "Italy",
-   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790035298386,
-   "joinedNationAt": 1790035330436,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793700001613
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Wayneing",
-    "uuid": "084d37dd-6cf8-4ee7-8222-6611af784c8d"
+    "name": "NPC25",
+    "uuid": "ddc99753-4bf4-20df-a14a-d538bec19c33"
    }
   ],
   "trusted": [

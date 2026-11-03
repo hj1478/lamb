@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Zabljak",
   "uuid": "e939de12-a665-4080-b1ac-aa4b97dd76a0",
@@ -12,37 +12,37 @@
    "uuid": "4de7985c-9c42-435b-8c85-1a9df7ef4ee9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1793187580839,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793459930877,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
+   "nationBonus": 100,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,43 @@
    "townBlocks": [
     [
      425,
+     -527
+    ],
+    [
+     425,
+     -526
+    ],
+    [
+     426,
+     -526
+    ],
+    [
+     424,
      -525
+    ],
+    [
+     426,
+     -525
+    ],
+    [
+     424,
+     -526
+    ],
+    [
+     426,
+     -524
+    ],
+    [
+     424,
+     -524
+    ],
+    [
+     425,
+     -525
+    ],
+    [
+     425,
+     -524
     ]
    ],
    "worlds": {}
@@ -110,6 +146,10 @@
    {
     "name": "Nitinata12",
     "uuid": "5ef5b091-b7de-4b3a-a2c3-a1b2a5c1319a"
+   },
+   {
+    "name": "ChessRook123",
+    "uuid": "9c0b9bcb-d425-4807-b102-a82ceaaecf8d"
    }
   ],
   "trusted": [],
@@ -126,6 +166,10 @@
     {
      "name": "blauerfroschly",
      "uuid": "75043def-1793-4ccf-9b48-5f84ec9d685c"
+    },
+    {
+     "name": "ChessRook123",
+     "uuid": "9c0b9bcb-d425-4807-b102-a82ceaaecf8d"
     }
    ],
    "Recruiter": [],
@@ -133,7 +177,12 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "ChessRook123",
+     "uuid": "9c0b9bcb-d425-4807-b102-a82ceaaecf8d"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

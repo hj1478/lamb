@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Florianopolis",
   "uuid": "ee5419f5-d38b-4a7e-8c25-91a56cdfd764",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "arroz_com_manga",
-   "uuid": "194ddcef-0276-45c5-b623-64e86267fa7d"
+   "name": "NPC79",
+   "uuid": "4e344bfc-fcd6-2097-ab13-20da3c62e997"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784165288839,
-   "joinedNationAt": 1784165383900,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793613602810
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "arroz_com_manga",
-    "uuid": "194ddcef-0276-45c5-b623-64e86267fa7d"
+    "name": "NPC79",
+    "uuid": "4e344bfc-fcd6-2097-ab13-20da3c62e997"
    }
   ],
   "trusted": [],

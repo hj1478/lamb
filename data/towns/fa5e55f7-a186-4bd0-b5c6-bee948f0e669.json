@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "BigKirkTwo",
   "uuid": "fa5e55f7-a186-4bd0-b5c6-bee948f0e669",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 34,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 11,
+   "numTrusted": 18,
    "numOutlaws": 2,
-   "balance": 0.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "explosion": true,
+    "fire": true,
     "mobs": false
    }
   },
@@ -93,13 +93,49 @@
    "townBlocks": [
     [
      -1795,
+     -756
+    ],
+    [
+     -1796,
+     -761
+    ],
+    [
+     -1797,
+     -761
+    ],
+    [
+     -1795,
+     -757
+    ],
+    [
+     -1796,
+     -760
+    ],
+    [
+     -1797,
+     -762
+    ],
+    [
+     -1795,
      -754
+    ],
+    [
+     -1796,
+     -763
     ],
     [
      -1795,
      -755
     ],
     [
+     -1796,
+     -762
+    ],
+    [
+     -1796,
+     -757
+    ],
+    [
      -1795,
      -753
     ],
@@ -108,24 +144,88 @@
      -753
     ],
     [
+     -1796,
+     -756
+    ],
+    [
      -1794,
      -754
     ],
     [
+     -1796,
+     -759
+    ],
+    [
      -1794,
      -755
+    ],
+    [
+     -1796,
+     -758
+    ],
+    [
+     -1797,
+     -760
+    ],
+    [
+     -1795,
+     -762
+    ],
+    [
+     -1795,
+     -760
+    ],
+    [
+     -1795,
+     -761
+    ],
+    [
+     -1795,
+     -758
+    ],
+    [
+     -1795,
+     -759
+    ],
+    [
+     -1793,
+     -757
+    ],
+    [
+     -1793,
+     -758
     ],
     [
      -1796,
      -753
     ],
     [
+     -1794,
+     -756
+    ],
+    [
+     -1794,
+     -757
+    ],
+    [
      -1796,
      -755
     ],
     [
+     -1794,
+     -758
+    ],
+    [
      -1796,
      -754
+    ],
+    [
+     -1794,
+     -759
+    ],
+    [
+     -1794,
+     -760
     ]
    ],
    "worlds": {}
@@ -138,24 +238,16 @@
   ],
   "trusted": [
    {
-    "name": "nahember",
-    "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
-   },
-   {
-    "name": "19862",
-    "uuid": "d0bd89bd-88ae-48cc-9cca-2e57a9b56aba"
-   },
-   {
     "name": "me20ty",
     "uuid": "4915abdf-68d8-49cf-86a0-1d8b1fefcb9d"
    },
    {
-    "name": "323Two",
-    "uuid": "f686a74b-311e-4f0c-a9be-4cb7f41b8f4b"
+    "name": "elsi1e",
+    "uuid": "eb11578e-7a96-4043-a59b-3dec9416dcef"
    },
    {
-    "name": "memes169",
-    "uuid": "2c8a2e87-e5a5-437f-8671-da596e501e19"
+    "name": "323Two",
+    "uuid": "f686a74b-311e-4f0c-a9be-4cb7f41b8f4b"
    },
    {
     "name": "Sneakyavi",
@@ -166,12 +258,44 @@
     "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
    },
    {
-    "name": "DuzyB_",
-    "uuid": "76e1e43e-4ffe-48a1-af6a-912d30441578"
+    "name": "Sheikh_Batu_Khan",
+    "uuid": "b32eab15-0123-4bb8-b03a-8617a2d078b7"
    },
    {
     "name": "Saltiestspinach",
     "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
+   },
+   {
+    "name": "Bon_Kranch",
+    "uuid": "4ddf656a-4ead-41ae-bc24-6fb710571a7c"
+   },
+   {
+    "name": "7ember",
+    "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
+   },
+   {
+    "name": "19862",
+    "uuid": "d0bd89bd-88ae-48cc-9cca-2e57a9b56aba"
+   },
+   {
+    "name": "TheLegend1st",
+    "uuid": "26f3d72b-00e0-416a-a142-d1c50730da71"
+   },
+   {
+    "name": "memes169",
+    "uuid": "2c8a2e87-e5a5-437f-8671-da596e501e19"
+   },
+   {
+    "name": "limao_mao",
+    "uuid": "1df4938b-fed2-4615-b094-7acb97238bdc"
+   },
+   {
+    "name": "zero_oil",
+    "uuid": "16625db2-07ee-4655-b494-04cad39b0817"
+   },
+   {
+    "name": "DuzyB_",
+    "uuid": "76e1e43e-4ffe-48a1-af6a-912d30441578"
    },
    {
     "name": "Panth_r",
@@ -180,6 +304,10 @@
    {
     "name": "Dishonesty",
     "uuid": "bd313b6f-ff4a-440e-affa-ffe9c5706346"
+   },
+   {
+    "name": "CookiesByGeorge",
+    "uuid": "9d1288b9-3633-4799-b1ed-41fca4b62019"
    }
   ],
   "outlaws": [

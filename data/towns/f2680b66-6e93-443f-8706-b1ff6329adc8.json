@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Guyane_Francaise",
   "uuid": "f2680b66-6e93-443f-8706-b1ff6329adc8",
@@ -41,8 +41,8 @@
    "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 90.0,
+   "numOutlaws": 3,
+   "balance": 332.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,6 +100,10 @@
      376
     ],
     [
+     -1213,
+     379
+    ],
+    [
      -1212,
      377
     ],
@@ -109,15 +113,11 @@
     ],
     [
      -1213,
-     379
+     376
     ],
     [
      -1212,
      378
-    ],
-    [
-     -1213,
-     376
     ],
     [
      -1213,
@@ -153,7 +153,20 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "_Blands",
+    "uuid": "27b2330d-7312-4cbc-ac7f-0c6659a65f04"
+   },
+   {
+    "name": "AATISH30",
+    "uuid": "fea735c9-f9e2-4ffd-b396-1ecb6a2bfa40"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -200,12 +213,20 @@
     {
      "name": "kuboli",
      "uuid": "6f56094d-c627-48fb-b0e5-9c3e8f8265a4"
+    },
+    {
+     "name": "Talrom57",
+     "uuid": "9c2387ed-9636-4596-9a5b-25c61d5bcfe6"
     }
    ],
    "Treasurer": [
     {
      "name": "kuboli",
      "uuid": "6f56094d-c627-48fb-b0e5-9c3e8f8265a4"
+    },
+    {
+     "name": "Talrom57",
+     "uuid": "9c2387ed-9636-4596-9a5b-25c61d5bcfe6"
     }
    ],
    "Realtor": [
@@ -218,10 +239,6 @@
     {
      "name": "kuboli",
      "uuid": "6f56094d-c627-48fb-b0e5-9c3e8f8265a4"
-    },
-    {
-     "name": "Talrom57",
-     "uuid": "9c2387ed-9636-4596-9a5b-25c61d5bcfe6"
     }
    ]
   },

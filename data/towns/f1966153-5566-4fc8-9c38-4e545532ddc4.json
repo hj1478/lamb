@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "HHDPRG",
   "uuid": "f1966153-5566-4fc8-9c38-4e545532ddc4",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "jomeister67",
-   "uuid": "992df471-5118-4dcc-8f49-7d11c117506f"
+   "name": "NPC14",
+   "uuid": "1620e40a-1bba-2000-a3f0-dd7414aabebc"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789797669718,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793613601323
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 6.0,
@@ -60,21 +60,21 @@
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,31 +112,17 @@
   },
   "residents": [
    {
-    "name": "jomeister67",
-    "uuid": "992df471-5118-4dcc-8f49-7d11c117506f"
-   },
-   {
-    "name": "moos_joos",
-    "uuid": "a3bb151d-a67c-472d-8092-0705fceb8476"
+    "name": "NPC14",
+    "uuid": "1620e40a-1bba-2000-a3f0-dd7414aabebc"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "moos_joos",
-     "uuid": "a3bb151d-a67c-472d-8092-0705fceb8476"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "moos_joos",
-     "uuid": "a3bb151d-a67c-472d-8092-0705fceb8476"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

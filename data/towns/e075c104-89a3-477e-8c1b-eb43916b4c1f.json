@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-11-03T14:26:38Z",
+ "data": {
+  "name": "PLC",
+  "uuid": "e075c104-89a3-477e-8c1b-eb43916b4c1f",
+  "board": "/town set board [msg]",
+  "founder": "Jyr1",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Jyr1",
+   "uuid": "997907fc-ee74-40d5-a07d-0d449320bbee"
+  },
+  "nation": {
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+  },
+  "timestamps": {
+   "registered": 1793639111106,
+   "joinedNationAt": 1793639122693,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 5778.273978941882,
+    "y": 68.0,
+    "z": -8435.741305312678,
+    "pitch": 20.703442,
+    "yaw": -106.39761
+   },
+   "homeBlock": [
+    361,
+    -528
+   ],
+   "townBlocks": [
+    [
+     361,
+     -528
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Jyr1",
+    "uuid": "997907fc-ee74-40d5-a07d-0d449320bbee"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "TheMagicTom",
+    "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+   },
+   {
+    "name": "Huxf",
+    "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

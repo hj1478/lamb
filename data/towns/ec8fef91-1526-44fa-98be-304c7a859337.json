@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "SwightPower",
   "uuid": "ec8fef91-1526-44fa-98be-304c7a859337",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "m3nti0n_1t",
-   "uuid": "1c41070b-53ce-4562-9271-9f1bb1aafaf5"
+   "name": "NPC35",
+   "uuid": "9a2604c5-a46c-207f-b5f5-e36ccb7ab26f"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789951386488,
-   "joinedNationAt": 1789951389552,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793613602594
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,13 +100,13 @@
   },
   "residents": [
    {
-    "name": "m3nti0n_1t",
-    "uuid": "1c41070b-53ce-4562-9271-9f1bb1aafaf5"
+    "name": "NPC35",
+    "uuid": "9a2604c5-a46c-207f-b5f5-e36ccb7ab26f"
    }
   ],
   "trusted": [
    {
-    "name": "nahember",
+    "name": "7ember",
     "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
    },
    {

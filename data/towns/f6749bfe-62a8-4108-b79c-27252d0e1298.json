@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Adam_Lanza",
   "uuid": "f6749bfe-62a8-4108-b79c-27252d0e1298",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "imabitdumbwut",
-   "uuid": "d19672e2-5770-4c32-8e53-0ccc6e9d79c5"
+   "name": "NPC122",
+   "uuid": "4067ea0b-dee0-20d1-99ec-14d0d2e57223"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1787610639865,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793613600679
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -188,8 +188,8 @@
   },
   "residents": [
    {
-    "name": "imabitdumbwut",
-    "uuid": "d19672e2-5770-4c32-8e53-0ccc6e9d79c5"
+    "name": "NPC122",
+    "uuid": "4067ea0b-dee0-20d1-99ec-14d0d2e57223"
    }
   ],
   "trusted": [],

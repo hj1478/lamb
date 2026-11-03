@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
-  "name": "Niamey",
+  "name": "Zinder",
   "uuid": "f337cdb9-27b8-484a-b373-d75c2346ca3c",
-  "board": "In Memory of Watergod",
+  "board": "We love The Niger River",
   "founder": "32wakawak",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "waav",
-   "uuid": "a67c67e7-0959-4646-a69b-25fa6adc50bf"
+   "name": "Shanee2",
+   "uuid": "aa90a994-967d-4a7c-bbbf-5c4b567e104e"
   },
   "nation": {
-   "name": "Aba",
-   "uuid": "138a2f97-8a4e-4c33-84fb-b101161ef99f"
+   "name": "Niger",
+   "uuid": "f643556e-08d8-4527-840c-3e587a16773b"
   },
   "timestamps": {
    "registered": 1785696947141,
-   "joinedNationAt": 1786516984247,
+   "joinedNationAt": 1793281759930,
    "ruinedAt": null
   },
   "status": {
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 37,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "nationBonus": 10,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -244,32 +244,45 @@
   },
   "residents": [
    {
-    "name": "32JOX",
-    "uuid": "507c0cde-e24c-4fc5-9bc7-9675d9c616c8"
+    "name": "Shanee2",
+    "uuid": "aa90a994-967d-4a7c-bbbf-5c4b567e104e"
    },
    {
-    "name": "waav",
-    "uuid": "a67c67e7-0959-4646-a69b-25fa6adc50bf"
+    "name": "Mechafold",
+    "uuid": "9d86c102-3af6-4327-869e-f79082f71796"
    },
+   {
+    "name": "Itz_legacyX",
+    "uuid": "eeb72d77-3711-4774-b466-68415edba9a5"
+   },
+   {
+    "name": "octopir",
+    "uuid": "20799295-be9c-4111-a962-5c659e20d297"
+   }
+  ],
+  "trusted": [
    {
     "name": "Acerse",
     "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
    }
   ],
-  "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Elegant Suite",
+    "uuid": "cef34170-86b2-4e63-9c98-0981612d8037"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "cde2e553-4361-488c-a8a5-0d5fc0c7688c"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "8cc5fa36-a84a-42a5-b49f-84db0d1ce960"
+   }
+  ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "32JOX",
-     "uuid": "507c0cde-e24c-4fc5-9bc7-9675d9c616c8"
-    },
-    {
-     "name": "waav",
-     "uuid": "a67c67e7-0959-4646-a69b-25fa6adc50bf"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

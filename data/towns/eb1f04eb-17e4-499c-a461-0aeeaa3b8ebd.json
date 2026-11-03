@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "New_Aegis",
   "uuid": "eb1f04eb-17e4-499c-a461-0aeeaa3b8ebd",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "predatorjacob23",
-   "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
+   "name": "NPC137",
+   "uuid": "8d654261-e639-2059-a26c-5387f8751b98"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793268472024,
-   "joinedNationAt": 1793268503307,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793697574935
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -94,6 +94,14 @@
     [
      2793,
      1234
+    ],
+    [
+     2794,
+     1234
+    ],
+    [
+     2792,
+     1234
     ]
    ],
    "worlds": {}
@@ -102,6 +110,10 @@
    {
     "name": "predatorjacob23",
     "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
+   },
+   {
+    "name": "NPC137",
+    "uuid": "8d654261-e639-2059-a26c-5387f8751b98"
    }
   ],
   "trusted": [

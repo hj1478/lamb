@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Amed",
   "uuid": "e707580e-6997-4699-b3f5-9fe8cda9db4f",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 51,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 122.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14119.627760659434,
+    "x": 14119.45287670715,
     "y": 88.0,
-    "z": -6504.085341063137,
-    "pitch": 0.53756285,
-    "yaw": -179.99365
+    "z": -6521.703503441434,
+    "pitch": 37.0646,
+    "yaw": -0.89868164
    },
    "homeBlock": [
     882,
-    -407
+    -408
    ],
    "townBlocks": [
     [
@@ -100,11 +100,55 @@
      -408
     ],
     [
-     882,
+     885,
      -411
     ],
     [
      885,
+     -410
+    ],
+    [
+     885,
+     -407
+    ],
+    [
+     883,
+     -413
+    ],
+    [
+     883,
+     -411
+    ],
+    [
+     883,
+     -412
+    ],
+    [
+     883,
+     -409
+    ],
+    [
+     883,
+     -410
+    ],
+    [
+     883,
+     -407
+    ],
+    [
+     883,
+     -408
+    ],
+    [
+     887,
+     -409
+    ],
+    [
+     882,
+     -413
+    ],
+    [
+     882,
      -411
     ],
     [
@@ -116,8 +160,8 @@
      -412
     ],
     [
-     885,
-     -410
+     886,
+     -407
     ],
     [
      882,
@@ -132,20 +176,28 @@
      -407
     ],
     [
-     885,
-     -407
-    ],
-    [
      882,
      -408
     ],
     [
      886,
+     -414
+    ],
+    [
+     886,
+     -413
+    ],
+    [
+     886,
      -410
     ],
     [
      884,
      -407
+    ],
+    [
+     886,
+     -409
     ],
     [
      884,
@@ -172,14 +224,6 @@
      -410
     ],
     [
-     883,
-     -411
-    ],
-    [
-     883,
-     -412
-    ],
-    [
      881,
      -412
     ],
@@ -188,31 +232,23 @@
      -407
     ],
     [
-     883,
-     -409
-    ],
-    [
-     883,
-     -410
-    ],
-    [
      881,
      -409
-    ],
-    [
-     883,
-     -407
     ],
     [
      881,
      -408
     ],
     [
-     883,
-     -408
+     880,
+     -411
     ],
     [
      884,
+     -410
+    ],
+    [
+     880,
      -410
     ],
     [
@@ -220,12 +256,44 @@
      -411
     ],
     [
+     880,
+     -409
+    ],
+    [
      884,
      -412
+    ],
+    [
+     880,
+     -408
+    ],
+    [
+     884,
+     -413
+    ],
+    [
+     880,
+     -407
+    ],
+    [
+     884,
+     -414
+    ],
+    [
+     885,
+     -413
     ],
     [
      885,
      -412
+    ],
+    [
+     880,
+     -412
+    ],
+    [
+     885,
+     -414
     ]
    ],
    "worlds": {}

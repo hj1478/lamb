@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-11-03T14:26:38Z",
+ "data": {
+  "name": "Newsumr",
+  "uuid": "782593ba-127a-48cb-97d1-f2d993dd6714",
+  "board": "/town set board [msg]",
+  "founder": "bdk111",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC136",
+   "uuid": "7696148e-ecb7-202e-ae5b-b083c5aea62d"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793674975053,
+   "joinedNationAt": null,
+   "ruinedAt": 1793677006086
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 16502.666134061576,
+    "y": 72.0,
+    "z": -3668.628100752273,
+    "pitch": 28.950144,
+    "yaw": -50.997925
+   },
+   "homeBlock": [
+    1031,
+    -230
+   ],
+   "townBlocks": [
+    [
+     1031,
+     -230
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC136",
+    "uuid": "7696148e-ecb7-202e-ae5b-b083c5aea62d"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "nachoman267",
+    "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
+   },
+   {
+    "name": "GameSquire76",
+    "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

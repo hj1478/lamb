@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Lahore",
   "uuid": "efe29a35-861a-4802-8c06-7b2021474bf9",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FearCop",
-   "uuid": "aa29c594-6f8a-4d9a-ac95-3a1f77657913"
+   "name": "NPC72",
+   "uuid": "adf35823-72c5-20ba-9e9c-1b17439c857a"
   },
   "nation": {
-   "name": "Afghanistan",
-   "uuid": "eb72737c-9c4c-4134-9c58-db36292a449e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779078075757,
-   "joinedNationAt": 1779078086105,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793527204580
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -384,8 +384,8 @@
   },
   "residents": [
    {
-    "name": "FearCop",
-    "uuid": "aa29c594-6f8a-4d9a-ac95-3a1f77657913"
+    "name": "NPC72",
+    "uuid": "adf35823-72c5-20ba-9e9c-1b17439c857a"
    }
   ],
   "trusted": [

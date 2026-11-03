@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Rabat",
   "uuid": "e59d105d-64b1-4778-ada3-a18dfea2e1d3",
-  "board": "/town set board [msg]",
+  "board": "The Actual Capital of the non-existent Morocco",
   "founder": "That1Noobie",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LameDingus",
-   "uuid": "b75bf9fa-9501-4915-b113-355cb1836884"
+   "name": "Vetreex",
+   "uuid": "92ca6425-0e27-4f71-8cac-d850fd6ae098"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": "Spain",
+   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
   },
   "timestamps": {
    "registered": 1784992580771,
-   "joinedNationAt": 1785103406724,
+   "joinedNationAt": 1793456373801,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 2,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2380.720445555784,
-    "y": 63.0,
-    "z": -4769.81522276325,
-    "pitch": 77.70009,
-    "yaw": -58.59906
+    "x": -2382.298041072262,
+    "y": 64.0,
+    "z": -4757.512003360744,
+    "pitch": 4.8684874,
+    "yaw": -177.47757
    },
    "homeBlock": [
     -149,
-    -299
+    -298
    ],
    "townBlocks": [
     [
@@ -112,24 +112,15 @@
   },
   "residents": [
    {
-    "name": "LameDingus",
-    "uuid": "b75bf9fa-9501-4915-b113-355cb1836884"
-   },
-   {
     "name": "Nurdinn",
     "uuid": "de514510-aefe-4c08-804a-0965b70243b6"
-   }
-  ],
-  "trusted": [
-   {
-    "name": "RObby6996",
-    "uuid": "c48f9613-7b37-4e59-8ae3-12feaf04e4fb"
    },
    {
-    "name": "LassqL",
-    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
+    "name": "Vetreex",
+    "uuid": "92ca6425-0e27-4f71-8cac-d850fd6ae098"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

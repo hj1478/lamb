@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Cove",
   "uuid": "e3842be8-4575-4a4e-b9ad-9654a4b42cd2",
@@ -42,7 +42,7 @@
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 38.0,
+   "balance": 58.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -25144.23750001192,
-    "y": 63.0,
-    "z": -30608.30000001192,
-    "pitch": 40.95004,
-    "yaw": -96.84781
+    "x": -25143.843125526248,
+    "y": 64.0,
+    "z": -30610.30000001192,
+    "pitch": 10.2000475,
+    "yaw": -175.74788
    },
    "homeBlock": [
     -1572,
@@ -149,7 +149,12 @@
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "debatablycheesy",
+     "uuid": "5967cf4b-a590-466d-b7be-63ff837fe330"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

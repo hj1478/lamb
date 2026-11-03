@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Indianapolis",
   "uuid": "e1111d02-b99c-4338-927f-495d9bb4e468",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DecisiveDolphin",
-   "uuid": "444453c8-507f-4926-855a-a740ec61c0ae"
+   "name": "DoNotDrinkPee",
+   "uuid": "d82b7559-4170-48f9-9cc4-eb33904d7dca"
   },
   "nation": {
    "name": "America",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 43,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 41.0,
    "forSalePrice": null
   },
   "perms": {
@@ -272,11 +272,20 @@
     "uuid": "444453c8-507f-4926-855a-a740ec61c0ae"
    },
    {
+    "name": "BigTubbyBoy",
+    "uuid": "58c8842d-ef0b-4acb-91e4-44cf35c43fa6"
+   },
+   {
     "name": "DoNotDrinkPee",
     "uuid": "d82b7559-4170-48f9-9cc4-eb33904d7dca"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "BigTubbyBoy",
+    "uuid": "58c8842d-ef0b-4acb-91e4-44cf35c43fa6"
+   }
+  ],
   "outlaws": [
    {
     "name": "Kasana2005",
@@ -285,7 +294,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BigTubbyBoy",
+     "uuid": "58c8842d-ef0b-4acb-91e4-44cf35c43fa6"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Place",
   "uuid": "ee02055e-6528-405c-a3bc-743b55494dd0",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LotaPandaPoo",
-   "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
+   "name": "NPC126",
+   "uuid": "00da1054-1e1b-20d5-a98f-968ab1f4a55d"
   },
   "nation": {
-   "name": "USA",
-   "uuid": "bac85af0-153a-4cd9-bce8-23cc08c92585"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777673779184,
-   "joinedNationAt": 1785168136821,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793613606022
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 1,
    "numOutlaws": 5,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -420,15 +420,11 @@
   },
   "residents": [
    {
-    "name": "LotaPandaPoo",
-    "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
+    "name": "NPC126",
+    "uuid": "00da1054-1e1b-20d5-a98f-968ab1f4a55d"
    }
   ],
   "trusted": [
-   {
-    "name": "LotaPandaPoo",
-    "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-   },
    {
     "name": "El_Minus",
     "uuid": "c6398d83-2d78-4548-bc97-d1e5f6f7eb76"
@@ -491,54 +487,14 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Police": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "LotaPandaPoo",
-     "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

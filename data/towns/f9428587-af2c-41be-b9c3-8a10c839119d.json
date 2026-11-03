@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
-  "name": "Jewtopia",
+  "name": "New_Reykjavik",
   "uuid": "f9428587-af2c-41be-b9c3-8a10c839119d",
-  "board": "Armenian Singapore of the Middle East",
+  "board": "Welcome to Iceland bradar",
   "founder": "coorslightyear",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "coorslightyear",
-   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+   "name": "Oscario01",
+   "uuid": "2bd5c449-0d52-4da2-bfb3-f7e3269a7a9d"
   },
   "nation": {
-   "name": "Bagratid",
-   "uuid": "11012001-f00b-42e4-851d-d816b278b9a3"
+   "name": "Sumer",
+   "uuid": "bfb0b0ce-26c6-492e-a161-4a3f86079da8"
   },
   "timestamps": {
    "registered": 1792773344215,
-   "joinedNationAt": 1792844269448,
+   "joinedNationAt": 1793115918728,
    "ruinedAt": null
   },
   "status": {
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 58,
-   "maxTownBlocks": 58,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 4,
-   "numTrusted": 1,
+   "nationBonus": 60,
+   "numResidents": 5,
+   "numTrusted": 4,
    "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17730.69999998808,
+    "x": 17599.462685689723,
     "y": 63.0,
-    "z": -3202.304226788337,
-    "pitch": -0.80919456,
-    "yaw": 125.23189
+    "z": -3187.44770351689,
+    "pitch": 9.449997,
+    "yaw": -90.75745
    },
    "homeBlock": [
-    1108,
-    -201
+    1099,
+    -200
    ],
    "townBlocks": [
     [
@@ -120,11 +120,11 @@
      -204
     ],
     [
-     1106,
+     1104,
      -197
     ],
     [
-     1104,
+     1106,
      -197
     ],
     [
@@ -160,12 +160,12 @@
      -200
     ],
     [
-     1101,
-     -201
-    ],
-    [
      1099,
      -200
+    ],
+    [
+     1101,
+     -201
     ],
     [
      1104,
@@ -178,6 +178,14 @@
     [
      1104,
      -198
+    ],
+    [
+     1108,
+     -204
+    ],
+    [
+     1108,
+     -203
     ],
     [
      1108,
@@ -250,6 +258,10 @@
     [
      1107,
      -199
+    ],
+    [
+     1103,
+     -202
     ],
     [
      1107,
@@ -328,10 +340,6 @@
   },
   "residents": [
    {
-    "name": "coorslightyear",
-    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
-   },
-   {
     "name": "TheUltraSigma",
     "uuid": "ac301828-8a36-48f2-b85a-9e43ae26bea9"
    },
@@ -342,12 +350,32 @@
    {
     "name": "SluckmeFlashback",
     "uuid": "2ee6e94c-607a-4223-82bc-b62d2cfa906f"
+   },
+   {
+    "name": "Oscario01",
+    "uuid": "2bd5c449-0d52-4da2-bfb3-f7e3269a7a9d"
+   },
+   {
+    "name": "ItzVexenn",
+    "uuid": "a8f3aa9d-ad1d-4f10-8f8c-007d6d9951e3"
    }
   ],
   "trusted": [
    {
-    "name": "Tldigi",
-    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+    "name": "Andakira",
+    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
+   {
+    "name": "Evotilk22",
+    "uuid": "8cb86ecb-a4a8-496e-9a30-d75f6887f6b9"
+   },
+   {
+    "name": "Mine_bee",
+    "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
+   },
+   {
+    "name": "yurko765",
+    "uuid": "3459989e-8cd6-4f19-a5df-2209b37cbd3f"
    }
   ],
   "outlaws": [
@@ -364,7 +392,12 @@
     "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Elegant Flat",
+    "uuid": "7f27ff50-b6c1-453c-8ee9-69d30eb40c68"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Summerside",
   "uuid": "fa4b6936-623f-4d66-8759-37f0781ebddb",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,44 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -24638.120076593088,
-    "y": 65.0,
-    "z": -10777.473441725402,
-    "pitch": 6.9000077,
-    "yaw": 60.233765
+    "x": -24625.13134690267,
+    "y": 58.0,
+    "z": -10755.271517084595,
+    "pitch": 16.163649,
+    "yaw": -145.13818
    },
    "homeBlock": [
     -1540,
-    -674
+    -673
    ],
    "townBlocks": [
     [
      -1540,
+     -672
+    ],
+    [
+     -1540,
      -674
+    ],
+    [
+     -1540,
+     -673
+    ],
+    [
+     -1539,
+     -673
+    ],
+    [
+     -1539,
+     -672
+    ],
+    [
+     -1541,
+     -673
+    ],
+    [
+     -1541,
+     -672
     ]
    ],
    "worlds": {}
@@ -106,6 +130,10 @@
    {
     "name": "Twisted_Dwarf",
     "uuid": "81730c9a-10e2-4543-a1d1-6e185b5f586c"
+   },
+   {
+    "name": "thekid900",
+    "uuid": "09b092ce-54af-4ece-afa2-f2c7af32008b"
    }
   ],
   "trusted": [],
@@ -114,8 +142,16 @@
   "ranks": {
    "Councillor": [
     {
+     "name": "Brightship",
+     "uuid": "9491b6be-5570-44b8-a5cc-e7d7fff3005d"
+    },
+    {
      "name": "Twisted_Dwarf",
      "uuid": "81730c9a-10e2-4543-a1d1-6e185b5f586c"
+    },
+    {
+     "name": "thekid900",
+     "uuid": "09b092ce-54af-4ece-afa2-f2c7af32008b"
     }
    ],
    "Builder": [],

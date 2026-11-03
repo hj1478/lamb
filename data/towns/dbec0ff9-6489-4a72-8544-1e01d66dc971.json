@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Patford_Islay",
   "uuid": "dbec0ff9-6489-4a72-8544-1e01d66dc971",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 139,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 3,
    "numTrusted": 5,
-   "numOutlaws": 3,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -652,14 +652,6 @@
   },
   "residents": [
    {
-    "name": "ice4lord",
-    "uuid": "9e5c5c6a-c60e-4bc9-95c9-7c1bef018683"
-   },
-   {
-    "name": "water4lord",
-    "uuid": "60f30712-ac5f-4b79-80ac-9dfae5684226"
-   },
-   {
     "name": "Jxebie",
     "uuid": "aee7b61c-3326-436c-a5de-aaf1f132484b"
    },
@@ -706,6 +698,10 @@
    {
     "name": "DuckyQuacking",
     "uuid": "ed68af74-9d18-4e32-b692-84eae7353df7"
+   },
+   {
+    "name": "Samisol",
+    "uuid": "ec827256-4c0e-4609-b0b2-4ef820d392fe"
    }
   ],
   "quarters": [

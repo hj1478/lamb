@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Rodrigues",
   "uuid": "f8cc8173-e136-4449-9b3f-cca424083433",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 98,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 16137.0,
+   "balance": 16845.0,
    "forSalePrice": null
   },
   "perms": {
@@ -498,10 +498,6 @@
    {
     "name": "BBIC222",
     "uuid": "d93118b8-fb85-40f2-bda6-b6f4448a5cb6"
-   },
-   {
-    "name": "dino2255435",
-    "uuid": "f1dab488-c1b7-49c7-bfe0-99d31df1f3be"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Tayozhny",
   "uuid": "eaa31215-03b3-4f3e-b1b9-595f7e79be4c",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 29,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -149,6 +149,10 @@
     ],
     [
      812,
+     -1178
+    ],
+    [
+     812,
      -1176
     ],
     [
@@ -214,34 +218,20 @@
    {
     "name": "nyx_ch",
     "uuid": "f43866b6-6fde-48cf-8946-4636c7ddc2b3"
-   },
-   {
-    "name": "sleebee_p",
-    "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "sleebee_p",
-     "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "sleebee_p",
-     "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Bornholm",
   "uuid": "e15e98d9-b784-461c-86a3-7c2b199598ea",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 84.0,
+   "numOutlaws": 1,
+   "balance": 287.0,
    "forSalePrice": null
   },
   "perms": {
@@ -550,10 +550,6 @@
    {
     "name": "cool_creeper61",
     "uuid": "c21c1a92-9a9a-4033-a2b7-b7085001a5c7"
-   },
-   {
-    "name": "Mertblgg",
-    "uuid": "45c41d1a-50cc-4f84-b4ef-d0ce61b330c7"
    }
   ],
   "trusted": [
@@ -562,17 +558,17 @@
     "uuid": "ec17980b-4fdb-4a7b-b6b9-c034236676c8"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "sportifcuce",
+    "uuid": "a6f51eeb-cae1-4217-a51e-ff8e2bc4306d"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Mertblgg",
-     "uuid": "45c41d1a-50cc-4f84-b4ef-d0ce61b330c7"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

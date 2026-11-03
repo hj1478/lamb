@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Vatican_City",
   "uuid": "e809426e-ceed-4767-8460-fb88249ac57b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 511,
-   "maxTownBlocks": 608,
+   "numTownBlocks": 523,
+   "maxTownBlocks": 596,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 44,
-   "numTrusted": 26,
+   "numResidents": 43,
+   "numTrusted": 30,
    "numOutlaws": 0,
-   "balance": 84.0,
+   "balance": 242.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -605,6 +605,14 @@
     ],
     [
      273,
+     -509
+    ],
+    [
+     273,
+     -510
+    ],
+    [
+     273,
      -511
     ],
     [
@@ -612,6 +620,14 @@
      -512
     ],
     [
+     273,
+     -507
+    ],
+    [
+     273,
+     -508
+    ],
+    [
      276,
      -512
     ],
@@ -1388,12 +1404,24 @@
      -516
     ],
     [
+     271,
+     -508
+    ],
+    [
      287,
      -523
     ],
     [
+     271,
+     -509
+    ],
+    [
      287,
      -522
+    ],
+    [
+     271,
+     -510
     ],
     [
      287,
@@ -1621,7 +1649,27 @@
     ],
     [
      272,
+     -510
+    ],
+    [
+     272,
+     -509
+    ],
+    [
+     272,
      -512
+    ],
+    [
+     272,
+     -511
+    ],
+    [
+     272,
+     -508
+    ],
+    [
+     272,
+     -507
     ],
     [
      289,
@@ -2172,16 +2220,8 @@
     "uuid": "ab4da2b2-0bca-4017-be8f-d9f88561fcf1"
    },
    {
-    "name": "Super_basking",
-    "uuid": "b40cada9-bfd6-445b-93da-0001a726d053"
-   },
-   {
     "name": "RainbowMan_Efi",
     "uuid": "4ed32150-83f4-4f47-9c82-ad9f3619c9a4"
-   },
-   {
-    "name": "fiafialee",
-    "uuid": "9cbb8b7d-0252-4ff9-a145-51444f83e36d"
    },
    {
     "name": "xX_LOREX_Xx",
@@ -2190,14 +2230,6 @@
    {
     "name": "jeninh",
     "uuid": "e14d2794-466a-4a78-ba98-b8105a197832"
-   },
-   {
-    "name": "Chaotikal",
-    "uuid": "5bf016c2-d7cf-41d1-9642-0e5fd63355fe"
-   },
-   {
-    "name": "rerere7",
-    "uuid": "b93784f0-a72d-46fa-9b82-1b8431371a9b"
    },
    {
     "name": "Ciastecko",
@@ -2264,10 +2296,6 @@
     "uuid": "159853b3-b272-4a29-a431-bca8ec296d6a"
    },
    {
-    "name": "Nicuz7294",
-    "uuid": "1624be19-66b5-468d-9900-d792a1dd5ee8"
-   },
-   {
     "name": "HaloCEfan1",
     "uuid": "4bb7a297-3d6b-4ab5-b0c1-d32442a41e93"
    },
@@ -2278,10 +2306,6 @@
    {
     "name": "Psycho_Luke_",
     "uuid": "4805d04a-9abd-4192-a2fa-1c672f939966"
-   },
-   {
-    "name": "JustyCowie",
-    "uuid": "20018825-9d3a-4e91-89c5-a8c9c7d45ddf"
    },
    {
     "name": "HermittheFrog27",
@@ -2314,6 +2338,26 @@
    {
     "name": "storayt",
     "uuid": "2df8e647-098a-4b39-9cef-0405bd3dc9f3"
+   },
+   {
+    "name": "x_omega_",
+    "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
+   },
+   {
+    "name": "STVRZ",
+    "uuid": "c5cce122-f89c-464c-905d-28912463c10e"
+   },
+   {
+    "name": "Minister_Miong",
+    "uuid": "605f221a-dafd-47c3-bb8f-4747bde7a65f"
+   },
+   {
+    "name": "Sr_Ortolano",
+    "uuid": "0b978e52-15ea-49ed-a50f-388f74397a44"
+   },
+   {
+    "name": "Heinrich_Pablo67",
+    "uuid": "9dbc2b27-f28c-4b65-8bb2-8a8945c3eec5"
    }
   ],
   "trusted": [
@@ -2326,7 +2370,15 @@
     "uuid": "31dccace-adba-4ce7-ab8d-26fe94b04f89"
    },
    {
-    "name": "schring",
+    "name": "Indigo418",
+    "uuid": "df137660-0913-48e9-9198-285c07d90e1c"
+   },
+   {
+    "name": "Spark_03",
+    "uuid": "bf82dec1-74aa-47d0-91db-98b477bc3222"
+   },
+   {
+    "name": "Navy_1979",
     "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
    },
    {
@@ -2336,6 +2388,10 @@
    {
     "name": "x_omega_",
     "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
+   },
+   {
+    "name": "salmonmaciek",
+    "uuid": "47bd2ab9-d0fc-4a13-b4a2-8a62972fead7"
    },
    {
     "name": "1lum1nat1",
@@ -2376,6 +2432,10 @@
    {
     "name": "Sazinom",
     "uuid": "a2c92a3b-aaad-4afa-8053-3f678e326780"
+   },
+   {
+    "name": "Sinelin",
+    "uuid": "4e535900-8687-4e3f-b9ca-f5d9d586a91d"
    },
    {
     "name": "RandovMan",
@@ -2545,10 +2605,6 @@
     "uuid": "f0a616b5-82dd-4c7e-90f7-e246525bd663"
    },
    {
-    "name": "Annoying Flat",
-    "uuid": "6e25dc13-642d-4d36-bdf9-6ad834e6963e"
-   },
-   {
     "name": "Annoying Suite",
     "uuid": "9605c474-f59d-4910-9701-b939c56f6c43"
    },
@@ -2559,19 +2615,24 @@
    {
     "name": "Luxurious Flat",
     "uuid": "56521e00-5ce1-4093-b200-ef1655fadd52"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "6e25dc13-642d-4d36-bdf9-6ad834e6963e"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "x_omega_",
+     "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
+    }
+   ],
    "Builder": [],
    "Recruiter": [
     {
      "name": "dilster2000",
      "uuid": "ab4da2b2-0bca-4017-be8f-d9f88561fcf1"
-    },
-    {
-     "name": "Nicuz7294",
-     "uuid": "1624be19-66b5-468d-9900-d792a1dd5ee8"
     }
    ],
    "Police": [],

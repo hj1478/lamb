@@ -1,0 +1,136 @@
+{
+ "fetched_at": "2026-11-03T14:26:38Z",
+ "data": {
+  "name": "EdgeTown",
+  "uuid": "91dd1215-5084-43f9-a21a-a5356b515f92",
+  "board": "/town set board [msg]",
+  "founder": "memiotte11",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "memiotte11",
+   "uuid": "8535ecc0-31ad-4831-ac71-3c591e14d918"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793669724354,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 2,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 7.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 31124.35247093316,
+    "y": 64.0,
+    "z": 517.0249678681364,
+    "pitch": 26.967287,
+    "yaw": 69.92267
+   },
+   "homeBlock": [
+    1945,
+    32
+   ],
+   "townBlocks": [
+    [
+     1945,
+     32
+    ],
+    [
+     1944,
+     32
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "memiotte11",
+    "uuid": "8535ecc0-31ad-4831-ac71-3c591e14d918"
+   },
+   {
+    "name": "blazess_cr",
+    "uuid": "69ea5a6a-0aa2-4855-8699-3f0d84eed3c4"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "blazess_cr",
+     "uuid": "69ea5a6a-0aa2-4855-8699-3f0d84eed3c4"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

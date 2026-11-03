@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "New_Salem",
   "uuid": "dd595615-4279-4983-898e-109189f29656",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 106,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 109,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -278,6 +278,18 @@
     [
      -1933,
      -560
+    ],
+    [
+     -1928,
+     -561
+    ],
+    [
+     -1928,
+     -560
+    ],
+    [
+     -1928,
+     -559
     ],
     [
      -1935,
@@ -526,6 +538,14 @@
    {
     "name": "ALYXX_trns",
     "uuid": "e905da34-5f5d-43bb-b112-8aff0f523e78"
+   },
+   {
+    "name": "Jinxluckyy",
+    "uuid": "578a19e2-b742-4b55-87d9-04d512c37023"
+   },
+   {
+    "name": "Fabius332",
+    "uuid": "17c4c36b-eb3c-4daf-ae38-da8682b495be"
    }
   ],
   "trusted": [
@@ -556,7 +576,16 @@
     "uuid": "c8103fce-800b-4c9f-882f-27cd3cbb0cd2"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "9a5daa05-0b7f-4c63-851e-cc67b38f6f87"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "ff3688fb-b5bb-4d97-91ff-5e9e807c5c2d"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

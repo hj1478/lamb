@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "New_Konigsberg",
   "uuid": "fcec08c9-04b0-4b6b-8cf1-a2940d0d8b6b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/fc2T9BuEzV",
   "mayor": {
-   "name": "StellaVI",
-   "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
+   "name": "Ashes_of_Spear",
+   "uuid": "6d4fab8a-512c-41f3-9502-9b0dd738e065"
   },
   "nation": {
    "name": "James_Bay",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 98,
+   "numTownBlocks": 74,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 8,
    "numOutlaws": 8,
-   "balance": 136.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -261,26 +261,6 @@
     ],
     [
      -1794,
-     -756
-    ],
-    [
-     -1794,
-     -757
-    ],
-    [
-     -1794,
-     -758
-    ],
-    [
-     -1794,
-     -759
-    ],
-    [
-     -1794,
-     -760
-    ],
-    [
-     -1794,
      -761
     ],
     [
@@ -326,49 +306,13 @@
     [
      -1789,
      -759
-    ],
-    [
-     -1797,
-     -761
-    ],
-    [
-     -1796,
-     -761
-    ],
-    [
-     -1795,
-     -756
-    ],
-    [
-     -1797,
-     -762
-    ],
-    [
-     -1796,
-     -760
-    ],
-    [
-     -1795,
-     -757
     ],
     [
      -1797,
      -763
     ],
     [
-     -1796,
-     -763
-    ],
-    [
-     -1796,
-     -762
-    ],
-    [
      -1797,
-     -757
-    ],
-    [
-     -1796,
      -757
     ],
     [
@@ -384,20 +328,8 @@
      -759
     ],
     [
-     -1796,
-     -759
-    ],
-    [
      -1799,
      -759
-    ],
-    [
-     -1797,
-     -760
-    ],
-    [
-     -1796,
-     -758
     ],
     [
      -1795,
@@ -420,10 +352,6 @@
      -762
     ],
     [
-     -1795,
-     -762
-    ],
-    [
      -1803,
      -762
     ],
@@ -436,35 +364,11 @@
      -763
     ],
     [
-     -1795,
-     -760
-    ],
-    [
      -1796,
      -764
-    ],
-    [
-     -1795,
-     -761
-    ],
-    [
-     -1795,
-     -758
-    ],
-    [
-     -1795,
-     -759
     ],
     [
      -1786,
-     -758
-    ],
-    [
-     -1793,
-     -757
-    ],
-    [
-     -1793,
      -758
     ],
     [
@@ -488,8 +392,8 @@
   },
   "residents": [
    {
-    "name": "StellaVI",
-    "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
+    "name": "Ashes_of_Spear",
+    "uuid": "6d4fab8a-512c-41f3-9502-9b0dd738e065"
    }
   ],
   "trusted": [
@@ -552,12 +456,12 @@
     "uuid": "906255d9-b4d8-4809-86c8-6528807438c3"
    },
    {
-    "name": "SteelCove",
-    "uuid": "2ba3394d-ae1d-4530-8ea2-91b0f231c5e2"
-   },
-   {
     "name": "feinnein",
     "uuid": "000106a7-e7ac-443f-a953-64b4723970fd"
+   },
+   {
+    "name": "Hoween",
+    "uuid": "a377752f-ebaa-490b-8018-732269ba4478"
    }
   ],
   "quarters": [
@@ -566,24 +470,8 @@
     "uuid": "d10b30b2-7939-4f75-9e9a-e7cbb5cc23e1"
    },
    {
-    "name": "Elegant Suite",
-    "uuid": "bb45316f-b56d-4f94-8540-a83f3104cb9a"
-   },
-   {
-    "name": "Welcoming Dwelling",
-    "uuid": "7c5f9c28-effc-4957-916d-7b60e1f5e7d0"
-   },
-   {
     "name": "Upbeat Suite",
     "uuid": "a057cc48-fd98-44c8-b167-7dbcc144700a"
-   },
-   {
-    "name": "Perturbing Dwelling",
-    "uuid": "2ce3a28d-9572-48dc-b60a-55e87929d5ce"
-   },
-   {
-    "name": "Upbeat Suite",
-    "uuid": "690b3131-f321-4c43-88ef-546364e91498"
    }
   ],
   "ranks": {

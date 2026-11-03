@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T12:22:53Z",
+ "fetched_at": "2026-11-03T14:26:38Z",
  "data": {
   "name": "Emc_Shop",
   "uuid": "ff314c64-dc35-4b8c-a7b4-79e20f8136af",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46876.402507240084,
-    "y": 63.0,
-    "z": 9257.790439538625,
-    "pitch": 17.700079,
-    "yaw": 120.385864
+    "x": 46819.45377136373,
+    "y": 69.0,
+    "z": 9293.550019278251,
+    "pitch": 9.599858,
+    "yaw": -90.606445
    },
    "homeBlock": [
-    2929,
-    578
+    2926,
+    580
    ],
    "townBlocks": [
     [
@@ -434,7 +434,12 @@
     "uuid": "fe677ffb-593a-4195-b0d2-3a4d688819ca"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "GamezzOverzz",
+    "uuid": "48d440c4-3967-4054-8aad-3be28413d050"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
