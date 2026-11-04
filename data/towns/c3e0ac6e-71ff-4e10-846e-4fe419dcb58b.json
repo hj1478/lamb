@@ -1,29 +1,29 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Ethereum",
-  "uuid": "01623ef5-7bc5-4945-a549-0015811d6a0c",
-  "board": "better than btc",
-  "founder": "_zundamon",
+  "name": "Panem",
+  "uuid": "c3e0ac6e-71ff-4e10-846e-4fe419dcb58b",
+  "board": "Nation from the Ashes",
+  "founder": "qFlake",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_zundamon",
-   "uuid": "49fc6fbd-c739-460c-a6ce-2575550c1aee"
+   "name": "qFlake",
+   "uuid": "bd140f2b-39cd-4c5e-899a-752afb2113ed"
   },
   "nation": {
-   "name": "Appalachia",
-   "uuid": "2c5dc18f-5209-4e70-91b1-4218c1d1b64a"
+   "name": "Zion",
+   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
   },
   "timestamps": {
-   "registered": 1785742683198,
-   "joinedNationAt": 1785742699599,
+   "registered": 1793743558872,
+   "joinedNationAt": 1793744593722,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": true,
+   "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 4.0,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 119.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,42 +80,64 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27307.46091331352,
-    "y": 89.0,
-    "z": -7947.535096857106,
-    "pitch": 34.649967,
-    "yaw": 155.90393
+    "x": -37757.92564174197,
+    "y": 77.0,
+    "z": -10400.875835527486,
+    "pitch": 26.550013,
+    "yaw": 153.3004
    },
    "homeBlock": [
-    -1707,
-    -497
+    -2360,
+    -651
    ],
    "townBlocks": [
     [
-     -1707,
-     -497
+     -2359,
+     -650
+    ],
+    [
+     -2361,
+     -652
+    ],
+    [
+     -2361,
+     -651
+    ],
+    [
+     -2359,
+     -651
+    ],
+    [
+     -2361,
+     -650
+    ],
+    [
+     -2359,
+     -652
+    ],
+    [
+     -2360,
+     -652
+    ],
+    [
+     -2360,
+     -651
+    ],
+    [
+     -2360,
+     -650
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_zundamon",
-    "uuid": "49fc6fbd-c739-460c-a6ce-2575550c1aee"
+    "name": "qFlake",
+    "uuid": "bd140f2b-39cd-4c5e-899a-752afb2113ed"
    }
   ],
-  "trusted": [
-   {
-    "name": "rinderdragon0823",
-    "uuid": "fd145e5c-329b-40c9-95ce-c3f33479be04"
-   }
-  ],
-  "outlaws": [
-   {
-    "name": "DiegoDudeGuy",
-    "uuid": "c844fdeb-1ecd-4280-af8c-22f78d304b01"
-   }
-  ],
+  "trusted": [],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

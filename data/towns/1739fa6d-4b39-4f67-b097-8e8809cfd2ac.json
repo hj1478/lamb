@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Tibetan_Troy",
   "uuid": "1739fa6d-4b39-4f67-b097-8e8809cfd2ac",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
+   "nationBonus": 50,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -186,6 +186,18 @@
     [
      1967,
      -170
+    ],
+    [
+     1966,
+     -167
+    ],
+    [
+     1966,
+     -166
+    ],
+    [
+     1966,
+     -165
     ]
    ],
    "worlds": {}
@@ -194,10 +206,6 @@
    {
     "name": "Lord_Gibraltar",
     "uuid": "6db958f7-004f-4451-a460-a0a12a7decba"
-   },
-   {
-    "name": "Shuggy346",
-    "uuid": "15884632-c442-4eb8-a1d0-d928da04eb85"
    }
   ],
   "trusted": [],
@@ -205,12 +213,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Shuggy346",
-     "uuid": "15884632-c442-4eb8-a1d0-d928da04eb85"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Sagres",
   "uuid": "0462bbb3-69cf-4e93-8e60-e86b0c6bc4ba",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 140,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 5,
+   "nationBonus": 80,
+   "numResidents": 6,
    "numTrusted": 2,
-   "numOutlaws": 3,
+   "numOutlaws": 2,
    "balance": 1000.0,
    "forSalePrice": null
   },
@@ -664,6 +664,10 @@
     "uuid": "0eacb2ef-11ba-4ade-bc8d-6d84b7f0198b"
    },
    {
+    "name": "BearXVR",
+    "uuid": "7f28e9f8-586d-4a30-968e-adc1b6ce7816"
+   },
+   {
     "name": "Dr_Carambolas",
     "uuid": "7d74f2ac-1f04-44bc-b48a-5f5a1b23c89d"
    },
@@ -678,8 +682,8 @@
   ],
   "trusted": [
    {
-    "name": "v4str0",
-    "uuid": "0eacb2ef-11ba-4ade-bc8d-6d84b7f0198b"
+    "name": "BearXVR",
+    "uuid": "7f28e9f8-586d-4a30-968e-adc1b6ce7816"
    },
    {
     "name": "vJuke",
@@ -694,20 +698,12 @@
    {
     "name": "elpapito7",
     "uuid": "eb3895bc-852e-4814-910a-ea4327ad6221"
-   },
-   {
-    "name": "_Nai_Long_",
-    "uuid": "b7fbda72-8224-459a-a178-900b85f48f61"
    }
   ],
   "quarters": [
    {
     "name": "Casa do Vice Governador",
     "uuid": "022f5822-d2ea-4347-b832-da31a260ea9a"
-   },
-   {
-    "name": "Casa Vilarinha - 2",
-    "uuid": "1852d04f-66f0-431d-a436-32f31a159047"
    },
    {
     "name": "Edíficio Raposeira - 1",
@@ -774,10 +770,6 @@
     "uuid": "fc7813d3-8756-493f-ab48-0028d385ad1b"
    },
    {
-    "name": "Casa Ruivo - 3",
-    "uuid": "7abf8b24-dc77-4963-bd07-953cd4f05174"
-   },
-   {
     "name": "Casa Vilarinha - 1",
     "uuid": "c696c5dc-8085-4d6f-917a-70a804a51f88"
    },
@@ -820,16 +812,41 @@
    {
     "name": "Casa Ruivo - 2",
     "uuid": "e7b8fdde-3184-41c8-8be4-cfd900646631"
+   },
+   {
+    "name": "Trash / Lixo",
+    "uuid": "a440ba11-d798-4e3c-82be-d1cf60273544"
+   },
+   {
+    "name": "Trash / Lixo",
+    "uuid": "ef422ab7-633a-42a4-a114-a024b8e9c936"
+   },
+   {
+    "name": "Casa Ruivo - 3",
+    "uuid": "7abf8b24-dc77-4963-bd07-953cd4f05174"
+   },
+   {
+    "name": "Casa Vilarinha - 2",
+    "uuid": "1852d04f-66f0-431d-a436-32f31a159047"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BearXVR",
+     "uuid": "7f28e9f8-586d-4a30-968e-adc1b6ce7816"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [
     {
      "name": "v4str0",
      "uuid": "0eacb2ef-11ba-4ade-bc8d-6d84b7f0198b"
+    },
+    {
+     "name": "BearXVR",
+     "uuid": "7f28e9f8-586d-4a30-968e-adc1b6ce7816"
     }
    ],
    "Tax-exempt": [],

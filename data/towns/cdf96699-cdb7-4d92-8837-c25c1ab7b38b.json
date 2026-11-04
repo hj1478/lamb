@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Naramata",
-  "uuid": "350c3ae0-e431-4385-a564-6984cc0b284f",
-  "board": "welcome to Naramata a small town help welcome",
-  "founder": "ChampSatoshi",
+  "name": "Karago",
+  "uuid": "cdf96699-cdb7-4d92-8837-c25c1ab7b38b",
+  "board": "/town set board [msg]",
+  "founder": "UltraBeastX8042",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AstrOnOmEr_dude",
-   "uuid": "faf04769-7f8f-4c52-a034-c3a8c04c43b2"
+   "name": "UltraBeastX8042",
+   "uuid": "90dca2b7-9038-4497-85b4-0f2ab7159cb9"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": "Lake_Victoria",
+   "uuid": "9aead187-15c6-4891-8b65-1193c2c6af81"
   },
   "timestamps": {
-   "registered": 1786232796065,
-   "joinedNationAt": 1786232809315,
+   "registered": 1793761544783,
+   "joinedNationAt": 1793761617883,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,59 +80,40 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -42507.384454917614,
-    "y": 101.0,
-    "z": -11300.510176007107,
-    "pitch": 10.942367,
-    "yaw": 100.54736
+    "x": 10727.300000011921,
+    "y": 108.0,
+    "z": 8498.699999988079,
+    "pitch": 34.35,
+    "yaw": -166.63075
    },
    "homeBlock": [
-    -2657,
-    -707
+    670,
+    531
    ],
    "townBlocks": [
     [
-     -2657,
-     -708
+     670,
+     530
     ],
     [
-     -2657,
-     -709
-    ],
-    [
-     -2658,
-     -709
-    ],
-    [
-     -2658,
-     -708
-    ],
-    [
-     -2657,
-     -707
-    ],
-    [
-     -2658,
-     -707
-    ],
-    [
-     -2656,
-     -707
-    ],
-    [
-     -2656,
-     -708
+     670,
+     531
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "AstrOnOmEr_dude",
-    "uuid": "faf04769-7f8f-4c52-a034-c3a8c04c43b2"
+    "name": "UltraBeastX8042",
+    "uuid": "90dca2b7-9038-4497-85b4-0f2ab7159cb9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "doubtOwOr",
+    "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

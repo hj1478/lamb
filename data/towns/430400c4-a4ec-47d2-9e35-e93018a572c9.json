@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Bujumbura",
-  "uuid": "e5d94830-ef4e-49cc-8f18-3ed6976dae79",
-  "board": "just a chill guy",
-  "founder": "baftap",
+  "name": "VoteForSherrod",
+  "uuid": "430400c4-a4ec-47d2-9e35-e93018a572c9",
+  "board": "/town set board [msg]",
+  "founder": "gflesch",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC62",
-   "uuid": "0e6370c5-0b1d-20f2-be9e-696e50c44d7b"
+   "name": "gflesch",
+   "uuid": "3321bdc5-696b-4e9b-abf3-50d73aa8343d"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1778424484527,
+   "registered": 1793741114941,
    "joinedNationAt": null,
-   "ruinedAt": 1793527201814
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,101 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 44.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10518.903613118086,
-    "y": 128.0,
-    "z": 9192.274899892684,
-    "pitch": 17.196589,
-    "yaw": -0.1743164
+    "x": -29399.30000001192,
+    "y": 68.0,
+    "z": -7422.685001244625,
+    "pitch": -5.249782,
+    "yaw": 39.498066
    },
    "homeBlock": [
-    657,
-    574
+    -1838,
+    -464
    ],
    "townBlocks": [
     [
-     656,
-     574
-    ],
-    [
-     656,
-     575
-    ],
-    [
-     658,
-     575
-    ],
-    [
-     658,
-     574
-    ],
-    [
-     657,
-     573
-    ],
-    [
-     656,
-     573
-    ],
-    [
-     657,
-     574
-    ],
-    [
-     657,
-     575
+     -1838,
+     -464
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC62",
-    "uuid": "0e6370c5-0b1d-20f2-be9e-696e50c44d7b"
+    "name": "gflesch",
+    "uuid": "3321bdc5-696b-4e9b-abf3-50d73aa8343d"
    }
   ],
   "trusted": [],

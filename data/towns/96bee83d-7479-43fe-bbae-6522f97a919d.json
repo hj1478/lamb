@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Weurt",
-  "uuid": "6fcb0ddb-6de9-4b98-ab0c-12d3665fd0a9",
+  "name": "Sahara",
+  "uuid": "96bee83d-7479-43fe-bbae-6522f97a919d",
   "board": "/town set board [msg]",
-  "founder": "LorenzoLily",
+  "founder": "glaggle2001",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LorenzoLily",
-   "uuid": "fe72383d-b134-4dd6-8295-d6cfe961f7b9"
+   "name": "glaggle2001",
+   "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": "Libya",
+   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
   },
   "timestamps": {
-   "registered": 1791723941683,
-   "joinedNationAt": 1791723954179,
+   "registered": 1793727330349,
+   "joinedNationAt": 1793727346499,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 125.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,39 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2738.4478156371088,
-    "y": 69.0,
-    "z": -11995.507840897866,
-    "pitch": 10.274984,
-    "yaw": -84.87695
+    "x": 4588.3135041858795,
+    "y": 105.0,
+    "z": -2445.350398274722,
+    "pitch": 33.50306,
+    "yaw": -51.614883
    },
    "homeBlock": [
-    171,
-    -750
+    286,
+    -153
    ],
    "townBlocks": [
     [
-     169,
-     -750
+     288,
+     -154
     ],
     [
-     170,
-     -750
+     288,
+     -153
     ],
     [
-     171,
-     -750
+     286,
+     -154
+    ],
+    [
+     286,
+     -153
+    ],
+    [
+     287,
+     -154
+    ],
+    [
+     287,
+     -153
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "LorenzoLily",
-    "uuid": "fe72383d-b134-4dd6-8295-d6cfe961f7b9"
+    "name": "glaggle2001",
+    "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "HasanHasa",
+    "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Karluin",
   "uuid": "14e1e4f5-2b68-48fa-b104-7497d6f5fc3c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "haku0711",
-   "uuid": "3a4cb20c-b8dd-41ad-a502-474f4b875d10"
+   "name": "NPC24",
+   "uuid": "32048c1a-ab09-20d2-8f00-e3a34c1e0e6c"
   },
   "nation": {
-   "name": "Sahul",
-   "uuid": "fb9fedef-1bb0-4a68-a12f-757fd318288b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789902747357,
-   "joinedNationAt": 1789904063355,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793700000892
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "haku0711",
-    "uuid": "3a4cb20c-b8dd-41ad-a502-474f4b875d10"
+    "name": "NPC24",
+    "uuid": "32048c1a-ab09-20d2-8f00-e3a34c1e0e6c"
    }
   ],
   "trusted": [],

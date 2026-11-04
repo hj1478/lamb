@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Vanguardia",
   "uuid": "1608e996-409e-462a-b2f1-3172f256270a",
   "board": "Welcome To Vanguardia our nation is Italy",
   "founder": "ShadowWardenCraf",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/2UnpSBzuGc",
   "mayor": {
    "name": "ShadowWardenCraf",
    "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 14,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 9.0,
+   "numTrusted": 1,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -62,7 +62,7 @@
     false,
     false,
     false,
-    false
+    true
    ],
    "itemUse": [
     false,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3325.300000011921,
-    "y": 70.0,
-    "z": -5668.544761648953,
-    "pitch": 9.24138,
-    "yaw": -43.982643
+    "x": 3324.1009888070826,
+    "y": 68.0,
+    "z": -5672.332785201484,
+    "pitch": 7.190154,
+    "yaw": 16.5708
    },
    "homeBlock": [
     207,
@@ -92,22 +92,6 @@
    ],
    "townBlocks": [
     [
-     208,
-     -355
-    ],
-    [
-     208,
-     -354
-    ],
-    [
-     208,
-     -353
-    ],
-    [
-     207,
-     -353
-    ],
-    [
      207,
      -355
     ],
@@ -125,7 +109,43 @@
     ],
     [
      209,
+     -352
+    ],
+    [
+     209,
      -355
+    ],
+    [
+     208,
+     -355
+    ],
+    [
+     208,
+     -354
+    ],
+    [
+     208,
+     -353
+    ],
+    [
+     208,
+     -352
+    ],
+    [
+     207,
+     -353
+    ],
+    [
+     207,
+     -352
+    ],
+    [
+     206,
+     -355
+    ],
+    [
+     206,
+     -354
     ]
    ],
    "worlds": {}
@@ -136,14 +156,23 @@
     "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
-  "quarters": [
+  "trusted": [
    {
-    "name": "Cheerful Tenement",
-    "uuid": "aada682b-4c43-4131-8ad1-a956539b5869"
+    "name": "ArsaMC",
+    "uuid": "ce46b4ce-ea31-43c2-b3f5-f6429ae4db9a"
    }
   ],
+  "outlaws": [
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
+   },
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   }
+  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [
     {
@@ -151,12 +180,27 @@
      "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "ShadowWardenCraf",
+     "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "ShadowWardenCraf",
+     "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "ShadowWardenCraf",
+     "uuid": "e5aea6c4-2067-43a7-9b64-ae879953e45b"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

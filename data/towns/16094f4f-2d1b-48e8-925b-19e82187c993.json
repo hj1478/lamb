@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Pierre-du-Mont",
   "uuid": "16094f4f-2d1b-48e8-925b-19e82187c993",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 12,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,12 +92,24 @@
    ],
    "townBlocks": [
     [
+     -21,
+     -703
+    ],
+    [
+     -21,
+     -702
+    ],
+    [
      -17,
      -702
     ],
     [
      -20,
      -703
+    ],
+    [
+     -19,
+     -704
     ],
     [
      -20,
@@ -118,6 +130,10 @@
     [
      -18,
      -703
+    ],
+    [
+     -18,
+     -704
     ],
     [
      -18,
@@ -136,7 +152,12 @@
     "uuid": "d71c42f8-e3d6-4334-9239-11a419841306"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "stiiiiiiiiiiizy",
+    "uuid": "d71c42f8-e3d6-4334-9239-11a419841306"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

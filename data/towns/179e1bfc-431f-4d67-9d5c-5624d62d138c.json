@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Jincheng",
   "uuid": "179e1bfc-431f-4d67-9d5c-5624d62d138c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "jerrysogood",
-   "uuid": "e92b056d-d3df-4c2e-9bba-8b0e0f6ec553"
+   "name": "NPC121",
+   "uuid": "73a1e9f2-1a07-2026-ad7b-fee20940160d"
   },
   "nation": {
-   "name": "China",
-   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777747785558,
-   "joinedNationAt": 1779373898312,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793609702209
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
-   "isForSale": true,
-   "hasNation": true,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 800.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "jerrysogood",
-    "uuid": "e92b056d-d3df-4c2e-9bba-8b0e0f6ec553"
+    "name": "NPC121",
+    "uuid": "73a1e9f2-1a07-2026-ad7b-fee20940160d"
    }
   ],
   "trusted": [],

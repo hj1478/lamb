@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Harare",
   "uuid": "1e6976c8-2aa0-4dff-9e7f-47ff10a52c41",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 605.0,
+   "balance": 1494.0,
    "forSalePrice": null
   },
   "perms": {
@@ -401,19 +401,23 @@
     "uuid": "99051524-a720-45e9-bb19-34650bde2451"
    }
   ],
-  "trusted": [
-   {
-    "name": "JohnLemans",
-    "uuid": "99051524-a720-45e9-bb19-34650bde2451"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Room 01",
+    "uuid": "f0cc3ee4-26ee-428a-a933-4e2fc35b6e79"
+   },
+   {
+    "name": "Room 02",
+    "uuid": "d371e73d-d651-45df-9e2e-9ae18af9aa81"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

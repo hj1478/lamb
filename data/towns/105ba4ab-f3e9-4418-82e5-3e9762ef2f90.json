@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Altura",
   "uuid": "105ba4ab-f3e9-4418-82e5-3e9762ef2f90",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 3294.0,
+   "balance": 3391.0,
    "forSalePrice": null
   },
   "perms": {
@@ -550,6 +550,10 @@
    {
     "name": "Pika405",
     "uuid": "64418ab7-598b-4b9c-ac03-6a22da161bd6"
+   },
+   {
+    "name": "SpartaFragge",
+    "uuid": "d8b803a5-6f33-4cea-953c-4ceff71c7284"
    }
   ],
   "trusted": [
@@ -584,10 +588,19 @@
    {
     "name": "Dingy Suite",
     "uuid": "de4b1ddb-1e17-4591-bcf4-d253cf723040"
+   },
+   {
+    "name": "Perturbing Flat",
+    "uuid": "105015b2-b5c9-44ef-9620-7fb57830fde1"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "SpartaFragge",
+     "uuid": "d8b803a5-6f33-4cea-953c-4ceff71c7284"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Scythians",
-  "uuid": "7542ae40-cb33-487a-95cb-b49b520562bd",
+  "name": "New_Szekszard",
+  "uuid": "69cd92c3-645a-40a7-8406-36f9bb964c36",
   "board": "/town set board [msg]",
-  "founder": "conquestxx",
+  "founder": "jakod026",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "n0t3d",
-   "uuid": "73bfcefe-f2c0-4e9e-9c28-c4d9b95a7738"
+   "name": "jakod026",
+   "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nunavut",
+   "uuid": "055d2fe5-692c-4169-bef4-97ef204be68b"
   },
   "timestamps": {
-   "registered": 1788909694075,
-   "joinedNationAt": null,
+   "registered": 1793745514723,
+   "joinedNationAt": 1793745541711,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,40 +80,84 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 20659.321857075665,
-    "y": 64.0,
-    "z": -8087.765321320051,
-    "pitch": 18.047935,
-    "yaw": -131.43935
+    "x": -18999.43865267718,
+    "y": 69.0,
+    "z": -19719.414386304266,
+    "pitch": 37.349926,
+    "yaw": 94.05911
    },
    "homeBlock": [
-    1291,
-    -506
+    -1188,
+    -1233
    ],
    "townBlocks": [
     [
-     1291,
-     -506
+     -1187,
+     -1234
+    ],
+    [
+     -1187,
+     -1233
+    ],
+    [
+     -1189,
+     -1231
+    ],
+    [
+     -1189,
+     -1232
+    ],
+    [
+     -1187,
+     -1232
+    ],
+    [
+     -1189,
+     -1233
+    ],
+    [
+     -1188,
+     -1234
+    ],
+    [
+     -1188,
+     -1233
+    ],
+    [
+     -1188,
+     -1232
+    ],
+    [
+     -1188,
+     -1231
+    ],
+    [
+     -1190,
+     -1233
+    ],
+    [
+     -1190,
+     -1232
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "n0t3d",
-    "uuid": "73bfcefe-f2c0-4e9e-9c28-c4d9b95a7738"
+    "name": "jakod026",
+    "uuid": "725653f5-269b-490a-8a50-ef8d7656cc94"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Mrwooffers678",
+    "uuid": "bb02a010-b740-47af-8d8d-b510949d7f4c"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "n0t3d",
-     "uuid": "73bfcefe-f2c0-4e9e-9c28-c4d9b95a7738"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

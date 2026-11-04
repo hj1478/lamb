@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Vagharshapat",
   "uuid": "0a78bb1d-042c-417e-9e86-ebc74d067655",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 98,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 4,
+   "nationBonus": 60,
+   "numResidents": 3,
    "numTrusted": 15,
-   "numOutlaws": 3,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -492,10 +492,6 @@
     "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
    },
    {
-    "name": "Bubbles2613",
-    "uuid": "94f40505-dcc6-4231-8c20-a197e2da3c2d"
-   },
-   {
     "name": "Chrizz",
     "uuid": "48d85138-f45e-4b3d-aaa3-29a719540d7f"
    },
@@ -574,10 +570,6 @@
    {
     "name": "dv6724",
     "uuid": "fbd4f717-3464-41b4-8895-8c8b46d2b4c1"
-   },
-   {
-    "name": "OpGoodFruit",
-    "uuid": "f0c834e3-25df-4915-8c0b-8acc4883496b"
    }
   ],
   "quarters": [
@@ -679,12 +671,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Bubbles2613",
-     "uuid": "94f40505-dcc6-4231-8c20-a197e2da3c2d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

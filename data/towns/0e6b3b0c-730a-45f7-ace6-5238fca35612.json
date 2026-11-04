@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Animal_Planet",
   "uuid": "0e6b3b0c-730a-45f7-ace6-5238fca35612",
@@ -25,21 +25,21 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 94,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 6,
    "balance": 0.0,
@@ -478,6 +478,10 @@
    {
     "name": "_RedNek",
     "uuid": "08188dc8-ed9b-421c-ba60-90412ff36aa9"
+   },
+   {
+    "name": "Rasehater",
+    "uuid": "8b8adcf8-d2d7-4d48-8be7-bb4ea2656ef4"
    }
   ],
   "trusted": [

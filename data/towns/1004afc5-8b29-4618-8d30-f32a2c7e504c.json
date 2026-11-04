@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Trial_Shop",
   "uuid": "1004afc5-8b29-4618-8d30-f32a2c7e504c",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numResidents": 2,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 629.0,
    "forSalePrice": null
   },
@@ -146,15 +146,28 @@
    {
     "name": "oceansjester",
     "uuid": "4f7af9d0-c3e9-4395-8bfa-6772db349ce2"
+   },
+   {
+    "name": "DomineEden",
+    "uuid": "56bd902f-cce4-4af3-99e0-b21be05c17a7"
    }
   ],
   "trusted": [
+   {
+    "name": "DomineEden",
+    "uuid": "56bd902f-cce4-4af3-99e0-b21be05c17a7"
+   },
    {
     "name": "FataLBreakDowN",
     "uuid": "4423b451-a3c8-4ad8-bb4f-96cfb9d742df"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "onurruno3121",
+    "uuid": "530c8ca8-b0fc-459d-97bc-05be3646c6f6"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

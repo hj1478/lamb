@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Altona",
   "uuid": "23bba7f1-f6d4-4f78-8b54-c61c0d2f0484",
@@ -22,8 +22,8 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
-   "isNeutral": false,
+   "isOpen": true,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 107,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 109,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "numResidents": 8,
+   "numTrusted": 5,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -352,6 +352,10 @@
      -873
     ],
     [
+     202,
+     -865
+    ],
+    [
      204,
      -872
     ],
@@ -404,12 +408,12 @@
      -866
     ],
     [
-     207,
-     -869
-    ],
-    [
      201,
      -865
+    ],
+    [
+     207,
+     -869
     ],
     [
      201,
@@ -456,12 +460,16 @@
      -871
     ],
     [
-     205,
-     -870
+     203,
+     -865
     ],
     [
      203,
      -866
+    ],
+    [
+     205,
+     -870
     ],
     [
      203,
@@ -534,9 +542,33 @@
    {
     "name": "randomizedd",
     "uuid": "9b50fcf9-9fe6-43ef-af4d-7d0c906ce55d"
+   },
+   {
+    "name": "uzu123_",
+    "uuid": "2db49a50-3c9f-4c3c-8064-6827777aaeb8"
+   },
+   {
+    "name": "Atask",
+    "uuid": "a5821043-aebb-41d6-b876-9a367b5fe6e1"
+   },
+   {
+    "name": "LukeStephenn",
+    "uuid": "f8e40977-9e93-4f99-93b0-76bfbdcf85ec"
+   },
+   {
+    "name": "Kaylive",
+    "uuid": "710dcd38-edac-441c-893a-b668b0249ad9"
+   },
+   {
+    "name": "rodriskte",
+    "uuid": "d8cb5fdd-4d68-476b-9454-c65b82a77fd8"
    }
   ],
   "trusted": [
+   {
+    "name": "ZuluComic411037",
+    "uuid": "a6ac37b8-0d06-432a-bcf6-c3cc488753fc"
+   },
    {
     "name": "Agarret898",
     "uuid": "d6c64bf3-6876-41e0-9eaf-93e2df73ce47"
@@ -566,8 +598,22 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "uzu123_",
+     "uuid": "2db49a50-3c9f-4c3c-8064-6827777aaeb8"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "uzu123_",
+     "uuid": "2db49a50-3c9f-4c3c-8064-6827777aaeb8"
+    },
+    {
+     "name": "Atask",
+     "uuid": "a5821043-aebb-41d6-b876-9a367b5fe6e1"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

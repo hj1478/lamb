@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Hamamatu",
   "uuid": "236738c1-d6d5-4ebd-b18f-f3a844a1135d",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 265,
-   "maxTownBlocks": 316,
+   "numTownBlocks": 270,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 18,
-   "numTrusted": 15,
+   "numResidents": 13,
+   "numTrusted": 14,
    "numOutlaws": 1,
-   "balance": 700.0,
+   "balance": 604.0,
    "forSalePrice": null
   },
   "perms": {
@@ -169,6 +169,10 @@
     ],
     [
      3094,
+     -315
+    ],
+    [
+     3094,
      -322
     ],
     [
@@ -785,6 +789,10 @@
     ],
     [
      3092,
+     -314
+    ],
+    [
+     3092,
      -313
     ],
     [
@@ -886,6 +894,14 @@
     [
      3093,
      -316
+    ],
+    [
+     3093,
+     -315
+    ],
+    [
+     3093,
+     -314
     ],
     [
      3080,
@@ -894,6 +910,10 @@
     [
      3084,
      -328
+    ],
+    [
+     3093,
+     -313
     ],
     [
      3080,
@@ -1176,10 +1196,6 @@
     "uuid": "d47f0090-86cc-427e-b252-1e6749f6baf4"
    },
    {
-    "name": "sirotan571",
-    "uuid": "417d6a59-073c-4807-8776-95946e9dee30"
-   },
-   {
     "name": "jjjkjkjkjkv",
     "uuid": "50d152b5-d380-4f4d-84e8-f6dfb8d5a9e8"
    },
@@ -1200,18 +1216,6 @@
     "uuid": "b14d3517-a73c-46b6-b8e3-a38a24758cc7"
    },
    {
-    "name": "Owoxe",
-    "uuid": "0b925428-58d3-4a7a-b807-918c39f63d51"
-   },
-   {
-    "name": "gerench",
-    "uuid": "e5e1e139-a51e-4c7f-85ab-b8fe76b780fc"
-   },
-   {
-    "name": "CETOBABA07",
-    "uuid": "d9592e4d-dcf3-4f97-9ea0-2f9ed7f9b3ee"
-   },
-   {
     "name": "Yearsbehind",
     "uuid": "458901a8-7d4c-4379-b73d-cc2a904b3bd7"
    },
@@ -1222,10 +1226,6 @@
    {
     "name": "ELLAyezi",
     "uuid": "43c803ec-6a8e-40dc-ba64-57416d308d0f"
-   },
-   {
-    "name": "George_Plus",
-    "uuid": "35df6153-8d00-49b4-b0a2-cc5c86ebf486"
    }
   ],
   "trusted": [
@@ -1262,10 +1262,6 @@
     "uuid": "ff2c1516-a2e0-4d02-a262-f4e57fe9b118"
    },
    {
-    "name": "sirotan571",
-    "uuid": "417d6a59-073c-4807-8776-95946e9dee30"
-   },
-   {
     "name": "Ramune_ow",
     "uuid": "5d625302-c357-4d25-8e3a-2ff1852b4b03"
    },
@@ -1298,12 +1294,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "George_Plus",
-     "uuid": "35df6153-8d00-49b4-b0a2-cc5c86ebf486"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

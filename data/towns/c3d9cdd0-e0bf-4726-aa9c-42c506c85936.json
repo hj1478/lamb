@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Iraq",
-  "uuid": "1a3c0b8e-edeb-4387-81b5-8b7c2838ce3f",
+  "name": "Taji",
+  "uuid": "c3d9cdd0-e0bf-4726-aa9c-42c506c85936",
   "board": "/town set board [msg]",
-  "founder": "Vacet01",
+  "founder": "Gh0stTripleSix",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "nestanui",
-   "uuid": "3622f892-a424-4ca5-8140-61e886ade0fa"
+   "name": "Gh0stTripleSix",
+   "uuid": "4173cae7-0dc5-4c0b-b4c8-5e91f6641a17"
   },
   "nation": {
    "name": "Sumer",
    "uuid": "bfb0b0ce-26c6-492e-a161-4a3f86079da8"
   },
   "timestamps": {
-   "registered": 1779128522801,
-   "joinedNationAt": 1788089884094,
+   "registered": 1793793749278,
+   "joinedNationAt": 1793793802394,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 19,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 7,
-   "balance": 0.0,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,84 +80,125 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 15314.44905356202,
-    "y": 65.0,
-    "z": -5305.437486398298,
-    "pitch": -3.7736397,
-    "yaw": -91.16162
+    "x": 15824.754168360576,
+    "y": 63.0,
+    "z": -4388.229233223635,
+    "pitch": 12.450711,
+    "yaw": -19.0271
    },
    "homeBlock": [
-    957,
-    -332
+    989,
+    -275
    ],
    "townBlocks": [
     [
-     958,
-     -330
+     989,
+     -273
     ],
     [
-     957,
-     -332
+     988,
+     -273
     ],
     [
-     957,
-     -331
+     988,
+     -274
     ],
     [
-     958,
-     -331
+     988,
+     -275
     ],
     [
-     958,
-     -332
+     989,
+     -275
+    ],
+    [
+     989,
+     -274
+    ],
+    [
+     993,
+     -273
+    ],
+    [
+     993,
+     -274
+    ],
+    [
+     993,
+     -275
+    ],
+    [
+     991,
+     -275
+    ],
+    [
+     992,
+     -273
+    ],
+    [
+     992,
+     -274
+    ],
+    [
+     992,
+     -275
+    ],
+    [
+     992,
+     -276
+    ],
+    [
+     990,
+     -274
+    ],
+    [
+     990,
+     -275
+    ],
+    [
+     991,
+     -273
+    ],
+    [
+     990,
+     -273
+    ],
+    [
+     991,
+     -274
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "nestanui",
-    "uuid": "3622f892-a424-4ca5-8140-61e886ade0fa"
+    "name": "Gh0stTripleSix",
+    "uuid": "4173cae7-0dc5-4c0b-b4c8-5e91f6641a17"
    },
    {
-    "name": "Icyblox8",
-    "uuid": "a514b407-a7e7-43ca-a9b1-7b4c946a4729"
+    "name": "JellyPuuBean",
+    "uuid": "27535d1d-2fdd-4737-a8a7-a87bb52a80c0"
    }
   ],
-  "trusted": [],
-  "outlaws": [
+  "trusted": [
    {
-    "name": "thebestLung",
-    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+    "name": "Andakira",
+    "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
    },
    {
-    "name": "FindItCooper",
-    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
-   },
-   {
-    "name": "MuchJester",
-    "uuid": "c8103fce-800b-4c9f-882f-27cd3cbb0cd2"
-   },
-   {
-    "name": "DisasterRoyal346",
-    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
-   },
-   {
-    "name": "0xMilord",
-    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
-   },
-   {
-    "name": "_Srdjan",
-    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
-   },
-   {
-    "name": "YanaiThePig",
-    "uuid": "2f97d6f3-a0f8-40a1-b3b2-051c96eb1115"
+    "name": "JellyPuuBean",
+    "uuid": "27535d1d-2fdd-4737-a8a7-a87bb52a80c0"
    }
   ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "JellyPuuBean",
+     "uuid": "27535d1d-2fdd-4737-a8a7-a87bb52a80c0"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

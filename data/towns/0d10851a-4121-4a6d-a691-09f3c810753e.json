@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "YetisVille",
   "uuid": "0d10851a-4121-4a6d-a691-09f3c810753e",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -96,6 +96,10 @@
      -1849
     ],
     [
+     -1957,
+     -1849
+    ],
+    [
      -1955,
      -1848
     ],
@@ -121,7 +125,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "s___h___u",
+    "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

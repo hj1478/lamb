@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Miku",
   "uuid": "179f2d71-d10c-49d0-8786-64059c3c1ed1",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 14,
+   "numResidents": 2,
+   "numTrusted": 15,
    "numOutlaws": 2,
-   "balance": 3192.0,
+   "balance": 285.0,
    "forSalePrice": null
   },
   "perms": {
@@ -555,10 +555,6 @@
    {
     "name": "szzsssja",
     "uuid": "81700b70-fca9-4757-b0e9-b9a46f0512dc"
-   },
-   {
-    "name": "RainFallOvO",
-    "uuid": "ebd3d6ca-31b8-4da2-b6bb-d5dfb0ac89be"
    }
   ],
   "trusted": [
@@ -569,6 +565,10 @@
    {
     "name": "MuQiuuuu",
     "uuid": "2a91bbb0-130d-41b3-880c-09fa520f50a4"
+   },
+   {
+    "name": "SnowRae",
+    "uuid": "f055acda-c2cf-45e9-9c55-b5e4697159cd"
    },
    {
     "name": "fiovo",
@@ -631,12 +631,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "RainFallOvO",
-     "uuid": "ebd3d6ca-31b8-4da2-b6bb-d5dfb0ac89be"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

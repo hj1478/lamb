@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Minion",
   "uuid": "0bee6d84-b755-4140-8716-58c721d847ce",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 2.0,
@@ -92,8 +92,20 @@
    ],
    "townBlocks": [
     [
+     -1878,
+     -694
+    ],
+    [
+     -1879,
+     -695
+    ],
+    [
      -1879,
      -694
+    ],
+    [
+     -1878,
+     -695
     ]
    ],
    "worlds": {}
@@ -106,10 +118,6 @@
    {
     "name": "ratdoy",
     "uuid": "a7aa7898-ca6c-4147-9af9-94188b51e653"
-   },
-   {
-    "name": "Joshflameb0y",
-    "uuid": "23d1a3e0-aba5-4ede-89c5-492c906a7b7d"
    }
   ],
   "trusted": [],
@@ -121,10 +129,6 @@
     {
      "name": "ratdoy",
      "uuid": "a7aa7898-ca6c-4147-9af9-94188b51e653"
-    },
-    {
-     "name": "Joshflameb0y",
-     "uuid": "23d1a3e0-aba5-4ede-89c5-492c906a7b7d"
     }
    ],
    "Recruiter": [],

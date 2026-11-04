@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Proithia",
   "uuid": "04cda270-ecfd-4817-9bdb-7cfa9313e592",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 29,
+   "numTownBlocks": 34,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -2531,
+     -780
+    ],
+    [
+     -2531,
      -775
     ],
     [
@@ -114,6 +118,18 @@
     [
      -2531,
      -776
+    ],
+    [
+     -2532,
+     -779
+    ],
+    [
+     -2532,
+     -778
+    ],
+    [
+     -2532,
+     -775
     ],
     [
      -2530,
@@ -142,16 +158,16 @@
     [
      -2528,
      -776
-    ],
-    [
-     -2528,
-     -775
     ],
     [
      -2529,
      -773
     ],
     [
+     -2528,
+     -775
+    ],
+    [
      -2529,
      -776
     ],
@@ -162,6 +178,10 @@
     [
      -2529,
      -775
+    ],
+    [
+     -2528,
+     -773
     ],
     [
      -2529,
@@ -216,12 +236,7 @@
     "uuid": "9e404660-c8bf-4104-8ba5-940cf086c877"
    }
   ],
-  "trusted": [
-   {
-    "name": "Drixla",
-    "uuid": "6eb12c59-5387-4520-8e58-6409ae2f9d42"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

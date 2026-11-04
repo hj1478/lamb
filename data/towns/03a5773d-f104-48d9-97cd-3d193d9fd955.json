@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Bratislava",
   "uuid": "03a5773d-f104-48d9-97cd-3d193d9fd955",
-  "board": "Hello, have a nice day!",
+  "board": "Hello, and have a nice day!",
   "founder": "Libor2",
   "wiki": "https://wiki.earthmc.net/wiki/Nostra:Bratislava",
   "discord": null,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 285,
-   "maxTownBlocks": 412,
+   "maxTownBlocks": 376,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
+   "numResidents": 23,
    "numTrusted": 0,
-   "numOutlaws": 38,
-   "balance": 103.0,
+   "numOutlaws": 37,
+   "balance": 125.0,
    "forSalePrice": null
   },
   "perms": {
@@ -336,16 +336,12 @@
      -671
     ],
     [
-     401,
-     -670
-    ],
-    [
      395,
      -665
     ],
     [
      401,
-     -671
+     -670
     ],
     [
      395,
@@ -353,7 +349,7 @@
     ],
     [
      401,
-     -672
+     -671
     ],
     [
      395,
@@ -361,11 +357,15 @@
     ],
     [
      401,
-     -673
+     -672
     ],
     [
      395,
      -664
+    ],
+    [
+     401,
+     -673
     ],
     [
      401,
@@ -404,36 +404,36 @@
      -662
     ],
     [
-     401,
-     -663
-    ],
-    [
      390,
      -658
     ],
     [
      401,
-     -664
-    ],
-    [
-     395,
-     -671
+     -663
     ],
     [
      390,
      -659
     ],
     [
+     395,
+     -671
+    ],
+    [
      401,
-     -665
+     -664
+    ],
+    [
+     390,
+     -660
     ],
     [
      395,
      -672
     ],
     [
-     390,
-     -660
+     401,
+     -665
     ],
     [
      401,
@@ -1240,28 +1240,8 @@
     "uuid": "b6defb86-ddd9-40d6-83ab-b2ddcd976adf"
    },
    {
-    "name": "FormulaCurve259",
-    "uuid": "c4dad336-b8e4-4710-a913-1ec77c52330c"
-   },
-   {
     "name": "VilikR",
     "uuid": "910d4eac-99f6-41ad-88a6-d5a3fbd86443"
-   },
-   {
-    "name": "Mixer1818",
-    "uuid": "aa48f8b0-a453-49ad-b318-3ec332457637"
-   },
-   {
-    "name": "Tupirek2",
-    "uuid": "958eb96d-fdc1-4853-b36d-52637a1a31df"
-   },
-   {
-    "name": "Old_Simon16",
-    "uuid": "7d131bd2-ba76-4e38-bd17-a0199cabbede"
-   },
-   {
-    "name": "SteelRegt",
-    "uuid": "f8f51cec-7134-4e2f-af5e-17cf14701bde"
    },
    {
     "name": "Fidercek",
@@ -1338,14 +1318,18 @@
    {
     "name": "Hertlik",
     "uuid": "4f9a96d9-ed9e-4c0c-8e7a-e4cbbab580a7"
+   },
+   {
+    "name": "CataclysmicAV",
+    "uuid": "333f4c7a-5d9e-4b2e-b139-6b527e345a01"
+   },
+   {
+    "name": "orindzada",
+    "uuid": "3cca751d-aa3d-4cef-a4e8-2339cfc221ee"
    }
   ],
   "trusted": [],
   "outlaws": [
-   {
-    "name": "DisasterRoyal346",
-    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
-   },
    {
     "name": "Fix",
     "uuid": "7395d056-536a-4cf3-9c96-6c7a7df6897a"
@@ -1411,6 +1395,10 @@
     "uuid": "97f80994-159c-4d9f-b3be-db45797acb15"
    },
    {
+    "name": "Zsomesz",
+    "uuid": "320774a0-8f1a-416f-892c-ef70fefe55e4"
+   },
+   {
     "name": "BaroqueMan",
     "uuid": "cbfefb43-fd35-4db5-b2f3-e2e919d55d96"
    },
@@ -1425,10 +1413,6 @@
    {
     "name": "elpapito7",
     "uuid": "eb3895bc-852e-4814-910a-ea4327ad6221"
-   },
-   {
-    "name": "dino2255435",
-    "uuid": "f1dab488-c1b7-49c7-bfe0-99d31df1f3be"
    },
    {
     "name": "HeavyChampin",
@@ -1457,10 +1441,6 @@
    {
     "name": "Vanilth",
     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
-   },
-   {
-    "name": "bob_bluesceer",
-    "uuid": "210153c0-6156-4778-8b7c-db97f0ea8216"
    },
    {
     "name": "_mountains_",
@@ -1493,6 +1473,10 @@
    {
     "name": "KickFlexisssek",
     "uuid": "71a87a4d-968a-4435-a6b9-305d43ee0ba5"
+   },
+   {
+    "name": "0P2W",
+    "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
    }
   ],
   "quarters": [],
@@ -1500,10 +1484,6 @@
    "Councillor": [],
    "Builder": [],
    "Recruiter": [
-    {
-     "name": "FormulaCurve259",
-     "uuid": "c4dad336-b8e4-4710-a913-1ec77c52330c"
-    },
     {
      "name": "VilikR",
      "uuid": "910d4eac-99f6-41ad-88a6-d5a3fbd86443"

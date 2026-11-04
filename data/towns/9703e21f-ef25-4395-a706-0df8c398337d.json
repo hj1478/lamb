@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Inlet_Bay",
-  "uuid": "e41ff41c-0622-45bc-95a7-ec06bb0cb470",
-  "board": "the entrance to Victoria.",
-  "founder": "goof10707",
+  "name": "Gnomeregan",
+  "uuid": "9703e21f-ef25-4395-a706-0df8c398337d",
+  "board": "/town set board [msg]",
+  "founder": "CopperBrain",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC12",
-   "uuid": "379a9484-fad1-200a-a7a5-b4e683d05b8e"
+   "name": "CopperBrain",
+   "uuid": "794b0fc2-0d8a-48f7-948a-dfb3aef8e0a7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
-   "registered": 1789837824098,
-   "joinedNationAt": null,
-   "ruinedAt": 1793527200720
+   "registered": 1793735936708,
+   "joinedNationAt": 1793735973085,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 52497.048646853764,
-    "y": 63.0,
-    "z": 22589.228909755013,
-    "pitch": -1.1608155,
-    "yaw": -6.5298157
+    "x": 10578.55697811274,
+    "y": 87.0,
+    "z": -6082.516541324737,
+    "pitch": 6.00003,
+    "yaw": 169.41406
    },
    "homeBlock": [
-    3281,
-    1411
+    661,
+    -381
    ],
    "townBlocks": [
     [
-     3281,
-     1411
+     661,
+     -381
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC12",
-    "uuid": "379a9484-fad1-200a-a7a5-b4e683d05b8e"
+    "name": "CopperBrain",
+    "uuid": "794b0fc2-0d8a-48f7-948a-dfb3aef8e0a7"
    }
   ],
   "trusted": [],

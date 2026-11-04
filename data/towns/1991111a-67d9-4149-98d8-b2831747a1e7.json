@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Eswatini",
   "uuid": "1991111a-67d9-4149-98d8-b2831747a1e7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "L3_CHEESEMAN",
-   "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
+   "name": "Cy3pher",
+   "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
   },
   "nation": {
    "name": "RSA",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10452.470153572214,
+    "x": 10452.612098281545,
     "y": 91.0,
-    "z": 18217.33965790783,
-    "pitch": 0.20518315,
-    "yaw": 177.97464
+    "z": 18217.414034646805,
+    "pitch": 11.709908,
+    "yaw": -179.23532
    },
    "homeBlock": [
     653,
@@ -244,15 +244,25 @@
   },
   "residents": [
    {
+    "name": "Cy3pher",
+    "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
+   }
+  ],
+  "trusted": [
+   {
     "name": "L3_CHEESEMAN",
     "uuid": "c0b3dd00-0e03-4807-b582-1391e1303ed1"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Cy3pher",
+     "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

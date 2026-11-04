@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Cluj_City",
   "uuid": "07771187-b551-45ed-8c1d-5ac6d3fb0882",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ombladon_GOAT",
-   "uuid": "38aabf1f-2e60-4617-bc35-fb4e46945de7"
+   "name": "NPC17",
+   "uuid": "60d9fc06-b4d6-20b9-899f-27f0b65b36ae"
   },
   "nation": {
-   "name": "Romania",
-   "uuid": "c86ccd50-b82b-4a33-93ec-b009822bfab3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788975619899,
-   "joinedNationAt": 1788975794691,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793786400417
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,8 +140,8 @@
   },
   "residents": [
    {
-    "name": "Ombladon_GOAT",
-    "uuid": "38aabf1f-2e60-4617-bc35-fb4e46945de7"
+    "name": "NPC17",
+    "uuid": "60d9fc06-b4d6-20b9-899f-27f0b65b36ae"
    }
   ],
   "trusted": [],

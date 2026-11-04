@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Noto",
   "uuid": "14000d75-71ba-4171-a505-cc887da1cc6e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "EvilBurger5408",
-   "uuid": "ca809d32-46d0-41a2-b06e-3951caaff92e"
+   "name": "NPC1",
+   "uuid": "a61a0850-9f7a-20f2-975b-d1d8d4c8e82d"
   },
   "nation": {
-   "name": "Karafuto",
-   "uuid": "25c9850a-5b7a-4b90-8ef9-1c1f58dbde54"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777774075845,
-   "joinedNationAt": 1777969245637,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793700002844
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -336,8 +336,8 @@
   },
   "residents": [
    {
-    "name": "EvilBurger5408",
-    "uuid": "ca809d32-46d0-41a2-b06e-3951caaff92e"
+    "name": "NPC1",
+    "uuid": "a61a0850-9f7a-20f2-975b-d1d8d4c8e82d"
    }
   ],
   "trusted": [
@@ -354,7 +354,7 @@
     "uuid": "e3772330-5be2-45c1-841c-d498f4e83d2c"
    },
    {
-    "name": "Wakefields",
+    "name": "Zealandian",
     "uuid": "bb009a85-b879-4de4-b3ed-4fe2701f8ead"
    },
    {

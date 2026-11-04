@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Somniora_Haven",
   "uuid": "17c7baa6-1e88-4078-aee4-b9960b04fa5a",
@@ -12,12 +12,12 @@
    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
    "registered": 1792797697412,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793545733410,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,52 @@
    ],
    "townBlocks": [
     [
-     2077,
+     2076,
      -151
     ],
     [
      2076,
+     -150
+    ],
+    [
+     2076,
+     -149
+    ],
+    [
+     2077,
      -151
+    ],
+    [
+     2077,
+     -152
+    ],
+    [
+     2074,
+     -149
+    ],
+    [
+     2075,
+     -149
+    ],
+    [
+     2074,
+     -150
+    ],
+    [
+     2074,
+     -151
+    ],
+    [
+     2075,
+     -151
+    ],
+    [
+     2074,
+     -152
+    ],
+    [
+     2075,
+     -150
     ],
     [
      2078,
@@ -108,11 +148,27 @@
      -151
     ],
     [
-     2076,
-     -150
+     2075,
+     -152
+    ],
+    [
+     2078,
+     -149
+    ],
+    [
+     2073,
+     -151
     ],
     [
      2077,
+     -149
+    ],
+    [
+     2077,
+     -150
+    ],
+    [
+     2073,
      -150
     ]
    ],
@@ -124,7 +180,12 @@
     "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Magmark",
+    "uuid": "1020b785-2dd4-499e-9d50-91e5706095dd"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

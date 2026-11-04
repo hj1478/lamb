@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Nordmore",
   "uuid": "01a5ea0b-957d-42a6-a5d3-bbe7fc65495c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "UtaXM",
-   "uuid": "71290c5b-dd83-434b-9d04-7552b6cf7477"
+   "name": "NPC10",
+   "uuid": "ffffac0d-ffa1-2062-97f1-c8a00a64005d"
   },
   "nation": {
-   "name": "Nordic",
-   "uuid": "74a7bf52-7668-4985-896a-c83ca92322f2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789310977677,
-   "joinedNationAt": 1789311020621,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793700000818
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -120,8 +120,8 @@
   },
   "residents": [
    {
-    "name": "UtaXM",
-    "uuid": "71290c5b-dd83-434b-9d04-7552b6cf7477"
+    "name": "NPC10",
+    "uuid": "ffffac0d-ffa1-2062-97f1-c8a00a64005d"
    }
   ],
   "trusted": [],

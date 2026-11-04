@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Black_Belt",
   "uuid": "0aafdfdc-04b4-4630-9679-e51f2f395808",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 178,
-   "maxTownBlocks": 280,
+   "numTownBlocks": 179,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
+   "numResidents": 13,
    "numTrusted": 11,
-   "numOutlaws": 6,
-   "balance": 111.0,
+   "numOutlaws": 5,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -637,6 +637,10 @@
     ],
     [
      661,
+     713
+    ],
+    [
+     661,
      714
     ],
     [
@@ -816,14 +820,6 @@
     "uuid": "62ba992c-a896-414d-ab0f-4f48c3123f68"
    },
    {
-    "name": "sun_sun_day",
-    "uuid": "bf36280a-3196-45f9-83d1-2fe6e55065c9"
-   },
-   {
-    "name": "ptweeze",
-    "uuid": "800a60fb-b440-48f0-b2e1-9c0988904ff0"
-   },
-   {
     "name": "RedstoneClok",
     "uuid": "2b984f2c-086f-407b-9bb9-b3fcae85eeff"
    },
@@ -916,10 +912,6 @@
   ],
   "outlaws": [
    {
-    "name": "BSS_is_the_best",
-    "uuid": "448dc313-59dc-4e54-a095-1cbb40ee5a11"
-   },
-   {
     "name": "akabur",
     "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
    },
@@ -932,19 +924,15 @@
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "CTM0029",
-    "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
-   },
-   {
     "name": "Lukegvespa",
     "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
+   },
+   {
+    "name": "CTM0029",
+    "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
    }
   ],
   "quarters": [
-   {
-    "name": "Enraging Quarter",
-    "uuid": "c5f0892f-8b5c-4d21-b85e-d13eb9cb4006"
-   },
    {
     "name": "Welcoming Residence",
     "uuid": "7e261c26-07b4-4f8f-877b-502bcb144f85"
@@ -960,6 +948,10 @@
    {
     "name": "Lovely Quarter",
     "uuid": "6a66cfee-e6e0-4b02-9b45-ef442f119d6a"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "c5f0892f-8b5c-4d21-b85e-d13eb9cb4006"
    }
   ],
   "ranks": {
@@ -981,56 +973,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "storage",
-    "uuid": "85081d3c-91c9-42f1-b083-54f59df88543",
-    "createdAt": 1792769870847,
-    "createdBy": "CaptainOFCopper",
-    "access": "RESIDENT",
-    "location": {
-     "x": 10328,
-     "y": 79,
-     "z": 11385
-    }
-   },
-   {
-    "name": "Desta",
-    "uuid": "2cdc45b4-ab24-41a9-bcb0-d0318a022fb6",
-    "createdAt": 1792648794249,
-    "createdBy": "CaptainOFCopper",
-    "access": "RESIDENT",
-    "location": {
-     "x": 10550,
-     "y": 83,
-     "z": 11441
-    }
-   },
-   {
-    "name": "Farm",
-    "uuid": "6dd4db0d-eb95-4307-826a-8126648503b2",
-    "createdAt": 1792073341823,
-    "createdBy": "CaptainOFCopper",
-    "access": "RESIDENT",
-    "location": {
-     "x": 10439,
-     "y": 42,
-     "z": 11436
-    }
-   },
-   {
-    "name": "CanalSt",
-    "uuid": "9d410265-35f6-4c07-b38e-b9f25665ba7a",
-    "createdAt": 1792868344947,
-    "createdBy": "CaptainOFCopper",
-    "access": "RESIDENT",
-    "location": {
-     "x": 10368,
-     "y": 81,
-     "z": 11331
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

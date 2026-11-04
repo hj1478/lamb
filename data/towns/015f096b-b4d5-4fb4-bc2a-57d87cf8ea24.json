@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Lima_Makam",
-  "uuid": "f28d1632-d523-481b-b487-9dee6e3d1d7a",
+  "name": "Sao_Santos",
+  "uuid": "015f096b-b4d5-4fb4-bc2a-57d87cf8ea24",
   "board": "/town set board [msg]",
-  "founder": "calie9336",
+  "founder": "_Lazersplin_",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC107",
-   "uuid": "03e4dcfe-138e-2096-afdf-b251d952593a"
+   "name": "_Lazersplin_",
+   "uuid": "baca1e6b-fb16-4cad-bccf-d9df6f61c5d5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
-   "registered": 1792855298058,
-   "joinedNationAt": null,
-   "ruinedAt": 1793454848098
+   "registered": 1793745260462,
+   "joinedNationAt": 1793745370567,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,69 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 38727.17191405558,
-    "y": 79.0,
-    "z": -4931.17063719867,
-    "pitch": 55.79985,
-    "yaw": -24.852783
+    "x": -17394.68147674669,
+    "y": 63.0,
+    "z": 17323.943968322008,
+    "pitch": 23.289482,
+    "yaw": 77.02498
    },
    "homeBlock": [
-    2420,
-    -309
+    -1088,
+    1082
    ],
    "townBlocks": [
     [
-     2420,
-     -309
+     -1088,
+     1082
+    ],
+    [
+     -1089,
+     1082
+    ],
+    [
+     -1088,
+     1081
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC107",
-    "uuid": "03e4dcfe-138e-2096-afdf-b251d952593a"
+    "name": "_Lazersplin_",
+    "uuid": "baca1e6b-fb16-4cad-bccf-d9df6f61c5d5"
    }
   ],
   "trusted": [],

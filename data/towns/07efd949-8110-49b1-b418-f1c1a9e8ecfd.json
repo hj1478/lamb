@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "DPRC",
   "uuid": "07efd949-8110-49b1-b418-f1c1a9e8ecfd",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 84,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
+   "nationBonus": 60,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 505.0,
@@ -434,22 +434,13 @@
    {
     "name": "Moek32",
     "uuid": "4baf7707-60f3-4000-a45b-a7e074963156"
-   },
-   {
-    "name": "Sirdropsalot23",
-    "uuid": "7cb7241b-ed02-4104-b710-146cbb3af58a"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Sirdropsalot23",
-     "uuid": "7cb7241b-ed02-4104-b710-146cbb3af58a"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

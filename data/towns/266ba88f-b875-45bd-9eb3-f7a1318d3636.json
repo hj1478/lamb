@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Muzaffarabad",
   "uuid": "266ba88f-b875-45bd-9eb3-f7a1318d3636",
@@ -12,12 +12,12 @@
    "uuid": "120022ce-398d-493c-9e45-b1d7b5825167"
   },
   "nation": {
-   "name": "Narmada",
-   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790509231540,
-   "joinedNationAt": 1790509890417,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 2,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -142,11 +142,15 @@
   ],
   "trusted": [
    {
+    "name": "gangster1221",
+    "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
+   },
+   {
     "name": "_Melix_",
     "uuid": "b9ff4951-de4b-4d9d-aab2-2c64cc054f57"
    },
    {
-    "name": "SaintStrxy",
+    "name": "DieaRestrict",
     "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
    }
   ],

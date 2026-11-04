@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Fort_Golfi",
   "uuid": "111b7577-b0e9-4c11-9d46-268d7c835f50",
-  "board": "A Neat Little Fort",
+  "board": "Poland still mogging",
   "founder": "Golfistayt",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Golfistayt",
-   "uuid": "c0158fce-b350-4e6a-8243-d9f2af576c72"
+   "name": "NPC132",
+   "uuid": "eac89ebe-b338-2024-8bdd-cac47820a8d0"
   },
   "nation": {
-   "name": "Zion",
-   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778600393229,
-   "joinedNationAt": 1783874819870,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793648887971
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
-   "isForSale": true,
-   "hasNation": true,
+   "isOverClaimed": true,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 86,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 38.0,
-   "forSalePrice": 1500.0
+   "balance": 0.0,
+   "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -440,15 +440,24 @@
   },
   "residents": [
    {
-    "name": "Golfistayt",
-    "uuid": "c0158fce-b350-4e6a-8243-d9f2af576c72"
-   },
-   {
-    "name": "GrandLordKnight",
-    "uuid": "aac2588b-7eeb-4ece-ad3d-010c2a9d9c30"
+    "name": "NPC132",
+    "uuid": "eac89ebe-b338-2024-8bdd-cac47820a8d0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Gintimurff",
+    "uuid": "2e7348a1-da20-48e8-91ed-00e414292168"
+   },
+   {
+    "name": "dzemzesliwka",
+    "uuid": "fc5111c2-5783-4705-b3be-10fa378e1e46"
+   },
+   {
+    "name": "Don_Peanut",
+    "uuid": "6e06731f-22b9-4898-985a-4d654ecd6420"
+   }
+  ],
   "outlaws": [
    {
     "name": "0xBit",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Sevastopol",
   "uuid": "119a9222-9ae8-41b8-b9eb-a71377e27e9f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "KojoX2",
-   "uuid": "3715973b-f945-45e8-809e-276e13dd911e"
+   "name": "NPC109",
+   "uuid": "e0edad5d-0f61-202e-a793-51db207365bb"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1776618138527,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793559646482
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": false,
+   "isOverClaimed": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,7 +36,7 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 0,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "KojoX2",
-    "uuid": "3715973b-f945-45e8-809e-276e13dd911e"
+    "name": "NPC109",
+    "uuid": "e0edad5d-0f61-202e-a793-51db207365bb"
    }
   ],
   "trusted": [

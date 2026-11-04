@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Golden_Triangle",
   "uuid": "23cd05ff-61fc-4406-8182-46796dd9d4ae",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 52,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 61,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 75.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,21 +73,21 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35000.49945480124,
-    "y": -19.0,
-    "z": -1495.507570070864,
-    "pitch": -1.6500102,
-    "yaw": -179.52834
+    "x": 34966.50006625856,
+    "y": 28.0,
+    "z": -1495.4956739592374,
+    "pitch": -1.9520521e-05,
+    "yaw": -89.978775
    },
    "homeBlock": [
-    2187,
+    2185,
     -94
    ],
    "townBlocks": [
@@ -148,6 +148,30 @@
      -98
     ],
     [
+     2191,
+     -95
+    ],
+    [
+     2192,
+     -93
+    ],
+    [
+     2191,
+     -94
+    ],
+    [
+     2192,
+     -94
+    ],
+    [
+     2191,
+     -93
+    ],
+    [
+     2192,
+     -95
+    ],
+    [
      2184,
      -95
     ],
@@ -256,8 +280,20 @@
      -90
     ],
     [
+     2190,
+     -95
+    ],
+    [
      2187,
      -89
+    ],
+    [
+     2190,
+     -93
+    ],
+    [
+     2190,
+     -94
     ],
     [
      2182,

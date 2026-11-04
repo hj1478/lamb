@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Trade",
   "uuid": "12f8361c-9642-46fb-892a-aea10685c01d",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 252,
-   "maxTownBlocks": 376,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 23,
+   "numResidents": 24,
    "numTrusted": 7,
-   "numOutlaws": 34,
-   "balance": 72.0,
+   "numOutlaws": 33,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4081.6993521811455,
-    "y": 69.0,
-    "z": -13358.978746457457,
-    "pitch": 3.9059458,
-    "yaw": -90.26976
+    "x": 4068.5606816734125,
+    "y": 63.0,
+    "z": -13335.510367028153,
+    "pitch": 0.79753083,
+    "yaw": -90.16232
    },
    "homeBlock": [
-    255,
-    -835
+    254,
+    -834
    ],
    "townBlocks": [
     [
@@ -404,20 +404,20 @@
      -831
     ],
     [
-     255,
-     -828
-    ],
-    [
      250,
      -828
     ],
     [
      255,
-     -827
+     -828
     ],
     [
      250,
      -829
+    ],
+    [
+     255,
+     -827
     ],
     [
      263,
@@ -1194,6 +1194,10 @@
    {
     "name": "SebaCieBije",
     "uuid": "5a10ae0f-c47e-44bb-bef2-febd32c5492d"
+   },
+   {
+    "name": "NessaSpillsTea",
+    "uuid": "37d17ba0-cf13-4869-aff5-8bdb579b3de8"
    }
   ],
   "trusted": [
@@ -1262,10 +1266,6 @@
    {
     "name": "Wolhf",
     "uuid": "64105370-21f3-434a-a3e6-5d17222c03ac"
-   },
-   {
-    "name": "_Nai_Long_",
-    "uuid": "b7fbda72-8224-459a-a178-900b85f48f61"
    },
    {
     "name": "0P2W",
@@ -1383,6 +1383,10 @@
     {
      "name": "dyno434",
      "uuid": "f4e6460f-45ec-417a-aedd-a967893444b8"
+    },
+    {
+     "name": "NessaSpillsTea",
+     "uuid": "37d17ba0-cf13-4869-aff5-8bdb579b3de8"
     }
    ],
    "Builder": [

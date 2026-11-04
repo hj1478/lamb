@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Kauai",
   "uuid": "2459d9bb-3add-4212-9602-b5d062bd4526",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 230,
-   "maxTownBlocks": 228,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 14,
+   "numResidents": 15,
    "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 11261.0,
+   "balance": 10947.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1015,6 +1015,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "OhMaxwellz",
+    "uuid": "a100b706-6bdd-423a-85ba-1bd022f68312"
+   },
    {
     "name": "theosubx",
     "uuid": "661dc1a6-6365-4111-b05a-6da8dec14b2b"

@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Newtown",
-  "uuid": "d0ea4b7f-5a2d-4758-ae9e-eec96e5de285",
-  "board": "Peaceful town",
-  "founder": "JA_Official",
+  "name": "Weeb_Town",
+  "uuid": "c784487a-8b05-47a4-838d-e4d9ee003892",
+  "board": "/town set board [msg]",
+  "founder": "ItsZenn",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC60",
-   "uuid": "bc56fdfa-c4af-207b-93fe-5c7a4664ed49"
+   "name": "ItsZenn",
+   "uuid": "7c7adf6b-7a31-4053-a712-c4a71d625354"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1785610446693,
+   "registered": 1793740338860,
    "joinedNationAt": null,
-   "ruinedAt": 1793527201708
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,93 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 26758.820582166198,
-    "y": 71.0,
-    "z": -11960.61166898746,
-    "pitch": 1.6501511,
-    "yaw": -87.73718
+    "x": 43534.673074266204,
+    "y": 68.0,
+    "z": 999.910831346934,
+    "pitch": 18.007282,
+    "yaw": 157.77539
    },
    "homeBlock": [
-    1672,
-    -748
+    2720,
+    62
    ],
    "townBlocks": [
     [
-     1672,
-     -749
-    ],
-    [
-     1673,
-     -747
-    ],
-    [
-     1673,
-     -748
-    ],
-    [
-     1672,
-     -747
-    ],
-    [
-     1673,
-     -749
-    ],
-    [
-     1672,
-     -748
+     2720,
+     62
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC60",
-    "uuid": "bc56fdfa-c4af-207b-93fe-5c7a4664ed49"
+    "name": "ItsZenn",
+    "uuid": "7c7adf6b-7a31-4053-a712-c4a71d625354"
    }
   ],
   "trusted": [],

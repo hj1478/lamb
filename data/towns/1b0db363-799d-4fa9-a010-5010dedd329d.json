@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Cotonia",
   "uuid": "1b0db363-799d-4fa9-a010-5010dedd329d",
@@ -12,12 +12,12 @@
    "uuid": "ad19c88e-db3e-4ce0-b760-54320f1da209"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": "Zion",
+   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
   },
   "timestamps": {
    "registered": 1789922793571,
-   "joinedNationAt": 1793191926408,
+   "joinedNationAt": 1793204687193,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 220,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 224,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 10,
+   "nationBonus": 80,
+   "numResidents": 12,
    "numTrusted": 0,
-   "numOutlaws": 2,
-   "balance": 69.0,
+   "numOutlaws": 3,
+   "balance": 118.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -37075.0720678741,
+    "x": -37074.05786993508,
     "y": 79.0,
-    "z": -9672.018830123941,
-    "pitch": 89.75906,
-    "yaw": -90.95382
+    "z": -9671.997729516013,
+    "pitch": 90.0,
+    "yaw": -90.3501
    },
    "homeBlock": [
     -2318,
@@ -136,6 +136,14 @@
      -606
     ],
     [
+     -2320,
+     -605
+    ],
+    [
+     -2320,
+     -604
+    ],
+    [
      -2318,
      -604
     ],
@@ -164,16 +172,44 @@
      -606
     ],
     [
+     -2320,
+     -606
+    ],
+    [
+     -2322,
+     -604
+    ],
+    [
+     -2322,
+     -606
+    ],
+    [
+     -2322,
+     -605
+    ],
+    [
      -2314,
      -606
+    ],
+    [
+     -2321,
+     -605
     ],
     [
      -2314,
      -605
     ],
     [
+     -2321,
+     -604
+    ],
+    [
      -2314,
      -604
+    ],
+    [
+     -2321,
+     -606
     ],
     [
      -2312,
@@ -200,20 +236,12 @@
     "uuid": "ad19c88e-db3e-4ce0-b760-54320f1da209"
    },
    {
-    "name": "RejainTM",
-    "uuid": "4d01a79a-e739-48be-b0ef-a791f6337224"
-   },
-   {
     "name": "crayondoid",
     "uuid": "502ddea4-f597-40bf-a29b-84ae1be337c8"
    },
    {
     "name": "Mintz_11",
     "uuid": "09996fd6-8941-4567-968b-004e85e7bccc"
-   },
-   {
-    "name": "RoBro747",
-    "uuid": "af25b0f2-b47e-4321-b4a8-6fc21c196ae6"
    },
    {
     "name": "KzobaTheBuilder",
@@ -234,6 +262,22 @@
    {
     "name": "MACTEPOFF",
     "uuid": "cb481ebb-21b3-43af-9531-005601690961"
+   },
+   {
+    "name": "MineBadMoron",
+    "uuid": "ab5d42ea-7824-4cd2-b736-66e0bf35ece5"
+   },
+   {
+    "name": "DustyOrbit",
+    "uuid": "0452ef1d-1831-4b2c-ad74-d14c49b184e2"
+   },
+   {
+    "name": "accermanw",
+    "uuid": "2ed04c6a-74db-4df4-a3a0-09de2c03c233"
+   },
+   {
+    "name": "Aapelsino",
+    "uuid": "77295dc1-096c-4b79-9271-acbd17b98101"
    }
   ],
   "trusted": [],
@@ -245,16 +289,15 @@
    {
     "name": "Aliostro",
     "uuid": "2ece4fea-2e57-4667-b2cf-30baeee1c208"
+   },
+   {
+    "name": "Trainb0y11",
+    "uuid": "8f91b278-8ad9-494f-805d-1efa532bdc15"
    }
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "RejainTM",
-     "uuid": "4d01a79a-e739-48be-b0ef-a791f6337224"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Deluxe_Estates",
   "uuid": "1218e7bc-f028-4d5e-b720-276acc036d9c",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PSIrelyr405",
-   "uuid": "b6d0302f-ef61-4665-8a4b-b7d6b24ad54c"
+   "name": "NPC78",
+   "uuid": "4068c0eb-54ba-20de-80f8-8d6f55a21f40"
   },
   "nation": {
-   "name": "Central_Coast",
-   "uuid": "3de7d85b-fecb-48a4-a77c-5cab5dc3efa9"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785769480224,
-   "joinedNationAt": 1785769536119,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793548004535
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": true,
-    "fire": false,
-    "mobs": false
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "PSIrelyr405",
-    "uuid": "b6d0302f-ef61-4665-8a4b-b7d6b24ad54c"
+    "name": "NPC78",
+    "uuid": "4068c0eb-54ba-20de-80f8-8d6f55a21f40"
    }
   ],
   "trusted": [

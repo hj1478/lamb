@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Parramatta",
   "uuid": "0e27d572-3518-41fe-9314-9240118264b1",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "VIInOni",
-   "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
+   "name": "Dinnerbone35",
+   "uuid": "c6d762f1-cb22-4e4a-86c4-9704c8905465"
   },
   "nation": {
    "name": "Indonesia",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 38,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 2,
+   "numResidents": 6,
+   "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 2273.0,
+   "balance": 645.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,38 @@
    ],
    "townBlocks": [
     [
+     3145,
+     685
+    ],
+    [
+     3145,
+     684
+    ],
+    [
+     3140,
+     687
+    ],
+    [
+     3140,
+     686
+    ],
+    [
+     3144,
+     684
+    ],
+    [
+     3145,
+     691
+    ],
+    [
+     3140,
+     685
+    ],
+    [
+     3145,
+     690
+    ],
+    [
      3144,
      687
     ],
@@ -110,6 +142,10 @@
     [
      3145,
      687
+    ],
+    [
+     3144,
+     685
     ],
     [
      3144,
@@ -176,12 +212,28 @@
      687
     ],
     [
+     3141,
+     684
+    ],
+    [
      3143,
      684
     ],
     [
+     3141,
+     685
+    ],
+    [
+     3144,
+     691
+    ],
+    [
      3144,
      689
+    ],
+    [
+     3144,
+     690
     ],
     [
      3142,
@@ -196,26 +248,46 @@
   },
   "residents": [
    {
-    "name": "LayniLaynit",
-    "uuid": "d03ab523-75d0-4b90-8516-d2fa6dbd4f3f"
-   },
-   {
     "name": "VIInOni",
     "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
    },
    {
     "name": "GabDaBoi",
     "uuid": "927c6b11-32a4-4b4b-9824-2a23f3899de5"
+   },
+   {
+    "name": "Dinnerbone35",
+    "uuid": "c6d762f1-cb22-4e4a-86c4-9704c8905465"
+   },
+   {
+    "name": "D1nFx",
+    "uuid": "b1055aec-010b-4594-b70d-f8fb304af3bc"
+   },
+   {
+    "name": "Drummerboy339",
+    "uuid": "bc72272f-9553-4472-bf39-2db02e7c23e5"
+   },
+   {
+    "name": "LavaMaster202",
+    "uuid": "e49079b9-1e4e-4632-babd-c59e962e321b"
    }
   ],
   "trusted": [
+   {
+    "name": "Sorellian_",
+    "uuid": "f2a63b88-e23d-458e-b7c5-9b39375232f0"
+   },
+   {
+    "name": "Primefire001",
+    "uuid": "01def69c-7b2a-460b-8017-1b32d0f17543"
+   },
    {
     "name": "VIInOni",
     "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
    },
    {
-    "name": "Dishonesty",
-    "uuid": "bd313b6f-ff4a-440e-affa-ffe9c5706346"
+    "name": "LakelessLands",
+    "uuid": "f224c835-8a96-49b7-b4d2-750c5f672337"
    }
   ],
   "outlaws": [
@@ -230,7 +302,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "VIInOni",
+     "uuid": "0defcdd4-9c9e-4b32-bcb5-3e2e5bbd0098"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

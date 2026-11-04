@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Mariehamn",
   "uuid": "125d3f0d-237d-47de-9b5a-0d45ce827870",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776449773746,
-   "joinedNationAt": 1793124054672,
+   "joinedNationAt": 1793381752787,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 147,
+   "numTownBlocks": 141,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
-   "numTrusted": 4,
+   "numTrusted": 2,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7234.437662990947,
-    "y": 64.0,
-    "z": -16601.30000001192,
-    "pitch": 5.5566263,
-    "yaw": -138.16342
+    "x": 7236.300000011921,
+    "y": 63.0,
+    "z": -16602.30000001192,
+    "pitch": -0.05177632,
+    "yaw": -179.97603
    },
    "homeBlock": [
     452,
@@ -361,19 +361,7 @@
     ],
     [
      451,
-     -1040
-    ],
-    [
-     451,
-     -1041
-    ],
-    [
-     451,
      -1038
-    ],
-    [
-     451,
-     -1039
     ],
     [
      451,
@@ -505,10 +493,6 @@
     ],
     [
      452,
-     -1039
-    ],
-    [
-     452,
      -1038
     ],
     [
@@ -580,15 +564,7 @@
      -1039
     ],
     [
-     452,
-     -1041
-    ],
-    [
      449,
-     -1040
-    ],
-    [
-     452,
      -1040
     ],
     [
@@ -688,8 +664,8 @@
     "uuid": "8c99edaa-5ce7-417b-986d-b11fd52047fd"
    },
    {
-    "name": "Terrafire36",
-    "uuid": "5993b4b5-17b6-4d27-9189-4e7518c0f530"
+    "name": "Tacotabacco",
+    "uuid": "2816b937-204e-422d-9496-951e25a741db"
    }
   ],
   "trusted": [
@@ -700,14 +676,6 @@
    {
     "name": "coicri",
     "uuid": "38476a63-39b8-4510-8cd0-28cdc206f257"
-   },
-   {
-    "name": "Terrafire36",
-    "uuid": "5993b4b5-17b6-4d27-9189-4e7518c0f530"
-   },
-   {
-    "name": "ChrisNoSignal",
-    "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
    }
   ],
   "outlaws": [
@@ -739,12 +707,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Terrafire36",
-     "uuid": "5993b4b5-17b6-4d27-9189-4e7518c0f530"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

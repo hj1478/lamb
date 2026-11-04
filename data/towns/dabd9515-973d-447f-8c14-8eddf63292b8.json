@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Gangwon",
-  "uuid": "4fce9ece-549e-4adc-8815-b258faa3d5d2",
-  "board": "Gangwon Era of Peace and Prosperity",
-  "founder": "LeeByeolha",
+  "name": "Qinghai",
+  "uuid": "dabd9515-973d-447f-8c14-8eddf63292b8",
+  "board": "Whatever color the sky holds, Qinghai Lake reflects",
+  "founder": "LAOLING__",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "LeeByeolha",
-   "uuid": "b76467d3-475e-4155-9b29-3281e3466bda"
+   "name": "LAOLING__",
+   "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
   },
   "nation": {
-   "name": "Korea",
-   "uuid": "3df5dfbc-0e70-48f6-8167-f7e335352d60"
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
-   "registered": 1782531431188,
-   "joinedNationAt": 1782531436489,
+   "registered": 1793781666417,
+   "joinedNationAt": 1793781677968,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -80,107 +80,84 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46086.337444368706,
-    "y": 86.0,
-    "z": -6074.7217671349335,
-    "pitch": 54.449955,
-    "yaw": 118.27503
+    "x": 36020.69999998808,
+    "y": 103.0,
+    "z": -5877.081092159853,
+    "pitch": 9.2149515,
+    "yaw": 143.02493
    },
    "homeBlock": [
-    2880,
-    -380
+    2251,
+    -368
    ],
    "townBlocks": [
     [
-     2880,
-     -381
+     2250,
+     -369
     ],
     [
-     2880,
-     -379
+     2249,
+     -367
     ],
     [
-     2880,
-     -380
+     2249,
+     -368
     ],
     [
-     2880,
-     -378
+     2250,
+     -370
     ],
     [
-     2883,
-     -381
+     2249,
+     -369
     ],
     [
-     2883,
-     -380
+     2249,
+     -370
     ],
     [
-     2883,
-     -379
+     2251,
+     -368
     ],
     [
-     2882,
-     -380
+     2251,
+     -369
     ],
     [
-     2882,
-     -381
+     2251,
+     -367
     ],
     [
-     2882,
-     -378
+     2250,
+     -367
     ],
     [
-     2882,
-     -379
+     2251,
+     -370
     ],
     [
-     2879,
-     -378
-    ],
-    [
-     2879,
-     -379
-    ],
-    [
-     2881,
-     -381
-    ],
-    [
-     2881,
-     -380
-    ],
-    [
-     2881,
-     -379
-    ],
-    [
-     2879,
-     -380
-    ],
-    [
-     2881,
-     -378
-    ],
-    [
-     2879,
-     -381
+     2250,
+     -368
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "LeeByeolha",
-    "uuid": "b76467d3-475e-4155-9b29-3281e3466bda"
-   },
-   {
-    "name": "LEEBA_I",
-    "uuid": "66548ee7-8de2-4533-a023-28c585e3b9a3"
+    "name": "LAOLING__",
+    "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "RevDestiny",
+    "uuid": "1e57446c-eeee-4cd2-9a97-0a446ea1d0b4"
+   },
+   {
+    "name": "qkrgotjd6974",
+    "uuid": "6bfea15a-a4a2-4c6d-ae40-2c39049c1f77"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

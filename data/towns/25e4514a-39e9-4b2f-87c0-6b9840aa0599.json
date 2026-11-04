@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Castor",
   "uuid": "25e4514a-39e9-4b2f-87c0-6b9840aa0599",
@@ -12,12 +12,12 @@
    "uuid": "ace6605e-cb30-4a91-b16d-33a409974170"
   },
   "nation": {
-   "name": "Romania",
-   "uuid": "c86ccd50-b82b-4a33-93ec-b009822bfab3"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1783175408672,
-   "joinedNationAt": 1786116574631,
+   "joinedNationAt": 1793446326498,
    "ruinedAt": null
   },
   "status": {
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 56,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 64,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8360.046639692368,
-    "y": 104.0,
-    "z": -9372.057472205493,
-    "pitch": 28.740797,
-    "yaw": -70.62225
+    "x": 8374.62160880619,
+    "y": 92.9375,
+    "z": -9315.006552368308,
+    "pitch": 2.8061173,
+    "yaw": -179.30852
    },
    "homeBlock": [
-    522,
-    -586
+    523,
+    -583
    ],
    "townBlocks": [
     [
@@ -124,8 +124,16 @@
      -595
     ],
     [
+     524,
+     -585
+    ],
+    [
      518,
      -594
+    ],
+    [
+     524,
+     -586
     ],
     [
      515,
@@ -134,6 +142,10 @@
     [
      516,
      -596
+    ],
+    [
+     523,
+     -583
     ],
     [
      516,
@@ -236,6 +248,14 @@
      -585
     ],
     [
+     521,
+     -584
+    ],
+    [
+     521,
+     -583
+    ],
+    [
      519,
      -597
     ],
@@ -274,6 +294,10 @@
     [
      517,
      -594
+    ],
+    [
+     522,
+     -583
     ],
     [
      522,
@@ -314,6 +338,14 @@
     [
      522,
      -589
+    ],
+    [
+     524,
+     -583
+    ],
+    [
+     524,
+     -584
     ]
    ],
    "worlds": {}

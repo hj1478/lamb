@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Dammam",
   "uuid": "0780c92a-56eb-4c04-97cb-bf9d8f46d010",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 16.0,
    "forSalePrice": null
   },
@@ -97,6 +97,10 @@
     ],
     [
      1119,
+     -101
+    ],
+    [
+     1119,
      -103
     ],
     [
@@ -122,10 +126,19 @@
    {
     "name": "SamsulKemis",
     "uuid": "55140202-80a5-495e-9417-2f0fc64cd659"
+   },
+   {
+    "name": "saszarohov",
+    "uuid": "05926bd1-1297-47f3-8d5c-08b85a184946"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Infty5",
+    "uuid": "505415f7-c7d8-4b67-9da9-8e4c1b41486a"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

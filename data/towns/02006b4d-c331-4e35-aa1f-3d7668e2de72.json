@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Silverbank",
   "uuid": "02006b4d-c331-4e35-aa1f-3d7668e2de72",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Frostcarp",
-   "uuid": "f73a333c-b9ce-404b-99b1-c18d822db4d5"
+   "name": "NPC124",
+   "uuid": "c3fc37fd-e0ff-203e-9978-c585c1f83c42"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1781814153268,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793613605776
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -200,8 +200,8 @@
   },
   "residents": [
    {
-    "name": "Frostcarp",
-    "uuid": "f73a333c-b9ce-404b-99b1-c18d822db4d5"
+    "name": "NPC124",
+    "uuid": "c3fc37fd-e0ff-203e-9978-c585c1f83c42"
    }
   ],
   "trusted": [],

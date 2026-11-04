@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Gough_Island",
-  "uuid": "3aa4eef1-7d96-4caf-83ae-82343771f6af",
+  "name": "Frogtopia",
+  "uuid": "1250e256-6295-4b1c-b71d-4dff65882168",
   "board": "/town set board [msg]",
-  "founder": "Demonreaper6666",
+  "founder": "Darth_Frog",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Demonreaper6666",
-   "uuid": "7a544fe9-aab6-42be-a4d8-792be89f9b86"
+   "name": "Darth_Frog",
+   "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Siberia",
+   "uuid": "36665c78-07a3-479a-846d-7df07208312e"
   },
   "timestamps": {
-   "registered": 1788379264750,
-   "joinedNationAt": null,
+   "registered": 1793742728361,
+   "joinedNationAt": 1793742738161,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,44 +80,68 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2408.792066124106,
-    "y": 53.0,
-    "z": 22955.070128756022,
-    "pitch": 38.550007,
-    "yaw": -1.9938965
+    "x": 20761.495589451097,
+    "y": 63.0,
+    "z": -19222.96899329833,
+    "pitch": 13.221199,
+    "yaw": -71.306
    },
    "homeBlock": [
-    -151,
-    1434
+    1297,
+    -1202
    ],
    "townBlocks": [
     [
-     -150,
-     1434
+     1297,
+     -1203
     ],
     [
-     -151,
-     1434
+     1299,
+     -1203
     ],
     [
-     -151,
-     1433
+     1297,
+     -1202
     ],
     [
-     -150,
-     1435
+     1297,
+     -1201
     ],
     [
-     -151,
-     1435
+     1299,
+     -1201
+    ],
+    [
+     1299,
+     -1202
+    ],
+    [
+     1296,
+     -1202
+    ],
+    [
+     1298,
+     -1202
+    ],
+    [
+     1298,
+     -1201
+    ],
+    [
+     1296,
+     -1201
+    ],
+    [
+     1298,
+     -1203
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Demonreaper6666",
-    "uuid": "7a544fe9-aab6-42be-a4d8-792be89f9b86"
+    "name": "Darth_Frog",
+    "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
    }
   ],
   "trusted": [],

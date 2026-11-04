@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Kolka",
   "uuid": "247f7b87-f537-4c03-904e-62988e61a5dd",
-  "board": "Were Poor!",
+  "board": "Kingdom Of Kolka",
   "founder": "mnobgdmc",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mnobgdmc",
-   "uuid": "6e7adbed-a616-4f1a-8c16-28418efd3e66"
+   "name": "Alex_Karls",
+   "uuid": "256cc94e-2bee-4b39-a553-26ae52666dba"
   },
   "nation": {
    "name": "PLC",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 66.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,19 +80,23 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8069.0019273924145,
+    "x": 8087.294622296417,
     "y": 63.0,
-    "z": -15374.6048056101,
-    "pitch": 30.150007,
-    "yaw": 2.2496884
+    "z": -15345.819299258372,
+    "pitch": 27.449903,
+    "yaw": 16.800537
    },
    "homeBlock": [
-    504,
-    -961
+    505,
+    -960
    ],
    "townBlocks": [
     [
      504,
+     -959
+    ],
+    [
+     504,
      -960
     ],
     [
@@ -100,11 +104,11 @@
      -962
     ],
     [
-     504,
+     505,
      -961
     ],
     [
-     505,
+     504,
      -961
     ],
     [
@@ -114,10 +118,50 @@
     [
      505,
      -960
+    ],
+    [
+     504,
+     -957
+    ],
+    [
+     504,
+     -958
     ],
     [
      503,
      -961
+    ],
+    [
+     505,
+     -959
+    ],
+    [
+     505,
+     -958
+    ],
+    [
+     507,
+     -959
+    ],
+    [
+     505,
+     -957
+    ],
+    [
+     506,
+     -957
+    ],
+    [
+     506,
+     -959
+    ],
+    [
+     506,
+     -958
+    ],
+    [
+     506,
+     -960
     ]
    ],
    "worlds": {}
@@ -126,13 +170,59 @@
    {
     "name": "mnobgdmc",
     "uuid": "6e7adbed-a616-4f1a-8c16-28418efd3e66"
+   },
+   {
+    "name": "PretzelSketch",
+    "uuid": "edbcbd2f-e101-4396-abdd-98292ff0048b"
+   },
+   {
+    "name": "Alex_Karls",
+    "uuid": "256cc94e-2bee-4b39-a553-26ae52666dba"
+   },
+   {
+    "name": "GR33NCAT11",
+    "uuid": "779901d3-0a30-478c-b8ed-e80ffe4b9f58"
+   },
+   {
+    "name": "SeanOConnor8843",
+    "uuid": "4a9c7559-90bb-4e73-93b3-dda5f1de9bf8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "mnobgdmc",
+    "uuid": "6e7adbed-a616-4f1a-8c16-28418efd3e66"
+   },
+   {
+    "name": "TvaikuIelasBoss",
+    "uuid": "cadd2ded-41c5-4053-a099-342e3d5ceb04"
+   },
+   {
+    "name": "PretzelSketch",
+    "uuid": "edbcbd2f-e101-4396-abdd-98292ff0048b"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "mnobgdmc",
+     "uuid": "6e7adbed-a616-4f1a-8c16-28418efd3e66"
+    },
+    {
+     "name": "PretzelSketch",
+     "uuid": "edbcbd2f-e101-4396-abdd-98292ff0048b"
+    },
+    {
+     "name": "GR33NCAT11",
+     "uuid": "779901d3-0a30-478c-b8ed-e80ffe4b9f58"
+    },
+    {
+     "name": "SeanOConnor8843",
+     "uuid": "4a9c7559-90bb-4e73-93b3-dda5f1de9bf8"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

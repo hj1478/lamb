@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Salem",
-  "uuid": "34bbece9-05e0-42f2-aa6b-7f9043411278",
+  "name": "Glowstickers",
+  "uuid": "9e2ea479-66fb-4159-a38d-1d2d5212d2b1",
   "board": "/town set board [msg]",
-  "founder": "MrThriller",
+  "founder": "Subject_Eleven_",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MrThriller",
-   "uuid": "d60dd5ce-b721-41d3-8b85-5e621e1be214"
+   "name": "Subject_Eleven_",
+   "uuid": "1b9957e9-fd3e-407c-87a4-bb0e3a52ca38"
   },
   "nation": {
-   "name": "Kamchatka",
-   "uuid": "b57eace1-9f98-4418-b290-8aa11612db69"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1792065914763,
-   "joinedNationAt": 1792068796414,
+   "registered": 1793746074510,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,107 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 57672.48368151964,
-    "y": 90.0,
-    "z": -15527.29195685555,
-    "pitch": 15.750205,
-    "yaw": -62.995056
+    "x": -39438.483793069616,
+    "y": 71.0,
+    "z": -13791.51485259615,
+    "pitch": 12.289276,
+    "yaw": -111.99536
    },
    "homeBlock": [
-    3604,
-    -971
+    -2465,
+    -862
    ],
    "townBlocks": [
     [
-     3602,
-     -970
+     -2465,
+     -862
     ],
     [
-     3598,
-     -972
-    ],
-    [
-     3602,
-     -971
-    ],
-    [
-     3602,
-     -972
-    ],
-    [
-     3599,
-     -971
-    ],
-    [
-     3599,
-     -972
-    ],
-    [
-     3598,
-     -971
-    ],
-    [
-     3598,
-     -970
-    ],
-    [
-     3603,
-     -972
-    ],
-    [
-     3603,
-     -971
-    ],
-    [
-     3603,
-     -970
-    ],
-    [
-     3599,
-     -970
-    ],
-    [
-     3601,
-     -970
-    ],
-    [
-     3601,
-     -971
-    ],
-    [
-     3601,
-     -972
-    ],
-    [
-     3600,
-     -970
-    ],
-    [
-     3604,
-     -971
-    ],
-    [
-     3600,
-     -971
-    ],
-    [
-     3600,
-     -972
+     -2466,
+     -862
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "MrThriller",
-    "uuid": "d60dd5ce-b721-41d3-8b85-5e621e1be214"
+    "name": "Subject_Eleven_",
+    "uuid": "1b9957e9-fd3e-407c-87a4-bb0e3a52ca38"
+   },
+   {
+    "name": "315KG",
+    "uuid": "33322ee0-a7c4-480f-a573-d4a27fbddb82"
+   },
+   {
+    "name": "Orangesberry",
+    "uuid": "1a6e1aea-0b92-4b8e-aed5-2bdc11799b57"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "315KG",
+     "uuid": "33322ee0-a7c4-480f-a573-d4a27fbddb82"
+    },
+    {
+     "name": "Orangesberry",
+     "uuid": "1a6e1aea-0b92-4b8e-aed5-2bdc11799b57"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

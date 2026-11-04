@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Fezzan",
   "uuid": "211ab20d-f2c4-4775-b0d7-105a5981edbd",
-  "board": "/town set board [msg]",
+  "board": "Trump seized this place for oil",
   "founder": "ArdaTe_",
   "wiki": null,
   "discord": null,
@@ -22,10 +22,10 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 36,
+   "maxTownBlocks": 78,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 1,
+   "nationBonus": 30,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 19.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4327.602455910289,
-    "y": 117.0,
-    "z": -2644.928908923243,
-    "pitch": 23.740555,
-    "yaw": 102.90831
+    "x": 4300.315308164368,
+    "y": 118.0,
+    "z": -2640.699999988079,
+    "pitch": -0.54691947,
+    "yaw": -1.0650635
    },
    "homeBlock": [
-    270,
+    268,
     -166
    ],
    "townBlocks": [
@@ -112,6 +112,10 @@
      -167
     ],
     [
+     268,
+     -162
+    ],
+    [
      272,
      -166
     ],
@@ -144,6 +148,10 @@
      -166
     ],
     [
+     267,
+     -162
+    ],
+    [
      270,
      -167
     ],
@@ -156,8 +164,16 @@
      -167
     ],
     [
+     267,
+     -163
+    ],
+    [
      270,
      -164
+    ],
+    [
+     272,
+     -162
     ],
     [
      270,
@@ -170,6 +186,10 @@
     [
      271,
      -162
+    ],
+    [
+     272,
+     -164
     ],
     [
      270,
@@ -177,6 +197,10 @@
     ],
     [
      271,
+     -163
+    ],
+    [
+     272,
      -163
     ],
     [
@@ -218,6 +242,18 @@
    {
     "name": "ArdaTe_",
     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   },
+   {
+    "name": "MehmetBey69",
+    "uuid": "3dfe797c-c256-43df-9097-37bb53ad51dd"
+   },
+   {
+    "name": "avizebaby",
+    "uuid": "71561fe6-dac3-494b-b428-e3428c0596c8"
+   },
+   {
+    "name": "Ahmtysn",
+    "uuid": "20f35e23-123b-420c-932e-c34022b8f587"
    }
   ],
   "trusted": [
@@ -238,6 +274,10 @@
     {
      "name": "ArdaTe_",
      "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+    },
+    {
+     "name": "avizebaby",
+     "uuid": "71561fe6-dac3-494b-b428-e3428c0596c8"
     }
    ],
    "Builder": [

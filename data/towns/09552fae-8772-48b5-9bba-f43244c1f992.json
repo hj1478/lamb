@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Managua",
   "uuid": "09552fae-8772-48b5-9bba-f43244c1f992",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 10,
    "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 2,
-   "balance": 82.0,
+   "numOutlaws": 4,
+   "balance": 1065.0,
    "forSalePrice": null
   },
   "perms": {
@@ -254,6 +254,14 @@
    {
     "name": "Reagan951",
     "uuid": "c34f37f7-7d21-4058-8afd-324499bbda96"
+   },
+   {
+    "name": "ANGUS_foodfarmer",
+    "uuid": "5421c50c-2ec9-46a7-845e-492c87daa775"
+   },
+   {
+    "name": "TrboGames",
+    "uuid": "c35b37ad-5e4d-49e3-a2cd-2af53728fa1f"
    }
   ],
   "quarters": [],

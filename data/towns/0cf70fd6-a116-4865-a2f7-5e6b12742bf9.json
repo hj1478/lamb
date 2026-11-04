@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Mobula_Ray_Tribe",
   "uuid": "0cf70fd6-a116-4865-a2f7-5e6b12742bf9",
-  "board": "/town set board [msg]",
+  "board": "Start of a great Nation",
   "founder": "OrganicBlackBean",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 55,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 59,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 8,
    "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "numOutlaws": 1,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27918.689837363283,
-    "y": 97.0,
-    "z": 11269.432628462551,
-    "pitch": 46.200005,
-    "yaw": 63.744507
+    "x": -27918.00261829342,
+    "y": 103.0,
+    "z": 11271.519627692116,
+    "pitch": 33.60001,
+    "yaw": -91.64993
    },
    "homeBlock": [
     -1745,
@@ -197,6 +197,10 @@
     ],
     [
      -1746,
+     700
+    ],
+    [
+     -1746,
      701
     ],
     [
@@ -309,7 +313,19 @@
     ],
     [
      -1747,
+     702
+    ],
+    [
+     -1747,
      703
+    ],
+    [
+     -1747,
+     700
+    ],
+    [
+     -1747,
+     701
     ]
    ],
    "worlds": {}
@@ -336,8 +352,16 @@
     "uuid": "48139d96-513a-43ca-8a7c-7eaa294ec358"
    },
    {
-    "name": "ImDrVillager",
-    "uuid": "64441b96-b6a2-4c34-b9e8-5592319c613a"
+    "name": "MrHaysik",
+    "uuid": "d6c4c431-8558-49cc-908d-424d4324e015"
+   },
+   {
+    "name": "RodionOrion",
+    "uuid": "f534268a-5c82-4dd0-9fd4-3fefb92da105"
+   },
+   {
+    "name": "vikaness",
+    "uuid": "519d7f8a-3410-4520-8fe4-a03524f15a44"
    }
   ],
   "trusted": [
@@ -354,13 +378,22 @@
     "uuid": "ea77d929-5bab-4583-acbe-8a85adf9b03d"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "2tman4",
+    "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
     {
      "name": "doggamer0917",
      "uuid": "ea77d929-5bab-4583-acbe-8a85adf9b03d"
+    },
+    {
+     "name": "Slasher_45",
+     "uuid": "af2fb470-d579-4364-b9f6-ab616f9f88be"
     }
    ],
    "Builder": [],
@@ -369,6 +402,10 @@
     {
      "name": "doggamer0917",
      "uuid": "ea77d929-5bab-4583-acbe-8a85adf9b03d"
+    },
+    {
+     "name": "Slasher_45",
+     "uuid": "af2fb470-d579-4364-b9f6-ab616f9f88be"
     }
    ],
    "Tax-exempt": [

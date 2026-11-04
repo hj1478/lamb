@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Chennai",
   "uuid": "141a9856-6e67-4c20-8938-86b76414edc0",
-  "board": "Namma Ooru",
+  "board": "Namma Tamil Capital",
   "founder": "Navigation2013",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
-   "maxTownBlocks": 220,
+   "numTownBlocks": 44,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 9,
+   "nationBonus": 80,
+   "numResidents": 11,
+   "numTrusted": 10,
    "numOutlaws": 9,
-   "balance": 0.0,
+   "balance": 170.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 28747.750283781952,
+    "x": 28748.450957728404,
     "y": 63.0,
-    "z": 3413.02021644566,
-    "pitch": 44.249973,
-    "yaw": 105.24205
+    "z": 3409.5398822298725,
+    "pitch": 0.46011797,
+    "yaw": -89.4382
    },
    "homeBlock": [
     1796,
@@ -116,12 +116,12 @@
      215
     ],
     [
-     1795,
-     216
-    ],
-    [
      1793,
      215
+    ],
+    [
+     1795,
+     216
     ],
     [
      1793,
@@ -138,6 +138,18 @@
     [
      1792,
      212
+    ],
+    [
+     1799,
+     213
+    ],
+    [
+     1792,
+     211
+    ],
+    [
+     1792,
+     214
     ],
     [
      1793,
@@ -145,11 +157,11 @@
     ],
     [
      1792,
-     214
+     213
     ],
     [
-     1792,
-     213
+     1793,
+     211
     ],
     [
      1793,
@@ -157,6 +169,10 @@
     ],
     [
      1798,
+     214
+    ],
+    [
+     1798,
      213
     ],
     [
@@ -168,12 +184,12 @@
      212
     ],
     [
-     1794,
-     213
-    ],
-    [
      1792,
      215
+    ],
+    [
+     1794,
+     213
     ],
     [
      1794,
@@ -218,6 +234,10 @@
     [
      1796,
      212
+    ],
+    [
+     1797,
+     214
     ],
     [
      1794,
@@ -260,16 +280,8 @@
     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
    },
    {
-    "name": "sigma_boii",
-    "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
-   },
-   {
     "name": "IIIIIMaXIIII",
     "uuid": "a4ba77db-d842-41ce-ac8e-7505eef0eb60"
-   },
-   {
-    "name": "flitzerblitz",
-    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
    },
    {
     "name": "ShivajiGamer",
@@ -284,12 +296,24 @@
     "uuid": "aab815a9-2f51-4b63-b0b5-cfc8eb6c264f"
    },
    {
-    "name": "Danny_362",
-    "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
+    "name": "flitzerblitz",
+    "uuid": "e43a977d-f5f6-4570-bde9-f3f6f84a1b22"
+   },
+   {
+    "name": "sigma_boii",
+    "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
    },
    {
     "name": "Tommydrummer78",
     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+   },
+   {
+    "name": "dboi13",
+    "uuid": "4d7932bc-4edc-4833-8b5b-3edf87cfb7c2"
+   },
+   {
+    "name": "Danny_362",
+    "uuid": "76008c61-88de-4c6c-8d37-cb3ef7001064"
    }
   ],
   "trusted": [
@@ -298,16 +322,20 @@
     "uuid": "b719da2a-9402-4021-becb-7754e971473f"
    },
    {
-    "name": "giacomause2",
-    "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
-   },
-   {
     "name": "sigma_boii",
     "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
    },
    {
+    "name": "giacomause2",
+    "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
+   },
+   {
     "name": "karl_pro_max300",
     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
+   },
+   {
+    "name": "dboi13",
+    "uuid": "4d7932bc-4edc-4833-8b5b-3edf87cfb7c2"
    },
    {
     "name": "IIIIIMaXIIII",
@@ -368,7 +396,12 @@
     "uuid": "93ac63f2-319c-4fc8-9d0d-b008826cdcf3"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Inconvenient Residence",
+    "uuid": "210b9ead-d128-4ea4-8c4c-f8edd657eb48"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {
@@ -382,26 +415,53 @@
    ],
    "Builder": [
     {
-     "name": "karl_pro_max300",
-     "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
+     "name": "Tommydrummer78",
+     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
     }
    ],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "sigma_boii",
+     "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
+    },
+    {
+     "name": "Tommydrummer78",
+     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+    }
+   ],
    "Police": [
     {
      "name": "giacomause2",
      "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
+    },
+    {
+     "name": "sigma_boii",
+     "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
+    },
+    {
+     "name": "Tommydrummer78",
+     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
     }
    ],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "Tommydrummer78",
+     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+    }
+   ],
    "Realtor": [
     {
      "name": "karl_pro_max300",
      "uuid": "59e30f36-e17a-454b-abe0-a64724162e06"
     }
    ],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "Tommydrummer78",
+     "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

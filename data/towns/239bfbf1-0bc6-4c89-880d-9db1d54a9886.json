@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Edessa",
   "uuid": "239bfbf1-0bc6-4c89-880d-9db1d54a9886",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 28.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -160,7 +160,12 @@
     "uuid": "189c1845-9545-42b2-8dfa-d6e2b1aac626"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Illmenia",
+    "uuid": "f5b1ddd5-afdf-4e86-b7b3-d8f0b870e8d3"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

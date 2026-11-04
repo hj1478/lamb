@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Orange_NSW",
   "uuid": "0ac0f9a1-b6f6-433a-ba28-dd0100c8228b",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 53007.29905281673,
-    "y": 62.0,
-    "z": 20741.30000001192,
-    "pitch": 6.8998795,
-    "yaw": -88.236694
+    "x": 53007.18057312839,
+    "y": 70.0,
+    "z": 20745.965638020294,
+    "pitch": 13.350182,
+    "yaw": -82.497925
    },
    "homeBlock": [
     3312,
@@ -92,8 +92,16 @@
    ],
    "townBlocks": [
     [
+     3313,
+     1296
+    ],
+    [
      3312,
      1296
+    ],
+    [
+     3312,
+     1295
     ]
    ],
    "worlds": {}

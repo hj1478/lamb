@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Dune",
   "uuid": "21cb7817-c80a-477b-bc94-2aad6c51c435",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -249,11 +249,26 @@
      "uuid": "25f12c39-2cee-4ac2-979a-27f3c12b08a9"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "_FrostedMC",
+     "uuid": "25f12c39-2cee-4ac2-979a-27f3c12b08a9"
+    }
+   ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "_FrostedMC",
+     "uuid": "25f12c39-2cee-4ac2-979a-27f3c12b08a9"
+    }
+   ],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "_FrostedMC",
+     "uuid": "25f12c39-2cee-4ac2-979a-27f3c12b08a9"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

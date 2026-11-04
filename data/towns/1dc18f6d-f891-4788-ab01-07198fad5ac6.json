@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Dakhla",
   "uuid": "1dc18f6d-f891-4788-ab01-07198fad5ac6",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 152.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 100.0
   },
   "perms": {
    "build": [
@@ -126,10 +126,6 @@
    {
     "name": "ravtav13",
     "uuid": "684fea81-c1ff-4161-935d-cec8322ab2cb"
-   },
-   {
-    "name": "Salbru",
-    "uuid": "bca75fec-4693-407b-830f-a2fe1b3c5028"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Finerland",
   "uuid": "127dc177-1a34-4350-ae28-9ae8a974403e",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 110,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 5,
+   "nationBonus": 60,
+   "numResidents": 7,
    "numTrusted": 8,
    "numOutlaws": 1,
-   "balance": 188.0,
+   "balance": 145.0,
    "forSalePrice": null
   },
   "perms": {
@@ -256,12 +256,12 @@
      -698
     ],
     [
-     350,
-     -690
-    ],
-    [
      346,
      -701
+    ],
+    [
+     350,
+     -690
     ],
     [
      346,
@@ -320,20 +320,20 @@
      -701
     ],
     [
-     349,
-     -694
-    ],
-    [
      342,
      -700
     ],
     [
      349,
-     -693
+     -694
     ],
     [
      342,
      -701
+    ],
+    [
+     349,
+     -693
     ],
     [
      349,
@@ -562,6 +562,14 @@
    {
     "name": "D2e0S1K0OjK47nL",
     "uuid": "a6c191df-1139-490f-8915-5d31c9be1338"
+   },
+   {
+    "name": "ewmkom",
+    "uuid": "6caaf433-548d-4ed5-a316-c3434e5e110c"
+   },
+   {
+    "name": "rockf",
+    "uuid": "3dc7b5cc-22bd-426d-9345-e6062f66becf"
    }
   ],
   "trusted": [

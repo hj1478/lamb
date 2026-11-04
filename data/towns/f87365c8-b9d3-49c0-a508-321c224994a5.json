@@ -1,22 +1,22 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Stanley",
-  "uuid": "4d59b620-80f9-415f-bc0c-d7e202dbabff",
-  "board": "/town set board [msg]",
-  "founder": "Matti737",
+  "name": "Niagara_Falls",
+  "uuid": "f87365c8-b9d3-49c0-a508-321c224994a5",
+  "board": "Home Of The Falls",
+  "founder": "VirtuallyInbound",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Matti737",
-   "uuid": "067f5e98-fa32-4198-a10b-e8608d8c0b54"
+   "name": "VirtuallyInbound",
+   "uuid": "a399ade6-ba53-4799-ad2b-57b42f73c34f"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1782238907933,
+   "registered": 1793725177169,
    "joinedNationAt": null,
    "ruinedAt": null
   },
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 4,
-   "balance": 128.0,
+   "numResidents": 3,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,98 +80,65 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -20849.8712657814,
-    "y": 64.0,
-    "z": 28372.103793121678,
-    "pitch": 25.199982,
-    "yaw": 67.70579
+    "x": -28358.696211847728,
+    "y": 63.0,
+    "z": -8514.99417932077,
+    "pitch": 15.300074,
+    "yaw": -92.547646
    },
    "homeBlock": [
-    -1304,
-    1773
+    -1773,
+    -533
    ],
    "townBlocks": [
     [
-     -1301,
-     1773
+     -1774,
+     -533
     ],
     [
-     -1305,
-     1774
+     -1773,
+     -531
     ],
     [
-     -1302,
-     1772
+     -1773,
+     -533
     ],
     [
-     -1304,
-     1773
+     -1773,
+     -532
     ],
     [
-     -1302,
-     1774
-    ],
-    [
-     -1304,
-     1772
-    ],
-    [
-     -1303,
-     1772
-    ],
-    [
-     -1302,
-     1773
-    ],
-    [
-     -1304,
-     1774
-    ],
-    [
-     -1305,
-     1773
-    ],
-    [
-     -1303,
-     1773
-    ],
-    [
-     -1303,
-     1774
+     -1773,
+     -534
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Matti737",
-    "uuid": "067f5e98-fa32-4198-a10b-e8608d8c0b54"
+    "name": "VirtuallyInbound",
+    "uuid": "a399ade6-ba53-4799-ad2b-57b42f73c34f"
+   },
+   {
+    "name": "BlueTheLemonGuy",
+    "uuid": "d37def6c-046c-4904-b397-8f49a6e096d9"
+   },
+   {
+    "name": "pl69onyt",
+    "uuid": "819ab2c1-d586-45a7-a2ef-8709b28faf18"
    }
   ],
   "trusted": [
    {
-    "name": "AdamBetter7",
-    "uuid": "a62ee039-6364-4070-a876-488498b92fc5"
+    "name": "pl69onyt",
+    "uuid": "819ab2c1-d586-45a7-a2ef-8709b28faf18"
+   },
+   {
+    "name": "BlueTheLemonGuy",
+    "uuid": "d37def6c-046c-4904-b397-8f49a6e096d9"
    }
   ],
-  "outlaws": [
-   {
-    "name": "Swightness",
-    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
-   },
-   {
-    "name": "Vfinestone",
-    "uuid": "e319f1e6-1eca-4296-9707-386c460b2703"
-   },
-   {
-    "name": "Detoux",
-    "uuid": "753d77d6-e090-4a6f-8c02-cfe9e0828d51"
-   },
-   {
-    "name": "mi1necraft",
-    "uuid": "e9f1733a-c8f7-403d-a726-445103d51250"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

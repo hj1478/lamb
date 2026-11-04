@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
-  "name": "Sainte-Flore",
-  "uuid": "12da817c-8a8c-4712-924d-22c4ae2ef7e8",
-  "board": "/town set board [msg]",
-  "founder": "ElisaSlender",
+  "name": "Oakville",
+  "uuid": "a2696676-0d16-4a7a-8589-6eff672de2c2",
+  "board": "[msg]",
+  "founder": "Firefightt",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Iteradiance",
-   "uuid": "f30af775-d387-4da8-9772-aae726473fad"
+   "name": "Firefightt",
+   "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": "Kara",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
-   "registered": 1778270298478,
-   "joinedNationAt": 1778773336894,
+   "registered": 1793781713002,
+   "joinedNationAt": 1793781740004,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 28,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 1,
-   "balance": 106.0,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,150 +80,133 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26107.252230821417,
-    "y": 64.0,
-    "z": -10420.123190295964,
-    "pitch": 11.999983,
-    "yaw": 142.90955
+    "x": 33495.67289864758,
+    "y": 63.0,
+    "z": -29673.275406722863,
+    "pitch": 55.818638,
+    "yaw": 98.70384
    },
    "homeBlock": [
-    -1632,
-    -652
+    2093,
+    -1855
    ],
    "townBlocks": [
     [
-     -1635,
-     -653
+     2091,
+     -1857
     ],
     [
-     -1635,
-     -652
+     2091,
+     -1856
     ],
     [
-     -1635,
-     -651
+     2091,
+     -1855
     ],
     [
-     -1635,
-     -655
+     2092,
+     -1856
     ],
     [
-     -1635,
-     -654
+     2094,
+     -1857
     ],
     [
-     -1637,
-     -651
+     2092,
+     -1857
     ],
     [
-     -1637,
-     -652
+     2094,
+     -1858
     ],
     [
-     -1636,
-     -651
+     2094,
+     -1855
     ],
     [
-     -1636,
-     -652
+     2092,
+     -1858
     ],
     [
-     -1636,
-     -653
+     2094,
+     -1856
     ],
     [
-     -1636,
-     -654
+     2092,
+     -1854
     ],
     [
-     -1637,
-     -653
+     2092,
+     -1855
     ],
     [
-     -1637,
-     -654
+     2095,
+     -1855
     ],
     [
-     -1636,
-     -655
+     2095,
+     -1854
     ],
     [
-     -1633,
-     -651
+     2095,
+     -1857
     ],
     [
-     -1633,
-     -652
+     2094,
+     -1854
     ],
     [
-     -1633,
-     -653
+     2095,
+     -1856
     ],
     [
-     -1633,
-     -654
+     2095,
+     -1858
     ],
     [
-     -1634,
-     -651
+     2091,
+     -1858
     ],
     [
-     -1634,
-     -652
+     2093,
+     -1854
     ],
     [
-     -1638,
-     -652
+     2093,
+     -1856
     ],
     [
-     -1634,
-     -653
+     2093,
+     -1855
     ],
     [
-     -1634,
-     -654
+     2093,
+     -1858
     ],
     [
-     -1634,
-     -655
-    ],
-    [
-     -1638,
-     -653
-    ],
-    [
-     -1632,
-     -653
-    ],
-    [
-     -1632,
-     -652
-    ],
-    [
-     -1632,
-     -651
+     2093,
+     -1857
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Iteradiance",
-    "uuid": "f30af775-d387-4da8-9772-aae726473fad"
+    "name": "Firefightt",
+    "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
    }
   ],
   "trusted": [
    {
-    "name": "Iteradiance",
-    "uuid": "f30af775-d387-4da8-9772-aae726473fad"
-   }
-  ],
-  "outlaws": [
+    "name": "Nimbus_TheTurtle",
+    "uuid": "ad73ccd2-652f-4a6e-b034-cb8623270e59"
+   },
    {
-    "name": "okyozdinc",
-    "uuid": "7f8a6f85-a00e-4a03-a45e-ab5523f18b50"
+    "name": "0E0F",
+    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
    }
   ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

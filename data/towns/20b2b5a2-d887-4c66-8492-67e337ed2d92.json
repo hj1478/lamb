@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T13:09:01Z",
+ "fetched_at": "2026-11-04T14:40:57Z",
  "data": {
   "name": "Guangzhou",
   "uuid": "20b2b5a2-d887-4c66-8492-67e337ed2d92",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 360,
-   "maxTownBlocks": 424,
+   "maxTownBlocks": 412,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 27,
+   "numResidents": 26,
    "numTrusted": 27,
    "numOutlaws": 3,
-   "balance": 206.0,
+   "balance": 186.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40581.92190951225,
+    "x": 40582.03897983062,
     "y": 54.0,
-    "z": -440.2205404325567,
-    "pitch": -4.6499705,
-    "yaw": -179.72498
+    "z": -440.25031016085734,
+    "pitch": -10.049997,
+    "yaw": -179.87622
    },
    "homeBlock": [
     2536,
@@ -1564,6 +1564,10 @@
     "uuid": "128c02ff-2e18-40f6-ae14-a9b4c7c9c039"
    },
    {
+    "name": "SalLen_D",
+    "uuid": "5b162c7f-555d-430f-b29c-c627a17ae989"
+   },
+   {
     "name": "Happyxiaoyang",
     "uuid": "997f8a02-deca-4e9d-ba6f-d2288a131a33"
    },
@@ -1572,28 +1576,12 @@
     "uuid": "6ceec8be-4c4e-40d7-af63-89b3367e2b24"
    },
    {
-    "name": "7732_18_5",
-    "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
-   },
-   {
     "name": "SOAIEST",
     "uuid": "1fccbb5d-ffbe-4111-b036-836b1a6bcd7e"
    },
    {
     "name": "Kaishek_C",
     "uuid": "400c0a99-714d-4b68-887b-c01335b2050f"
-   },
-   {
-    "name": "PhyliXY",
-    "uuid": "5d708877-9289-47f5-ba55-baa57871a989"
-   },
-   {
-    "name": "feizidao",
-    "uuid": "f29dbfb3-0f29-41c2-956a-1f639d0149e3"
-   },
-   {
-    "name": "xiaoshisan13",
-    "uuid": "47f410c0-2c61-404c-bbc4-9c573b0e708f"
    },
    {
     "name": "Vem0125",
@@ -1642,6 +1630,14 @@
    {
     "name": "fr1enship",
     "uuid": "b933c991-f202-4ff2-bfa3-5677e50a2914"
+   },
+   {
+    "name": "xiaoshisan13",
+    "uuid": "47f410c0-2c61-404c-bbc4-9c573b0e708f"
+   },
+   {
+    "name": "Arctorck",
+    "uuid": "ec9cf003-9f3c-4e88-a6ca-40a17b1f1ed2"
    }
   ],
   "trusted": [
@@ -1770,10 +1766,6 @@
   ],
   "quarters": [
    {
-    "name": "Bland Suite",
-    "uuid": "b87b5e31-4b98-4cf9-b5b5-586b82d8edfa"
-   },
-   {
     "name": "Parking Stand 5",
     "uuid": "688d65f5-6a5f-4831-8138-22ab4ec8a21d"
    },
@@ -1838,14 +1830,6 @@
     "uuid": "b1b67337-a809-4716-a018-dc759d814c1b"
    },
    {
-    "name": "Enraging Flat",
-    "uuid": "b34b70fd-4490-4f35-a727-95d0edd3bc54"
-   },
-   {
-    "name": "Upbeat Property",
-    "uuid": "1eba97cb-aaa9-4566-a680-df9264427fad"
-   },
-   {
     "name": "Inviting Tenement",
     "uuid": "38919d77-fad8-45d3-ac8f-895349536beb"
    },
@@ -1906,12 +1890,32 @@
     "uuid": "49ff09f4-ac35-4307-aa3b-03f4e66844f5"
    },
    {
+    "name": "-2F",
+    "uuid": "00471a32-8e15-400a-b6c7-7dbfcf4e2f18"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "0879cca3-8848-4621-973d-3e2d8f46524e"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "b34b70fd-4490-4f35-a727-95d0edd3bc54"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "1eba97cb-aaa9-4566-a680-df9264427fad"
+   },
+   {
     "name": "Stylish Residence",
     "uuid": "a6921a86-4c2c-459d-b279-5e5df2dc3548"
    },
    {
-    "name": "-2F",
-    "uuid": "00471a32-8e15-400a-b6c7-7dbfcf4e2f18"
+    "name": "Annoying Flat",
+    "uuid": "bcaf0547-6506-470c-88f9-29b34fbc203f"
+   },
+   {
+    "name": "Arctorck",
+    "uuid": "fcf73c9c-b757-4703-ab9f-6a5492d29e78"
    }
   ],
   "ranks": {
@@ -1927,6 +1931,10 @@
     {
      "name": "chinaplay",
      "uuid": "94774347-0a77-4e4b-bd26-56901276599f"
+    },
+    {
+     "name": "xiaoshisan13",
+     "uuid": "47f410c0-2c61-404c-bbc4-9c573b0e708f"
     }
    ],
    "Builder": [
