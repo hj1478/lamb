@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-11-05T14:45:38Z",
+ "data": {
+  "name": "South_Inuit",
+  "uuid": "4efe98e4-92e8-48b9-84bd-a4f8b6b2d929",
+  "board": "/town set board [msg]",
+  "founder": "Pierre_Loup",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Pierre_Loup",
+   "uuid": "f1c8bb72-e6e8-46e2-b723-26237bba6b2c"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1793820212603,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 36259.561703060324,
+    "y": 75.0,
+    "z": 8065.057547542917,
+    "pitch": 54.458027,
+    "yaw": -50.840576
+   },
+   "homeBlock": [
+    2266,
+    504
+   ],
+   "townBlocks": [
+    [
+     2266,
+     504
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Pierre_Loup",
+    "uuid": "f1c8bb72-e6e8-46e2-b723-26237bba6b2c"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "BaldnessCure",
+    "uuid": "f0be7690-9311-46c0-8400-ae4b079766a1"
+   },
+   {
+    "name": "kalqev",
+    "uuid": "e648558e-9528-49b1-b537-7ec33170c860"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

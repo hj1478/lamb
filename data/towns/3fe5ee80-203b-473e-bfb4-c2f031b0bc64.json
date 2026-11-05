@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Jura-Tempest",
   "uuid": "3fe5ee80-203b-473e-bfb4-c2f031b0bc64",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 64.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,32 @@
    ],
    "townBlocks": [
     [
+     -2294,
+     -645
+    ],
+    [
+     -2294,
+     -646
+    ],
+    [
      -2293,
      -644
+    ],
+    [
+     -2293,
+     -645
+    ],
+    [
+     -2293,
+     -646
+    ],
+    [
+     -2292,
+     -646
+    ],
+    [
+     -2292,
+     -645
     ],
     [
      -2292,
@@ -108,10 +132,6 @@
     "uuid": "49776a12-f610-44e1-9c32-5e571ae57323"
    },
    {
-    "name": "RandomAmbser",
-    "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
-   },
-   {
     "name": "ItsKevin1221",
     "uuid": "0c7d46c5-7d49-40e6-96cb-e0b31e922499"
    },
@@ -120,20 +140,11 @@
     "uuid": "049f52f3-aefc-4645-9bba-be5abffc595d"
    }
   ],
-  "trusted": [
-   {
-    "name": "RandomAmbser",
-    "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [
-    {
-     "name": "RandomAmbser",
-     "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
-    },
     {
      "name": "ItsKevin1221",
      "uuid": "0c7d46c5-7d49-40e6-96cb-e0b31e922499"
@@ -144,10 +155,6 @@
     }
    ],
    "Builder": [
-    {
-     "name": "RandomAmbser",
-     "uuid": "5dbe5c2a-0159-41c4-876f-e97515275945"
-    },
     {
      "name": "ItsKevin1221",
      "uuid": "0c7d46c5-7d49-40e6-96cb-e0b31e922499"

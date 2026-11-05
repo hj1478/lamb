@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Hirsaux",
   "uuid": "492f7361-3207-4848-a59f-9ef4a6b70d91",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 136,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 202.0,
    "forSalePrice": null
@@ -646,9 +646,26 @@
    {
     "name": "slweepi",
     "uuid": "5d7f7da3-ad69-48a8-a70e-e01df62b82dc"
+   },
+   {
+    "name": "Zac0511",
+    "uuid": "f93171fc-6ffe-4840-aaaa-5a9a37a96ed0"
+   },
+   {
+    "name": "zYvtqx",
+    "uuid": "906199a7-b3cb-4f6f-80aa-5bf804f2f135"
+   },
+   {
+    "name": "a6wwp",
+    "uuid": "7c8e9a1f-7c1b-4d89-b6c0-59ddff52b029"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "zach105",
+    "uuid": "dc7b4b5a-f23b-4f8e-a41b-f4f4a59f1279"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
@@ -657,6 +674,14 @@
     {
      "name": "slweepi",
      "uuid": "5d7f7da3-ad69-48a8-a70e-e01df62b82dc"
+    },
+    {
+     "name": "Zac0511",
+     "uuid": "f93171fc-6ffe-4840-aaaa-5a9a37a96ed0"
+    },
+    {
+     "name": "zYvtqx",
+     "uuid": "906199a7-b3cb-4f6f-80aa-5bf804f2f135"
     }
    ],
    "Recruiter": [],

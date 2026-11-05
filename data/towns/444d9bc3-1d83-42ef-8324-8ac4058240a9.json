@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Chernobyl",
   "uuid": "444d9bc3-1d83-42ef-8324-8ac4058240a9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 403,
-   "maxTownBlocks": 448,
+   "numTownBlocks": 415,
+   "maxTownBlocks": 424,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 29,
+   "numResidents": 27,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 1.0,
+   "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1005,6 +1005,14 @@
     ],
     [
      641,
+     -772
+    ],
+    [
+     641,
+     -773
+    ],
+    [
+     641,
      -768
     ],
     [
@@ -1252,6 +1260,10 @@
      -772
     ],
     [
+     642,
+     -773
+    ],
+    [
      663,
      -771
     ],
@@ -1274,6 +1286,10 @@
     [
      663,
      -775
+    ],
+    [
+     642,
+     -772
     ],
     [
      642,
@@ -1390,6 +1406,14 @@
     [
      654,
      -780
+    ],
+    [
+     638,
+     -773
+    ],
+    [
+     638,
+     -772
     ],
     [
      654,
@@ -1445,7 +1469,15 @@
     ],
     [
      639,
+     -773
+    ],
+    [
+     639,
      -771
+    ],
+    [
+     639,
+     -772
     ],
     [
      639,
@@ -1506,6 +1538,14 @@
     [
      637,
      -770
+    ],
+    [
+     637,
+     -773
+    ],
+    [
+     637,
+     -772
     ],
     [
      650,
@@ -1656,8 +1696,16 @@
      -769
     ],
     [
+     640,
+     -772
+    ],
+    [
      637,
      -768
+    ],
+    [
+     640,
+     -773
     ],
     [
      637,
@@ -1710,30 +1758,6 @@
    {
     "name": "vifterr",
     "uuid": "4d5d5a9a-628c-40fb-b783-94b6e6127a2d"
-   },
-   {
-    "name": "Mongomery2324",
-    "uuid": "3b339b34-827e-4f5d-b699-e5c672611408"
-   },
-   {
-    "name": "KajusGAZ",
-    "uuid": "06e2889d-9f42-4cfc-a444-51b8e0708285"
-   },
-   {
-    "name": "lawli02",
-    "uuid": "0d13a867-163a-4fac-9d7c-6119505d2841"
-   },
-   {
-    "name": "jelle323",
-    "uuid": "bcfda41b-653d-4fe8-94a4-79477cfc06cd"
-   },
-   {
-    "name": "HAVUCmc",
-    "uuid": "ebed53bb-fa21-4c3f-81a5-85dde9a13b9c"
-   },
-   {
-    "name": "yuwixx",
-    "uuid": "cb33f14d-1c4a-46c6-a75d-0c8c6118a340"
    },
    {
     "name": "KINGBABYY1354",
@@ -1822,6 +1846,22 @@
    {
     "name": "xxmordasxx",
     "uuid": "fbb9310f-ba0c-497e-8a77-f5494a8cc73e"
+   },
+   {
+    "name": "MC_ABCD",
+    "uuid": "9a8b8e1e-4b2a-4ac7-9bdf-eba43d72a08f"
+   },
+   {
+    "name": "SizzleShook",
+    "uuid": "c232d8fd-1945-45e8-ae77-658bbce119e7"
+   },
+   {
+    "name": "Flexa_Chibre",
+    "uuid": "e1156b98-ca46-4461-94fc-6825e603c083"
+   },
+   {
+    "name": "Duck_Lord81",
+    "uuid": "f3a40bb6-db08-41f6-8fbb-7e4887e3b3db"
    }
   ],
   "trusted": [
@@ -1890,16 +1930,20 @@
     "uuid": "9be1d208-c026-4bd9-a230-823d88180b73"
    },
    {
-    "name": "Bland Quarter",
-    "uuid": "ce8d3cc8-5509-45bc-a4aa-538d4a7e92e1"
-   },
-   {
     "name": "Dingy Suite",
     "uuid": "3f03809d-f085-4b50-85ca-96dddb6e3d1c"
    },
    {
     "name": "Cheerful Property",
     "uuid": "183020b6-4ee0-4338-ae09-55b148487567"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "9465e568-2b86-4bd5-bdbf-b5be7a3e8976"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "ce8d3cc8-5509-45bc-a4aa-538d4a7e92e1"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Rome",
   "uuid": "4859c355-87a1-4d20-b843-172b3d7d6b21",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 90,
-   "maxTownBlocks": 244,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
+   "numResidents": 13,
    "numTrusted": 8,
    "numOutlaws": 4,
-   "balance": 2946.0,
+   "balance": 3208.0,
    "forSalePrice": null
   },
   "perms": {
@@ -502,6 +502,10 @@
    {
     "name": "AgreedSalt2973",
     "uuid": "ed05570d-1dee-4ab8-afb3-71479d6aa12e"
+   },
+   {
+    "name": "Kamiell",
+    "uuid": "1164abd2-aca7-4a7d-acf7-103984b76e5d"
    }
   ],
   "trusted": [

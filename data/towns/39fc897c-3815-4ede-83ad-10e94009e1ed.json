@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Slany",
   "uuid": "39fc897c-3815-4ede-83ad-10e94009e1ed",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 95,
+   "numTownBlocks": 88,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 35.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5075.552774994794,
+    "x": 5091.774404139029,
     "y": 61.875,
-    "z": -11894.12216129806,
-    "pitch": 9.899981,
-    "yaw": -101.83465
+    "z": -11786.300000011921,
+    "pitch": -33.149975,
+    "yaw": -4.6345825
    },
    "homeBlock": [
-    317,
-    -744
+    318,
+    -737
    ],
    "townBlocks": [
     [
@@ -96,24 +96,12 @@
      -726
     ],
     [
-     317,
-     -743
-    ],
-    [
-     317,
-     -742
-    ],
-    [
      314,
      -728
     ],
     [
      314,
      -727
-    ],
-    [
-     317,
-     -744
     ],
     [
      317,
@@ -201,15 +189,7 @@
     ],
     [
      318,
-     -742
-    ],
-    [
-     318,
      -741
-    ],
-    [
-     318,
-     -743
     ],
     [
      316,
@@ -380,16 +360,8 @@
      -740
     ],
     [
-     316,
-     -743
-    ],
-    [
      318,
      -730
-    ],
-    [
-     316,
-     -742
     ],
     [
      319,
@@ -422,10 +394,6 @@
     [
      319,
      -741
-    ],
-    [
-     319,
-     -742
     ],
     [
      319,
@@ -472,7 +440,16 @@
      -736
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -767,
+       74
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -482,11 +459,28 @@
   ],
   "trusted": [
    {
+    "name": "AlexTheBest048",
+    "uuid": "d3fc9bb3-f77d-4e50-a98b-e69d81d8b5b9"
+   },
+   {
     "name": "xAngelx_YT",
     "uuid": "cdd5ecc5-c954-4ec7-9a5c-70e46522bcd2"
+   },
+   {
+    "name": "joshd_005",
+    "uuid": "863d3933-716e-4770-b69b-061940623c5b"
+   },
+   {
+    "name": "BlueOpossum9399",
+    "uuid": "5123ce22-04b7-49ab-bdfc-28db8c6e39ba"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "pigeolyn",
+    "uuid": "d1bf300c-3af9-45fe-a64c-895b6c7e834b"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Creeper",
   "uuid": "39711cf4-ba64-4654-b2e9-99bb40d5b132",
-  "board": "/town set board [msg]",
+  "board": "aww man",
   "founder": "ChaiTsama",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
+   "numTownBlocks": 41,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 5,
-   "numOutlaws": 0,
-   "balance": 76.0,
+   "numTrusted": 6,
+   "numOutlaws": 2,
+   "balance": 140.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,32 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 38116.547741191214,
-    "y": 110.0,
-    "z": -5142.418175158672,
-    "pitch": 50.633865,
-    "yaw": -74.24951
+    "x": 38096.47802818661,
+    "y": 108.0,
+    "z": -5165.699999988079,
+    "pitch": 44.236954,
+    "yaw": -0.9002075
    },
    "homeBlock": [
-    2382,
-    -322
+    2381,
+    -323
    ],
    "townBlocks": [
     [
      2384,
      -327
+    ],
+    [
+     2378,
+     -325
+    ],
+    [
+     2378,
+     -324
+    ],
+    [
+     2378,
+     -323
     ],
     [
      2379,
@@ -108,7 +120,15 @@
      -329
     ],
     [
+     2379,
+     -324
+    ],
+    [
      2380,
+     -323
+    ],
+    [
+     2379,
      -323
     ],
     [
@@ -116,7 +136,19 @@
      -324
     ],
     [
+     2379,
+     -326
+    ],
+    [
      2380,
+     -325
+    ],
+    [
+     2383,
+     -323
+    ],
+    [
+     2379,
      -325
     ],
     [
@@ -125,7 +157,19 @@
     ],
     [
      2383,
+     -324
+    ],
+    [
+     2383,
+     -325
+    ],
+    [
+     2383,
      -326
+    ],
+    [
+     2379,
+     -322
     ],
     [
      2383,
@@ -234,6 +278,10 @@
     "uuid": "0b6a200e-63f7-4b5a-8d14-e6fd1b1df824"
    },
    {
+    "name": "minori2846",
+    "uuid": "e2923627-d89c-44c1-83ba-4a0433428b8f"
+   },
+   {
     "name": "zkbcnm",
     "uuid": "d1fb1ca3-5c6a-4ad2-8a26-e1a58f146f59"
    },
@@ -242,8 +290,22 @@
     "uuid": "ed3ae43f-a74b-4918-a883-6d6b24128d82"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "whosgianna0w0",
+    "uuid": "85384984-b78f-4e27-b675-9fa4adfc551c"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "tp",
+    "uuid": "ca638174-45c9-4709-a11c-d999b9ccb0b5"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

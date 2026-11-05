@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Denali",
   "uuid": "47caa1fa-ed02-4bae-b0de-7018cd2db3fa",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 19,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 584.0,
+   "balance": 312.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,76 @@
    ],
    "townBlocks": [
     [
+     -3353,
+     -1146
+    ],
+    [
+     -3353,
+     -1145
+    ],
+    [
+     -3353,
+     -1144
+    ],
+    [
+     -3348,
+     -1146
+    ],
+    [
      -3348,
      -1145
+    ],
+    [
+     -3351,
+     -1146
+    ],
+    [
+     -3352,
+     -1147
+    ],
+    [
+     -3351,
+     -1145
+    ],
+    [
+     -3350,
+     -1145
+    ],
+    [
+     -3352,
+     -1146
+    ],
+    [
+     -3351,
+     -1144
+    ],
+    [
+     -3350,
+     -1146
+    ],
+    [
+     -3352,
+     -1145
+    ],
+    [
+     -3352,
+     -1144
+    ],
+    [
+     -3350,
+     -1144
+    ],
+    [
+     -3349,
+     -1145
+    ],
+    [
+     -3349,
+     -1146
+    ],
+    [
+     -3347,
+     -1146
     ],
     [
      -3347,
@@ -110,20 +178,38 @@
    {
     "name": "jazzerooni",
     "uuid": "3b33bc19-8130-43f6-907c-f5ab32dc6d48"
+   },
+   {
+    "name": "CitronPrecursor",
+    "uuid": "e7def244-a0ce-460a-8cd4-687f9fabc7d2"
+   },
+   {
+    "name": "BALLIONTENNAIKO",
+    "uuid": "674ab974-9b7b-45f1-ba91-243550b2b46b"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "CitronPrecursor",
+     "uuid": "e7def244-a0ce-460a-8cd4-687f9fabc7d2"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "BALLIONTENNAIKO",
+     "uuid": "674ab974-9b7b-45f1-ba91-243550b2b46b"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

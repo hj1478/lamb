@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Westeria",
   "uuid": "469835f4-419c-4995-87f9-1ea96671711e",
@@ -12,12 +12,12 @@
    "uuid": "0afccce5-53af-4388-b7f8-1739ddd24228"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Angara",
+   "uuid": "e36a202c-a056-431e-8b90-c0f91051bab3"
   },
   "timestamps": {
    "registered": 1792685794956,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793379165211,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 46,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 10,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 41.0,
+   "balance": 18.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,10 +59,10 @@
     false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
     false,
@@ -92,8 +92,20 @@
    ],
    "townBlocks": [
     [
+     2394,
+     -731
+    ],
+    [
      2393,
      -733
+    ],
+    [
+     2394,
+     -733
+    ],
+    [
+     2393,
+     -734
     ],
     [
      2394,
@@ -101,7 +113,19 @@
     ],
     [
      2395,
+     -733
+    ],
+    [
+     2394,
+     -734
+    ],
+    [
+     2395,
      -732
+    ],
+    [
+     2395,
+     -734
     ],
     [
      2393,
@@ -118,9 +142,18 @@
    {
     "name": "Nyx0_Sph3r3",
     "uuid": "881e565e-4a0a-4937-8fc7-78a0506cc26c"
+   },
+   {
+    "name": "Heliospheare",
+    "uuid": "53a9fb1d-7b9f-4f78-bd9d-1ac09149ebe7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "VeryOhioGuy",
+    "uuid": "96a5d477-ac77-4f7e-9d0d-687b7b065f09"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

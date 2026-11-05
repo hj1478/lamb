@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Shanghai",
   "uuid": "3615a299-bf30-4300-94e5-48a35f591847",
@@ -8,8 +8,8 @@
   "wiki": "https://wiki.earthmc.net/wiki/Nostra:ShangHai",
   "discord": "https://discord.gg/a66fBgBQjV",
   "mayor": {
-   "name": "LAOLING__",
-   "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
+   "name": "A_ZHONG1",
+   "uuid": "3c35f4db-0f83-4d5e-8c6d-1aadf470cf63"
   },
   "nation": {
    "name": "PRC",
@@ -22,10 +22,10 @@
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 321,
-   "maxTownBlocks": 340,
+   "maxTownBlocks": 304,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 20,
-   "numTrusted": 12,
+   "numResidents": 17,
+   "numTrusted": 13,
    "numOutlaws": 5,
-   "balance": 47.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1380,10 +1380,6 @@
   },
   "residents": [
    {
-    "name": "LAOLING__",
-    "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
-   },
-   {
     "name": "A_ZHONG1",
     "uuid": "3c35f4db-0f83-4d5e-8c6d-1aadf470cf63"
    },
@@ -1424,18 +1420,6 @@
     "uuid": "9807a2b2-bda5-4e47-9005-d16848e9a114"
    },
    {
-    "name": "Tunnie_",
-    "uuid": "61d4edc7-3fa7-4208-9308-77f0fc63913e"
-   },
-   {
-    "name": "Goodnoonn",
-    "uuid": "7070f065-eebb-46c3-bb63-006e1fc1bbbf"
-   },
-   {
-    "name": "105viod",
-    "uuid": "07290c3b-8d6e-4d0e-a57d-e3b5261970aa"
-   },
-   {
     "name": "LorenLan",
     "uuid": "581d74f1-d9cc-4620-95b7-68c10de7839f"
    },
@@ -1458,13 +1442,13 @@
    {
     "name": "dmd2014",
     "uuid": "e2dcf9ca-c595-49a5-8266-47d4d7399da1"
+   },
+   {
+    "name": "44L_Hao",
+    "uuid": "89a62486-19b1-45f3-b974-478b9c73e2cf"
    }
   ],
   "trusted": [
-   {
-    "name": "U_N_Owen1939",
-    "uuid": "d557b767-a6dd-4784-b6ac-f40cb41e4fc7"
-   },
    {
     "name": "RevDestiny",
     "uuid": "1e57446c-eeee-4cd2-9a97-0a446ea1d0b4"
@@ -1482,24 +1466,12 @@
     "uuid": "31172ecd-14fe-4873-9b1c-7856ac22935d"
    },
    {
-    "name": "UpwindSoda",
-    "uuid": "75c4975f-5f1b-4aad-958b-0fa5147a31ca"
-   },
-   {
     "name": "LiZekaiii",
     "uuid": "1589b4fe-c8aa-4674-af8d-3f709d10b8e0"
    },
    {
-    "name": "MosenGuo",
-    "uuid": "73845ee8-8413-4775-a826-e781352effd4"
-   },
-   {
     "name": "LAOLING__",
     "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
-   },
-   {
-    "name": "LENGJ_",
-    "uuid": "b6a2f73c-b4bf-43b6-b6cb-83afd6afb8c7"
    },
    {
     "name": "SuperLong12",
@@ -1508,6 +1480,26 @@
    {
     "name": "MKCLZFP",
     "uuid": "09b45e33-7cc6-4a38-972e-7993af82ffc9"
+   },
+   {
+    "name": "U_N_Owen1939",
+    "uuid": "d557b767-a6dd-4784-b6ac-f40cb41e4fc7"
+   },
+   {
+    "name": "UpwindSoda",
+    "uuid": "75c4975f-5f1b-4aad-958b-0fa5147a31ca"
+   },
+   {
+    "name": "MosenGuo",
+    "uuid": "73845ee8-8413-4775-a826-e781352effd4"
+   },
+   {
+    "name": "LENGJ_",
+    "uuid": "b6a2f73c-b4bf-43b6-b6cb-83afd6afb8c7"
+   },
+   {
+    "name": "Cheun_lau",
+    "uuid": "ea6d8978-cbf4-4d4f-9db8-e1adb9badbba"
    }
   ],
   "outlaws": [

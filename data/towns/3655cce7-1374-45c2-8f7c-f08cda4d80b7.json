@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Emerita",
   "uuid": "3655cce7-1374-45c2-8f7c-f08cda4d80b7",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 7,
    "numTrusted": 0,
    "numOutlaws": 18,
-   "balance": 1.0,
+   "balance": 46.0,
    "forSalePrice": null
   },
   "perms": {
@@ -512,10 +512,6 @@
     "uuid": "bd40ac39-ffd1-442b-ad16-0ef8f9a12c78"
    },
    {
-    "name": "LorenzoFerra",
-    "uuid": "accb5c47-a3ce-4671-b37a-9a96fde29545"
-   },
-   {
     "name": "danimodani",
     "uuid": "527b37a6-5221-4e37-82a1-aee60cbe6eaf"
    },
@@ -530,6 +526,10 @@
    {
     "name": "ThunderBolt0067",
     "uuid": "0dbcab34-0f2f-4445-82aa-45fc0d54a3c8"
+   },
+   {
+    "name": "GioCervum",
+    "uuid": "59c00e05-2e67-4df9-ace2-a4afbbef83a8"
    }
   ],
   "trusted": [],
@@ -669,32 +669,12 @@
     "uuid": "7f62dbd0-0c25-4fd1-b96c-2dce305c8a8d"
    },
    {
-    "name": "Upbeat Residence",
-    "uuid": "e38a5587-dbec-4d96-affa-5157e8f4a46d"
-   },
-   {
     "name": "Malaysian Embassy House",
     "uuid": "63da3e28-6e3d-496f-9acc-e7ed35f56b4f"
    },
    {
-    "name": "Inviting Property",
-    "uuid": "3eaa1a2b-157f-4098-a4f5-9e48426db22f"
-   },
-   {
-    "name": "Lorenzo's Potions",
-    "uuid": "c97bfb7a-516d-42a6-a007-26b3dccb35f9"
-   },
-   {
-    "name": "Dull Dwelling",
-    "uuid": "39c35660-8517-4f16-867d-45158fc7c147"
-   },
-   {
     "name": "Inviting Residence",
     "uuid": "80aa2eac-a024-4d63-96cb-9b7bf6ea808c"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "010c2f14-491f-4357-a8aa-479f7602317b"
    },
    {
     "name": "Upbeat Property",
@@ -709,20 +689,12 @@
     "uuid": "34dcb7ab-89a0-443c-be74-7652887dd19b"
    },
    {
-    "name": "Dull Residence",
-    "uuid": "283ab971-7695-4d3d-bfda-c374ec8d275e"
-   },
-   {
     "name": "(MatteoHaSonno house)",
     "uuid": "1dd5a581-a59a-4deb-8894-f1e6518e2a41"
    },
    {
     "name": "Luxurious Quarter",
     "uuid": "c7afe0b5-6d16-4f73-b732-b7e2d8cd8768"
-   },
-   {
-    "name": "Elegant Quarter",
-    "uuid": "d1b76611-dec8-408b-9958-608d670b2c23"
    },
    {
     "name": "Dull Apartment",
@@ -783,6 +755,38 @@
    {
     "name": "Inconvenient Suite",
     "uuid": "47dee59d-63e7-49f6-b779-9a5ce8d2a004"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "b1a6c9d6-5e46-4c96-9f99-9bf1c3ccb2ec"
+   },
+   {
+    "name": "Dull Residence",
+    "uuid": "283ab971-7695-4d3d-bfda-c374ec8d275e"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "e38a5587-dbec-4d96-affa-5157e8f4a46d"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "3eaa1a2b-157f-4098-a4f5-9e48426db22f"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "39c35660-8517-4f16-867d-45158fc7c147"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "d1b76611-dec8-408b-9958-608d670b2c23"
+   },
+   {
+    "name": "Luxurious Residence",
+    "uuid": "010c2f14-491f-4357-a8aa-479f7602317b"
+   },
+   {
+    "name": "Lorenzo's Potions",
+    "uuid": "c97bfb7a-516d-42a6-a007-26b3dccb35f9"
    }
   ],
   "ranks": {

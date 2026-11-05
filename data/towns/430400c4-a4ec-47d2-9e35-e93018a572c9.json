@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "VoteForSherrod",
   "uuid": "430400c4-a4ec-47d2-9e35-e93018a572c9",
@@ -12,12 +12,12 @@
    "uuid": "3321bdc5-696b-4e9b-abf3-50d73aa8343d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1793741114941,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793853257861,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

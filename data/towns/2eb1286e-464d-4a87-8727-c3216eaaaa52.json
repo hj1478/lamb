@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Decatur",
   "uuid": "2eb1286e-464d-4a87-8727-c3216eaaaa52",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792560752469,
-   "joinedNationAt": 1793156986595,
+   "joinedNationAt": 1793327415730,
    "ruinedAt": null
   },
   "status": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 46,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31094.844319539567,
-    "y": 65.0,
-    "z": -4925.13881176395,
-    "pitch": 38.7,
-    "yaw": -178.75307
+    "x": -31060.89323118071,
+    "y": 64.0,
+    "z": -4905.212077442066,
+    "pitch": 84.15,
+    "yaw": -179.05522
    },
    "homeBlock": [
-    -1944,
-    -308
+    -1942,
+    -307
    ],
    "townBlocks": [
     [
@@ -98,6 +98,18 @@
     [
      -1942,
      -310
+    ],
+    [
+     -1942,
+     -312
+    ],
+    [
+     -1943,
+     -312
+    ],
+    [
+     -1945,
+     -312
     ],
     [
      -1943,
@@ -142,6 +154,10 @@
     [
      -1941,
      -310
+    ],
+    [
+     -1940,
+     -307
     ],
     [
      -1945,
@@ -172,6 +188,10 @@
      -309
     ],
     [
+     -1941,
+     -312
+    ],
+    [
      -1945,
      -309
     ],
@@ -190,6 +210,10 @@
     [
      -1941,
      -308
+    ],
+    [
+     -1941,
+     -307
     ],
     [
      -1946,
@@ -204,8 +228,16 @@
      -311
     ],
     [
+     -1939,
+     -308
+    ],
+    [
      -1946,
      -308
+    ],
+    [
+     -1939,
+     -307
     ],
     [
      -1946,
@@ -216,8 +248,24 @@
      -311
     ],
     [
+     -1944,
+     -312
+    ],
+    [
+     -1946,
+     -312
+    ],
+    [
+     -1939,
+     -310
+    ],
+    [
      -1940,
      -311
+    ],
+    [
+     -1940,
+     -312
     ],
     [
      -1940,
@@ -242,6 +290,10 @@
    {
     "name": "WilliamCreator7",
     "uuid": "790880bf-23c1-492d-889b-85e6d1e80ae2"
+   },
+   {
+    "name": "ChFireMonkey",
+    "uuid": "98bcde1d-cfbc-4ba1-a1c5-f4181a79cb5b"
    }
   ],
   "trusted": [
@@ -260,7 +312,12 @@
     "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "00fb89a6-f8df-424d-b678-eb31722f53a4"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

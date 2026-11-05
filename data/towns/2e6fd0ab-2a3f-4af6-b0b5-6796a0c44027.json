@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
-  "name": "Lusitania_State",
+  "name": "Villafranco",
   "uuid": "2e6fd0ab-2a3f-4af6-b0b5-6796a0c44027",
-  "board": "City-State of Lusitania, Nomina Magna Sequor Porreria",
+  "board": "Villafranco del Guadiana, Nomina Magna Sequor Porreria",
   "founder": "CreatePorrex",
   "wiki": null,
   "discord": null,
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 37,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 59.0,
+   "numOutlaws": 4,
+   "balance": 85.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2504.3161363237264,
+    "x": -2487.6319317303214,
     "y": 65.0,
-    "z": -7063.44043955467,
-    "pitch": 45.300003,
-    "yaw": 100.29797
+    "z": -7065.250166814598,
+    "pitch": -38.85001,
+    "yaw": -1.1019405
    },
    "homeBlock": [
-    -157,
+    -156,
     -442
    ],
    "townBlocks": [
@@ -140,6 +140,10 @@
      -444
     ],
     [
+     -152,
+     -443
+    ],
+    [
      -159,
      -445
     ],
@@ -164,11 +168,31 @@
      -443
     ],
     [
+     -152,
+     -441
+    ],
+    [
+     -152,
+     -442
+    ],
+    [
      -156,
      -443
     ],
     [
+     -151,
+     -443
+    ],
+    [
+     -151,
+     -442
+    ],
+    [
      -156,
+     -441
+    ],
+    [
+     -151,
      -441
     ],
     [
@@ -190,6 +214,10 @@
     [
      -153,
      -442
+    ],
+    [
+     -153,
+     -441
     ],
     [
      -157,
@@ -225,6 +253,18 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "LordBeeder",
+    "uuid": "f77c15b1-a9dc-422e-a7e9-7b5d1e744a10"
+   },
+   {
+    "name": "7ember",
+    "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
    }
   ],
   "quarters": [],

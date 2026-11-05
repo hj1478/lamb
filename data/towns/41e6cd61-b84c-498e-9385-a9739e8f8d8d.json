@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Veracruz",
   "uuid": "41e6cd61-b84c-498e-9385-a9739e8f8d8d",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": true
   },
   "stats": {
-   "numTownBlocks": 480,
-   "maxTownBlocks": 492,
+   "numTownBlocks": 497,
+   "maxTownBlocks": 480,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 36,
+   "numResidents": 35,
    "numTrusted": 4,
-   "numOutlaws": 59,
-   "balance": 0.0,
+   "numOutlaws": 56,
+   "balance": 174.0,
    "forSalePrice": null
   },
   "perms": {
@@ -240,8 +240,16 @@
      73
     ],
     [
+     -2169,
+     76
+    ],
+    [
      -2155,
      80
+    ],
+    [
+     -2169,
+     77
     ],
     [
      -2155,
@@ -250,6 +258,14 @@
     [
      -2155,
      82
+    ],
+    [
+     -2167,
+     76
+    ],
+    [
+     -2167,
+     77
     ],
     [
      -2169,
@@ -676,6 +692,10 @@
      68
     ],
     [
+     -2164,
+     60
+    ],
+    [
      -2154,
      74
     ],
@@ -734,6 +754,10 @@
     [
      -2154,
      83
+    ],
+    [
+     -2169,
+     61
     ],
     [
      -2154,
@@ -797,6 +821,10 @@
     ],
     [
      -2166,
+     76
+    ],
+    [
+     -2166,
      75
     ],
     [
@@ -826,6 +854,10 @@
     [
      -2166,
      69
+    ],
+    [
+     -2166,
+     77
     ],
     [
      -2157,
@@ -1109,7 +1141,15 @@
     ],
     [
      -2145,
+     81
+    ],
+    [
+     -2145,
      79
+    ],
+    [
+     -2145,
+     80
     ],
     [
      -2145,
@@ -1178,6 +1218,14 @@
     [
      -2168,
      61
+    ],
+    [
+     -2168,
+     77
+    ],
+    [
+     -2168,
+     76
     ],
     [
      -2168,
@@ -1464,6 +1512,10 @@
      53
     ],
     [
+     -2171,
+     61
+    ],
+    [
      -2150,
      78
     ],
@@ -1609,6 +1661,14 @@
     ],
     [
      -2163,
+     59
+    ],
+    [
+     -2163,
+     60
+    ],
+    [
+     -2163,
      61
     ],
     [
@@ -1654,6 +1714,10 @@
     [
      -2170,
      62
+    ],
+    [
+     -2170,
+     61
     ],
     [
      -2170,
@@ -1746,6 +1810,10 @@
     [
      -2146,
      83
+    ],
+    [
+     -2165,
+     60
     ],
     [
      -2146,
@@ -2032,28 +2100,12 @@
     "uuid": "c3852c14-afb8-4327-9196-4ecff3f340b1"
    },
    {
-    "name": "Vincko_8",
-    "uuid": "0b4846a8-8a32-4415-b0f8-fe816f3724a2"
-   },
-   {
-    "name": "ht62",
-    "uuid": "78c4cdaa-345a-4314-bd7d-1fc9085161bc"
-   },
-   {
     "name": "TKOAK",
     "uuid": "169dc513-b8c4-4a98-a098-a4dc26bd9ad2"
    },
    {
-    "name": "ahhlewis",
-    "uuid": "31e927c8-da62-43f5-8227-eb8641ce7565"
-   },
-   {
     "name": "graydogchs",
     "uuid": "f2817d1e-8ec7-4d3d-85f5-c4ee87a29339"
-   },
-   {
-    "name": "Penguinleader4",
-    "uuid": "8bf2cdcd-a989-46a1-bc3a-9752f6d37584"
    },
    {
     "name": "Athugarius",
@@ -2152,12 +2204,24 @@
     "uuid": "d16e5b6b-0951-4df1-a669-db75883591ca"
    },
    {
-    "name": "Matrixx0302",
-    "uuid": "48af2902-3276-4dc1-b3ff-0531f41765d5"
-   },
-   {
     "name": "Sigma_RIZZ2024",
     "uuid": "a0bfacaf-6fac-4aac-aa79-847512244e48"
+   },
+   {
+    "name": "glitchy_4el",
+    "uuid": "8df34f8d-c0f3-4b15-9c03-263d05b08b2f"
+   },
+   {
+    "name": "Rhyno_Is_Here",
+    "uuid": "86f24c58-57b3-4db8-80f2-8a9456dc0c61"
+   },
+   {
+    "name": "BaseGalaxy",
+    "uuid": "ebf2d47b-1541-49d1-b778-3fba31adf16f"
+   },
+   {
+    "name": "CaoMC67890",
+    "uuid": "ee089356-2f05-4141-8811-c21c0247b168"
    }
   ],
   "trusted": [
@@ -2170,7 +2234,7 @@
     "uuid": "f722f3fe-8acc-49d1-a4c8-e946269b6a56"
    },
    {
-    "name": "Penguinleader4",
+    "name": "Sublette",
     "uuid": "8bf2cdcd-a989-46a1-bc3a-9752f6d37584"
    },
    {
@@ -2186,10 +2250,6 @@
    {
     "name": "Creeperboss2450",
     "uuid": "4baac385-d19f-4f40-a45d-77baa66bf8bd"
-   },
-   {
-    "name": "Ryoga",
-    "uuid": "96f02008-fd5f-49b0-a2cf-9a6c04e71bb7"
    },
    {
     "name": "Pompaelo",
@@ -2324,16 +2384,8 @@
     "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
    },
    {
-    "name": "Cellsperfect",
-    "uuid": "f91cfa97-8a05-45ae-8f71-fd337aa27ff7"
-   },
-   {
     "name": "Vfinestone",
     "uuid": "e319f1e6-1eca-4296-9707-386c460b2703"
-   },
-   {
-    "name": "LotaPandaPoo",
-    "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
    },
    {
     "name": "AhmetSZ1",
@@ -2396,10 +2448,6 @@
     "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
    },
    {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
     "name": "SMMAVR_nikto",
     "uuid": "3b4561ac-a0ea-433b-a617-cfd99d1f814e"
    },
@@ -2414,6 +2462,10 @@
    {
     "name": "salzista",
     "uuid": "52061cdc-d157-4131-a078-319435cac075"
+   },
+   {
+    "name": "SweetLemonade69",
+    "uuid": "035082d0-f931-4e25-a7ab-68bdef41033e"
    }
   ],
   "quarters": [],
@@ -2437,12 +2489,7 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Penguinleader4",
-     "uuid": "8bf2cdcd-a989-46a1-bc3a-9752f6d37584"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

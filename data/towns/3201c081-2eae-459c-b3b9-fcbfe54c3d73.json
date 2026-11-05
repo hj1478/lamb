@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Santa_Banana",
   "uuid": "3201c081-2eae-459c-b3b9-fcbfe54c3d73",
-  "board": "msg Make Sure to Start Recruiting and Building!",
+  "board": "BANANA",
   "founder": "Joemamabanananan",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 38,
    "maxTownBlocks": 46,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 35.0,
+   "numOutlaws": 3,
+   "balance": 623.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -60739.48751372089,
+    "x": -60740.23750001192,
     "y": 63.0,
-    "z": 13143.430934555894,
-    "pitch": 42.150043,
-    "yaw": 88.19058
+    "z": 13144.531554843772,
+    "pitch": 11.100048,
+    "yaw": 90.150024
    },
    "homeBlock": [
     -3797,
@@ -92,43 +92,59 @@
    ],
    "townBlocks": [
     [
-     -3798,
-     823
-    ],
-    [
-     -3798,
+     -3800,
      822
     ],
     [
-     -3798,
+     -3800,
      821
+    ],
+    [
+     -3800,
+     820
+    ],
+    [
+     -3797,
+     824
     ],
     [
      -3797,
      823
     ],
     [
-     -3795,
+     -3803,
      821
     ],
     [
-     -3795,
-     823
+     -3802,
+     820
     ],
     [
-     -3795,
+     -3801,
      822
     ],
     [
-     -3796,
+     -3803,
+     820
+    ],
+    [
+     -3801,
+     821
+    ],
+    [
+     -3802,
      822
     ],
     [
-     -3796,
-     823
+     -3802,
+     821
     ],
     [
      -3797,
+     820
+    ],
+    [
+     -3801,
      820
     ],
     [
@@ -136,12 +152,92 @@
      822
     ],
     [
-     -3796,
+     -3797,
+     821
+    ],
+    [
+     -3798,
      820
     ],
     [
-     -3797,
+     -3798,
+     819
+    ],
+    [
+     -3794,
+     823
+    ],
+    [
+     -3799,
+     819
+    ],
+    [
+     -3799,
      821
+    ],
+    [
+     -3794,
+     820
+    ],
+    [
+     -3799,
+     820
+    ],
+    [
+     -3798,
+     823
+    ],
+    [
+     -3798,
+     822
+    ],
+    [
+     -3794,
+     822
+    ],
+    [
+     -3799,
+     822
+    ],
+    [
+     -3798,
+     821
+    ],
+    [
+     -3794,
+     821
+    ],
+    [
+     -3795,
+     821
+    ],
+    [
+     -3795,
+     820
+    ],
+    [
+     -3795,
+     823
+    ],
+    [
+     -3795,
+     822
+    ],
+    [
+     -3796,
+     822
+    ],
+    [
+     -3796,
+     823
+    ],
+    [
+     -3796,
+     824
+    ],
+    [
+     -3796,
+     820
     ],
     [
      -3796,
@@ -165,10 +261,28 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Kuddsson",
+    "uuid": "c886bdf9-a064-4dba-b670-c3797c5646cd"
+   },
+   {
+    "name": "_P1nkPanth3r_",
+    "uuid": "945dfdc8-12d7-4835-b7e0-94dd0e8d6fd0"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
    "Builder": [
     {
      "name": "MrStewie5",
@@ -185,11 +299,36 @@
      "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
     }
    ],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Police": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "romansareback",
+     "uuid": "598b4a33-7e4e-496b-9f50-0702ca7dbb72"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

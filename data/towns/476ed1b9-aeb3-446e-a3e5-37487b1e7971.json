@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Vlore",
   "uuid": "476ed1b9-aeb3-446e-a3e5-37487b1e7971",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776642286097,
-   "joinedNationAt": 1792245853016,
+   "joinedNationAt": 1793370413047,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 4,
    "numTrusted": 6,
    "numOutlaws": 5,
-   "balance": 0.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -576,10 +576,6 @@
   },
   "residents": [
    {
-    "name": "Noahpng",
-    "uuid": "a5b9b047-d294-476f-a5f1-27461681b969"
-   },
-   {
     "name": "Shef0226",
     "uuid": "4083bd9a-8fa1-4d12-9e19-32ec6f71d6df"
    },
@@ -590,12 +586,20 @@
    {
     "name": "F0UR_",
     "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
+   },
+   {
+    "name": "ioniclink",
+    "uuid": "ed116740-77dd-489d-9741-7416503e4c97"
    }
   ],
   "trusted": [
    {
     "name": "LassqL",
     "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
+   },
+   {
+    "name": "AKHISARLI",
+    "uuid": "80ab7077-601b-4741-90e3-1b56146cde06"
    },
    {
     "name": "Costel_Biju",
@@ -612,10 +616,6 @@
    {
     "name": "dex247",
     "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
-   },
-   {
-    "name": "Swighted_",
-    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
    }
   ],
   "outlaws": [
@@ -652,12 +652,7 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Shef0226",
-     "uuid": "4083bd9a-8fa1-4d12-9e19-32ec6f71d6df"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

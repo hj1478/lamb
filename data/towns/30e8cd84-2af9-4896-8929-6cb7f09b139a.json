@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Lake_Orion",
   "uuid": "30e8cd84-2af9-4896-8929-6cb7f09b139a",
@@ -12,12 +12,12 @@
    "uuid": "15884632-c442-4eb8-a1d0-d928da04eb85"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
    "registered": 1793477371729,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793591602886,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -96,12 +96,12 @@
      -240
     ],
     [
-     1962,
-     -240
-    ],
-    [
      1961,
      -239
+    ],
+    [
+     1962,
+     -240
     ],
     [
      1961,

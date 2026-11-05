@@ -1,30 +1,30 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
-  "name": "New_Paris",
+  "name": "Tenochtitlan",
   "uuid": "45d5161d-11a3-4c3e-9f2b-63dee72e7f03",
-  "board": "French Mexico...",
+  "board": "Viva Mexico",
   "founder": "Jakadextr",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Darkrenheit",
-   "uuid": "45d38a1d-28f7-41be-894f-0c8ce1f052f7"
+   "name": "Mr_One_Punch",
+   "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
   },
   "nation": {
-   "name": "Mexican_Kingdom",
-   "uuid": "f9188c4d-5294-489c-acff-11f78338fe8b"
+   "name": "Mexico",
+   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
   },
   "timestamps": {
    "registered": 1776457979671,
-   "joinedNationAt": 1778957004380,
+   "joinedNationAt": 1793824505501,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 374,
-   "maxTownBlocks": 120,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 10,
-   "numTrusted": 4,
-   "numOutlaws": 9,
+   "nationBonus": 60,
+   "numResidents": 9,
+   "numTrusted": 6,
+   "numOutlaws": 8,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35502.23661176766,
-    "y": 95.0,
-    "z": 877.1852253932362,
-    "pitch": 5.5830235,
-    "yaw": -49.985153
+    "x": -35783.63233931319,
+    "y": 100.5,
+    "z": 779.7809548154582,
+    "pitch": 4.5002117,
+    "yaw": 1.1644287
    },
    "homeBlock": [
-    -2219,
-    54
+    -2237,
+    48
    ],
    "townBlocks": [
     [
@@ -1596,10 +1596,6 @@
     "uuid": "58087a87-1e7b-40fc-85fd-1b76b3a8cd9f"
    },
    {
-    "name": "ImagineCraft",
-    "uuid": "8a05d6e4-db20-4199-8af5-5a8cc5c0565a"
-   },
-   {
     "name": "Lingani",
     "uuid": "99a951ae-15a6-4d0d-82d3-d6fd226ac809"
    },
@@ -1624,30 +1620,38 @@
     "uuid": "5343bfac-9e20-4a28-acda-037ca2f7d062"
    },
    {
-    "name": "Darkrenheit",
-    "uuid": "45d38a1d-28f7-41be-894f-0c8ce1f052f7"
+    "name": "Mr_One_Punch",
+    "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
    },
    {
-    "name": "Ayskow",
-    "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
+    "name": "Blanksky1005",
+    "uuid": "5d9dd374-57ff-4eff-b967-118310445f3c"
    }
   ],
   "trusted": [
    {
-    "name": "Ayskow",
-    "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
+    "name": "Mr_One_Punch",
+    "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
    },
    {
-    "name": "Ravocy_",
-    "uuid": "8358d434-edd1-4614-9b39-b0fc2967bdf9"
+    "name": "Blanksky1005",
+    "uuid": "5d9dd374-57ff-4eff-b967-118310445f3c"
    },
    {
-    "name": "_talvi",
-    "uuid": "e8aa2277-52aa-42cb-9295-1978a80e50eb"
+    "name": "ER3KO",
+    "uuid": "0bdf5d83-635e-4254-a91d-c319bc8aa942"
    },
    {
-    "name": "Pelle_Nomme",
-    "uuid": "96722925-6c17-4f31-81e0-47eb156f2578"
+    "name": "GotyGood",
+    "uuid": "a3c885af-b519-4bfc-9f6b-964bb90a80c2"
+   },
+   {
+    "name": "legendemi",
+    "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
+   },
+   {
+    "name": "LUISITO5m55",
+    "uuid": "3745ecd7-fa94-4453-8e84-267a1bdbf6ee"
    }
   ],
   "outlaws": [
@@ -1662,10 +1666,6 @@
    {
     "name": "RealYoPickk",
     "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
-   },
-   {
-    "name": "Continentalia",
-    "uuid": "2c1f0bd5-f870-414d-9231-9084b270d6a9"
    },
    {
     "name": "GetBetterPeasant",
@@ -1716,10 +1716,6 @@
    {
     "name": "Welcoming Residence",
     "uuid": "3e580f9a-a24a-4cc4-abea-236ad84a4c4a"
-   },
-   {
-    "name": "Dingy Quarter",
-    "uuid": "e183e2e6-c497-41ca-97c1-5afcf802669f"
    },
    {
     "name": "Stuff",

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Silver",
   "uuid": "27150e5f-72ac-4873-9503-fc13a0bc354c",
-  "board": "Cheap Potions",
+  "board": "Ally of Alba",
   "founder": "SilverZinc",
   "wiki": null,
   "discord": null,
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 13,
-   "balance": 2.0,
+   "numOutlaws": 15,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -169,6 +169,14 @@
    {
     "name": "BIG_ALL_IN",
     "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "Acerse",
+    "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
    }
   ],
   "quarters": [
@@ -181,8 +189,12 @@
     "uuid": "b2026a01-6fcb-4400-b5e9-38534731925a"
    },
    {
-    "name": "Gloomy Flat",
-    "uuid": "9ee73ba7-1d23-4d44-8362-59a20e170c65"
+    "name": "Stylish Flat",
+    "uuid": "ba685357-42ca-47d3-a6d5-0a0aeddf3ad3"
+   },
+   {
+    "name": "Lovely Suite",
+    "uuid": "d4f8e355-2eee-48f4-a00c-de1a7bf16607"
    }
   ],
   "ranks": {

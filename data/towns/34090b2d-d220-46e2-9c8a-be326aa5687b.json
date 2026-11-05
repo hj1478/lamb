@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Ponikos",
   "uuid": "34090b2d-d220-46e2-9c8a-be326aa5687b",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 170,
-   "maxTownBlocks": 188,
+   "maxTownBlocks": 200,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 9,
-   "numTrusted": 1,
+   "numResidents": 10,
+   "numTrusted": 2,
    "numOutlaws": 14,
    "balance": 2.0,
    "forSalePrice": null
@@ -74,21 +74,21 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45331.97118591394,
+    "x": 45429.62024221537,
     "y": 67.0,
-    "z": -12747.419318378452,
-    "pitch": 18.150015,
-    "yaw": 87.24805
+    "z": -12523.696073418168,
+    "pitch": 24.750132,
+    "yaw": -3.7981567
    },
    "homeBlock": [
-    2833,
-    -797
+    2839,
+    -783
    ],
    "townBlocks": [
     [
@@ -815,9 +815,17 @@
    {
     "name": "Ardaoski",
     "uuid": "3d79cecd-70ee-496d-aa4b-a3eac9d0ea1d"
+   },
+   {
+    "name": "vixelank",
+    "uuid": "cdbcd8d3-04a1-43a6-828d-42efd3b01e52"
    }
   ],
   "trusted": [
+   {
+    "name": "Pansebjorn_",
+    "uuid": "3d029245-dca4-4e9e-9439-54d93e38fe34"
+   },
    {
     "name": "Spicy_Manx",
     "uuid": "aebaeaea-9ab4-4c53-a7ca-e12bf9671bbf"

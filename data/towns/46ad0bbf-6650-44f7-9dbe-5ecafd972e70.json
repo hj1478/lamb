@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "New_Melbourne",
   "uuid": "46ad0bbf-6650-44f7-9dbe-5ecafd972e70",
@@ -12,12 +12,12 @@
    "uuid": "aeb39bb1-9d2b-46cb-b786-155a0c939e2d"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793079609869,
-   "joinedNationAt": 1793135414138,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 10,
    "numOutlaws": 0,
-   "balance": 37.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {

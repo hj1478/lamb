@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Diasland",
   "uuid": "31919178-babf-4160-8a84-b3a4ec67ef33",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "OnlyGodAres",
-   "uuid": "99b6a2e6-703a-41da-b97a-cda9ed6388f5"
+   "name": "Sagoski",
+   "uuid": "8235c3a8-29d1-49b6-8674-3e614015ad68"
   },
   "nation": {
    "name": "Brazil",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 97,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 360.0,
    "forSalePrice": null
@@ -486,18 +486,9 @@
    {
     "name": "Sagoski",
     "uuid": "8235c3a8-29d1-49b6-8674-3e614015ad68"
-   },
-   {
-    "name": "OnlyGodAres",
-    "uuid": "99b6a2e6-703a-41da-b97a-cda9ed6388f5"
    }
   ],
-  "trusted": [
-   {
-    "name": "OnlyGodAres",
-    "uuid": "99b6a2e6-703a-41da-b97a-cda9ed6388f5"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
@@ -508,12 +499,7 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "OnlyGodAres",
-     "uuid": "99b6a2e6-703a-41da-b97a-cda9ed6388f5"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

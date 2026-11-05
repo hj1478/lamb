@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
-  "name": "IcePokemon",
+  "name": "ICEdge",
   "uuid": "367fc82b-1158-4c21-a073-0e5290ac3309",
-  "board": "pokemoncenter",
+  "board": "Polar One",
   "founder": "supepokemen",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 31,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,11 +92,119 @@
    ],
    "townBlocks": [
     [
-     2081,
+     2080,
+     -1883
+    ],
+    [
+     2080,
+     -1882
+    ],
+    [
+     2080,
+     -1881
+    ],
+    [
+     2080,
+     -1880
+    ],
+    [
+     2085,
+     -1880
+    ],
+    [
+     2085,
+     -1882
+    ],
+    [
+     2085,
+     -1881
+    ],
+    [
+     2083,
+     -1880
+    ],
+    [
+     2083,
+     -1881
+    ],
+    [
+     2084,
+     -1885
+    ],
+    [
+     2084,
+     -1884
+    ],
+    [
+     2083,
+     -1884
+    ],
+    [
+     2084,
+     -1883
+    ],
+    [
+     2085,
+     -1884
+    ],
+    [
+     2083,
+     -1885
+    ],
+    [
+     2084,
+     -1882
+    ],
+    [
+     2085,
+     -1883
+    ],
+    [
+     2083,
+     -1882
+    ],
+    [
+     2084,
+     -1881
+    ],
+    [
+     2083,
+     -1883
+    ],
+    [
+     2084,
+     -1880
+    ],
+    [
+     2085,
+     -1885
+    ],
+    [
+     2082,
+     -1884
+    ],
+    [
+     2082,
      -1883
     ],
     [
      2082,
+     -1882
+    ],
+    [
+     2082,
+     -1881
+    ],
+    [
+     2082,
+     -1880
+    ],
+    [
+     2081,
+     -1880
+    ],
+    [
+     2081,
      -1883
     ],
     [
@@ -104,8 +212,8 @@
      -1882
     ],
     [
-     2082,
-     -1882
+     2081,
+     -1881
     ]
    ],
    "worlds": {}
@@ -118,12 +226,17 @@
   ],
   "trusted": [
    {
-    "name": "Alianaka",
+    "name": "0E0F",
     "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dingy Property",
+    "uuid": "67e8f12d-bffd-4991-8217-e6a236959879"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

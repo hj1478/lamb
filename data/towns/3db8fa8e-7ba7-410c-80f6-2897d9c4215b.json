@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "New_Burger_City",
   "uuid": "3db8fa8e-7ba7-410c-80f6-2897d9c4215b",
@@ -8,37 +8,37 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "burgertart",
-   "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
+   "name": "NPC51",
+   "uuid": "56aaf647-a8a4-2062-b377-c73623dbb2fa"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793527781634,
-   "joinedNationAt": 1793527820084,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793826102277
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,21 +92,46 @@
    ],
    "townBlocks": [
     [
+     284,
+     -776
+    ],
+    [
+     282,
+     -776
+    ],
+    [
+     282,
+     -777
+    ],
+    [
      283,
      -776
+    ],
+    [
+     283,
+     -777
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "burgertart",
-    "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
+    "name": "NPC51",
+    "uuid": "56aaf647-a8a4-2062-b377-c73623dbb2fa"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "fd44ea13-3ee3-40c0-a586-6cc02723df9d"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "a0a318f1-c86c-49c6-b9ae-ef895cea7110"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

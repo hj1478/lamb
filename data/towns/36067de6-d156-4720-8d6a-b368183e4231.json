@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Ashen_Hollow",
   "uuid": "36067de6-d156-4720-8d6a-b368183e4231",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 27,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 10.0,
+   "numOutlaws": 2,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,27 @@
    "townBlocks": [
     [
      585,
+     -801
+    ],
+    [
+     585,
+     -800
+    ],
+    [
+     585,
+     -799
+    ],
+    [
+     585,
      -798
     ],
     [
      585,
      -797
+    ],
+    [
+     588,
+     -801
     ],
     [
      588,
@@ -116,8 +132,28 @@
      -798
     ],
     [
+     588,
+     -796
+    ],
+    [
+     589,
+     -798
+    ],
+    [
+     589,
+     -799
+    ],
+    [
+     589,
+     -797
+    ],
+    [
      586,
      -800
+    ],
+    [
+     586,
+     -801
     ],
     [
      586,
@@ -137,6 +173,10 @@
     ],
     [
      587,
+     -801
+    ],
+    [
+     587,
      -799
     ],
     [
@@ -150,6 +190,14 @@
     [
      587,
      -798
+    ],
+    [
+     589,
+     -800
+    ],
+    [
+     589,
+     -801
     ]
    ],
    "worlds": {}
@@ -161,7 +209,16 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

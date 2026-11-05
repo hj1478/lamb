@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Wurttemberg",
   "uuid": "4298e8a1-b442-455a-befc-0aea2e502b3b",
@@ -12,12 +12,12 @@
    "uuid": "a375a069-8e39-4440-bf1b-297445178d4b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
    "registered": 1793364245964,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793375374604,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

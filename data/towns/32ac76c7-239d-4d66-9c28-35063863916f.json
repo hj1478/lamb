@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Lira",
   "uuid": "32ac76c7-239d-4d66-9c28-35063863916f",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1788896731480,
-   "joinedNationAt": 1793021431247,
+   "joinedNationAt": 1793640630533,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 424,
+   "maxTownBlocks": 352,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 27,
-   "numTrusted": 4,
-   "numOutlaws": 13,
-   "balance": 0.0,
+   "numResidents": 21,
+   "numTrusted": 1,
+   "numOutlaws": 12,
+   "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27389.77265225152,
-    "y": 71.0,
-    "z": 10423.469166282344,
-    "pitch": 16.050035,
-    "yaw": 89.7316
+    "x": -27415.607515804983,
+    "y": 63.0,
+    "z": 10437.832831446707,
+    "pitch": -5.250061,
+    "yaw": 0.34018528
    },
    "homeBlock": [
-    -1712,
-    651
+    -1714,
+    652
    ],
    "townBlocks": [
     [
@@ -288,32 +288,12 @@
   },
   "residents": [
    {
-    "name": "duck_eater",
-    "uuid": "a2975b44-48e3-4c5a-bbb4-d8b9387b5cf8"
-   },
-   {
     "name": "JanBanana7",
     "uuid": "97ebe542-1e0a-4473-84b1-b1df911e70c2"
    },
    {
-    "name": "RoachLox",
-    "uuid": "921a2722-6994-4cfb-a213-e73f97cc6de5"
-   },
-   {
-    "name": "TarunPapi",
-    "uuid": "24fb6ebf-9b41-45e7-a0d3-484f8851d157"
-   },
-   {
-    "name": "shyguyuwu",
-    "uuid": "e08878cb-725c-47e3-b8f3-8cd2a0589716"
-   },
-   {
     "name": "CaptainSwann",
     "uuid": "54563374-c05f-4b0c-89bc-ce01a1ceb523"
-   },
-   {
-    "name": "SeeTurtle365",
-    "uuid": "2db67cde-cd64-46ca-8e93-9d4dbc03818e"
    },
    {
     "name": "coruptoskar",
@@ -348,24 +328,12 @@
     "uuid": "de6c170c-1292-4c20-84c6-f98e07e7f9df"
    },
    {
-    "name": "Darth_Frog",
-    "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
-   },
-   {
-    "name": "leo47473",
-    "uuid": "dfcc7768-7258-4731-b718-9d6cbe91c56c"
-   },
-   {
     "name": "Wojownik23",
     "uuid": "73aa3016-91c8-4664-86d3-9aa7c8f61bf8"
    },
    {
     "name": "Milka987",
     "uuid": "61098ee3-ca17-41ba-a2f4-385e1ddbde84"
-   },
-   {
-    "name": "Lillwester",
-    "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
    },
    {
     "name": "LimppaLamppa",
@@ -392,6 +360,14 @@
     "uuid": "52e7ba88-fb62-4f72-bed4-dfd8a11ec8a3"
    },
    {
+    "name": "ABHI_KING",
+    "uuid": "15ea7a40-171a-41df-ba78-418371d7f4e4"
+   },
+   {
+    "name": "brownie15gg",
+    "uuid": "d1b31c20-3c5b-49e6-9ec7-192fa106c263"
+   },
+   {
     "name": "leonzombiiey67",
     "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
    }
@@ -400,18 +376,6 @@
    {
     "name": "leonzombiiey67",
     "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
-   },
-   {
-    "name": "kdomesz24",
-    "uuid": "b37d8401-b4df-4fc6-a7a5-05a15bcc91b5"
-   },
-   {
-    "name": "Jona2k9",
-    "uuid": "703956f1-f4b8-4031-9d4d-f748f5b3f50f"
-   },
-   {
-    "name": "Hollow_Soul_303",
-    "uuid": "a0f3d2f0-9bce-4ae8-a1c9-0bda13613928"
    }
   ],
   "outlaws": [
@@ -440,20 +404,12 @@
     "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
    },
    {
-    "name": "ONEBUILDS",
-    "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
-   },
-   {
     "name": "Ncgx",
     "uuid": "f745accd-5868-4d6c-84d7-ebe3619290ef"
    },
    {
     "name": "MaiGala",
     "uuid": "55a6b3ad-adeb-41ec-b677-f86a57a4a4f3"
-   },
-   {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
     "name": "xtapodi_",
@@ -466,6 +422,10 @@
    {
     "name": "CrystallizerMC",
     "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
+   },
+   {
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    }
   ],
   "quarters": [
@@ -538,10 +498,6 @@
     "uuid": "b96ea6b7-e7d8-4b6f-b7fc-0c5bba96606d"
    },
    {
-    "name": "trick_or_treat",
-    "uuid": "077f28e7-1445-4e1c-adc7-04e1c596ba45"
-   },
-   {
     "name": "Lovely Property",
     "uuid": "e9d67cf4-efc0-4573-9308-b6db5a0c68e3"
    },
@@ -552,6 +508,10 @@
    {
     "name": "Inconvenient Quarter",
     "uuid": "ea239e6c-9432-40f2-a432-0f8b8e742e29"
+   },
+   {
+    "name": "Inviting Apartment",
+    "uuid": "0b04ee9e-6774-4606-8f85-0c123179d30d"
    }
   ],
   "ranks": {
@@ -559,26 +519,9 @@
     {
      "name": "JanBanana7",
      "uuid": "97ebe542-1e0a-4473-84b1-b1df911e70c2"
-    },
-    {
-     "name": "Jona2k9",
-     "uuid": "703956f1-f4b8-4031-9d4d-f748f5b3f50f"
-    },
-    {
-     "name": "Darth_Frog",
-     "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
-    },
-    {
-     "name": "Lillwester",
-     "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
     }
    ],
-   "Builder": [
-    {
-     "name": "leo47473",
-     "uuid": "dfcc7768-7258-4731-b718-9d6cbe91c56c"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

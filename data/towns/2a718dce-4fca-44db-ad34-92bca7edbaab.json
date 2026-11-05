@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Memel",
   "uuid": "2a718dce-4fca-44db-ad34-92bca7edbaab",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 138,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 8,
+   "numResidents": 4,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -656,10 +656,6 @@
     "uuid": "8df7351e-2098-401a-8032-88d7694e3216"
    },
    {
-    "name": "mingimuna",
-    "uuid": "dc2e68be-7999-4f9a-80ff-d5b8e8fbd3e3"
-   },
-   {
     "name": "Merkutiena",
     "uuid": "a4c3ea0e-df6a-4365-b7bd-0e384667047f"
    },
@@ -686,20 +682,12 @@
     "uuid": "65b1f884-3fc7-4fbb-8edb-9ce016a1ec3b"
    },
    {
-    "name": "xCoffeeh",
-    "uuid": "4a92e30d-a137-4f09-b676-71954c6bd012"
-   },
-   {
     "name": "Czipsu35",
     "uuid": "12a19eee-6539-4634-89bc-4398ab8de870"
    },
    {
     "name": "Eimantas175",
     "uuid": "7034c801-e28d-4058-a4e0-ba48f72bd78d"
-   },
-   {
-    "name": "DemonifyHD",
-    "uuid": "36598c7a-554c-419f-b4a3-2fdc0d5af74b"
    }
   ],
   "outlaws": [],
@@ -739,6 +727,10 @@
    {
     "name": "Enraging Tenement",
     "uuid": "ce4dfc07-8756-477f-a19d-7be035743e28"
+   },
+   {
+    "name": "Dingy Flat",
+    "uuid": "5205e274-1ffb-49ef-8c82-10758978360b"
    }
   ],
   "ranks": {
@@ -751,7 +743,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "1",
+    "uuid": "62e0458c-6eb3-43fd-8a35-76181f40c56a",
+    "createdAt": 1793624576898,
+    "createdBy": "Eimantas175",
+    "access": "NATION",
+    "location": {
+     "x": 7658,
+     "y": 19,
+     "z": -14337
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

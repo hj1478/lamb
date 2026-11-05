@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Key_West",
   "uuid": "3540c683-bb9b-478e-b549-8b506d673448",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 294.0,
@@ -194,10 +194,6 @@
    {
     "name": "ColtonSuperGame",
     "uuid": "50f648e0-d9b8-4fbb-a96e-9f13df0de145"
-   },
-   {
-    "name": "OrcaGamer88",
-    "uuid": "6d5e2e69-3608-47ee-ac44-41a8fff8c3bd"
    }
   ],
   "trusted": [
@@ -209,12 +205,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "OrcaGamer88",
-     "uuid": "6d5e2e69-3608-47ee-ac44-41a8fff8c3bd"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

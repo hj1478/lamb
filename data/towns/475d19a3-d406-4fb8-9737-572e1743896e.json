@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Ostersund",
   "uuid": "475d19a3-d406-4fb8-9737-572e1743896e",
@@ -21,9 +21,9 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5225.754086572292,
+    "x": 5227.32901901119,
     "y": 67.0,
-    "z": -18331.63222727553,
-    "pitch": 18.210014,
-    "yaw": -35.16233
+    "z": -18329.179966646687,
+    "pitch": 67.87721,
+    "yaw": 68.34623
    },
    "homeBlock": [
     326,
@@ -93,7 +93,31 @@
    "townBlocks": [
     [
      326,
+     -1147
+    ],
+    [
+     324,
+     -1148
+    ],
+    [
+     325,
      -1146
+    ],
+    [
+     325,
+     -1147
+    ],
+    [
+     325,
+     -1148
+    ],
+    [
+     326,
+     -1146
+    ],
+    [
+     324,
+     -1147
     ]
    ],
    "worlds": {}
@@ -102,13 +126,22 @@
    {
     "name": "P3np10",
     "uuid": "b1b1baae-245b-49c1-83a9-2faebabc7234"
+   },
+   {
+    "name": "Kymaxx",
+    "uuid": "07fee42d-2d60-4e1c-b436-708a9916716e"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Kymaxx",
+     "uuid": "07fee42d-2d60-4e1c-b436-708a9916716e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

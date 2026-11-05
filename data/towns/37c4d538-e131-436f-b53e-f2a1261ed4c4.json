@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Chillville",
   "uuid": "37c4d538-e131-436f-b53e-f2a1261ed4c4",
-  "board": "/town set board [msg]",
+  "board": "Hello",
   "founder": "BaggiestCoast36",
   "wiki": null,
   "discord": null,
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 0.0,
@@ -47,28 +47,28 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
     "pvp": false,
@@ -92,44 +92,72 @@
    ],
    "townBlocks": [
     [
-     -2207,
-     -720
-    ],
-    [
-     -2207,
+     -2208,
      -719
     ],
     [
-     -2207,
-     -718
-    ],
-    [
-     -2209,
-     -720
-    ],
-    [
-     -2209,
-     -719
-    ],
-    [
-     -2209,
+     -2208,
      -718
     ],
     [
      -2208,
-     -720
+     -717
     ],
     [
      -2208,
-     -719
+     -716
     ],
     [
-     -2208,
+     -2210,
      -718
     ],
     [
      -2210,
+     -720
+    ],
+    [
+     -2210,
      -719
+    ],
+    [
+     -2207,
+     -720
+    ],
+    [
+     -2207,
+     -719
+    ],
+    [
+     -2207,
+     -718
+    ],
+    [
+     -2209,
+     -720
+    ],
+    [
+     -2207,
+     -717
+    ],
+    [
+     -2209,
+     -719
+    ],
+    [
+     -2207,
+     -716
+    ],
+    [
+     -2209,
+     -718
+    ],
+    [
+     -2209,
+     -717
+    ],
+    [
+     -2208,
+     -720
     ]
    ],
    "worlds": {}
@@ -146,6 +174,10 @@
    {
     "name": "TheGoldfarb",
     "uuid": "a9394002-9c0a-4aa1-a71d-3f96bfed65ab"
+   },
+   {
+    "name": "Dombrille",
+    "uuid": "0c457404-f574-4923-a6b4-c51c57256965"
    }
   ],
   "trusted": [],
@@ -179,7 +211,12 @@
     }
    ],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "Dombrille",
+     "uuid": "0c457404-f574-4923-a6b4-c51c57256965"
+    }
+   ],
    "Treasurer": [
     {
      "name": "Eklocks",

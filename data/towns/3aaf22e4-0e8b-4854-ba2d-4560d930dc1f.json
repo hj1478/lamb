@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Bobita",
   "uuid": "3aaf22e4-0e8b-4854-ba2d-4560d930dc1f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "wildminecrafter",
-   "uuid": "3cdf3c6d-fe1a-4eb5-bd74-0221a789694e"
+   "name": "NPC19",
+   "uuid": "068502ab-bbe5-2047-9fed-4798d5cd2637"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1786558523012,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793786400887
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -71,10 +71,10 @@
     true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "wildminecrafter",
-    "uuid": "3cdf3c6d-fe1a-4eb5-bd74-0221a789694e"
+    "name": "NPC19",
+    "uuid": "068502ab-bbe5-2047-9fed-4798d5cd2637"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "New_Foxville",
   "uuid": "3a222eca-2d90-4fb7-b662-638bc35c0727",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 5,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 46.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,29 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41940.00858327979,
+    "x": 41942.24119164191,
     "y": 63.0,
-    "z": 21083.445289205963,
-    "pitch": 31.290754,
-    "yaw": 113.37326
+    "z": 21085.652428227597,
+    "pitch": 11.878619,
+    "yaw": -8.065674
    },
    "homeBlock": [
     2621,
     1317
    ],
    "townBlocks": [
+    [
+     2619,
+     1319
+    ],
+    [
+     2621,
+     1319
+    ],
+    [
+     2620,
+     1319
+    ],
     [
      2621,
      1317

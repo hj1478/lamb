@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Fishland",
   "uuid": "400b1380-755b-45e6-8bda-6ad47286ee97",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -182,22 +182,13 @@
    {
     "name": "Fish985",
     "uuid": "21fd3ee9-eca3-4eda-923c-c65c26f2acf1"
-   },
-   {
-    "name": "Jackson996175",
-    "uuid": "70498227-9180-4b36-94ce-9d57369d6832"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Jackson996175",
-     "uuid": "70498227-9180-4b36-94ce-9d57369d6832"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

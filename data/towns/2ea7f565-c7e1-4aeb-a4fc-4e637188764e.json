@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Velika_Gorica",
   "uuid": "2ea7f565-c7e1-4aeb-a4fc-4e637188764e",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -110,13 +110,27 @@
    {
     "name": "maliautist",
     "uuid": "3ccd49d2-f648-488b-87ff-7663d48105b2"
+   },
+   {
+    "name": "DadoBlitz",
+    "uuid": "d0d03ec0-4ef6-422b-8db2-e1840a2eac0c"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DadoBlitz",
+    "uuid": "d0d03ec0-4ef6-422b-8db2-e1840a2eac0c"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "DadoBlitz",
+     "uuid": "d0d03ec0-4ef6-422b-8db2-e1840a2eac0c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

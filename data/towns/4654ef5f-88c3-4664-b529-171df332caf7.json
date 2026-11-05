@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Johnland",
   "uuid": "4654ef5f-88c3-4664-b529-171df332caf7",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "czechp0ke",
-   "uuid": "d9a276fb-fc8f-4a12-8f45-36b078238295"
+   "name": "NPC63",
+   "uuid": "def84819-2dad-203f-8092-ba352dfecd5c"
   },
   "nation": {
-   "name": "Argentina",
-   "uuid": "a37b3e38-02af-4d98-af67-7f44630d1139"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787954018960,
-   "joinedNationAt": 1787954113994,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793872803036
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "czechp0ke",
-    "uuid": "d9a276fb-fc8f-4a12-8f45-36b078238295"
+    "name": "NPC63",
+    "uuid": "def84819-2dad-203f-8092-ba352dfecd5c"
    }
   ],
   "trusted": [],

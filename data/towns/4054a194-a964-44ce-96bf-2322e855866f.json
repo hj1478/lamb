@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "True_Iceland",
   "uuid": "4054a194-a964-44ce-96bf-2322e855866f",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -12190.78042670942,
-    "y": 74.0,
-    "z": -11942.44567970731,
-    "pitch": 57.149845,
-    "yaw": -151.47412
+    "x": -12182.956548281818,
+    "y": 73.0,
+    "z": -11943.861189730556,
+    "pitch": 36.89964,
+    "yaw": 151.64868
    },
    "homeBlock": [
     -762,
@@ -114,6 +114,14 @@
    {
     "name": "FoxproMinecraft",
     "uuid": "af402b9a-bd27-4b7b-87ad-12aa1e9dd3da"
+   },
+   {
+    "name": "marianbigboos",
+    "uuid": "5b5fd442-4b1c-45af-8983-bff8dba6621b"
+   },
+   {
+    "name": "Asasinu",
+    "uuid": "284afb46-c896-43b5-a63a-c9f30a297312"
    }
   ],
   "trusted": [
@@ -122,8 +130,24 @@
     "uuid": "b0a66c30-de22-40db-8472-75d253758cde"
    },
    {
+    "name": "JLopezZ",
+    "uuid": "4faf4c8b-fd4f-4634-b29b-b5f89d11a9b8"
+   },
+   {
+    "name": "marianbigboos",
+    "uuid": "5b5fd442-4b1c-45af-8983-bff8dba6621b"
+   },
+   {
     "name": "_tuttopassa_",
     "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
+   },
+   {
+    "name": "MikW02",
+    "uuid": "428cf8fd-4fc9-4f70-81af-bbb003d88c12"
+   },
+   {
+    "name": "Asasinu",
+    "uuid": "284afb46-c896-43b5-a63a-c9f30a297312"
    }
   ],
   "outlaws": [],

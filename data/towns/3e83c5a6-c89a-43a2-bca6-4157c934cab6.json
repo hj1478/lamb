@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Ares",
   "uuid": "3e83c5a6-c89a-43a2-bca6-4157c934cab6",
-  "board": "/town set board [msg]",
+  "board": "Join ",
   "founder": "Primefire001",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "RicardoHBS",
-   "uuid": "12955634-91ee-435c-9645-4148992c1ac4"
+   "name": "T_IsBoss",
+   "uuid": "35affcff-c5fb-4ecf-9b55-890417be6a12"
   },
   "nation": {
    "name": "Brazil",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21719.30000001192,
-    "y": 64.0,
-    "z": 15191.48987106329,
-    "pitch": 9.299967,
-    "yaw": 89.9848
+    "x": -21719.570002184017,
+    "y": 67.0,
+    "z": 15192.558100555596,
+    "pitch": 90.0,
+    "yaw": -178.94331
    },
    "homeBlock": [
     -1358,
@@ -100,20 +100,20 @@
   },
   "residents": [
    {
-    "name": "RicardoHBS",
-    "uuid": "12955634-91ee-435c-9645-4148992c1ac4"
+    "name": "T_IsBoss",
+    "uuid": "35affcff-c5fb-4ecf-9b55-890417be6a12"
    }
   ],
-  "trusted": [
-   {
-    "name": "Meshly",
-    "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "T_IsBoss",
+     "uuid": "35affcff-c5fb-4ecf-9b55-890417be6a12"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

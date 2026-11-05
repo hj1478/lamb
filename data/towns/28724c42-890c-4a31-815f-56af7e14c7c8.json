@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Bathrion",
   "uuid": "28724c42-890c-4a31-815f-56af7e14c7c8",
@@ -29,13 +29,13 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 6,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -110,6 +110,10 @@
     [
      831,
      -825
+    ],
+    [
+     831,
+     -824
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Spanish_Fort",
   "uuid": "30c4daa4-6c78-4091-8a55-67a872d502c3",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Pixxel_gg",
+   "name": "Pyxxel_",
    "uuid": "ebb86912-38ad-406d-a7c7-958ec4c2ec8a"
   },
   "nation": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     -1969,
+     -219
+    ],
+    [
      -1968,
      -218
     ],
@@ -146,6 +150,10 @@
     [
      -1970,
      -217
+    ],
+    [
+     -1967,
+     -218
     ],
     [
      -1970,
@@ -162,17 +170,29 @@
     [
      -1970,
      -214
+    ],
+    [
+     -1970,
+     -213
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Pixxel_gg",
+    "name": "Pyxxel_",
     "uuid": "ebb86912-38ad-406d-a7c7-958ec4c2ec8a"
+   },
+   {
+    "name": "michaeleighty8",
+    "uuid": "8dee7907-a1c1-42ea-a69f-316ea1edf6db"
    }
   ],
   "trusted": [
+   {
+    "name": "Gatorchomp_8",
+    "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
+   },
    {
     "name": "Hoffywin9999",
     "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
@@ -181,14 +201,29 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "michaeleighty8",
+     "uuid": "8dee7907-a1c1-42ea-a69f-316ea1edf6db"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "michaeleighty8",
+     "uuid": "8dee7907-a1c1-42ea-a69f-316ea1edf6db"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "michaeleighty8",
+     "uuid": "8dee7907-a1c1-42ea-a69f-316ea1edf6db"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

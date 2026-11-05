@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Space-Center",
   "uuid": "4131f05c-743a-4d76-b296-9a3fd6726e8f",
@@ -29,13 +29,13 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 15,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
@@ -128,8 +128,20 @@
      48
     ],
     [
+     -2024,
+     47
+    ],
+    [
      -2021,
      45
+    ],
+    [
+     -2024,
+     46
+    ],
+    [
+     -2024,
+     48
     ],
     [
      -2023,
@@ -150,7 +162,12 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "2a90437d-0db5-4d45-ad42-bb559bcb88e2"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

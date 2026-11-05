@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Pishpek",
   "uuid": "36ef70d1-f787-4c87-821d-df39db0b4937",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 2530.0,
    "forSalePrice": null
@@ -246,21 +246,9 @@
    {
     "name": "coisfuraingaming",
     "uuid": "9d1c321e-ba42-4295-b952-2982f6655ce3"
-   },
-   {
-    "name": "ollie4390",
-    "uuid": "0f01e55e-65a7-42a9-abcd-f4b67f4e16e5"
-   },
-   {
-    "name": "Swightness",
-    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
    }
   ],
   "trusted": [
-   {
-    "name": "ollie4390",
-    "uuid": "0f01e55e-65a7-42a9-abcd-f4b67f4e16e5"
-   },
    {
     "name": "coisfuraingaming",
     "uuid": "9d1c321e-ba42-4295-b952-2982f6655ce3"
@@ -273,10 +261,6 @@
     {
      "name": "coisfuraingaming",
      "uuid": "9d1c321e-ba42-4295-b952-2982f6655ce3"
-    },
-    {
-     "name": "ollie4390",
-     "uuid": "0f01e55e-65a7-42a9-abcd-f4b67f4e16e5"
     }
    ],
    "Builder": [],

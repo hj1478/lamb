@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Asakusa",
   "uuid": "30daad59-b29a-4328-9928-d686fa5f030e",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "tamake512",
-   "uuid": "9ef60e42-bb10-4812-bd1f-a33110557763"
+   "name": "Matchayan",
+   "uuid": "e832b88b-426f-4723-b2fc-f183f71d59ea"
   },
   "nation": {
    "name": "Japan",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 477,
-   "maxTownBlocks": 268,
+   "maxTownBlocks": 244,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 12,
    "numTrusted": 11,
    "numOutlaws": 13,
-   "balance": 62.0,
+   "balance": 263.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2013,56 +2013,48 @@
     "uuid": "f2ec7e7e-6349-4d77-800e-d5dc58024c35"
    },
    {
-    "name": "PB_Gelo",
-    "uuid": "cf64932f-0bcf-4a53-b9e4-d7e7bd97c484"
-   },
-   {
-    "name": "Kenjiru720",
-    "uuid": "40417be0-e542-4124-b0ec-1439c2553000"
-   },
-   {
     "name": "xMystl",
     "uuid": "6d6c7786-0b93-441b-a28f-acd9dd7e6d48"
-   },
-   {
-    "name": "Aiden0228Lee",
-    "uuid": "6fd206c1-c423-4b53-b75a-84d199841b28"
    },
    {
     "name": "Kid110Haru",
     "uuid": "8755aa0e-f250-46c7-93ee-c50221775a00"
    },
    {
-    "name": "kisyuhazuki",
-    "uuid": "fcc96144-956c-4b37-b13a-4b6d85a0d5c4"
-   },
-   {
-    "name": "Jikogisei",
-    "uuid": "b42ea900-e5ad-4aed-baae-754cc255c3d2"
-   },
-   {
-    "name": "rinkachama777",
-    "uuid": "aab35517-64cd-4f84-8381-61152dfcc294"
-   },
-   {
     "name": "T202312",
     "uuid": "de8e668b-24db-473f-a951-ccce2d22fee2"
-   },
-   {
-    "name": "Hankey99",
-    "uuid": "0e5619d5-63bd-4f00-942c-1ab0df2df1d6"
    },
    {
     "name": "Matchayan",
     "uuid": "e832b88b-426f-4723-b2fc-f183f71d59ea"
    },
    {
-    "name": "tamake512",
-    "uuid": "9ef60e42-bb10-4812-bd1f-a33110557763"
-   },
-   {
     "name": "Mewbel_",
     "uuid": "f9925ac7-8469-45f5-b70e-f70f35d69d33"
+   },
+   {
+    "name": "Itz_Shx1k",
+    "uuid": "057e92ac-5fc2-49a3-9677-1eb8fcc5d534"
+   },
+   {
+    "name": "DragonDaigo2014",
+    "uuid": "d73af32f-f199-4874-b931-6fdb92095feb"
+   },
+   {
+    "name": "StoneSun242933",
+    "uuid": "80302888-32da-4a8a-bd1e-ba260017515b"
+   },
+   {
+    "name": "sheayu",
+    "uuid": "575d6cea-80ae-4aeb-868e-ddc8e0aa968b"
+   },
+   {
+    "name": "OneMuffin447811",
+    "uuid": "420698b3-b42a-4784-bb41-d88eb6674815"
+   },
+   {
+    "name": "tzi_XFfXw_01_16",
+    "uuid": "1ababeb5-700b-41b9-845a-4571997e3961"
    }
   ],
   "trusted": [
@@ -2175,14 +2167,15 @@
     {
      "name": "Matchayan",
      "uuid": "e832b88b-426f-4723-b2fc-f183f71d59ea"
-    },
-    {
-     "name": "tamake512",
-     "uuid": "9ef60e42-bb10-4812-bd1f-a33110557763"
     }
    ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "DragonDaigo2014",
+     "uuid": "d73af32f-f199-4874-b931-6fdb92095feb"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

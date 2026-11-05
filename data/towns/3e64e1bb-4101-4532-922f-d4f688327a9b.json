@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Arusha",
   "uuid": "3e64e1bb-4101-4532-922f-d4f688327a9b",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
-   "numTrusted": 4,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -59,13 +59,13 @@
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -772,40 +772,23 @@
   },
   "residents": [
    {
-    "name": "Isasasiso",
-    "uuid": "2bac8c54-0109-46c9-accf-56e5de13258f"
-   },
-   {
-    "name": "The_Prophet31",
-    "uuid": "8b0212fa-c7eb-4fd9-92d2-12be1efdda9b"
-   },
-   {
     "name": "FizFry",
     "uuid": "62d85257-8428-42c8-8c6e-80094da2a471"
    },
    {
     "name": "SeptemberBunny",
     "uuid": "b9d2842c-112c-4363-86aa-aa7c2ec0d3e6"
+   },
+   {
+    "name": "HyPerGMz",
+    "uuid": "e5d7cdbc-4b5b-4a06-aef1-2ab5e8858300"
+   },
+   {
+    "name": "PizzaGoblin123",
+    "uuid": "4cfe6b9a-a043-4a61-8adf-edcbeef52dcb"
    }
   ],
-  "trusted": [
-   {
-    "name": "Kapusta_21",
-    "uuid": "b10a48e6-d62d-4b8d-b41f-62d35bbc409b"
-   },
-   {
-    "name": "mr_nuggem_",
-    "uuid": "84aaf560-6843-4cb5-b852-2923334d8faa"
-   },
-   {
-    "name": "king_of_portugal",
-    "uuid": "0a8333e9-0d91-432f-a8d6-bbd831b2ee53"
-   },
-   {
-    "name": "sobrem4res",
-    "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

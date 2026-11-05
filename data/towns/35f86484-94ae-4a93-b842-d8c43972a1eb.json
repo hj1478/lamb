@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Imperia",
   "uuid": "35f86484-94ae-4a93-b842-d8c43972a1eb",
@@ -12,17 +12,17 @@
    "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
   },
   "nation": {
-   "name": "Switzerland",
-   "uuid": "fe3aa6fe-12b4-4a8c-98fb-30efc7e4342f"
+   "name": "Genoa",
+   "uuid": "afa716a4-e6e1-4d7f-b16f-7e30ae1a7046"
   },
   "timestamps": {
    "registered": 1793444819472,
-   "joinedNationAt": 1793444884992,
+   "joinedNationAt": 1793548339632,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 73,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 114,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "nationBonus": 30,
+   "numResidents": 7,
+   "numTrusted": 4,
+   "numOutlaws": 1,
    "balance": 98.0,
    "forSalePrice": null
   },
@@ -140,20 +140,20 @@
      -571
     ],
     [
-     217,
-     -574
-    ],
-    [
      213,
      -575
     ],
     [
      217,
-     -573
+     -574
     ],
     [
      213,
      -576
+    ],
+    [
+     217,
+     -573
     ],
     [
      217,
@@ -390,10 +390,56 @@
    {
     "name": "aegea__",
     "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
+   },
+   {
+    "name": "Diva250",
+    "uuid": "54ead2b5-ef63-4831-abbe-623695efa291"
+   },
+   {
+    "name": "unclefrank123456",
+    "uuid": "278e4cd7-ad70-4a1d-bebb-4c738058c8c8"
+   },
+   {
+    "name": "Jiswby",
+    "uuid": "9c10ac19-cce6-4d47-a812-161458875aa1"
+   },
+   {
+    "name": "zKebabz",
+    "uuid": "527f7471-818b-4457-81ef-85da95d3fce1"
+   },
+   {
+    "name": "zimawtf",
+    "uuid": "5b0c7bdc-d178-470d-b8cb-d476fb89ae32"
+   },
+   {
+    "name": "DaliaRockk",
+    "uuid": "3a329a8b-fbb9-4807-85d3-f9fa2dd5b7dd"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "CaptainRyna",
+    "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+   },
+   {
+    "name": "4daniel",
+    "uuid": "5078196f-ad1d-4d95-b536-8935d139eb40"
+   },
+   {
+    "name": "DaliaRockk",
+    "uuid": "3a329a8b-fbb9-4807-85d3-f9fa2dd5b7dd"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

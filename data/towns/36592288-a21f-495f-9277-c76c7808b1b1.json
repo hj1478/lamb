@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
   "name": "Flinders_Island",
   "uuid": "36592288-a21f-495f-9277-c76c7808b1b1",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 127,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 378.0,
@@ -610,6 +610,10 @@
    {
     "name": "Ally46",
     "uuid": "36aaad93-8e3c-49d6-a3b2-04dc7d7aaadf"
+   },
+   {
+    "name": "Bill_Chipher",
+    "uuid": "7f17312f-a6d3-4259-bb45-3ab7452b9554"
    }
   ],
   "trusted": [

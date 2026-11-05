@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-29T13:15:16Z",
+ "fetched_at": "2026-11-05T14:45:38Z",
  "data": {
-  "name": "Wash_Bay_Swamp",
+  "name": "Wisbech",
   "uuid": "2a014527-f760-4264-980e-79fc13b950a5",
-  "board": "Tall, Handsome, Inteligentleman",
+  "board": "UK FOREVER",
   "founder": "muddy_blobfish",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Robin832",
-   "uuid": "ca80f5ca-8db0-4869-bbd3-e6e4734bfdef"
+   "name": "sminkins",
+   "uuid": "8391474f-4b57-412a-a835-96bd2c253219"
   },
   "nation": {
-   "name": "Scotland",
-   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
+   "name": "United_Kingdom",
+   "uuid": "df91cddc-2d99-4a88-ab98-e44e490a21f3"
   },
   "timestamps": {
    "registered": 1786664489735,
-   "joinedNationAt": 1787361232879,
+   "joinedNationAt": 1793559063271,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 105,
-   "maxTownBlocks": 100,
+   "numTownBlocks": 104,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 13,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 0.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 85.48774765253467,
+    "x": 104.4883609047156,
     "y": 63.0,
-    "z": -12887.628074006201,
-    "pitch": 62.917377,
-    "yaw": 2.4260254
+    "z": -12757.756887437205,
+    "pitch": -1.2240875,
+    "yaw": 179.87378
    },
    "homeBlock": [
-    5,
-    -806
+    6,
+    -798
    ],
    "townBlocks": [
     [
@@ -218,10 +218,6 @@
     [
      9,
      -803
-    ],
-    [
-     9,
-     -800
     ],
     [
      9,
@@ -516,71 +512,22 @@
   },
   "residents": [
    {
+    "name": "sminkins",
+    "uuid": "8391474f-4b57-412a-a835-96bd2c253219"
+   },
+   {
     "name": "Robin832",
     "uuid": "ca80f5ca-8db0-4869-bbd3-e6e4734bfdef"
    }
   ],
-  "trusted": [
-   {
-    "name": "WSZN",
-    "uuid": "3d247407-a6da-4bba-a2f6-a2369aacbc0d"
-   },
-   {
-    "name": "Rtyr",
-    "uuid": "3f8a118f-5dac-4db4-ae93-79166d8a0737"
-   },
-   {
-    "name": "ysba",
-    "uuid": "ac23ee73-7d3a-4970-9634-81dbfe7acca7"
-   },
-   {
-    "name": "YellowBee815527",
-    "uuid": "332ab868-86db-4014-b0fb-5727da133089"
-   },
-   {
-    "name": "Cescobb",
-    "uuid": "19424c8a-9cc2-45e0-b817-9b6d43b4996f"
-   },
-   {
-    "name": "Maforia",
-    "uuid": "2b814fd4-41ff-409b-b638-17142fa6d14f"
-   },
-   {
-    "name": "SirReincarnated",
-    "uuid": "7a868056-54be-40c0-8837-e845f3bc3df7"
-   },
-   {
-    "name": "tHEcanadian_",
-    "uuid": "207d879c-5219-43e1-acc7-9e051c9da4dc"
-   },
-   {
-    "name": "HamHamHam_",
-    "uuid": "14f1852d-3435-4ee9-b930-ba9737ea46d1"
-   },
-   {
-    "name": "Jaroslave",
-    "uuid": "91b065f3-f380-4fa0-bec5-908b8307b0d6"
-   },
-   {
-    "name": "DonutSlayer49",
-    "uuid": "ad05d735-406e-484d-95ea-bfb0282f2358"
-   },
-   {
-    "name": "GoodGuyEclipse",
-    "uuid": "d4a49ecf-0d2c-4b78-be7c-ed7a723a029d"
-   },
-   {
-    "name": "Sun23t_",
-    "uuid": "09cd86b6-0bb0-4b2f-8b97-70935d71e7ce"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
-    "name": "poszan",
+    "name": "01kd",
     "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
    }
   ],
