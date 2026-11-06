@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Akash",
   "uuid": "55ba6f5c-339b-4f2a-b6e0-051be8f129b4",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MineAry2026",
-   "uuid": "0df4a099-49b7-49a7-9058-bc64c27e3bbb"
+   "name": "NPC13",
+   "uuid": "483746c6-fbc3-2068-af28-b4367954b74f"
   },
   "nation": {
-   "name": "India",
-   "uuid": "f5fdf99c-751b-4f57-a791-adadd1609eff"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789765797643,
-   "joinedNationAt": 1789765947147,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793959200897
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "MineAry2026",
-    "uuid": "0df4a099-49b7-49a7-9058-bc64c27e3bbb"
+    "name": "NPC13",
+    "uuid": "483746c6-fbc3-2068-af28-b4367954b74f"
    }
   ],
   "trusted": [],

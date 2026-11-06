@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "SiloOne",
-  "uuid": "f74191d4-3feb-4b9e-92fa-548c56baa4d0",
-  "board": "/town set board [msg]",
-  "founder": "MayFromPokemon",
+  "name": "Claim_Suspension",
+  "uuid": "b83a2941-6dc6-4e95-b5ea-86b24111b09c",
+  "board": "I Love This Bountiful Land, And Wish To Build A Great Town Here",
+  "founder": "Andre1098",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC41",
-   "uuid": "e7469fbb-aff2-2031-9583-01880623adab"
+   "name": "NPC65",
+   "uuid": "d6bb493f-f8fa-20a4-8129-79361f6d9b28"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789646391359,
+   "registered": 1793897339476,
    "joinedNationAt": null,
-   "ruinedAt": 1793700004536
+   "ruinedAt": 1793900976763
   },
   "status": {
    "isPublic": false,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,31 +80,36 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23622.969848034027,
-    "y": 66.0,
-    "z": 22579.480141274063,
-    "pitch": 35.550034,
-    "yaw": 47.092773
+    "x": 2712.853131326997,
+    "y": 77.0,
+    "z": -10404.020801713928,
+    "pitch": 17.466305,
+    "yaw": -0.040124446
    },
    "homeBlock": [
-    -1477,
-    1411
+    169,
+    -651
    ],
    "townBlocks": [
     [
-     -1477,
-     1411
+     169,
+     -651
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC41",
-    "uuid": "e7469fbb-aff2-2031-9583-01880623adab"
+    "name": "NPC65",
+    "uuid": "d6bb493f-f8fa-20a4-8129-79361f6d9b28"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "memexcx",
+    "uuid": "6388c81e-b68c-4ebe-84a1-603a3b280ee8"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

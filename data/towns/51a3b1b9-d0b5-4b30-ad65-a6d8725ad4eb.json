@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Fort_Hamilton",
   "uuid": "51a3b1b9-d0b5-4b30-ad65-a6d8725ad4eb",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,39 +92,51 @@
    ],
    "townBlocks": [
     [
+     -1788,
+     -536
+    ],
+    [
+     -1788,
+     -535
+    ],
+    [
+     -1788,
+     -538
+    ],
+    [
+     -1787,
+     -535
+    ],
+    [
+     -1788,
+     -537
+    ],
+    [
+     -1787,
+     -536
+    ],
+    [
+     -1790,
+     -535
+    ],
+    [
+     -1790,
+     -536
+    ],
+    [
+     -1790,
+     -537
+    ],
+    [
+     -1790,
+     -538
+    ],
+    [
      -1789,
-     -537
+     -538
     ],
     [
-     -1788,
-     -536
-    ],
-    [
-     -1788,
-     -535
-    ],
-    [
-     -1787,
-     -535
-    ],
-    [
-     -1788,
-     -537
-    ],
-    [
-     -1787,
-     -536
-    ],
-    [
-     -1790,
-     -535
-    ],
-    [
-     -1790,
-     -536
-    ],
-    [
-     -1790,
+     -1789,
      -537
     ],
     [
@@ -142,6 +154,10 @@
    {
     "name": "FrontlineMan1",
     "uuid": "f10f1f0b-2c38-40f5-b009-cd116f4e4a27"
+   },
+   {
+    "name": "Malscythe",
+    "uuid": "477808eb-0a88-45d2-9b8a-b37b6d83d1aa"
    }
   ],
   "trusted": [],
@@ -164,12 +180,12 @@
     "uuid": "a3c5fadc-486d-4414-8201-0af3ba39199b"
    },
    {
-    "name": "Dingy Residence",
-    "uuid": "b88bd6ce-7d9e-4c72-af09-2211e97d26cb"
-   },
-   {
     "name": "Elegant Dwelling",
     "uuid": "9b7d3477-c3fe-4734-b3ce-213002ab3d7f"
+   },
+   {
+    "name": "Inviting Apartment",
+    "uuid": "65f88372-d217-4943-b4f5-a12323d0ae7f"
    }
   ],
   "ranks": {

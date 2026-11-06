@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Kivotos",
   "uuid": "5acb6b25-eeef-4000-ab95-d14b403a7235",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
+   "numTownBlocks": 37,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 12.0,
+   "numTrusted": 2,
+   "numOutlaws": 2,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,6 +132,18 @@
      -693
     ],
     [
+     3196,
+     -688
+    ],
+    [
+     3196,
+     -687
+    ],
+    [
+     3196,
+     -686
+    ],
+    [
      3199,
      -693
     ],
@@ -157,7 +169,23 @@
     ],
     [
      3198,
+     -687
+    ],
+    [
+     3199,
+     -687
+    ],
+    [
+     3198,
+     -686
+    ],
+    [
+     3198,
      -689
+    ],
+    [
+     3198,
+     -688
     ],
     [
      3200,
@@ -168,12 +196,24 @@
      -692
     ],
     [
+     3197,
+     -687
+    ],
+    [
      3200,
      -691
     ],
     [
+     3197,
+     -686
+    ],
+    [
      3200,
      -690
+    ],
+    [
+     3197,
+     -685
     ],
     [
      3200,
@@ -190,6 +230,10 @@
     [
      3197,
      -689
+    ],
+    [
+     3197,
+     -688
     ],
     [
      3197,
@@ -204,8 +248,26 @@
     "uuid": "8f1e426a-6bce-40ef-9783-913377d8def9"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "kartir_",
+    "uuid": "8f1e426a-6bce-40ef-9783-913377d8def9"
+   },
+   {
+    "name": "f1oR4s",
+    "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "173BIGMAC",
+    "uuid": "dd7f1960-4404-4c70-8dcd-f380cdf423e5"
+   },
+   {
+    "name": "Fenriru1936",
+    "uuid": "48bbb2fb-4489-43b9-9d1c-4cea1eaabde1"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

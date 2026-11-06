@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Minas_Gerais",
   "uuid": "4edb280a-20d1-4d32-a307-a6c5037e2930",
@@ -12,37 +12,37 @@
    "uuid": "a0aa1203-d4b1-4eb5-ba1b-509bb78d8277"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1793465429284,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793628342460,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,22 @@
    "townBlocks": [
     [
      -980,
+     887
+    ],
+    [
+     -980,
+     886
+    ],
+    [
+     -979,
+     887
+    ],
+    [
+     -978,
+     886
+    ],
+    [
+     -979,
      886
     ]
    ],

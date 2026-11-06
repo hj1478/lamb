@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Neon_City",
   "uuid": "5c95315e-db7f-4f2f-b20a-c67ffc33bb4f",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "KAMUROZAN1234",
-   "uuid": "f80d2cfc-2e33-413d-a11c-b60d0db00c93"
+   "name": "NPC31",
+   "uuid": "ad2c909d-7ca2-2055-9951-5c75cae1dfdc"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787755053801,
-   "joinedNationAt": 1787755286606,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793959202331
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,8 +128,8 @@
   },
   "residents": [
    {
-    "name": "KAMUROZAN1234",
-    "uuid": "f80d2cfc-2e33-413d-a11c-b60d0db00c93"
+    "name": "NPC31",
+    "uuid": "ad2c909d-7ca2-2055-9951-5c75cae1dfdc"
    }
   ],
   "trusted": [],

@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Quito",
-  "uuid": "b429c360-d3dd-490b-b75c-7c79b607dc54",
+  "name": "Morgan_City",
+  "uuid": "73df10a7-58df-4d72-a4ac-4040ab557eae",
   "board": "/town set board [msg]",
-  "founder": "felixfan342",
+  "founder": "Th3Inzane0neV2",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "felixfan342",
-   "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+   "name": "Th3Inzane0neV2",
+   "uuid": "ca34936f-d89e-449a-b5fb-c535eebf2645"
   },
   "nation": {
-   "name": "Peru",
-   "uuid": "f0ee6f67-447c-46d3-93f0-ce53b46bbf48"
+   "name": "Gulf_Union",
+   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
-   "registered": 1792438620512,
-   "joinedNationAt": 1793197815425,
+   "registered": 1793928995139,
+   "joinedNationAt": 1793929116289,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 5,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,70 +80,46 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29123.624945786516,
-    "y": 63.0,
-    "z": 9599.942273571865,
-    "pitch": 29.54997,
-    "yaw": -55.291992
+    "x": -33103.55206760664,
+    "y": 65.875,
+    "z": -2914.264498986658,
+    "pitch": 26.849712,
+    "yaw": 0.3519287
    },
    "homeBlock": [
-    -1821,
-    599
+    -2069,
+    -183
    ],
    "townBlocks": [
     [
-     -1820,
-     598
+     -2069,
+     -184
     ],
     [
-     -1820,
-     599
+     -2069,
+     -183
     ],
     [
-     -1820,
-     600
-    ],
-    [
-     -1821,
-     598
-    ],
-    [
-     -1821,
-     599
-    ],
-    [
-     -1821,
-     600
+     -2070,
+     -183
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "felixfan342",
-    "uuid": "dd505458-f591-44b3-821f-73ec0cb7df3f"
+    "name": "Th3Inzane0neV2",
+    "uuid": "ca34936f-d89e-449a-b5fb-c535eebf2645"
+   },
+   {
+    "name": "P0TAT03QU33N",
+    "uuid": "60bd46ed-596f-4eeb-86c3-200cb0d43f98"
    }
   ],
   "trusted": [
    {
-    "name": "DRpellgg",
-    "uuid": "82f67ad7-3f4c-415f-90fb-359a697aa4ec"
-   },
-   {
-    "name": "chkr1212",
-    "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
-   },
-   {
-    "name": "__lazii",
-    "uuid": "409c8522-1e17-4a7f-80e7-afa6d5d89747"
-   },
-   {
-    "name": "ElJefe5775",
-    "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
-   },
-   {
-    "name": "AJORDA",
-    "uuid": "7caebd15-e4f1-4bb4-b81b-100a2fed7369"
+    "name": "P0TAT03QU33N",
+    "uuid": "60bd46ed-596f-4eeb-86c3-200cb0d43f98"
    }
   ],
   "outlaws": [],

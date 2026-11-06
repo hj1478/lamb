@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Zephyros",
   "uuid": "6a149584-c1a8-4932-9bab-ad074ae7f574",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 6,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14263.945734126615,
-    "y": 85.0,
-    "z": 5990.844729343542,
-    "pitch": 42.449802,
-    "yaw": 166.44287
+    "x": 14258.512280378927,
+    "y": 84.0,
+    "z": 5991.527801296738,
+    "pitch": 1.2721494,
+    "yaw": -89.85438
    },
    "homeBlock": [
     891,
@@ -93,7 +93,15 @@
    "townBlocks": [
     [
      890,
+     375
+    ],
+    [
+     890,
      374
+    ],
+    [
+     892,
+     375
     ],
     [
      891,

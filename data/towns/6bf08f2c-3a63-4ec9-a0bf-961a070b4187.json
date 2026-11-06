@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Sokhumi",
   "uuid": "6bf08f2c-3a63-4ec9-a0bf-961a070b4187",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
+   "numTownBlocks": 19,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14637.692330337286,
-    "y": 76.0,
-    "z": -8490.906848357816,
-    "pitch": 34.650066,
-    "yaw": 17.515978
+    "x": 14615.528141485729,
+    "y": 63.0625,
+    "z": -8527.689509093741,
+    "pitch": -0.7887021,
+    "yaw": 0.12011719
    },
    "homeBlock": [
-    914,
-    -531
+    913,
+    -533
    ],
    "townBlocks": [
     [
@@ -100,6 +100,10 @@
      -528
     ],
     [
+     913,
+     -533
+    ],
+    [
      914,
      -532
     ],
@@ -120,8 +124,24 @@
      -528
     ],
     [
+     911,
+     -533
+    ],
+    [
+     914,
+     -528
+    ],
+    [
+     912,
+     -533
+    ],
+    [
      914,
      -529
+    ],
+    [
+     911,
+     -532
     ],
     [
      914,
@@ -138,6 +158,10 @@
     [
      912,
      -529
+    ],
+    [
+     912,
+     -532
     ],
     [
      912,
@@ -162,9 +186,30 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "MitchH_MC",
+    "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Lovely Quarter",
+    "uuid": "5a500169-3c12-46a0-8cc8-ce11beb0e279"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "2d8e9320-99a1-4dee-a27c-fa90a3739957"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "21a8bd6c-7e26-4650-b46f-143246d0336e"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "3d548c02-26ca-4904-bee2-a42a9d573017"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "South_Phoenix",
   "uuid": "684f7c68-3ad2-405d-b33a-120fe29a04c1",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 62,
-   "maxTownBlocks": 210,
+   "numTownBlocks": 69,
+   "maxTownBlocks": 222,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 15,
+   "numResidents": 16,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 46.0,
+   "balance": 49.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     -2500,
+     -266
+    ],
+    [
+     -2500,
+     -267
+    ],
+    [
+     -2500,
+     -268
+    ],
+    [
      -2506,
      -265
     ],
@@ -108,6 +120,10 @@
      -263
     ],
     [
+     -2506,
+     -262
+    ],
+    [
      -2503,
      -268
     ],
@@ -164,7 +180,15 @@
      -269
     ],
     [
+     -2499,
+     -267
+    ],
+    [
      -2505,
+     -268
+    ],
+    [
+     -2499,
      -268
     ],
     [
@@ -338,6 +362,10 @@
     [
      -2507,
      -264
+    ],
+    [
+     -2507,
+     -262
     ]
    ],
    "worlds": {}
@@ -402,6 +430,10 @@
    {
     "name": "Hbeezly",
     "uuid": "0502f55d-df3f-42bc-a471-d1df3f76ff77"
+   },
+   {
+    "name": "Jeebies_69",
+    "uuid": "be4396bd-bf01-4da9-83d3-db8b234541a0"
    }
   ],
   "trusted": [
@@ -451,6 +483,14 @@
    {
     "name": "World Trade Center Complex",
     "uuid": "7d7bc362-c406-4615-818e-8f8572612de2"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "ef0747fd-e99f-4d6b-bd0b-a36602f3c8c1"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "73b74b58-2e09-491e-9ef3-f55003c9e47e"
    }
   ],
   "ranks": {

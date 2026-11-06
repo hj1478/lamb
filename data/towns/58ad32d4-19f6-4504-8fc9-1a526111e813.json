@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "CAMPFINE",
   "uuid": "58ad32d4-19f6-4504-8fc9-1a526111e813",
@@ -35,38 +35,38 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
+   "numTownBlocks": 33,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 858.0,
+   "balance": 1118.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
     false,
-    true,
+    false,
     false,
     false
    ],
    "destroy": [
     false,
-    true,
+    false,
     false,
     false
    ],
    "switch": [
     false,
-    true,
+    false,
     false,
     false
    ],
    "itemUse": [
     false,
-    true,
+    false,
     false,
     false
    ],
@@ -91,6 +91,10 @@
     -1179
    ],
    "townBlocks": [
+    [
+     2125,
+     -1185
+    ],
     [
      2125,
      -1184
@@ -174,6 +178,10 @@
     [
      2123,
      -1182
+    ],
+    [
+     2126,
+     -1185
     ],
     [
      2123,
@@ -241,10 +249,6 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Stylish Apartment",
-    "uuid": "765ba767-984e-453a-b01d-d2e90db1d99a"
-   },
-   {
     "name": "Upbeat Quarter",
     "uuid": "4acdf5db-1693-4d8a-8b4b-57d519d11154"
    },
@@ -271,6 +275,14 @@
    {
     "name": "Welcoming Apartment",
     "uuid": "dbedfa3b-3550-44fa-98e3-4ae775ad131e"
+   },
+   {
+    "name": "Welcoming Apartment",
+    "uuid": "3b7c721a-634e-4be6-ab64-cbb1be3433b1"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "d42212eb-5730-446c-9d78-dbbb0657b40b"
    }
   ],
   "ranks": {

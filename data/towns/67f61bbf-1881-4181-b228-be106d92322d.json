@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "RA-FA-GA",
   "uuid": "67f61bbf-1881-4181-b228-be106d92322d",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ivanymiguel",
-   "uuid": "db4050dd-a4d7-44f3-ba40-a0cf7c7d5327"
+   "name": "NPC68",
+   "uuid": "b624ab26-fbb8-20bb-a969-0d6ddc66c6ba"
   },
   "nation": {
-   "name": "Persia",
-   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787323713815,
-   "joinedNationAt": 1788260212374,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793927614675
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
-   "canOutsidersSpawn": false,
+   "hasNation": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 81,
-   "maxTownBlocks": 74,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 2,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -424,20 +424,11 @@
     "uuid": "ba64c773-18bd-482e-a02d-3b753f07ecdb"
    },
    {
-    "name": "ivanymiguel",
-    "uuid": "db4050dd-a4d7-44f3-ba40-a0cf7c7d5327"
+    "name": "NPC68",
+    "uuid": "b624ab26-fbb8-20bb-a969-0d6ddc66c6ba"
    }
   ],
-  "trusted": [
-   {
-    "name": "AlxXteRt",
-    "uuid": "ba64c773-18bd-482e-a02d-3b753f07ecdb"
-   },
-   {
-    "name": "ivanymiguel",
-    "uuid": "db4050dd-a4d7-44f3-ba40-a0cf7c7d5327"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

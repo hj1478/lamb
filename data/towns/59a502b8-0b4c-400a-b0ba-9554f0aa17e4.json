@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Otago",
   "uuid": "59a502b8-0b4c-400a-b0ba-9554f0aa17e4",
-  "board": "/town set board [msg]",
+  "board": "long live Otago",
   "founder": "dvdscreensaver",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 10,
    "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 4,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      3770,
+     1596
+    ],
+    [
+     3771,
+     1597
+    ],
+    [
+     3770,
      1598
     ],
     [
@@ -114,6 +122,10 @@
     [
      3768,
      1597
+    ],
+    [
+     3768,
+     1596
     ],
     [
      3769,
@@ -140,7 +152,12 @@
     "uuid": "73091a73-c259-4f82-b4f6-c86dd0a557de"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Tungsten184",
+    "uuid": "e924ae3c-f144-4ded-bf71-b23e5f31ac9f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

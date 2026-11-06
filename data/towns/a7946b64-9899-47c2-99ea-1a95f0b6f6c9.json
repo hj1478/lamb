@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Gotham",
-  "uuid": "ef8c24e9-7977-4ff8-8ec2-1ad2edbc07f3",
+  "name": "PR_Of_Frogs",
+  "uuid": "a7946b64-9899-47c2-99ea-1a95f0b6f6c9",
   "board": "/town set board [msg]",
-  "founder": "dwarvenking1",
+  "founder": "DkieSirSteve",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC135",
-   "uuid": "14b8e617-8acf-20a6-b0e3-47f721993633"
+   "name": "DkieSirSteve",
+   "uuid": "c51a1437-7315-4638-a8e5-5a118c0c945e"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793578135006,
+   "registered": 1793965998891,
    "joinedNationAt": null,
-   "ruinedAt": 1793666286221
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,79 +36,88 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31346.400187660693,
-    "y": 65.0,
-    "z": -3272.084090968142,
-    "pitch": 19.799574,
-    "yaw": 90.884155
+    "x": 44292.22306302037,
+    "y": 67.0,
+    "z": 19720.563143744657,
+    "pitch": 22.799925,
+    "yaw": -179.729
    },
    "homeBlock": [
-    -1960,
-    -205
+    2768,
+    1232
    ],
    "townBlocks": [
     [
-     -1960,
-     -205
+     2768,
+     1232
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC135",
-    "uuid": "14b8e617-8acf-20a6-b0e3-47f721993633"
+    "name": "DkieSirSteve",
+    "uuid": "c51a1437-7315-4638-a8e5-5a118c0c945e"
+   },
+   {
+    "name": "codekittyalex",
+    "uuid": "b7e12841-0bde-4586-aa81-56edad0d917e"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "codekittyalex",
+     "uuid": "b7e12841-0bde-4586-aa81-56edad0d917e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

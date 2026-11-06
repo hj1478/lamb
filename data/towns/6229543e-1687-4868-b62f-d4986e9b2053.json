@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Rosa",
   "uuid": "6229543e-1687-4868-b62f-d4986e9b2053",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Deflects",
-   "uuid": "da756925-413f-4954-9063-9e19d1be9017"
+   "name": "Thecaspergod",
+   "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Uruguay",
+   "uuid": "b75404f8-0698-4865-b2c8-b687af410a65"
   },
   "timestamps": {
    "registered": 1780007260121,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793695083010,
    "ruinedAt": null
   },
   "status": {
@@ -27,8 +27,8 @@
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
-   "hasNation": false,
+   "isForSale": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 224,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "nationBonus": 60,
+   "numResidents": 6,
+   "numTrusted": 2,
+   "numOutlaws": 5,
    "balance": 0.0,
-   "forSalePrice": 2000.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23696.579179607383,
+    "x": -23695.507452748094,
     "y": 64.0,
-    "z": 26568.74558788408,
-    "pitch": -1.8011147,
-    "yaw": -5.5663147
+    "z": 26569.519204902153,
+    "pitch": 17.248886,
+    "yaw": -0.3163063
    },
    "homeBlock": [
-    -1482,
+    -1481,
     1660
    ],
    "townBlocks": [
@@ -1000,120 +1000,92 @@
     "uuid": "c13372d6-c396-4c71-8079-ff6f86c7ec90"
    },
    {
-    "name": "Deflects",
-    "uuid": "da756925-413f-4954-9063-9e19d1be9017"
+    "name": "Thecaspergod",
+    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
    },
    {
-    "name": "justromann",
-    "uuid": "984c300d-ed52-4b60-a040-bdce6a2062ef"
+    "name": "An_Animelover",
+    "uuid": "222cdb33-33bd-4c12-a985-27c95365a861"
+   },
+   {
+    "name": "surferkid2022",
+    "uuid": "b2312b9c-0233-4998-939a-eb574510ef2c"
+   },
+   {
+    "name": "pug76506",
+    "uuid": "28eaeaa7-1a5f-4a16-9387-dffa55f3b1fc"
    }
   ],
   "trusted": [
    {
-    "name": "Vellange",
-    "uuid": "c258e7fb-a1ce-4808-9db2-be38159b82b3"
+    "name": "lehose_",
+    "uuid": "0f81ba58-e6b8-4d9c-a54c-1d6471a1efc4"
+   },
+   {
+    "name": "An_Animelover",
+    "uuid": "222cdb33-33bd-4c12-a985-27c95365a861"
    }
   ],
-  "outlaws": [],
-  "quarters": [
+  "outlaws": [
    {
-    "name": "Dingy Property",
-    "uuid": "d01d5aec-a44b-4ac9-b04b-66bfbee8ce9c"
+    "name": "Lochy_Sprite",
+    "uuid": "6ce40896-55dd-4462-a5c8-35ab74d7df82"
    },
+   {
+    "name": "_Manly196898_",
+    "uuid": "f582a52f-226a-454d-b364-b438339904db"
+   },
+   {
+    "name": "Vasek_20161",
+    "uuid": "d80db04d-f95d-417d-b192-9599715d1e6f"
+   },
+   {
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   }
+  ],
+  "quarters": [
    {
     "name": "Bland Property",
     "uuid": "81dfdc54-42bc-45ed-a05c-cda6d684d5d1"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "92ee49d3-baf2-44f2-b148-4cd8bc95b252"
-   },
-   {
-    "name": "Enraging Tenement",
-    "uuid": "705abf8d-1237-44dd-b914-48cbea98470b"
-   },
-   {
-    "name": "Luxurious Property",
-    "uuid": "78c80212-b98c-48bc-8c6f-0691e27e36ba"
-   },
-   {
-    "name": "Dingy Property",
-    "uuid": "c2687cd2-3f4a-403d-b541-b14a2fc3ba69"
-   },
-   {
-    "name": "Lovely Quarter",
-    "uuid": "5b9f4a6b-4d1d-428d-8668-15f480ff1b32"
    },
    {
     "name": "Welcoming Dwelling",
     "uuid": "e159e74f-a507-4ed8-a88a-be23b51f0fc5"
    },
    {
-    "name": "Annoying Dwelling",
-    "uuid": "2479b63c-5a5e-47cc-bf43-32ce0cb7f000"
-   },
-   {
-    "name": "Luxurious Property",
-    "uuid": "4114f95e-c0f6-45ec-9f7a-47477f725e02"
-   },
-   {
-    "name": "Gloomy Suite",
-    "uuid": "bd70be1e-619f-4d4d-8257-ddefd4b545fd"
-   },
-   {
-    "name": "Inconvenient Tenement",
-    "uuid": "fe48c0fa-f972-4eb9-8a91-b2b1220eb951"
-   },
-   {
-    "name": "Bland Property",
-    "uuid": "a67e4d2a-7636-4d19-a0cd-ae303b8054a3"
-   },
-   {
-    "name": "Cheerful Tenement",
-    "uuid": "063ad775-1d06-4185-896a-b00548ac6ee5"
-   },
-   {
-    "name": "Antlex Shop",
-    "uuid": "797b57cf-d576-439d-9c80-8f905dd59b11"
-   },
-   {
-    "name": "Dull Residence",
-    "uuid": "4a49e877-5ff4-4c28-af7d-ac00cbf9f976"
-   },
-   {
-    "name": "Perturbing Flat",
-    "uuid": "925ec10d-cfd9-4fe8-a9dc-7f399efb0990"
-   },
-   {
     "name": "Gloomy Suite",
     "uuid": "92b7e9d4-2440-44eb-a8da-ca736d1d8565"
    },
    {
-    "name": "Lovely Dwelling",
-    "uuid": "9739a264-0b96-4bc2-8017-6558c4143b9d"
+    "name": "Gloomy Property",
+    "uuid": "a1599ef0-8572-4a79-adb1-ab6e34719a07"
    },
    {
-    "name": "Perturbing Flat",
-    "uuid": "4f1419b7-018f-420c-82be-fecd887baf44"
+    "name": "Annoying Dwelling",
+    "uuid": "2479b63c-5a5e-47cc-bf43-32ce0cb7f000"
    },
    {
-    "name": "Luxurious Residence",
-    "uuid": "86fd977d-631c-432e-8d74-c2d60b0e6e66"
+    "name": "Lovely Quarter",
+    "uuid": "5b9f4a6b-4d1d-428d-8668-15f480ff1b32"
    },
    {
-    "name": "Dingy Flat",
-    "uuid": "d1971a61-9bef-400e-8e7d-3debd18a0c50"
+    "name": "Welcoming Tenement",
+    "uuid": "f0fe4958-5185-4990-b3d3-c0787f888695"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "1897ef21-dd0b-407d-9cae-8051f530411f"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "commanderbobguy",
-     "uuid": "660f748d-ec5a-40fe-bfef-0a8607532fa8"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

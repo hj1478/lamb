@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "ERS",
   "uuid": "4aa5f696-013d-4b75-8642-f27ab6c0c000",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 27,
-   "maxTownBlocks": 176,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 8,
+   "nationBonus": 60,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -208,32 +208,12 @@
     "uuid": "f48155f7-fb61-4b10-afcf-ac94a5a60c95"
    },
    {
-    "name": "fwblankie",
-    "uuid": "18a16676-bd3e-49d8-afe7-ec2ff9822a25"
-   },
-   {
-    "name": "FearNune",
-    "uuid": "fd271463-76aa-4aa6-9dc7-ebd1fba36256"
-   },
-   {
     "name": "JayDoot",
     "uuid": "726b5ab8-95f5-435b-b462-0860b29bda57"
    },
    {
-    "name": "FTPMarine",
-    "uuid": "f2885c79-aa7f-423e-8982-ddd842652c12"
-   },
-   {
-    "name": "japanioo",
-    "uuid": "1b490f34-ff40-48d4-827f-d8d655bf5acf"
-   },
-   {
     "name": "blackbrine1",
     "uuid": "7817a6a7-4a8b-4b3e-87c3-fd9b4ba59d09"
-   },
-   {
-    "name": "smixx",
-    "uuid": "bcfaf890-e1ba-40e2-af82-0c1589f97ee0"
    }
   ],
   "trusted": [],
@@ -242,24 +222,8 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "fwblankie",
-     "uuid": "18a16676-bd3e-49d8-afe7-ec2ff9822a25"
-    },
-    {
-     "name": "FearNune",
-     "uuid": "fd271463-76aa-4aa6-9dc7-ebd1fba36256"
-    },
-    {
      "name": "JayDoot",
      "uuid": "726b5ab8-95f5-435b-b462-0860b29bda57"
-    },
-    {
-     "name": "FTPMarine",
-     "uuid": "f2885c79-aa7f-423e-8982-ddd842652c12"
-    },
-    {
-     "name": "japanioo",
-     "uuid": "1b490f34-ff40-48d4-827f-d8d655bf5acf"
     },
     {
      "name": "blackbrine1",
@@ -272,16 +236,7 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "fwblankie",
-     "uuid": "18a16676-bd3e-49d8-afe7-ec2ff9822a25"
-    },
-    {
-     "name": "FearNune",
-     "uuid": "fd271463-76aa-4aa6-9dc7-ebd1fba36256"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

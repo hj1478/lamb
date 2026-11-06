@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Engrosia",
   "uuid": "503e24d9-0a28-4304-8c15-ef330315b328",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 116.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31086.603415771926,
+    "x": -31093.75269923864,
     "y": 65.0,
-    "z": 3614.9655595049876,
-    "pitch": 16.918194,
-    "yaw": 171.50546
+    "z": 3601.080278352879,
+    "pitch": 10.945386,
+    "yaw": -87.44165
    },
    "homeBlock": [
-    -1943,
+    -1944,
     225
    ],
    "townBlocks": [
+    [
+     -1943,
+     224
+    ],
+    [
+     -1944,
+     225
+    ],
     [
      -1943,
      226
@@ -98,6 +106,14 @@
     [
      -1943,
      225
+    ],
+    [
+     -1944,
+     224
+    ],
+    [
+     -1944,
+     226
     ]
    ],
    "worlds": {}
@@ -106,9 +122,18 @@
    {
     "name": "Rem096",
     "uuid": "15bbbc7a-e636-417a-bb79-1d7e929d3e92"
+   },
+   {
+    "name": "4thNorwegian",
+    "uuid": "c4decd6f-d982-40a2-b615-52d0c44aa4fc"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "HUGE_STINKER_",
+    "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

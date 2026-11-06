@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Rock",
   "uuid": "6ae345dd-a5f7-46e1-a219-ee0af6d05ea1",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "showmaker1108",
-   "uuid": "9093a61e-275d-46fc-aa9f-123743288169"
+   "name": "NPC6",
+   "uuid": "62dafa51-8f9d-208e-870e-644cf6d71d9b"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1793624609342,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793882237881
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,8 +104,8 @@
   },
   "residents": [
    {
-    "name": "showmaker1108",
-    "uuid": "9093a61e-275d-46fc-aa9f-123743288169"
+    "name": "NPC6",
+    "uuid": "62dafa51-8f9d-208e-870e-644cf6d71d9b"
    }
   ],
   "trusted": [],

@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Happy_Halloween",
-  "uuid": "f926ea1d-1549-4b74-8d0e-054e7e7f5711",
+  "name": "Aztlan",
+  "uuid": "192345a8-a4bd-4f68-b986-4f8d5bfe9e05",
   "board": "/town set board [msg]",
-  "founder": "TheNickValentine",
+  "founder": "legendemi",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC133",
-   "uuid": "ebbe174d-16dd-2050-87ed-d3adb54ccf59"
+   "name": "legendemi",
+   "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793414780564,
+   "registered": 1793947648560,
    "joinedNationAt": null,
-   "ruinedAt": 1793656485522
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,65 +47,105 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 47905.37585882458,
-    "y": 62.11076431274414,
-    "z": -7041.883930271347,
-    "pitch": 45.60387,
-    "yaw": 133.74217
+    "x": -34873.03721930912,
+    "y": 88.0,
+    "z": 1430.6846512281068,
+    "pitch": 14.722176,
+    "yaw": 31.32788
    },
    "homeBlock": [
-    2994,
-    -441
+    -2180,
+    89
    ],
    "townBlocks": [
     [
-     2993,
-     -441
+     -2181,
+     88
     ],
     [
-     2994,
-     -441
+     -2181,
+     87
+    ],
+    [
+     -2181,
+     90
+    ],
+    [
+     -2181,
+     89
+    ],
+    [
+     -2179,
+     90
+    ],
+    [
+     -2182,
+     88
+    ],
+    [
+     -2180,
+     89
+    ],
+    [
+     -2182,
+     89
+    ],
+    [
+     -2180,
+     88
+    ],
+    [
+     -2180,
+     90
+    ],
+    [
+     -2179,
+     88
+    ],
+    [
+     -2179,
+     89
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC133",
-    "uuid": "ebbe174d-16dd-2050-87ed-d3adb54ccf59"
+    "name": "legendemi",
+    "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
    }
   ],
   "trusted": [],

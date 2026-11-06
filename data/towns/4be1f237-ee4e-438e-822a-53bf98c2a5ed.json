@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Liechtenstein",
   "uuid": "4be1f237-ee4e-438e-822a-53bf98c2a5ed",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -546,6 +546,10 @@
    {
     "name": "Gabe_TM",
     "uuid": "e86436b0-1482-4158-b493-73e2fc58443d"
+   },
+   {
+    "name": "glirpthegreen",
+    "uuid": "75008987-68bb-4360-b610-97fa58993fa5"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Marina_Del_Rey",
   "uuid": "5303d74f-7aaf-4ec1-b940-8e0781eddb21",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 88,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 91,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 5,
-   "numOutlaws": 2,
-   "balance": 48.0,
+   "numOutlaws": 3,
+   "balance": 36.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,6 +132,10 @@
      327
     ],
     [
+     -1810,
+     320
+    ],
+    [
      -1803,
      325
     ],
@@ -278,6 +282,14 @@
     [
      -1802,
      328
+    ],
+    [
+     -1811,
+     322
+    ],
+    [
+     -1811,
+     321
     ],
     [
      -1800,
@@ -452,19 +464,11 @@
     "uuid": "9f0db9f8-9f3f-4ccb-bd85-421755cea0f7"
    },
    {
-    "name": "Potatosforthewin",
-    "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-   },
-   {
     "name": "ClayMan00",
     "uuid": "d128acc8-7c57-47e8-a05b-b5a7e9394987"
    }
   ],
   "trusted": [
-   {
-    "name": "AmSpyPlayz",
-    "uuid": "573566ac-c795-4bfa-aee1-064e0c91dcdf"
-   },
    {
     "name": "Nightbrinnger",
     "uuid": "398e9b89-8e65-4d05-b216-a7f93dfb6684"
@@ -476,6 +480,10 @@
    {
     "name": "m4g3o",
     "uuid": "ac33143a-6f0c-4452-96e4-bb06095f6433"
+   },
+   {
+    "name": "STAHLIHN5385",
+    "uuid": "53a1fe39-3d3e-4fae-8ebe-207b5754df34"
    },
    {
     "name": "DraiBerlin",
@@ -490,58 +498,103 @@
    {
     "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
+   },
+   {
+    "name": "Fallen12_",
+    "uuid": "a89f197f-3864-49b0-90a5-ed14b7d103d5"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Upbeat Residence",
+    "uuid": "1987b33b-74ca-43ad-ac87-127c41d263c0"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "5e0d314d-61e5-430d-81aa-aa73bb094fb9"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "a3658477-7c8a-40f4-9644-6015b88de843"
+   },
+   {
+    "name": "Cheerful Flat",
+    "uuid": "9c064580-7b82-4da8-9a2f-59d20c8764c6"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "5ff67905-3c7f-4ed6-b19a-7c3981356dc9"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "76c63c99-ffa2-40b4-b69e-0c512d7947fa"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "61167b2d-3262-43f3-93de-3c0bcd70c7b1"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "b01d2b65-035a-4221-9071-54dcde1bdb5e"
+   },
+   {
+    "name": "Annoying Suite",
+    "uuid": "fa715ce6-3341-47c7-9a91-4c97dfbdab5a"
+   },
+   {
+    "name": "Inconvenient Tenement",
+    "uuid": "f45b2656-220c-4ab4-9510-65646989ee6f"
+   },
+   {
+    "name": "Inviting Quarter",
+    "uuid": "ea4ff077-e69e-4137-947d-6762360ffee9"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "3e1d5453-5e27-4e4e-a538-570944f05166"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "978ce14c-3322-4594-b967-55212a198ee3"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "c85536ad-c78e-4aba-b75c-d72710054de4"
+   },
+   {
+    "name": "Lovely Residence",
+    "uuid": "af3baf79-f8fa-476d-92e8-34439c3961a7"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "47141c9f-9129-4db9-9f37-5e4e020e343b"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "9660020e-c303-4726-b5a9-83589ff24f8b"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "c7a1c583-1919-4876-9da4-64d96b4383dc"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "25676ffb-85f2-42f0-8bce-4b824d0e0ae6"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "5c074197-92b3-4eed-8f6c-d8e245bd2050"
+   }
+  ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Police": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "Potatosforthewin",
-     "uuid": "bff9c876-56f6-4621-9e09-613c7743cbc6"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Souveranitat",
   "uuid": "6d01009b-75f5-418d-9a88-5e097d19063a",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 12,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7416.031588414132,
+    "x": 7416.383763917795,
     "y": 68.0,
-    "z": -11767.177533331187,
-    "pitch": 42.165985,
-    "yaw": 0.3800496
+    "z": -11772.650763604652,
+    "pitch": 2.6927795,
+    "yaw": -0.24101108
    },
    "homeBlock": [
     463,
@@ -92,11 +92,51 @@
    ],
    "townBlocks": [
     [
-     463,
+     462,
      -736
     ],
     [
      464,
+     -737
+    ],
+    [
+     464,
+     -736
+    ],
+    [
+     462,
+     -735
+    ],
+    [
+     464,
+     -735
+    ],
+    [
+     462,
+     -737
+    ],
+    [
+     464,
+     -734
+    ],
+    [
+     463,
+     -735
+    ],
+    [
+     462,
+     -734
+    ],
+    [
+     463,
+     -734
+    ],
+    [
+     463,
+     -737
+    ],
+    [
+     463,
      -736
     ]
    ],
@@ -109,7 +149,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Batumi",
   "uuid": "62f561cc-5bf5-47ee-a39d-3cca5fcc780c",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 277,
+   "numTownBlocks": 290,
    "maxTownBlocks": 328,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 19,
-   "numTrusted": 16,
-   "numOutlaws": 0,
-   "balance": 669.0,
+   "numTrusted": 15,
+   "numOutlaws": 2,
+   "balance": 266.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,21 +73,21 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14909.875401061354,
-    "y": 85.0,
-    "z": -7486.657645841813,
-    "pitch": -0.29975992,
-    "yaw": 89.83361
+    "x": 14918.046397303884,
+    "y": 85.875,
+    "z": -7482.644938567629,
+    "pitch": -0.4500154,
+    "yaw": 98.52825
    },
    "homeBlock": [
-    931,
+    932,
     -468
    ],
    "townBlocks": [
@@ -212,8 +212,16 @@
      -467
     ],
     [
+     937,
+     -463
+    ],
+    [
      941,
      -468
+    ],
+    [
+     937,
+     -462
     ],
     [
      941,
@@ -254,6 +262,14 @@
     [
      941,
      -474
+    ],
+    [
+     941,
+     -462
+    ],
+    [
+     941,
+     -463
     ],
     [
      941,
@@ -585,6 +601,14 @@
     ],
     [
      939,
+     -462
+    ],
+    [
+     939,
+     -463
+    ],
+    [
+     939,
      -468
     ],
     [
@@ -928,6 +952,10 @@
      -469
     ],
     [
+     940,
+     -462
+    ],
+    [
      926,
      -470
     ],
@@ -936,6 +964,10 @@
      -470
     ],
     [
+     940,
+     -463
+    ],
+    [
      938,
      -471
     ],
@@ -1029,6 +1061,14 @@
     ],
     [
      938,
+     -462
+    ],
+    [
+     938,
+     -463
+    ],
+    [
+     938,
      -464
     ],
     [
@@ -1094,6 +1134,10 @@
     [
      942,
      -463
+    ],
+    [
+     942,
+     -462
     ],
     [
      936,
@@ -1161,7 +1205,15 @@
     ],
     [
      936,
+     -462
+    ],
+    [
+     936,
      -464
+    ],
+    [
+     936,
+     -463
     ],
     [
      940,
@@ -1204,16 +1256,8 @@
   },
   "residents": [
    {
-    "name": "its_me_Niteshade",
-    "uuid": "5603a4e2-afd4-4364-bb61-d706d2a51ee9"
-   },
-   {
     "name": "_tuttopassa_",
     "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
-   },
-   {
-    "name": "Ferma_",
-    "uuid": "35a8ed8b-42b4-4957-bb13-9c36ff3b610d"
    },
    {
     "name": "TrueClaw",
@@ -1248,10 +1292,6 @@
     "uuid": "81fd2ed2-3120-493a-8aab-8f95016a5870"
    },
    {
-    "name": "Vanilth",
-    "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
-   },
-   {
     "name": "WYDdylan",
     "uuid": "f8ac68ca-80e6-4831-80b9-16dc1255b924"
    },
@@ -1278,6 +1318,18 @@
    {
     "name": "RdSparrowOG",
     "uuid": "26eb716b-ba9e-46e5-b0c0-b375a6e82b5d"
+   },
+   {
+    "name": "LucasMacdonald",
+    "uuid": "5f8c7e98-d12a-419b-920c-f07a0dc1a44e"
+   },
+   {
+    "name": "ChairryStrawLizz",
+    "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+   },
+   {
+    "name": "Kak0nator",
+    "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
    }
   ],
   "trusted": [
@@ -1326,10 +1378,6 @@
     "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
    },
    {
-    "name": "pengpy",
-    "uuid": "6ce17d6c-5c2c-4b23-8b59-facb56df6e58"
-   },
-   {
     "name": "Khashiii",
     "uuid": "9190e302-1501-4513-b058-9a4ff9d764bc"
    },
@@ -1346,7 +1394,16 @@
     "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MitchH_MC",
+    "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
+   },
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   }
+  ],
   "quarters": [
    {
     "name": "Enraging Quarter",
@@ -1404,37 +1461,80 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "Vanilth",
-     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
+    }
+   ],
    "Recruiter": [
     {
-     "name": "Vanilth",
-     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
-   "Police": [],
+   "Police": [
+    {
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
+    }
+   ],
    "Tax-exempt": [
     {
-     "name": "Vanilth",
-     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
    "Treasurer": [
     {
-     "name": "Vanilth",
-     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
     }
    ],
    "Realtor": [
     {
-     "name": "Vanilth",
-     "uuid": "f946514c-bbae-4a17-8911-eb0fc0e426fb"
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "ChairryStrawLizz",
+     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+    },
+    {
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

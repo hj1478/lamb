@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Belle_River",
   "uuid": "616d0ef0-b4b7-4648-b9a8-b127f7b68c15",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 50,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 53,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "numResidents": 4,
+   "numTrusted": 3,
    "numOutlaws": 8,
-   "balance": 0.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -105,6 +105,10 @@
     ],
     [
      674,
+     757
+    ],
+    [
+     674,
      756
     ],
     [
@@ -201,6 +205,10 @@
     ],
     [
      669,
+     757
+    ],
+    [
+     669,
      752
     ],
     [
@@ -242,6 +250,10 @@
     [
      671,
      755
+    ],
+    [
+     675,
+     757
     ],
     [
      675,
@@ -300,12 +312,16 @@
     "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
    },
    {
+    "name": "loganprime2013",
+    "uuid": "62e9d3d9-4630-414b-a124-a591ed81d22f"
+   },
+   {
     "name": "Lukegvespa",
     "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    },
    {
-    "name": "loganprime2013",
-    "uuid": "62e9d3d9-4630-414b-a124-a591ed81d22f"
+    "name": "NoahTheLlama1",
+    "uuid": "89fcf878-b77d-4a89-8a4d-26a548014c4a"
    }
   ],
   "trusted": [
@@ -320,10 +336,6 @@
    {
     "name": "Andre1098",
     "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
-   },
-   {
-    "name": "Lukegvespa",
-    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    }
   ],
   "outlaws": [
@@ -336,16 +348,8 @@
     "uuid": "5c981e10-7798-448d-8859-c7b056d700e8"
    },
    {
-    "name": "SlipperySalmon14",
-    "uuid": "f52739e0-bcbf-4376-b280-029af790bab3"
-   },
-   {
     "name": "xfw_x",
     "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
-   },
-   {
-    "name": "combfy",
-    "uuid": "fc1f0d0b-c3fe-4cac-a1f4-ea3671ff8492"
    },
    {
     "name": "Saltiestspinach",
@@ -358,6 +362,14 @@
    {
     "name": "DrYeetSir",
     "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   },
+   {
+    "name": "CaptainOFCopper",
+    "uuid": "6c4f4cea-0cb3-4cbd-93e3-be29c7064571"
+   },
+   {
+    "name": "combfy",
+    "uuid": "fc1f0d0b-c3fe-4cac-a1f4-ea3671ff8492"
    }
   ],
   "quarters": [
@@ -370,12 +382,8 @@
     "uuid": "d124272b-3f58-4cb2-83e8-c2ba4c9ed596"
    },
    {
-    "name": "Dull Flat",
-    "uuid": "d14ecbcb-8bd7-4106-9b6a-13882a57d191"
-   },
-   {
-    "name": "Dingy Residence",
-    "uuid": "ac17bed9-7391-4276-8bba-062207401c5b"
+    "name": "Dull Apartment",
+    "uuid": "85f8f183-286b-45d3-90bc-be68fc39cc6a"
    }
   ],
   "ranks": {

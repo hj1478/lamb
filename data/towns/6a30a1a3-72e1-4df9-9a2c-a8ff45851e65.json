@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Galaxy",
   "uuid": "6a30a1a3-72e1-4df9-9a2c-a8ff45851e65",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791560493652,
-   "joinedNationAt": 1791560635300,
+   "joinedNationAt": 1793620767837,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
+   "numTownBlocks": 37,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 27.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -96.02307414571656,
+    "x": -95.02871084736095,
     "y": 43.5,
-    "z": -10544.000375016481,
-    "pitch": 4.499984,
-    "yaw": -89.57952
+    "z": -10543.176851807648,
+    "pitch": 11.399996,
+    "yaw": -45.47973
    },
    "homeBlock": [
-    -7,
-    -660
+    -6,
+    -659
    ],
    "townBlocks": [
     [
@@ -129,6 +129,10 @@
     ],
     [
      -5,
+     -662
+    ],
+    [
+     -5,
      -659
     ],
     [
@@ -148,8 +152,32 @@
      -656
     ],
     [
+     -4,
+     -658
+    ],
+    [
      -8,
      -657
+    ],
+    [
+     -4,
+     -659
+    ],
+    [
+     -4,
+     -656
+    ],
+    [
+     -4,
+     -657
+    ],
+    [
+     -4,
+     -660
+    ],
+    [
+     -4,
+     -661
     ],
     [
      -7,

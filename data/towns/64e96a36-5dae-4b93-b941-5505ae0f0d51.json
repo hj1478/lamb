@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Vanguard",
+  "name": "Brezhnevgrad",
   "uuid": "64e96a36-5dae-4b93-b941-5505ae0f0d51",
-  "board": "we build our own legacy",
+  "board": "In honor of Leonid Brezhnev",
   "founder": "Marshal_CZ",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Brezhnevgrad",
   "discord": null,
   "mayor": {
-   "name": "NonstopXL",
-   "uuid": "3cee00c5-2bde-4490-acd0-3e84f2545010"
+   "name": "rhymes_w_garden",
+   "uuid": "6ff50625-399b-467f-9164-d61056cf38d8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Soviet_Union",
+   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
   },
   "timestamps": {
    "registered": 1778697555459,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793528187677,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 63,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 2,
-   "numOutlaws": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -348,77 +348,36 @@
   },
   "residents": [
    {
-    "name": "NonstopXL",
-    "uuid": "3cee00c5-2bde-4490-acd0-3e84f2545010"
-   },
-   {
-    "name": "411R34dy41i",
-    "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-   },
-   {
-    "name": "riddikium",
-    "uuid": "ef8b27e5-f91c-46b4-b127-8e52e9157238"
+    "name": "rhymes_w_garden",
+    "uuid": "6ff50625-399b-467f-9164-d61056cf38d8"
    }
   ],
   "trusted": [
    {
-    "name": "411R34dy41i",
-    "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-   },
-   {
-    "name": "Rubyspace12345",
-    "uuid": "6a5beea0-da1f-40f5-a9b8-7ded815eaa00"
+    "name": "Nikita_Sergei",
+    "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
+   {
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "NonstopXL",
-     "uuid": "3cee00c5-2bde-4490-acd0-3e84f2545010"
-    },
-    {
-     "name": "411R34dy41i",
-     "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "411R34dy41i",
-     "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "411R34dy41i",
-     "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "411R34dy41i",
-     "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "411R34dy41i",
-     "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "NonstopXL",
-     "uuid": "3cee00c5-2bde-4490-acd0-3e84f2545010"
-    },
-    {
-     "name": "411R34dy41i",
-     "uuid": "3cd1a4a2-f4de-4e20-9ba7-f491dd934432"
-    }
-   ]
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

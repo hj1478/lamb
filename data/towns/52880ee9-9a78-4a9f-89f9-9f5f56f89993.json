@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Alexander_Bay",
   "uuid": "52880ee9-9a78-4a9f-89f9-9f5f56f89993",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,24 +96,116 @@
      1156
     ],
     [
-     367,
-     1156
+     368,
+     1155
+    ],
+    [
+     368,
+     1158
     ],
     [
      368,
      1157
     ],
     [
-     367,
-     1157
+     368,
+     1159
     ],
     [
      366,
      1157
+    ],
+    [
+     372,
+     1159
+    ],
+    [
+     366,
+     1158
+    ],
+    [
+     372,
+     1160
+    ],
+    [
+     366,
+     1155
     ],
     [
      366,
      1156
+    ],
+    [
+     367,
+     1159
+    ],
+    [
+     370,
+     1157
+    ],
+    [
+     367,
+     1155
+    ],
+    [
+     369,
+     1160
+    ],
+    [
+     367,
+     1156
+    ],
+    [
+     367,
+     1157
+    ],
+    [
+     369,
+     1158
+    ],
+    [
+     367,
+     1158
+    ],
+    [
+     369,
+     1159
+    ],
+    [
+     369,
+     1156
+    ],
+    [
+     369,
+     1157
+    ],
+    [
+     365,
+     1156
+    ],
+    [
+     370,
+     1159
+    ],
+    [
+     370,
+     1158
+    ],
+    [
+     370,
+     1160
+    ],
+    [
+     371,
+     1160
+    ],
+    [
+     371,
+     1159
+    ],
+    [
+     371,
+     1158
     ]
    ],
    "worlds": {}
@@ -134,6 +226,14 @@
    {
     "name": "SulfurousCow",
     "uuid": "92069a58-00bb-4dbf-9c4b-2ec056f8df57"
+   },
+   {
+    "name": "TheWeezeeKnight",
+    "uuid": "5e327beb-3db2-4184-b20f-38feb9aa6e38"
+   },
+   {
+    "name": "bandicoot119",
+    "uuid": "8b568b4a-beb0-43ec-8112-c9bb0dfd4e55"
    }
   ],
   "trusted": [],
@@ -152,9 +252,22 @@
     {
      "name": "SulfurousCow",
      "uuid": "92069a58-00bb-4dbf-9c4b-2ec056f8df57"
+    },
+    {
+     "name": "TheWeezeeKnight",
+     "uuid": "5e327beb-3db2-4184-b20f-38feb9aa6e38"
+    },
+    {
+     "name": "bandicoot119",
+     "uuid": "8b568b4a-beb0-43ec-8112-c9bb0dfd4e55"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "bandicoot119",
+     "uuid": "8b568b4a-beb0-43ec-8112-c9bb0dfd4e55"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

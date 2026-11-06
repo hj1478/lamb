@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "New_Atlas",
   "uuid": "6b7c44c6-4130-4e9d-a392-be49360866ab",
-  "board": "Expand the town and build the bank",
+  "board": "Finish Demolishing the Second floors",
   "founder": "ARGonsARGs",
   "wiki": null,
   "discord": "https://discord.gg/RcPvU2EQYq",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
+   "numTownBlocks": 19,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 20.0,
+   "numTrusted": 5,
+   "numOutlaws": 4,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43737.88778573238,
+    "x": 43755.29945784204,
     "y": 71.0,
-    "z": 19122.923504278064,
-    "pitch": 38.72156,
-    "yaw": -18.380798
+    "z": 19145.86459121688,
+    "pitch": 14.063104,
+    "yaw": -91.5531
    },
    "homeBlock": [
-    2733,
-    1195
+    2734,
+    1196
    ],
    "townBlocks": [
     [
@@ -132,6 +132,10 @@
      1196
     ],
     [
+     2736,
+     1197
+    ],
+    [
      2734,
      1198
     ],
@@ -150,6 +154,10 @@
     [
      2735,
      1197
+    ],
+    [
+     2735,
+     1198
     ],
     [
      2734,
@@ -182,8 +190,20 @@
     "uuid": "dad44091-8b25-4608-907c-65d2d1742806"
    },
    {
+    "name": "Iamacactus1839",
+    "uuid": "dbaf656d-cd96-47e9-a998-6b62d76bfca5"
+   },
+   {
+    "name": "xThursday",
+    "uuid": "ba632333-fd55-4bb1-a703-b57a11bf17de"
+   },
+   {
     "name": "predatorjacob23",
     "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
+   },
+   {
+    "name": "AshweeUwU_0",
+    "uuid": "bd41db46-767e-409e-b175-7cfb9e4be61d"
    }
   ],
   "outlaws": [
@@ -194,24 +214,36 @@
    {
     "name": "GeneralAdam15",
     "uuid": "51209372-3934-4ed1-abbe-bbcabf1c93fa"
+   },
+   {
+    "name": "2tman4",
+    "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
+   },
+   {
+    "name": "7hoii",
+    "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    }
   ],
   "quarters": [
    {
-    "name": "Economy Apartment 1",
-    "uuid": "5c4fbb5c-c4e3-4b18-8038-73fb5640b19c"
-   },
-   {
     "name": "SAVAGE DLX. suite",
     "uuid": "54198aa5-74bb-402b-ae58-7941c9129c53"
+   },
+   {
+    "name": "Spidered's Hideout",
+    "uuid": "cc3bf46f-3a4a-47c4-8cad-e5e3b5cfb59f"
    },
    {
     "name": "Order Dropoff",
     "uuid": "d4c95e67-c776-4e20-9ecb-b47826902d8d"
    },
    {
-    "name": "Perturbing Residence",
-    "uuid": "c9dc2ae6-72f4-4fea-8bed-a6dea8d928c0"
+    "name": "Pred's Chamber",
+    "uuid": "54f5f736-022a-46d4-93d6-f41d6a95df74"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "211d9080-0b7a-4dc6-a858-162e5bacba25"
    }
   ],
   "ranks": {

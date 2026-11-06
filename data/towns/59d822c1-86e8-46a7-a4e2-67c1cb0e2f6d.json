@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Takao",
   "uuid": "59d822c1-86e8-46a7-a4e2-67c1cb0e2f6d",
@@ -8,21 +8,21 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Tsunlam123",
-   "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+   "name": "James_Redstone",
+   "uuid": "4bab3caa-564f-44a6-b76f-944af9ef2f7b"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": "Ming",
+   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
   },
   "timestamps": {
    "registered": 1776491216765,
-   "joinedNationAt": 1778938404900,
+   "joinedNationAt": 1793414715176,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 5,
+   "numResidents": 3,
+   "numTrusted": 8,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43109.061082368105,
+    "x": 43096.33462366508,
     "y": 64.0,
-    "z": -363.30000001192093,
-    "pitch": 6.82294,
-    "yaw": 173.7915
+    "z": -385.4429881823597,
+    "pitch": 36.091797,
+    "yaw": 173.56044
    },
    "homeBlock": [
-    2694,
-    -23
+    2693,
+    -25
    ],
    "townBlocks": [
     [
@@ -348,10 +348,6 @@
      -27
     ],
     [
-     2692,
-     -18
-    ],
-    [
      2691,
      -22
     ],
@@ -364,8 +360,12 @@
      -20
     ],
     [
-     2691,
-     -19
+     2702,
+     -29
+    ],
+    [
+     2702,
+     -28
     ],
     [
      2691,
@@ -548,26 +548,42 @@
     "uuid": "715bdbcd-6c34-43bc-9e0a-83b1e3bc95ef"
    },
    {
+    "name": "James_Redstone",
+    "uuid": "4bab3caa-564f-44a6-b76f-944af9ef2f7b"
+   },
+   {
     "name": "Tsunlam123",
     "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    }
   ],
   "trusted": [
    {
-    "name": "Senryokugan",
-    "uuid": "ef3af32f-c86c-49be-bc47-39ed01bdc120"
+    "name": "NL733",
+    "uuid": "cbd263fa-8eb8-47cf-9b19-01fd02e192ea"
    },
    {
-    "name": "DoOoOonguri",
-    "uuid": "e0b29b64-c150-40e4-bbd8-642f7d5ceadc"
+    "name": "bbdqz",
+    "uuid": "b2edf2d2-2c5c-4fe2-9e53-36718b51b780"
    },
    {
-    "name": "sonya0819",
-    "uuid": "715bdbcd-6c34-43bc-9e0a-83b1e3bc95ef"
+    "name": "512N",
+    "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
    },
    {
-    "name": "kita1867",
-    "uuid": "363bc3b8-dfd2-4d3a-84f7-7888fc86f71c"
+    "name": "Ehou03",
+    "uuid": "9605927f-b9cd-47a1-8f63-0580e3a4d489"
+   },
+   {
+    "name": "Truzz666",
+    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+   },
+   {
+    "name": "GuarD1an2250",
+    "uuid": "7283ee68-d09d-4b81-a562-b03b0e914b24"
+   },
+   {
+    "name": "Venti3",
+    "uuid": "911e9f55-36c7-4925-8032-5261d17ef04f"
    },
    {
     "name": "Tsunlam123",
@@ -575,29 +591,14 @@
    }
   ],
   "outlaws": [],
-  "quarters": [
-   {
-    "name": "Cheerful Quarter",
-    "uuid": "eb2df4f7-8672-4951-adcd-fc36b0e19ebd"
-   }
-  ],
+  "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Tsunlam123",
-     "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "Tsunlam123",
-     "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

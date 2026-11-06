@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Klodzko",
   "uuid": "653148d4-a816-4661-92c4-7860fea6240d",
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1791474929421,
-   "joinedNationAt": 1791476778587,
+   "joinedNationAt": 1793966993959,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 1,
-   "numTrusted": 3,
+   "nationBonus": 60,
+   "numResidents": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,10 +100,6 @@
      -739
     ],
     [
-     376,
-     -740
-    ],
-    [
      375,
      -740
     ],
@@ -113,6 +109,14 @@
     ],
     [
      377,
+     -740
+    ],
+    [
+     377,
+     -737
+    ],
+    [
+     377,
      -738
     ],
     [
@@ -121,7 +125,35 @@
     ],
     [
      374,
+     -740
+    ],
+    [
+     374,
+     -737
+    ],
+    [
+     378,
      -738
+    ],
+    [
+     374,
+     -738
+    ],
+    [
+     376,
+     -737
+    ],
+    [
+     378,
+     -740
+    ],
+    [
+     378,
+     -739
+    ],
+    [
+     376,
+     -736
     ],
     [
      376,
@@ -130,6 +162,18 @@
     [
      376,
      -738
+    ],
+    [
+     376,
+     -741
+    ],
+    [
+     376,
+     -740
+    ],
+    [
+     375,
+     -737
     ]
    ],
    "worlds": {}
@@ -138,9 +182,17 @@
    {
     "name": "Barezz1",
     "uuid": "1d599f1a-b589-4027-bf2a-ad6a914f102c"
+   },
+   {
+    "name": "Phosphorus30",
+    "uuid": "1d8ba177-f828-406e-9771-52945acb2d83"
    }
   ],
   "trusted": [
+   {
+    "name": "Phosphorus30",
+    "uuid": "1d8ba177-f828-406e-9771-52945acb2d83"
+   },
    {
     "name": "FeliksTV",
     "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"

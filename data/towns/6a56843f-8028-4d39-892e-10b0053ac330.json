@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Samara",
   "uuid": "6a56843f-8028-4d39-892e-10b0053ac330",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 33,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 4.0,
@@ -228,10 +228,6 @@
   },
   "residents": [
    {
-    "name": "Nikita_Sergei",
-    "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
-   },
-   {
     "name": "Ananasian",
     "uuid": "6c4e4b14-84a7-4333-bb28-2599a27d39ef"
    },
@@ -273,10 +269,6 @@
     "uuid": "b47775a9-62b7-4408-a92a-05661ed5198c"
    },
    {
-    "name": "Dingy Residence",
-    "uuid": "dba97b62-ae52-43a7-b596-7b20e0992d28"
-   },
-   {
     "name": "Gloomy Residence",
     "uuid": "03afd515-c306-43e8-928e-6759ea54b21e"
    },
@@ -299,15 +291,14 @@
    {
     "name": "Dingy Residence",
     "uuid": "4f3e8886-580b-4330-a8f2-d48acce940a6"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "dba97b62-ae52-43a7-b596-7b20e0992d28"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Nikita_Sergei",
-     "uuid": "4b21c9bb-acae-40f2-b8c4-e9dfc8c75476"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

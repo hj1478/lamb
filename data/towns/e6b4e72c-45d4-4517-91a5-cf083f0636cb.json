@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Newsumr",
-  "uuid": "782593ba-127a-48cb-97d1-f2d993dd6714",
+  "name": "Triple",
+  "uuid": "e6b4e72c-45d4-4517-91a5-cf083f0636cb",
   "board": "/town set board [msg]",
-  "founder": "bdk111",
+  "founder": "DVTDavid",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC136",
-   "uuid": "7696148e-ecb7-202e-ae5b-b083c5aea62d"
+   "name": "DVTDavid",
+   "uuid": "f5512a42-47dc-4dba-bd05-4781df860d08"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793674975053,
+   "registered": 1793945646406,
    "joinedNationAt": null,
-   "ruinedAt": 1793677006086
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -40,80 +40,71 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16502.666134061576,
-    "y": 72.0,
-    "z": -3668.628100752273,
-    "pitch": 28.950144,
-    "yaw": -50.997925
+    "x": -43389.51498734407,
+    "y": 63.0,
+    "z": -6060.295218055671,
+    "pitch": 14.320021,
+    "yaw": 6.302909
    },
    "homeBlock": [
-    1031,
-    -230
+    -2712,
+    -379
    ],
    "townBlocks": [
     [
-     1031,
-     -230
+     -2712,
+     -379
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC136",
-    "uuid": "7696148e-ecb7-202e-ae5b-b083c5aea62d"
+    "name": "DVTDavid",
+    "uuid": "f5512a42-47dc-4dba-bd05-4781df860d08"
    }
   ],
-  "trusted": [
-   {
-    "name": "nachoman267",
-    "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
-   },
-   {
-    "name": "GameSquire76",
-    "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

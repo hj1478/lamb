@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Tenerife",
   "uuid": "595540c4-b459-47ad-b86c-eda5e95b299c",
@@ -12,12 +12,12 @@
    "uuid": "801bc34f-438a-4859-8e49-9927f567a4d9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Spain",
+   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
   },
   "timestamps": {
    "registered": 1776460925695,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793385652453,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 3,
+   "nationBonus": 100,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -618,6 +618,10 @@
    {
     "name": "SynthosYT",
     "uuid": "84f056c9-6a39-4e97-b17e-4110950f02a6"
+   },
+   {
+    "name": "NoonLou",
+    "uuid": "d12d0353-2773-46e2-9969-79d91af8f39f"
    }
   ],
   "trusted": [],
@@ -628,13 +632,14 @@
     {
      "name": "Crustulum__",
      "uuid": "40e79f65-5e3c-498d-9c1e-ef5a01679e47"
-    },
-    {
-     "name": "SynthosYT",
-     "uuid": "84f056c9-6a39-4e97-b17e-4110950f02a6"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "NoonLou",
+     "uuid": "d12d0353-2773-46e2-9969-79d91af8f39f"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

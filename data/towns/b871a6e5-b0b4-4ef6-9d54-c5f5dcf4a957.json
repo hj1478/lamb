@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Synagog",
-  "uuid": "381d6754-117b-4121-8556-273f1575cd51",
+  "name": "Mangobo",
+  "uuid": "b871a6e5-b0b4-4ef6-9d54-c5f5dcf4a957",
   "board": "/town set board [msg]",
-  "founder": "David_200356",
+  "founder": "anditsme",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC42",
-   "uuid": "948a0964-657a-2044-80c9-752dce106c1b"
+   "name": "anditsme",
+   "uuid": "444514b7-e39b-480e-a32b-f62e24d65ff9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
-   "registered": 1789678994364,
-   "joinedNationAt": null,
-   "ruinedAt": 1793700004620
+   "registered": 1793939569062,
+   "joinedNationAt": 1793939584063,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,93 +47,77 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11576.748306383164,
-    "y": 87.0,
-    "z": -3062.810399691387,
-    "pitch": 38.52165,
-    "yaw": -65.35242
+    "x": 10093.762499988079,
+    "y": 76.0,
+    "z": 7921.809008115868,
+    "pitch": 47.906902,
+    "yaw": -143.99011
    },
    "homeBlock": [
-    723,
-    -192
+    630,
+    495
    ],
    "townBlocks": [
     [
-     722,
-     -192
+     630,
+     494
     ],
     [
-     722,
-     -191
+     630,
+     495
     ],
     [
-     722,
-     -193
+     629,
+     495
     ],
     [
-     723,
-     -193
+     631,
+     494
     ],
     [
-     724,
-     -191
-    ],
-    [
-     723,
-     -191
-    ],
-    [
-     724,
-     -192
-    ],
-    [
-     723,
-     -192
-    ],
-    [
-     724,
-     -193
+     631,
+     495
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC42",
-    "uuid": "948a0964-657a-2044-80c9-752dce106c1b"
+    "name": "anditsme",
+    "uuid": "444514b7-e39b-480e-a32b-f62e24d65ff9"
    }
   ],
   "trusted": [],

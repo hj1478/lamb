@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "EMC",
   "uuid": "6142dd06-2039-42b4-be84-c5d1c5ba7c43",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 904,
-   "maxTownBlocks": 808,
+   "maxTownBlocks": 724,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 59,
-   "numTrusted": 46,
-   "numOutlaws": 29,
-   "balance": 106.0,
+   "numResidents": 52,
+   "numTrusted": 41,
+   "numOutlaws": 30,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -3725,10 +3725,6 @@
     "uuid": "79db9f46-006a-4230-9ce1-d6fa1654c887"
    },
    {
-    "name": "Mumu9178",
-    "uuid": "6418d778-2ec7-4fe5-b96f-3555716ec314"
-   },
-   {
     "name": "diadiaxia",
     "uuid": "896e7b76-5364-45ee-aaa8-f4593b31ae1d"
    },
@@ -3737,36 +3733,12 @@
     "uuid": "c3444254-3dab-40b1-b3b8-493df8ba2cc9"
    },
    {
-    "name": "Hazel_404",
-    "uuid": "00513929-73af-4a71-95b4-7154b840a141"
-   },
-   {
     "name": "Callinus",
     "uuid": "86eea4a1-29bb-4d42-989b-7508df956e6b"
    },
    {
-    "name": "skoolkert",
-    "uuid": "7e382512-2cc7-4f4a-9a84-c3e4c0b3ee6d"
-   },
-   {
-    "name": "zhou_jian_chang",
-    "uuid": "597a9082-4299-4add-80d5-0d7d3b060e97"
-   },
-   {
-    "name": "Tiger_Owen",
-    "uuid": "e3f37816-cf7f-42a0-ba28-ced467492b17"
-   },
-   {
     "name": "Redwheatwheat",
     "uuid": "201992af-7d4e-4c15-8b8a-5258e066a6de"
-   },
-   {
-    "name": "ikersino",
-    "uuid": "a098f770-9cc2-4a16-bde7-a84e67679896"
-   },
-   {
-    "name": "huo__shan",
-    "uuid": "5849e4de-b6db-46ad-8715-a856aaf6b274"
    },
    {
     "name": "Feirendong",
@@ -3959,10 +3931,6 @@
     "uuid": "def624e6-e578-42ca-b996-648a3ab5db09"
    },
    {
-    "name": "Mumu9178",
-    "uuid": "6418d778-2ec7-4fe5-b96f-3555716ec314"
-   },
-   {
     "name": "sam16784",
     "uuid": "2fd587ce-049f-4330-b2a2-0119b1d7b0dc"
    },
@@ -3983,12 +3951,20 @@
     "uuid": "9d87abdb-4a0f-4f92-878f-942d0f3446d0"
    },
    {
+    "name": "Hazel_404",
+    "uuid": "00513929-73af-4a71-95b4-7154b840a141"
+   },
+   {
     "name": "WitherOO",
     "uuid": "dad530ad-3895-4efa-83b9-68323776abe7"
    },
    {
     "name": "NullSelfice",
     "uuid": "31c3985e-0a3a-46be-810d-838b7d997c08"
+   },
+   {
+    "name": "Duolingoose",
+    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
    },
    {
     "name": "DooginBoogin",
@@ -3999,6 +3975,22 @@
     "uuid": "de5d419b-03ec-42a9-aba7-13c7ab831bef"
    },
    {
+    "name": "WasBad",
+    "uuid": "82643d4e-afdd-491e-91db-24de27fef85d"
+   },
+   {
+    "name": "PoppyPoopyPoo",
+    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+   },
+   {
+    "name": "YUNXIAO123",
+    "uuid": "60fdb951-2901-4adc-b117-bfcfc948e932"
+   },
+   {
+    "name": "Link_E_",
+    "uuid": "098b4710-5288-4bf3-b305-dfc9307a5482"
+   },
+   {
     "name": "Orange_3622",
     "uuid": "36f4b6a9-40ed-4617-8ab1-c553a0f96d29"
    },
@@ -4007,8 +3999,16 @@
     "uuid": "9ac1df91-c01f-484d-9a66-78f82157f15e"
    },
    {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
     "name": "minori2846",
     "uuid": "e2923627-d89c-44c1-83ba-4a0433428b8f"
+   },
+   {
+    "name": "Callinus",
+    "uuid": "86eea4a1-29bb-4d42-989b-7508df956e6b"
    },
    {
     "name": "leijiechen",
@@ -4031,12 +4031,32 @@
     "uuid": "500a2b64-3c0a-4439-90fd-38b2099d4f28"
    },
    {
+    "name": "MindedPercy",
+    "uuid": "1b83fb7d-ccc4-4da2-8aab-89e9a0e51558"
+   },
+   {
     "name": "Researcher_Ivan",
     "uuid": "a4ee3d0b-41d0-4134-8069-8851e02d713e"
    },
    {
     "name": "Mousy_D",
     "uuid": "a218356d-0f3d-465c-8258-5db89a1525cb"
+   },
+   {
+    "name": "LUCK_FOOD",
+    "uuid": "b096a1a8-a766-4f85-8cbc-5578f5008af5"
+   },
+   {
+    "name": "Tiarastarlight",
+    "uuid": "1b8b707c-8657-4804-8f0a-b6bec169c094"
+   },
+   {
+    "name": "0E0F",
+    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
+   },
+   {
+    "name": "L14RTR",
+    "uuid": "1c5de4fa-6db7-4181-b028-a385f7fcc3b0"
    },
    {
     "name": "Jinvinho",
@@ -4061,74 +4081,6 @@
    {
     "name": "yizhiyiyiy",
     "uuid": "266126fd-39ee-4e77-b8ca-f92fd3cfc293"
-   },
-   {
-    "name": "teexg",
-    "uuid": "7c034441-a133-4469-8a68-0187b70e5b3e"
-   },
-   {
-    "name": "Hazel_404",
-    "uuid": "00513929-73af-4a71-95b4-7154b840a141"
-   },
-   {
-    "name": "Shrimpshin_TM",
-    "uuid": "fdf19cdf-fd4a-447b-9dfc-0bc0d7a6fe4c"
-   },
-   {
-    "name": "Duolingoose",
-    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
-   },
-   {
-    "name": "WasBad",
-    "uuid": "82643d4e-afdd-491e-91db-24de27fef85d"
-   },
-   {
-    "name": "meng_yuyun",
-    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
-   },
-   {
-    "name": "PoppyPoopyPoo",
-    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
-   },
-   {
-    "name": "YUNXIAO123",
-    "uuid": "60fdb951-2901-4adc-b117-bfcfc948e932"
-   },
-   {
-    "name": "Link_E_",
-    "uuid": "098b4710-5288-4bf3-b305-dfc9307a5482"
-   },
-   {
-    "name": "qianrubiao",
-    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
-   },
-   {
-    "name": "Callinus",
-    "uuid": "86eea4a1-29bb-4d42-989b-7508df956e6b"
-   },
-   {
-    "name": "Nanoare",
-    "uuid": "949858f3-2a6c-41c1-9dab-a00e56bcf03a"
-   },
-   {
-    "name": "MindedPercy",
-    "uuid": "1b83fb7d-ccc4-4da2-8aab-89e9a0e51558"
-   },
-   {
-    "name": "LUCK_FOOD",
-    "uuid": "b096a1a8-a766-4f85-8cbc-5578f5008af5"
-   },
-   {
-    "name": "Tiarastarlight",
-    "uuid": "1b8b707c-8657-4804-8f0a-b6bec169c094"
-   },
-   {
-    "name": "Alianaka",
-    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
-   },
-   {
-    "name": "L14RTR",
-    "uuid": "1c5de4fa-6db7-4181-b028-a385f7fcc3b0"
    },
    {
     "name": "yuche_0717",
@@ -4185,10 +4137,6 @@
     "uuid": "d04b24be-0610-4c59-ad9f-082636817f17"
    },
    {
-    "name": "Yantacrus",
-    "uuid": "892b1f2a-1004-4ecd-978e-435a3215aa02"
-   },
-   {
     "name": "idkhowtoplayhaha",
     "uuid": "efb74189-d0b0-45f5-90bb-735d9c11c3f7"
    },
@@ -4217,7 +4165,7 @@
     "uuid": "5c15897a-bd9e-4f61-9d55-65e62f4d463c"
    },
    {
-    "name": "sonder2019",
+    "name": "HCFPVP1",
     "uuid": "6c3f26f0-f68a-4c76-b9f0-e1c44008a208"
    },
    {
@@ -4245,7 +4193,7 @@
     "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
    },
    {
-    "name": "kirikun_JP",
+    "name": "UShope",
     "uuid": "c17488d9-181c-4102-aaf2-23816b395da7"
    },
    {
@@ -4253,8 +4201,16 @@
     "uuid": "39984114-c0b1-44f0-9f2d-62771b49ca3a"
    },
    {
-    "name": "AmethysttMC",
+    "name": "Swightzure",
     "uuid": "c4edfcd2-1143-4a93-9ee1-26435fad06d7"
+   },
+   {
+    "name": "et6n",
+    "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
+   },
+   {
+    "name": "DoOoOonguri",
+    "uuid": "e0b29b64-c150-40e4-bbd8-642f7d5ceadc"
    }
   ],
   "quarters": [

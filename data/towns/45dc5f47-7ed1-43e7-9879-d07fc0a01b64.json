@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Mapleton",
-  "uuid": "1114d55b-70c1-41d6-ad36-7d95e2c7b6f5",
+  "name": "Bugy",
+  "uuid": "45dc5f47-7ed1-43e7-9879-d07fc0a01b64",
   "board": "/town set board [msg]",
-  "founder": "Pintopia",
+  "founder": "shadowwjoe",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC139",
-   "uuid": "c4116766-28af-200c-b75a-81c4d50ba17f"
+   "name": "shadowwjoe",
+   "uuid": "1313670c-c9b8-4b50-be6f-d881d18ab80b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Armenia",
+   "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
-   "registered": 1787862198159,
-   "joinedNationAt": null,
-   "ruinedAt": 1793700000727
+   "registered": 1793898773698,
+   "joinedNationAt": 1793966636795,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43375.305002653884,
-    "y": 27.0,
-    "z": 15116.04241038644,
-    "pitch": 32.399944,
-    "yaw": 112.5007
+    "x": 16474.786618187984,
+    "y": 89.0,
+    "z": -6446.942335528585,
+    "pitch": 4.5278854,
+    "yaw": -57.555878
    },
    "homeBlock": [
-    2710,
-    944
+    1029,
+    -403
    ],
    "townBlocks": [
     [
-     2710,
-     944
+     1029,
+     -403
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC139",
-    "uuid": "c4116766-28af-200c-b75a-81c4d50ba17f"
+    "name": "shadowwjoe",
+    "uuid": "1313670c-c9b8-4b50-be6f-d881d18ab80b"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Eskilstuna",
   "uuid": "55c939c2-6945-450e-993c-e2fca1b8641a",
@@ -12,12 +12,12 @@
    "uuid": "4eaff850-d22b-4b12-a2d3-f443975f8737"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
    "registered": 1793555227398,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793655280920,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 22.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -92,6 +92,34 @@
    ],
    "townBlocks": [
     [
+     373,
+     -1018
+    ],
+    [
+     373,
+     -1017
+    ],
+    [
+     373,
+     -1016
+    ],
+    [
+     370,
+     -1017
+    ],
+    [
+     370,
+     -1018
+    ],
+    [
+     370,
+     -1016
+    ],
+    [
+     371,
+     -1016
+    ],
+    [
      371,
      -1017
     ],
@@ -102,6 +130,10 @@
     [
      372,
      -1017
+    ],
+    [
+     372,
+     -1016
     ],
     [
      372,

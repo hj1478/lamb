@@ -1,45 +1,45 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Yingiyangi",
-  "uuid": "96fc920a-a8cf-40c6-94c0-11bc54bad153",
+  "name": "Greenstown",
+  "uuid": "177909e4-7807-481a-a9b0-917aed3b578b",
   "board": "/town set board [msg]",
-  "founder": "PUPU66",
+  "founder": "greenarthropod",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PUPU66",
-   "uuid": "7a425755-c250-47de-97b8-3badf644d9ce"
+   "name": "greenarthropod",
+   "uuid": "9eb8bd42-fa42-451c-8411-62b14f34afb6"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
-   "registered": 1789747358994,
-   "joinedNationAt": null,
+   "registered": 1793909605972,
+   "joinedNationAt": 1793909619173,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 100,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,52 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2471.1353591308048,
+    "x": 11317.300000011921,
     "y": 63.0,
-    "z": 5158.179619177218,
-    "pitch": 61.79992,
-    "yaw": -3.1409912
+    "z": 4589.459569196155,
+    "pitch": 0.299986,
+    "yaw": -6.132666
    },
    "homeBlock": [
-    154,
-    322
+    707,
+    286
    ],
    "townBlocks": [
     [
-     153,
-     322
-    ],
-    [
-     154,
-     322
-    ],
-    [
-     153,
-     321
-    ],
-    [
-     154,
-     323
-    ],
-    [
-     153,
-     323
-    ],
-    [
-     154,
-     321
+     707,
+     286
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "PUPU66",
-    "uuid": "7a425755-c250-47de-97b8-3badf644d9ce"
-   },
-   {
-    "name": "koitak",
-    "uuid": "77d26866-1a99-4e06-815a-24c114c025ef"
+    "name": "greenarthropod",
+    "uuid": "9eb8bd42-fa42-451c-8411-62b14f34afb6"
    }
   ],
   "trusted": [],
@@ -133,12 +109,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "koitak",
-     "uuid": "77d26866-1a99-4e06-815a-24c114c025ef"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

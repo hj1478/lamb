@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Saturn",
   "uuid": "4a37e703-3384-40ff-b5a2-1916125583b8",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 174,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 6.0,
+   "numOutlaws": 6,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10200.06105269222,
-    "y": 63.0,
-    "z": -8882.286964001712,
-    "pitch": 13.615886,
-    "yaw": -93.62305
+    "x": 10199.928152944425,
+    "y": 65.5,
+    "z": -8870.0797444709,
+    "pitch": 30.765985,
+    "yaw": 0.1027832
    },
    "homeBlock": [
     637,
-    -556
+    -555
    ],
    "townBlocks": [
     [
@@ -792,10 +792,6 @@
   },
   "residents": [
    {
-    "name": "burgertart",
-    "uuid": "331ce7fd-2b66-4d59-907e-78cd35a26e63"
-   },
-   {
     "name": "TheRealPotatoGuy",
     "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
    },
@@ -830,16 +826,28 @@
    {
     "name": "ElJefe5775",
     "uuid": "b66473a5-f927-4ad1-9831-149e8d7d0a6c"
+   },
+   {
+    "name": "_Srdjan",
+    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
+   },
+   {
+    "name": "0xMilord",
+    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
+   },
+   {
+    "name": "MitchH_MC",
+    "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
+   },
+   {
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    }
   ],
   "quarters": [
    {
     "name": "Dingy Residence",
     "uuid": "a99a2535-8cd5-4f90-9d35-d1d916922ae2"
-   },
-   {
-    "name": "Welcoming Residence",
-    "uuid": "80bab3d6-0184-4131-aa13-9c62602e8e4e"
    },
    {
     "name": "Stylish Flat",
@@ -888,10 +896,6 @@
    {
     "name": "Upbeat Flat",
     "uuid": "9c1993e0-c54b-4302-ae85-e7bd7c22e89d"
-   },
-   {
-    "name": "Luxurious Suite",
-    "uuid": "b77ab735-b7d2-4a10-913e-cc05a638900c"
    },
    {
     "name": "Welcoming Quarter",
@@ -960,6 +964,14 @@
    {
     "name": "House",
     "uuid": "d54314c6-d26a-435a-87f8-b46eacbfa6da"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "80bab3d6-0184-4131-aa13-9c62602e8e4e"
+   },
+   {
+    "name": "Luxurious Suite",
+    "uuid": "b77ab735-b7d2-4a10-913e-cc05a638900c"
    }
   ],
   "ranks": {

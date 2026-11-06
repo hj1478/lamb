@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "The_Walled_City",
   "uuid": "5ca065a4-d5e2-49bd-bfc8-dc0501a16906",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
+   "numTownBlocks": 23,
    "maxTownBlocks": 70,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 5,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 14.0,
+   "numOutlaws": 1,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -133,6 +133,10 @@
     ],
     [
      1500,
+     -559
+    ],
+    [
+     1500,
      -558
     ],
     [
@@ -162,6 +166,10 @@
     [
      1499,
      -554
+    ],
+    [
+     1499,
+     -559
     ],
     [
      1499,
@@ -206,7 +214,12 @@
     "uuid": "0acdcbd3-48c7-407d-84fc-6d8fc8e9dd02"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

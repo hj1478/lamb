@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Sabine_Hollow",
   "uuid": "6d65b1a4-319b-456f-bf51-e5bcad3aeb55",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
-   "maxTownBlocks": 140,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 8.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,31 +92,11 @@
    ],
    "townBlocks": [
     [
-     -2100,
-     -206
-    ],
-    [
      -2098,
      -206
     ],
     [
-     -2100,
-     -205
-    ],
-    [
-     -2100,
-     -204
-    ],
-    [
-     -2101,
-     -205
-    ],
-    [
      -2099,
-     -206
-    ],
-    [
-     -2101,
      -206
     ],
     [
@@ -130,6 +110,38 @@
     [
      -2099,
      -204
+    ],
+    [
+     -2100,
+     -208
+    ],
+    [
+     -2100,
+     -207
+    ],
+    [
+     -2100,
+     -206
+    ],
+    [
+     -2100,
+     -205
+    ],
+    [
+     -2100,
+     -204
+    ],
+    [
+     -2101,
+     -205
+    ],
+    [
+     -2101,
+     -206
+    ],
+    [
+     -2101,
+     -207
     ]
    ],
    "worlds": {}
@@ -142,10 +154,6 @@
    {
     "name": "W1zok_",
     "uuid": "ea039e11-836b-473d-83b4-1ad9c982b7ac"
-   },
-   {
-    "name": "narell",
-    "uuid": "6c051083-a494-42a9-b23a-d489520a0a51"
    },
    {
     "name": "Death5834",
@@ -166,7 +174,12 @@
      "uuid": "ea039e11-836b-473d-83b4-1ad9c982b7ac"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Death5834",
+     "uuid": "e437e2c2-1867-4c2d-84df-b44ce9c64bc3"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [

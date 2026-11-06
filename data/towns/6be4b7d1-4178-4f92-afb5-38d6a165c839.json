@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Olympus",
   "uuid": "6be4b7d1-4178-4f92-afb5-38d6a165c839",
-  "board": "byzantium outlawed me, i sold town to the greece, cry more thanamos",
+  "board": "The birthplace of the Olympic Games",
   "founder": "VictorrOsimhen",
   "wiki": null,
   "discord": null,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 75,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 80,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7752.696406858705,
+    "x": 7733.487589914457,
     "y": 63.0,
-    "z": -6136.967646521418,
-    "pitch": 0.78858435,
-    "yaw": 89.673584
+    "z": -6146.49964655552,
+    "pitch": 90.0,
+    "yaw": 94.32802
    },
    "homeBlock": [
-    484,
-    -384
+    483,
+    -385
    ],
    "townBlocks": [
     [
@@ -148,6 +148,10 @@
      -386
     ],
     [
+     477,
+     -387
+    ],
+    [
      484,
      -374
     ],
@@ -156,8 +160,16 @@
      -385
     ],
     [
+     477,
+     -386
+    ],
+    [
      484,
      -375
+    ],
+    [
+     479,
+     -384
     ],
     [
      484,
@@ -202,6 +214,10 @@
     [
      486,
      -375
+    ],
+    [
+     480,
+     -384
     ],
     [
      483,
@@ -385,6 +401,10 @@
     ],
     [
      478,
+     -385
+    ],
+    [
+     478,
      -386
     ],
     [
@@ -398,9 +418,22 @@
    {
     "name": "Linckolin",
     "uuid": "4cfe398f-881e-4850-8924-f6ca127e4f18"
+   },
+   {
+    "name": "gabriebl2014",
+    "uuid": "3a78c3d4-0cfb-40e1-adb5-9401daae0dce"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Morf0nios",
+    "uuid": "bbadcef2-753b-4889-9c04-c9ca6593577b"
+   },
+   {
+    "name": "Szuper",
+    "uuid": "d3e838f9-f039-4e18-8993-02dfdd433a12"
+   }
+  ],
   "outlaws": [
    {
     "name": "musathebizzare",

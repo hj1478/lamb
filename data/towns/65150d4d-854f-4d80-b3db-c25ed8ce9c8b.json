@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Panorama",
   "uuid": "65150d4d-854f-4d80-b3db-c25ed8ce9c8b",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 120,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 8,
    "numOutlaws": 1,
-   "balance": 220.0,
+   "balance": 185.0,
    "forSalePrice": null
   },
   "perms": {
@@ -559,10 +559,6 @@
    {
     "name": "Lethalspot",
     "uuid": "fec341a3-3189-4af8-9a23-5d5063fbac70"
-   },
-   {
-    "name": "VoidedWraith",
-    "uuid": "febe806f-f580-476a-bd0b-e74696da4cd1"
    },
    {
     "name": "dkmills8",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Alwasel",
   "uuid": "4e345e19-cf9b-464f-904e-6426182fee9c",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 61,
+   "numTownBlocks": 64,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 57.0,
+   "numOutlaws": 2,
+   "balance": 26.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12452.296040087122,
-    "y": 63.0,
-    "z": -2811.1529860149076,
-    "pitch": 17.999838,
-    "yaw": -131.26172
+    "x": 12442.45885275792,
+    "y": 65.0,
+    "z": -2830.3700833821977,
+    "pitch": 22.799788,
+    "yaw": 1.3381042
    },
    "homeBlock": [
-    778,
-    -176
+    777,
+    -177
    ],
    "townBlocks": [
     [
@@ -173,6 +173,10 @@
     ],
     [
      778,
+     -174
+    ],
+    [
+     778,
      -176
     ],
     [
@@ -329,10 +333,18 @@
     ],
     [
      777,
+     -174
+    ],
+    [
+     777,
      -176
     ],
     [
      777,
+     -175
+    ],
+    [
+     776,
      -175
     ]
    ],
@@ -350,8 +362,22 @@
     "uuid": "01c34b96-295b-4370-b6db-6ec3eb0275e1"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "RealPotatoShark",
+    "uuid": "87e2bb47-9190-4e8f-b997-dcaf7fe195fc"
+   },
+   {
+    "name": "TheRealPotatoGuy",
+    "uuid": "1bb91eda-83a9-4314-a6e0-75cf96c2cab7"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Lovely Quarter",
+    "uuid": "2e17be5d-f574-4a21-8b55-75e64641b918"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

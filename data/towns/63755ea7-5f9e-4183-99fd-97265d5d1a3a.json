@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Trinopolis",
   "uuid": "63755ea7-5f9e-4183-99fd-97265d5d1a3a",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 153.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,60 @@
    ],
    "townBlocks": [
     [
+     -2489,
+     -533
+    ],
+    [
+     -2489,
+     -532
+    ],
+    [
+     -2489,
+     -531
+    ],
+    [
+     -2485,
+     -530
+    ],
+    [
+     -2489,
+     -530
+    ],
+    [
+     -2485,
+     -531
+    ],
+    [
+     -2489,
+     -529
+    ],
+    [
+     -2485,
+     -532
+    ],
+    [
+     -2489,
+     -528
+    ],
+    [
+     -2485,
+     -533
+    ],
+    [
+     -2490,
+     -530
+    ],
+    [
+     -2490,
+     -531
+    ],
+    [
      -2486,
      -533
+    ],
+    [
+     -2488,
+     -528
     ],
     [
      -2488,
@@ -136,26 +188,10 @@
      -531
     ],
     [
-     -2489,
-     -532
-    ],
-    [
-     -2489,
-     -531
-    ],
-    [
-     -2489,
-     -530
-    ],
-    [
      -2487,
      -528
     ],
     [
-     -2489,
-     -529
-    ],
-    [
      -2487,
      -531
     ],
@@ -172,8 +208,16 @@
      -530
     ],
     [
+     -2490,
+     -528
+    ],
+    [
      -2487,
      -533
+    ],
+    [
+     -2490,
+     -529
     ]
    ],
    "worlds": {}
@@ -190,6 +234,10 @@
    {
     "name": "patizvx",
     "uuid": "1b8f7ec9-c57b-48c0-8f6a-918d2397a5d4"
+   },
+   {
+    "name": "navarioo",
+    "uuid": "8d5e17cd-60a4-4712-af57-1fedaea53e30"
    }
   ],
   "trusted": [
@@ -201,36 +249,100 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Inviting Dwelling",
-    "uuid": "178a2412-d720-4437-9ed2-b25232421044"
+    "name": "Lovely Quarter",
+    "uuid": "8caf6203-56b0-4c35-8e1c-9c9ce18ef2c2"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "d79ab1a8-358f-4037-8c2e-827f51fcd834"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "c3526638-9979-4e79-8447-2fe20dabcf10"
+   },
+   {
+    "name": "Inconvenient Tenement",
+    "uuid": "acac93fb-c9df-44c7-87a3-9f4b129ab4cc"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "0489b0f6-5bff-4fba-83e3-7c43067dc1ec"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "46f6fd80-bd95-40cb-b99f-25d0b9f3124f"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "9a1fd87c-3adb-42fc-878e-f6f5afbc4c37"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "cb47a0b6-f9bf-43ea-8784-acfd8a47842e"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "97c3250f-e416-4cd6-91da-3b22f0ffeeec"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "3b18f566-35d6-464f-bf25-3654d29e5209"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "6858d5b9-2c94-4f4d-9e34-f2a4b6318764"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "13560874-98b5-45f5-a76c-86b14df325b0"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "13c8e844-becf-41c0-b924-95ad349433a0"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "b564e5e6-9a53-4149-a53a-b3c81d64a1e0"
    },
    {
     "name": "Perturbing Residence",
-    "uuid": "af07594f-daa7-497f-99d5-f069463f9db1"
+    "uuid": "c2a1637d-f690-4405-88d1-1ec60a5e8353"
    },
    {
-    "name": "Cheerful Quarter",
-    "uuid": "fa185aaa-4afd-49e3-bddf-b25f2e89af8d"
+    "name": "Inconvenient Dwelling",
+    "uuid": "3dd7948f-bec7-48fd-87ab-0c1d3360f37b"
    },
    {
-    "name": "Welcoming Property",
-    "uuid": "4edcd232-4b73-4d5d-8f64-e204fdf2f5a4"
+    "name": "Dingy Quarter",
+    "uuid": "185cf650-a875-4313-a0e6-d64f2a218e0f"
    },
    {
-    "name": "Perturbing Property",
-    "uuid": "8df888d2-8a7a-4f7e-b98c-4c6742185934"
+    "name": "Dingy Property",
+    "uuid": "bbec50dd-ba4c-481a-ac10-a1bf65db793b"
    },
    {
-    "name": "Inviting Quarter",
-    "uuid": "978d8398-3686-4e60-a600-53bb9244475e"
+    "name": "Bland Apartment",
+    "uuid": "7221843d-a946-4c08-97cf-95129aee3822"
    },
    {
-    "name": "Gloomy Residence",
-    "uuid": "abfd9fbc-fabc-48d9-aa6a-13f10a8f39cf"
+    "name": "Inconvenient Quarter",
+    "uuid": "4d2bd38b-5eb8-4f82-980b-acfa09c75ce8"
    },
    {
-    "name": "Inconvenient Property",
-    "uuid": "e10527f9-2d38-4cc3-b879-eb1c1838812d"
+    "name": "Dull Dwelling",
+    "uuid": "a8c14396-482c-4509-a880-82fc0ab0eae9"
+   },
+   {
+    "name": "Dull Property",
+    "uuid": "0e556fef-cf22-4f56-98be-ad31b49162dc"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "10460f64-5548-457f-8a1c-067ea658a23c"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "0497c3a0-6c66-464c-b428-dec166eb9fc4"
    }
   ],
   "ranks": {

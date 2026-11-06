@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Wack",
   "uuid": "56476b93-6397-4bce-9556-4bc69abc323d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "WackSalami",
-   "uuid": "a197fbf7-ad43-44e6-92a6-47cee7b21e12"
+   "name": "NPC23",
+   "uuid": "9d35e7e6-e783-2056-9da2-f7cff2cfe8ee"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1790155364906,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1793786401457
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,66 +100,22 @@
   },
   "residents": [
    {
-    "name": "WackSalami",
-    "uuid": "a197fbf7-ad43-44e6-92a6-47cee7b21e12"
-   },
-   {
-    "name": "cap6",
-    "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
+    "name": "NPC23",
+    "uuid": "9d35e7e6-e783-2056-9da2-f7cff2cfe8ee"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Police": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "cap6",
-     "uuid": "26599498-da69-4efa-b929-c5fd383b59ce"
-    }
-   ]
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Dunfermline",
   "uuid": "5a87a711-1889-458c-8e69-8d1895968746",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 270,
-   "maxTownBlocks": 364,
+   "maxTownBlocks": 328,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 22,
-   "numTrusted": 6,
+   "numResidents": 19,
+   "numTrusted": 7,
    "numOutlaws": 10,
-   "balance": 2000.0,
+   "balance": 2003.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1180,10 +1180,6 @@
     "uuid": "2519323a-be51-415b-8581-9cc4d01da551"
    },
    {
-    "name": "AvoidmyFlopper",
-    "uuid": "0d0af1b8-931d-41bf-9a74-e4fd30dcdd29"
-   },
-   {
     "name": "Brod547",
     "uuid": "93116c12-31ee-4908-a900-7ed9f9bf7525"
    },
@@ -1192,24 +1188,12 @@
     "uuid": "6da70f66-aa91-4a27-9f43-087db19dbade"
    },
    {
-    "name": "FauxChart",
-    "uuid": "17d36507-cb6b-45e9-9008-082625d38217"
-   },
-   {
-    "name": "PathuGaming",
-    "uuid": "413b7f2b-7b82-42c8-850d-0287d31c3202"
-   },
-   {
     "name": "Akory9",
     "uuid": "a22e7117-f05f-4d85-b4c8-26d3cf1900c5"
    },
    {
     "name": "Recktaljuckreiz",
     "uuid": "1b78368a-c4e1-49de-985f-86f27f413f06"
-   },
-   {
-    "name": "RYR_benjamin",
-    "uuid": "598babbc-8f96-4117-8704-686ed2888af1"
    },
    {
     "name": "TroncoDilo",
@@ -1262,6 +1246,10 @@
    {
     "name": "BilmemKim",
     "uuid": "adce195b-91d7-4761-885b-0c9badc0d6c8"
+   },
+   {
+    "name": "SwetttieBetty",
+    "uuid": "e905b55e-db06-45fb-93c0-29ce3a6fc801"
    }
   ],
   "trusted": [
@@ -1276,6 +1264,10 @@
    {
     "name": "Maxu85",
     "uuid": "2d9b56a9-c1f5-45f5-830b-6f3ba4162620"
+   },
+   {
+    "name": "ordynx",
+    "uuid": "3bfd6a97-46ef-4b32-9276-406e8b832185"
    },
    {
     "name": "WotUpFoo",
@@ -1352,6 +1344,10 @@
    {
     "name": "Enraging Flat",
     "uuid": "853589de-5800-4b53-920b-2fb9219f97e1"
+   },
+   {
+    "name": "Gloomy Property",
+    "uuid": "a2b41aef-845f-45b4-b364-93de11f6fef8"
    }
   ],
   "ranks": {
@@ -1362,7 +1358,12 @@
      "uuid": "2519323a-be51-415b-8581-9cc4d01da551"
     }
    ],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "WotUpFoo",
+     "uuid": "6da70f66-aa91-4a27-9f43-087db19dbade"
+    }
+   ],
    "Police": [
     {
      "name": "WotUpFoo",
@@ -1371,7 +1372,12 @@
    ],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "WotUpFoo",
+     "uuid": "6da70f66-aa91-4a27-9f43-087db19dbade"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

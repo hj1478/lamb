@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Ng",
-  "uuid": "dce8ddb3-c93d-49e5-987c-1884079cc01d",
+  "name": "Nykoping",
+  "uuid": "49592da1-22d0-4564-8f96-e2777face0bd",
   "board": "/town set board [msg]",
-  "founder": "Wayneing",
+  "founder": "Jordgubbhen",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC25",
-   "uuid": "ddc99753-4bf4-20df-a14a-d538bec19c33"
+   "name": "Jordgubbhen",
+   "uuid": "2fd0c164-f072-401a-9991-8d72e9dff210"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
-   "registered": 1790035298386,
-   "joinedNationAt": null,
-   "ruinedAt": 1793700001613
+   "registered": 1793903113917,
+   "joinedNationAt": 1793903220705,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,67 +47,67 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3494.7500703031105,
-    "y": 62.11076431274414,
-    "z": -6811.04631010338,
-    "pitch": 25.913403,
-    "yaw": -163.25702
+    "x": 6103.62195740926,
+    "y": 65.0,
+    "z": -15936.4971841801,
+    "pitch": 35.852886,
+    "yaw": 124.760864
    },
    "homeBlock": [
-    218,
-    -426
+    381,
+    -997
    ],
    "townBlocks": [
     [
-     218,
-     -426
+     381,
+     -997
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC25",
-    "uuid": "ddc99753-4bf4-20df-a14a-d538bec19c33"
+    "name": "Jordgubbhen",
+    "uuid": "2fd0c164-f072-401a-9991-8d72e9dff210"
    }
   ],
   "trusted": [
    {
-    "name": "Zyshia",
-    "uuid": "82e1631b-21c8-4a0b-b48a-a289076de313"
+    "name": "Viggobyggm",
+    "uuid": "cb79647a-28a7-422f-9e2c-78e556035ea4"
    }
   ],
   "outlaws": [],

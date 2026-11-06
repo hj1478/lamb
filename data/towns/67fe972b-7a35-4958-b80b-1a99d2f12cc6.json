@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Nuiqsut",
   "uuid": "67fe972b-7a35-4958-b80b-1a99d2f12cc6",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 115,
-   "maxTownBlocks": 74,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 2,
    "balance": 16.0,
@@ -556,10 +556,6 @@
   },
   "residents": [
    {
-    "name": "BALLIONTENNAIKO",
-    "uuid": "674ab974-9b7b-45f1-ba91-243550b2b46b"
-   },
-   {
     "name": "BoatAsdf",
     "uuid": "de9def60-03c0-4e22-bb8a-f7bb64eb96ab"
    }
@@ -605,10 +601,6 @@
     "uuid": "f5b67cdd-cfb3-4876-b6a3-49cde2c44332"
    },
    {
-    "name": "Research Station",
-    "uuid": "0196f31f-a34d-4f73-8536-abea5257e934"
-   },
-   {
     "name": "Child-bearing Apartment",
     "uuid": "4d810a43-e48b-4fb0-824e-4fea43121be0"
    },
@@ -619,15 +611,14 @@
    {
     "name": "Annoying Tenement",
     "uuid": "b68f05ea-d54c-43ce-b00c-50f5f3d3c9bf"
+   },
+   {
+    "name": "Research Station",
+    "uuid": "0196f31f-a34d-4f73-8536-abea5257e934"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "BALLIONTENNAIKO",
-     "uuid": "674ab974-9b7b-45f1-ba91-243550b2b46b"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

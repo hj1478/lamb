@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Los_Mapuches",
   "uuid": "5df6dba0-74d3-4dd3-b2e0-ac86009ed7ea",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1790862142940,
-   "joinedNationAt": 1790957200025,
+   "joinedNationAt": 1793831850216,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 189.0,
+   "numOutlaws": 4,
+   "balance": 475.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26469.95706610147,
+    "x": -26467.588791475213,
     "y": 63.0,
-    "z": 25428.17436782371,
-    "pitch": 23.84996,
-    "yaw": 0.3735962
+    "z": 25432.915725572002,
+    "pitch": 14.699915,
+    "yaw": -0.5258789
    },
    "homeBlock": [
     -1655,
@@ -197,6 +197,10 @@
    {
     "name": "SHU_ignis",
     "uuid": "84c425bc-d1b2-48f0-97a0-b6e8abee613a"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    }
   ],
   "quarters": [],

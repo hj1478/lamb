@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Karluin",
-  "uuid": "14e1e4f5-2b68-48fa-b104-7497d6f5fc3c",
+  "name": "Poker_Place",
+  "uuid": "9d35e9ee-4e74-4b96-bd42-75a77de0cc6a",
   "board": "/town set board [msg]",
-  "founder": "haku0711",
+  "founder": "Tricket420",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC24",
-   "uuid": "32048c1a-ab09-20d2-8f00-e3a34c1e0e6c"
+   "name": "Tricket420",
+   "uuid": "c22be47a-f87b-4363-8d82-e6083d124298"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789902747357,
+   "registered": 1793924850345,
    "joinedNationAt": null,
-   "ruinedAt": 1793700000892
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,86 +35,77 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numOutlaws": 0,
+   "balance": 52.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 47545.73221569536,
-    "y": 64.0,
-    "z": 8790.365995698588,
-    "pitch": 77.699974,
-    "yaw": 66.149345
+    "x": -45636.30000001192,
+    "y": 109.0,
+    "z": -15657.508228153822,
+    "pitch": 9.599964,
+    "yaw": 2.0114746
    },
    "homeBlock": [
-    2971,
-    549
+    -2853,
+    -979
    ],
    "townBlocks": [
     [
-     2971,
-     549
-    ],
-    [
-     2970,
-     549
+     -2853,
+     -979
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC24",
-    "uuid": "32048c1a-ab09-20d2-8f00-e3a34c1e0e6c"
+    "name": "Tricket420",
+    "uuid": "c22be47a-f87b-4363-8d82-e6083d124298"
    }
   ],
   "trusted": [],
-  "outlaws": [
-   {
-    "name": "Chrouched_",
-    "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

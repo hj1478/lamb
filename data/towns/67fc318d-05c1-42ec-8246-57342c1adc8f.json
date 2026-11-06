@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Mr_Beast",
   "uuid": "67fc318d-05c1-42ec-8246-57342c1adc8f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ooows",
-   "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
+   "name": "imKiry",
+   "uuid": "1608e070-2c67-4591-a02d-29c2cd197898"
   },
   "nation": {
    "name": "Uruguay",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 60,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -148,12 +148,12 @@
      1602
     ],
     [
-     -1512,
-     1599
-    ],
-    [
      -1515,
      1601
+    ],
+    [
+     -1512,
+     1599
     ],
     [
      -1512,
@@ -180,11 +180,24 @@
   },
   "residents": [
    {
+    "name": "imKiry",
+    "uuid": "1608e070-2c67-4591-a02d-29c2cd197898"
+   },
+   {
+    "name": "Blockate20",
+    "uuid": "780d0e85-5b27-4224-9fa1-95e96d9f7c8b"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "imKiry",
+    "uuid": "1608e070-2c67-4591-a02d-29c2cd197898"
+   },
+   {
     "name": "ooows",
     "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

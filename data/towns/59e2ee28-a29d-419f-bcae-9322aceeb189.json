@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "A_A",
   "uuid": "59e2ee28-a29d-419f-bcae-9322aceeb189",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 101,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 5,
+   "numResidents": 7,
+   "numTrusted": 6,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41782.696305883444,
-    "y": 87.0,
-    "z": -7334.059328054172,
-    "pitch": 40.414806,
-    "yaw": 9.012047
+    "x": 41831.947425154554,
+    "y": -49.0,
+    "z": -7250.9492645568835,
+    "pitch": 17.099953,
+    "yaw": -179.34192
    },
    "homeBlock": [
-    2611,
-    -459
+    2614,
+    -454
    ],
    "townBlocks": [
     [
@@ -500,10 +500,6 @@
   },
   "residents": [
    {
-    "name": "DizzyFive",
-    "uuid": "2003673f-d5c2-4052-b6a1-17a8923c6f3d"
-   },
-   {
     "name": "Daviros76",
     "uuid": "74f7596f-de09-4cdf-820d-954929a54582"
    },
@@ -540,6 +536,10 @@
    {
     "name": "s___h___u",
     "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
+   },
+   {
+    "name": "DizzyFive",
+    "uuid": "2003673f-d5c2-4052-b6a1-17a8923c6f3d"
    },
    {
     "name": "suannais",
@@ -610,12 +610,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "DizzyFive",
-     "uuid": "2003673f-d5c2-4052-b6a1-17a8923c6f3d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "Daviros76",

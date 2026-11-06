@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "New-Juniper",
   "uuid": "624c94a5-36b7-438a-bc92-b44c86c361c0",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 1002.0,
+   "numOutlaws": 2,
+   "balance": 850.0,
    "forSalePrice": null
   },
   "perms": {
@@ -551,10 +551,23 @@
    {
     "name": "elsi1e",
     "uuid": "eb11578e-7a96-4043-a59b-3dec9416dcef"
+   },
+   {
+    "name": "i_Terx",
+    "uuid": "81e7545f-dce1-4d96-88a3-b85b23ed007d"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "NNCombo",
+    "uuid": "5a05ba9f-da5d-42a4-ba9e-7b08701c601f"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

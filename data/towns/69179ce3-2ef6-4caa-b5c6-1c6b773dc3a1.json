@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Taagera",
   "uuid": "69179ce3-2ef6-4caa-b5c6-1c6b773dc3a1",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "zeytun2",
-   "uuid": "53f8ca4e-272d-406c-bb83-36ed2d2c97c5"
+   "name": "NPC54",
+   "uuid": "0eff65ff-9bd1-2098-a8ee-20c87508b430"
   },
   "nation": {
-   "name": "Ethiopia",
-   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785388703769,
-   "joinedNationAt": 1785392097768,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793844420431
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 25,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 91.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -196,8 +196,8 @@
   },
   "residents": [
    {
-    "name": "zeytun2",
-    "uuid": "53f8ca4e-272d-406c-bb83-36ed2d2c97c5"
+    "name": "NPC54",
+    "uuid": "0eff65ff-9bd1-2098-a8ee-20c87508b430"
    }
   ],
   "trusted": [],

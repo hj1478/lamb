@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Kamloops",
   "uuid": "4e45c042-063b-4045-9c56-6349a3d74c46",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 80,
-   "maxTownBlocks": 244,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
-   "numTrusted": 9,
+   "numResidents": 7,
+   "numTrusted": 10,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -424,30 +424,6 @@
     "uuid": "eeeaf360-1557-40de-b21b-c0f9ed574085"
    },
    {
-    "name": "jempaul",
-    "uuid": "a2f73b0e-934b-4686-b302-6972ac088e25"
-   },
-   {
-    "name": "1BlueBoi1",
-    "uuid": "23283008-4d29-481b-bda0-e634ffd11806"
-   },
-   {
-    "name": "Utsi_",
-    "uuid": "6af5074f-0051-42ce-8566-8e939b671351"
-   },
-   {
-    "name": "Luciferian",
-    "uuid": "217eb925-8027-4a29-91ca-3ceec913df47"
-   },
-   {
-    "name": "ebeee",
-    "uuid": "02020442-5d40-45bb-86e6-ef44de00f96d"
-   },
-   {
-    "name": "EdenSarah2015",
-    "uuid": "9fe4f887-8d65-4cd9-a15d-fbccad955fb4"
-   },
-   {
     "name": "Kman46778",
     "uuid": "1b8d4c22-2638-4b1f-b821-c629b8d3232a"
    },
@@ -462,6 +438,10 @@
    {
     "name": "sxirencore",
     "uuid": "42f9ee65-9646-48cd-aacf-c7f4c2b1e163"
+   },
+   {
+    "name": "_methseth_",
+    "uuid": "4e0387ac-65c0-44ce-9788-6e7fedb7cadd"
    }
   ],
   "trusted": [
@@ -500,6 +480,10 @@
    {
     "name": "sxirencore",
     "uuid": "42f9ee65-9646-48cd-aacf-c7f4c2b1e163"
+   },
+   {
+    "name": "AkechiCrow",
+    "uuid": "763ff7d4-4de0-478e-8658-ecf3b25fd04e"
    }
   ],
   "outlaws": [
@@ -530,28 +514,8 @@
     "uuid": "8857f52a-05a7-428f-a76d-7ad12ccc4530"
    },
    {
-    "name": "~",
-    "uuid": "12dd64b5-c010-4965-baa4-baf57605950d"
-   },
-   {
-    "name": "Bland Dwelling",
-    "uuid": "1a0c2bc5-0dd0-43cd-8aaf-611d769caf6b"
-   },
-   {
     "name": "Dingy Dwelling",
     "uuid": "d42ad6d3-0823-489e-b9ef-1297483b005d"
-   },
-   {
-    "name": "Lovely Tenement",
-    "uuid": "f5b84056-3e62-4013-b57e-6c8dd5ccd7fd"
-   },
-   {
-    "name": "Cheerful Tenement",
-    "uuid": "e17fdda5-2df7-4957-8f5e-8d35962671b5"
-   },
-   {
-    "name": "Dull Dwelling",
-    "uuid": "250d0b4a-ef80-4c8f-8981-de4d034e9edf"
    },
    {
     "name": "Bland Residence",
@@ -592,10 +556,35 @@
    {
     "name": "Upbeat Apartment",
     "uuid": "b4632e1e-1644-4e8b-945c-14ed1e9056c8"
+   },
+   {
+    "name": "~",
+    "uuid": "12dd64b5-c010-4965-baa4-baf57605950d"
+   },
+   {
+    "name": "Bland Dwelling",
+    "uuid": "1a0c2bc5-0dd0-43cd-8aaf-611d769caf6b"
+   },
+   {
+    "name": "Lovely Tenement",
+    "uuid": "f5b84056-3e62-4013-b57e-6c8dd5ccd7fd"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "e17fdda5-2df7-4957-8f5e-8d35962671b5"
+   },
+   {
+    "name": "Dull Dwelling",
+    "uuid": "250d0b4a-ef80-4c8f-8981-de4d034e9edf"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "AkechiCrow",
+     "uuid": "763ff7d4-4de0-478e-8658-ecf3b25fd04e"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

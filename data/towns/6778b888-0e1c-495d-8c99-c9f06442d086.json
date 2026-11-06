@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Cucuta",
   "uuid": "6778b888-0e1c-495d-8c99-c9f06442d086",
   "board": "Pearl of the Fonce (Ally of Alba)",
   "founder": "Danisupreme428",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/VCevphKE2",
   "mayor": {
    "name": "Danisupreme428",
    "uuid": "02c74cc3-f498-49cb-9fff-9f124b2de3d2"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,15 +92,47 @@
    ],
    "townBlocks": [
     [
+     -1638,
+     314
+    ],
+    [
      -1641,
      314
+    ],
+    [
+     -1638,
+     313
     ],
     [
      -1641,
      313
     ],
     [
+     -1639,
+     312
+    ],
+    [
+     -1641,
+     312
+    ],
+    [
      -1640,
+     312
+    ],
+    [
+     -1640,
+     313
+    ],
+    [
+     -1639,
+     314
+    ],
+    [
+     -1640,
+     314
+    ],
+    [
+     -1639,
      313
     ]
    ],
@@ -110,14 +142,17 @@
    {
     "name": "Danisupreme428",
     "uuid": "02c74cc3-f498-49cb-9fff-9f124b2de3d2"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "Eucrazio",
-    "uuid": "8c5181ac-8b98-4863-b596-79f1a6978246"
+    "name": "Dragons_r__cool",
+    "uuid": "214e8f97-fc27-4118-a8a3-8786451b1d13"
+   },
+   {
+    "name": "XxSeigexX",
+    "uuid": "6f87336f-5897-459b-a11d-e4a7a15610c1"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

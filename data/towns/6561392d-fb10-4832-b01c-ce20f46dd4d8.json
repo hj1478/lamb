@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Larp",
   "uuid": "6561392d-fb10-4832-b01c-ce20f46dd4d8",
-  "board": "/town set board [msg]",
+  "board": "The root of all Larp.",
   "founder": "Azurelogist",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
+   "numResidents": 6,
+   "numTrusted": 3,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -74,26 +74,58 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13085.032055507863,
-    "y": 78.0,
-    "z": 3429.1776549707515,
-    "pitch": 33.350517,
-    "yaw": 3.315979
+    "x": 13063.538654473787,
+    "y": 64.0,
+    "z": 3453.699999988079,
+    "pitch": 53.693615,
+    "yaw": 50.152924
    },
    "homeBlock": [
-    817,
-    214
+    816,
+    215
    ],
    "townBlocks": [
     [
      817,
+     213
+    ],
+    [
+     818,
+     213
+    ],
+    [
+     816,
+     213
+    ],
+    [
+     817,
      214
+    ],
+    [
+     818,
+     214
+    ],
+    [
+     817,
+     215
+    ],
+    [
+     815,
+     214
+    ],
+    [
+     816,
+     214
+    ],
+    [
+     816,
+     215
     ]
    ],
    "worlds": {}
@@ -102,9 +134,33 @@
    {
     "name": "Azurelogist",
     "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+   },
+   {
+    "name": "_cientoveinte",
+    "uuid": "3341a6ef-cc67-40a8-a947-b38cf09d53a0"
+   },
+   {
+    "name": "pampamboys",
+    "uuid": "09e36b41-3790-402a-983c-d51da4938f3b"
+   },
+   {
+    "name": "SMCKKS",
+    "uuid": "683302cb-ebe0-4bb5-b7a1-62478139f1cd"
+   },
+   {
+    "name": "avgspider",
+    "uuid": "e99eb509-6b06-4a86-832f-c04c9b84ef87"
+   },
+   {
+    "name": "Swightzure",
+    "uuid": "c4edfcd2-1143-4a93-9ee1-26435fad06d7"
    }
   ],
   "trusted": [
+   {
+    "name": "Azurelogist",
+    "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+   },
    {
     "name": "Intelligenz",
     "uuid": "e26da781-b8cf-4acc-8084-dcaeb691dc03"
@@ -114,8 +170,42 @@
     "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "XDA4",
+    "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
+   },
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "vikaness",
+    "uuid": "519d7f8a-3410-4520-8fe4-a03524f15a44"
+   },
+   {
+    "name": "Lumpeeh",
+    "uuid": "a03f71f9-625e-419f-9d16-0e5ab50414e4"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Bland Dwelling",
+    "uuid": "be6f70b3-6331-4203-98c8-62b393823dd4"
+   },
+   {
+    "name": "Lovely Tenement",
+    "uuid": "80040f3e-437a-435e-9f00-c9a4e88c7b55"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "7e4357ce-c838-4e7f-977f-6149295f5b01"
+   },
+   {
+    "name": "Perturbing Suite",
+    "uuid": "03c3447b-b1ea-44c9-9d7a-16337ca60872"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

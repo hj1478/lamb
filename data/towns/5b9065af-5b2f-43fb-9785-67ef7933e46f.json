@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Shamdialaa",
   "uuid": "5b9065af-5b2f-43fb-9785-67ef7933e46f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "E1usive_",
-   "uuid": "ccb87bd2-3fa3-47b3-901d-7aca94165399"
+   "name": "Lendishma",
+   "uuid": "b5765324-f6cc-478e-9efc-0af5a13a4b0a"
   },
   "nation": {
    "name": "Arabia",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 108,
+   "numTownBlocks": 118,
    "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 219.0,
+   "balance": 82.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17777.832669810472,
-    "y": 90.0,
-    "z": 2532.6129840049966,
-    "pitch": 5.4116516,
-    "yaw": 74.59978
+    "x": 17805.481733963148,
+    "y": 63.0,
+    "z": 2616.7160414844293,
+    "pitch": 26.411766,
+    "yaw": -5.8002505
    },
    "homeBlock": [
-    1111,
-    158
+    1112,
+    163
    ],
    "townBlocks": [
     [
@@ -348,8 +348,16 @@
      165
     ],
     [
+     1115,
+     166
+    ],
+    [
      1111,
      166
+    ],
+    [
+     1115,
+     165
     ],
     [
      1107,
@@ -392,12 +400,16 @@
      158
     ],
     [
-     1108,
-     159
+     1107,
+     164
     ],
     [
      1107,
      165
+    ],
+    [
+     1108,
+     159
     ],
     [
      1107,
@@ -406,6 +418,10 @@
     [
      1108,
      163
+    ],
+    [
+     1108,
+     164
     ],
     [
      1108,
@@ -432,20 +448,44 @@
      170
     ],
     [
+     1106,
+     167
+    ],
+    [
+     1106,
+     166
+    ],
+    [
      1114,
      155
+    ],
+    [
+     1106,
+     165
     ],
     [
      1114,
      158
     ],
     [
+     1106,
+     170
+    ],
+    [
      1114,
      159
     ],
     [
+     1106,
+     169
+    ],
+    [
      1114,
      156
+    ],
+    [
+     1106,
+     168
     ],
     [
      1114,
@@ -532,12 +572,12 @@
     "uuid": "b5765324-f6cc-478e-9efc-0af5a13a4b0a"
    },
    {
-    "name": "ASmallSandwich",
-    "uuid": "eef2e0af-7f58-483d-a121-c5a15d184c32"
-   },
-   {
     "name": "E1usive_",
     "uuid": "ccb87bd2-3fa3-47b3-901d-7aca94165399"
+   },
+   {
+    "name": "ASmallSandwich",
+    "uuid": "eef2e0af-7f58-483d-a121-c5a15d184c32"
    }
   ],
   "trusted": [],
@@ -546,12 +586,12 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "ASmallSandwich",
-     "uuid": "eef2e0af-7f58-483d-a121-c5a15d184c32"
-    },
-    {
      "name": "E1usive_",
      "uuid": "ccb87bd2-3fa3-47b3-901d-7aca94165399"
+    },
+    {
+     "name": "ASmallSandwich",
+     "uuid": "eef2e0af-7f58-483d-a121-c5a15d184c32"
     }
    ],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Al-Waha",
   "uuid": "6b9acfcd-b5b4-48bf-af83-2a4801b0664b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 17,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 29.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,6 +132,10 @@
      45
     ],
     [
+     1101,
+     45
+    ],
+    [
      1103,
      47
     ],
@@ -203,7 +207,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "RCBladez",
+     "uuid": "c7660f48-b82c-4cbc-9e43-9bc5fac7cbc4"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Rustavi",
   "uuid": "6db56d57-26e0-4889-b777-44b4ef7585b8",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 401,
-   "maxTownBlocks": 400,
+   "maxTownBlocks": 376,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 25,
-   "numTrusted": 18,
+   "numResidents": 23,
+   "numTrusted": 19,
    "numOutlaws": 4,
-   "balance": 315.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1753,8 +1753,8 @@
     "uuid": "a217fa54-4227-4c87-bf5c-afee3ca45fd7"
    },
    {
-    "name": "MoonaTsin",
-    "uuid": "7b513484-4908-433b-afa2-d982874b06c6"
+    "name": "Rio_what22",
+    "uuid": "e135fcc7-28e6-44db-98fc-a72b98f60ec6"
    },
    {
     "name": "Kollynplays1107",
@@ -1773,26 +1773,6 @@
     "uuid": "5f8157e2-8049-4354-a27b-11162ade6971"
    },
    {
-    "name": "thegusdisd",
-    "uuid": "2517b5b5-99df-487c-a93a-a608c114264b"
-   },
-   {
-    "name": "Skeletoar",
-    "uuid": "ded543b7-d819-458b-a72a-b95df912b2a8"
-   },
-   {
-    "name": "Dscheen",
-    "uuid": "f781266a-15b1-455c-a7c3-762dbd2450df"
-   },
-   {
-    "name": "Seescholle",
-    "uuid": "84e44c83-e437-4f1d-94d7-28d993f3eefe"
-   },
-   {
-    "name": "MoinMaxe",
-    "uuid": "3e1e9cb4-c932-4252-883d-f5ce89f078df"
-   },
-   {
     "name": "GeneralKris_",
     "uuid": "b7db81c4-f201-46c1-a59a-c21a514aaf29"
    },
@@ -1803,6 +1783,18 @@
    {
     "name": "NymphSong",
     "uuid": "3d1f4697-a25f-4a4e-94c2-576e0563a81a"
+   },
+   {
+    "name": "Kyriakopoulos",
+    "uuid": "243a74fe-a36a-4fa0-bee5-30bddad480fd"
+   },
+   {
+    "name": "MugambiCG",
+    "uuid": "d09b2b74-7045-46b4-b15c-7cee0202d562"
+   },
+   {
+    "name": "Owled_Femboy",
+    "uuid": "20da9e72-6aba-48e1-b53d-2c94c56603da"
    }
   ],
   "trusted": [
@@ -1871,6 +1863,10 @@
     "uuid": "2e550111-3a98-44ac-b845-532f4b3d9e9d"
    },
    {
+    "name": "aki200",
+    "uuid": "edf0bed2-a852-4875-9f6a-ccf9e1738c9e"
+   },
+   {
     "name": "Pykke",
     "uuid": "86e7a04e-dcb4-4cf4-aaa8-9bd65a7d0af6"
    },
@@ -1933,10 +1929,23 @@
    {
     "name": "Presidential Suite",
     "uuid": "e1853409-637a-4ef5-9d58-53aa9f49ead8"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "f15e1cbd-32b2-4006-8d5e-81fadb9a3550"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "43962399-fd68-4ee1-9816-cdd66453d044"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BoomBoom349",
+     "uuid": "3164b6ca-5af7-4d50-ba44-8a50ea15b2f6"
+    }
+   ],
    "Builder": [
     {
      "name": "karo5801",
@@ -1951,24 +1960,8 @@
      "uuid": "3164b6ca-5af7-4d50-ba44-8a50ea15b2f6"
     },
     {
-     "name": "MoonaTsin",
-     "uuid": "7b513484-4908-433b-afa2-d982874b06c6"
-    },
-    {
      "name": "Nachostyle01",
      "uuid": "652166bc-5434-4e96-a07c-235a31cabab0"
-    },
-    {
-     "name": "thegusdisd",
-     "uuid": "2517b5b5-99df-487c-a93a-a608c114264b"
-    },
-    {
-     "name": "Dscheen",
-     "uuid": "f781266a-15b1-455c-a7c3-762dbd2450df"
-    },
-    {
-     "name": "Seescholle",
-     "uuid": "84e44c83-e437-4f1d-94d7-28d993f3eefe"
     },
     {
      "name": "GeneralKris_",
@@ -2016,26 +2009,14 @@
   "warps": [
    {
     "name": "St",
-    "uuid": "a1d3636d-f060-4ce3-8ff3-7e02ee6998b0",
-    "createdAt": 1788640189111,
+    "uuid": "98293444-47a8-4397-ad5d-62d1967c13f2",
+    "createdAt": 1793959753949,
     "createdBy": "DidiTuxa",
     "access": "NATION",
     "location": {
      "x": 16622,
      "y": 40,
      "z": -7587
-    }
-   },
-   {
-    "name": "AFK",
-    "uuid": "4c698e10-df19-4cb5-8f86-b5dc6c436d85",
-    "createdAt": 1790171243796,
-    "createdBy": "DidiTuxa",
-    "access": "NATION",
-    "location": {
-     "x": 16438,
-     "y": 188,
-     "z": -7593
     }
    }
   ],

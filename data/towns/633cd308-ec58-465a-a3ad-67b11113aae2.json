@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Larochell",
   "uuid": "633cd308-ec58-465a-a3ad-67b11113aae2",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 37.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,30 @@
    "townBlocks": [
     [
      101,
+     -541
+    ],
+    [
+     101,
+     -542
+    ],
+    [
+     101,
+     -543
+    ],
+    [
+     99,
+     -541
+    ],
+    [
+     99,
+     -542
+    ],
+    [
+     100,
+     -541
+    ],
+    [
+     102,
      -542
     ],
     [
@@ -102,6 +126,10 @@
     [
      100,
      -543
+    ],
+    [
+     102,
+     -541
     ]
    ],
    "worlds": {}
@@ -110,9 +138,18 @@
    {
     "name": "AmazingTheo14",
     "uuid": "f0646cb1-9a60-41f8-8161-cba0f09d1765"
+   },
+   {
+    "name": "TheGrandPotato69",
+    "uuid": "e34ded84-306a-42cb-ac89-0a6acf876650"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "TheGrandPotato69",
+    "uuid": "e34ded84-306a-42cb-ac89-0a6acf876650"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

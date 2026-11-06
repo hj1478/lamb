@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Huai_River",
   "uuid": "6339e7c9-dfe6-45a5-a15d-a891de9f79c8",
@@ -12,12 +12,12 @@
    "uuid": "b8dd6a1b-d2df-4fce-bbc6-a015d1f46bfc"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "China",
+   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
   },
   "timestamps": {
    "registered": 1778665201299,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793411565966,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 6,
    "numOutlaws": 2,

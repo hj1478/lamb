@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Como",
   "uuid": "59ae5b0b-3c32-48af-8e9e-aa8989f7d2dd",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "itsZcraft",
-   "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
+   "name": "Otterlune",
+   "uuid": "d8e7f0be-e528-4ce6-bb57-49ef72134acd"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Italy",
+   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
   },
   "timestamps": {
    "registered": 1791003776172,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793528386828,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 44,
-   "maxTownBlocks": 168,
+   "numTownBlocks": 50,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 14,
-   "numTrusted": 3,
-   "numOutlaws": 1,
-   "balance": 16.0,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 2933.494710343921,
+    "x": 2933.486446275355,
     "y": 63.0,
-    "z": -5826.404377000895,
-    "pitch": -7.5000267,
-    "yaw": -179.273
+    "z": -5825.439036468603,
+    "pitch": -13.106381,
+    "yaw": -178.4986
    },
    "homeBlock": [
     183,
@@ -112,6 +112,10 @@
      -362
     ],
     [
+     192,
+     -361
+    ],
+    [
      190,
      -362
     ],
@@ -120,8 +124,68 @@
      -363
     ],
     [
+     190,
+     -361
+    ],
+    [
      184,
      -362
+    ],
+    [
+     185,
+     -364
+    ],
+    [
+     185,
+     -363
+    ],
+    [
+     190,
+     -364
+    ],
+    [
+     185,
+     -365
+    ],
+    [
+     190,
+     -365
+    ],
+    [
+     189,
+     -363
+    ],
+    [
+     189,
+     -364
+    ],
+    [
+     189,
+     -361
+    ],
+    [
+     189,
+     -362
+    ],
+    [
+     182,
+     -365
+    ],
+    [
+     182,
+     -364
+    ],
+    [
+     182,
+     -363
+    ],
+    [
+     182,
+     -362
+    ],
+    [
+     182,
+     -361
     ],
     [
      193,
@@ -129,38 +193,6 @@
     ],
     [
      185,
-     -364
-    ],
-    [
-     185,
-     -363
-    ],
-    [
-     190,
-     -364
-    ],
-    [
-     185,
-     -365
-    ],
-    [
-     190,
-     -365
-    ],
-    [
-     189,
-     -363
-    ],
-    [
-     189,
-     -364
-    ],
-    [
-     185,
-     -362
-    ],
-    [
-     189,
      -362
     ],
     [
@@ -178,6 +210,10 @@
     [
      186,
      -362
+    ],
+    [
+     188,
+     -361
     ],
     [
      191,
@@ -252,20 +288,8 @@
      -362
     ],
     [
-     182,
-     -365
-    ],
-    [
-     182,
-     -364
-    ],
-    [
-     182,
-     -363
-    ],
-    [
-     182,
-     -362
+     191,
+     -361
     ]
    ],
    "worlds": {}
@@ -324,15 +348,11 @@
     "uuid": "1675c32e-a5e1-40d3-a179-ef9b3d323cb6"
    },
    {
-    "name": "itsZcraft",
-    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
+    "name": "RoyalWesley",
+    "uuid": "04cff258-005c-411a-85cc-19a1387a2df2"
    }
   ],
   "trusted": [
-   {
-    "name": "ArsaMC",
-    "uuid": "ce46b4ce-ea31-43c2-b3f5-f6429ae4db9a"
-   },
    {
     "name": "eliteblackskyJ",
     "uuid": "2b3c49c2-eacd-4cd4-b3fe-90b2996c18e1"
@@ -342,12 +362,7 @@
     "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
    }
   ],
-  "outlaws": [
-   {
-    "name": "Baviera_III",
-    "uuid": "0733843f-4cbe-42d6-a820-5e84ef159e32"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [

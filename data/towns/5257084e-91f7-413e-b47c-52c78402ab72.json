@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Palio_Soufli",
   "uuid": "5257084e-91f7-413e-b47c-52c78402ab72",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 4.0,
    "forSalePrice": null
@@ -182,27 +182,13 @@
    {
     "name": "Manos_421",
     "uuid": "252fa0ce-60b7-4bd5-af75-6c0cb141fd49"
-   },
-   {
-    "name": "JoKeRlArIoS",
-    "uuid": "50d16b93-7a9c-4050-b934-faa32e79a71a"
    }
   ],
-  "trusted": [
-   {
-    "name": "JoKeRlArIoS",
-    "uuid": "50d16b93-7a9c-4050-b934-faa32e79a71a"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "JoKeRlArIoS",
-     "uuid": "50d16b93-7a9c-4050-b934-faa32e79a71a"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

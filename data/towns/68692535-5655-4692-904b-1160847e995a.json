@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
-  "name": "Stoner_Town",
-  "uuid": "6e743c41-18c7-4ae6-9234-8737afbbe3ad",
+  "name": "SmilynVille",
+  "uuid": "68692535-5655-4692-904b-1160847e995a",
   "board": "/town set board [msg]",
-  "founder": "VendingMachine7",
+  "founder": "Carolyn4343",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "VendingMachine7",
-   "uuid": "290f3209-6ebb-4402-b6f2-1ea0ffef7f5b"
+   "name": "Carolyn4343",
+   "uuid": "d8ca981f-fd38-4f66-8393-339d5c825c1f"
   },
   "nation": {
-   "name": "Sakha_Republic",
-   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
-   "registered": 1793037790160,
-   "joinedNationAt": 1793038238411,
+   "registered": 1793936415419,
+   "joinedNationAt": 1793936485070,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 38.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,47 +80,40 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43287.678190992614,
-    "y": 63.0,
-    "z": -18570.770385121286,
-    "pitch": 15.192133,
-    "yaw": -147.852
+    "x": -30614.27000312334,
+    "y": 65.0,
+    "z": -10613.827222678972,
+    "pitch": 28.349894,
+    "yaw": 158.77429
    },
    "homeBlock": [
-    2705,
-    -1161
+    -1914,
+    -664
    ],
    "townBlocks": [
     [
-     2705,
-     -1161
-    ],
-    [
-     2705,
-     -1160
-    ],
-    [
-     2706,
-     -1160
-    ],
-    [
-     2705,
-     -1162
-    ],
-    [
-     2706,
-     -1161
+     -1914,
+     -664
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "VendingMachine7",
-    "uuid": "290f3209-6ebb-4402-b6f2-1ea0ffef7f5b"
+    "name": "Carolyn4343",
+    "uuid": "d8ca981f-fd38-4f66-8393-339d5c825c1f"
+   },
+   {
+    "name": "Smilers82",
+    "uuid": "dab219ea-65a2-496f-9be6-7b306eebdc27"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Smilers82",
+    "uuid": "dab219ea-65a2-496f-9be6-7b306eebdc27"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

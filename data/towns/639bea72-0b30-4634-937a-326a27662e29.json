@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Gulf",
   "uuid": "639bea72-0b30-4634-937a-326a27662e29",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 30.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -218,6 +218,10 @@
    {
     "name": "Susloth",
     "uuid": "31d9a961-58b7-430e-abcb-161f10b363ca"
+   },
+   {
+    "name": "jLimone_",
+    "uuid": "d2c4a8d8-9c54-436b-a7e4-3dddc5d00bc1"
    }
   ],
   "trusted": [],

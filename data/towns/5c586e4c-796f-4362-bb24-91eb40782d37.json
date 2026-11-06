@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T13:07:21Z",
+ "fetched_at": "2026-11-06T14:23:54Z",
  "data": {
   "name": "Resolute",
   "uuid": "5c586e4c-796f-4362-bb24-91eb40782d37",
@@ -31,18 +31,18 @@
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
-   "hasSnowAccumulation": true,
+   "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 29,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 36,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 606.0,
+   "balance": 462.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,26 @@
    "townBlocks": [
     [
      -1937,
+     -1857
+    ],
+    [
+     -1937,
+     -1858
+    ],
+    [
+     -1936,
+     -1858
+    ],
+    [
+     -1937,
+     -1859
+    ],
+    [
+     -1936,
+     -1857
+    ],
+    [
+     -1937,
      -1860
     ],
     [
@@ -101,11 +121,19 @@
     ],
     [
      -1936,
-     -1862
+     -1860
+    ],
+    [
+     -1936,
+     -1859
     ],
     [
      -1940,
      -1861
+    ],
+    [
+     -1936,
+     -1864
     ],
     [
      -1940,
@@ -212,10 +240,6 @@
   },
   "residents": [
    {
-    "name": "code_tempesterss",
-    "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
-   },
-   {
     "name": "TheLuffy123",
     "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
    },
@@ -232,6 +256,10 @@
    {
     "name": "TheLuffy123",
     "uuid": "f96786bf-5bbe-4e8c-9b1b-7c01d1520041"
+   },
+   {
+    "name": "code_tempesterss",
+    "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
    }
   ],
   "outlaws": [],
@@ -245,25 +273,16 @@
     "uuid": "f530a717-b43b-426a-b8de-1682f0bf10a8"
    },
    {
-    "name": "Enraging Flat",
-    "uuid": "b2057147-9fab-4941-b7f0-9a3cf279d127"
-   },
-   {
     "name": "Annoying Suite",
     "uuid": "78372f07-5924-4972-a204-a29d4fed50db"
    },
    {
-    "name": "Elegant Flat",
-    "uuid": "de0fcd45-84f7-43a8-bac6-4138bc5aa27d"
+    "name": "Gloomy Flat",
+    "uuid": "e8a581ea-3ac8-47ce-8359-93e6b6507b5b"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "code_tempesterss",
-     "uuid": "5455ceb3-5ad2-4ab8-9367-81606b65c683"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
