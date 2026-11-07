@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Adama",
   "uuid": "7a932161-5d44-4d44-9e6d-f461670aac5b",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 9,
+   "numTrusted": 10,
    "numOutlaws": 4,
-   "balance": 84.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -268,6 +268,10 @@
    {
     "name": "Omniation",
     "uuid": "e9e87277-697f-49f3-88ec-a68fd1e6f1ed"
+   },
+   {
+    "name": "Arekushisus",
+    "uuid": "fdc41955-60b9-432c-ade5-780de697c9a0"
    },
    {
     "name": "NestleBad",

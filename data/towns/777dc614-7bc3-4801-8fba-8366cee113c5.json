@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Le_Port",
   "uuid": "777dc614-7bc3-4801-8fba-8366cee113c5",
@@ -35,25 +35,25 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
@@ -92,7 +92,27 @@
    ],
    "townBlocks": [
     [
-     1237,
+     1239,
+     978
+    ],
+    [
+     1239,
+     979
+    ],
+    [
+     1239,
+     976
+    ],
+    [
+     1239,
+     977
+    ],
+    [
+     1238,
+     980
+    ],
+    [
+     1238,
      979
     ],
     [
@@ -100,40 +120,32 @@
      978
     ],
     [
-     1239,
-     978
+     1237,
+     979
+    ],
+    [
+     1238,
+     977
     ],
     [
      1237,
      980
     ],
     [
-     1238,
-     977
-    ],
-    [
-     1239,
-     979
-    ],
-    [
      1237,
      978
-    ],
-    [
-     1239,
-     977
     ],
     [
      1240,
      978
     ],
     [
-     1238,
-     980
+     1240,
+     977
     ],
     [
-     1238,
-     979
+     1240,
+     976
     ]
    ],
    "worlds": {}
@@ -142,6 +154,10 @@
    {
     "name": "FlambynoLeVrai",
     "uuid": "460c82aa-0829-43ed-9a5c-27934331b261"
+   },
+   {
+    "name": "astrafcn",
+    "uuid": "9f5b714c-f698-4a4c-b6a4-d0a11427dd37"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Salta",
   "uuid": "830f40fb-311e-4e77-adda-aa3ed5971541",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7439.671038544688,
-    "y": -25.0,
-    "z": -4666.349858762215,
-    "pitch": 65.25003,
-    "yaw": 175.56897
+    "x": 7431.921839109359,
+    "y": -8.0,
+    "z": -4659.304074705224,
+    "pitch": 2.1000252,
+    "yaw": -179.33203
    },
    "homeBlock": [
     464,
@@ -94,6 +94,14 @@
     [
      464,
      -292
+    ],
+    [
+     464,
+     -291
+    ],
+    [
+     464,
+     -290
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "New_Moscow",
   "uuid": "74c4e874-b348-4804-a146-c8e1f5ae8fd7",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791507485625,
-   "joinedNationAt": 1791507581882,
+   "joinedNationAt": 1793831183020,
    "ruinedAt": null
   },
   "status": {
@@ -32,17 +32,17 @@
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
-   "hasFriendlyFire": false
+   "hasFriendlyFire": true
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 15,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 10,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -97,6 +97,10 @@
     ],
     [
      -1254,
+     -658
+    ],
+    [
+     -1254,
      -655
     ],
     [
@@ -104,40 +108,60 @@
      -656
     ],
     [
-     -1255,
-     -655
-    ],
-    [
-     -1255,
-     -656
-    ],
-    [
-     -1256,
-     -656
-    ],
-    [
-     -1255,
-     -657
-    ],
-    [
-     -1256,
+     -1257,
      -657
     ],
     [
      -1257,
      -656
+    ],
+    [
+     -1257,
+     -655
+    ],
+    [
+     -1255,
+     -655
+    ],
+    [
+     -1256,
+     -658
+    ],
+    [
+     -1255,
+     -656
+    ],
+    [
+     -1256,
+     -656
+    ],
+    [
+     -1255,
+     -657
+    ],
+    [
+     -1256,
+     -657
+    ],
+    [
+     -1255,
+     -658
+    ],
+    [
+     -1256,
+     -655
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "LukyTuky",
-    "uuid": "096a55da-0d01-443f-a2b9-e2212188dbc4"
-   },
-   {
     "name": "JAQE123123",
     "uuid": "a78f0acd-c863-493d-b614-35fce8f20fae"
+   },
+   {
+    "name": "leevers",
+    "uuid": "30e58731-89ed-4826-ba50-dcafd8e2c3d6"
    }
   ],
   "trusted": [

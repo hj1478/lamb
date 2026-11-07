@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Foreman",
   "uuid": "899f879a-53dd-4c16-92fa-489719a7daf0",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JirKac24",
-   "uuid": "fd42b43a-7b2d-4086-bff5-f0bd5ad69c8e"
+   "name": "NPC7",
+   "uuid": "87dba7ef-b3db-207b-9023-d7911fc2f225"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789902130801,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794045603539
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -124,8 +124,8 @@
   },
   "residents": [
    {
-    "name": "JirKac24",
-    "uuid": "fd42b43a-7b2d-4086-bff5-f0bd5ad69c8e"
+    "name": "NPC7",
+    "uuid": "87dba7ef-b3db-207b-9023-d7911fc2f225"
    }
   ],
   "trusted": [],

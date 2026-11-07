@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Ganzir",
   "uuid": "83daea3e-9db2-4b69-9bb4-542f037d52e5",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 71,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
+   "nationBonus": 50,
+   "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 4,
+   "numOutlaws": 2,
    "balance": 220.0,
    "forSalePrice": null
   },
@@ -382,10 +382,6 @@
    {
     "name": "Hmanth",
     "uuid": "8749d5f1-a4a5-4e58-9dfd-e45314c8d319"
-   },
-   {
-    "name": "KelvinBidoof",
-    "uuid": "4340ddff-42e8-4886-9a8d-6c5cbe4be7cc"
    }
   ],
   "trusted": [
@@ -396,31 +392,18 @@
   ],
   "outlaws": [
    {
-    "name": "Continentalia",
-    "uuid": "2c1f0bd5-f870-414d-9231-9084b270d6a9"
-   },
-   {
     "name": "2DFemboy",
     "uuid": "7566926c-b501-46d2-b0bc-d2ea78d709d1"
    },
    {
     "name": "EdDington102",
     "uuid": "0c53362e-3da6-49b9-82a6-53b4bccfc74a"
-   },
-   {
-    "name": "Aria_Lynn_Mo",
-    "uuid": "40fe0c2b-4bca-4fd0-ba79-fe3524a4e6fb"
    }
   ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "KelvinBidoof",
-     "uuid": "4340ddff-42e8-4886-9a8d-6c5cbe4be7cc"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

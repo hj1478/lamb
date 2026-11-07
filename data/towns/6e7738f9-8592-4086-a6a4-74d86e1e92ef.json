@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "WenZhou",
   "uuid": "6e7738f9-8592-4086-a6a4-74d86e1e92ef",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 44,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -180,6 +180,10 @@
      -140
     ],
     [
+     2708,
+     -144
+    ],
+    [
      2705,
      -142
     ],
@@ -206,6 +210,10 @@
     [
      2706,
      -143
+    ],
+    [
+     2708,
+     -145
     ],
     [
      2706,
@@ -245,7 +253,19 @@
     ],
     [
      2709,
+     -143
+    ],
+    [
+     2710,
      -141
+    ],
+    [
+     2709,
+     -141
+    ],
+    [
+     2710,
+     -142
     ]
    ],
    "worlds": {}
@@ -258,6 +278,10 @@
    {
     "name": "_bit__",
     "uuid": "ded992ed-ee96-4000-9446-00e468f7169e"
+   },
+   {
+    "name": "danielsawas",
+    "uuid": "989d20b3-6147-4fb8-ad53-4322be5de173"
    }
   ],
   "trusted": [
@@ -268,6 +292,10 @@
    {
     "name": "Venti3",
     "uuid": "911e9f55-36c7-4925-8032-5261d17ef04f"
+   },
+   {
+    "name": "danielsawas",
+    "uuid": "989d20b3-6147-4fb8-ad53-4322be5de173"
    }
   ],
   "outlaws": [],

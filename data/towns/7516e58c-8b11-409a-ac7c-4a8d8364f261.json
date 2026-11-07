@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "West_Berlin",
   "uuid": "7516e58c-8b11-409a-ac7c-4a8d8364f261",
@@ -12,12 +12,12 @@
    "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": "Bavaria",
+   "uuid": "b890b11b-e1bf-4e0e-9f70-9eaea9a6772a"
   },
   "timestamps": {
    "registered": 1781078566450,
-   "joinedNationAt": 1793181967960,
+   "joinedNationAt": 1794033332626,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 167,
-   "maxTownBlocks": 388,
+   "maxTownBlocks": 330,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 24,
+   "nationBonus": 30,
+   "numResidents": 25,
    "numTrusted": 7,
-   "numOutlaws": 6,
-   "balance": 10.0,
+   "numOutlaws": 5,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -780,10 +780,6 @@
     "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
    },
    {
-    "name": "C_crew06",
-    "uuid": "2ecd9888-5a20-4d96-816e-8705e815b0c4"
-   },
-   {
     "name": "Wenyuiron",
     "uuid": "e8ae2af1-6587-4543-bdf9-0b444f579367"
    },
@@ -858,6 +854,14 @@
    {
     "name": "DinoAstronaut10",
     "uuid": "7786bf26-e1fc-46c1-a122-fec3ecf1eb11"
+   },
+   {
+    "name": "KindaSalt",
+    "uuid": "33efa0c9-1244-414b-afde-9e5742746ffc"
+   },
+   {
+    "name": "Girifth",
+    "uuid": "07b679a4-66b5-4118-8869-12bf823fa784"
    }
   ],
   "trusted": [
@@ -894,10 +898,6 @@
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
-   },
-   {
-    "name": "DisasterRoyal346",
-    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
    },
    {
     "name": "thebestLung",

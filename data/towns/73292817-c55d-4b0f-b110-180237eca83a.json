@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Hokkyo",
   "uuid": "73292817-c55d-4b0f-b110-180237eca83a",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 84,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "numResidents": 4,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 461.0,
+   "balance": 421.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40068.69673812928,
+    "x": 40072.55808440057,
     "y": 63.0,
-    "z": 7331.8693012826925,
-    "pitch": 21.476896,
-    "yaw": -92.29241
+    "z": 7329.563983071363,
+    "pitch": -0.6104325,
+    "yaw": -89.96813
    },
    "homeBlock": [
     2504,
@@ -244,20 +244,20 @@
      457
     ],
     [
-     2519,
-     456
-    ],
-    [
      2506,
      455
     ],
     [
      2519,
-     457
+     456
     ],
     [
      2506,
      454
+    ],
+    [
+     2519,
+     457
     ],
     [
      2506,
@@ -328,12 +328,12 @@
      454
     ],
     [
-     2510,
-     458
-    ],
-    [
      2508,
      453
+    ],
+    [
+     2510,
+     458
     ],
     [
      2508,
@@ -396,14 +396,14 @@
      455
     ],
     [
-     2517,
-     456
-    ],
-    [
      2514,
      455
     ],
     [
+     2517,
+     456
+    ],
+    [
      2513,
      456
     ],
@@ -412,12 +412,12 @@
      455
     ],
     [
-     2513,
-     458
-    ],
-    [
      2506,
      453
+    ],
+    [
+     2513,
+     458
     ],
     [
      2513,
@@ -438,6 +438,14 @@
    {
     "name": "Felika_",
     "uuid": "836190ca-3066-4b8f-baf8-e14d80055f7b"
+   },
+   {
+    "name": "NightWaniel_II",
+    "uuid": "8cbc3a4f-b052-42b0-8f47-de31f5258610"
+   },
+   {
+    "name": "alcoholBurner",
+    "uuid": "a272ef98-24ea-4341-81b8-c8dfbe4c909c"
    }
   ],
   "trusted": [
@@ -446,12 +454,24 @@
     "uuid": "ac8b53be-00f6-4420-8488-e8813d11275b"
    },
    {
+    "name": "NightWaniel_II",
+    "uuid": "8cbc3a4f-b052-42b0-8f47-de31f5258610"
+   },
+   {
+    "name": "alcoholBurner",
+    "uuid": "a272ef98-24ea-4341-81b8-c8dfbe4c909c"
+   },
+   {
     "name": "Felika_",
     "uuid": "836190ca-3066-4b8f-baf8-e14d80055f7b"
    },
    {
     "name": "Cheun_lau",
     "uuid": "ea6d8978-cbf4-4d4f-9db8-e1adb9badbba"
+   },
+   {
+    "name": "sasilsang",
+    "uuid": "ee0a4dc9-049d-4b10-be99-537db656bcb2"
    }
   ],
   "outlaws": [],

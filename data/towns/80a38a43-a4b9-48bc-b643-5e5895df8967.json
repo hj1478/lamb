@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "TDSRealm",
   "uuid": "80a38a43-a4b9-48bc-b643-5e5895df8967",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "koolkidbruhs",
-   "uuid": "0ee70252-2b9d-4857-8e00-e7c781f8081b"
+   "name": "NPC10",
+   "uuid": "6f2cd447-175a-20a3-9d48-67fa7bd0ccb8"
   },
   "nation": {
-   "name": "Canada",
-   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785205931762,
-   "joinedNationAt": 1788843458181,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794045600976
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -168,8 +168,8 @@
   },
   "residents": [
    {
-    "name": "koolkidbruhs",
-    "uuid": "0ee70252-2b9d-4857-8e00-e7c781f8081b"
+    "name": "NPC10",
+    "uuid": "6f2cd447-175a-20a3-9d48-67fa7bd0ccb8"
    }
   ],
   "trusted": [],
@@ -177,12 +177,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "koolkidbruhs",
-     "uuid": "0ee70252-2b9d-4857-8e00-e7c781f8081b"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

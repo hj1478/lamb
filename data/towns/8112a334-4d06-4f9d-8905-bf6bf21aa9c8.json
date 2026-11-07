@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Mantiqueira",
   "uuid": "8112a334-4d06-4f9d-8905-bf6bf21aa9c8",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -136,6 +136,10 @@
      1012
     ],
     [
+     -1008,
+     1009
+    ],
+    [
      -1007,
      1010
     ],
@@ -174,6 +178,10 @@
    {
     "name": "PS_GOAT",
     "uuid": "e5658c88-5459-4252-aa39-d809add532a7"
+   },
+   {
+    "name": "Brutogame",
+    "uuid": "79c5f076-d3db-4d14-ba4e-f638a041325b"
    }
   ],
   "trusted": [],

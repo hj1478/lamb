@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "GayVille",
+  "name": "Victinis_Dentist",
   "uuid": "79d143fa-59f3-48e1-ae98-616452d16c50",
   "board": "/town set board [msg]",
   "founder": "Faisalisabeast",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Faisalisabeast",
-   "uuid": "a5db35a0-d135-489b-9dec-3f437c602380"
+   "name": "NPC90",
+   "uuid": "23e15cfa-8ec1-20e0-bd1e-e92ed058c24a"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793667303026,
-   "joinedNationAt": 1793667312337,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793846449032
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,44 +47,44 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3342.170993973445,
+    "x": 3341.3212297567743,
     "y": 69.0,
-    "z": -11933.275294699091,
-    "pitch": 47.196693,
-    "yaw": 15.176758
+    "z": -11933.19292506502,
+    "pitch": 1.896692,
+    "yaw": 3.0267777
    },
    "homeBlock": [
     208,
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Faisalisabeast",
-    "uuid": "a5db35a0-d135-489b-9dec-3f437c602380"
+    "name": "NPC90",
+    "uuid": "23e15cfa-8ec1-20e0-bd1e-e92ed058c24a"
    }
   ],
   "trusted": [],

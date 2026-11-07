@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Sippar",
   "uuid": "84198421-fb1d-4cfc-bd65-d06567e201bc",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "watersky7034",
-   "uuid": "973ce763-d0f8-4899-9c96-b3b7324f7128"
+   "name": "NPC52",
+   "uuid": "b7db11f3-cf87-2048-adf1-64cb87570754"
   },
   "nation": {
-   "name": "Sumer",
-   "uuid": "bfb0b0ce-26c6-492e-a161-4a3f86079da8"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792857600856,
-   "joinedNationAt": 1792857865911,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793834914426
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "watersky7034",
-    "uuid": "973ce763-d0f8-4899-9c96-b3b7324f7128"
+    "name": "NPC52",
+    "uuid": "b7db11f3-cf87-2048-adf1-64cb87570754"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Socorro_Polaco",
   "uuid": "7c07755e-83f8-4e32-8388-e014f3ec2669",
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -40,10 +40,10 @@
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 2,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
-   "forSalePrice": 50.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -321,6 +321,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "7unc",
+    "uuid": "0fe8a434-7d9f-4633-8774-98309fc03465"
+   },
    {
     "name": "Kyle_Bordeaux",
     "uuid": "c48452d7-14fa-45ca-8c8d-00a230b05952"

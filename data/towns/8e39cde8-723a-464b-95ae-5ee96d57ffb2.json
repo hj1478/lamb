@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Baldurs_Gate",
   "uuid": "8e39cde8-723a-464b-95ae-5ee96d57ffb2",
@@ -8,20 +8,20 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kokorasa",
-   "uuid": "7bc964ba-40fc-44f3-8b43-f05da5746b09"
+   "name": "kokorogasuki",
+   "uuid": "05f316a1-5ff7-4e3c-98b1-cb9ba7301e16"
   },
   "nation": {
-   "name": "PRC",
-   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
+   "name": "Japan",
+   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
   },
   "timestamps": {
    "registered": 1779127032575,
-   "joinedNationAt": 1779127056975,
+   "joinedNationAt": 1793710648491,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 62,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 4,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41896.42533747064,
-    "y": 56.875,
-    "z": -5794.562764983626,
-    "pitch": 22.661465,
-    "yaw": -83.790955
+    "x": 41952.34656465583,
+    "y": 63.0,
+    "z": -5884.107811830112,
+    "pitch": 43.79982,
+    "yaw": -33.245636
    },
    "homeBlock": [
-    2618,
-    -363
+    2622,
+    -368
    ],
    "townBlocks": [
     [
@@ -344,42 +344,27 @@
   },
   "residents": [
    {
-    "name": "Kokorasa",
-    "uuid": "7bc964ba-40fc-44f3-8b43-f05da5746b09"
-   },
-   {
-    "name": "Karinto2929",
-    "uuid": "67bdb0d8-e411-4ce2-a0c9-d4c9e4f2c615"
-   },
-   {
-    "name": "moslink",
-    "uuid": "fd5102bf-2262-4012-a2e5-3ee0b30e3d63"
-   },
-   {
-    "name": "Franci1907",
-    "uuid": "a5ece66d-6601-4bc7-9af2-e0afbe18b4d0"
+    "name": "kokorogasuki",
+    "uuid": "05f316a1-5ff7-4e3c-98b1-cb9ba7301e16"
    }
   ],
   "trusted": [
    {
-    "name": "Feibai_",
-    "uuid": "dc0e63a1-4ba0-4ec0-b819-863d1c94e03e"
+    "name": "Franci1907",
+    "uuid": "a5ece66d-6601-4bc7-9af2-e0afbe18b4d0"
    },
    {
-    "name": "rivllon",
-    "uuid": "2a437e3c-8179-4c1e-9810-95b31869a6f1"
-   },
-   {
-    "name": "TimeSpace_ZONE",
-    "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
-   },
-   {
-    "name": "He_j1an",
-    "uuid": "8abc610f-b62c-442e-994d-bab35e37e923"
+    "name": "HenrySP9506",
+    "uuid": "1983707b-bc77-49e9-8930-994c959d1e78"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Annoying Residence",
+    "uuid": "7e8f1443-3f1b-4288-aa51-8d59ea624c81"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

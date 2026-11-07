@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "OMV_Dijiang",
   "uuid": "741a8aab-a83e-4689-9267-e20946cb2bde",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ji_mo",
-   "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+   "name": "Diamond101Lady",
+   "uuid": "f00e2e80-1580-478e-9c2a-96ab9815366f"
   },
   "nation": {
    "name": "Ming",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 39,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 41,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 14,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 368.0,
    "forSalePrice": null
   },
   "perms": {
@@ -145,6 +145,10 @@
     ],
     [
      2365,
+     -134
+    ],
+    [
+     2365,
      -133
     ],
     [
@@ -216,6 +220,10 @@
      -131
     ],
     [
+     2364,
+     -134
+    ],
+    [
      2361,
      -133
     ],
@@ -254,6 +262,10 @@
    {
     "name": "ji_mo",
     "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+   },
+   {
+    "name": "Diamond101Lady",
+    "uuid": "f00e2e80-1580-478e-9c2a-96ab9815366f"
    }
   ],
   "trusted": [
@@ -317,7 +329,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ji_mo",
+     "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

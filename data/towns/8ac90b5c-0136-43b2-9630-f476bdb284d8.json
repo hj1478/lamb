@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Murdochville",
   "uuid": "8ac90b5c-0136-43b2-9630-f476bdb284d8",
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 9,
    "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -93,11 +93,39 @@
    "townBlocks": [
     [
      -1452,
+     -697
+    ],
+    [
+     -1452,
      -698
+    ],
+    [
+     -1453,
+     -696
+    ],
+    [
+     -1451,
+     -696
+    ],
+    [
+     -1451,
+     -697
+    ],
+    [
+     -1452,
+     -696
     ],
     [
      -1451,
      -698
+    ],
+    [
+     -1453,
+     -698
+    ],
+    [
+     -1453,
+     -697
     ]
    ],
    "worlds": {}
@@ -121,7 +149,12 @@
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "FriendZoner69",
+     "uuid": "549425f8-0902-4660-a4c7-26a42f47cb31"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

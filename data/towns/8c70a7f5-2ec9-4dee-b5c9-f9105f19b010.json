@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Epsteintopia",
   "uuid": "8c70a7f5-2ec9-4dee-b5c9-f9105f19b010",
@@ -12,12 +12,12 @@
    "uuid": "9b82a0ba-7891-425f-b6b4-5fe3dac4fb7d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Bali",
+   "uuid": "c6dc20db-29ce-4151-9f6a-4194011e3a2f"
   },
   "timestamps": {
    "registered": 1793898205042,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794052992691,
    "ruinedAt": null
   },
   "status": {
@@ -28,47 +28,47 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 60,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 102,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 5,
-   "numTrusted": 0,
+   "nationBonus": 30,
+   "numResidents": 6,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 57.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
     "pvp": false,
@@ -100,6 +100,10 @@
      630
     ],
     [
+     2699,
+     633
+    ],
+    [
      2698,
      631
     ],
@@ -116,8 +120,20 @@
      632
     ],
     [
+     2698,
+     633
+    ],
+    [
      2697,
      631
+    ],
+    [
+     2697,
+     632
+    ],
+    [
+     2697,
+     633
     ]
    ],
    "worlds": {}
@@ -142,9 +158,18 @@
    {
     "name": "22AP",
     "uuid": "10c2bf7e-a68b-40df-9c00-8e8176c1d8a1"
+   },
+   {
+    "name": "razzic",
+    "uuid": "776db989-52a8-4962-b0c8-45b34ff86255"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Jaston",
+    "uuid": "c53edd0e-655e-46e6-b18f-3ff9af92d8b7"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

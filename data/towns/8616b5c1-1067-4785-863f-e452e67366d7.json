@@ -1,0 +1,144 @@
+{
+ "fetched_at": "2026-11-07T13:14:26Z",
+ "data": {
+  "name": "Larpland",
+  "uuid": "8616b5c1-1067-4785-863f-e452e67366d7",
+  "board": "/town set board [msg]",
+  "founder": "ESKISEHIRLI",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "ESKISEHIRLI",
+   "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
+  },
+  "nation": {
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+  },
+  "timestamps": {
+   "registered": 1793984747827,
+   "joinedNationAt": 1794044003911,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 4,
+   "maxTownBlocks": 124,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -33768.30471198611,
+    "y": 64.0,
+    "z": -7224.048157479538,
+    "pitch": 12.583312,
+    "yaw": -2.926422
+   },
+   "homeBlock": [
+    -2111,
+    -452
+   ],
+   "townBlocks": [
+    [
+     -2112,
+     -453
+    ],
+    [
+     -2111,
+     -453
+    ],
+    [
+     -2111,
+     -452
+    ],
+    [
+     -2112,
+     -452
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "ESKISEHIRLI",
+    "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
+   },
+   {
+    "name": "Orjinal",
+    "uuid": "123e0ea7-cc4d-4126-a868-d0029ff8ddab"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "Orjinal",
+     "uuid": "123e0ea7-cc4d-4126-a868-d0029ff8ddab"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

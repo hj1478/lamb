@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Tuvan",
   "uuid": "86997501-7915-470e-bf99-af25ff4b57a1",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 63,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 8,
-   "numTrusted": 8,
-   "numOutlaws": 3,
+   "numResidents": 4,
+   "numTrusted": 3,
+   "numOutlaws": 2,
    "balance": 34.0,
    "forSalePrice": null
   },
@@ -352,16 +352,8 @@
     "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
    },
    {
-    "name": "xEternalEclipse",
-    "uuid": "117e16c1-5bc4-46e7-a142-4da8b30b912f"
-   },
-   {
     "name": "lowtier3qd",
     "uuid": "315dc992-5297-4fba-a8d8-2626da16f105"
-   },
-   {
-    "name": "ShebaIsInsane",
-    "uuid": "f4a979a3-3c38-4fc7-b7ba-a5711b916afd"
    },
    {
     "name": "__N3xus___",
@@ -370,14 +362,6 @@
    {
     "name": "RubyNet",
     "uuid": "f49b946a-b8af-4323-ba2f-d1873bfba45f"
-   },
-   {
-    "name": "rojusltu",
-    "uuid": "faade5fe-0020-4c75-baec-db14305bcfa4"
-   },
-   {
-    "name": "PikaPeeko",
-    "uuid": "586d66c2-58ac-432d-8373-e0bf6f10f4eb"
    }
   ],
   "trusted": [
@@ -386,39 +370,15 @@
     "uuid": "f49b946a-b8af-4323-ba2f-d1873bfba45f"
    },
    {
-    "name": "rojusltu",
-    "uuid": "faade5fe-0020-4c75-baec-db14305bcfa4"
-   },
-   {
-    "name": "ShebaIsInsane",
-    "uuid": "f4a979a3-3c38-4fc7-b7ba-a5711b916afd"
-   },
-   {
-    "name": "xEternalEclipse",
-    "uuid": "117e16c1-5bc4-46e7-a142-4da8b30b912f"
-   },
-   {
     "name": "__N3xus___",
     "uuid": "b1a362d4-349c-4d77-a370-4873fb83519f"
    },
    {
-    "name": "SubToAkio",
-    "uuid": "63ffc900-8071-4508-96a5-58432c8f3b9a"
-   },
-   {
     "name": "Martin9095",
     "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
-   },
-   {
-    "name": "PikaPeeko",
-    "uuid": "586d66c2-58ac-432d-8373-e0bf6f10f4eb"
    }
   ],
   "outlaws": [
-   {
-    "name": "Yantacrus",
-    "uuid": "892b1f2a-1004-4ecd-978e-435a3215aa02"
-   },
    {
     "name": "TheThingERM",
     "uuid": "bca7fa63-2b42-4376-baaa-4b1c621bad27"
@@ -436,24 +396,11 @@
      "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
     },
     {
-     "name": "xEternalEclipse",
-     "uuid": "117e16c1-5bc4-46e7-a142-4da8b30b912f"
-    },
-    {
-     "name": "ShebaIsInsane",
-     "uuid": "f4a979a3-3c38-4fc7-b7ba-a5711b916afd"
-    },
-    {
      "name": "RubyNet",
      "uuid": "f49b946a-b8af-4323-ba2f-d1873bfba45f"
     }
    ],
-   "Builder": [
-    {
-     "name": "ShebaIsInsane",
-     "uuid": "f4a979a3-3c38-4fc7-b7ba-a5711b916afd"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

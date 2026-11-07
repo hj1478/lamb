@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Takeshima",
   "uuid": "76022ce6-d1dd-4278-b59a-7a09960e3965",
@@ -8,37 +8,37 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "channaga317",
-   "uuid": "1b2b25ac-5908-4a73-8527-09e06b0d77d0"
+   "name": "NPC91",
+   "uuid": "3fd02d60-76c1-205f-9157-2bc3cec7c8ca"
   },
   "nation": {
-   "name": "Hokkaido",
-   "uuid": "1b0372fe-6f27-4b06-a6e9-e5b5c90e6e72"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793688372164,
-   "joinedNationAt": 1793688480770,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793851998756
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     2952,
+     -377
+    ],
+    [
+     2952,
+     -376
+    ],
+    [
+     2953,
+     -376
+    ],
+    [
+     2951,
+     -377
+    ],
+    [
      2951,
      -376
     ]
@@ -100,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "channaga317",
-    "uuid": "1b2b25ac-5908-4a73-8527-09e06b0d77d0"
+    "name": "NPC91",
+    "uuid": "3fd02d60-76c1-205f-9157-2bc3cec7c8ca"
    }
   ],
   "trusted": [

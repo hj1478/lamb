@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Serra_Da_Estrela",
   "uuid": "7298c4d3-7da7-40b9-9960-9a96191f4d60",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 32,
+   "numTownBlocks": 38,
    "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 3,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2693.404750917871,
-    "y": 74.0,
-    "z": -7177.01381165202,
-    "pitch": 3.450086,
-    "yaw": 105.51514
+    "x": -2679.558305181494,
+    "y": 37.0,
+    "z": -7266.509387981882,
+    "pitch": 0.7499938,
+    "yaw": -3.6850467
    },
    "homeBlock": [
-    -169,
-    -449
+    -168,
+    -455
    ],
    "townBlocks": [
     [
@@ -112,6 +112,22 @@
      -450
     ],
     [
+     -169,
+     -455
+    ],
+    [
+     -168,
+     -456
+    ],
+    [
+     -169,
+     -456
+    ],
+    [
+     -168,
+     -455
+    ],
+    [
      -168,
      -454
     ],
@@ -196,6 +212,10 @@
      -454
     ],
     [
+     -165,
+     -455
+    ],
+    [
      -167,
      -453
     ],
@@ -218,6 +238,10 @@
     [
      -165,
      -453
+    ],
+    [
+     -167,
+     -456
     ]
    ],
    "worlds": {}
@@ -237,6 +261,10 @@
    }
   ],
   "trusted": [
+   {
+    "name": "afon2233",
+    "uuid": "0a89d1f8-70b7-4546-8cd3-7548c746e6b5"
+   },
    {
     "name": "underrrr",
     "uuid": "f81a5599-0947-42d9-b2b2-7f051b780208"

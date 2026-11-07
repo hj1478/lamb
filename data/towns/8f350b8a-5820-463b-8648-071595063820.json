@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Baylon",
   "uuid": "8f350b8a-5820-463b-8648-071595063820",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 135,
-   "maxTownBlocks": 134,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 7,
    "numTrusted": 5,
    "numOutlaws": 4,
-   "balance": 84.0,
+   "balance": 125.0,
    "forSalePrice": null
   },
   "perms": {
@@ -898,10 +898,6 @@
     "uuid": "83af3ff9-64bb-46c9-9e83-7e2c4146cf6b"
    },
    {
-    "name": "Elegant Flat",
-    "uuid": "0c8b36ff-a289-4d23-bdbb-6f38f287b9d1"
-   },
-   {
     "name": "Annoying Apartment",
     "uuid": "2d7952f0-1e40-48bb-a868-e9a2e65ac40b"
    },
@@ -982,10 +978,6 @@
     "uuid": "962ecac8-6d3b-4b0b-b63f-49f83f0734a5"
    },
    {
-    "name": "Annoying Property",
-    "uuid": "ad4717b0-ef18-4ae6-8ce2-1bc5938aaf59"
-   },
-   {
     "name": "Room 102",
     "uuid": "0706e25e-5962-4b23-bfd1-eef6ae2fdfcb"
    },
@@ -1034,18 +1026,6 @@
     "uuid": "53bb4232-10a5-4f57-a5ee-8c9054a3383e"
    },
    {
-    "name": "Luxurious Property",
-    "uuid": "46acde4a-1687-458f-be6d-ef05b5834d2b"
-   },
-   {
-    "name": "Inconvenient Dwelling",
-    "uuid": "7fc4e23b-b291-41f7-800a-cf62d91cb5f4"
-   },
-   {
-    "name": "Locker Rooms",
-    "uuid": "560e8213-b671-4f3c-aaa3-474c1bfdb1b6"
-   },
-   {
     "name": "Dingy Flat",
     "uuid": "a3d1379e-34ce-49fb-a6ca-a12da8cc36ba"
    },
@@ -1056,6 +1036,30 @@
    {
     "name": "Elegant Apartment",
     "uuid": "a63cbc05-a343-4f4a-8c1e-4d2c5bcbb5e7"
+   },
+   {
+    "name": "Locker Rooms",
+    "uuid": "560e8213-b671-4f3c-aaa3-474c1bfdb1b6"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "46acde4a-1687-458f-be6d-ef05b5834d2b"
+   },
+   {
+    "name": "Perturbing Suite",
+    "uuid": "3421aa7b-255b-4f76-98aa-8e4a2045bdc8"
+   },
+   {
+    "name": "Locker Rooms",
+    "uuid": "cab61787-4a53-42d0-9494-adc5f5c066ef"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "0c8b36ff-a289-4d23-bdbb-6f38f287b9d1"
+   },
+   {
+    "name": "Inconvenient Dwelling",
+    "uuid": "7fc4e23b-b291-41f7-800a-cf62d91cb5f4"
    }
   ],
   "ranks": {

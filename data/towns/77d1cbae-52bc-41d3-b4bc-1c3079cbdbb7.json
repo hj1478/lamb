@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Chisinau",
   "uuid": "77d1cbae-52bc-41d3-b4bc-1c3079cbdbb7",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1777837215555,
-   "joinedNationAt": 1793220986625,
+   "joinedNationAt": 1793734651367,
    "ruinedAt": null
   },
   "status": {
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 2,
-   "numOutlaws": 1,
-   "balance": 4.0,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,18 +73,18 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10120.264754021395,
+    "x": 10119.942100204296,
     "y": 65.0,
-    "z": -10315.108882219973,
-    "pitch": -15.69062,
-    "yaw": 0.9707869
+    "z": -10313.43003616405,
+    "pitch": -4.0652614,
+    "yaw": 0.8746338
    },
    "homeBlock": [
     632,
@@ -598,6 +598,10 @@
    {
     "name": "danyyboss07",
     "uuid": "6ad34ddf-e25c-4883-8cc8-6c33544c7f22"
+   },
+   {
+    "name": "XDA4",
+    "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
    }
   ],
   "quarters": [],
@@ -622,7 +626,12 @@
      "uuid": "5bd9e5c4-f52d-4225-9094-6f3c1280b7ce"
     }
    ],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "swfc",
+     "uuid": "177f7045-4a22-477e-9fdf-8527d6f42fb1"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Sylhet",
   "uuid": "78d782a8-a081-44b4-b8b6-026b14dbf1d8",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 169,
-   "maxTownBlocks": 208,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 9,
+   "nationBonus": 80,
+   "numResidents": 6,
    "numTrusted": 2,
    "numOutlaws": 9,
-   "balance": 1703.0,
+   "balance": 1668.0,
    "forSalePrice": null
   },
   "perms": {
@@ -776,24 +776,12 @@
     "uuid": "93a93aed-49b1-47ed-825f-67643655263b"
    },
    {
-    "name": "JDOMINAL",
-    "uuid": "8bf1279a-537b-4476-bb34-f2885ac5f103"
-   },
-   {
     "name": "rawBROCCOLI",
     "uuid": "96bdb7f5-d828-4b0d-ba0c-b632de820e3f"
    },
    {
     "name": "JorgeMath_",
     "uuid": "a84e3bd3-e18a-415c-930d-59a3ed8b8fa2"
-   },
-   {
-    "name": "PapaPerf",
-    "uuid": "2ab6618a-2bc9-4aa1-bd8e-de75ea4fee9f"
-   },
-   {
-    "name": "shidosaiga",
-    "uuid": "565ad114-041e-46c3-accd-b2942228d371"
    },
    {
     "name": "S1gMango",
@@ -858,20 +846,11 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "JDOMINAL",
-     "uuid": "8bf1279a-537b-4476-bb34-f2885ac5f103"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "PrincessYanxy",
      "uuid": "93a93aed-49b1-47ed-825f-67643655263b"
-    },
-    {
-     "name": "JDOMINAL",
-     "uuid": "8bf1279a-537b-4476-bb34-f2885ac5f103"
     },
     {
      "name": "rawBROCCOLI",
@@ -880,10 +859,6 @@
     {
      "name": "JorgeMath_",
      "uuid": "a84e3bd3-e18a-415c-930d-59a3ed8b8fa2"
-    },
-    {
-     "name": "PapaPerf",
-     "uuid": "2ab6618a-2bc9-4aa1-bd8e-de75ea4fee9f"
     },
     {
      "name": "S1gMango",
@@ -900,22 +875,13 @@
    ],
    "Recruiter": [
     {
-     "name": "JDOMINAL",
-     "uuid": "8bf1279a-537b-4476-bb34-f2885ac5f103"
-    },
-    {
      "name": "S1gMango",
      "uuid": "e596c00c-9c10-4eda-9c4d-3a0de224ca12"
     }
    ],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "JDOMINAL",
-     "uuid": "8bf1279a-537b-4476-bb34-f2885ac5f103"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

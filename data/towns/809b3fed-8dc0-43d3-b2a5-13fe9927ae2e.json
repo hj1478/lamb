@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Frankfurt",
   "uuid": "809b3fed-8dc0-43d3-b2a5-13fe9927ae2e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 126,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
+   "numResidents": 9,
    "numTrusted": 8,
    "numOutlaws": 9,
-   "balance": 4.0,
+   "balance": 19.0,
    "forSalePrice": null
   },
   "perms": {
@@ -600,20 +600,16 @@
   },
   "residents": [
    {
-    "name": "Demon_Shark69",
-    "uuid": "5a958390-377f-4f5e-84ac-e5440f90ac17"
-   },
-   {
     "name": "talimay",
     "uuid": "97bf517d-2b29-4a67-a1f7-12f27af54caa"
    },
    {
-    "name": "VernonPlays",
-    "uuid": "6e312329-5649-4616-90af-106b7adc929f"
+    "name": "JD_500",
+    "uuid": "5debd8cf-a4f7-4136-bd9c-ea6878007bed"
    },
    {
-    "name": "AnAngryChimp165",
-    "uuid": "c4572c90-1514-4d64-b716-93cbe813e988"
+    "name": "VernonPlays",
+    "uuid": "6e312329-5649-4616-90af-106b7adc929f"
    },
    {
     "name": "Felix77759",
@@ -716,20 +712,11 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "Demon_Shark69",
-     "uuid": "5a958390-377f-4f5e-84ac-e5440f90ac17"
-    },
-    {
      "name": "VernonPlays",
      "uuid": "6e312329-5649-4616-90af-106b7adc929f"
     }
    ],
-   "Builder": [
-    {
-     "name": "Demon_Shark69",
-     "uuid": "5a958390-377f-4f5e-84ac-e5440f90ac17"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

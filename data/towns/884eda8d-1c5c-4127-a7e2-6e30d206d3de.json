@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Quebec_City",
   "uuid": "884eda8d-1c5c-4127-a7e2-6e30d206d3de",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AdamBetter7",
-   "uuid": "a62ee039-6364-4070-a876-488498b92fc5"
+   "name": "_xzxc",
+   "uuid": "364112be-034e-4373-8d33-80838264edbc"
   },
   "nation": {
    "name": "Acadia",
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 62,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 0,
+   "numResidents": 6,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 3.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -366,13 +366,18 @@
    {
     "name": "Niro714",
     "uuid": "8736b584-c2d5-432e-a901-d91da7a161df"
-   },
-   {
-    "name": "AdamBetter7",
-    "uuid": "a62ee039-6364-4070-a876-488498b92fc5"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Tendonkeys",
+    "uuid": "0655a322-415e-4ab3-94e8-e0727509b249"
+   },
+   {
+    "name": "Matti737",
+    "uuid": "067f5e98-fa32-4198-a10b-e8608d8c0b54"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {

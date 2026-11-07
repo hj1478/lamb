@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Ibiza",
+  "name": "Ste-Marie-Dallah",
   "uuid": "7e520657-0008-4133-8131-f0c86c8ddd67",
   "board": "Pinnacle of F1 fanatism and Premium Residence",
   "founder": "Teyuuoo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Srdjan",
-   "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
+   "name": "Deternel",
+   "uuid": "80849f74-419d-421b-91d0-58f7dbd69700"
   },
   "nation": {
    "name": "France",
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1779063538919,
-   "joinedNationAt": 1783543294289,
+   "joinedNationAt": 1793907950909,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 244,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 12,
+   "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,15 +100,15 @@
      -546
     ],
     [
-     134,
-     -547
-    ],
-    [
      136,
      -547
     ],
     [
-     134,
+     131,
+     -549
+    ],
+    [
+     131,
      -548
     ],
     [
@@ -118,22 +118,105 @@
     [
      134,
      -546
+    ],
+    [
+     134,
+     -549
+    ],
+    [
+     134,
+     -547
+    ],
+    [
+     132,
+     -547
+    ],
+    [
+     134,
+     -548
+    ],
+    [
+     132,
+     -549
+    ],
+    [
+     132,
+     -548
+    ],
+    [
+     132,
+     -550
+    ],
+    [
+     133,
+     -548
+    ],
+    [
+     133,
+     -547
+    ],
+    [
+     133,
+     -550
+    ],
+    [
+     133,
+     -549
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_Srdjan",
-    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
-   }
-  ],
-  "trusted": [
+    "name": "Br0k3n1roh",
+    "uuid": "7edace4a-ec5e-4093-b29b-10ad85645ce5"
+   },
    {
-    "name": "0xMilord",
-    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
+    "name": "MaliBegII",
+    "uuid": "633630d6-37e5-4ea2-8169-bb56c0ee5dea"
+   },
+   {
+    "name": "WarTurtle455",
+    "uuid": "d4e87d81-689c-4803-8e07-5a072885357d"
+   },
+   {
+    "name": "xLekaa",
+    "uuid": "e387f33b-8d80-4023-a128-5e507ffc728c"
+   },
+   {
+    "name": "GayUberDriverNY",
+    "uuid": "72e420a7-f091-4e68-8952-daf4af1012ac"
+   },
+   {
+    "name": "_LelouchXD",
+    "uuid": "43eac786-0f04-4846-8db4-039ecc0b8944"
+   },
+   {
+    "name": "JohnBlastRadius2",
+    "uuid": "8d10bb5e-30eb-42e1-b378-e5d47386da36"
+   },
+   {
+    "name": "rdayhz",
+    "uuid": "c21a5048-e82a-484c-9467-a360ebb6a27e"
+   },
+   {
+    "name": "Alezof",
+    "uuid": "ca5c1f5c-caf4-43e0-95a0-11bc9189adb1"
+   },
+   {
+    "name": "Austrianer",
+    "uuid": "e1caac93-88b8-4f20-8de5-d5b31dacf11a"
+   },
+   {
+    "name": "Deternel",
+    "uuid": "80849f74-419d-421b-91d0-58f7dbd69700"
+   },
+   {
+    "name": "rimabenzema",
+    "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
    }
   ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "MzMiner",
@@ -171,14 +254,39 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "rimabenzema",
+     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "rimabenzema",
+     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
+   "Tax-exempt": [
+    {
+     "name": "rimabenzema",
+     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "rimabenzema",
+     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
+    }
+   ],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "rimabenzema",
+     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

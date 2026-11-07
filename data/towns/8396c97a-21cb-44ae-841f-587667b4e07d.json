@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Phrog",
   "uuid": "8396c97a-21cb-44ae-841f-587667b4e07d",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 3,
-   "numOutlaws": 0,
+   "numResidents": 7,
+   "numTrusted": 2,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -93,23 +93,31 @@
    "townBlocks": [
     [
      -869,
+     704
+    ],
+    [
+     -869,
      703
+    ],
+    [
+     -871,
+     704
+    ],
+    [
+     -873,
+     699
     ],
     [
      -869,
      702
     ],
     [
-     -873,
+     -871,
      699
     ],
     [
      -873,
      700
-    ],
-    [
-     -871,
-     699
     ],
     [
      -869,
@@ -124,12 +132,16 @@
      699
     ],
     [
+     -873,
+     703
+    ],
+    [
      -871,
      702
     ],
     [
      -873,
-     703
+     704
     ],
     [
      -871,
@@ -161,6 +173,10 @@
     ],
     [
      -872,
+     704
+    ],
+    [
+     -872,
      702
     ],
     [
@@ -182,6 +198,10 @@
     [
      -870,
      703
+    ],
+    [
+     -870,
+     704
     ],
     [
      -870,
@@ -210,13 +230,21 @@
    {
     "name": "poods1234569",
     "uuid": "171d05bd-3ca8-45ab-862d-2caa2f782446"
+   },
+   {
+    "name": "BrotatoNitto",
+    "uuid": "220fa384-f842-462d-8052-2f938168d3fe"
+   },
+   {
+    "name": "tuncaysnve",
+    "uuid": "143ab2f7-c4d9-43bd-bbc4-07e9852e1130"
+   },
+   {
+    "name": "pr21bbbbbbbbbbbb",
+    "uuid": "799f042a-f398-4f9d-b61e-bbff32c7503a"
    }
   ],
   "trusted": [
-   {
-    "name": "Gustaf_MJR",
-    "uuid": "906007d8-1ece-4bc5-a81b-4221b689abf8"
-   },
    {
     "name": "poods1234569",
     "uuid": "171d05bd-3ca8-45ab-862d-2caa2f782446"
@@ -226,7 +254,16 @@
     "uuid": "ff0e209d-9df5-41c5-8fc1-fd57368491dc"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Kuddsson",
+    "uuid": "c886bdf9-a064-4dba-b670-c3797c5646cd"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Bobita",
-  "uuid": "3aaf22e4-0e8b-4854-ba2d-4560d930dc1f",
+  "name": "Fort_Crucible",
+  "uuid": "e807d2c6-7042-4866-8430-10b686d00845",
   "board": "/town set board [msg]",
-  "founder": "wildminecrafter",
+  "founder": "TheRadicalRotini",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC19",
-   "uuid": "068502ab-bbe5-2047-9fed-4798d5cd2637"
+   "name": "TheRadicalRotini",
+   "uuid": "4a2c0ebd-b2fc-48e6-b342-a8dbe46c8f85"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786558523012,
+   "registered": 1794017617167,
    "joinedNationAt": null,
-   "ruinedAt": 1793786400887
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,85 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9698.575049273053,
-    "y": 80.0,
-    "z": 16485.439357660267,
-    "pitch": 3.4500391,
-    "yaw": 92.600525
+    "x": 33873.28203730169,
+    "y": 132.0,
+    "z": -1615.386314960001,
+    "pitch": 24.899958,
+    "yaw": 2.9344482
    },
    "homeBlock": [
-    606,
-    1030
+    2117,
+    -101
    ],
    "townBlocks": [
     [
-     606,
-     1029
-    ],
-    [
-     606,
-     1030
-    ],
-    [
-     607,
-     1030
-    ],
-    [
-     607,
-     1029
+     2117,
+     -101
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC19",
-    "uuid": "068502ab-bbe5-2047-9fed-4798d5cd2637"
+    "name": "TheRadicalRotini",
+    "uuid": "4a2c0ebd-b2fc-48e6-b342-a8dbe46c8f85"
    }
   ],
   "trusted": [],

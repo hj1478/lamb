@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Taliba_Outpost",
-  "uuid": "9abf1240-2549-40e0-9f8a-5767884b408e",
+  "name": "XIUHCOATL",
+  "uuid": "b8f6f83c-7668-4668-93a5-9bd1b015c757",
   "board": "/town set board [msg]",
-  "founder": "Creebar",
+  "founder": "lCondex",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Creebar",
-   "uuid": "af8a2665-4834-4bef-bb37-f8e7eecc4d98"
+   "name": "lCondex",
+   "uuid": "ff3bf5b2-5894-44dc-9fb5-0676842f9eaa"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786478985291,
+   "registered": 1794012229423,
    "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,35 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 24736.573482262513,
-    "y": 120.0,
-    "z": -5094.063382061209,
-    "pitch": 36.276955,
-    "yaw": -4.2662964
+    "x": -36207.142451359876,
+    "y": 123.0,
+    "z": 1535.9339495736454,
+    "pitch": 19.880121,
+    "yaw": -8.978089
    },
    "homeBlock": [
-    1546,
-    -319
+    -2263,
+    95
    ],
    "townBlocks": [
     [
-     1546,
-     -319
+     -2264,
+     96
+    ],
+    [
+     -2264,
+     95
+    ],
+    [
+     -2263,
+     95
+    ],
+    [
+     -2263,
+     96
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Creebar",
-    "uuid": "af8a2665-4834-4bef-bb37-f8e7eecc4d98"
+    "name": "lCondex",
+    "uuid": "ff3bf5b2-5894-44dc-9fb5-0676842f9eaa"
+   },
+   {
+    "name": "XxYellowPolloxX",
+    "uuid": "9f37c5a2-765f-4402-bf42-951673f9e8a1"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "XxYellowPolloxX",
+     "uuid": "9f37c5a2-765f-4402-bf42-951673f9e8a1"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

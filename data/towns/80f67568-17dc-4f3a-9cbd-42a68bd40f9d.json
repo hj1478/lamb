@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Brest-Litowsk",
   "uuid": "80f67568-17dc-4f3a-9cbd-42a68bd40f9d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Metapace",
-   "uuid": "ca58b2d5-96b8-4b46-bd75-c316694ebe57"
+   "name": "NPC75",
+   "uuid": "73561e45-6271-209f-a03c-4d413ea697c4"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1778774424587,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794048956002
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -292,8 +292,8 @@
   },
   "residents": [
    {
-    "name": "Metapace",
-    "uuid": "ca58b2d5-96b8-4b46-bd75-c316694ebe57"
+    "name": "NPC75",
+    "uuid": "73561e45-6271-209f-a03c-4d413ea697c4"
    }
   ],
   "trusted": [

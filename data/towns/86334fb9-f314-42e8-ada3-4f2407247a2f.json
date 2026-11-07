@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Riga",
   "uuid": "86334fb9-f314-42e8-ada3-4f2407247a2f",
-  "board": "t join Riga",
+  "board": "Dievs sveti Latviju!",
   "founder": "TvaikuIelasBoss",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Nils_Usakovs",
-   "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
+   "name": "TvaikuIelasBoss",
+   "uuid": "cadd2ded-41c5-4053-a099-342e3d5ceb04"
   },
   "nation": {
    "name": "PLC",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 341,
-   "maxTownBlocks": 352,
+   "maxTownBlocks": 364,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 21,
-   "numTrusted": 8,
+   "numResidents": 22,
+   "numTrusted": 9,
    "numOutlaws": 10,
    "balance": 0.0,
    "forSalePrice": null
@@ -1485,16 +1485,16 @@
     "uuid": "205b2b2a-736e-4c07-bc6d-81592eccc4a8"
    },
    {
+    "name": "BonusHomer",
+    "uuid": "efaaac65-ec69-4b3e-85ce-0a7796682409"
+   },
+   {
     "name": "TheFIREND",
     "uuid": "a03de56e-36f3-49a2-899a-eb76f4326b0e"
    },
    {
     "name": "ToxBytes",
     "uuid": "88688fec-eac4-4d07-8ea9-16a245b97538"
-   },
-   {
-    "name": "Nils_Usakovs",
-    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    },
    {
     "name": "MariaOktawia",
@@ -1521,12 +1521,12 @@
     "uuid": "b01df412-6f94-47a8-8986-397340400646"
    },
    {
-    "name": "MrKassu",
-    "uuid": "032c6e9b-3fe0-4572-81fc-8ece18f399bf"
+    "name": "prodream435",
+    "uuid": "adf6def4-86f1-4023-af0b-7bcecd386f1f"
    },
    {
-    "name": "MartenFoe2012",
-    "uuid": "2c643262-2279-4334-a4ea-339b8119d383"
+    "name": "MrKassu",
+    "uuid": "032c6e9b-3fe0-4572-81fc-8ece18f399bf"
    },
    {
     "name": "poleen_",
@@ -1547,9 +1547,17 @@
    {
     "name": "VanillaBlizard",
     "uuid": "5bd04e3d-759d-4748-a50f-db3188ea1b7a"
+   },
+   {
+    "name": "Zeuxar",
+    "uuid": "49bea931-672f-4945-9332-305550c9d6e3"
    }
   ],
   "trusted": [
+   {
+    "name": "BonusHomer",
+    "uuid": "efaaac65-ec69-4b3e-85ce-0a7796682409"
+   },
    {
     "name": "TheFIREND",
     "uuid": "a03de56e-36f3-49a2-899a-eb76f4326b0e"
@@ -1670,16 +1678,20 @@
      "uuid": "cadd2ded-41c5-4053-a099-342e3d5ceb04"
     },
     {
-     "name": "Nils_Usakovs",
-     "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
+     "name": "ToxBytes",
+     "uuid": "88688fec-eac4-4d07-8ea9-16a245b97538"
     },
     {
      "name": "MariaOktawia",
      "uuid": "5ce6bc43-c8f8-4ba5-adea-a9e960d986f8"
     },
     {
-     "name": "NFS_Sweet",
-     "uuid": "ba04a70f-f86d-48c1-9c62-b27005b6d4a4"
+     "name": "dinobeast66",
+     "uuid": "a2096cf2-ba2b-4e7f-b927-f9b8b3aa0008"
+    },
+    {
+     "name": "Zeuxar",
+     "uuid": "49bea931-672f-4945-9332-305550c9d6e3"
     }
    ],
    "Builder": [],
@@ -1687,28 +1699,16 @@
     {
      "name": "MariaOktawia",
      "uuid": "5ce6bc43-c8f8-4ba5-adea-a9e960d986f8"
-    },
-    {
-     "name": "NFS_Sweet",
-     "uuid": "ba04a70f-f86d-48c1-9c62-b27005b6d4a4"
-    },
-    {
-     "name": "LolailoAzulado",
-     "uuid": "dfba40b5-9dc4-4e1f-8a22-a38fbb4626d7"
     }
    ],
-   "Police": [
-    {
-     "name": "NFS_Sweet",
-     "uuid": "ba04a70f-f86d-48c1-9c62-b27005b6d4a4"
-    },
-    {
-     "name": "dinobeast66",
-     "uuid": "a2096cf2-ba2b-4e7f-b927-f9b8b3aa0008"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "Zeuxar",
+     "uuid": "49bea931-672f-4945-9332-305550c9d6e3"
+    }
+   ],
    "Realtor": [],
    "Settler": [
     {

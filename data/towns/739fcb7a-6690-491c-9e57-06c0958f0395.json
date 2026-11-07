@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Cuyahoga_Falls",
   "uuid": "739fcb7a-6690-491c-9e57-06c0958f0395",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -93,11 +93,19 @@
    "townBlocks": [
     [
      -1830,
+     -469
+    ],
+    [
+     -1830,
      -470
     ],
     [
      -1830,
      -471
+    ],
+    [
+     -1828,
+     -472
     ],
     [
      -1830,
@@ -108,8 +116,16 @@
      -473
     ],
     [
+     -1828,
+     -470
+    ],
+    [
      -1831,
      -470
+    ],
+    [
+     -1828,
+     -471
     ],
     [
      -1831,
@@ -118,6 +134,22 @@
     [
      -1831,
      -472
+    ],
+    [
+     -1829,
+     -472
+    ],
+    [
+     -1829,
+     -473
+    ],
+    [
+     -1829,
+     -470
+    ],
+    [
+     -1829,
+     -471
     ]
    ],
    "worlds": {}
@@ -130,6 +162,10 @@
    {
     "name": "KingCat76",
     "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+   },
+   {
+    "name": "Owennski",
+    "uuid": "a919ed7e-e7c1-420a-8334-a04b0d40a91b"
    }
   ],
   "trusted": [],
@@ -141,18 +177,30 @@
     {
      "name": "KingCat76",
      "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    },
+    {
+     "name": "Owennski",
+     "uuid": "a919ed7e-e7c1-420a-8334-a04b0d40a91b"
     }
    ],
    "Recruiter": [
     {
      "name": "KingCat76",
      "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    },
+    {
+     "name": "Owennski",
+     "uuid": "a919ed7e-e7c1-420a-8334-a04b0d40a91b"
     }
    ],
    "Police": [
     {
      "name": "KingCat76",
      "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    },
+    {
+     "name": "Owennski",
+     "uuid": "a919ed7e-e7c1-420a-8334-a04b0d40a91b"
     }
    ],
    "Tax-exempt": [],
@@ -160,6 +208,10 @@
     {
      "name": "KingCat76",
      "uuid": "a8854acc-f51d-4d03-b440-9e6e894b513f"
+    },
+    {
+     "name": "Owennski",
+     "uuid": "a919ed7e-e7c1-420a-8334-a04b0d40a91b"
     }
    ],
    "Realtor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Dat_Mui-Ville",
   "uuid": "7c973095-bcb2-4109-9930-94eff360c0bd",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "InstantMoon",
-   "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+   "name": "dex247",
+   "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
   },
   "nation": {
-   "name": "Lanfang",
-   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
+   "name": "Malaysia",
+   "uuid": "bb324b08-6b51-40c0-a0fe-d4b874a14395"
   },
   "timestamps": {
    "registered": 1783782437708,
-   "joinedNationAt": 1792925613956,
+   "joinedNationAt": 1793909039179,
    "ruinedAt": null
   },
   "status": {
@@ -29,21 +29,21 @@
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 96,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 10,
    "numResidents": 2,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 600.0
+   "forSalePrice": 100.0
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 37575.96762497705,
+    "x": 37594.19667856731,
     "y": 63.0,
-    "z": 4889.394120810042,
-    "pitch": -2.6998892,
-    "yaw": -179.2321
+    "z": 4918.30623835494,
+    "pitch": 6.753754,
+    "yaw": 9.338826
    },
    "homeBlock": [
-    2348,
-    305
+    2349,
+    307
    ],
    "townBlocks": [
     [
@@ -484,14 +484,22 @@
     "uuid": "f8839183-08fe-4858-9fa0-4d683c4ac690"
    },
    {
-    "name": "InstantMoon",
-    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+    "name": "dex247",
+    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
    }
   ],
   "trusted": [
    {
+    "name": "Ravocy_",
+    "uuid": "8358d434-edd1-4614-9b39-b0fc2967bdf9"
+   },
+   {
     "name": "BaroqueMan",
     "uuid": "cbfefb43-fd35-4db5-b2f3-e2e919d55d96"
+   },
+   {
+    "name": "caciki_",
+    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
    },
    {
     "name": "HasanHasa",

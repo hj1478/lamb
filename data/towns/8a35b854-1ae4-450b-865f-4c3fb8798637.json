@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Petoskey",
   "uuid": "8a35b854-1ae4-450b-865f-4c3fb8798637",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Wrathkidd",
-   "uuid": "76103280-2efc-4c15-ba56-75b46c39a17e"
+   "name": "ChocoFlan_",
+   "uuid": "c17d7daf-59b4-4125-9bb7-187a8899651b"
   },
   "nation": {
    "name": "America",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 31,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 535.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -220,19 +220,20 @@
   },
   "residents": [
    {
-    "name": "Wrathkidd",
-    "uuid": "76103280-2efc-4c15-ba56-75b46c39a17e"
-   },
-   {
     "name": "ChocoFlan_",
     "uuid": "c17d7daf-59b4-4125-9bb7-187a8899651b"
-   },
+   }
+  ],
+  "trusted": [
    {
     "name": "artisansGrimoire",
     "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
+   },
+   {
+    "name": "L0RD_KRAT05",
+    "uuid": "a329f508-b62f-44d4-a773-a5815ae0ec9a"
    }
   ],
-  "trusted": [],
   "outlaws": [
    {
     "name": "Chrouched_",
@@ -252,12 +253,7 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "Wrathkidd",
-     "uuid": "76103280-2efc-4c15-ba56-75b46c39a17e"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Zero",
-  "uuid": "2f1a6bd8-f0ca-4c53-a9de-8f764390e2a2",
-  "board": "/town set board [msg]",
-  "founder": "Ryoga",
+  "name": "Dudinka",
+  "uuid": "e1faa8b0-ace0-48f8-ad9a-6853d4750073",
+  "board": "The Moscow of the North",
+  "founder": "Lugur777",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC47",
-   "uuid": "e3993ed3-3985-20ab-b4eb-17a5786d4c0c"
+   "name": "Lugur777",
+   "uuid": "232135b0-5532-4b14-842c-cc5fe8575051"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1781443295983,
+   "registered": 1793996150733,
    "joinedNationAt": null,
-   "ruinedAt": 1793786403422
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
-   "isRuined": true,
+   "isOverClaimed": false,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,129 +35,93 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 0.5231254612644792,
-    "y": 93.0,
-    "z": 0.6715191393539716,
-    "pitch": 43.050037,
-    "yaw": -1.4619851
+    "x": 30904.650819584047,
+    "y": 63.0,
+    "z": -22039.505364082386,
+    "pitch": 41.399998,
+    "yaw": 112.66205
    },
    "homeBlock": [
-    0,
-    0
+    1931,
+    -1378
    ],
    "townBlocks": [
     [
-     1,
-     -1
+     1932,
+     -1377
     ],
     [
-     1,
-     0
+     1932,
+     -1378
     ],
     [
-     -1,
-     2
+     1931,
+     -1378
     ],
     [
-     -1,
-     1
+     1931,
+     -1377
     ],
     [
-     1,
-     1
+     1930,
+     -1378
     ],
     [
-     -1,
-     0
-    ],
-    [
-     1,
-     2
-    ],
-    [
-     2,
-     1
-    ],
-    [
-     -1,
-     -1
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     -1
-    ],
-    [
-     0,
-     2
-    ],
-    [
-     0,
-     1
-    ],
-    [
-     0,
-     0
-    ],
-    [
-     0,
-     -1
+     1930,
+     -1377
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC47",
-    "uuid": "e3993ed3-3985-20ab-b4eb-17a5786d4c0c"
+    "name": "Lugur777",
+    "uuid": "232135b0-5532-4b14-842c-cc5fe8575051"
    }
   ],
   "trusted": [],

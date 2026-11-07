@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Dushanbe",
-  "uuid": "9a6b7e02-b0fa-449c-96e8-a45e598dae4d",
-  "board": "/town set board [msg]",
-  "founder": "WellFerret01192",
+  "name": "Glaggleland",
+  "uuid": "71ce39fa-2fe2-40da-8879-acd7dd8f5b45",
+  "board": "2 avocados for 10 bucks",
+  "founder": "glaggle2001",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ArnoTN",
-   "uuid": "2af612df-e2f9-4bc3-8594-b150139f1602"
+   "name": "glaggle2001",
+   "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Libya",
+   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
   },
   "timestamps": {
-   "registered": 1778805650262,
-   "joinedNationAt": null,
+   "registered": 1793988047054,
+   "joinedNationAt": 1793988052954,
    "ruinedAt": null
   },
   "status": {
@@ -25,20 +25,20 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 22,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -73,131 +73,108 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 24556.138425156136,
-    "y": 99.0,
-    "z": -6564.805748954842,
-    "pitch": -44.85002,
-    "yaw": -78.62906
+    "x": 3558.9986782096903,
+    "y": 63.0,
+    "z": -4823.772959219924,
+    "pitch": 21.599989,
+    "yaw": 89.27991
    },
    "homeBlock": [
-    1534,
-    -411
+    222,
+    -302
    ],
    "townBlocks": [
     [
-     1533,
-     -415
+     220,
+     -302
     ],
     [
-     1534,
-     -416
+     224,
+     -301
     ],
     [
-     1533,
-     -414
+     224,
+     -300
     ],
     [
-     1534,
-     -415
+     224,
+     -303
     ],
     [
-     1533,
-     -413
+     223,
+     -300
     ],
     [
-     1534,
-     -414
+     223,
+     -301
     ],
     [
-     1533,
-     -412
+     224,
+     -302
     ],
     [
-     1534,
-     -413
+     223,
+     -302
     ],
     [
-     1533,
-     -411
+     223,
+     -303
     ],
     [
-     1533,
-     -410
+     221,
+     -303
     ],
     [
-     1534,
-     -417
+     221,
+     -302
     ],
     [
-     1532,
-     -414
+     221,
+     -301
     ],
     [
-     1532,
-     -415
+     222,
+     -301
     ],
     [
-     1532,
-     -416
+     222,
+     -302
     ],
     [
-     1532,
-     -417
-    ],
-    [
-     1534,
-     -412
-    ],
-    [
-     1534,
-     -411
-    ],
-    [
-     1534,
-     -410
-    ],
-    [
-     1532,
-     -412
-    ],
-    [
-     1532,
-     -413
-    ],
-    [
-     1533,
-     -417
-    ],
-    [
-     1533,
-     -416
+     222,
+     -303
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ArnoTN",
-    "uuid": "2af612df-e2f9-4bc3-8594-b150139f1602"
+    "name": "glaggle2001",
+    "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
    }
   ],
   "trusted": [
    {
-    "name": "TrentThePlayz",
-    "uuid": "6fea3109-242d-4687-8eee-6279d1230a5b"
+    "name": "Ali_dinocraft",
+    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "glaggle2001",
+     "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

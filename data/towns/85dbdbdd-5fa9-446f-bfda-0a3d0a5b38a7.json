@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Almaty",
   "uuid": "85dbdbdd-5fa9-446f-bfda-0a3d0a5b38a7",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 68,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -368,6 +368,10 @@
   },
   "residents": [
    {
+    "name": "lil_mou",
+    "uuid": "b22786e4-62f9-43d6-8bf7-8de29f1fc11b"
+   },
+   {
     "name": "OzuMoser",
     "uuid": "f1a277e2-7da9-4443-b26f-49a8dc249446"
    }
@@ -376,7 +380,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "lil_mou",
+     "uuid": "b22786e4-62f9-43d6-8bf7-8de29f1fc11b"
+    }
+   ],
    "Builder": [
     {
      "name": "OzuMoser",

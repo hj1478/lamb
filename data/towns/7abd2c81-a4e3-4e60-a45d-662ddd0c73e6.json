@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Sakhalin",
   "uuid": "7abd2c81-a4e3-4e60-a45d-662ddd0c73e6",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Inca_Roca",
-   "uuid": "f3b58724-5ffe-4e9b-b87e-7a2eba0bc1d5"
+   "name": "ChloeSphere",
+   "uuid": "ccbcb147-f738-41f4-8820-21d24d28e69e"
   },
   "nation": {
-   "name": "Hokkaido",
-   "uuid": "1b0372fe-6f27-4b06-a6e9-e5b5c90e6e72"
+   "name": "Karafuto",
+   "uuid": "25c9850a-5b7a-4b90-8ef9-1c1f58dbde54"
   },
   "timestamps": {
    "registered": 1783669383309,
-   "joinedNationAt": 1791103758141,
+   "joinedNationAt": 1793621219010,
    "ruinedAt": null
   },
   "status": {
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -200,12 +200,16 @@
   },
   "residents": [
    {
-    "name": "Inca_Roca",
-    "uuid": "f3b58724-5ffe-4e9b-b87e-7a2eba0bc1d5"
-   },
-   {
     "name": "Tetrahexadon",
     "uuid": "928e9556-51fc-4898-88d0-4b8bd4bcfdde"
+   },
+   {
+    "name": "ChloeSphere",
+    "uuid": "ccbcb147-f738-41f4-8820-21d24d28e69e"
+   },
+   {
+    "name": "sorata_217",
+    "uuid": "c0f8951e-6c69-4b6f-b3d9-46d3af4465d2"
    }
   ],
   "trusted": [
@@ -218,6 +222,10 @@
     "uuid": "32b3943c-c038-4f0d-81b3-8ccd733022a2"
    },
    {
+    "name": "Inca_Roca",
+    "uuid": "f3b58724-5ffe-4e9b-b87e-7a2eba0bc1d5"
+   },
+   {
     "name": "SybanPlays700",
     "uuid": "0b923352-c8fa-416b-8385-fc2b353ab5e9"
    }
@@ -225,7 +233,16 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ChloeSphere",
+     "uuid": "ccbcb147-f738-41f4-8820-21d24d28e69e"
+    },
+    {
+     "name": "sorata_217",
+     "uuid": "c0f8951e-6c69-4b6f-b3d9-46d3af4465d2"
+    }
+   ],
    "Builder": [],
    "Recruiter": [
     {

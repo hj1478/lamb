@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Lokutu",
   "uuid": "728a2271-7fcd-4419-a945-8d8675ab95e3",
@@ -42,7 +42,7 @@
    "numResidents": 5,
    "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 89.0,
+   "balance": 100.0,
    "forSalePrice": null
   },
   "perms": {
@@ -266,10 +266,6 @@
     "uuid": "aee5014f-7fa5-4fa9-8da6-09c6261142f0"
    },
    {
-    "name": "Room 2",
-    "uuid": "de8adb3b-1a1a-4cc0-8ac5-7c990013b7bb"
-   },
-   {
     "name": "Lokutu Station",
     "uuid": "175e7bf0-27f2-45ef-b03c-a04ad2f4a418"
    },
@@ -300,6 +296,10 @@
    {
     "name": "Lokutu Headshop",
     "uuid": "7580c550-e175-4421-b03f-b8c811b41c3d"
+   },
+   {
+    "name": "Room 2",
+    "uuid": "de8adb3b-1a1a-4cc0-8ac5-7c990013b7bb"
    }
   ],
   "ranks": {
@@ -311,6 +311,10 @@
     {
      "name": "AveryXO007",
      "uuid": "5dea93a7-201c-4e67-ace9-c611ef024894"
+    },
+    {
+     "name": "Dinnerbone6856",
+     "uuid": "fe56d471-394d-4698-ab51-5d3f5ce1aa91"
     }
    ],
    "Builder": [],
@@ -321,7 +325,12 @@
     }
    ],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "Dinnerbone6856",
+     "uuid": "fe56d471-394d-4698-ab51-5d3f5ce1aa91"
+    }
+   ],
    "Treasurer": [
     {
      "name": "TheDarkAviary",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Gondar",
   "uuid": "7f32fc0a-3ab0-4ed0-b8d4-f6e966a0ef2a",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 49,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 51,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 3,
-   "balance": 6.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -185,6 +185,10 @@
     ],
     [
      852,
+     186
+    ],
+    [
+     852,
      187
     ],
     [
@@ -202,6 +206,10 @@
     [
      853,
      187
+    ],
+    [
+     853,
+     186
     ],
     [
      852,
@@ -294,6 +302,10 @@
    {
     "name": "allvia",
     "uuid": "05967d5a-4a34-4821-a303-b6c8fa6979ca"
+   },
+   {
+    "name": "Felipe_0",
+    "uuid": "9cd49429-be01-4bf1-b5cc-a207b0866339"
    }
   ],
   "trusted": [],
@@ -334,7 +346,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Felipe_0",
+     "uuid": "9cd49429-be01-4bf1-b5cc-a207b0866339"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

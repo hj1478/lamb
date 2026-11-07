@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Huoyanshan",
   "uuid": "710e0f72-988c-4ec7-a0b4-404d98d48606",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CON301",
-   "uuid": "de5d419b-03ec-42a9-aba7-13c7ab831bef"
+   "name": "qianrubiao",
+   "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
   },
   "nation": {
    "name": "Liao",
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numTrusted": 3,
+   "numOutlaws": 1,
    "balance": 6.0,
    "forSalePrice": null
   },
@@ -368,17 +368,30 @@
   },
   "residents": [
    {
-    "name": "CON301",
-    "uuid": "de5d419b-03ec-42a9-aba7-13c7ab831bef"
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
    }
   ],
   "trusted": [
    {
     "name": "qianrubiao",
     "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
+    "name": "Duolingoose",
+    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
+   },
+   {
+    "name": "CON301",
+    "uuid": "de5d419b-03ec-42a9-aba7-13c7ab831bef"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

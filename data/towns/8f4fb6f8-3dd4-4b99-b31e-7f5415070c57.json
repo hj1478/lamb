@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "AtlanticCity",
   "uuid": "8f4fb6f8-3dd4-4b99-b31e-7f5415070c57",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 28,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
+   "numResidents": 3,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 34.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -210,10 +210,6 @@
    {
     "name": "JGRNS",
     "uuid": "4f8ccdae-d095-4141-bd1f-042f84c6cf80"
-   },
-   {
-    "name": "BattleBotDrone7",
-    "uuid": "9608685f-b201-469e-88bf-610910089b91"
    },
    {
     "name": "Annahbrandt",

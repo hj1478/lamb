@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Manzikert",
   "uuid": "7170345a-232a-4ae1-8d60-33228b4bcaea",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 138,
-   "maxTownBlocks": 156,
+   "numTownBlocks": 153,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 8,
    "numTrusted": 6,
    "numOutlaws": 2,
-   "balance": 926.0,
+   "balance": 979.0,
    "forSalePrice": null
   },
   "perms": {
@@ -134,6 +134,10 @@
     [
      943,
      -429
+    ],
+    [
+     937,
+     -433
     ],
     [
      943,
@@ -241,6 +245,10 @@
     ],
     [
      944,
+     -435
+    ],
+    [
+     944,
      -434
     ],
     [
@@ -285,6 +293,10 @@
     ],
     [
      951,
+     -428
+    ],
+    [
+     951,
      -429
     ],
     [
@@ -312,6 +324,26 @@
      -435
     ],
     [
+     951,
+     -426
+    ],
+    [
+     951,
+     -427
+    ],
+    [
+     950,
+     -426
+    ],
+    [
+     950,
+     -428
+    ],
+    [
+     950,
+     -427
+    ],
+    [
      950,
      -430
     ],
@@ -358,6 +390,10 @@
     [
      949,
      -435
+    ],
+    [
+     949,
+     -426
     ],
     [
      949,
@@ -372,11 +408,23 @@
      -428
     ],
     [
+     949,
+     -427
+    ],
+    [
      946,
      -430
     ],
     [
+     952,
+     -428
+    ],
+    [
      946,
+     -429
+    ],
+    [
+     952,
      -429
     ],
     [
@@ -384,8 +432,16 @@
      -432
     ],
     [
+     952,
+     -426
+    ],
+    [
      946,
      -431
+    ],
+    [
+     952,
+     -427
     ],
     [
      946,
@@ -441,6 +497,10 @@
     ],
     [
      940,
+     -433
+    ],
+    [
+     938,
      -433
     ],
     [
@@ -656,10 +716,6 @@
     "uuid": "cd479be2-4cf0-4f44-8128-c7f68f899dab"
    },
    {
-    "name": "TheMario64Guy",
-    "uuid": "4179297b-4f5b-4b95-a4cc-2c7a2c2839bc"
-   },
-   {
     "name": "scuderi",
     "uuid": "b756aa10-97fc-4dd7-ad37-222844f37c1d"
    },
@@ -678,6 +734,10 @@
    {
     "name": "lumdidiy",
     "uuid": "115d5e27-f22f-4c82-9fd0-eadba4c2eaa2"
+   },
+   {
+    "name": "Yesmens",
+    "uuid": "9d1df915-46a4-4ac3-9e87-e4e34d043351"
    }
   ],
   "trusted": [
@@ -716,20 +776,7 @@
     "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
    }
   ],
-  "quarters": [
-   {
-    "name": "Upbeat Flat",
-    "uuid": "7510cbe3-c3ef-4812-8394-23b637667ddf"
-   },
-   {
-    "name": "Annoying Dwelling",
-    "uuid": "865394dc-973e-4cc9-bb48-ad42189e8253"
-   },
-   {
-    "name": "Stylish Tenement",
-    "uuid": "9d98e55a-214f-412c-b21a-c72c0c9fd2be"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [
     {

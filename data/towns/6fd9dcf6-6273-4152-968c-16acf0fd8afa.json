@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Pskov",
   "uuid": "6fd9dcf6-6273-4152-968c-16acf0fd8afa",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 82,
-   "maxTownBlocks": 60,
+   "numTownBlocks": 90,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 8,
    "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 531.0,
+   "numOutlaws": 4,
+   "balance": 498.0,
    "forSalePrice": null
   },
   "perms": {
@@ -125,7 +125,15 @@
     ],
     [
      641,
+     -960
+    ],
+    [
+     641,
      -961
+    ],
+    [
+     641,
+     -962
     ],
     [
      630,
@@ -237,6 +245,10 @@
     ],
     [
      632,
+     -960
+    ],
+    [
+     632,
      -961
     ],
     [
@@ -377,11 +389,31 @@
     ],
     [
      629,
+     -963
+    ],
+    [
+     629,
+     -960
+    ],
+    [
+     629,
      -961
     ],
     [
      629,
      -962
+    ],
+    [
+     628,
+     -962
+    ],
+    [
+     628,
+     -961
+    ],
+    [
+     628,
+     -960
     ],
     [
      636,
@@ -436,12 +468,24 @@
     "uuid": "a434cf0b-f2ea-4b2a-a012-6e9bf90c3c6b"
    },
    {
+    "name": "Alan10201020",
+    "uuid": "aa4552d3-0c70-41df-a7bb-23a539e08c67"
+   },
+   {
     "name": "davidorange67",
     "uuid": "e99cbec2-0227-4567-9549-1d1156334922"
    },
    {
     "name": "Astro37x9",
     "uuid": "ca2012b8-9734-455d-a080-05c038780320"
+   },
+   {
+    "name": "GH0STERN",
+    "uuid": "06be1bc3-db72-4711-b4c5-d14c7c42d9c7"
+   },
+   {
+    "name": "Kubo2108",
+    "uuid": "75ab7775-ad62-4a7c-8ac5-a554f9d3f7d9"
    }
   ],
   "trusted": [
@@ -454,7 +498,24 @@
     "uuid": "67878092-9f1e-44dd-b593-862840a622e7"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "WaxenTooth",
+    "uuid": "e3121358-9abc-479f-a5d8-0fe734dac981"
+   },
+   {
+    "name": "Becalix",
+    "uuid": "f3d1dbf9-73a3-484c-b7c0-bb7bbff03a47"
+   },
+   {
+    "name": "AvocadoApache",
+    "uuid": "a3a4d2fe-aa5c-4a1d-832b-1cfdab47dd9b"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
@@ -463,7 +524,12 @@
      "uuid": "67878092-9f1e-44dd-b593-862840a622e7"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Alan10201020",
+     "uuid": "aa4552d3-0c70-41df-a7bb-23a539e08c67"
+    }
+   ],
    "Recruiter": [],
    "Police": [
     {

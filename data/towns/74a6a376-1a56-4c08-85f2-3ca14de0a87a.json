@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Mackinaw_City",
   "uuid": "74a6a376-1a56-4c08-85f2-3ca14de0a87a",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
+   "numTownBlocks": 40,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 5,
-   "balance": 5.0,
+   "balance": 39.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30377.419392847758,
-    "y": 66.0,
-    "z": -9654.53296554909,
-    "pitch": 16.349928,
-    "yaw": -20.320063
+    "x": -30375.943739597966,
+    "y": 65.0,
+    "z": -9642.349959213558,
+    "pitch": 1.4998572,
+    "yaw": 176.02893
    },
    "homeBlock": [
     -1899,
-    -604
+    -603
    ],
    "townBlocks": [
     [
@@ -105,6 +105,10 @@
     ],
     [
      -1898,
+     -601
+    ],
+    [
+     -1898,
      -606
     ],
     [
@@ -112,12 +116,32 @@
      -605
     ],
     [
+     -1896,
+     -603
+    ],
+    [
+     -1902,
+     -605
+    ],
+    [
      -1900,
+     -606
+    ],
+    [
+     -1896,
+     -606
+    ],
+    [
+     -1902,
      -606
     ],
     [
      -1902,
      -603
+    ],
+    [
+     -1896,
+     -605
     ],
     [
      -1902,
@@ -152,11 +176,23 @@
      -604
     ],
     [
+     -1897,
+     -601
+    ],
+    [
      -1900,
      -601
     ],
     [
      -1900,
+     -602
+    ],
+    [
+     -1902,
+     -601
+    ],
+    [
+     -1902,
      -602
     ],
     [
@@ -172,12 +208,12 @@
      -605
     ],
     [
-     -1897,
-     -602
-    ],
-    [
      -1901,
      -601
+    ],
+    [
+     -1897,
+     -602
     ],
     [
      -1897,
@@ -230,6 +266,10 @@
     "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
    },
    {
+    "name": "alktat",
+    "uuid": "e3819382-a969-4bdb-b34a-77f1699e41a2"
+   },
+   {
     "name": "LarryWaiter",
     "uuid": "d40bbde6-24b7-47b0-b920-e1fa4e7845e7"
    }
@@ -258,12 +298,12 @@
   ],
   "quarters": [
    {
-    "name": "alktat Memorial Bridge",
-    "uuid": "63f17fbd-4061-41b4-b310-7e6b83b2d1a2"
+    "name": "Woke Bay Memorial Bridge",
+    "uuid": "2b93e91f-e453-4f0a-a81d-ded3407934c2"
    },
    {
-    "name": "Woke Bridge",
-    "uuid": "2b93e91f-e453-4f0a-a81d-ded3407934c2"
+    "name": "Jebediah Kerman Memorial Bridge",
+    "uuid": "63f17fbd-4061-41b4-b310-7e6b83b2d1a2"
    }
   ],
   "ranks": {

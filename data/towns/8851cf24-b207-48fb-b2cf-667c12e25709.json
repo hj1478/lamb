@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Borneo",
+  "name": "Tu",
   "uuid": "8851cf24-b207-48fb-b2cf-667c12e25709",
   "board": "your favorite person lives here",
   "founder": "MalMeteor",
@@ -27,9 +27,9 @@
    "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,9 +41,9 @@
    "nationBonus": 0,
    "numResidents": 4,
    "numTrusted": 4,
-   "numOutlaws": 86,
+   "numOutlaws": 84,
    "balance": 3.0,
-   "forSalePrice": null
+   "forSalePrice": 10000.0
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 36271.3046132858,
-    "y": 91.0,
-    "z": 7959.987284828092,
-    "pitch": 5.9999924,
-    "yaw": -89.34747
+    "x": 35907.30000001192,
+    "y": 68.0,
+    "z": 7999.699999988079,
+    "pitch": 21.600021,
+    "yaw": -121.75159
    },
    "homeBlock": [
-    2266,
-    497
+    2244,
+    499
    ],
    "townBlocks": [
     [
@@ -812,16 +812,16 @@
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
+    "name": "Carrere_Games",
+    "uuid": "dfed7a0e-0039-45a1-87d1-2a67f30d2121"
+   },
+   {
     "name": "WaxenTooth",
     "uuid": "e3121358-9abc-479f-a5d8-0fe734dac981"
    },
    {
     "name": "Becalix",
     "uuid": "f3d1dbf9-73a3-484c-b7c0-bb7bbff03a47"
-   },
-   {
-    "name": "AvocadoApache",
-    "uuid": "a3a4d2fe-aa5c-4a1d-832b-1cfdab47dd9b"
    }
   ],
   "trusted": [
@@ -844,16 +844,8 @@
   ],
   "outlaws": [
    {
-    "name": "Wrimz",
-    "uuid": "8d2f2d07-c72a-4a0d-8ce0-a1f2cbe7c942"
-   },
-   {
     "name": "Iffyhat96196",
     "uuid": "4a99b8e3-325d-4ca0-b103-715739555504"
-   },
-   {
-    "name": "LotaPandaPoo",
-    "uuid": "db8a5ed5-08e0-40bd-89fd-aad4736c6246"
    },
    {
     "name": "hidm",
@@ -1016,6 +1008,10 @@
     "uuid": "d0e52632-9f42-4cda-bbef-786ca206b535"
    },
    {
+    "name": "803kman",
+    "uuid": "f8af8a42-11df-4aed-8ee5-3627b20b4d88"
+   },
+   {
     "name": "JONSANYAN",
     "uuid": "ada83a2e-8b29-42a4-ad91-ad6c79c50d0e"
    },
@@ -1100,6 +1096,10 @@
     "uuid": "56879409-8f29-451c-9e00-99d770a65ad8"
    },
    {
+    "name": "SuperSlayWillow",
+    "uuid": "07c34ff0-54c5-4868-b7c3-55dbe3fd2a2c"
+   },
+   {
     "name": "SwadianKn1ght",
     "uuid": "550a3ab1-edbd-44d7-8ac7-a1ad9bf1ca13"
    },
@@ -1120,8 +1120,8 @@
     "uuid": "5faf900e-f3c5-456c-8cd8-c812da690863"
    },
    {
-    "name": "DisasterRoyal346",
-    "uuid": "3ca0ab0c-6913-4f03-b6a1-930cd5747226"
+    "name": "SamEditzYTT",
+    "uuid": "dc04400a-d96b-4769-9f04-00eeacc155db"
    },
    {
     "name": "HibachiBeamz",
@@ -1134,10 +1134,6 @@
    {
     "name": "winter_jasmine",
     "uuid": "3e971efd-58f2-4e26-b721-3670875b93ee"
-   },
-   {
-    "name": "Mihcar",
-    "uuid": "e607a0a9-03af-482e-b7c1-27312e1a5228"
    },
    {
     "name": "ElJefe5775",
@@ -1174,10 +1170,6 @@
    {
     "name": "MasterValterSP",
     "uuid": "b2c2bc52-7ec4-4a13-8452-1c77707eff72"
-   },
-   {
-    "name": "Mystical_jj",
-    "uuid": "333d7d95-70ac-40c2-af80-d97bee2734bc"
    },
    {
     "name": "AMP3",

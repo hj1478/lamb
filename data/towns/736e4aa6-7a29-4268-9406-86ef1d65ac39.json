@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Factory",
   "uuid": "736e4aa6-7a29-4268-9406-86ef1d65ac39",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1778226539561,
-   "joinedNationAt": 1790683061181,
+   "joinedNationAt": 1793634585533,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 86,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 3,
    "balance": 3.0,
@@ -451,10 +451,6 @@
    {
     "name": "3n91n33r",
     "uuid": "d57a1e7d-32cc-422d-ade4-5d89a6dfb91b"
-   },
-   {
-    "name": "0p0j9n1B",
-    "uuid": "fffedea9-471c-4f8e-b94f-83570b5f6bc4"
    }
   ],
   "trusted": [
@@ -547,14 +543,6 @@
     "uuid": "1972a3b4-21e3-4a63-8267-e249a4705ebb"
    },
    {
-    "name": "Welcoming Tenement",
-    "uuid": "909b6669-9a3f-4c79-b951-26e19e6f73bd"
-   },
-   {
-    "name": "Bland Residence",
-    "uuid": "c10350e1-d201-4061-b05d-cee684e8ea07"
-   },
-   {
     "name": "Elegant Apartment",
     "uuid": "b9548625-570c-42fb-84db-3ec76576c5c9"
    },
@@ -573,6 +561,14 @@
    {
     "name": "Cheerful Apartment",
     "uuid": "474ad615-8a13-4c65-9b0f-fb72984c1a8a"
+   },
+   {
+    "name": "Welcoming Tenement",
+    "uuid": "909b6669-9a3f-4c79-b951-26e19e6f73bd"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "c10350e1-d201-4061-b05d-cee684e8ea07"
    }
   ],
   "ranks": {

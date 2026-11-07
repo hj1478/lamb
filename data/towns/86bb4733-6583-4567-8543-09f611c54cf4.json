@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Calgary",
   "uuid": "86bb4733-6583-4567-8543-09f611c54cf4",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 160,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 15,
+   "numResidents": 14,
+   "numTrusted": 19,
    "numOutlaws": 0,
-   "balance": 183.0,
+   "balance": 173.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -40549.16060836747,
-    "y": 79.71875002384186,
-    "z": -11980.244513462943,
-    "pitch": 17.999992,
-    "yaw": 113.02403
+    "x": -40576.93499914168,
+    "y": -54.0,
+    "z": -11929.240350209795,
+    "pitch": 21.000042,
+    "yaw": -179.59229
    },
    "homeBlock": [
-    -2535,
-    -749
+    -2537,
+    -746
    ],
    "townBlocks": [
     [
@@ -746,6 +746,50 @@
    {
     "name": "pizzaboi1",
     "uuid": "ebda77d6-7ccf-44ce-80ca-a5f389c368b2"
+   },
+   {
+    "name": "Nerki123",
+    "uuid": "c3ba1629-b7d9-444f-a9b2-29b78d2aff57"
+   },
+   {
+    "name": "max0__0m",
+    "uuid": "dae1dd80-9054-40f5-b36f-8a59eb4197da"
+   },
+   {
+    "name": "Angiesswifts",
+    "uuid": "3687931a-b790-4ef2-a1b5-cccce0990a8e"
+   },
+   {
+    "name": "Pretosh",
+    "uuid": "371e8b63-8529-4fca-885c-55f6266f26ee"
+   },
+   {
+    "name": "ShiroShines",
+    "uuid": "bdcb058e-8ef9-481c-8fd8-6aaa70c9d105"
+   },
+   {
+    "name": "salty_ratly",
+    "uuid": "4437ff24-d9a4-4981-a3f1-ef014410ca39"
+   },
+   {
+    "name": "Janeckv",
+    "uuid": "9084b21a-5a47-4e66-a437-27bd1aac0215"
+   },
+   {
+    "name": "GreenFranc",
+    "uuid": "7d952770-f909-49a5-b061-6887b4054ea2"
+   },
+   {
+    "name": "Boostinsnow",
+    "uuid": "be631ec2-3767-433a-b426-f7f88ef84b34"
+   },
+   {
+    "name": "hotings",
+    "uuid": "a479c829-1116-4b46-a39d-0ab6994c65ea"
+   },
+   {
+    "name": "Cliff_B",
+    "uuid": "bd413562-8e66-4000-88d4-80ddc7a9ef09"
    }
   ],
   "trusted": [
@@ -758,6 +802,10 @@
     "uuid": "8719b119-0acf-4d18-a4c5-45ed1435df08"
    },
    {
+    "name": "elsi1e",
+    "uuid": "eb11578e-7a96-4043-a59b-3dec9416dcef"
+   },
+   {
     "name": "GreshamBTW",
     "uuid": "5d4376e8-1b83-47e6-a5f7-4bdc9bc3eac3"
    },
@@ -766,16 +814,24 @@
     "uuid": "e0b35c35-466e-49de-9ed0-5b238b890dab"
    },
    {
+    "name": "GreenFranc",
+    "uuid": "7d952770-f909-49a5-b061-6887b4054ea2"
+   },
+   {
     "name": "EIijah",
     "uuid": "c0f5aafb-5e79-4439-b5df-75a004dd9746"
    },
    {
-    "name": "chumpcharlie",
-    "uuid": "8644bbe0-44a4-48f1-9147-97089dd74fdb"
+    "name": "GasoMask",
+    "uuid": "b8888a78-fde2-4968-86b3-0b7a36b06ea8"
    },
    {
-    "name": "Drixla",
-    "uuid": "6eb12c59-5387-4520-8e58-6409ae2f9d42"
+    "name": "jesoos2362",
+    "uuid": "73f2f2a8-ea3e-4dcf-99b9-f356fd15d1a0"
+   },
+   {
+    "name": "chumpcharlie",
+    "uuid": "8644bbe0-44a4-48f1-9147-97089dd74fdb"
    },
    {
     "name": "Ayashiiyo",
@@ -792,6 +848,10 @@
    {
     "name": "Flatvent_One",
     "uuid": "bacca52a-decb-4b9f-93a1-16af947ef1fa"
+   },
+   {
+    "name": "limao_mao",
+    "uuid": "1df4938b-fed2-4615-b094-7acb97238bdc"
    },
    {
     "name": "Vicky151",
@@ -813,7 +873,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "GreenFranc",
+     "uuid": "7d952770-f909-49a5-b061-6887b4054ea2"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

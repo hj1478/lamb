@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Wareholm",
   "uuid": "8bfbbc09-2b72-490a-a1a2-2dbbc3ea8e42",
@@ -12,37 +12,37 @@
    "uuid": "c67b70d8-7c39-44ad-9bdc-cb79e365b927"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Angara",
+   "uuid": "e36a202c-a056-431e-8b90-c0f91051bab3"
   },
   "timestamps": {
    "registered": 1793445960121,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793779546555,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 10,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40985.35355648243,
+    "x": 40976.204740479785,
     "y": 82.0,
-    "z": -12770.454133169327,
-    "pitch": -1.9658573,
-    "yaw": -176.71204
+    "z": -12768.677197663705,
+    "pitch": 25.459347,
+    "yaw": -140.83081
    },
    "homeBlock": [
     2561,
@@ -92,8 +92,68 @@
    ],
    "townBlocks": [
     [
+     2559,
+     -797
+    ],
+    [
+     2562,
+     -798
+    ],
+    [
+     2559,
+     -799
+    ],
+    [
+     2562,
+     -799
+    ],
+    [
+     2559,
+     -798
+    ],
+    [
+     2560,
+     -800
+    ],
+    [
+     2562,
+     -800
+    ],
+    [
+     2560,
+     -799
+    ],
+    [
+     2560,
+     -798
+    ],
+    [
+     2560,
+     -797
+    ],
+    [
+     2560,
+     -801
+    ],
+    [
+     2561,
+     -800
+    ],
+    [
+     2559,
+     -801
+    ],
+    [
      2561,
      -799
+    ],
+    [
+     2559,
+     -800
+    ],
+    [
+     2561,
+     -798
     ]
    ],
    "worlds": {}
@@ -102,18 +162,37 @@
    {
     "name": "PapyGrapie",
     "uuid": "c67b70d8-7c39-44ad-9bdc-cb79e365b927"
+   },
+   {
+    "name": "Loogydoodum",
+    "uuid": "949b55d6-48b7-4e70-b9ac-2525b04b36f0"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Loogydoodum",
+     "uuid": "949b55d6-48b7-4e70-b9ac-2525b04b36f0"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Loogydoodum",
+     "uuid": "949b55d6-48b7-4e70-b9ac-2525b04b36f0"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "Loogydoodum",
+     "uuid": "949b55d6-48b7-4e70-b9ac-2525b04b36f0"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

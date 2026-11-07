@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Plunder_Haven",
   "uuid": "7e0edf41-5d2f-492d-8472-e65b85fd519a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kak0nator",
-   "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
+   "name": "NPC53",
+   "uuid": "980c53b1-43cb-20f3-9821-03bc9d4306ac"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789202452713,
-   "joinedNationAt": 1789202522063,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793835624419
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 157.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -252,11 +252,16 @@
   },
   "residents": [
    {
-    "name": "Kak0nator",
-    "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
+    "name": "NPC53",
+    "uuid": "980c53b1-43cb-20f3-9821-03bc9d4306ac"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "_tuttopassa_",
+    "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

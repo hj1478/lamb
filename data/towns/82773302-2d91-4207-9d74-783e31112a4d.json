@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Porto_Alegre",
   "uuid": "82773302-2d91-4207-9d74-783e31112a4d",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 122,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 6,
-   "numTrusted": 0,
+   "nationBonus": 60,
+   "numResidents": 7,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -606,9 +606,18 @@
    {
     "name": "augusfred",
     "uuid": "3bfa1f45-3dea-472a-a50c-21a77807947e"
+   },
+   {
+    "name": "MitoBut",
+    "uuid": "0d5459f9-6da6-418f-88f0-c451a1155372"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "Solaria",
   "uuid": "84ae756c-882e-474d-b0b6-e4db035c22ef",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mofei104",
-   "uuid": "52dc741d-e9e7-4205-88cd-f9995a271787"
+   "name": "NPC5",
+   "uuid": "9b48814e-8e90-206b-929c-86cda4d33822"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784973342633,
-   "joinedNationAt": 1785050850106,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793880352336
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 23,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -188,20 +188,15 @@
   },
   "residents": [
    {
-    "name": "mofei104",
-    "uuid": "52dc741d-e9e7-4205-88cd-f9995a271787"
+    "name": "NPC5",
+    "uuid": "9b48814e-8e90-206b-929c-86cda4d33822"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "mofei104",
-     "uuid": "52dc741d-e9e7-4205-88cd-f9995a271787"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

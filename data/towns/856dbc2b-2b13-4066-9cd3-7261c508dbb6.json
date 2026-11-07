@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "White_Settlement",
   "uuid": "856dbc2b-2b13-4066-9cd3-7261c508dbb6",
@@ -12,12 +12,12 @@
    "uuid": "c26b893e-5f00-4d83-91a6-0e0f9b66365a"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1793861740191,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793897889173,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35655.05354816431,
+    "x": -35654.53691576397,
     "y": 72.0625,
-    "z": -4441.145908626794,
-    "pitch": 27.726791,
-    "yaw": 93.84598
+    "z": -4437.435934227517,
+    "pitch": 22.633268,
+    "yaw": -88.757385
    },
    "homeBlock": [
     -2229,
     -278
    ],
    "townBlocks": [
+    [
+     -2229,
+     -277
+    ],
+    [
+     -2229,
+     -279
+    ],
     [
      -2229,
      -278

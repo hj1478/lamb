@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "MAT",
   "uuid": "8ea2de18-5e12-4678-80f8-345bf243f76f",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,7 +41,7 @@
    "nationBonus": 60,
    "numResidents": 5,
    "numTrusted": 0,
-   "numOutlaws": 1,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -445,6 +445,14 @@
    {
     "name": "BillyBJones",
     "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
+   },
+   {
+    "name": "MitchH_MC",
+    "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
+   },
+   {
+    "name": "umutttt16",
+    "uuid": "e02ffebb-a488-4e7a-be67-b6d7fcfa3e36"
    }
   ],
   "quarters": [],
@@ -454,7 +462,12 @@
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "LuqDud3",
+     "uuid": "208cdb94-1ea8-4eb4-82ee-0cec21063f33"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

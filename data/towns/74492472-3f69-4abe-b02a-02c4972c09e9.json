@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
   "name": "The_BlockHook",
   "uuid": "74492472-3f69-4abe-b02a-02c4972c09e9",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "notFakeMocha",
-   "uuid": "5078c6d8-5ffe-493c-b8c9-5c54ccd6cda3"
+   "name": "NPC74",
+   "uuid": "5e9e17ce-a9c9-20d2-91a5-2a8edd0a80da"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789436466063,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794045600760
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "notFakeMocha",
-    "uuid": "5078c6d8-5ffe-493c-b8c9-5c54ccd6cda3"
+    "name": "NPC74",
+    "uuid": "5e9e17ce-a9c9-20d2-91a5-2a8edd0a80da"
    }
   ],
   "trusted": [],

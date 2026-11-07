@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-07T13:14:26Z",
+ "data": {
+  "name": "Manado",
+  "uuid": "53cd9bb2-9958-42d3-a6ca-5d75e56c8d17",
+  "board": "/town set board [msg]",
+  "founder": "_sh1re",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "_sh1re",
+   "uuid": "131f94aa-3033-4773-b51c-0b397e529530"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794034234247,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 1.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 44589.033549588195,
+    "y": 63.0,
+    "z": 7592.568008204018,
+    "pitch": 17.546442,
+    "yaw": 45.7993
+   },
+   "homeBlock": [
+    2786,
+    474
+   ],
+   "townBlocks": [
+    [
+     2786,
+     474
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "_sh1re",
+    "uuid": "131f94aa-3033-4773-b51c-0b397e529530"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

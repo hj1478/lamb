@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-10-31T12:44:57Z",
+ "fetched_at": "2026-11-07T13:14:26Z",
  "data": {
-  "name": "Utopia",
+  "name": "Kara",
   "uuid": "795ca21a-93fa-415e-ba15-3183e8a7bec9",
   "board": "Welcome to Hyperborea",
   "founder": "Alianaka",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Alianaka",
+   "name": "0E0F",
    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
   },
   "nation": {
@@ -22,12 +22,12 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 357,
-   "maxTownBlocks": 366,
+   "numTownBlocks": 360,
+   "maxTownBlocks": 354,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 28,
-   "numTrusted": 6,
-   "numOutlaws": 2,
+   "numResidents": 27,
+   "numTrusted": 3,
+   "numOutlaws": 3,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 5250.0
   },
   "perms": {
    "build": [
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32607.433004209433,
+    "x": 32632.961288189716,
     "y": 63.0,
-    "z": -30482.854038494206,
-    "pitch": 7.0687385,
-    "yaw": 0.30639574
+    "z": -30481.35737984084,
+    "pitch": -1.171772,
+    "yaw": -0.33398438
    },
    "homeBlock": [
-    2037,
+    2039,
     -1906
    ],
    "townBlocks": [
@@ -576,6 +576,10 @@
      -1915
     ],
     [
+     2051,
+     -1908
+    ],
+    [
      2027,
      -1915
     ],
@@ -594,6 +598,10 @@
     [
      2043,
      -1912
+    ],
+    [
+     2051,
+     -1913
     ],
     [
      2027,
@@ -1038,6 +1046,10 @@
     [
      2046,
      -1908
+    ],
+    [
+     2052,
+     -1912
     ],
     [
      2034,
@@ -1529,7 +1541,7 @@
   },
   "residents": [
    {
-    "name": "Alianaka",
+    "name": "0E0F",
     "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
    },
    {
@@ -1601,10 +1613,6 @@
     "uuid": "39838ee8-9326-43e7-9e28-f5d3fd0b3886"
    },
    {
-    "name": "Firefightt",
-    "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
-   },
-   {
     "name": "Severin00",
     "uuid": "0da9656c-2e0e-4dae-beba-9dfe09211699"
    },
@@ -1637,33 +1645,21 @@
     "uuid": "98e97a64-0dc5-43bd-939f-895b674d5725"
    },
    {
-    "name": "Nimbus_TheTurtle",
-    "uuid": "ad73ccd2-652f-4a6e-b034-cb8623270e59"
+    "name": "BlueFire9858",
+    "uuid": "3c4cb024-3b8a-4c8c-a5d7-a9a6063911ce"
    }
   ],
   "trusted": [
    {
-    "name": "STARDUCK_ZXY",
-    "uuid": "1e0e7c69-0085-4e96-b1db-312cb8c70de2"
-   },
-   {
-    "name": "MindedPercy",
-    "uuid": "1b83fb7d-ccc4-4da2-8aab-89e9a0e51558"
-   },
-   {
-    "name": "qianrubiao",
-    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+    "name": "PoppyPoopyPoo",
+    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
    },
    {
     "name": "Duolingoose",
     "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
    },
    {
-    "name": "NullSelfice",
-    "uuid": "31c3985e-0a3a-46be-810d-838b7d997c08"
-   },
-   {
-    "name": "Alianaka",
+    "name": "0E0F",
     "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
    }
   ],
@@ -1675,6 +1671,10 @@
    {
     "name": "pictureingau",
     "uuid": "05adb2ba-7fda-4e2c-8264-6776f4224e37"
+   },
+   {
+    "name": "killer7362",
+    "uuid": "1ee16562-37e7-4a07-886e-add2c75885a9"
    }
   ],
   "quarters": [
@@ -1695,12 +1695,7 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Firefightt",
-     "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
