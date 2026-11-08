@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Foosha_Village",
   "uuid": "b3ac5875-4b68-473c-8652-a03e03d4637f",
@@ -29,17 +29,17 @@
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 82,
-   "maxTownBlocks": 110,
+   "numTownBlocks": 85,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 4,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -248,6 +248,14 @@
      -179
     ],
     [
+     1811,
+     -178
+    ],
+    [
+     1811,
+     -177
+    ],
+    [
      1820,
      -179
     ],
@@ -318,6 +326,10 @@
     [
      1813,
      -180
+    ],
+    [
+     1811,
+     -176
     ],
     [
      1818,
@@ -432,16 +444,12 @@
     "uuid": "2c5a025f-cbc5-421f-b98d-96f356577268"
    },
    {
-    "name": "DrTildros",
-    "uuid": "dd63b999-e9f0-469b-85dd-2a3813cc796f"
+    "name": "_Mimic_25",
+    "uuid": "d453c336-bf62-4ed5-ab9e-3225bbaeeb8d"
    },
    {
     "name": "Infinitysovo",
     "uuid": "6eeee05a-5593-46bf-9bc6-4e6f86c47465"
-   },
-   {
-    "name": "_Mimic_25",
-    "uuid": "d453c336-bf62-4ed5-ab9e-3225bbaeeb8d"
    }
   ],
   "trusted": [
@@ -479,12 +487,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Infinitysovo",
-     "uuid": "6eeee05a-5593-46bf-9bc6-4e6f86c47465"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Nenagh",
   "uuid": "9c41cfa5-cefe-44dc-af26-7020459b3add",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 124,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -592,26 +592,14 @@
   },
   "residents": [
    {
-    "name": "Palouz",
-    "uuid": "2b003ccc-82b0-4e04-8013-6109c3a06a49"
-   },
-   {
     "name": "Yamino141",
     "uuid": "134cf303-927d-4c42-a5a2-faec9de3c4d5"
-   },
-   {
-    "name": "Zutt_",
-    "uuid": "d166cff0-d921-49f6-945b-babdd299eb33"
    }
   ],
   "trusted": [
    {
     "name": "Yamino141",
     "uuid": "134cf303-927d-4c42-a5a2-faec9de3c4d5"
-   },
-   {
-    "name": "Palouz",
-    "uuid": "2b003ccc-82b0-4e04-8013-6109c3a06a49"
    },
    {
     "name": "MineHero43",
@@ -621,12 +609,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Palouz",
-     "uuid": "2b003ccc-82b0-4e04-8013-6109c3a06a49"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

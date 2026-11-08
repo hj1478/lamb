@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Wuhan",
   "uuid": "9a339a3a-7f12-49b2-9b99-641dd4c67a42",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 404,
-   "maxTownBlocks": 412,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
-   "numTrusted": 25,
+   "numResidents": 24,
+   "numTrusted": 26,
    "numOutlaws": 9,
-   "balance": 6.0,
+   "balance": 100.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1717,6 +1717,10 @@
   },
   "residents": [
    {
+    "name": "Frast1058",
+    "uuid": "82f0f92d-c30e-4ed0-a208-96ceca79c36c"
+   },
+   {
     "name": "zakuid64",
     "uuid": "9c2df859-0a58-44bf-899e-280813263b7f"
    },
@@ -1729,20 +1733,8 @@
     "uuid": "f677025e-2792-4c3b-9563-d8f29a315144"
    },
    {
-    "name": "RKnif",
-    "uuid": "0d0473e3-6b8a-4a0c-99a9-88775aae0a54"
-   },
-   {
     "name": "ItsFurina",
     "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
-   },
-   {
-    "name": "XiaoJin_615",
-    "uuid": "649f32c5-b62b-4e46-94b1-8710fd07c84a"
-   },
-   {
-    "name": "Yanghr_11",
-    "uuid": "d0a06c1f-af52-45a1-8284-309c85e8c049"
    },
    {
     "name": "LB_2015",
@@ -1847,6 +1839,10 @@
     "uuid": "ce421a02-6dcd-405e-a24a-7c4517f477a5"
    },
    {
+    "name": "Frast1058",
+    "uuid": "82f0f92d-c30e-4ed0-a208-96ceca79c36c"
+   },
+   {
     "name": "Big_Loong",
     "uuid": "dde32ea3-e050-4429-8844-2ba3cd81690d"
    },
@@ -1929,7 +1925,7 @@
     "uuid": "a9097345-5732-400d-85a3-67f8813127d1"
    },
    {
-    "name": "AmethysttMC",
+    "name": "Swightzure",
     "uuid": "c4edfcd2-1143-4a93-9ee1-26435fad06d7"
    },
    {
@@ -2080,6 +2076,10 @@
    ],
    "Builder": [
     {
+     "name": "Frast1058",
+     "uuid": "82f0f92d-c30e-4ed0-a208-96ceca79c36c"
+    },
+    {
      "name": "xiao_gaoQAQ",
      "uuid": "edfa1e35-011c-4644-9e70-9613780b1c5d"
     }
@@ -2091,44 +2091,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "store",
-    "uuid": "02cdde38-0d5d-48a8-95b7-d8e4c0c37912",
-    "createdAt": 1788012734759,
-    "createdBy": "AstrInk",
-    "access": "NATION",
-    "location": {
-     "x": 40512,
-     "y": 63,
-     "z": -3073
-    }
-   },
-   {
-    "name": "work",
-    "uuid": "7ede1e93-136f-4ccb-9e17-7bc626c8a42b",
-    "createdAt": 1788012655163,
-    "createdBy": "AstrInk",
-    "access": "NATION",
-    "location": {
-     "x": 40952,
-     "y": 33,
-     "z": -3231
-    }
-   },
-   {
-    "name": "city",
-    "uuid": "6fca2953-6b3f-4a8a-a77d-dfbb3591f304",
-    "createdAt": 1788012717972,
-    "createdBy": "AstrInk",
-    "access": "NATION",
-    "location": {
-     "x": 40585,
-     "y": 63,
-     "z": -3136
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

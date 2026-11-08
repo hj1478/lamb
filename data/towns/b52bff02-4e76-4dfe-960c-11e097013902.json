@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "La_Mancha",
   "uuid": "b52bff02-4e76-4dfe-960c-11e097013902",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 37,
-   "maxTownBlocks": 128,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
-   "numTrusted": 2,
-   "numOutlaws": 5,
-   "balance": 1.0,
+   "numResidents": 6,
+   "numTrusted": 3,
+   "numOutlaws": 7,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -140,6 +140,10 @@
      -413
     ],
     [
+     -64,
+     -408
+    ],
+    [
      -63,
      -408
     ],
@@ -156,11 +160,11 @@
      -412
     ],
     [
-     -62,
+     -63,
      -413
     ],
     [
-     -63,
+     -62,
      -413
     ],
     [
@@ -186,21 +190,17 @@
     [
      -62,
      -409
-    ],
-    [
-     -60,
-     -412
     ],
     [
      -64,
      -413
     ],
     [
-     -62,
-     -410
+     -60,
+     -412
     ],
     [
-     -58,
+     -62,
      -410
     ],
     [
@@ -208,6 +208,10 @@
      -413
     ],
     [
+     -58,
+     -410
+    ],
+    [
      -62,
      -411
     ],
@@ -216,8 +220,16 @@
      -411
     ],
     [
+     -64,
+     -410
+    ],
+    [
      -58,
      -408
+    ],
+    [
+     -64,
+     -409
     ],
     [
      -60,
@@ -226,6 +238,10 @@
     [
      -58,
      -409
+    ],
+    [
+     -64,
+     -412
     ],
     [
      -60,
@@ -233,14 +249,23 @@
     ],
     [
      -64,
-     -412
+     -411
     ],
     [
      -60,
      -410
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -629,
+       74
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -258,9 +283,21 @@
    {
     "name": "Aimi512",
     "uuid": "6c860e22-bcc3-4077-b214-e95d32b83270"
+   },
+   {
+    "name": "creameeeee",
+    "uuid": "25acac96-9b51-4add-9116-b404436adf7d"
+   },
+   {
+    "name": "vosaaa",
+    "uuid": "09b9e190-c190-4019-913e-4e46f165cae4"
    }
   ],
   "trusted": [
+   {
+    "name": "Lambkill",
+    "uuid": "d450205e-d84e-4aeb-a23a-41a6c5fb085b"
+   },
    {
     "name": "0Miura",
     "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
@@ -290,6 +327,14 @@
    {
     "name": "Xtvr",
     "uuid": "0ca7f882-f080-43e8-9eeb-52c79141ca52"
+   },
+   {
+    "name": "Wardzoo",
+    "uuid": "c943da0f-fd13-4fa2-bd1a-e4289a2cc5e1"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    }
   ],
   "quarters": [],
@@ -316,6 +361,10 @@
     {
      "name": "Okurarity",
      "uuid": "a9d11845-114c-42f0-bb51-7efe10182a97"
+    },
+    {
+     "name": "creameeeee",
+     "uuid": "25acac96-9b51-4add-9116-b404436adf7d"
     }
    ],
    "Recruiter": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Alexandria_DD",
   "uuid": "afc8a1d8-01c5-4336-8da3-e24e87103995",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 110,
+   "numTownBlocks": 114,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 15,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,19 @@
    "townBlocks": [
     [
      673,
+     -207
+    ],
+    [
+     673,
      -209
     ],
     [
      673,
      -210
+    ],
+    [
+     673,
+     -206
     ],
     [
      662,
@@ -524,8 +532,16 @@
      -211
     ],
     [
+     672,
+     -206
+    ],
+    [
      674,
      -212
+    ],
+    [
+     672,
+     -205
     ],
     [
      674,
@@ -546,20 +562,20 @@
   ],
   "trusted": [
    {
-    "name": "JR1258",
-    "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
-   },
-   {
-    "name": "MrPickle26",
-    "uuid": "ef634f59-3102-4352-9a80-b7b4a606569a"
+    "name": "Leggs_pt",
+    "uuid": "41b41f0e-3ba8-4478-899a-23642b563530"
    },
    {
     "name": "Redd4dead",
     "uuid": "ef881a83-6363-4618-88d4-1061d2d58155"
    },
    {
-    "name": "qql",
-    "uuid": "1298707e-aab4-4437-8d19-2586916fee53"
+    "name": "Twitchy",
+    "uuid": "98e1592c-4952-4af1-9dc1-9815c29c03f3"
+   },
+   {
+    "name": "shadowhands169",
+    "uuid": "e6c3ebaf-3659-415c-b4c9-cbcf6d6729bd"
    },
    {
     "name": "supergalactic12",
@@ -574,40 +590,77 @@
     "uuid": "54ee8d5e-2b13-41bf-8ec1-8c8f6a60d5d8"
    },
    {
-    "name": "Andre1098",
-    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
-   },
-   {
-    "name": "Twitchy",
-    "uuid": "98e1592c-4952-4af1-9dc1-9815c29c03f3"
-   },
-   {
-    "name": "SpaceNecro",
-    "uuid": "63b91051-9a05-4d4f-9175-b9ae70ee2e42"
-   },
-   {
-    "name": "twomoo1119",
-    "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
-   },
-   {
-    "name": "shadowhands169",
-    "uuid": "e6c3ebaf-3659-415c-b4c9-cbcf6d6729bd"
-   },
-   {
-    "name": "Pharaoh_Horus",
-    "uuid": "f6f28973-649e-48be-9038-5e64d5fd0357"
-   },
-   {
     "name": "Queenofdeath_",
     "uuid": "593fd989-007f-4504-931b-61affe0cc42f"
-   },
-   {
-    "name": "Casziuz",
-    "uuid": "d26672a9-2122-4b77-9f11-9205fb9ba94b"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Annoying Property",
+    "uuid": "8241efb5-9e75-47ea-9632-bc4300acf163"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "273275b4-f974-4fbd-8bb3-972fa0a6f786"
+   },
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "c6999194-746e-4519-aca3-3e560d11b44e"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "818836f3-6903-4216-934a-f8c2fa7c0c00"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "dd869843-cfa5-4924-b0f6-8109e96b0d0f"
+   },
+   {
+    "name": "Medium Apartment",
+    "uuid": "5bf7eef7-70a9-4691-b384-e978d008861a"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "d24d5b6c-ab61-4369-bba3-b913ec73c424"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "24fb1edd-7fed-47dc-849c-1ca4eddc0246"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "bce03aca-3d48-460c-abbc-d7dee6ae102a"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "8416e0ea-3c98-437b-a133-89d9b0336750"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "659a055c-af8f-4835-9234-e8cd7870bdef"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "d2edc023-13b8-449a-a840-942796ab94d8"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "2ca3731e-cca9-436a-bb40-469798c68143"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "ba3f6eb6-7a9c-44c4-81b1-3b6330c8f1f4"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "345662bd-1768-41ed-a08c-295650e53a30"
+   },
+   {
+    "name": "Medium Apartment",
+    "uuid": "bdf58a37-8063-4500-99f3-7c4c419cdeef"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

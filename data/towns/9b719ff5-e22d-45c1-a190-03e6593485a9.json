@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Tarbert",
   "uuid": "9b719ff5-e22d-45c1-a190-03e6593485a9",
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 131.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2453.1474654385793,
+    "x": -2450.9375312957495,
     "y": 66.0,
-    "z": -15532.771229705022,
-    "pitch": 35.85001,
-    "yaw": -3.1663818
+    "z": -15550.397980758413,
+    "pitch": 58.950012,
+    "yaw": 2.3831928
    },
    "homeBlock": [
     -154,
-    -971
+    -972
    ],
    "townBlocks": [
     [
@@ -312,12 +312,12 @@
      -976
     ],
     [
-     -152,
-     -977
-    ],
-    [
      -155,
      -969
+    ],
+    [
+     -152,
+     -977
     ],
     [
      -152,
@@ -438,7 +438,12 @@
     "uuid": "ad05d735-406e-484d-95ea-bfb0282f2358"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

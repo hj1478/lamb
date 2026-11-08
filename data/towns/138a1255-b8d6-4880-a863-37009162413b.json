@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Norseman",
-  "uuid": "b55648cb-ab5f-4d04-9a78-4decdf944f8a",
+  "name": "Asse",
+  "uuid": "138a1255-b8d6-4880-a863-37009162413b",
   "board": "/town set board [msg]",
-  "founder": "Firearrow64",
+  "founder": "creepermaster246",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "TheFantasticSoap",
-   "uuid": "8786b2c4-6351-4e9a-a12c-3643105788c1"
+   "name": "creepermaster246",
+   "uuid": "febcf4d9-6f22-4e49-a55e-aea5de863c60"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
-   "registered": 1783408266503,
-   "joinedNationAt": 1783408270923,
+   "registered": 1794084877149,
+   "joinedNationAt": 1794085115103,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,40 +80,53 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43256.93268558675,
-    "y": 70.0,
-    "z": 20055.891296847367,
-    "pitch": 17.700045,
-    "yaw": -138.42407
+    "x": 2728.3832675572044,
+    "y": 64.0,
+    "z": -12506.639710246805,
+    "pitch": 23.494225,
+    "yaw": -139.73749
    },
    "homeBlock": [
-    2703,
-    1253
+    170,
+    -782
    ],
    "townBlocks": [
     [
-     2703,
-     1253
+     170,
+     -782
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "TheFantasticSoap",
-    "uuid": "8786b2c4-6351-4e9a-a12c-3643105788c1"
+    "name": "creepermaster246",
+    "uuid": "febcf4d9-6f22-4e49-a55e-aea5de863c60"
+   },
+   {
+    "name": "JTben07",
+    "uuid": "9b480f3a-10d2-4d6b-94e8-9c38e939f552"
    }
   ],
   "trusted": [
    {
-    "name": "Panth_r",
-    "uuid": "7708bb6d-50ae-4e98-827f-e332a43ab4f9"
+    "name": "JTben07",
+    "uuid": "9b480f3a-10d2-4d6b-94e8-9c38e939f552"
+   },
+   {
+    "name": "lizzel_ruby",
+    "uuid": "0cf49a40-1784-43ca-9182-d4fb471aecbc"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "JTben07",
+     "uuid": "9b480f3a-10d2-4d6b-94e8-9c38e939f552"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

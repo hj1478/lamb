@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Andaman",
   "uuid": "a94bb3e5-61d7-4488-9a7f-f4e5e619e78e",
@@ -12,12 +12,12 @@
    "uuid": "dc99bc11-e958-4c2a-8bd2-1c2b8cda2b74"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Narmada",
+   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
   },
   "timestamps": {
    "registered": 1791305795043,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793552381969,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 3,

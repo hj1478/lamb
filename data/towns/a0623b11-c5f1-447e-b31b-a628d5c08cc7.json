@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Leningrad",
   "uuid": "a0623b11-c5f1-447e-b31b-a628d5c08cc7",
-  "board": "The Second Capitol",
+  "board": "A spectre is haunting Europe!",
   "founder": "s313n4_r4m1r3z",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 251,
-   "maxTownBlocks": 376,
+   "numTownBlocks": 253,
+   "maxTownBlocks": 472,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 23,
+   "numResidents": 31,
    "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 135.0,
+   "numOutlaws": 2,
+   "balance": 327.0,
    "forSalePrice": null
   },
   "perms": {
@@ -292,12 +292,20 @@
      -1018
     ],
     [
+     629,
+     -1016
+    ],
+    [
      628,
      -1017
     ],
     [
      629,
      -1017
+    ],
+    [
+     628,
+     -1016
     ],
     [
      629,
@@ -1129,14 +1137,6 @@
     "uuid": "ca489ea2-5f22-45a0-b51d-6d43cc51288a"
    },
    {
-    "name": "Allindemcrits",
-    "uuid": "cb069841-273a-4ab9-b585-5595713fc432"
-   },
-   {
-    "name": "GalaxyQuantum",
-    "uuid": "098a46d5-914a-4b4e-b81b-9534334a8952"
-   },
-   {
     "name": "moamJR",
     "uuid": "6a099d5b-a8ff-4a65-bba1-23a5577fbf42"
    },
@@ -1195,6 +1195,46 @@
    {
     "name": "JawPatrol",
     "uuid": "89e11af6-ab33-4bd0-8efe-efd4e27bf86a"
+   },
+   {
+    "name": "iskald_",
+    "uuid": "80b2c380-1806-4d1e-8ebf-878eceb979b8"
+   },
+   {
+    "name": "anonymous_CA_t",
+    "uuid": "b4a2cc9d-1c95-4ddc-b1fa-64e070f50f41"
+   },
+   {
+    "name": "BorisRapha",
+    "uuid": "74a38e44-350d-4357-bbd9-5c7b5dc64e40"
+   },
+   {
+    "name": "Arpulik",
+    "uuid": "41af8820-9464-4b98-8e2a-29c796c58d6d"
+   },
+   {
+    "name": "NightRide_XD",
+    "uuid": "5a00d39f-a4db-4d95-ab93-731a40c67284"
+   },
+   {
+    "name": "DieaRestrict",
+    "uuid": "c1f61f88-d218-4126-b5ee-3821763d3cbf"
+   },
+   {
+    "name": "naoseioquela",
+    "uuid": "5228e871-8c86-454c-b6ef-291639be7e88"
+   },
+   {
+    "name": "GreenLion58",
+    "uuid": "e35d2160-6f65-4792-95cb-24e0e42331d2"
+   },
+   {
+    "name": "Eggshell4U",
+    "uuid": "89e2b27d-f216-47b1-9e3b-2e7bc9f3f74a"
+   },
+   {
+    "name": "N1KS4l",
+    "uuid": "41fdf95d-fa9d-4a48-a3ae-cf31667e6e71"
    }
   ],
   "trusted": [
@@ -1204,10 +1244,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Peniucl",
-    "uuid": "d41ce1ec-5e52-49f6-a6ba-bfaed6e888df"
-   },
    {
     "name": "Nicoo__",
     "uuid": "70d33460-4d1e-46f3-bc31-12d5e224a1ee"
@@ -1247,36 +1283,8 @@
     "uuid": "d332b436-3c28-4cd0-b95a-77dbba1d6201"
    },
    {
-    "name": "BFR-153",
-    "uuid": "3cca14ba-9aaa-4e13-99bf-7e6498cc57af"
-   },
-   {
-    "name": "BFR-154",
-    "uuid": "3c6701ea-1a5d-43b8-bfda-87b68ef04bc0"
-   },
-   {
-    "name": "BFR-163",
-    "uuid": "95feccc5-dd4e-449a-ac1a-e9460886d3c8"
-   },
-   {
     "name": "BFR-172",
     "uuid": "47ffbff0-88a3-4888-9cab-69f08dcc6ed7"
-   },
-   {
-    "name": "BFR-173",
-    "uuid": "0aaff3a7-fe97-4e22-8e75-dd5c6787d325"
-   },
-   {
-    "name": "BFR-174",
-    "uuid": "85594ac3-9b38-4862-9fad-629521062383"
-   },
-   {
-    "name": "BFR-181",
-    "uuid": "819b437d-0ad5-49e5-8dfa-ddd2da1bf001"
-   },
-   {
-    "name": "BFR-182",
-    "uuid": "176be46e-5387-44bd-bb8f-f03df4d11234"
    },
    {
     "name": "BFR-183",
@@ -1307,20 +1315,12 @@
     "uuid": "eb6b5d10-80a0-4e11-85ab-cb8ae5d8ed68"
    },
    {
-    "name": "BFR-1104",
-    "uuid": "f0af2240-e605-44b2-95d4-a6f289764a7b"
-   },
-   {
     "name": "BFR-122",
     "uuid": "527242b3-bde0-4fee-9247-3cf9b5b8ae94"
    },
    {
     "name": "Squadbay 2A-1",
     "uuid": "cc93af68-264b-4b2b-899b-54462f98a3b8"
-   },
-   {
-    "name": "BFR-171",
-    "uuid": "1d03675a-8f5b-40bf-a9a2-c0c0459fcdbc"
    },
    {
     "name": "BFR-1101",
@@ -1353,10 +1353,6 @@
    {
     "name": "Welcoming Property",
     "uuid": "daccff55-ac21-49d2-8bed-a899b5ff9d85"
-   },
-   {
-    "name": "BFR-141",
-    "uuid": "ef12bc45-2cfe-45af-bf7a-6c8500d88e54"
    },
    {
     "name": "Elegant Property",
@@ -1407,20 +1403,12 @@
     "uuid": "5ae70526-63b9-4d18-900f-a5424e2d25bc"
    },
    {
-    "name": "BFR-131",
-    "uuid": "4d638a95-5323-491e-9a84-c53021604868"
-   },
-   {
     "name": "BFR-121",
     "uuid": "65d9bc02-2418-4f7f-8a3a-14a81442a879"
    },
    {
     "name": "BFR-123",
     "uuid": "8b929979-bcae-438a-96f2-ef9d7f16a25b"
-   },
-   {
-    "name": "BFR-132",
-    "uuid": "cc16d341-3e8e-4af8-8dbe-37a04193e19a"
    },
    {
     "name": "Room 4",
@@ -1439,24 +1427,8 @@
     "uuid": "b5aa0be6-ce7f-404b-b8f9-a6375fa76d86"
    },
    {
-    "name": "BRF-124",
-    "uuid": "91994739-bfb2-498e-a57e-faa833fac9ff"
-   },
-   {
     "name": "BFR-133",
     "uuid": "dc364537-abb7-4cc7-a478-b4f5f47c9b31"
-   },
-   {
-    "name": "BFR-164",
-    "uuid": "aa0d1fd1-0667-41d0-a65d-8529c1ff05b2"
-   },
-   {
-    "name": "BFR-162",
-    "uuid": "2b1c0691-4725-45b8-8830-ba370737c2e1"
-   },
-   {
-    "name": "BFR-151",
-    "uuid": "e97ec36a-acc6-403b-9cbf-232775537a9f"
    },
    {
     "name": "BFR-134",
@@ -1465,10 +1437,6 @@
    {
     "name": "BFR-1102",
     "uuid": "f4ff6ba2-0822-4989-a707-24c441d32f16"
-   },
-   {
-    "name": "BFR-152",
-    "uuid": "69dd3f76-58dc-4ef2-98ad-3d79b42d82d9"
    },
    {
     "name": "BFR-142",
@@ -1485,15 +1453,78 @@
    {
     "name": "Access Point 01",
     "uuid": "adb98d7f-5479-49af-afb7-521510314234"
+   },
+   {
+    "name": "BFR-154",
+    "uuid": "3c6701ea-1a5d-43b8-bfda-87b68ef04bc0"
+   },
+   {
+    "name": "BFR-153",
+    "uuid": "3cca14ba-9aaa-4e13-99bf-7e6498cc57af"
+   },
+   {
+    "name": "BFR-162",
+    "uuid": "2b1c0691-4725-45b8-8830-ba370737c2e1"
+   },
+   {
+    "name": "BFR-163",
+    "uuid": "95feccc5-dd4e-449a-ac1a-e9460886d3c8"
+   },
+   {
+    "name": "BRF-124",
+    "uuid": "91994739-bfb2-498e-a57e-faa833fac9ff"
+   },
+   {
+    "name": "BFR-131",
+    "uuid": "4d638a95-5323-491e-9a84-c53021604868"
+   },
+   {
+    "name": "BFR-141",
+    "uuid": "ef12bc45-2cfe-45af-bf7a-6c8500d88e54"
+   },
+   {
+    "name": "BFR-151",
+    "uuid": "e97ec36a-acc6-403b-9cbf-232775537a9f"
+   },
+   {
+    "name": "BFR-171",
+    "uuid": "1d03675a-8f5b-40bf-a9a2-c0c0459fcdbc"
+   },
+   {
+    "name": "BFR-181",
+    "uuid": "819b437d-0ad5-49e5-8dfa-ddd2da1bf001"
+   },
+   {
+    "name": "BFR-182",
+    "uuid": "176be46e-5387-44bd-bb8f-f03df4d11234"
+   },
+   {
+    "name": "BFR-1104",
+    "uuid": "f0af2240-e605-44b2-95d4-a6f289764a7b"
+   },
+   {
+    "name": "BFR-152",
+    "uuid": "69dd3f76-58dc-4ef2-98ad-3d79b42d82d9"
+   },
+   {
+    "name": "BFR-164",
+    "uuid": "aa0d1fd1-0667-41d0-a65d-8529c1ff05b2"
+   },
+   {
+    "name": "BFR-174",
+    "uuid": "85594ac3-9b38-4862-9fad-629521062383"
+   },
+   {
+    "name": "BFR-173",
+    "uuid": "0aaff3a7-fe97-4e22-8e75-dd5c6787d325"
+   },
+   {
+    "name": "BFR-132",
+    "uuid": "cc16d341-3e8e-4af8-8dbe-37a04193e19a"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Allindemcrits",
-     "uuid": "cb069841-273a-4ab9-b585-5595713fc432"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [
     {
@@ -1501,12 +1532,8 @@
      "uuid": "9aa71944-02fb-4b21-9cfb-63969c113ef9"
     },
     {
-     "name": "XXSAVIIORR",
-     "uuid": "b11940f1-3390-4527-870b-2e34236e86a9"
-    },
-    {
-     "name": "s313n4_r4m1r3z",
-     "uuid": "a826ef9e-fafd-4bd8-a3dc-9dab03ed547e"
+     "name": "iskald_",
+     "uuid": "80b2c380-1806-4d1e-8ebf-878eceb979b8"
     }
    ],
    "Police": [],

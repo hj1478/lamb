@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Crafting_Table",
   "uuid": "a25ec8fe-7108-417c-9ce0-fa9d3b71974b",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 7.0,
+   "numOutlaws": 1,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,33 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12375.747236931735,
-    "y": 75.0,
-    "z": -2728.192888976139,
-    "pitch": 90.0,
-    "yaw": 176.83836
+    "x": 12374.420515821026,
+    "y": 76.0,
+    "z": -2729.4278436975364,
+    "pitch": 36.788715,
+    "yaw": -5.1095757
    },
    "homeBlock": [
     773,
     -171
    ],
    "townBlocks": [
+    [
+     774,
+     -170
+    ],
+    [
+     774,
+     -171
+    ],
+    [
+     773,
+     -170
+    ],
+    [
+     773,
+     -169
+    ],
     [
      773,
      -171
@@ -105,7 +121,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Daten_City",
   "uuid": "b4ecdcc5-b2b0-414f-9945-de2fdb200559",
@@ -12,12 +12,12 @@
    "uuid": "3d865d0f-36a6-4d2e-bece-8431b2fddbc4"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793321254110,
-   "joinedNationAt": 1793321425468,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 90,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 244.0,
+   "balance": 222.0,
    "forSalePrice": null
   },
   "perms": {
@@ -168,15 +168,11 @@
      -714
     ],
     [
-     2594,
-     -708
-    ],
-    [
      2592,
      -709
     ],
     [
-     2592,
+     2594,
      -708
     ],
     [
@@ -184,6 +180,10 @@
      -716
     ],
     [
+     2592,
+     -708
+    ],
+    [
      2594,
      -707
     ],
@@ -200,12 +200,16 @@
      -712
     ],
     [
+     2592,
+     -712
+    ],
+    [
      2594,
      -711
     ],
     [
      2592,
-     -712
+     -711
     ],
     [
      2594,
@@ -213,18 +217,18 @@
     ],
     [
      2592,
-     -711
+     -710
     ],
     [
      2594,
      -709
     ],
     [
-     2592,
-     -710
+     2594,
+     -716
     ],
     [
-     2594,
+     2592,
      -716
     ],
     [
@@ -233,7 +237,7 @@
     ],
     [
      2592,
-     -716
+     -715
     ],
     [
      2594,
@@ -241,15 +245,11 @@
     ],
     [
      2592,
-     -715
+     -714
     ],
     [
      2594,
      -713
-    ],
-    [
-     2592,
-     -714
     ],
     [
      2590,
@@ -328,24 +328,24 @@
      -714
     ],
     [
-     2593,
-     -713
-    ],
-    [
      2589,
      -715
+    ],
+    [
+     2593,
+     -713
     ],
     [
      2596,
      -709
     ],
     [
-     2593,
-     -712
-    ],
-    [
      2589,
      -716
+    ],
+    [
+     2593,
+     -712
     ],
     [
      2596,
@@ -428,20 +428,20 @@
      -708
     ],
     [
-     2593,
-     -711
-    ],
-    [
      2591,
      -708
     ],
     [
      2593,
-     -710
+     -711
     ],
     [
      2591,
      -707
+    ],
+    [
+     2593,
+     -710
     ],
     [
      2591,

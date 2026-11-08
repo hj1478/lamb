@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Veneyork",
   "uuid": "9ddf9620-c6fa-47e3-8421-b52bc68c83b8",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Rayleighber",
-   "uuid": "38bac7b6-e462-4aeb-8d34-22698e70c5ac"
+   "name": "NPC89",
+   "uuid": "e07d354d-7929-20af-ab87-1cd586b1894f"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778198147431,
-   "joinedNationAt": 1778212338544,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794132006918
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 33.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -264,8 +264,8 @@
   },
   "residents": [
    {
-    "name": "Rayleighber",
-    "uuid": "38bac7b6-e462-4aeb-8d34-22698e70c5ac"
+    "name": "NPC89",
+    "uuid": "e07d354d-7929-20af-ab87-1cd586b1894f"
    }
   ],
   "trusted": [],

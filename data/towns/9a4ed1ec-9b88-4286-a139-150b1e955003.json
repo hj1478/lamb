@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Wygwizdow",
   "uuid": "9a4ed1ec-9b88-4286-a139-150b1e955003",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MISIEKgaming",
-   "uuid": "911847e9-0733-48ce-9068-2fd3f8db4748"
+   "name": "NPC30",
+   "uuid": "f4d50ad5-4997-2084-9446-290961013dbf"
   },
   "nation": {
-   "name": "Poland",
-   "uuid": "a7d37910-0663-4399-a2b5-cb9caf032652"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790448477045,
-   "joinedNationAt": 1790448513460,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794132002464
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 74,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 3.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,12 +112,8 @@
   },
   "residents": [
    {
-    "name": "MISIEKgaming",
-    "uuid": "911847e9-0733-48ce-9068-2fd3f8db4748"
-   },
-   {
-    "name": "L30n555",
-    "uuid": "73ede9d7-e954-4feb-bd84-e9130ffc5c01"
+    "name": "NPC30",
+    "uuid": "f4d50ad5-4997-2084-9446-290961013dbf"
    }
   ],
   "trusted": [],
@@ -125,12 +121,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "L30n555",
-     "uuid": "73ede9d7-e954-4feb-bd84-e9130ffc5c01"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

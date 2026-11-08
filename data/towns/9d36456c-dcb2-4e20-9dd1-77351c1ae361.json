@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Yaroslavl",
   "uuid": "9d36456c-dcb2-4e20-9dd1-77351c1ae361",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 345,
-   "maxTownBlocks": 268,
+   "maxTownBlocks": 328,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 19,
    "numTrusted": 4,
-   "numOutlaws": 8,
-   "balance": 370.0,
+   "numOutlaws": 10,
+   "balance": 106.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14364.918623688345,
-    "y": -26.0,
-    "z": -15450.454372881968,
-    "pitch": 29.812988,
-    "yaw": -148.56737
+    "x": 14002.319503528579,
+    "y": 64.5,
+    "z": -15347.346194383572,
+    "pitch": -14.4811535,
+    "yaw": -5.1411133
    },
    "homeBlock": [
-    897,
-    -966
+    875,
+    -960
    ],
    "townBlocks": [
     [
@@ -1500,16 +1500,8 @@
     "uuid": "5203e0f8-9bfe-4f46-8bf4-6aad0b977c86"
    },
    {
-    "name": "CHICKENMAN3302",
-    "uuid": "e562626a-1d0c-4e82-ae9b-8a2742f9996f"
-   },
-   {
     "name": "misha_GG_AWP",
     "uuid": "2eb8be1d-3840-4016-903f-6be5e0d12307"
-   },
-   {
-    "name": "Mr_Calcestruzzo",
-    "uuid": "afaa787b-e414-4036-bf9e-36ae800fbc22"
    },
    {
     "name": "xTRUTHxYT",
@@ -1528,8 +1520,36 @@
     "uuid": "554899a7-1728-4018-8890-8d91047fc2ef"
    },
    {
-    "name": "CuteCorgi4538",
-    "uuid": "1f6442f3-8164-4c39-9794-bce895ed7204"
+    "name": "timmydiva",
+    "uuid": "1110cfcc-6fd0-4a87-b27c-e162df9224a8"
+   },
+   {
+    "name": "Antimorality",
+    "uuid": "37761f2b-834e-4486-af92-04624aa7b790"
+   },
+   {
+    "name": "jazzel16",
+    "uuid": "9d672a2d-c0f4-4e65-b3e8-65ed152cb7a1"
+   },
+   {
+    "name": "Mirovex",
+    "uuid": "e409f359-7825-4777-afda-449a2454e132"
+   },
+   {
+    "name": "Aliheydar",
+    "uuid": "74e01174-7a56-4017-937c-f3744f4d5331"
+   },
+   {
+    "name": "Patojgamer",
+    "uuid": "a712bcee-8258-4ef2-b48b-c826ac92588e"
+   },
+   {
+    "name": "xXEnderman3000Xx",
+    "uuid": "db55fab8-6dc4-458c-9b7f-4d2a0e589830"
+   },
+   {
+    "name": "TrickyAesirTA",
+    "uuid": "a30bc680-c8e8-41ef-8fbe-b748622a92b2"
    }
   ],
   "trusted": [
@@ -1582,6 +1602,14 @@
    {
     "name": "Applebees2013",
     "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+   },
+   {
+    "name": "01kd",
+    "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+   },
+   {
+    "name": "slapshot404",
+    "uuid": "97160b9b-11b9-404f-8547-a5cc13bbde55"
    }
   ],
   "quarters": [
@@ -1738,10 +1766,6 @@
     "uuid": "123af3e4-75ea-48ce-8469-d91128a303b9"
    },
    {
-    "name": "Warehouse",
-    "uuid": "43eff9be-788e-40b6-bd78-088c3462bcfa"
-   },
-   {
     "name": "Dull Tenement",
     "uuid": "a7fb6fc8-0e80-4634-80ea-f624b5220408"
    },
@@ -1814,40 +1838,64 @@
     "uuid": "04f69b74-dd5c-4a19-89ee-bed968bfe9ee"
    },
    {
-    "name": "Upbeat Property",
-    "uuid": "ce59c526-d533-4caf-a13f-5ed700dea100"
-   },
-   {
-    "name": "Dingy Property",
-    "uuid": "e55d0375-f747-4860-9c49-a450601767b9"
-   },
-   {
-    "name": "Welcoming Residence",
-    "uuid": "0ebd8bf8-cfae-4a0e-a101-5ef4d5bf0162"
-   },
-   {
     "name": "Potato_Factory",
     "uuid": "50a3850d-3e3e-44e1-90f0-e4f0b6acf9b3"
    },
    {
-    "name": "Lovely Dwelling",
-    "uuid": "3f3ac20f-7f13-4f06-8bea-98a3b9143bc9"
-   },
-   {
-    "name": "Dingy Flat",
-    "uuid": "39da006a-a0ab-41de-b8c8-725f55f86796"
-   },
-   {
-    "name": "Luxurious Residence",
-    "uuid": "d9fb40cc-4ad2-485b-9a16-b8767a6cf2f8"
-   },
-   {
-    "name": "Welcoming Residence",
+    "name": "Apartment1",
     "uuid": "44a2ca9e-86fc-43ae-91b1-1fb422ff4b68"
    },
    {
-    "name": "Enraging Apartment",
+    "name": "Apartment2",
+    "uuid": "ce59c526-d533-4caf-a13f-5ed700dea100"
+   },
+   {
+    "name": "Apartment 3",
+    "uuid": "3f3ac20f-7f13-4f06-8bea-98a3b9143bc9"
+   },
+   {
+    "name": "Apartment 4",
+    "uuid": "e55d0375-f747-4860-9c49-a450601767b9"
+   },
+   {
+    "name": "Apartment 5",
+    "uuid": "5382384f-8b58-4a0b-babf-26875e895e91"
+   },
+   {
+    "name": "Apartment 6",
+    "uuid": "39da006a-a0ab-41de-b8c8-725f55f86796"
+   },
+   {
+    "name": "Apartment 7",
     "uuid": "75bd1446-8f20-489a-a804-fcbeb37ac0dd"
+   },
+   {
+    "name": "Apartment 8",
+    "uuid": "d9fb40cc-4ad2-485b-9a16-b8767a6cf2f8"
+   },
+   {
+    "name": "Apartment 10",
+    "uuid": "1d0b84e4-11af-4623-b5de-1afb68205646"
+   },
+   {
+    "name": "Lovely Apartment",
+    "uuid": "bf8e3431-2ae2-46e6-b96e-7dc25a1a8c25"
+   },
+   {
+    "name": "Warehouse",
+    "uuid": "43eff9be-788e-40b6-bd78-088c3462bcfa"
+   },
+   {
+    "name": "Gloomy Suite",
+    "uuid": "09b69e28-dbdc-4f3d-98d7-d80b167e6b3e"
+   },
+   {
+    "name": "Apartment 9",
+    "uuid": "806208ff-bb0f-4779-8446-46c08e4fe1ed"
+   },
+   {
+    "name": "aperment",
+    "uuid": "4c37c7e3-b3e1-4842-9418-7678b1a085cb"
    }
   ],
   "ranks": {
@@ -1855,10 +1903,6 @@
     {
      "name": "lucy2103",
      "uuid": "c1102cd1-d8bf-4cc7-969d-c6b1c1c9462b"
-    },
-    {
-     "name": "Mr_Calcestruzzo",
-     "uuid": "afaa787b-e414-4036-bf9e-36ae800fbc22"
     }
    ],
    "Builder": [
@@ -1867,8 +1911,8 @@
      "uuid": "2eb8be1d-3840-4016-903f-6be5e0d12307"
     },
     {
-     "name": "Mr_Calcestruzzo",
-     "uuid": "afaa787b-e414-4036-bf9e-36ae800fbc22"
+     "name": "Antimorality",
+     "uuid": "37761f2b-834e-4486-af92-04624aa7b790"
     }
    ],
    "Recruiter": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "PR_Of_Frogs",
   "uuid": "a7946b64-9899-47c2-99ea-1a95f0b6f6c9",
@@ -12,12 +12,12 @@
    "uuid": "c51a1437-7315-4638-a8e5-5a118c0c945e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
    "registered": 1793965998891,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793993053081,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 100,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,40 @@
    ],
    "townBlocks": [
     [
+     2770,
+     1232
+    ],
+    [
      2768,
      1232
+    ],
+    [
+     2768,
+     1231
+    ],
+    [
+     2772,
+     1232
+    ],
+    [
+     2771,
+     1232
+    ],
+    [
+     2769,
+     1233
+    ],
+    [
+     2769,
+     1232
+    ],
+    [
+     2769,
+     1231
+    ],
+    [
+     2770,
+     1231
     ]
    ],
    "worlds": {}
@@ -106,6 +138,14 @@
    {
     "name": "codekittyalex",
     "uuid": "b7e12841-0bde-4586-aa81-56edad0d917e"
+   },
+   {
+    "name": "scammig",
+    "uuid": "39a9cecd-e01a-49d4-b28f-d2099361ebe8"
+   },
+   {
+    "name": "MangosAmIRite",
+    "uuid": "7db82d59-b251-4db0-896f-abd4ed7bcdeb"
    }
   ],
   "trusted": [],
@@ -116,6 +156,14 @@
     {
      "name": "codekittyalex",
      "uuid": "b7e12841-0bde-4586-aa81-56edad0d917e"
+    },
+    {
+     "name": "scammig",
+     "uuid": "39a9cecd-e01a-49d4-b28f-d2099361ebe8"
+    },
+    {
+     "name": "MangosAmIRite",
+     "uuid": "7db82d59-b251-4db0-896f-abd4ed7bcdeb"
     }
    ],
    "Builder": [],

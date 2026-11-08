@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Akkadia",
   "uuid": "a6e0fb34-51ca-4f40-ac67-9ca5c4e6ee30",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 54,
+   "numTownBlocks": 25,
+   "maxTownBlocks": 66,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 2,
-   "numTrusted": 2,
-   "numOutlaws": 4,
+   "numResidents": 3,
+   "numTrusted": 4,
+   "numOutlaws": 6,
    "balance": 4.0,
    "forSalePrice": null
   },
@@ -92,18 +92,18 @@
    ],
    "townBlocks": [
     [
-     2831,
-     -386
+     2830,
+     -385
+    ],
+    [
+     2832,
+     -389
     ],
     [
      2830,
      -386
     ],
     [
-     2831,
-     -387
-    ],
-    [
      2832,
      -388
     ],
@@ -112,16 +112,52 @@
      -387
     ],
     [
+     2830,
+     -388
+    ],
+    [
+     2829,
+     -386
+    ],
+    [
+     2829,
+     -387
+    ],
+    [
+     2829,
+     -388
+    ],
+    [
+     2831,
+     -386
+    ],
+    [
+     2831,
+     -387
+    ],
+    [
      2831,
      -388
     ],
     [
-     2830,
-     -388
+     2831,
+     -389
     ],
     [
      2832,
      -385
+    ],
+    [
+     2833,
+     -384
+    ],
+    [
+     2832,
+     -384
+    ],
+    [
+     2831,
+     -384
     ],
     [
      2832,
@@ -150,6 +186,10 @@
     [
      2833,
      -387
+    ],
+    [
+     2832,
+     -383
     ]
    ],
    "worlds": {}
@@ -162,9 +202,21 @@
    {
     "name": "ItsSalah_",
     "uuid": "aea28f3c-2c78-4290-b627-716dd54fa82a"
+   },
+   {
+    "name": "beetwooo",
+    "uuid": "4cc58ffc-3554-4a6c-adf3-afc171dc85e9"
    }
   ],
   "trusted": [
+   {
+    "name": "shiopan229",
+    "uuid": "505184cd-1fa1-4fa2-ac95-797ea48d2d1d"
+   },
+   {
+    "name": "sungjin89",
+    "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
+   },
    {
     "name": "CrownOfLech",
     "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
@@ -188,8 +240,16 @@
     "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
    },
    {
-    "name": "sungjin89",
-    "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   },
+   {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    }
   ],
   "quarters": [
@@ -209,7 +269,12 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "ONEBUILDS",
+     "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
+    }
+   ],
    "Police": [
     {
      "name": "ONEBUILDS",

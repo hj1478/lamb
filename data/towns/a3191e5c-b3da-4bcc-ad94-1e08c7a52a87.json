@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Lhasa_Konggar",
   "uuid": "a3191e5c-b3da-4bcc-ad94-1e08c7a52a87",
@@ -12,12 +12,12 @@
    "uuid": "1172453e-0138-437b-8f16-145f8e3b50b6"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
    "registered": 1793776358660,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793878884803,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32776.308995134685,
-    "y": 105.0,
-    "z": -2755.5433520563997,
-    "pitch": 56.249973,
-    "yaw": -90.4375
+    "x": 32775.06789283263,
+    "y": 112.0,
+    "z": -2761.450064796439,
+    "pitch": 69.45004,
+    "yaw": -1.9499942
    },
    "homeBlock": [
     2048,
@@ -92,7 +92,31 @@
    ],
    "townBlocks": [
     [
+     2050,
+     -173
+    ],
+    [
+     2050,
+     -172
+    ],
+    [
+     2050,
+     -175
+    ],
+    [
+     2050,
+     -174
+    ],
+    [
+     2050,
+     -176
+    ],
+    [
      2048,
+     -174
+    ],
+    [
+     2045,
      -174
     ],
     [
@@ -100,8 +124,52 @@
      -173
     ],
     [
+     2045,
+     -173
+    ],
+    [
+     2048,
+     -176
+    ],
+    [
+     2045,
+     -172
+    ],
+    [
      2048,
      -175
+    ],
+    [
+     2046,
+     -172
+    ],
+    [
+     2048,
+     -172
+    ],
+    [
+     2046,
+     -173
+    ],
+    [
+     2047,
+     -174
+    ],
+    [
+     2047,
+     -173
+    ],
+    [
+     2046,
+     -174
+    ],
+    [
+     2047,
+     -172
+    ],
+    [
+     2049,
+     -176
     ],
     [
      2049,
@@ -110,6 +178,10 @@
     [
      2049,
      -175
+    ],
+    [
+     2049,
+     -172
     ],
     [
      2049,
@@ -124,7 +196,12 @@
     "uuid": "1172453e-0138-437b-8f16-145f8e3b50b6"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "minori2846",
+    "uuid": "e2923627-d89c-44c1-83ba-4a0433428b8f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

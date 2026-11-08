@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Oregon_City",
   "uuid": "9c17039a-e663-45a1-9f95-3884d2c5a967",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 20,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -144,19 +144,19 @@
      -579
     ],
     [
-     -2759,
-     -580
-    ],
-    [
      -2761,
      -582
     ],
     [
      -2759,
-     -581
+     -580
     ],
     [
      -2761,
+     -581
+    ],
+    [
+     -2759,
      -581
     ],
     [
@@ -182,6 +182,14 @@
    {
     "name": "Frxsty_Dxrk",
     "uuid": "62aff03e-ad16-4111-899d-9376e42c187c"
+   },
+   {
+    "name": "Flummigamer",
+    "uuid": "7690e967-5d74-42c6-959f-a015d0e24459"
+   },
+   {
+    "name": "fmstareyes",
+    "uuid": "3bb72550-da11-43a7-8a61-d423deb8490b"
    }
   ],
   "trusted": [

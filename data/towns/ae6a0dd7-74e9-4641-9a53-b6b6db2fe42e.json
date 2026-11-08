@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Moozuren",
   "uuid": "ae6a0dd7-74e9-4641-9a53-b6b6db2fe42e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 97,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 99,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -472,17 +472,29 @@
      -727
     ],
     [
+     114,
+     -737
+    ],
+    [
      111,
      -726
     ],
     [
      113,
      -737
+    ],
+    [
+     114,
+     -736
     ]
    ],
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "NotMakarov",
+    "uuid": "24161b7a-96d0-4fc0-ba86-58afad7e9851"
+   },
    {
     "name": "moomincrimes",
     "uuid": "1598bbf5-0c78-4c04-ae43-11244a3d402e"
@@ -492,12 +504,20 @@
    {
     "name": "moomincrimes",
     "uuid": "1598bbf5-0c78-4c04-ae43-11244a3d402e"
+   },
+   {
+    "name": "NotMakarov",
+    "uuid": "24161b7a-96d0-4fc0-ba86-58afad7e9851"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [
+    {
+     "name": "NotMakarov",
+     "uuid": "24161b7a-96d0-4fc0-ba86-58afad7e9851"
+    },
     {
      "name": "moomincrimes",
      "uuid": "1598bbf5-0c78-4c04-ae43-11244a3d402e"

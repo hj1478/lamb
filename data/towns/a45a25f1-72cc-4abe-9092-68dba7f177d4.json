@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Tower",
   "uuid": "a45a25f1-72cc-4abe-9092-68dba7f177d4",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     579,
+     -1224
+    ],
+    [
+     579,
+     -1225
+    ],
+    [
+     581,
+     -1225
+    ],
+    [
      580,
      -1225
     ]
@@ -110,7 +122,44 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Tower station",
+    "uuid": "1687ac29-995d-40a2-a55a-6888139e2d3a"
+   },
+   {
+    "name": "Tower-2 Apartment-2",
+    "uuid": "87d6c2a3-90c7-478d-b77f-bdcb8fd7baca"
+   },
+   {
+    "name": "Tower-2 Apartment-1",
+    "uuid": "6d3d262d-6593-4b83-b35f-9fc460463cfc"
+   },
+   {
+    "name": "Tower-2 Apartment-3",
+    "uuid": "d5e2e97f-a4d1-4a07-b513-fcb58dabf2d4"
+   },
+   {
+    "name": "Tower-2 Apartment-7",
+    "uuid": "3e083469-023f-40f6-a75c-85bd2b57cdc3"
+   },
+   {
+    "name": "Tower-2 Apartment-6",
+    "uuid": "ae9a9648-0af0-4a4b-9c15-3700a34e27b0"
+   },
+   {
+    "name": "Tower-2 Apartment-8",
+    "uuid": "61330112-c985-46ef-9064-bc632f88df77"
+   },
+   {
+    "name": "Tower-2 Apartment-4",
+    "uuid": "4dc36ade-ee62-4ba9-908d-f2b78f3ce6c1"
+   },
+   {
+    "name": "Tower-2 Apartment-5",
+    "uuid": "c0b66396-1790-4ab2-aaee-95f04e251105"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {

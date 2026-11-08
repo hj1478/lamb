@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Takeshima",
-  "uuid": "76022ce6-d1dd-4278-b59a-7a09960e3965",
-  "board": "/town set board [msg]",
-  "founder": "channaga317",
+  "name": "Frostbite",
+  "uuid": "852bdc39-f0b8-4a7e-b6a2-cd33ceee3621",
+  "board": "Sillycats Team Outpost.",
+  "founder": "saturnpatty",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC91",
-   "uuid": "3fd02d60-76c1-205f-9157-2bc3cec7c8ca"
+   "name": "saturnpatty",
+   "uuid": "4a0ba1dc-fd62-4ac4-87c5-e079d3ca6af2"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793688372164,
+   "registered": 1794107799086,
    "joinedNationAt": null,
-   "ruinedAt": 1793851998756
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -48,90 +48,70 @@
   "perms": {
    "build": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "destroy": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "switch": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "itemUse": [
     true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 47217.49596578097,
-    "y": 63.0,
-    "z": -6002.522530910518,
-    "pitch": 63.150036,
-    "yaw": -138.49437
+    "x": -29427.12449914297,
+    "y": 64.0,
+    "z": -31880.14446607311,
+    "pitch": 25.359264,
+    "yaw": 12.920898
    },
    "homeBlock": [
-    2951,
-    -376
+    -1840,
+    -1993
    ],
    "townBlocks": [
     [
-     2952,
-     -377
+     -1840,
+     -1992
     ],
     [
-     2952,
-     -376
-    ],
-    [
-     2953,
-     -376
-    ],
-    [
-     2951,
-     -377
-    ],
-    [
-     2951,
-     -376
+     -1840,
+     -1993
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC91",
-    "uuid": "3fd02d60-76c1-205f-9157-2bc3cec7c8ca"
+    "name": "saturnpatty",
+    "uuid": "4a0ba1dc-fd62-4ac4-87c5-e079d3ca6af2"
    }
   ],
   "trusted": [
    {
-    "name": "sake358",
-    "uuid": "96dce50f-4d0c-4c61-82e2-25b4af41912d"
-   },
-   {
-    "name": "osyondesuyo",
-    "uuid": "a93eb935-9baf-4bac-8062-4541e341ee80"
-   },
-   {
-    "name": "_starmii",
-    "uuid": "bb31a245-090b-435e-b6c2-79a1b0f5e5d8"
+    "name": "mish_yx",
+    "uuid": "6295c8d6-82ba-4baa-b30d-690a8a7f6853"
    }
   ],
   "outlaws": [],

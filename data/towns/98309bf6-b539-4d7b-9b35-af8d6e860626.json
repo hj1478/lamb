@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Slovenija",
   "uuid": "98309bf6-b539-4d7b-9b35-af8d6e860626",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 4,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5140.727071345535,
-    "y": 81.0,
-    "z": -9770.791913884499,
-    "pitch": 12.1500225,
-    "yaw": 23.24626
+    "x": 5141.357323438492,
+    "y": 82.0,
+    "z": -9769.371827689538,
+    "pitch": 20.849989,
+    "yaw": -178.50375
    },
    "homeBlock": [
     321,
@@ -102,6 +102,10 @@
     [
      321,
      -610
+    ],
+    [
+     320,
+     -611
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Beer_Sheva",
   "uuid": "a0c59a16-5b02-4e2d-a0a8-e7e52d2bf518",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 36,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 11,
-   "balance": 94.0,
+   "balance": 51.0,
    "forSalePrice": null
   },
   "perms": {
@@ -121,7 +121,15 @@
     ],
     [
      780,
+     -214
+    ],
+    [
+     780,
      -215
+    ],
+    [
+     777,
+     -214
     ],
     [
      780,
@@ -138,6 +146,10 @@
     [
      780,
      -218
+    ],
+    [
+     777,
+     -215
     ],
     [
      780,
@@ -244,8 +256,12 @@
     "uuid": "b6c203c1-75ac-4171-a291-2bf51efaa7f2"
    },
    {
-    "name": "Harveyspector13",
-    "uuid": "21d71863-3f0a-435b-8f5a-573479931954"
+    "name": "MrNaor",
+    "uuid": "18242226-475d-4e80-a447-6d6026ad8aad"
+   },
+   {
+    "name": "Real_Bobkabob",
+    "uuid": "781532e9-c27b-403b-b5ca-ed9eccc947bc"
    }
   ],
   "trusted": [],
@@ -297,10 +313,6 @@
   ],
   "quarters": [
    {
-    "name": "house 2",
-    "uuid": "cd468d7e-8a69-4967-9d67-5a69c6eabf9f"
-   },
-   {
     "name": "Stylish Tenement",
     "uuid": "9154ddbf-596c-4de9-9f6b-24ccddecbbda"
    },
@@ -311,16 +323,23 @@
    {
     "name": "Annoying Dwelling",
     "uuid": "6adc0e05-f247-4b16-aa48-21da76c788cd"
+   },
+   {
+    "name": "apartment1inaprtmentbuilding1",
+    "uuid": "83a22975-79ad-4498-94b6-d2f1f3bb9582"
+   },
+   {
+    "name": "house 2",
+    "uuid": "cd468d7e-8a69-4967-9d67-5a69c6eabf9f"
+   },
+   {
+    "name": "aprtment2aprmenthouse1",
+    "uuid": "0344e3f9-0799-4e75-9557-44795b541ea3"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Harveyspector13",
-     "uuid": "21d71863-3f0a-435b-8f5a-573479931954"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "EdgeTown",
   "uuid": "91dd1215-5084-43f9-a21a-a5356b515f92",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 76.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,88 @@
    ],
    "townBlocks": [
     [
-     1945,
+     1947,
+     30
+    ],
+    [
+     1947,
+     31
+    ],
+    [
+     1946,
+     34
+    ],
+    [
+     1946,
+     35
+    ],
+    [
+     1943,
      32
+    ],
+    [
+     1946,
+     32
+    ],
+    [
+     1946,
+     33
+    ],
+    [
+     1944,
+     33
+    ],
+    [
+     1944,
+     31
     ],
     [
      1944,
      32
+    ],
+    [
+     1945,
+     35
+    ],
+    [
+     1945,
+     34
+    ],
+    [
+     1945,
+     33
+    ],
+    [
+     1945,
+     32
+    ],
+    [
+     1946,
+     30
+    ],
+    [
+     1945,
+     31
+    ],
+    [
+     1946,
+     31
+    ],
+    [
+     1945,
+     30
+    ],
+    [
+     1946,
+     29
+    ],
+    [
+     1947,
+     33
+    ],
+    [
+     1947,
+     34
     ]
    ],
    "worlds": {}
@@ -110,6 +186,18 @@
    {
     "name": "blazess_cr",
     "uuid": "69ea5a6a-0aa2-4855-8699-3f0d84eed3c4"
+   },
+   {
+    "name": "Rexlor22",
+    "uuid": "97b50573-0820-467e-ac2b-275806e9ec85"
+   },
+   {
+    "name": "morgy1888",
+    "uuid": "2ebeda02-72c6-428b-808c-4c0f00225df0"
+   },
+   {
+    "name": "Rustyboyfrisson",
+    "uuid": "7f2503d7-0563-461c-87fe-25d78c0256c3"
    }
   ],
   "trusted": [],
@@ -120,9 +208,22 @@
     {
      "name": "blazess_cr",
      "uuid": "69ea5a6a-0aa2-4855-8699-3f0d84eed3c4"
+    },
+    {
+     "name": "Rexlor22",
+     "uuid": "97b50573-0820-467e-ac2b-275806e9ec85"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "morgy1888",
+     "uuid": "2ebeda02-72c6-428b-808c-4c0f00225df0"
+    },
+    {
+     "name": "Rustyboyfrisson",
+     "uuid": "7f2503d7-0563-461c-87fe-25d78c0256c3"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Kunkrex_City",
-  "uuid": "008d7503-9122-4a3b-a9aa-aa0dd6363395",
+  "name": "Ecorp",
+  "uuid": "a0ea08ba-21b2-490c-92a2-e855b840a6b1",
   "board": "/town set board [msg]",
-  "founder": "kunk_fr",
+  "founder": "Eferator",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kunk_fr",
-   "uuid": "2999155b-1b85-4924-a044-e3109818d516"
+   "name": "Eferator",
+   "uuid": "177e897c-cb8d-4cf5-ae87-dc7eaea5b8cb"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": "Congo",
+   "uuid": "7a64e880-43c9-4098-9109-a0aab17db6c5"
   },
   "timestamps": {
-   "registered": 1790139545251,
-   "joinedNationAt": 1790139575252,
+   "registered": 1794085102054,
+   "joinedNationAt": 1794085130282,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 30,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,60 +80,63 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35141.4201233777,
-    "y": 71.0,
-    "z": -9780.018873844574,
-    "pitch": 26.4866,
-    "yaw": 146.21445
+    "x": 5000.699999988079,
+    "y": 70.0,
+    "z": 12200.447788704068,
+    "pitch": 86.08223,
+    "yaw": 91.584595
    },
    "homeBlock": [
-    -2197,
-    -612
+    312,
+    762
    ],
    "townBlocks": [
     [
-     -2197,
-     -612
+     312,
+     762
     ],
     [
-     -2195,
-     -611
+     312,
+     761
     ],
     [
-     -2196,
-     -612
+     311,
+     762
     ],
     [
-     -2198,
-     -612
+     311,
+     763
     ],
     [
-     -2195,
-     -612
+     310,
+     762
+    ],
+    [
+     309,
+     762
+    ],
+    [
+     308,
+     762
+    ],
+    [
+     311,
+     761
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "kunk_fr",
-    "uuid": "2999155b-1b85-4924-a044-e3109818d516"
-   },
-   {
-    "name": "rex354543",
-    "uuid": "b30ae36e-7792-4918-b667-3f7395dd634c"
+    "name": "Eferator",
+    "uuid": "177e897c-cb8d-4cf5-ae87-dc7eaea5b8cb"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "rex354543",
-     "uuid": "b30ae36e-7792-4918-b667-3f7395dd634c"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

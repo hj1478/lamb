@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Beirut",
   "uuid": "96065cba-10b1-4ce6-a736-c4ba42d28154",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "arcttc",
-   "uuid": "778946b7-0add-40cd-91a5-fdeac0043186"
+   "name": "bumbaTOOT",
+   "uuid": "4089cbb7-e0e5-40ca-86d9-93ad82e2f5d8"
   },
   "nation": {
    "name": "Palestine",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 125,
-   "maxTownBlocks": 128,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 4,
-   "numOutlaws": 6,
-   "balance": 5.0,
+   "numOutlaws": 7,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12907.07234903593,
-    "y": 67.0,
-    "z": -5156.338505133923,
-    "pitch": 6.564934,
-    "yaw": 90.773926
+    "x": 12931.875367997513,
+    "y": 77.0,
+    "z": -5157.1203834294365,
+    "pitch": 4.4649215,
+    "yaw": 69.77466
    },
    "homeBlock": [
-    806,
+    808,
     -323
    ],
    "townBlocks": [
@@ -608,6 +608,10 @@
     "uuid": "4089cbb7-e0e5-40ca-86d9-93ad82e2f5d8"
    },
    {
+    "name": "vita007",
+    "uuid": "b226861b-7b11-4792-ba2e-53c05858f90a"
+   },
+   {
     "name": "arcttc",
     "uuid": "778946b7-0add-40cd-91a5-fdeac0043186"
    }
@@ -654,6 +658,10 @@
    {
     "name": "Whiteheart_WC",
     "uuid": "b1282560-3125-46f6-98ea-984b1ade3ca5"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    }
   ],
   "quarters": [],

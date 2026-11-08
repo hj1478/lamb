@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Bonaire",
   "uuid": "b03abe7c-ada4-4626-928f-6e4fa46d37e1",
-  "board": "Small farming island in the Caribbean off the coast of Venezuela",
+  "board": "Small farming island in the Caribbean off the coast of Venezuela, ally of Alba",
   "founder": "Mestarihylje",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mestarihylje",
-   "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
+   "name": "Tuhooja09",
+   "uuid": "6ba3f4ac-ef7d-4477-bb50-bd6030a6dc81"
   },
   "nation": {
    "name": "Venezuela",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
@@ -35,10 +35,10 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 58,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 8,
@@ -201,6 +201,10 @@
     ],
     [
      -1531,
+     230
+    ],
+    [
+     -1531,
      225
     ],
     [
@@ -224,16 +228,16 @@
     "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
    },
    {
-    "name": "Tuhooja09",
-    "uuid": "6ba3f4ac-ef7d-4477-bb50-bd6030a6dc81"
-   },
-   {
     "name": "Sleepyy_MC",
     "uuid": "1fa05c95-e954-4f0f-90c9-fd4d3bf00624"
    },
    {
     "name": "7Krieg",
     "uuid": "423444a2-ca9b-47ef-bd3e-44c81998990c"
+   },
+   {
+    "name": "Tuhooja09",
+    "uuid": "6ba3f4ac-ef7d-4477-bb50-bd6030a6dc81"
    }
   ],
   "trusted": [
@@ -311,7 +315,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Mestarihylje",
+     "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

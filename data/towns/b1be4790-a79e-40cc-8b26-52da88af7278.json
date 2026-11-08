@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Brotatoville",
   "uuid": "b1be4790-a79e-40cc-8b26-52da88af7278",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 76,
-   "maxTownBlocks": 150,
+   "numTownBlocks": 94,
+   "maxTownBlocks": 218,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 10,
-   "numTrusted": 8,
-   "numOutlaws": 0,
-   "balance": 20.0,
+   "nationBonus": 50,
+   "numResidents": 14,
+   "numTrusted": 12,
+   "numOutlaws": 1,
+   "balance": 158.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,12 +104,12 @@
      -309
     ],
     [
-     234,
-     -310
-    ],
-    [
      231,
      -302
+    ],
+    [
+     234,
+     -310
     ],
     [
      231,
@@ -128,8 +128,28 @@
      -308
     ],
     [
+     234,
+     -313
+    ],
+    [
+     234,
+     -314
+    ],
+    [
+     234,
+     -311
+    ],
+    [
+     234,
+     -312
+    ],
+    [
      231,
      -309
+    ],
+    [
+     231,
+     -310
     ],
     [
      236,
@@ -236,6 +256,10 @@
      -305
     ],
     [
+     233,
+     -314
+    ],
+    [
      228,
      -304
     ],
@@ -246,6 +270,42 @@
     [
      228,
      -302
+    ],
+    [
+     233,
+     -310
+    ],
+    [
+     235,
+     -314
+    ],
+    [
+     233,
+     -311
+    ],
+    [
+     235,
+     -313
+    ],
+    [
+     232,
+     -312
+    ],
+    [
+     233,
+     -312
+    ],
+    [
+     235,
+     -312
+    ],
+    [
+     235,
+     -311
+    ],
+    [
+     233,
+     -313
     ],
     [
      233,
@@ -272,12 +332,12 @@
      -308
     ],
     [
-     235,
-     -307
-    ],
-    [
      233,
      -309
+    ],
+    [
+     235,
+     -307
     ],
     [
      232,
@@ -313,6 +373,14 @@
     ],
     [
      232,
+     -311
+    ],
+    [
+     232,
+     -310
+    ],
+    [
+     232,
      -303
     ],
     [
@@ -338,6 +406,10 @@
     [
      230,
      -309
+    ],
+    [
+     230,
+     -310
     ],
     [
      230,
@@ -416,10 +488,6 @@
     "uuid": "5a970e82-391c-465b-851c-7a607541dc24"
    },
    {
-    "name": "Ali_dinocraft",
-    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
-   },
-   {
     "name": "al7eren",
     "uuid": "1ca7593e-8fdd-49e5-9996-e2e6649e3b10"
    },
@@ -438,16 +506,52 @@
    {
     "name": "Agent_melon14",
     "uuid": "a227c05f-2e3e-4d2f-9f64-3a55ae7c2311"
+   },
+   {
+    "name": "MosuRikuTenpi",
+    "uuid": "0f7a0a4b-f972-4af1-b5ad-a743ebba379c"
+   },
+   {
+    "name": "F1umble",
+    "uuid": "1ea1888c-789b-40f3-bb4e-60cb5a401f6b"
+   },
+   {
+    "name": "negro_toprak",
+    "uuid": "d3c8a217-555c-4ec3-a7a3-07f195bad5b3"
+   },
+   {
+    "name": "Troll534",
+    "uuid": "3182ebc2-6665-4bfe-a7e1-3f639056d84f"
+   },
+   {
+    "name": "Ali_dinocraft",
+    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
    }
   ],
   "trusted": [
+   {
+    "name": "Troll534",
+    "uuid": "3182ebc2-6665-4bfe-a7e1-3f639056d84f"
+   },
    {
     "name": "justraf12",
     "uuid": "f4579a95-5da6-492a-b021-714bb1f9769f"
    },
    {
-    "name": "HungryDangerBob",
-    "uuid": "75a5bd4e-5ca7-494e-84e6-fe61c7a53a92"
+    "name": "ayaanmr10",
+    "uuid": "4a56a5de-984b-4644-95e2-9c3f7dea2956"
+   },
+   {
+    "name": "NicolasYechuhi",
+    "uuid": "4841f63c-9c1c-40de-958a-a2f9758d1be6"
+   },
+   {
+    "name": "theyendermen",
+    "uuid": "d3456f07-1582-4cdd-acd2-f6482e2d49a2"
+   },
+   {
+    "name": "Ali_dinocraft",
+    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
    },
    {
     "name": "Sleep1026",
@@ -462,36 +566,36 @@
     "uuid": "f56f9110-46c1-48fb-834c-19174ed90851"
    },
    {
-    "name": "NicolasYechuhi",
-    "uuid": "4841f63c-9c1c-40de-958a-a2f9758d1be6"
+    "name": "MosuRikuTenpi",
+    "uuid": "0f7a0a4b-f972-4af1-b5ad-a743ebba379c"
    },
    {
-    "name": "theyendermen",
-    "uuid": "d3456f07-1582-4cdd-acd2-f6482e2d49a2"
+    "name": "xImperator",
+    "uuid": "1ba28faf-cb16-4d0a-994a-1ffd056c9fd6"
    },
    {
-    "name": "Ali_dinocraft",
-    "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
+    "name": "glaggle2001",
+    "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
+   "Councillor": [],
+   "Builder": [
     {
-     "name": "GabberTheFirst",
-     "uuid": "9b58ef59-fc64-4585-8745-c14199b5e8c3"
+     "name": "F1umble",
+     "uuid": "1ea1888c-789b-40f3-bb4e-60cb5a401f6b"
     }
    ],
-   "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "GabberTheFirst",
-     "uuid": "9b58ef59-fc64-4585-8745-c14199b5e8c3"
-    }
-   ],
+   "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
    "Settler": []

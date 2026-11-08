@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Stake",
   "uuid": "9e184fb8-d7f8-48ff-954b-ae0866df5b73",
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 3,
-   "numOutlaws": 56,
-   "balance": 40000.0,
+   "numOutlaws": 54,
+   "balance": 44444.0,
    "forSalePrice": null
   },
   "perms": {
@@ -689,10 +689,6 @@
     "uuid": "f91d393d-e3b5-4112-8559-0e448493a746"
    },
    {
-    "name": "x9wd",
-    "uuid": "ba7d9455-cf92-4cf9-bfbb-0b3aae97c78a"
-   },
-   {
     "name": "Matiasole",
     "uuid": "b0efaa53-857e-441b-b766-29a485bd8911"
    },
@@ -825,10 +821,6 @@
     "uuid": "f10b2b88-3793-4cd6-9336-49b27188ad69"
    },
    {
-    "name": "Poopypoop112",
-    "uuid": "f9afddbe-d369-4a32-b58a-fd4e8abcc264"
-   },
-   {
     "name": "Martyyrr",
     "uuid": "5ab791c8-3e77-4149-8deb-b1a0276e1453"
    },
@@ -839,10 +831,6 @@
    {
     "name": "chkr1212",
     "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
-   },
-   {
-    "name": "Aehmett",
-    "uuid": "c14bb5d7-6d51-4e3f-a388-36d6a5992272"
    },
    {
     "name": "lightningsting1",
@@ -867,6 +855,10 @@
    {
     "name": "7hoii",
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
+   },
+   {
+    "name": "elsi1e",
+    "uuid": "eb11578e-7a96-4043-a59b-3dec9416dcef"
    }
   ],
   "quarters": [
@@ -903,32 +895,8 @@
     "uuid": "746d46d0-be6c-4e54-acfb-84cfbd64a0dd"
    },
    {
-    "name": "Upbeat Quarter",
-    "uuid": "ce0711a6-0ce6-4e8a-b570-07f8fee417cd"
-   },
-   {
-    "name": "Lovely Residence",
-    "uuid": "84a6493d-4243-438d-86e4-c39e28afe97b"
-   },
-   {
     "name": "1 DUB OF BLUE ICE",
     "uuid": "2be6a53c-e8db-4225-82ee-d4dad0ac8b01"
-   },
-   {
-    "name": "Upbeat Flat",
-    "uuid": "034c83d5-9565-417f-8007-e223e0bfaf7c"
-   },
-   {
-    "name": "Bland Suite",
-    "uuid": "3638f70f-41d4-40fa-9ccb-f4be579058a5"
-   },
-   {
-    "name": "Luxurious Suite",
-    "uuid": "d759040d-58d2-4d93-a597-9fa863970f37"
-   },
-   {
-    "name": "Dull Residence",
-    "uuid": "ae115211-3ee7-4363-b0a2-5e7bd4f577cc"
    },
    {
     "name": "1 DUB OF CHERRY LOGS",
@@ -995,24 +963,8 @@
     "uuid": "3555c48b-506b-4989-8a34-a7f8b8cab260"
    },
    {
-    "name": "Welcoming Tenement",
-    "uuid": "905048c0-6900-41a5-bba9-c23d87233063"
-   },
-   {
-    "name": "Bland Quarter",
-    "uuid": "4d75ab87-466b-4b10-92e7-884ccc7edd59"
-   },
-   {
-    "name": "Enraging Apartment",
-    "uuid": "aefab3bf-ae15-4419-8789-20f86637bf91"
-   },
-   {
-    "name": "Stylish Apartment",
-    "uuid": "3e586690-e87a-4b60-b7d7-4c8dc97c2e10"
-   },
-   {
-    "name": "Stylish Residence",
-    "uuid": "95e6b997-4ac9-4db9-872b-2c34108fdc3d"
+    "name": "Upbeat Flat",
+    "uuid": "034c83d5-9565-417f-8007-e223e0bfaf7c"
    },
    {
     "name": "Inviting Suite",
@@ -1031,12 +983,32 @@
     "uuid": "a01b8e87-9b21-4da7-9f38-0bff159c6803"
    },
    {
+    "name": "Inviting Apartment",
+    "uuid": "ccf0c25a-7539-4f04-8745-fedf9f2f3e8f"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "3e586690-e87a-4b60-b7d7-4c8dc97c2e10"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "aefab3bf-ae15-4419-8789-20f86637bf91"
+   },
+   {
+    "name": "Welcoming Tenement",
+    "uuid": "905048c0-6900-41a5-bba9-c23d87233063"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "95e6b997-4ac9-4db9-872b-2c34108fdc3d"
+   },
+   {
     "name": "Elegant Suite",
     "uuid": "9c42ae51-9f02-423e-81fe-7c9d7ab37be2"
    },
    {
-    "name": "Inviting Apartment",
-    "uuid": "ccf0c25a-7539-4f04-8745-fedf9f2f3e8f"
+    "name": "Bland Quarter",
+    "uuid": "4d75ab87-466b-4b10-92e7-884ccc7edd59"
    }
   ],
   "ranks": {

@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Patras",
   "uuid": "96819712-74e5-4f4d-a33c-bdbb0b5fdc44",
-  "board": "LONG LIVE GREECE LONG LIVE PANATHINAIKOS AND TAYLOR SWIFT",
+  "board": null,
   "founder": "Arcticsharky",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "steliosdam",
-   "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
+   "name": "Manapo_",
+   "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
   },
   "nation": {
    "name": "Greece",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 243,
-   "maxTownBlocks": 280,
+   "numTownBlocks": 237,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
+   "numResidents": 11,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 80.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -357,10 +357,6 @@
     ],
     [
      493,
-     -404
-    ],
-    [
-     493,
      -405
     ],
     [
@@ -605,10 +601,6 @@
     ],
     [
      494,
-     -402
-    ],
-    [
-     494,
      -400
     ],
     [
@@ -678,14 +670,6 @@
     [
      492,
      -405
-    ],
-    [
-     492,
-     -404
-    ],
-    [
-     492,
-     -403
     ],
     [
      492,
@@ -766,10 +750,6 @@
     [
      495,
      -408
-    ],
-    [
-     501,
-     -399
     ],
     [
      494,
@@ -1048,10 +1028,6 @@
      -394
     ],
     [
-     485,
-     -400
-    ],
-    [
      490,
      -407
     ],
@@ -1076,36 +1052,8 @@
     "uuid": "56c8043f-04af-4825-af4b-fd28f5b38b1d"
    },
    {
-    "name": "ryomen_sukunaYT",
-    "uuid": "e5b30f55-3c0b-4d67-824e-c3d3504c7ff2"
-   },
-   {
-    "name": "Fireninja247873",
-    "uuid": "300d95a1-d462-41d6-ab38-ab96b66f1bc3"
-   },
-   {
-    "name": "nakadashinkai",
-    "uuid": "05b1a4a3-3c30-4d6e-9f6a-d44157fbb058"
-   },
-   {
-    "name": "Sp00kyXD",
-    "uuid": "18c715c3-5fca-4c86-b870-8a73d9a4fdab"
-   },
-   {
-    "name": "ole756",
-    "uuid": "fc2da7b9-7afc-47f6-a40c-084958626c58"
-   },
-   {
     "name": "ScoozieSlayer12",
     "uuid": "188656a6-9034-43ec-a3d7-48e05374c20a"
-   },
-   {
-    "name": "TheRealTupi",
-    "uuid": "351e3b4d-488a-45d5-adb1-f443c30aeea1"
-   },
-   {
-    "name": "TheLordPlayz",
-    "uuid": "d1e13c98-0a93-4f20-be2e-db7bd1916c28"
    },
    {
     "name": "MrBigBloxXsl",
@@ -1126,6 +1074,18 @@
    {
     "name": "dingleberryfrmer",
     "uuid": "abda4320-c885-49ac-bc3d-c469da7810fc"
+   },
+   {
+    "name": "Manapo_",
+    "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
+   },
+   {
+    "name": "Whoovian",
+    "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
+   },
+   {
+    "name": "TheR4z4k79",
+    "uuid": "2a461293-fcd1-4902-9f2e-b31dbf785ba8"
    }
   ],
   "trusted": [
@@ -1219,7 +1179,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "steliosdam",
+     "uuid": "f923c77e-9b91-472f-ba01-d46eb8c8511d"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

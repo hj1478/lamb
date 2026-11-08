@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Kassel",
   "uuid": "a1c11959-42b1-4c5f-873b-db52d1f36845",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 122,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 7,
    "balance": 0.0,
@@ -586,10 +586,6 @@
    {
     "name": "RanBull_",
     "uuid": "6b25ec7a-8d02-4d8f-a772-1379c1e00875"
-   },
-   {
-    "name": "Eseltyp3",
-    "uuid": "d68b32f2-d2c6-44ef-af29-33d702eac384"
    }
   ],
   "trusted": [

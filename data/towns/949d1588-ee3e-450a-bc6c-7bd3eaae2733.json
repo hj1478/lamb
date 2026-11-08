@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Pohang",
   "uuid": "949d1588-ee3e-450a-bc6c-7bd3eaae2733",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 104,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 3,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 1055.0,
+   "balance": 1064.0,
    "forSalePrice": null
   },
   "perms": {
@@ -522,6 +522,10 @@
    {
     "name": "TheMichiTech",
     "uuid": "01827f12-6580-45b3-a95b-b5e144b90eb1"
+   },
+   {
+    "name": "showmaker1108",
+    "uuid": "9093a61e-275d-46fc-aa9f-123743288169"
    }
   ],
   "trusted": [

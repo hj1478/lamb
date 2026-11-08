@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Raiko_Lake",
-  "uuid": "e28f6b03-d797-4a6c-80fe-8668d229dd30",
+  "name": "Liberty_Field",
+  "uuid": "8a14d67a-23b4-45d9-8659-fcbd047667fa",
   "board": "/town set board [msg]",
-  "founder": "R0bWing",
+  "founder": "Nxghtxd__",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ABOREDGAMER4554",
-   "uuid": "1bc119a6-e2e0-42fd-b2cd-09210852d499"
+   "name": "Nxghtxd__",
+   "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
-   "registered": 1787162848078,
-   "joinedNationAt": null,
+   "registered": 1794109685733,
+   "joinedNationAt": 1794109705756,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,74 +74,82 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -43185.958726385026,
-    "y": 64.875,
-    "z": -20197.75887178801,
-    "pitch": 14.250026,
-    "yaw": 128.85004
+    "x": -32366.94915211149,
+    "y": 71.0,
+    "z": -8583.300000011921,
+    "pitch": 19.067108,
+    "yaw": -137.61737
    },
    "homeBlock": [
-    -2700,
-    -1263
+    -2023,
+    -537
    ],
    "townBlocks": [
     [
-     -2698,
-     -1263
+     -2020,
+     -539
     ],
     [
-     -2700,
-     -1264
+     -2020,
+     -537
     ],
     [
-     -2698,
-     -1264
+     -2020,
+     -538
     ],
     [
-     -2700,
-     -1263
+     -2019,
+     -538
     ],
     [
-     -2698,
-     -1262
+     -2022,
+     -537
     ],
     [
-     -2699,
-     -1264
+     -2022,
+     -538
     ],
     [
-     -2697,
-     -1262
+     -2022,
+     -539
     ],
     [
-     -2699,
-     -1262
+     -2021,
+     -537
     ],
     [
-     -2697,
-     -1263
+     -2021,
+     -538
     ],
     [
-     -2699,
-     -1263
+     -2023,
+     -539
     ],
     [
-     -2697,
-     -1264
+     -2023,
+     -538
+    ],
+    [
+     -2023,
+     -537
+    ],
+    [
+     -2021,
+     -539
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ABOREDGAMER4554",
-    "uuid": "1bc119a6-e2e0-42fd-b2cd-09210852d499"
+    "name": "Nxghtxd__",
+    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
    }
   ],
   "trusted": [],
@@ -149,12 +157,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "ABOREDGAMER4554",
-     "uuid": "1bc119a6-e2e0-42fd-b2cd-09210852d499"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

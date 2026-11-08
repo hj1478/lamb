@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Explorertor",
-  "uuid": "4eb013d6-8abd-4a2b-ba39-fe3dfea4de14",
+  "name": "Waffletown",
+  "uuid": "306e972e-be58-4eb6-80c8-fab6e952a95b",
   "board": "/town set board [msg]",
-  "founder": "T1000xb",
+  "founder": "Loko_o",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC94",
-   "uuid": "7b304a4b-cd0a-20e4-95e4-ecd5bf5a64be"
+   "name": "Loko_o",
+   "uuid": "682639e0-a395-4924-bb2e-98767f21410b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "FE",
+   "uuid": "939ce868-d47c-444a-a467-4ace4a978814"
   },
   "timestamps": {
-   "registered": 1790103051651,
-   "joinedNationAt": null,
-   "ruinedAt": 1793872800844
+   "registered": 1794084670249,
+   "joinedNationAt": 1794084683629,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,69 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 24422.71855385384,
-    "y": 68.0,
-    "z": -5884.242340462968,
-    "pitch": 9.750004,
-    "yaw": 118.77843
+    "x": 51320.40581237805,
+    "y": 63.0,
+    "z": -16261.749451752745,
+    "pitch": 62.863274,
+    "yaw": -99.23877
    },
    "homeBlock": [
-    1526,
-    -368
+    3207,
+    -1017
    ],
    "townBlocks": [
     [
-     1526,
-     -368
+     3208,
+     -1017
+    ],
+    [
+     3207,
+     -1017
+    ],
+    [
+     3207,
+     -1016
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC94",
-    "uuid": "7b304a4b-cd0a-20e4-95e4-ecd5bf5a64be"
+    "name": "Loko_o",
+    "uuid": "682639e0-a395-4924-bb2e-98767f21410b"
    }
   ],
   "trusted": [],

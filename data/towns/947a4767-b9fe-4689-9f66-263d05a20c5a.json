@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Doula",
   "uuid": "947a4767-b9fe-4689-9f66-263d05a20c5a",
@@ -12,12 +12,12 @@
    "uuid": "2f0c14a6-037e-4bf8-8ed1-fa43cd8dbdd8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Nubia",
+   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
   },
   "timestamps": {
    "registered": 1793445176460,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793816610761,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     685,
+     660
+    ],
+    [
+     685,
+     661
+    ],
+    [
      684,
      659
     ],
@@ -100,8 +108,28 @@
      660
     ],
     [
+     683,
+     661
+    ],
+    [
      684,
      661
+    ],
+    [
+     686,
+     660
+    ],
+    [
+     685,
+     658
+    ],
+    [
+     685,
+     659
+    ],
+    [
+     686,
+     659
     ]
    ],
    "worlds": {}

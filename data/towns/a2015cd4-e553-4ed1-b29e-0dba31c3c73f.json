@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Kori",
   "uuid": "a2015cd4-e553-4ed1-b29e-0dba31c3c73f",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "GaryISaNPC",
-   "uuid": "32b5d0f4-5ab4-41b3-b90d-eb6a30fcec32"
+   "name": "NPC38",
+   "uuid": "bbb58dd9-f404-2089-aa8c-be79c4c9d76a"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1783672027467,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794045602726
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "GaryISaNPC",
-    "uuid": "32b5d0f4-5ab4-41b3-b90d-eb6a30fcec32"
+    "name": "NPC38",
+    "uuid": "bbb58dd9-f404-2089-aa8c-be79c4c9d76a"
    }
   ],
   "trusted": [

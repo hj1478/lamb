@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Mirnyi",
   "uuid": "b38c61ff-ec80-4b4b-b86b-9a61148c5782",
@@ -12,12 +12,12 @@
    "uuid": "f1fd5386-d4e1-4a2b-b40f-0c5253f46006"
   },
   "nation": {
-   "name": "Soviet_Union",
-   "uuid": "43644726-b03f-4b9b-b88a-8ac310e11abb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790457802833,
-   "joinedNationAt": 1790457815105,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

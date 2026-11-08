@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Cash",
   "uuid": "a1aa1c11-ee29-4abd-848a-dd5a98aeb611",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SharpieSnorter5",
-   "uuid": "54e8bd51-d63a-4c2a-985f-5af14c52ec3d"
+   "name": "lagg3ing",
+   "uuid": "8f311a95-f6b7-47fe-905d-423568906fa8"
   },
   "nation": {
    "name": "Ethiopia",
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 38,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 101.0
   },
   "perms": {
    "build": [
@@ -254,12 +254,28 @@
    {
     "name": "StickingSoap520",
     "uuid": "12e42cb9-f027-471f-8944-518f648b222b"
+   },
+   {
+    "name": "lagg3ing",
+    "uuid": "8f311a95-f6b7-47fe-905d-423568906fa8"
    }
   ],
   "trusted": [
    {
+    "name": "KeyeserSosa",
+    "uuid": "43c9d2ea-d3e7-4b2c-8bcc-77bf5274e4a7"
+   },
+   {
+    "name": "GrayMold9",
+    "uuid": "690a13f0-8406-4cf5-a710-b3361f102b03"
+   },
+   {
     "name": "StickingSoap520",
     "uuid": "12e42cb9-f027-471f-8944-518f648b222b"
+   },
+   {
+    "name": "CrystallizerMC",
+    "uuid": "e0a77727-7bdf-48aa-8e17-6c1d1f9af8fb"
    }
   ],
   "outlaws": [],

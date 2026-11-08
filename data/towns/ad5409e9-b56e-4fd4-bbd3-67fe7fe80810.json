@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Poppyland",
   "uuid": "ad5409e9-b56e-4fd4-bbd3-67fe7fe80810",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 62,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 2,
    "numOutlaws": 2,
    "balance": 613.0,
@@ -348,6 +348,10 @@
     "uuid": "23c687e4-a69c-4457-82ee-b55e8c4022dc"
    },
    {
+    "name": "IskoTheGhost",
+    "uuid": "039c4d31-ae65-4d99-859f-7385f0dd9145"
+   },
+   {
     "name": "minik_mav",
     "uuid": "5fcf80de-6468-431d-9069-f7a9cea9128e"
    },
@@ -425,7 +429,12 @@
      "uuid": "d8da9bf3-d990-4a4b-97c4-09585808710f"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "IskoTheGhost",
+     "uuid": "039c4d31-ae65-4d99-859f-7385f0dd9145"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

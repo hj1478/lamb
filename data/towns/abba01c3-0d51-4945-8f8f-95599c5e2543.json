@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Necropoli",
   "uuid": "abba01c3-0d51-4945-8f8f-95599c5e2543",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,24 +92,100 @@
    ],
    "townBlocks": [
     [
-     3502,
-     -749
-    ],
-    [
      3504,
      -748
     ],
     [
-     3503,
+     3504,
+     -749
+    ],
+    [
+     3504,
+     -750
+    ],
+    [
+     3504,
+     -751
+    ],
+    [
+     3504,
+     -745
+    ],
+    [
+     3504,
+     -746
+    ],
+    [
+     3504,
+     -747
+    ],
+    [
+     3502,
+     -747
+    ],
+    [
+     3502,
      -748
+    ],
+    [
+     3502,
+     -745
+    ],
+    [
+     3502,
+     -746
+    ],
+    [
+     3502,
+     -751
+    ],
+    [
+     3502,
+     -749
+    ],
+    [
+     3502,
+     -750
     ],
     [
      3503,
      -749
     ],
     [
-     3502,
+     3503,
+     -750
+    ],
+    [
+     3503,
+     -751
+    ],
+    [
+     3503,
+     -744
+    ],
+    [
+     3503,
+     -745
+    ],
+    [
+     3503,
+     -746
+    ],
+    [
+     3503,
+     -747
+    ],
+    [
+     3503,
      -748
+    ],
+    [
+     3501,
+     -745
+    ],
+    [
+     3501,
+     -746
     ]
    ],
    "worlds": {}
@@ -118,14 +194,52 @@
    {
     "name": "Deodorhunter",
     "uuid": "23818e61-d8ef-44e2-a2a3-949fb5fd4a6d"
+   },
+   {
+    "name": "1_Dem_6",
+    "uuid": "307e180e-c204-42b5-867b-2d02346f02f3"
+   },
+   {
+    "name": "Percivallo44",
+    "uuid": "9194fd73-508b-481d-8edd-57c4b05193e6"
+   },
+   {
+    "name": "nanerottolo1",
+    "uuid": "efe84472-fb6e-4589-979d-0195b37176cf"
+   },
+   {
+    "name": "MargoMagro007",
+    "uuid": "8e7c7518-7710-4263-97ac-1a87b85ff210"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "1_Dem_6",
+     "uuid": "307e180e-c204-42b5-867b-2d02346f02f3"
+    },
+    {
+     "name": "Percivallo44",
+     "uuid": "9194fd73-508b-481d-8edd-57c4b05193e6"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "1_Dem_6",
+     "uuid": "307e180e-c204-42b5-867b-2d02346f02f3"
+    },
+    {
+     "name": "nanerottolo1",
+     "uuid": "efe84472-fb6e-4589-979d-0195b37176cf"
+    },
+    {
+     "name": "MargoMagro007",
+     "uuid": "8e7c7518-7710-4263-97ac-1a87b85ff210"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

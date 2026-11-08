@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Imperium",
   "uuid": "b260f50f-2d5b-4f79-aada-ef101679d9b0",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "fabiofc98",
-   "uuid": "efacaf86-779a-48b1-a144-b5c671ad1963"
+   "name": "NPC32",
+   "uuid": "1f9ce27e-10e8-203b-8f67-87e106abb375"
   },
   "nation": {
-   "name": "Portugal",
-   "uuid": "219c067b-ce9f-4156-bea3-743978c2dc34"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777850629288,
-   "joinedNationAt": 1779123407538,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793959202467
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 61,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -340,8 +340,8 @@
   },
   "residents": [
    {
-    "name": "fabiofc98",
-    "uuid": "efacaf86-779a-48b1-a144-b5c671ad1963"
+    "name": "NPC32",
+    "uuid": "1f9ce27e-10e8-203b-8f67-87e106abb375"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Grymwarr",
   "uuid": "ab9265b2-c1f8-4a8b-bf36-0a9ea438c509",
@@ -12,12 +12,12 @@
    "uuid": "a51c759f-9602-4e4e-95db-8d1c9278629d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Vym",
+   "uuid": "d6df43ac-a84b-47d3-b822-35d9d82494ec"
   },
   "timestamps": {
    "registered": 1793389881676,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793559697881,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -104,19 +104,19 @@
      -1368
     ],
     [
-     2329,
-     -1365
-    ],
-    [
      2328,
      -1367
     ],
     [
      2329,
-     -1366
+     -1365
     ],
     [
      2328,
+     -1366
+    ],
+    [
+     2329,
      -1366
     ],
     [
@@ -140,7 +140,16 @@
      -1365
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -47,
+       63
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {

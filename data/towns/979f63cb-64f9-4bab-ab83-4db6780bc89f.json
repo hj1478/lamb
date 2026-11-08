@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Setana",
   "uuid": "979f63cb-64f9-4bab-ab83-4db6780bc89f",
@@ -12,12 +12,12 @@
    "uuid": "7e7d4a8c-26e2-469f-8d91-03e5b2579cd8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Hokkaido",
+   "uuid": "1b0372fe-6f27-4b06-a6e9-e5b5c90e6e72"
   },
   "timestamps": {
    "registered": 1787327813295,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793679197525,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 92,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 5,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 6,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 50348.1179523772,
-    "y": 61.627788765347574,
-    "z": -8426.90016388285,
-    "pitch": 36.766933,
-    "yaw": 168.4919
+    "x": 50261.56914033407,
+    "y": 63.0,
+    "z": -8320.556877702082,
+    "pitch": 63.690556,
+    "yaw": 93.448944
    },
    "homeBlock": [
-    3146,
-    -527
+    3141,
+    -521
    ],
    "townBlocks": [
     [
@@ -466,6 +466,10 @@
    {
     "name": "uikitsune",
     "uuid": "7e7d4a8c-26e2-469f-8d91-03e5b2579cd8"
+   },
+   {
+    "name": "neo_un1verse",
+    "uuid": "220a64ee-f72e-4718-92dc-be08e3f5d2ac"
    }
   ],
   "trusted": [
@@ -486,6 +490,10 @@
     "uuid": "45e041cc-ef2b-466d-932b-2c9f3ffd8a55"
    },
    {
+    "name": "asablow",
+    "uuid": "65a2c67e-fcff-4448-a7da-3acd9dc06704"
+   },
+   {
     "name": "f1oR4s",
     "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
    }
@@ -493,7 +501,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "neo_un1verse",
+     "uuid": "220a64ee-f72e-4718-92dc-be08e3f5d2ac"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

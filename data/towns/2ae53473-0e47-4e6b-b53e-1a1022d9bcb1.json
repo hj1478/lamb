@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Johnland",
-  "uuid": "4654ef5f-88c3-4664-b529-171df332caf7",
-  "board": "we are open to new people",
-  "founder": "czechp0ke",
+  "name": "Mountainss",
+  "uuid": "2ae53473-0e47-4e6b-b53e-1a1022d9bcb1",
+  "board": "/town set board [msg]",
+  "founder": "Arlanito",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC63",
-   "uuid": "def84819-2dad-203f-8092-ba352dfecd5c"
+   "name": "Arlanito",
+   "uuid": "5a1a74a4-7050-4b27-9b21-68ab3e808091"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787954018960,
+   "registered": 1794066328237,
    "joinedNationAt": null,
-   "ruinedAt": 1793872803036
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,66 +42,66 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -22956.087175149158,
-    "y": 65.0,
-    "z": 20987.09474885798,
-    "pitch": 40.20003,
-    "yaw": -156.669
+    "x": 4957.119768488241,
+    "y": 151.0,
+    "z": -10245.310806218093,
+    "pitch": 38.249977,
+    "yaw": -47.297546
    },
    "homeBlock": [
-    -1435,
-    1311
+    309,
+    -641
    ],
    "townBlocks": [
     [
-     -1435,
-     1311
+     309,
+     -641
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC63",
-    "uuid": "def84819-2dad-203f-8092-ba352dfecd5c"
+    "name": "Arlanito",
+    "uuid": "5a1a74a4-7050-4b27-9b21-68ab3e808091"
    }
   ],
   "trusted": [],

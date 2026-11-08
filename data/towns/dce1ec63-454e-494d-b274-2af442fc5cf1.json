@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Victinis_Dentist",
-  "uuid": "79d143fa-59f3-48e1-ae98-616452d16c50",
+  "name": "LongJiang",
+  "uuid": "dce1ec63-454e-494d-b274-2af442fc5cf1",
   "board": "/town set board [msg]",
-  "founder": "Faisalisabeast",
+  "founder": "Haoge_dada",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC90",
-   "uuid": "23e15cfa-8ec1-20e0-bd1e-e92ed058c24a"
+   "name": "Haoge_dada",
+   "uuid": "77ff71a1-6bbf-4ec8-8a4f-0402869aae4d"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793667303026,
+   "registered": 1794118808088,
    "joinedNationAt": null,
-   "ruinedAt": 1793846449032
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -41,76 +41,71 @@
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numOutlaws": 0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3341.3212297567743,
-    "y": 69.0,
-    "z": -11933.19292506502,
-    "pitch": 1.896692,
-    "yaw": 3.0267777
+    "x": 44517.409071354356,
+    "y": 66.0,
+    "z": -10675.412448332616,
+    "pitch": 4.0790453,
+    "yaw": 179.54417
    },
    "homeBlock": [
-    208,
-    -746
+    2782,
+    -668
    ],
    "townBlocks": [
     [
-     208,
-     -746
+     2782,
+     -668
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC90",
-    "uuid": "23e15cfa-8ec1-20e0-bd1e-e92ed058c24a"
+    "name": "Haoge_dada",
+    "uuid": "77ff71a1-6bbf-4ec8-8a4f-0402869aae4d"
    }
   ],
   "trusted": [],
-  "outlaws": [
-   {
-    "name": "gawkr",
-    "uuid": "5a25bcbf-3b35-4441-a239-0069e61d5be7"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

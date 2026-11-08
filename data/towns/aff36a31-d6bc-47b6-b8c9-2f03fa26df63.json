@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Panevezys",
   "uuid": "aff36a31-d6bc-47b6-b8c9-2f03fa26df63",
-  "board": "/town set board [msg]",
+  "board": "for everyone, from anyone",
   "founder": "TheoSole",
   "wiki": null,
   "discord": null,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 25,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -80,18 +80,54 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8836.239010350457,
-    "y": 67.0,
-    "z": -14253.339856835613,
-    "pitch": 24.217655,
-    "yaw": 163.5376
+    "x": 8859.650423266135,
+    "y": 66.0,
+    "z": -14252.407439248816,
+    "pitch": 22.891914,
+    "yaw": -175.60254
    },
    "homeBlock": [
-    552,
+    553,
     -891
    ],
    "townBlocks": [
     [
+     555,
+     -889
+    ],
+    [
+     555,
+     -890
+    ],
+    [
+     551,
+     -891
+    ],
+    [
+     551,
+     -892
+    ],
+    [
+     551,
+     -889
+    ],
+    [
+     551,
+     -890
+    ],
+    [
+     551,
+     -893
+    ],
+    [
+     554,
+     -889
+    ],
+    [
+     554,
+     -890
+    ],
+    [
      554,
      -891
     ],
@@ -104,20 +140,16 @@
      -893
     ],
     [
-     551,
-     -891
-    ],
-    [
-     551,
-     -892
-    ],
-    [
-     551,
-     -890
+     553,
+     -889
     ],
     [
      552,
      -892
+    ],
+    [
+     552,
+     -893
     ],
     [
      552,
@@ -138,14 +170,26 @@
     [
      553,
      -892
+    ],
+    [
+     552,
+     -889
     ],
     [
      553,
      -893
     ],
     [
-     554,
-     -890
+     555,
+     -891
+    ],
+    [
+     555,
+     -892
+    ],
+    [
+     555,
+     -893
     ]
    ],
    "worlds": {}
@@ -158,7 +202,52 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Flat",
+    "uuid": "17a76ef3-9c27-42e6-a857-46dc56c64bb3"
+   },
+   {
+    "name": "2A",
+    "uuid": "24836a31-07d4-4dcc-8601-909fb272190f"
+   },
+   {
+    "name": "2B",
+    "uuid": "5e208013-4e7f-4678-bed0-946efbb24736"
+   },
+   {
+    "name": "2C",
+    "uuid": "98d26a1b-65e6-45b6-b9c5-507e1e3604a0"
+   },
+   {
+    "name": "Enchantment station",
+    "uuid": "164ab713-739a-48e1-a43e-61e9c8ad07a2"
+   },
+   {
+    "name": "3C",
+    "uuid": "88fa25de-b450-4ad3-a313-0000eba5bdd6"
+   },
+   {
+    "name": "3A",
+    "uuid": "81bf837a-3ec2-4d63-9dfd-7b2fcf91ad62"
+   },
+   {
+    "name": "3B",
+    "uuid": "52898efa-b1eb-4378-9bc8-321b15a3cb24"
+   },
+   {
+    "name": "3D",
+    "uuid": "a3eb8b8d-9b98-4665-a3df-9816db8c8bf1"
+   },
+   {
+    "name": "1A",
+    "uuid": "e3abb040-d63f-4fbd-aed0-cc0fe51a247c"
+   },
+   {
+    "name": "Valgykla",
+    "uuid": "4b3cf31f-714c-4385-805e-f51214c2928f"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

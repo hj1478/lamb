@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Koukai",
-  "uuid": "c97ba3df-000f-42de-a8f9-3ef79088b6a5",
-  "board": "Battle of the sea",
-  "founder": "173BIGMAC",
+  "name": "Stendal",
+  "uuid": "dfd4b595-5fa0-4d7a-9719-3fed57cfc24b",
+  "board": "its where i live!",
+  "founder": "64Gold",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ACIPD",
-   "uuid": "ae8d305f-3613-4344-b450-75479a7c4ab5"
+   "name": "64Gold",
+   "uuid": "9fac0495-4ea0-408f-81ea-5f0d44010a8b"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": "Denmark",
+   "uuid": "73f18d06-0647-4146-a27b-cfa22b5792b2"
   },
   "timestamps": {
-   "registered": 1780937432807,
-   "joinedNationAt": 1780937488071,
+   "registered": 1794059431024,
+   "joinedNationAt": 1794059436273,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 3,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 1,
+   "numTrusted": 4,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -48,25 +48,25 @@
   "perms": {
    "build": [
     false,
-    true,
+    false,
     false,
     false
    ],
    "destroy": [
     false,
-    true,
+    false,
     false,
     false
    ],
    "switch": [
     false,
-    true,
+    false,
     false,
     false
    ],
    "itemUse": [
     false,
-    true,
+    false,
     false,
     false
    ],
@@ -80,48 +80,60 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44727.52182865001,
+    "x": 4756.920173868441,
     "y": 63.0,
-    "z": -5750.935707045132,
-    "pitch": 24.704926,
-    "yaw": 62.104248
+    "z": -12947.40094002974,
+    "pitch": 10.200011,
+    "yaw": -169.77612
    },
    "homeBlock": [
-    2795,
-    -360
+    297,
+    -810
    ],
    "townBlocks": [
     [
-     2795,
-     -360
+     297,
+     -810
+    ],
+    [
+     297,
+     -809
+    ],
+    [
+     297,
+     -811
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ACIPD",
-    "uuid": "ae8d305f-3613-4344-b450-75479a7c4ab5"
-   },
-   {
-    "name": "AeroKni3ht",
-    "uuid": "3c703459-c586-4667-aacb-64b1149c1c39"
+    "name": "64Gold",
+    "uuid": "9fac0495-4ea0-408f-81ea-5f0d44010a8b"
    }
   ],
   "trusted": [
    {
-    "name": "Vito67777",
-    "uuid": "9a821e7e-dffb-44b4-a8bd-76c6c6b221d7"
+    "name": "32Dalek",
+    "uuid": "838f6361-858f-4589-a8fe-349fcccf03b4"
    },
    {
-    "name": "HenrySP9506",
-    "uuid": "1983707b-bc77-49e9-8930-994c959d1e78"
+    "name": "ZuluComic411037",
+    "uuid": "a6ac37b8-0d06-432a-bcf6-c3cc488753fc"
+   },
+   {
+    "name": "Agarret898",
+    "uuid": "d6c64bf3-6876-41e0-9eaf-93e2df73ce47"
+   },
+   {
+    "name": "Aradiante",
+    "uuid": "da8c04d6-ea79-4f2b-bb62-d263ab0e582a"
    }
   ],
   "outlaws": [
    {
-    "name": "Kalipso_Tekila",
-    "uuid": "8c360e1c-23c8-4cfd-83c7-d84252ef75c0"
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    }
   ],
   "quarters": [],

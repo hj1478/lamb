@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Hayq",
   "uuid": "a691e52c-4446-46fc-911a-095187b5d4a6",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 5,
    "numTrusted": 2,
-   "numOutlaws": 10,
+   "numOutlaws": 9,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -515,10 +515,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "Meng_Shuo",
-    "uuid": "dc7eb3bb-9e46-4ad7-9bd1-ca5a923c980c"
-   },
    {
     "name": "YrKD",
     "uuid": "d04b24be-0610-4c59-ad9f-082636817f17"

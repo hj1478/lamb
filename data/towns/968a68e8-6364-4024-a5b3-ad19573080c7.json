@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Commune",
   "uuid": "968a68e8-6364-4024-a5b3-ad19573080c7",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 226,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
+   "numResidents": 9,
    "numTrusted": 2,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 8.0,
    "forSalePrice": null
   },
@@ -1008,7 +1008,7 @@
     "uuid": "2662a732-2064-4412-bb32-bab95c1bf000"
    },
    {
-    "name": "LUDWIG_JAVA",
+    "name": "WildfireRocket",
     "uuid": "2cc9beb1-c679-4695-a315-a3d8c31f31f0"
    },
    {
@@ -1018,6 +1018,22 @@
    {
     "name": "MARKrawr88",
     "uuid": "390231fd-3911-40cb-b5f3-494862eb8356"
+   },
+   {
+    "name": "Latomatedu78",
+    "uuid": "8095db6d-503a-4b4d-af86-776b45bc2014"
+   },
+   {
+    "name": "BluesMoon",
+    "uuid": "9201a7c4-22b3-43cf-acae-f5fdc01488dd"
+   },
+   {
+    "name": "SCIMMIARASATA84",
+    "uuid": "e382de3f-e2ec-48bf-9fb0-96cad12b4080"
+   },
+   {
+    "name": "AgentCreeper3_",
+    "uuid": "31934c06-a86b-4bcf-b5c8-2911291b20d2"
    }
   ],
   "trusted": [
@@ -1030,7 +1046,12 @@
     "uuid": "514a74ad-dbdb-440d-873f-3eb15e12318a"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [
    {
     "name": "Market N°1",
@@ -1043,10 +1064,6 @@
    {
     "name": "Apartment N°6",
     "uuid": "f19949f2-3aea-40ea-868e-8add1357f96e"
-   },
-   {
-    "name": "Shop N°3",
-    "uuid": "b33773d4-a07b-4c0a-8812-e25bce5fc461"
    },
    {
     "name": "Upbeat Apartment",
@@ -1121,10 +1138,6 @@
     "uuid": "e96d44e6-db54-45be-b3e9-af8a9d070461"
    },
    {
-    "name": "Dingy Suite",
-    "uuid": "7b7717fb-a00b-4d9b-a11e-3c59dd52a939"
-   },
-   {
     "name": "Market N°2",
     "uuid": "90011899-5cee-4d2e-9dfb-ace85bd66cad"
    },
@@ -1157,16 +1170,8 @@
     "uuid": "f3257186-4252-4e1f-bcbb-cc467929305e"
    },
    {
-    "name": "Inviting Residence",
-    "uuid": "611a6776-c230-4708-a4ed-d2c3bd3d4568"
-   },
-   {
     "name": "Apartment N°1",
     "uuid": "22830a04-e622-41cb-a084-eb1917862f11"
-   },
-   {
-    "name": "Welcoming Property",
-    "uuid": "0368c1e0-f012-421c-b466-0b8c5cef485d"
    },
    {
     "name": "Welcoming Dwelling",
@@ -1175,10 +1180,6 @@
    {
     "name": "Bland Dwelling",
     "uuid": "eae42903-17c3-4928-ad32-d10833c78866"
-   },
-   {
-    "name": "Enraging Flat",
-    "uuid": "5aa71def-b3d3-4cd5-8ba9-79ee6ceb0b28"
    },
    {
     "name": "Bland Dwelling",
@@ -1191,6 +1192,134 @@
    {
     "name": "Upbeat Quarter",
     "uuid": "a46f83c4-cce6-48ea-88d6-057cdd34412c"
+   },
+   {
+    "name": "Shop N°3",
+    "uuid": "b33773d4-a07b-4c0a-8812-e25bce5fc461"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "7b7717fb-a00b-4d9b-a11e-3c59dd52a939"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "611a6776-c230-4708-a4ed-d2c3bd3d4568"
+   },
+   {
+    "name": "Zone Bois",
+    "uuid": "68e8712a-6a46-4d33-a104-e330e0a642b8"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "0368c1e0-f012-421c-b466-0b8c5cef485d"
+   },
+   {
+    "name": "Private Locker N°1",
+    "uuid": "062be315-2b87-4b6b-9159-85bef83455a6"
+   },
+   {
+    "name": "Private Locker N°2",
+    "uuid": "3332ec0e-aad0-4d4c-93cc-dbc87fe15f70"
+   },
+   {
+    "name": "Private Locker N°3",
+    "uuid": "b7097b70-4475-4863-a73a-05606a30a4ab"
+   },
+   {
+    "name": "Private Locker N°4",
+    "uuid": "52a213ff-3342-4bac-af06-dfd2fdc50ceb"
+   },
+   {
+    "name": "Private Locker N°5",
+    "uuid": "d7c8660b-262d-40b4-a649-e3cd2ed6db5b"
+   },
+   {
+    "name": "Private Locker N°6",
+    "uuid": "afde06be-6501-43c4-b5d8-a956a05952b8"
+   },
+   {
+    "name": "Private Locker N°7",
+    "uuid": "077e5b99-6e18-4340-9f2c-0361ed70e847"
+   },
+   {
+    "name": "Private Locker N°8",
+    "uuid": "ec825928-2a42-4699-8bc2-ab4f0b4be44c"
+   },
+   {
+    "name": "Private Locker N°9",
+    "uuid": "f0e7c14a-1420-4aa1-a420-5d6ff7e30b61"
+   },
+   {
+    "name": "Private Locker N°10",
+    "uuid": "41729f7e-3175-4682-8c74-b597a395996a"
+   },
+   {
+    "name": "Private Locker N°11",
+    "uuid": "5144ecb9-f6e5-48e2-b0a1-d90aa7b67901"
+   },
+   {
+    "name": "Private Locker N°12",
+    "uuid": "4fe4f943-77b2-4dff-add0-9b56f86f4ca8"
+   },
+   {
+    "name": "Private Locker N°13",
+    "uuid": "2be038a9-e362-4bfb-83e2-b8f8318bb51a"
+   },
+   {
+    "name": "Private Locker N°14",
+    "uuid": "0a3b455f-3f4f-4192-901d-2c3386b05c0b"
+   },
+   {
+    "name": "Private Locker N°15",
+    "uuid": "654581d6-9fe9-4d30-8e5e-61531d9a5835"
+   },
+   {
+    "name": "Private Locker N°16",
+    "uuid": "717cc24f-e5d0-4f9e-b85a-e6161c2220ff"
+   },
+   {
+    "name": "Private Locker N°17",
+    "uuid": "b4a3478e-001c-4fba-af49-4657b73040dc"
+   },
+   {
+    "name": "Private Locker N°18",
+    "uuid": "e1cfa7b2-00d0-4d71-bf10-4b3af1ee199c"
+   },
+   {
+    "name": "Private Locker N°19",
+    "uuid": "1109589e-6357-43f2-80cf-4567dfa12dd9"
+   },
+   {
+    "name": "Private Locker N°20",
+    "uuid": "4cc269d4-289a-4602-92fb-ca29f36332f1"
+   },
+   {
+    "name": "Private Locker N°21",
+    "uuid": "da05d349-4ed5-490f-a095-127d4b7de3c1"
+   },
+   {
+    "name": "Private Locker N°22",
+    "uuid": "2f18db1e-40a5-4a35-a914-f35ce70cc6e6"
+   },
+   {
+    "name": "Private Locker N°23",
+    "uuid": "4f00574a-d5dc-4e64-b256-8e4f25ce73c8"
+   },
+   {
+    "name": "Private Locker N°24",
+    "uuid": "38d055a5-5f2d-491e-8ff9-b43c41965690"
+   },
+   {
+    "name": "Private Locker N°25",
+    "uuid": "f2deca69-2b5c-4fe8-9250-e98944a19d92"
+   },
+   {
+    "name": "Private Locker N°26",
+    "uuid": "de7a6b26-57fe-435c-b7e4-9d4bd7297f17"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "5aa71def-b3d3-4cd5-8ba9-79ee6ceb0b28"
    }
   ],
   "ranks": {

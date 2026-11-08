@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Elivagaria",
   "uuid": "ad68ac05-e92f-47d5-9ac8-f4e30283448d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 70,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 47.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,26 +74,70 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -39206.93916897928,
-    "y": 64.0,
-    "z": -1482.223411330179,
-    "pitch": 17.670988,
-    "yaw": 114.03433
+    "x": -39191.821551110974,
+    "y": 30.0,
+    "z": -1496.939660245199,
+    "pitch": 8.354681,
+    "yaw": 10.11853
    },
    "homeBlock": [
-    -2451,
-    -93
+    -2450,
+    -94
    ],
    "townBlocks": [
     [
+     -2452,
+     -93
+    ],
+    [
+     -2452,
+     -92
+    ],
+    [
+     -2450,
+     -92
+    ],
+    [
+     -2450,
+     -94
+    ],
+    [
+     -2449,
+     -93
+    ],
+    [
+     -2450,
+     -93
+    ],
+    [
+     -2449,
+     -94
+    ],
+    [
+     -2452,
+     -91
+    ],
+    [
+     -2451,
+     -94
+    ],
+    [
      -2451,
      -93
+    ],
+    [
+     -2451,
+     -92
+    ],
+    [
+     -2451,
+     -91
     ]
    ],
    "worlds": {}
@@ -106,9 +150,34 @@
    {
     "name": "ZXC_GreyShark",
     "uuid": "687ffa78-bd59-463e-bf2e-0f0863b951c3"
+   },
+   {
+    "name": "MegaMognat",
+    "uuid": "7c3aa238-0b9e-490a-96d6-771f5b0512e8"
+   },
+   {
+    "name": "GOMIK337",
+    "uuid": "f01d618d-324a-4178-8d3e-eb3a09b6d1b7"
+   },
+   {
+    "name": "w9i2a4pufcni",
+    "uuid": "5d634d5a-fb6f-45dc-80f6-17d2037cf247"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "MegaMognat",
+    "uuid": "7c3aa238-0b9e-490a-96d6-771f5b0512e8"
+   },
+   {
+    "name": "w9i2a4pufcni",
+    "uuid": "5d634d5a-fb6f-45dc-80f6-17d2037cf247"
+   },
+   {
+    "name": "GOMIK337",
+    "uuid": "f01d618d-324a-4178-8d3e-eb3a09b6d1b7"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

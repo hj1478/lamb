@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Nanking",
   "uuid": "a6c1963a-95b2-49e4-9e19-0b5db1a16eea",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 424,
-   "maxTownBlocks": 426,
+   "numTownBlocks": 417,
+   "maxTownBlocks": 366,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 33,
-   "numTrusted": 15,
+   "numResidents": 28,
+   "numTrusted": 14,
    "numOutlaws": 8,
    "balance": 218.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41140.59548083016,
-    "y": 35.0,
-    "z": -4070.9396658913743,
-    "pitch": 16.649998,
-    "yaw": 2.313343
+    "x": 41140.638666099694,
+    "y": 34.875,
+    "z": -4070.41485181301,
+    "pitch": 10.567635,
+    "yaw": 2.9568481
    },
    "homeBlock": [
     2571,
@@ -809,18 +809,6 @@
     ],
     [
      2558,
-     -239
-    ],
-    [
-     2558,
-     -240
-    ],
-    [
-     2558,
-     -241
-    ],
-    [
-     2558,
      -254
     ],
     [
@@ -834,22 +822,6 @@
     [
      2558,
      -257
-    ],
-    [
-     2558,
-     -242
-    ],
-    [
-     2558,
-     -243
-    ],
-    [
-     2558,
-     -244
-    ],
-    [
-     2558,
-     -245
     ],
     [
      2579,
@@ -1797,20 +1769,12 @@
   },
   "residents": [
    {
-    "name": "MugiWind",
-    "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
-   },
-   {
     "name": "HifumiAnata",
     "uuid": "a0e9677e-983a-4771-9a98-f42012711cd1"
    },
    {
     "name": "itzemity",
     "uuid": "20b81617-e58c-4b81-a549-00f2d5973cff"
-   },
-   {
-    "name": "xiaop_XP",
-    "uuid": "efcc8a04-fe25-4010-856b-92e390f4ca3c"
    },
    {
     "name": "xxxiaozhangya241",
@@ -1821,36 +1785,12 @@
     "uuid": "bfa4d792-09cc-4957-8126-3d1d8e5f337b"
    },
    {
-    "name": "Sindhi",
-    "uuid": "9992de6b-7fc7-4222-a7be-b04ceccbbf54"
-   },
-   {
     "name": "scottwong198964",
     "uuid": "92636ee8-0769-47b1-9951-aafb9dc9adfc"
    },
    {
-    "name": "clownmacer",
-    "uuid": "8f5b1bcb-7696-44d3-bfa9-cb51e265a11a"
-   },
-   {
-    "name": "Ssebas201413",
-    "uuid": "61a2051f-7340-4ba0-9d01-b90cbf487a1d"
-   },
-   {
-    "name": "ModorMC",
-    "uuid": "cb27aa49-38f8-4e42-aae1-8be9f388cb33"
-   },
-   {
-    "name": "alenstrado",
-    "uuid": "1d886657-ae27-402b-81b1-6f2a3de36289"
-   },
-   {
     "name": "meridian2758",
     "uuid": "f3a74e19-df89-43f9-8d68-14ce55e8a577"
-   },
-   {
-    "name": "DinoDanca19",
-    "uuid": "23cfe836-db2e-4712-8afd-6ef70b53d815"
    },
    {
     "name": "dt3x",
@@ -1897,7 +1837,7 @@
     "uuid": "caec4e9d-8b77-474b-8a18-6f87adc3bb95"
    },
    {
-    "name": "TheRe41Tr4X",
+    "name": "TH3_R34L_TR4X",
     "uuid": "c21276b7-47c6-43a1-a0e7-e8994b22a299"
    },
    {
@@ -1927,6 +1867,18 @@
    {
     "name": "DvidoxMC",
     "uuid": "f387d5e7-f3cf-4396-a99f-329615038951"
+   },
+   {
+    "name": "ConvictedOfCrime",
+    "uuid": "dc1eb043-a2f3-42e0-8358-1abafd009c01"
+   },
+   {
+    "name": "Zoomrek",
+    "uuid": "6239ab73-358f-49b8-aca1-dab51432d0f6"
+   },
+   {
+    "name": "Thecoolcid",
+    "uuid": "dd6afe06-4589-425a-b2e5-fb6f94b534cb"
    }
   ],
   "trusted": [
@@ -1953,10 +1905,6 @@
    {
     "name": "lilioa",
     "uuid": "184dabad-1ea0-4507-aa40-1a07c8bb4871"
-   },
-   {
-    "name": "MugiWind",
-    "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
    },
    {
     "name": "scottwong198964",
@@ -2179,6 +2127,14 @@
     "uuid": "b4cad0b6-880b-462f-9f9e-d12fd074c828"
    },
    {
+    "name": "B1",
+    "uuid": "aedd7b28-bb5f-48ce-9d46-483e27e9739d"
+   },
+   {
+    "name": "A1",
+    "uuid": "b5cd10ad-50ef-4741-83d0-737bb7a34bc5"
+   },
+   {
     "name": "Stylish Apartment",
     "uuid": "33eb00d3-5acc-485c-9b0c-751a819630c8"
    },
@@ -2192,12 +2148,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "MugiWind",
-     "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

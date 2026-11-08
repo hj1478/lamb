@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Gullible",
   "uuid": "9dc30716-688c-459b-9ea4-4c5acdb7bac2",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 0,
+   "nationBonus": 60,
+   "numResidents": 3,
+   "numTrusted": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,40 +80,52 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23454.715960099456,
-    "y": 67.0,
-    "z": 24760.45384042645,
-    "pitch": 15.7488,
-    "yaw": 174.98254
+    "x": -23463.968469013373,
+    "y": 68.0,
+    "z": 24759.970548594305,
+    "pitch": 5.6999745,
+    "yaw": -89.61716
    },
    "homeBlock": [
-    -1466,
+    -1467,
     1547
    ],
    "townBlocks": [
     [
-     -1467,
-     1548
+     -1468,
+     1549
     ],
     [
      -1467,
-     1547
+     1548
     ],
     [
      -1468,
      1548
     ],
     [
+     -1467,
+     1547
+    ],
+    [
+     -1467,
+     1549
+    ],
+    [
+     -1467,
+     1546
+    ],
+    [
+     -1466,
+     1549
+    ],
+    [
      -1466,
      1548
     ],
     [
      -1466,
      1547
-    ],
-    [
-     -1467,
-     1546
     ],
     [
      -1466,
@@ -134,23 +146,32 @@
    {
     "name": "realolszewski",
     "uuid": "73137512-3447-47fd-8c96-46e6226bba96"
+   },
+   {
+    "name": "_9sept",
+    "uuid": "0a5d4fdf-be27-4534-870f-d9538e88db31"
+   },
+   {
+    "name": "Blu_Blitz",
+    "uuid": "c507e267-a971-47f0-98c1-3525e9c0c9d2"
    }
   ],
   "trusted": [
    {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
-   },
-   {
-    "name": "_DucKnight_",
-    "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"
-   },
-   {
-    "name": "ooows",
-    "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
+    "name": "realolszewski",
+    "uuid": "73137512-3447-47fd-8c96-46e6226bba96"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Rubin808",
+    "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

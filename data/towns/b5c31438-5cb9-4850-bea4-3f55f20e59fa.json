@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Navara",
+  "name": "Narvana",
   "uuid": "b5c31438-5cb9-4850-bea4-3f55f20e59fa",
   "board": "/town set board [msg]",
   "founder": "nielden",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CaptainRyna",
-   "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+   "name": "FinnTheFoxxo",
+   "uuid": "2a83e902-722b-411d-ba9d-b93920954172"
   },
   "nation": {
-   "name": "Switzerland",
-   "uuid": "fe3aa6fe-12b4-4a8c-98fb-30efc7e4342f"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1784919863724,
-   "joinedNationAt": 1793396368290,
+   "joinedNationAt": 1793546288387,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 76,
+   "numTownBlocks": 77,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 80.0,
+   "numOutlaws": 1,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -380,6 +380,10 @@
      -581
     ],
     [
+     206,
+     -577
+    ],
+    [
      211,
      -582
     ],
@@ -400,8 +404,8 @@
   },
   "residents": [
    {
-    "name": "CaptainRyna",
-    "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+    "name": "FinnTheFoxxo",
+    "uuid": "2a83e902-722b-411d-ba9d-b93920954172"
    }
   ],
   "trusted": [
@@ -418,7 +422,12 @@
     "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Oakville",
   "uuid": "a2696676-0d16-4a7a-8589-6eff672de2c2",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 28,
+   "maxTownBlocks": 66,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 33495.67289864758,
-    "y": 63.0,
-    "z": -29673.275406722863,
-    "pitch": 55.818638,
-    "yaw": 98.70384
+    "x": 33496.30922398023,
+    "y": 65.0,
+    "z": -29686.38219710822,
+    "pitch": 14.849986,
+    "yaw": 2.2548828
    },
    "homeBlock": [
     2093,
-    -1855
+    -1856
    ],
    "townBlocks": [
     [
@@ -104,6 +104,10 @@
      -1855
     ],
     [
+     2091,
+     -1854
+    ],
+    [
      2092,
      -1856
     ],
@@ -117,6 +121,10 @@
     ],
     [
      2094,
+     -1858
+    ],
+    [
+     2092,
      -1858
     ],
     [
@@ -124,12 +132,20 @@
      -1855
     ],
     [
-     2092,
-     -1858
+     2090,
+     -1857
     ],
     [
      2094,
      -1856
+    ],
+    [
+     2090,
+     -1856
+    ],
+    [
+     2090,
+     -1855
     ],
     [
      2092,
@@ -158,13 +174,13 @@
     [
      2095,
      -1856
-    ],
-    [
-     2095,
-     -1858
     ],
     [
      2091,
+     -1858
+    ],
+    [
+     2095,
      -1858
     ],
     [
@@ -194,6 +210,14 @@
    {
     "name": "Firefightt",
     "uuid": "742aa195-2ec6-42d7-b2ee-32d41efd61e4"
+   },
+   {
+    "name": "Nimbus_TheTurtle",
+    "uuid": "ad73ccd2-652f-4a6e-b034-cb8623270e59"
+   },
+   {
+    "name": "zeeindee",
+    "uuid": "db0a367d-daf8-4959-ad55-63066cb930bf"
    }
   ],
   "trusted": [
@@ -207,7 +231,12 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Tenement",
+    "uuid": "ea7f978c-71ee-402e-827d-2e98a2618ef7"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "New_Aberdare",
   "uuid": "ae9c5344-98a9-4486-8246-fdf402c01297",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 7,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 54.0,
+   "balance": 17.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,7 +92,19 @@
    ],
    "townBlocks": [
     [
+     -1698,
+     -1298
+    ],
+    [
      -1696,
+     -1297
+    ],
+    [
+     -1697,
+     -1298
+    ],
+    [
+     -1697,
      -1297
     ],
     [
@@ -100,7 +112,7 @@
      -1296
     ],
     [
-     -1697,
+     -1698,
      -1297
     ],
     [
@@ -116,7 +128,12 @@
     "uuid": "003458e0-ddf9-4e81-a4cc-5ed9615cd6b6"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Guava_Queen",
+    "uuid": "d202b8d4-857d-46ae-a975-2428cb9ec345"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

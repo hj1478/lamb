@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Chelenko",
   "uuid": "b2ba71aa-1a2c-4e02-84a3-384cc14af54b",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 849.0,
@@ -504,6 +504,10 @@
     "uuid": "72826d82-fa80-4607-9625-740522924569"
    },
    {
+    "name": "SuperSlayWillow",
+    "uuid": "07c34ff0-54c5-4868-b7c3-55dbe3fd2a2c"
+   },
+   {
     "name": "RumiLabubu",
     "uuid": "ca0abf30-698f-4eb4-ab7b-ca67ca8a5b2f"
    },
@@ -540,11 +544,20 @@
      "uuid": "72826d82-fa80-4607-9625-740522924569"
     },
     {
+     "name": "SuperSlayWillow",
+     "uuid": "07c34ff0-54c5-4868-b7c3-55dbe3fd2a2c"
+    },
+    {
      "name": "RumiLabubu",
      "uuid": "ca0abf30-698f-4eb4-ab7b-ca67ca8a5b2f"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "SuperSlayWillow",
+     "uuid": "07c34ff0-54c5-4868-b7c3-55dbe3fd2a2c"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Sariwon",
   "uuid": "9fd9e50d-badd-43d4-a758-0b0b8b7368b9",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 9,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 2,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 4.0,
    "forSalePrice": null
   },
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -105,7 +105,15 @@
     ],
     [
      2815,
+     -408
+    ],
+    [
+     2815,
      -407
+    ],
+    [
+     2815,
+     -406
     ],
     [
      2813,
@@ -142,6 +150,10 @@
    {
     "name": "Rubin808",
     "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   },
+   {
+    "name": "Qorrin",
+    "uuid": "dd8114c7-df72-4c09-8387-a51f9b85f30b"
    }
   ],
   "quarters": [],

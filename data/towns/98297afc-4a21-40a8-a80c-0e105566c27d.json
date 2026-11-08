@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Stornoway",
   "uuid": "98297afc-4a21-40a8-a80c-0e105566c27d",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": "https://discord.gg/N4pUStNFqAWe",
   "mayor": {
-   "name": "Waszp",
-   "uuid": "e8993a3c-96c7-43d5-b008-4450469a7380"
+   "name": "NPC21",
+   "uuid": "0cbabd1f-d8db-20a6-8dcc-0131bf836fcb"
   },
   "nation": {
-   "name": "Scotland",
-   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777488401265,
-   "joinedNationAt": 1777488499714,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1793959201886
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 34,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -232,8 +232,8 @@
   },
   "residents": [
    {
-    "name": "Waszp",
-    "uuid": "e8993a3c-96c7-43d5-b008-4450469a7380"
+    "name": "NPC21",
+    "uuid": "0cbabd1f-d8db-20a6-8dcc-0131bf836fcb"
    }
   ],
   "trusted": [],

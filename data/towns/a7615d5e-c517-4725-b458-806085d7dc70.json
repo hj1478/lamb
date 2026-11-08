@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Changsha",
   "uuid": "a7615d5e-c517-4725-b458-806085d7dc70",
@@ -12,12 +12,12 @@
    "uuid": "03f6cfb1-086b-41f2-accb-d4219caf3d1c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "PRC",
+   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
   },
   "timestamps": {
    "registered": 1777827397374,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793883510373,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 3,
    "numOutlaws": 1,

@@ -1,41 +1,41 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Sippar",
-  "uuid": "84198421-fb1d-4cfc-bd65-d06567e201bc",
+  "name": "Sidgus",
+  "uuid": "a2deeccb-4ab2-46f8-aa19-60df78ed03e4",
   "board": "/town set board [msg]",
-  "founder": "watersky7034",
+  "founder": "Fake_Truth",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC52",
-   "uuid": "b7db11f3-cf87-2048-adf1-64cb87570754"
+   "name": "Fake_Truth",
+   "uuid": "0724371e-9fa6-4659-952a-ab0f1a09bb69"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arctic_Isles",
+   "uuid": "d13fe63e-d51c-455e-b308-75e02a2570bb"
   },
   "timestamps": {
-   "registered": 1792857600856,
-   "joinedNationAt": null,
-   "ruinedAt": 1793834914426
+   "registered": 1794077354236,
+   "joinedNationAt": 1794077414540,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,61 +47,81 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17032.573168881165,
+    "x": -31379.00966999075,
     "y": 63.0,
-    "z": -3935.5567197837736,
-    "pitch": 69.32075,
-    "yaw": -88.82858
+    "z": -29850.571041029198,
+    "pitch": 30.44999,
+    "yaw": -174.63362
    },
    "homeBlock": [
-    1064,
-    -246
+    -1962,
+    -1866
    ],
    "townBlocks": [
     [
-     1064,
-     -246
+     -1962,
+     -1867
+    ],
+    [
+     -1962,
+     -1866
+    ],
+    [
+     -1962,
+     -1865
+    ],
+    [
+     -1961,
+     -1866
+    ],
+    [
+     -1963,
+     -1866
+    ],
+    [
+     -1963,
+     -1865
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC52",
-    "uuid": "b7db11f3-cf87-2048-adf1-64cb87570754"
+    "name": "Fake_Truth",
+    "uuid": "0724371e-9fa6-4659-952a-ab0f1a09bb69"
    }
   ],
   "trusted": [],

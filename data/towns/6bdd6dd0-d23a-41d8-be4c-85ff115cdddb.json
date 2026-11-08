@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "New_Burger_City",
-  "uuid": "3db8fa8e-7ba7-410c-80f6-2897d9c4215b",
+  "name": "Bread",
+  "uuid": "6bdd6dd0-d23a-41d8-be4c-85ff115cdddb",
   "board": "/town set board [msg]",
-  "founder": "burgertart",
+  "founder": "GodsBreads",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC51",
-   "uuid": "56aaf647-a8a4-2062-b377-c73623dbb2fa"
+   "name": "GodsBreads",
+   "uuid": "7028b430-cede-4ed1-a659-3de87de75ab6"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793527781634,
+   "registered": 1794101303242,
    "joinedNationAt": null,
-   "ruinedAt": 1793826102277
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,91 +47,66 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4537.225963997528,
-    "y": 63.0,
-    "z": -12408.276305842368,
-    "pitch": 24.7918,
-    "yaw": 178.88266
+    "x": 14764.699466764803,
+    "y": 64.0,
+    "z": 15755.52106606169,
+    "pitch": 29.250069,
+    "yaw": -95.82715
    },
    "homeBlock": [
-    283,
-    -776
+    922,
+    984
    ],
    "townBlocks": [
     [
-     284,
-     -776
-    ],
-    [
-     282,
-     -776
-    ],
-    [
-     282,
-     -777
-    ],
-    [
-     283,
-     -776
-    ],
-    [
-     283,
-     -777
+     922,
+     984
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC51",
-    "uuid": "56aaf647-a8a4-2062-b377-c73623dbb2fa"
+    "name": "GodsBreads",
+    "uuid": "7028b430-cede-4ed1-a659-3de87de75ab6"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [
-   {
-    "name": "Luxurious Apartment",
-    "uuid": "fd44ea13-3ee3-40c0-a586-6cc02723df9d"
-   },
-   {
-    "name": "Perturbing Quarter",
-    "uuid": "a0a318f1-c86c-49c6-b9ae-ef895cea7110"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

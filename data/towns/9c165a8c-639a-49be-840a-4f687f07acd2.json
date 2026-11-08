@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Stepanakert",
   "uuid": "9c165a8c-639a-49be-840a-4f687f07acd2",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     1041,
+     -442
+    ],
+    [
      1042,
      -441
     ],
@@ -104,10 +108,6 @@
      -439
     ],
     [
-     1045,
-     -439
-    ],
-    [
      1042,
      -440
     ],
@@ -116,16 +116,12 @@
      -439
     ],
     [
-     1043,
-     -440
-    ],
-    [
      1041,
      -439
     ],
     [
      1043,
-     -441
+     -440
     ],
     [
      1041,
@@ -133,26 +129,14 @@
     ],
     [
      1043,
-     -442
+     -441
     ],
     [
      1041,
      -441
     ],
     [
-     1044,
-     -441
-    ],
-    [
-     1044,
-     -440
-    ],
-    [
-     1044,
-     -439
-    ],
-    [
-     1044,
+     1043,
      -442
     ],
     [
@@ -162,18 +146,46 @@
     [
      1045,
      -440
+    ],
+    [
+     1045,
+     -442
+    ],
+    [
+     1045,
+     -439
+    ],
+    [
+     1044,
+     -441
+    ],
+    [
+     1044,
+     -440
+    ],
+    [
+     1044,
+     -439
+    ],
+    [
+     1044,
+     -442
+    ],
+    [
+     1046,
+     -439
     ],
     [
      1046,
      -440
     ],
     [
-     1045,
-     -442
+     1046,
+     -441
     ],
     [
      1046,
-     -441
+     -442
     ]
    ],
    "worlds": {}
@@ -195,7 +207,40 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Perturbing Property",
+    "uuid": "e5d27498-f51b-428b-8ea7-ad7090e85e2a"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "4c342a93-d7e0-4d43-8da6-d48fb36d703c"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "4bf4f756-b9f2-4b3e-93fe-969a4912b5af"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "00e551e4-aebb-4b44-8bf0-ecdf4ea2230e"
+   },
+   {
+    "name": "Dull Residence",
+    "uuid": "16063551-b2e5-43a1-92bd-cb12241110a1"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "3d91aaeb-1f4e-4e69-a615-2a441f87bf88"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "89d429d9-3061-428d-bf6f-39d13635c84a"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "1b2f080f-66c9-4469-ab7f-fc487e70dc3b"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

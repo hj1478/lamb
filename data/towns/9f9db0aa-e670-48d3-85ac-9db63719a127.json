@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Takasa",
   "uuid": "9f9db0aa-e670-48d3-85ac-9db63719a127",
@@ -12,12 +12,12 @@
    "uuid": "01337a87-8820-4935-b933-e3ba0d99479f"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sakha_Republic",
+   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
   },
   "timestamps": {
    "registered": 1777719033823,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793774970561,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -294,6 +294,10 @@
    {
     "name": "Sibainukun05",
     "uuid": "b264c498-1d52-4e63-bf2f-53001dfe512b"
+   },
+   {
+    "name": "MoMoDevice",
+    "uuid": "803b2d00-2cc4-4d75-8e6c-d85125ae58ab"
    }
   ],
   "trusted": [],

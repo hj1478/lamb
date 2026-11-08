@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
-  "name": "Dyneburg",
+  "name": "Polska",
   "uuid": "af16ebaf-2887-4d12-a0ba-3b6c77b54bd9",
   "board": "Glory to Polish-Lithuanian Commonwealth!",
   "founder": "Stara_Pralka",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 171,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 11,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 5.0,
+   "numOutlaws": 4,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9511.602982565595,
-    "y": 57.0,
-    "z": -14548.236072685719,
-    "pitch": 9.300444,
-    "yaw": 1.0510254
+    "x": 9506.562419378004,
+    "y": 63.0,
+    "z": -14552.673313168221,
+    "pitch": 31.25788,
+    "yaw": 84.19727
    },
    "homeBlock": [
     594,
@@ -798,22 +798,55 @@
    {
     "name": "whatmilo",
     "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
+   },
+   {
+    "name": "F1liq_",
+    "uuid": "9c5df14a-0ec1-4a3b-bcc1-762c60d32ca4"
+   },
+   {
+    "name": "tobajeking",
+    "uuid": "a58e0002-a558-44e4-926a-6dc8d772e9ea"
+   },
+   {
+    "name": "Applebees2013",
+    "uuid": "a73c7577-8190-4e1e-9efe-2b2b9ede1859"
+   },
+   {
+    "name": "Hipsebek2020",
+    "uuid": "5fcab0b9-566a-4372-a732-286cf0311509"
+   },
+   {
+    "name": "entirelyx",
+    "uuid": "2273273d-2b6e-43ca-b6d1-58f43cdd9532"
+   },
+   {
+    "name": "SynBrodatego",
+    "uuid": "2b937357-f835-4234-bf99-dfed244351b2"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "01qe",
+    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
+   },
+   {
+    "name": "_Srdjan",
+    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
+   },
+   {
+    "name": "linusdroptips64",
+    "uuid": "0fc58913-4906-4859-9007-7b7645423381"
+   },
+   {
+    "name": "EWisawesome",
+    "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
+   }
+  ],
   "quarters": [
    {
-    "name": "Terracotta",
-    "uuid": "693bc4c6-474d-43a2-8cfb-20f3af5b3ec2"
-   },
-   {
-    "name": "Terracotta",
-    "uuid": "30422c9a-c165-4f1d-84ac-1b243699e2ce"
-   },
-   {
-    "name": "Gravel",
-    "uuid": "567f7108-4bdc-4462-8b42-570339aa1719"
+    "name": "vixititties",
+    "uuid": "0981aca1-aa7d-4a2f-81de-da8d53244a53"
    }
   ],
   "ranks": {

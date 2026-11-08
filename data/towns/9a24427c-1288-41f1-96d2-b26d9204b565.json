@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T13:35:11Z",
+ "fetched_at": "2026-11-08T13:36:47Z",
  "data": {
   "name": "Villahermosa",
   "uuid": "9a24427c-1288-41f1-96d2-b26d9204b565",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ravenwood5792",
-   "uuid": "69fbd5b6-5aad-4690-9015-2ea7634e03c3"
+   "name": "Inkhavens",
+   "uuid": "3c6755b4-9152-46ef-98e5-b7fdf63d8e1a"
   },
   "nation": {
    "name": "Mexico",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 53,
+   "numTownBlocks": 59,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -145,6 +145,10 @@
     ],
     [
      -2074,
+     78
+    ],
+    [
+     -2074,
      79
     ],
     [
@@ -176,6 +180,10 @@
      83
     ],
     [
+     -2076,
+     85
+    ],
+    [
      -2073,
      85
     ],
@@ -197,6 +205,10 @@
     ],
     [
      -2073,
+     78
+    ],
+    [
+     -2073,
      81
     ],
     [
@@ -222,6 +234,10 @@
     [
      -2075,
      79
+    ],
+    [
+     -2075,
+     78
     ],
     [
      -2075,
@@ -257,6 +273,10 @@
     ],
     [
      -2075,
+     85
+    ],
+    [
+     -2075,
      84
     ],
     [
@@ -286,6 +306,10 @@
     [
      -2071,
      82
+    ],
+    [
+     -2072,
+     79
     ],
     [
      -2072,
@@ -308,14 +332,18 @@
   },
   "residents": [
    {
-    "name": "Ravenwood5792",
-    "uuid": "69fbd5b6-5aad-4690-9015-2ea7634e03c3"
+    "name": "Inkhavens",
+    "uuid": "3c6755b4-9152-46ef-98e5-b7fdf63d8e1a"
    }
   ],
   "trusted": [
    {
     "name": "RomanDiCario",
     "uuid": "c6361698-4f03-4fb2-bb3c-74e799a22ad5"
+   },
+   {
+    "name": "Mr_One_Punch",
+    "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
    },
    {
     "name": "JoeJoet7",
