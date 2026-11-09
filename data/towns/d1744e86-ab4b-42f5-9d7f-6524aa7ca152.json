@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Sisian",
   "uuid": "d1744e86-ab4b-42f5-9d7f-6524aa7ca152",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 3,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": true,
+    "pvp": false,
     "explosion": false,
     "fire": false,
     "mobs": true
@@ -158,16 +158,16 @@
    {
     "name": "AlfieTheWood",
     "uuid": "2e2fc834-61d7-4096-800c-42ad98ed7479"
+   },
+   {
+    "name": "Odzo_",
+    "uuid": "2b4c2edc-07bd-4e7a-9165-10f269eef3a8"
    }
   ],
   "trusted": [
    {
-    "name": "Master_CFS",
-    "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
-   },
-   {
-    "name": "borjanoob2012",
-    "uuid": "4e4047ae-f489-4bd9-9a1a-e35eaa47cc86"
+    "name": "Odzo_",
+    "uuid": "2b4c2edc-07bd-4e7a-9165-10f269eef3a8"
    },
    {
     "name": "Tldigi",

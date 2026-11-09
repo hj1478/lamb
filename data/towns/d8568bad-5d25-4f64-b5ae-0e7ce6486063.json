@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Valtherion",
   "uuid": "d8568bad-5d25-4f64-b5ae-0e7ce6486063",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 48,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 54,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13078.750017010427,
+    "x": 13077.57683150336,
     "y": 180.0,
-    "z": -13073.189517787567,
-    "pitch": 2.9999661,
-    "yaw": -177.52617
+    "z": -13073.35056043617,
+    "pitch": -2.4000206,
+    "yaw": -150.67581
    },
    "homeBlock": [
     817,
@@ -92,12 +92,28 @@
    ],
    "townBlocks": [
     [
+     814,
+     -823
+    ],
+    [
+     814,
+     -824
+    ],
+    [
      815,
      -822
     ],
     [
+     814,
+     -821
+    ],
+    [
      815,
      -821
+    ],
+    [
+     814,
+     -822
     ],
     [
      815,
@@ -269,6 +285,10 @@
     ],
     [
      819,
+     -817
+    ],
+    [
+     819,
      -824
     ],
     [
@@ -282,6 +302,10 @@
     [
      819,
      -821
+    ],
+    [
+     819,
+     -816
     ]
    ],
    "worlds": {}
@@ -306,6 +330,10 @@
    {
     "name": "Mestarihylje",
     "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
+   },
+   {
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
    }
   ],
   "quarters": [
@@ -460,6 +488,10 @@
    {
     "name": "Bland Quarter",
     "uuid": "96cdee66-3588-4337-9bdc-583b0d06522c"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "db4b4dc3-7595-432f-ba99-ce8e3cb0f778"
    }
   ],
   "ranks": {

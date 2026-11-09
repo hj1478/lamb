@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Sopron",
   "uuid": "cbfd1a91-013b-44c9-b0bf-923ac3c8c06e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 37,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 6,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numResidents": 5,
+   "numTrusted": 9,
+   "numOutlaws": 2,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -118,6 +118,14 @@
     [
      445,
      -674
+    ],
+    [
+     443,
+     -673
+    ],
+    [
+     442,
+     -673
     ],
     [
      442,
@@ -256,10 +264,6 @@
     "uuid": "06602394-effd-494b-905a-d41b44dd356d"
    },
    {
-    "name": "mrtli08",
-    "uuid": "abee316d-b7ea-4f29-9c02-140b69f5cf58"
-   },
-   {
     "name": "amir10009",
     "uuid": "85f9bc32-9285-4ff3-8819-bdaf1566d8fd"
    },
@@ -270,12 +274,24 @@
   ],
   "trusted": [
    {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "frankos002",
+    "uuid": "27bc5d77-2a8a-4ccb-b3cd-6d09795a87d6"
+   },
+   {
     "name": "Lil_fityma",
     "uuid": "478cdbbb-0ce0-47a6-a397-59ed879bcf83"
    },
    {
     "name": "Zayvex73",
     "uuid": "06602394-effd-494b-905a-d41b44dd356d"
+   },
+   {
+    "name": "VilikR",
+    "uuid": "910d4eac-99f6-41ad-88a6-d5a3fbd86443"
    },
    {
     "name": "That1_manus",
@@ -296,8 +312,12 @@
   ],
   "outlaws": [
    {
-    "name": "Wolhf",
-    "uuid": "64105370-21f3-434a-a3e6-5d17222c03ac"
+    "name": "Tomino1CZ",
+    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+   },
+   {
+    "name": "Mirecek1CZE",
+    "uuid": "e048ed4a-f488-4956-8f63-dcfb9098b777"
    }
   ],
   "quarters": [
@@ -314,16 +334,32 @@
     "uuid": "9638f746-8ab1-4941-ae28-e49084031eb6"
    },
    {
-    "name": "Luxurious Dwelling",
-    "uuid": "0dd8f2e1-644a-443f-8e10-162bfc00a91b"
-   },
-   {
     "name": "Bland Suite",
     "uuid": "9363febd-97ba-470d-8581-3ec52c02a9ec"
    },
    {
     "name": "Lovely Tenement",
     "uuid": "0924342a-4b7c-417c-8c57-686758af83de"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "0dd8f2e1-644a-443f-8e10-162bfc00a91b"
+   },
+   {
+    "name": "Perturbing Suite",
+    "uuid": "cbd417d8-d13c-4086-a953-c7a68ce31830"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "fb63f8fb-9669-4d56-89c2-584b3a6da352"
+   },
+   {
+    "name": "Dull Residence",
+    "uuid": "41805c76-4aa5-4647-9238-f462a2368efc"
+   },
+   {
+    "name": "Annoying Apartment",
+    "uuid": "28a25950-4e1b-456a-bc50-ff5064399274"
    }
   ],
   "ranks": {
@@ -331,10 +367,6 @@
     {
      "name": "Lil_fityma",
      "uuid": "478cdbbb-0ce0-47a6-a397-59ed879bcf83"
-    },
-    {
-     "name": "TrueAdam1939",
-     "uuid": "ff25c803-146d-45e8-87f6-2892e01f7699"
     }
    ],
    "Builder": [],

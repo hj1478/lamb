@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Brusino",
   "uuid": "bd89a004-04ef-4151-a7c1-8464d9ff03d2",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,32 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3137.8339062853793,
-    "y": 66.0,
-    "z": -9486.258095797753,
-    "pitch": 6.450027,
-    "yaw": 91.46865
+    "x": 3125.9069876742074,
+    "y": 70.0,
+    "z": -9484.965901270441,
+    "pitch": 31.05003,
+    "yaw": 93.71865
    },
    "homeBlock": [
-    196,
+    195,
     -593
    ],
    "townBlocks": [
     [
+     194,
+     -593
+    ],
+    [
      195,
      -593
+    ],
+    [
+     195,
+     -594
+    ],
+    [
+     196,
+     -594
     ],
     [
      196,

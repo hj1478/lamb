@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Nevermore",
   "uuid": "b81e252b-c737-4d11-ac89-9eb0a84127e2",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Nxghtxd__",
-   "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
+   "name": "koolkidbruhs",
+   "uuid": "0ee70252-2b9d-4857-8e00-e7c781f8081b"
   },
   "nation": {
    "name": "America",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 5.0,
+   "numResidents": 7,
+   "numTrusted": 5,
+   "numOutlaws": 4,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33414.54973577784,
-    "y": 68.0,
-    "z": -7559.5756367955855,
-    "pitch": 1.2565663,
-    "yaw": -1.0367126
+    "x": -33382.40766635047,
+    "y": 54.0,
+    "z": -7535.94196326909,
+    "pitch": -0.29713666,
+    "yaw": -89.691895
    },
    "homeBlock": [
-    -2089,
-    -473
+    -2087,
+    -471
    ],
    "townBlocks": [
     [
@@ -180,10 +180,6 @@
   },
   "residents": [
    {
-    "name": "Nxghtxd__",
-    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
-   },
-   {
     "name": "Mzga",
     "uuid": "9fbbfb89-f6f7-4864-8009-cf758277da94"
    },
@@ -200,8 +196,16 @@
     "uuid": "8982f7a5-ad9d-4425-9df8-fc60ded1176c"
    },
    {
+    "name": "Madmaxou07",
+    "uuid": "35e9f597-cfaf-4007-ba92-3f08075e7578"
+   },
+   {
     "name": "sobrem4res",
     "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
+   },
+   {
+    "name": "koolkidbruhs",
+    "uuid": "0ee70252-2b9d-4857-8e00-e7c781f8081b"
    }
   ],
   "trusted": [
@@ -210,18 +214,69 @@
     "uuid": "d450205e-d84e-4aeb-a23a-41a6c5fb085b"
    },
    {
+    "name": "Nxghtxd__",
+    "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
+   },
+   {
     "name": "Unknown40",
     "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    },
    {
     "name": "sobrem4res",
     "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
+   },
+   {
+    "name": "slqg",
+    "uuid": "00418b0d-a5ba-47a1-af37-45c8dd98eb3f"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
+   },
+   {
+    "name": "NoahShan",
+    "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"
+   },
+   {
+    "name": "Swightness",
+    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
+   },
+   {
+    "name": "caciki_",
+    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Inviting Apartment",
+    "uuid": "e8ae43c2-6387-4078-a645-4a8bea7e931e"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "f2a9cbc5-3550-4c13-987a-86bd22d51e24"
+   },
+   {
+    "name": "Cheerful Property",
+    "uuid": "124e4893-0772-43ba-8cdf-80d5c8036bdc"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "c6da5b9c-0288-41ad-8670-2fed60464b6f"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "a3796066-e5e1-4c19-a080-2152a6fe9e82"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "koolkidbruhs",
+     "uuid": "0ee70252-2b9d-4857-8e00-e7c781f8081b"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

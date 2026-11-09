@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Scorpion_Den",
   "uuid": "ce4e21c2-73c0-40ac-a907-feafa04e034d",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792976744922,
-   "joinedNationAt": 1792979646652,
+   "joinedNationAt": 1793841381649,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 23,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9047.950199508483,
+    "x": 9047.965602968532,
     "y": 90.0,
-    "z": -719.8347564938748,
-    "pitch": 10.500015,
-    "yaw": 0.116485596
+    "z": -718.6999999880791,
+    "pitch": 4.9500017,
+    "yaw": -0.9335518
    },
    "homeBlock": [
     565,
@@ -124,6 +124,10 @@
      -47
     ],
     [
+     566,
+     -44
+    ],
+    [
      565,
      -47
     ],
@@ -137,11 +141,23 @@
     ],
     [
      565,
+     -44
+    ],
+    [
+     565,
      -48
+    ],
+    [
+     564,
+     -47
     ],
     [
      567,
      -45
+    ],
+    [
+     564,
+     -46
     ],
     [
      567,
@@ -152,8 +168,20 @@
      -47
     ],
     [
+     564,
+     -48
+    ],
+    [
      567,
      -48
+    ],
+    [
+     564,
+     -45
+    ],
+    [
+     567,
+     -44
     ]
    ],
    "worlds": {}

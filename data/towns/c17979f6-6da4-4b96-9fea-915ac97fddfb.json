@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "George",
   "uuid": "c17979f6-6da4-4b96-9fea-915ac97fddfb",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 218,
-   "maxTownBlocks": 214,
+   "maxTownBlocks": 238,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 17,
+   "numResidents": 19,
    "numTrusted": 6,
    "numOutlaws": 7,
    "balance": 0.0,
@@ -976,6 +976,10 @@
     "uuid": "09ecff49-c00a-4946-b690-acf81892ae41"
    },
    {
+    "name": "PistTanger",
+    "uuid": "6dacce16-c253-4069-8ed2-67c5c56920f9"
+   },
+   {
     "name": "Geo_mil",
     "uuid": "be7b5f3f-108e-44a9-9b65-7398b9d8d396"
    },
@@ -990,10 +994,6 @@
    {
     "name": "Thy_canoli",
     "uuid": "32b1e135-e405-4ce4-8091-1589eb45dbc2"
-   },
-   {
-    "name": "MightyPickle88",
-    "uuid": "caca3743-01c0-4a1a-b893-a989f08aeba3"
    },
    {
     "name": "roclen",
@@ -1016,10 +1016,6 @@
     "uuid": "c87a1b56-33cd-45f1-88c0-10268a5756cb"
    },
    {
-    "name": "SentientWetFloor",
-    "uuid": "71154976-6ad3-416e-a44f-133f72330d66"
-   },
-   {
     "name": "kjhkhfjhklk",
     "uuid": "a548aa34-bb8c-40fa-a0f7-c46e811934ad"
    },
@@ -1034,6 +1030,18 @@
    {
     "name": "Detozi",
     "uuid": "73be70e9-f4be-4bfe-b37a-c24ea7dd81b6"
+   },
+   {
+    "name": "ISummonedALemonn",
+    "uuid": "bebe2273-78b2-4b00-ad73-13bf7ea2f2b2"
+   },
+   {
+    "name": "dargox59x",
+    "uuid": "f2a7773c-91ee-4fff-8e0a-2d467a09a365"
+   },
+   {
+    "name": "ARPSthemaster",
+    "uuid": "09de06a2-def9-4942-bd4f-0109eb94a8a6"
    }
   ],
   "trusted": [
@@ -1128,6 +1136,10 @@
    {
     "name": "Shop 3,4",
     "uuid": "97317fc5-d6df-4483-8ac4-113bbdb449e4"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "206123c0-82e7-485c-9b62-cd9bc37b983b"
    }
   ],
   "ranks": {
@@ -1139,6 +1151,10 @@
     {
      "name": "roclen",
      "uuid": "7f719b54-a330-4a81-abd7-33cacdba120b"
+    },
+    {
+     "name": "ISummonedALemonn",
+     "uuid": "bebe2273-78b2-4b00-ad73-13bf7ea2f2b2"
     }
    ],
    "Builder": [],

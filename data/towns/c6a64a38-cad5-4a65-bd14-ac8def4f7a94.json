@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Minecraft",
   "uuid": "c6a64a38-cad5-4a65-bd14-ac8def4f7a94",
@@ -25,22 +25,22 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 113,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 23,
+   "numResidents": 1,
+   "numTrusted": 24,
    "numOutlaws": 2,
    "balance": 3.0,
    "forSalePrice": null
@@ -268,24 +268,24 @@
      -28
     ],
     [
-     2721,
-     -39
-    ],
-    [
      2709,
      -29
     ],
     [
+     2721,
+     -39
+    ],
+    [
      2713,
      -28
     ],
     [
-     2721,
-     -34
-    ],
-    [
      2713,
      -30
+    ],
+    [
+     2721,
+     -34
     ],
     [
      2713,
@@ -300,12 +300,12 @@
      -36
     ],
     [
-     2721,
-     -35
-    ],
-    [
      2713,
      -31
+    ],
+    [
+     2721,
+     -35
     ],
     [
      2713,
@@ -452,20 +452,16 @@
      -38
     ],
     [
+     2712,
+     -28
+    ],
+    [
      2717,
      -39
     ],
     [
      2712,
-     -28
-    ],
-    [
-     2712,
      -31
-    ],
-    [
-     2718,
-     -28
     ],
     [
      2712,
@@ -473,10 +469,14 @@
     ],
     [
      2718,
-     -29
+     -28
     ],
     [
      2712,
+     -29
+    ],
+    [
+     2718,
      -29
     ],
     [
@@ -547,10 +547,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "Tsunlam123",
-    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
-   },
    {
     "name": "512N",
     "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
@@ -644,6 +640,10 @@
    {
     "name": "blackjiaji",
     "uuid": "315aaa12-80c3-4224-ae2b-2406cdba83c5"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    },
    {
     "name": "Nemoriver",

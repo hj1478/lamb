@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Cetatea_De_Otel",
   "uuid": "babdd7b5-3736-4da7-8dcb-1461c32fec8a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 90,
-   "maxTownBlocks": 168,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 9,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 51.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -460,10 +460,6 @@
     "uuid": "11b18541-542b-4792-8fca-1f5e57d18d4f"
    },
    {
-    "name": "Noahrulz17",
-    "uuid": "a24bbfa9-9783-4817-9d15-bae37d447b9e"
-   },
-   {
     "name": "RandomNPCskin",
     "uuid": "0f508c8d-26a3-4b38-a73c-8e03bc4e34ab"
    },
@@ -495,10 +491,6 @@
   "trusted": [],
   "outlaws": [],
   "quarters": [
-   {
-    "name": "GunPowder_Bulk [15G]",
-    "uuid": "ef958bc8-833d-4c00-b54b-d810fa6cde71"
-   },
    {
     "name": "GunPowder_Bulk [15G]",
     "uuid": "084c56e8-61fd-4bbc-91c2-3e4a63053bbc"
@@ -542,6 +534,10 @@
    {
     "name": "GunPowder_Bulk [15G]",
     "uuid": "daf0ddcb-c71a-47fb-9460-f8552c478ff6"
+   },
+   {
+    "name": "GunPowder_Bulk [15G]",
+    "uuid": "ef958bc8-833d-4c00-b54b-d810fa6cde71"
    }
   ],
   "ranks": {

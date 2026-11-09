@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Kalamba",
   "uuid": "ce1f6075-d10c-476a-90ad-116fc2071741",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 13,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 24.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8038.386039068411,
+    "x": 8041.555492065716,
     "y": 77.0,
-    "z": 10406.396398083916,
-    "pitch": 33.30001,
-    "yaw": -167.54785
+    "z": 10409.839804393274,
+    "pitch": 20.250006,
+    "yaw": -19.647804
    },
    "homeBlock": [
     502,
@@ -92,11 +92,11 @@
    ],
    "townBlocks": [
     [
-     502,
+     500,
      649
     ],
     [
-     500,
+     502,
      649
     ],
     [
@@ -138,6 +138,10 @@
     [
      501,
      651
+    ],
+    [
+     502,
+     648
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "XIUHCOATL",
   "uuid": "b8f6f83c-7668-4668-93a5-9bd1b015c757",
@@ -12,12 +12,12 @@
    "uuid": "ff3bf5b2-5894-44dc-9fb5-0676842f9eaa"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Mexico",
+   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
   },
   "timestamps": {
    "registered": 1794012229423,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794103222636,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -36207.142451359876,
-    "y": 123.0,
-    "z": 1535.9339495736454,
-    "pitch": 19.880121,
-    "yaw": -8.978089
+    "x": -36204.794120243336,
+    "y": 132.0,
+    "z": 1543.397597469005,
+    "pitch": 22.500027,
+    "yaw": -164.37158
    },
    "homeBlock": [
     -2263,
-    95
+    96
    ],
    "townBlocks": [
+    [
+     -2264,
+     97
+    ],
     [
      -2264,
      96
@@ -100,8 +104,24 @@
      95
     ],
     [
+     -2262,
+     96
+    ],
+    [
+     -2262,
+     95
+    ],
+    [
+     -2262,
+     97
+    ],
+    [
      -2263,
      95
+    ],
+    [
+     -2263,
+     97
     ],
     [
      -2263,

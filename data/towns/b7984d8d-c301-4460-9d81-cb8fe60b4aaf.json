@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Maydan",
   "uuid": "b7984d8d-c301-4460-9d81-cb8fe60b4aaf",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 186,
-   "maxTownBlocks": 392,
+   "maxTownBlocks": 500,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 26,
+   "numResidents": 35,
    "numTrusted": 13,
    "numOutlaws": 7,
-   "balance": 1529.0,
+   "balance": 198.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
     "mobs": false
    }
@@ -848,10 +848,6 @@
     "uuid": "a8d0768a-a7d9-4077-b7b0-d690de98852b"
    },
    {
-    "name": "Mrfreakyredstone",
-    "uuid": "5b6ced8a-23ed-4030-8afa-d3e726d7332a"
-   },
-   {
     "name": "Appa011",
     "uuid": "0e8667cc-0ddb-42d3-a111-1427cb77efb3"
    },
@@ -942,6 +938,46 @@
    {
     "name": "SuperNate99",
     "uuid": "c04e85a8-eade-4cff-813e-9fb8efb97fb7"
+   },
+   {
+    "name": "BellCranel369",
+    "uuid": "d18e2042-4c22-4a19-ade6-7eb18f23b298"
+   },
+   {
+    "name": "PichiruchiPi",
+    "uuid": "cb108165-e6e3-4b69-bb96-438ea998dfd1"
+   },
+   {
+    "name": "Evanp3van",
+    "uuid": "d39d492b-3575-449c-be8f-c4e3b9153a7f"
+   },
+   {
+    "name": "Lunosty",
+    "uuid": "6290e3fe-8af7-4df1-87b8-60bf781436bd"
+   },
+   {
+    "name": "FranekOlek79809",
+    "uuid": "1fe829ba-8863-4fd8-ab99-32b53f0d261f"
+   },
+   {
+    "name": "DuckyFR_",
+    "uuid": "9ef6802d-bfea-4203-905c-2c6465f6da3c"
+   },
+   {
+    "name": "Lindsay8839",
+    "uuid": "cbf98b76-8e3f-49f1-a9f7-7fd9b96cdd7b"
+   },
+   {
+    "name": "utf64",
+    "uuid": "550751e7-b20d-4cfa-89fa-d2bc98bd0186"
+   },
+   {
+    "name": "VUUW",
+    "uuid": "05ee9316-f178-4579-9834-808352967799"
+   },
+   {
+    "name": "Glizzy1Gobbler1",
+    "uuid": "e05bf39c-4552-47bc-8a6b-c216180ed454"
    }
   ],
   "trusted": [
@@ -958,16 +994,16 @@
     "uuid": "1690c238-112f-4e90-8f88-82fa3680edad"
    },
    {
-    "name": "sigmaDanghikk",
-    "uuid": "31cf55f1-7ba7-4c10-a414-079725ab38e9"
-   },
-   {
     "name": "Nastya____",
     "uuid": "64d73ecf-1cf3-4788-9146-3e1dee82b170"
    },
    {
     "name": "DmytroRTX",
     "uuid": "95d8ea32-e038-4791-9145-4e48134e058b"
+   },
+   {
+    "name": "Good_Ukrainian",
+    "uuid": "565b4885-65a1-4b37-a472-2e8dbc939d89"
    },
    {
     "name": "AEuovi",
@@ -1134,28 +1170,12 @@
     "uuid": "b93a40d8-6196-48fc-830f-9682d0fbcdd2"
    },
    {
-    "name": "Luxurious Dwelling",
-    "uuid": "3f8f7682-4067-4988-b140-14a76c102899"
-   },
-   {
-    "name": "Dingy Quarter",
-    "uuid": "0339f2c5-a179-4f55-83eb-2d6f36657f8a"
-   },
-   {
     "name": "Annoying Suite",
     "uuid": "27e05735-c7ab-4891-b29c-3ec28e48d8f3"
    },
    {
-    "name": "Dull Quarter",
-    "uuid": "79742b0c-aa86-4835-810a-6ab1ba2c200c"
-   },
-   {
-    "name": "Inconvenient Quarter",
-    "uuid": "2641e514-6199-4e10-8b16-0cbdb871a9c6"
-   },
-   {
-    "name": "Stylish Dwelling",
-    "uuid": "dbf01bdb-45a7-4dee-8978-05cca7da5fbd"
+    "name": "Upbeat Tenement",
+    "uuid": "417e0a74-02d0-4d31-965f-2e0ec5e3e085"
    },
    {
     "name": "Enraging Quarter",
@@ -1170,6 +1190,18 @@
     "uuid": "f44f9fec-c658-471e-8f27-a87e5263520b"
    },
    {
+    "name": "Dingy Quarter",
+    "uuid": "0339f2c5-a179-4f55-83eb-2d6f36657f8a"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "dbf01bdb-45a7-4dee-8978-05cca7da5fbd"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "2641e514-6199-4e10-8b16-0cbdb871a9c6"
+   },
+   {
     "name": "Inviting Dwelling",
     "uuid": "7f9320c5-1c13-4dfc-a846-f6fe15a73fb6"
    },
@@ -1178,12 +1210,16 @@
     "uuid": "0b924d0e-a69d-41ae-88ae-aa222d29a759"
    },
    {
-    "name": "Upbeat Tenement",
-    "uuid": "417e0a74-02d0-4d31-965f-2e0ec5e3e085"
-   },
-   {
     "name": "Bland Dwelling",
     "uuid": "72c21f2c-596b-4c4f-8bfc-bda1f1dc6b15"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "3f8f7682-4067-4988-b140-14a76c102899"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "79742b0c-aa86-4835-810a-6ab1ba2c200c"
    }
   ],
   "ranks": {

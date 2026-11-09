@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Kuorevesi",
   "uuid": "d2159f72-c9cf-42cb-bdbd-c90de444db77",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 216,
-   "maxTownBlocks": 216,
+   "maxTownBlocks": 192,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 13,
+   "numResidents": 11,
    "numTrusted": 2,
-   "numOutlaws": 18,
-   "balance": 15.0,
+   "numOutlaws": 14,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8755.84483570053,
+    "x": 8755.805797698247,
     "y": 63.0,
-    "z": -17608.152366145252,
-    "pitch": 10.0499525,
-    "yaw": 90.148926
+    "z": -17607.976817514733,
+    "pitch": 14.54994,
+    "yaw": 90.59985
    },
    "homeBlock": [
     547,
@@ -972,24 +972,12 @@
     "uuid": "81afed1d-85a5-4b73-b954-25ae434b55bd"
    },
    {
-    "name": "rapu20",
-    "uuid": "eb19e309-e1ac-4bea-8172-b425ff3c68a8"
-   },
-   {
     "name": "EpicBadger420",
     "uuid": "e935fcec-2484-4fd5-aaae-920da561c2bc"
    },
    {
-    "name": "k4rce",
-    "uuid": "89f0b800-24cc-41b8-83a8-7cf562a927f2"
-   },
-   {
     "name": "IPIxelz7544",
     "uuid": "264de582-fd89-4b17-9ea9-b967e4d7ec91"
-   },
-   {
-    "name": "Itzzzdragonek",
-    "uuid": "6008ab68-776b-4d82-ae41-e4adec441178"
    },
    {
     "name": "mas4a",
@@ -1010,6 +998,10 @@
    {
     "name": "CavalRank",
     "uuid": "5186c590-9325-4b85-baba-636497d19b6d"
+   },
+   {
+    "name": "Ssonymex",
+    "uuid": "38a7e271-c18a-4090-a357-72f61933a0c6"
    }
   ],
   "trusted": [
@@ -1044,18 +1036,6 @@
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
    },
    {
-    "name": "Rensda_",
-    "uuid": "77adc120-181e-4362-b04e-7d2ee8928e21"
-   },
-   {
-    "name": "Orim_123",
-    "uuid": "2e6c2266-f63a-4652-be0f-ccb3b420a28d"
-   },
-   {
-    "name": "Kaljamah4",
-    "uuid": "a70619c7-3d68-4f59-a224-c25fd3188608"
-   },
-   {
     "name": "6x02",
     "uuid": "76d23ab8-f86b-4b17-8ff6-871c03a1f27b"
    },
@@ -1082,10 +1062,6 @@
    {
     "name": "7unc",
     "uuid": "0fe8a434-7d9f-4633-8774-98309fc03465"
-   },
-   {
-    "name": "Saltiestspinach",
-    "uuid": "62a4f515-cae5-48fb-8350-e5ba1f9a97b4"
    },
    {
     "name": "MalMeteor",
@@ -1141,10 +1117,6 @@
     {
      "name": "jonttu088",
      "uuid": "81afed1d-85a5-4b73-b954-25ae434b55bd"
-    },
-    {
-     "name": "rapu20",
-     "uuid": "eb19e309-e1ac-4bea-8172-b425ff3c68a8"
     }
    ],
    "Recruiter": [],
@@ -1153,10 +1125,6 @@
     {
      "name": "Sandemande1",
      "uuid": "1b105dff-318b-4e67-8708-713ad0cb3f17"
-    },
-    {
-     "name": "Itzzzdragonek",
-     "uuid": "6008ab68-776b-4d82-ae41-e4adec441178"
     }
    ],
    "Treasurer": [

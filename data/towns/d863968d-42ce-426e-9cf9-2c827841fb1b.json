@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Kynograd",
   "uuid": "d863968d-42ce-426e-9cf9-2c827841fb1b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 236,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 13,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 154.0,
+   "nationBonus": 100,
+   "numResidents": 14,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 129.0,
    "forSalePrice": null
   },
   "perms": {
@@ -722,6 +722,10 @@
    {
     "name": "Nurlanitos",
     "uuid": "8e96afbb-b547-49c0-8867-6925e4097886"
+   },
+   {
+    "name": "justamadman18",
+    "uuid": "63cf1ec1-7b3e-4240-89c7-68d84ac05867"
    }
   ],
   "trusted": [
@@ -732,9 +736,22 @@
    {
     "name": "GarrisonGrim",
     "uuid": "97638abe-1d13-41c8-ab38-1cd2a70a31c5"
+   },
+   {
+    "name": "Swightzure",
+    "uuid": "c4edfcd2-1143-4a93-9ee1-26435fad06d7"
+   },
+   {
+    "name": "Bhreaktheboi",
+    "uuid": "348891f3-2753-4c6d-be5c-33c72e2bfa0e"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Bison",
+    "uuid": "d2f95234-d84f-4c46-bcfa-ca29faf8e582"
+   }
+  ],
   "quarters": [
    {
     "name": "Zaksmaks Dorm",

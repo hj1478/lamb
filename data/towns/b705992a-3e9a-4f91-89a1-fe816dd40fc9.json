@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Vita_Concors",
   "uuid": "b705992a-3e9a-4f91-89a1-fe816dd40fc9",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 149,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
+   "numResidents": 8,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
@@ -718,6 +718,10 @@
    {
     "name": "pslaura",
     "uuid": "f937fcdf-5887-4c4d-a506-ce510ae83b78"
+   },
+   {
+    "name": "BlackTeaOnly",
+    "uuid": "8a67dc19-6589-4ca4-a66c-0201ba73e9f0"
    }
   ],
   "trusted": [
@@ -759,7 +763,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "thatgirlx",
+     "uuid": "2621e92b-e403-4421-bbb7-c44d970915b6"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

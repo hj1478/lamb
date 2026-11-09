@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Nile",
   "uuid": "d3a78f9b-2a68-4f82-ae97-d7224556fa23",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 29,
-   "numTrusted": 5,
-   "numOutlaws": 1,
-   "balance": 2.0,
+   "numTrusted": 6,
+   "numOutlaws": 2,
+   "balance": 2887.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2037,10 +2037,6 @@
   },
   "residents": [
    {
-    "name": "aeryyi",
-    "uuid": "ff85376f-4aea-476a-9eeb-6ae69c1b155a"
-   },
-   {
     "name": "JR1258",
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
    },
@@ -2053,36 +2049,8 @@
     "uuid": "663b50b5-f701-416a-bc06-2c9e947e6ea7"
    },
    {
-    "name": "TalTalot",
-    "uuid": "062d3c2e-e84e-48bd-a463-557c8667e670"
-   },
-   {
-    "name": "Bubble_blob",
-    "uuid": "bdb8cd06-dd61-4db2-8c06-40146d35fb46"
-   },
-   {
     "name": "Bombardss",
     "uuid": "f75f978b-8c3e-4b08-a2e3-e22da2f67515"
-   },
-   {
-    "name": "9eDCEnC68knyit",
-    "uuid": "6be1be12-ccfe-4a89-a806-f19bebc034a1"
-   },
-   {
-    "name": "ProDezzzz",
-    "uuid": "c579a674-bb81-4cb9-8449-843c6fb293e1"
-   },
-   {
-    "name": "adf5509",
-    "uuid": "11e8962f-73a6-440b-b5f1-a5e6dec5deb1"
-   },
-   {
-    "name": "Arachnixlee",
-    "uuid": "063a0bea-ed8b-42d3-a5d8-4fd0629be941"
-   },
-   {
-    "name": "kr0n0526",
-    "uuid": "373184e6-937c-430c-a52b-9e06b85b9ee9"
    },
    {
     "name": "Limeta_",
@@ -2151,6 +2119,38 @@
    {
     "name": "HOUP_2000",
     "uuid": "ff9cd1a6-b2d0-4399-9b2b-f031d746e0f0"
+   },
+   {
+    "name": "SWORDYYYYY",
+    "uuid": "cac0547e-d01d-4b8d-a845-986fc63f3d5a"
+   },
+   {
+    "name": "kiilerskoll4260",
+    "uuid": "179a3b0d-d0e7-40be-92d1-3cf3f9e3b420"
+   },
+   {
+    "name": "Uninspired",
+    "uuid": "83589f4a-d3c4-48cb-975e-531a17297946"
+   },
+   {
+    "name": "Snuffie4000",
+    "uuid": "800d3918-362f-4296-92a1-05ff746be276"
+   },
+   {
+    "name": "AK74KAI",
+    "uuid": "67753326-2773-4fd4-a292-d8e65cd440c8"
+   },
+   {
+    "name": "alexander180311",
+    "uuid": "0691a5cc-18dd-4939-abc7-a16277f7fe12"
+   },
+   {
+    "name": "GerretK",
+    "uuid": "ec1b2bae-d59a-41d1-9066-d5040fc1cf56"
+   },
+   {
+    "name": "SGBloxMC",
+    "uuid": "33568092-9ae5-41de-86d8-9ef69e32e54c"
    }
   ],
   "trusted": [
@@ -2163,12 +2163,16 @@
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
    },
    {
+    "name": "xAriMC",
+    "uuid": "8a38ba1e-ee4e-4a35-891c-4167e165d0d6"
+   },
+   {
     "name": "Swoozegames",
     "uuid": "c56235be-cc05-44a2-b27c-b7f03d482eba"
    },
    {
-    "name": "xAriMC",
-    "uuid": "8a38ba1e-ee4e-4a35-891c-4167e165d0d6"
+    "name": "Andre1098",
+    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
    },
    {
     "name": "Duck5goQuack",
@@ -2179,6 +2183,10 @@
    {
     "name": "Thanamos",
     "uuid": "673cb68c-c580-4c3d-9aa3-040c0873a5b4"
+   },
+   {
+    "name": "01qe",
+    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
    }
   ],
   "quarters": [
@@ -2212,31 +2220,54 @@
     {
      "name": "JR1258",
      "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
-    },
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [
     {
      "name": "Duck5goQuack",
      "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Realtor": [
+    {
+     "name": "Duck5goQuack",
+     "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Duck5goQuack",
+     "uuid": "1a7668db-8502-442d-8812-8c2fc61828c8"
+    }
+   ]
   },
   "warps": [
    {
-    "name": "Track",
-    "uuid": "47852fcf-ddfb-4b93-a681-4e32b08b2355",
-    "createdAt": 1793558491191,
+    "name": "heads",
+    "uuid": "a5323afd-fc81-4362-bd89-53fb121c66d9",
+    "createdAt": 1794072876294,
     "createdBy": "JR1258",
     "access": "NATION",
     "location": {
-     "x": 11227,
+     "x": 11376,
      "y": 63,
-     "z": -3556
+     "z": -3525
+    }
+   },
+   {
+    "name": "F1",
+    "uuid": "59a31ecc-35a5-43c8-9833-fee192f3f89b",
+    "createdAt": 1794148135424,
+    "createdBy": "JR1258",
+    "access": "NATION",
+    "location": {
+     "x": 11242,
+     "y": 66,
+     "z": -3559
     }
    }
   ],

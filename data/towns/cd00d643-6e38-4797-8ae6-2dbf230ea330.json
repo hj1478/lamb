@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Ushitaki",
   "uuid": "cd00d643-6e38-4797-8ae6-2dbf230ea330",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ItzAmiya",
+   "name": "Silent_Hill_",
    "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": "Hokkaido",
+   "uuid": "1b0372fe-6f27-4b06-a6e9-e5b5c90e6e72"
   },
   "timestamps": {
    "registered": 1793188208129,
-   "joinedNationAt": 1793618057355,
+   "joinedNationAt": 1793959977513,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 54,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 55,
+   "maxTownBlocks": 140,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 11,
+   "nationBonus": 80,
+   "numResidents": 5,
+   "numTrusted": 16,
    "numOutlaws": 1,
-   "balance": 604.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -141,6 +141,10 @@
     ],
     [
      3160,
+     -476
+    ],
+    [
+     3160,
      -478
     ],
     [
@@ -176,12 +180,12 @@
      -479
     ],
     [
-     3156,
-     -478
-    ],
-    [
      3153,
      -476
+    ],
+    [
+     3156,
+     -478
     ],
     [
      3153,
@@ -316,18 +320,26 @@
     "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
    },
    {
-    "name": "ItzAmiya",
+    "name": "Silent_Hill_",
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   },
+   {
+    "name": "xht1688",
+    "uuid": "30905055-8080-49bb-90ec-3ced69b0a31e"
+   },
+   {
+    "name": "Baicai22",
+    "uuid": "41fcbbea-f521-4e60-af1a-17d057142059"
+   },
+   {
+    "name": "zhangTTTT",
+    "uuid": "862b7b19-0613-4de6-8769-39a58018d4a9"
    }
   ],
   "trusted": [
    {
     "name": "ZDself",
     "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
-   },
-   {
-    "name": "Sepflower",
-    "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
    },
    {
     "name": "dongzirui542",
@@ -342,28 +354,52 @@
     "uuid": "56751b51-4095-4833-9038-520ccc3a3bc5"
    },
    {
-    "name": "ItzAmiya",
+    "name": "Silent_Hill_",
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
+   },
+   {
+    "name": "Truzz666",
+    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+   },
+   {
+    "name": "Suki_Jianai",
+    "uuid": "bb65ed5f-272b-4ef4-a628-11da171745ed"
    },
    {
     "name": "zkbcnm",
     "uuid": "d1fb1ca3-5c6a-4ad2-8a26-e1a58f146f59"
    },
    {
-    "name": "Tsunlam123",
-    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
-   },
-   {
     "name": "Ethan_miauen",
     "uuid": "baa0ba2b-9a0c-4e8f-8dbb-316444f5210c"
+   },
+   {
+    "name": "miZu337",
+    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
+   },
+   {
+    "name": "HanumaMakoto",
+    "uuid": "b8299267-2660-462a-a399-dff57687f85e"
+   },
+   {
+    "name": "ChaiTsama",
+    "uuid": "5e6a6f1b-8425-49dd-b1b0-4a526db0d34d"
+   },
+   {
+    "name": "Sepflower",
+    "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
    },
    {
     "name": "bohe_mau",
     "uuid": "4f5220dd-8453-4cca-b758-c518769c8674"
    },
    {
-    "name": "miZu337",
-    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
+    "name": "Nemoriver",
+    "uuid": "77b9ec62-ac44-4976-8828-d804342a7430"
    }
   ],
   "outlaws": [
@@ -379,7 +415,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Baicai22",
+     "uuid": "41fcbbea-f521-4e60-af1a-17d057142059"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

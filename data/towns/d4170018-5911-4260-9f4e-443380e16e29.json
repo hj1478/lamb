@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Puerto_Rico",
   "uuid": "d4170018-5911-4260-9f4e-443380e16e29",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ApolloSun0",
-   "uuid": "0f6818d5-fe0b-47ef-9a31-1b4c417366ef"
+   "name": "Corvo256",
+   "uuid": "801ec6d6-cb88-412a-8dde-53cb9456386b"
   },
   "nation": {
    "name": "Cuba",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 85,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 76,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 2,
-   "numOutlaws": 1,
-   "balance": 2.0,
+   "nationBonus": 80,
+   "numResidents": 3,
+   "numTrusted": 3,
+   "numOutlaws": 0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23784.501174317338,
-    "y": 65.0,
-    "z": 1407.3463225681828,
-    "pitch": -6.1500125,
-    "yaw": 0.4206848
+    "x": -23784.46065238129,
+    "y": 67.0,
+    "z": 1370.6307839089654,
+    "pitch": -2.2500048,
+    "yaw": -1.4624939
    },
    "homeBlock": [
     -1487,
-    87
+    85
    ],
    "townBlocks": [
     [
@@ -144,8 +144,8 @@
      86
     ],
     [
-     -1492,
-     84
+     -1486,
+     81
     ],
     [
      -1486,
@@ -188,20 +188,12 @@
      91
     ],
     [
-     -1492,
-     86
-    ],
-    [
      -1487,
      82
     ],
     [
      -1486,
      92
-    ],
-    [
-     -1492,
-     85
     ],
     [
      -1487,
@@ -216,6 +208,18 @@
      83
     ],
     [
+     -1481,
+     87
+    ],
+    [
+     -1481,
+     89
+    ],
+    [
+     -1481,
+     88
+    ],
+    [
      -1484,
      85
     ],
@@ -292,24 +296,12 @@
      90
     ],
     [
-     -1493,
-     84
-    ],
-    [
      -1488,
      93
     ],
     [
-     -1493,
-     86
-    ],
-    [
      -1488,
      91
-    ],
-    [
-     -1493,
-     85
     ],
     [
      -1488,
@@ -344,24 +336,16 @@
      88
     ],
     [
-     -1491,
-     84
+     -1482,
+     87
     ],
     [
      -1482,
      89
     ],
     [
-     -1491,
-     85
-    ],
-    [
      -1482,
      88
-    ],
-    [
-     -1491,
-     86
     ],
     [
      -1489,
@@ -372,10 +356,6 @@
      91
     ],
     [
-     -1494,
-     80
-    ],
-    [
      -1485,
      90
     ],
@@ -405,14 +385,6 @@
     ],
     [
      -1490,
-     84
-    ],
-    [
-     -1490,
-     85
-    ],
-    [
-     -1490,
      86
     ],
     [
@@ -422,26 +394,22 @@
     [
      -1490,
      88
-    ],
-    [
-     -1490,
-     89
-    ],
-    [
-     -1490,
-     90
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Dr_Hyde__41769",
-    "uuid": "be6ce1e9-1d03-4985-987f-93a469044e5d"
-   },
-   {
     "name": "ApolloSun0",
     "uuid": "0f6818d5-fe0b-47ef-9a31-1b4c417366ef"
+   },
+   {
+    "name": "Corvo256",
+    "uuid": "801ec6d6-cb88-412a-8dde-53cb9456386b"
+   },
+   {
+    "name": "EduCando04",
+    "uuid": "938b1ec2-8715-47ab-a12d-9f82356540c7"
    }
   ],
   "trusted": [
@@ -452,21 +420,29 @@
    {
     "name": "UrsTrulyMayi",
     "uuid": "a4909ba4-388a-4725-9b28-9907d9a576ef"
-   }
-  ],
-  "outlaws": [
+   },
    {
-    "name": "chostpr",
-    "uuid": "8b8ad4fb-4fca-4e43-ab37-7337901cddbb"
+    "name": "LaPuelkaPR",
+    "uuid": "532f9d92-afd0-4f54-a1b8-6243896c6340"
    }
   ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ApolloSun0",
+     "uuid": "0f6818d5-fe0b-47ef-9a31-1b4c417366ef"
+    },
+    {
+     "name": "Corvo256",
+     "uuid": "801ec6d6-cb88-412a-8dde-53cb9456386b"
+    }
+   ],
    "Builder": [
     {
-     "name": "Dr_Hyde__41769",
-     "uuid": "be6ce1e9-1d03-4985-987f-93a469044e5d"
+     "name": "EduCando04",
+     "uuid": "938b1ec2-8715-47ab-a12d-9f82356540c7"
     }
    ],
    "Recruiter": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "GardenFalls",
   "uuid": "c52be076-bb61-4359-9f6e-c39b477c66c8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "lilbludthetaxman",
-   "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   "name": "NPC81",
+   "uuid": "5887dfbc-9c88-20fb-964f-ac72b144d8db"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1791219606613,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794078837921
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,39 +42,39 @@
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -264,16 +264,16 @@
   },
   "residents": [
    {
-    "name": "lilbludthetaxman",
-    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
-   },
-   {
     "name": "_Blands",
     "uuid": "27b2330d-7312-4cbc-ac7f-0c6659a65f04"
    },
    {
     "name": "AATISH30",
     "uuid": "fea735c9-f9e2-4ffd-b396-1ecb6a2bfa40"
+   },
+   {
+    "name": "NPC81",
+    "uuid": "5887dfbc-9c88-20fb-964f-ac72b144d8db"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Constanta",
   "uuid": "c743e409-a7fe-4470-ae2a-b5c8e4b6844e",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 136,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 4,
    "numOutlaws": 13,
    "balance": 0.0,
@@ -639,6 +639,10 @@
    "worlds": {}
   },
   "residents": [
+   {
+    "name": "Dreadthree38",
+    "uuid": "a5aea90a-b673-45f4-90bb-9443825d1ca6"
+   },
    {
     "name": "ItzDarken",
     "uuid": "4abef3c8-7dfb-40a3-8c5f-8c2f82bf874b"

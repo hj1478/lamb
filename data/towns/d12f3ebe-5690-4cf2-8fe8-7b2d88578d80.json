@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Dubrovnik",
   "uuid": "d12f3ebe-5690-4cf2-8fe8-7b2d88578d80",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Batu8747",
-   "uuid": "b596d9fe-a9fe-4507-915f-f1e2f9f833b1"
+   "name": "NPC52",
+   "uuid": "e3e4b99d-5059-2002-9fbe-d3e79d3e00e5"
   },
   "nation": {
-   "name": "Sicily",
-   "uuid": "f58a652f-7b66-446f-9fe7-5fa233d03630"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1776943773683,
-   "joinedNationAt": 1776958183076,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794132004030
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 111,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -540,8 +540,8 @@
   },
   "residents": [
    {
-    "name": "Batu8747",
-    "uuid": "b596d9fe-a9fe-4507-915f-f1e2f9f833b1"
+    "name": "NPC52",
+    "uuid": "e3e4b99d-5059-2002-9fbe-d3e79d3e00e5"
    }
   ],
   "trusted": [
@@ -553,12 +553,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Batu8747",
-     "uuid": "b596d9fe-a9fe-4507-915f-f1e2f9f833b1"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Cookie",
   "uuid": "d5db1cb1-7af6-477d-8553-19fa0ba49782",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CookieMaster_",
-   "uuid": "4f403f9f-7591-489a-8253-5f39da9861fa"
+   "name": "NPC96",
+   "uuid": "df8b16f7-6a7a-2077-b23a-972e3e7c209c"
   },
   "nation": {
-   "name": "PRC",
-   "uuid": "699609e2-337f-4e8e-ab9b-7d80f3b6d017"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781161919357,
-   "joinedNationAt": 1784222873977,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794132168548
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,25 +132,15 @@
   },
   "residents": [
    {
-    "name": "CookieMaster_",
-    "uuid": "4f403f9f-7591-489a-8253-5f39da9861fa"
+    "name": "NPC96",
+    "uuid": "df8b16f7-6a7a-2077-b23a-972e3e7c209c"
    }
   ],
-  "trusted": [
-   {
-    "name": "Co0kie1ter",
-    "uuid": "5836f1b8-9c66-45a6-8a70-0d64d68b04d5"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "CookieMaster_",
-     "uuid": "4f403f9f-7591-489a-8253-5f39da9861fa"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

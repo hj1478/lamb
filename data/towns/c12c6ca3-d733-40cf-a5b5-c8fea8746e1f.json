@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Ptak",
   "uuid": "c12c6ca3-d733-40cf-a5b5-c8fea8746e1f",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 3,
+   "numResidents": 4,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 1301.0,
    "forSalePrice": null
@@ -584,6 +584,10 @@
     "uuid": "93f98fbe-7585-4082-affc-53d6c8a5f6c9"
    },
    {
+    "name": "mcg_op",
+    "uuid": "a0231b4e-a38b-4a51-888b-c9ec0a656b22"
+   },
+   {
     "name": "AWhiteKnight",
     "uuid": "f77a73fd-751f-4fef-9683-ee566dc5675d"
    }
@@ -596,6 +600,10 @@
    {
     "name": "apollosh",
     "uuid": "93f98fbe-7585-4082-affc-53d6c8a5f6c9"
+   },
+   {
+    "name": "mcg_op",
+    "uuid": "a0231b4e-a38b-4a51-888b-c9ec0a656b22"
    },
    {
     "name": "AWhiteKnight",
@@ -623,10 +631,20 @@
    "Builder": [],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [],
+   "Tax-exempt": [
+    {
+     "name": "mcg_op",
+     "uuid": "a0231b4e-a38b-4a51-888b-c9ec0a656b22"
+    }
+   ],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "mcg_op",
+     "uuid": "a0231b4e-a38b-4a51-888b-c9ec0a656b22"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

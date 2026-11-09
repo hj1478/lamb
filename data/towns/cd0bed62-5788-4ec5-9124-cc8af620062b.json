@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Tuscaloosa",
   "uuid": "cd0bed62-5788-4ec5-9124-cc8af620062b",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "gank40spzz",
-   "uuid": "46dc4fe3-1193-49bc-a0bb-a1727b389a71"
+   "name": "NPC4",
+   "uuid": "406a23d2-d65d-2026-97ed-356c15310cda"
   },
   "nation": {
-   "name": "Gulf_Union",
-   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790481589612,
-   "joinedNationAt": 1790481634763,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794218402383
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "gank40spzz",
-    "uuid": "46dc4fe3-1193-49bc-a0bb-a1727b389a71"
+    "name": "NPC4",
+    "uuid": "406a23d2-d65d-2026-97ed-356c15310cda"
    }
   ],
   "trusted": [

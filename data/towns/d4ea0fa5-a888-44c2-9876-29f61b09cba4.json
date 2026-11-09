@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Newcasstle",
   "uuid": "d4ea0fa5-a888-44c2-9876-29f61b09cba4",
@@ -12,12 +12,12 @@
    "uuid": "b157e015-eb08-4030-b00a-56895f18b67a"
   },
   "nation": {
-   "name": "United_Kingdom",
-   "uuid": "df91cddc-2d99-4a88-ab98-e44e490a21f3"
+   "name": "Scotland",
+   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
   },
   "timestamps": {
    "registered": 1777714669227,
-   "joinedNationAt": 1783255074050,
+   "joinedNationAt": 1793728438082,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 292.0,
@@ -546,6 +546,10 @@
    {
     "name": "Aponovist",
     "uuid": "b157e015-eb08-4030-b00a-56895f18b67a"
+   },
+   {
+    "name": "HeathenryMC",
+    "uuid": "34554199-74a2-47fb-959f-af5bd55872f1"
    }
   ],
   "trusted": [

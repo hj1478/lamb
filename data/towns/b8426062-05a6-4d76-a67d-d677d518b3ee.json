@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Iceland",
   "uuid": "b8426062-05a6-4d76-a67d-d677d518b3ee",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 218,
+   "maxTownBlocks": 230,
    "bonusBlocks": 0,
    "nationBonus": 50,
-   "numResidents": 14,
+   "numResidents": 15,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 25.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -598,6 +598,10 @@
    {
     "name": "LeroLars",
     "uuid": "0f67e072-a5c1-42bf-878a-c2b90178c122"
+   },
+   {
+    "name": "Unknownpistachio",
+    "uuid": "be1effd5-363d-476a-b88f-dde5827d38ca"
    }
   ],
   "trusted": [],

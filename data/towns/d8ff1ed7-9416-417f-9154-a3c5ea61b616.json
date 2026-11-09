@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Valentine",
   "uuid": "d8ff1ed7-9416-417f-9154-a3c5ea61b616",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,8 +73,8 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
-    "mobs": false
+    "fire": false,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -156,7 +156,12 @@
     "uuid": "8106e99e-2805-4c5e-b6dc-83958d0ae089"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "leonzombiiey67",
+    "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Pointe-Lebel",
   "uuid": "c0a4e9c4-6a9d-4bad-bc3f-83cc4694e450",
-  "board": "United Peace!",
+  "board": "Westside Forever",
   "founder": "Proser",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "8f90a970-90de-407d-b4e7-0d9fde10f51a"
   },
   "nation": {
-   "name": "Appalachia",
-   "uuid": "2c5dc18f-5209-4e70-91b1-4218c1d1b64a"
+   "name": "Acadia",
+   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
   },
   "timestamps": {
    "registered": 1792027342622,
-   "joinedNationAt": 1792028877072,
+   "joinedNationAt": 1793740676886,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 65,
-   "maxTownBlocks": 70,
+   "numTownBlocks": 70,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 5,
-   "numTrusted": 3,
+   "nationBonus": 100,
+   "numResidents": 6,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 45.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -24451.015951007685,
+    "x": -24492.177028520207,
     "y": 63.0,
-    "z": -11163.659262983172,
-    "pitch": 20.38402,
-    "yaw": 107.56477
+    "z": -11166.793706824707,
+    "pitch": 22.765095,
+    "yaw": -175.12805
    },
    "homeBlock": [
-    -1529,
+    -1531,
     -698
    ],
    "townBlocks": [
+    [
+     -1532,
+     -701
+    ],
     [
      -1532,
      -700
@@ -98,6 +102,14 @@
     [
      -1532,
      -699
+    ],
+    [
+     -1532,
+     -704
+    ],
+    [
+     -1532,
+     -703
     ],
     [
      -1536,
@@ -245,6 +257,10 @@
     ],
     [
      -1534,
+     -705
+    ],
+    [
+     -1534,
      -696
     ],
     [
@@ -308,6 +324,10 @@
      -697
     ],
     [
+     -1533,
+     -705
+    ],
+    [
      -1529,
      -697
     ],
@@ -324,12 +344,12 @@
      -699
     ],
     [
-     -1533,
-     -700
-    ],
-    [
      -1537,
      -704
+    ],
+    [
+     -1533,
+     -700
     ],
     [
      -1537,
@@ -374,12 +394,24 @@
    {
     "name": "Timmysqueak",
     "uuid": "250c83e5-be6b-4524-80a3-e03ddfdbb686"
+   },
+   {
+    "name": "pvtk",
+    "uuid": "a47832ed-e623-4ffd-a87c-bbe464604629"
    }
   ],
   "trusted": [
    {
+    "name": "BuckedZulu",
+    "uuid": "e6b204ec-1510-4f92-a759-c892c9b70c60"
+   },
+   {
     "name": "LoganCreeper50",
     "uuid": "ab2228e4-8120-42ea-891c-6995e3438bb7"
+   },
+   {
+    "name": "FisherCollins",
+    "uuid": "4d464597-9aa1-4558-9bdb-4e8135a129c2"
    },
    {
     "name": "Lucas2011",

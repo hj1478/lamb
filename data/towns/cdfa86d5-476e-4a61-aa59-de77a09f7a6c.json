@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Pacifica",
   "uuid": "cdfa86d5-476e-4a61-aa59-de77a09f7a6c",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Vorticks",
-   "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
+   "name": "Frxsty_Dxrk",
+   "uuid": "62aff03e-ad16-4111-899d-9376e42c187c"
   },
   "nation": {
    "name": "Pacific",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 110,
-   "maxTownBlocks": 304,
+   "numTownBlocks": 120,
+   "maxTownBlocks": 284,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 17,
-   "numTrusted": 5,
-   "numOutlaws": 11,
-   "balance": 3455.0,
+   "numTrusted": 4,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -209,7 +209,15 @@
     ],
     [
      -2773,
+     -617
+    ],
+    [
+     -2773,
      -615
+    ],
+    [
+     -2773,
+     -616
     ],
     [
      -2773,
@@ -268,6 +276,10 @@
      -611
     ],
     [
+     -2772,
+     -617
+    ],
+    [
      -2774,
      -608
     ],
@@ -320,6 +332,10 @@
      -615
     ],
     [
+     -2770,
+     -617
+    ],
+    [
      -2767,
      -614
     ],
@@ -342,10 +358,18 @@
     [
      -2770,
      -614
+    ],
+    [
+     -2767,
+     -617
     ],
     [
      -2770,
      -615
+    ],
+    [
+     -2767,
+     -616
     ],
     [
      -2774,
@@ -362,6 +386,10 @@
     [
      -2774,
      -613
+    ],
+    [
+     -2774,
+     -617
     ],
     [
      -2777,
@@ -382,6 +410,10 @@
     [
      -2772,
      -615
+    ],
+    [
+     -2768,
+     -617
     ],
     [
      -2772,
@@ -481,6 +513,10 @@
     ],
     [
      -2769,
+     -617
+    ],
+    [
+     -2769,
      -616
     ],
     [
@@ -506,6 +542,10 @@
     [
      -2771,
      -616
+    ],
+    [
+     -2771,
+     -617
     ],
     [
      -2771,
@@ -540,10 +580,6 @@
    }
   },
   "residents": [
-   {
-    "name": "Vorticks",
-    "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
-   },
    {
     "name": "Earthlusion",
     "uuid": "6a7e622a-8f51-46c5-91eb-760b0aa4a46b"
@@ -607,13 +643,13 @@
    {
     "name": "KoolKidBilly",
     "uuid": "7c8e7f11-a842-47cd-8624-b84982eb935a"
+   },
+   {
+    "name": "Frxsty_Dxrk",
+    "uuid": "62aff03e-ad16-4111-899d-9376e42c187c"
    }
   ],
   "trusted": [
-   {
-    "name": "Rynovix",
-    "uuid": "135408b7-009c-4466-895c-d2d6627dd989"
-   },
    {
     "name": "Fresh_peekon",
     "uuid": "6bae0bf4-d558-4efb-8fb6-baef2144dcac"
@@ -653,18 +689,6 @@
     "uuid": "3d208ed2-1742-48a6-b7be-f6a9a2200886"
    },
    {
-    "name": "purmolusk",
-    "uuid": "4e6ccce9-25ba-4519-92c5-0c42ff9dbe63"
-   },
-   {
-    "name": "ljldmclxzq",
-    "uuid": "f128bbe0-befc-46f4-ba06-467171bc6a29"
-   },
-   {
-    "name": "MartenFoe2012",
-    "uuid": "2c643262-2279-4334-a4ea-339b8119d383"
-   },
-   {
     "name": "lilbludthetaxman",
     "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
    },
@@ -675,6 +699,10 @@
    {
     "name": "S59",
     "uuid": "95a8c66a-cf87-4172-a1bb-216e3a198160"
+   },
+   {
+    "name": "PRM_Fox",
+    "uuid": "7b9f131f-afbf-4f4d-9509-8b240ece040e"
    }
   ],
   "quarters": [
@@ -741,18 +769,21 @@
    {
     "name": "Gloomy Suite",
     "uuid": "3b9979a0-209a-4742-bfac-c3f11b68c015"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "4f61f565-1af0-45c1-afd2-d24c912f53fa"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "12c8610f-dcbf-4116-af57-9c60c151adaa"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "Vorticks",
-     "uuid": "b8c09b1d-00e7-4661-96db-45a3feda7712"
-    }
-   ],
+   "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

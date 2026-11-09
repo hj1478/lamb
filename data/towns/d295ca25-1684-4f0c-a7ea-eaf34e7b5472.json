@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Lapland",
   "uuid": "d295ca25-1684-4f0c-a7ea-eaf34e7b5472",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,7 +92,15 @@
    ],
    "townBlocks": [
     [
+     627,
+     -1412
+    ],
+    [
      625,
+     -1413
+    ],
+    [
+     627,
      -1413
     ],
     [
@@ -118,6 +126,18 @@
    {
     "name": "Denish26",
     "uuid": "3b0bf7fc-cc1c-491a-8c5e-06499f20bf31"
+   },
+   {
+    "name": "Killerfish923",
+    "uuid": "81b8c276-dbfe-4cf0-926e-95cc990330c0"
+   },
+   {
+    "name": "kkespii",
+    "uuid": "0cf8b3ea-afbd-406f-b380-29a0d2e6883e"
+   },
+   {
+    "name": "Dulips",
+    "uuid": "82b54d9d-b085-4ada-be9e-8e795ef1967d"
    }
   ],
   "trusted": [
@@ -129,8 +149,22 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "kkespii",
+     "uuid": "0cf8b3ea-afbd-406f-b380-29a0d2e6883e"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Killerfish923",
+     "uuid": "81b8c276-dbfe-4cf0-926e-95cc990330c0"
+    },
+    {
+     "name": "Dulips",
+     "uuid": "82b54d9d-b085-4ada-be9e-8e795ef1967d"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

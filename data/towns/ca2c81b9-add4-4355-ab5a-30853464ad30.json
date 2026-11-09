@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Sumba",
   "uuid": "ca2c81b9-add4-4355-ab5a-30853464ad30",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Fastlocks",
-   "uuid": "bfc316d2-91a9-4862-9637-04941bcbd632"
+   "name": "NPC24",
+   "uuid": "ab80e943-1260-2093-858f-272d9ea9546f"
   },
   "nation": {
-   "name": "Nusantara",
-   "uuid": "6388b87e-12ee-4f2c-86da-093dd18eac69"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788348918642,
-   "joinedNationAt": 1788349105916,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794045601293
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 78,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -408,8 +408,8 @@
   },
   "residents": [
    {
-    "name": "Fastlocks",
-    "uuid": "bfc316d2-91a9-4862-9637-04941bcbd632"
+    "name": "NPC24",
+    "uuid": "ab80e943-1260-2093-858f-272d9ea9546f"
    }
   ],
   "trusted": [],

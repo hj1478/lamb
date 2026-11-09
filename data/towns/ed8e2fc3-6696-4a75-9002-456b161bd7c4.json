@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-09T16:34:24Z",
+ "data": {
+  "name": "Kingsbrugh",
+  "uuid": "ed8e2fc3-6696-4a75-9002-456b161bd7c4",
+  "board": "/town set board [msg]",
+  "founder": "jack752",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC105",
+   "uuid": "978f9b82-8c87-20bc-bacd-2d277a883e17"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794176311499,
+   "joinedNationAt": null,
+   "ruinedAt": 1794177354515
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 10989.765002856897,
+    "y": 86.0,
+    "z": 19132.63183866772,
+    "pitch": 13.049957,
+    "yaw": -75.86157
+   },
+   "homeBlock": [
+    686,
+    1195
+   ],
+   "townBlocks": [
+    [
+     686,
+     1195
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC105",
+    "uuid": "978f9b82-8c87-20bc-bacd-2d277a883e17"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Tripoli",
   "uuid": "cc5b62ef-88fc-4a02-a4ab-fc97d51eb7ef",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 220,
-   "maxTownBlocks": 86,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 3,
+   "nationBonus": 60,
+   "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 1,
-   "balance": 105.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4768.121485651939,
+    "x": 4768.54655678961,
     "y": 63.0,
-    "z": -4143.268216421784,
-    "pitch": -20.460268,
-    "yaw": 138.61989
+    "z": -4142.774776145083,
+    "pitch": -28.95669,
+    "yaw": 138.27466
    },
    "homeBlock": [
     298,
@@ -980,12 +980,8 @@
     "uuid": "eca3cc0d-a6a3-437f-bc27-1d5edb3c0f9c"
    },
    {
-    "name": "LoganCreeper50",
-    "uuid": "ab2228e4-8120-42ea-891c-6995e3438bb7"
-   },
-   {
-    "name": "FisherCollins",
-    "uuid": "4d464597-9aa1-4558-9bdb-4e8135a129c2"
+    "name": "SireRobert",
+    "uuid": "614fd8dc-2358-4441-b8c7-1f2b0aad1a1d"
    }
   ],
   "trusted": [
@@ -1014,16 +1010,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "LoganCreeper50",
-     "uuid": "ab2228e4-8120-42ea-891c-6995e3438bb7"
-    },
-    {
-     "name": "FisherCollins",
-     "uuid": "4d464597-9aa1-4558-9bdb-4e8135a129c2"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

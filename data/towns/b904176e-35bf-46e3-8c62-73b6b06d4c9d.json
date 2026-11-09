@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Havukruunu",
   "uuid": "b904176e-35bf-46e3-8c62-73b6b06d4c9d",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 92,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 5,
+   "numTrusted": 4,
    "numOutlaws": 4,
-   "balance": 1260.0,
+   "balance": 1237.0,
    "forSalePrice": null
   },
   "perms": {
@@ -478,10 +478,6 @@
     "uuid": "3ac79e0e-a56e-4d93-b980-bd0296c77656"
    },
    {
-    "name": "stvnder",
-    "uuid": "f55cc867-d10d-4543-8b76-5785e9f4a1d9"
-   },
-   {
     "name": "DOGSTAR1234",
     "uuid": "1fbc3390-f79d-4cb9-b07e-46f7df711b1d"
    },
@@ -530,16 +526,16 @@
     "uuid": "7a516c29-2d48-4638-86e1-cb5212d1b57d"
    },
    {
-    "name": "BONE - 1 barrel - 12g",
-    "uuid": "bad18871-a92b-45b4-a40f-e800d06b831f"
-   },
-   {
     "name": "FREE MAPART",
     "uuid": "15b0db36-c12a-4325-a53b-a444b35874f7"
    },
    {
     "name": "Mapart Platform",
     "uuid": "a935c5ed-0ae2-4acb-898b-02ee57e22e34"
+   },
+   {
+    "name": "BONE - 1 barrel - 12g",
+    "uuid": "bad18871-a92b-45b4-a40f-e800d06b831f"
    }
   ],
   "ranks": {

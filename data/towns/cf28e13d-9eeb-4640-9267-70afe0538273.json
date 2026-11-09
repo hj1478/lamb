@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Uom",
   "uuid": "cf28e13d-9eeb-4640-9267-70afe0538273",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "The_real_Brock",
-   "uuid": "8fffe2af-79f5-4415-adaa-f9963711aeb9"
+   "name": "NPC83",
+   "uuid": "556f3014-4f9e-20c7-95c2-5e374963b16c"
   },
   "nation": {
-   "name": "Czech_Republic",
-   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791310177668,
-   "joinedNationAt": 1791377170350,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794087303715
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 10,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 11.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -138,6 +138,10 @@
    {
     "name": "The_real_Brock",
     "uuid": "8fffe2af-79f5-4415-adaa-f9963711aeb9"
+   },
+   {
+    "name": "NPC83",
+    "uuid": "556f3014-4f9e-20c7-95c2-5e374963b16c"
    }
   ],
   "trusted": [

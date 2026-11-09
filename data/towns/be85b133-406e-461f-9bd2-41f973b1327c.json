@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Muleba",
   "uuid": "be85b133-406e-461f-9bd2-41f973b1327c",
@@ -23,7 +23,7 @@
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 1,
+   "nationBonus": 30,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,17 +80,49 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11329.699999988079,
-    "y": 81.0,
-    "z": 8720.699999988079,
-    "pitch": 54.150063,
-    "yaw": -163.90515
+    "x": 11323.890385946966,
+    "y": 84.0,
+    "z": 8722.663859233795,
+    "pitch": 17.700035,
+    "yaw": -165.40501
    },
    "homeBlock": [
-    708,
+    707,
     545
    ],
    "townBlocks": [
+    [
+     706,
+     546
+    ],
+    [
+     706,
+     544
+    ],
+    [
+     706,
+     545
+    ],
+    [
+     706,
+     543
+    ],
+    [
+     708,
+     543
+    ],
+    [
+     708,
+     544
+    ],
+    [
+     708,
+     545
+    ],
+    [
+     708,
+     546
+    ],
     [
      707,
      546
@@ -104,11 +136,15 @@
      544
     ],
     [
-     708,
+     707,
+     543
+    ],
+    [
+     705,
      544
     ],
     [
-     708,
+     705,
      545
     ]
    ],
@@ -118,11 +154,15 @@
    {
     "name": "UltimateAndyMc",
     "uuid": "6cb9feb3-1e84-4902-a479-fd4046a48db5"
+   },
+   {
+    "name": "UltimateJessMc",
+    "uuid": "c03b6960-fa31-48ae-b4d5-5cabad5be25c"
    }
   ],
   "trusted": [
    {
-    "name": "doubtOwOr",
+    "name": "doubtful_C",
     "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
    }
   ],

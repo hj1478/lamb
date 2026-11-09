@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Arbores_Trial",
   "uuid": "c77827b4-ce9f-422e-a1a1-427810451b04",
@@ -12,12 +12,12 @@
    "uuid": "d1caff41-a6b5-4224-b51e-e398ce89afc5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Amazon",
+   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
   },
   "timestamps": {
    "registered": 1793529663314,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794069443457,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 19,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 51.0,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -21584.345597739844,
-    "y": -21.0,
-    "z": 11657.768296480483,
-    "pitch": 31.720959,
-    "yaw": 13.089783
+    "x": -21590.83137917804,
+    "y": -22.0,
+    "z": 11662.899902982655,
+    "pitch": 57.05974,
+    "yaw": 165.16388
    },
    "homeBlock": [
     -1350,
@@ -100,6 +100,10 @@
      729
     ],
     [
+     -1348,
+     727
+    ],
+    [
      -1350,
      727
     ],
@@ -108,7 +112,55 @@
      727
     ],
     [
+     -1348,
+     729
+    ],
+    [
      -1349,
+     728
+    ],
+    [
+     -1348,
+     728
+    ],
+    [
+     -1347,
+     727
+    ],
+    [
+     -1347,
+     729
+    ],
+    [
+     -1345,
+     730
+    ],
+    [
+     -1347,
+     728
+    ],
+    [
+     -1345,
+     729
+    ],
+    [
+     -1346,
+     727
+    ],
+    [
+     -1346,
+     728
+    ],
+    [
+     -1346,
+     729
+    ],
+    [
+     -1346,
+     730
+    ],
+    [
+     -1345,
      728
     ],
     [
@@ -122,6 +174,10 @@
    {
     "name": "Jojo1236380",
     "uuid": "d1caff41-a6b5-4224-b51e-e398ce89afc5"
+   },
+   {
+    "name": "brewer444",
+    "uuid": "2a801287-b2d0-48b6-ba75-8975c75e7b2b"
    }
   ],
   "trusted": [
@@ -133,8 +189,18 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "brewer444",
+     "uuid": "2a801287-b2d0-48b6-ba75-8975c75e7b2b"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "brewer444",
+     "uuid": "2a801287-b2d0-48b6-ba75-8975c75e7b2b"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

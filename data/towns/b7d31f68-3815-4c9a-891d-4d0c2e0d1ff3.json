@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Chiang_Mai",
   "uuid": "b7d31f68-3815-4c9a-891d-4d0c2e0d1ff3",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 22,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -186,6 +186,10 @@
    {
     "name": "Rajeeh",
     "uuid": "c4c31ec2-0807-426c-907e-a48c40ed85e7"
+   },
+   {
+    "name": "Craftloxx",
+    "uuid": "f216e3f3-0bb0-4e72-a5c1-3e0e88ae776b"
    }
   ],
   "trusted": [],

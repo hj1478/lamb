@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Ciudad_Real",
   "uuid": "c8d32489-5c36-4e02-baa4-4b55ee9ca481",
@@ -17,11 +17,11 @@
   },
   "timestamps": {
    "registered": 1791737903202,
-   "joinedNationAt": 1793559343527,
+   "joinedNationAt": 1794239571037,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 102,
-   "maxTownBlocks": 208,
+   "numTownBlocks": 121,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 9,
-   "numTrusted": 1,
+   "numResidents": 10,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 1565.0,
+   "balance": 1292.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,18 @@
    "townBlocks": [
     [
      -83,
+     -409
+    ],
+    [
+     -83,
+     -411
+    ],
+    [
+     -83,
+     -410
+    ],
+    [
+     -83,
      -413
     ],
     [
@@ -116,8 +128,16 @@
      -416
     ],
     [
+     -80,
+     -410
+    ],
+    [
      -86,
      -415
+    ],
+    [
+     -80,
+     -409
     ],
     [
      -86,
@@ -130,6 +150,10 @@
     [
      -86,
      -417
+    ],
+    [
+     -80,
+     -411
     ],
     [
      -86,
@@ -232,12 +256,28 @@
      -412
     ],
     [
+     -81,
+     -411
+    ],
+    [
+     -81,
+     -410
+    ],
+    [
+     -81,
+     -409
+    ],
+    [
      -90,
      -411
     ],
     [
      -90,
      -412
+    ],
+    [
+     -90,
+     -409
     ],
     [
      -90,
@@ -285,6 +325,10 @@
     ],
     [
      -89,
+     -409
+    ],
+    [
+     -89,
      -410
     ],
     [
@@ -337,7 +381,15 @@
     ],
     [
      -84,
+     -409
+    ],
+    [
+     -84,
      -411
+    ],
+    [
+     -84,
+     -410
     ],
     [
      -84,
@@ -346,6 +398,14 @@
     [
      -84,
      -412
+    ],
+    [
+     -85,
+     -409
+    ],
+    [
+     -85,
+     -410
     ],
     [
      -85,
@@ -482,6 +542,22 @@
     [
      -88,
      -410
+    ],
+    [
+     -82,
+     -411
+    ],
+    [
+     -88,
+     -409
+    ],
+    [
+     -82,
+     -410
+    ],
+    [
+     -82,
+     -409
     ],
     [
      -88,
@@ -512,10 +588,6 @@
     "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
    },
    {
-    "name": "asaf_s",
-    "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
-   },
-   {
     "name": "BerrakBekir07",
     "uuid": "f48c4f0a-ba13-41a8-ab3c-0b66c8c9aa47"
    },
@@ -538,12 +610,24 @@
    {
     "name": "xRainon",
     "uuid": "6bfdf470-d283-4298-9db4-287fb0091c8b"
+   },
+   {
+    "name": "asaf_s",
+    "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
+   },
+   {
+    "name": "Kyo_K4t",
+    "uuid": "747de6f0-df5a-48dd-914c-061ce107f900"
    }
   ],
   "trusted": [
    {
     "name": "asaf_s",
     "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
+   },
+   {
+    "name": "0P2W",
+    "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
    }
   ],
   "outlaws": [],
@@ -553,6 +637,10 @@
     {
      "name": "ayazcs",
      "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
+    },
+    {
+     "name": "asaf_s",
+     "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
     }
    ],
    "Builder": [],

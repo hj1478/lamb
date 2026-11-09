@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Xanadu",
   "uuid": "ce56ef85-6a2c-4055-826e-f56f03990990",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 21,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 24.0,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -116,6 +116,10 @@
      -397
     ],
     [
+     -133,
+     -398
+    ],
+    [
      -134,
      -397
     ],
@@ -150,6 +154,26 @@
     [
      -132,
      -397
+    ],
+    [
+     -132,
+     -398
+    ],
+    [
+     -134,
+     -398
+    ],
+    [
+     -131,
+     -396
+    ],
+    [
+     -131,
+     -397
+    ],
+    [
+     -131,
+     -398
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "CornCastle",
   "uuid": "c1577c26-30b9-4b58-ab99-3b516d5f675d",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 25,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -198,10 +198,6 @@
    {
     "name": "Ice_otter",
     "uuid": "fd75b025-921a-45d3-8607-21685e4b78ad"
-   },
-   {
-    "name": "Goozbop",
-    "uuid": "52db0cd1-65cf-4ef7-96b3-e89f58c592df"
    }
   ],
   "trusted": [

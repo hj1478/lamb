@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Promised_Land",
   "uuid": "d6c1fb14-979a-4cbc-bed8-d764ad5bb275",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "StubbornOrion",
-   "uuid": "344fac7e-22bf-4571-ace5-8187f1682472"
+   "name": "Avocados_Mexico3",
+   "uuid": "2b302597-ece9-4c20-b7cc-ad2431a20035"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
    "registered": 1789447081754,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793821669361,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -172,8 +172,8 @@
   },
   "residents": [
    {
-    "name": "StubbornOrion",
-    "uuid": "344fac7e-22bf-4571-ace5-8187f1682472"
+    "name": "Avocados_Mexico3",
+    "uuid": "2b302597-ece9-4c20-b7cc-ad2431a20035"
    }
   ],
   "trusted": [],

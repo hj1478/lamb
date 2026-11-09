@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Kairo",
   "uuid": "c299a680-0893-45a7-923a-f64483fdbd2e",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792158475950,
-   "joinedNationAt": 1793456750855,
+   "joinedNationAt": 1793914972271,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 2,
-   "balance": 11.0,
+   "numTrusted": 4,
+   "numOutlaws": 3,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -148,12 +148,12 @@
      -715
     ],
     [
-     242,
-     -716
-    ],
-    [
      240,
      -715
+    ],
+    [
+     242,
+     -716
     ],
     [
      242,
@@ -206,6 +206,10 @@
     "uuid": "9100f2f1-1fe3-4b52-bcb2-f0e7c8fc7781"
    },
    {
+    "name": "Iamacactus1839",
+    "uuid": "dbaf656d-cd96-47e9-a998-6b62d76bfca5"
+   },
+   {
     "name": "infinite_flame0",
     "uuid": "4bc3ca91-49b1-4314-9cd5-e2bb17740ce7"
    }
@@ -218,6 +222,10 @@
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "RoyalTime",
+    "uuid": "e26b4d38-5abe-4dbc-9595-01b78f7346dd"
    }
   ],
   "quarters": [],

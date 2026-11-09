@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Cienfuegos",
   "uuid": "bbf99381-455b-4dbd-ad7b-77a16cfaf8db",
@@ -29,16 +29,16 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 260,
-   "maxTownBlocks": 240,
+   "numTownBlocks": 270,
+   "maxTownBlocks": 260,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 15,
    "numTrusted": 15,
    "numOutlaws": 1,
@@ -308,6 +308,10 @@
      -4
     ],
     [
+     -1812,
+     -5
+    ],
+    [
      -1806,
      -13
     ],
@@ -404,6 +408,10 @@
      -4
     ],
     [
+     -1811,
+     -5
+    ],
+    [
      -1809,
      -2
     ],
@@ -534,6 +542,30 @@
     [
      -1809,
      -13
+    ],
+    [
+     -1797,
+     -1
+    ],
+    [
+     -1797,
+     -2
+    ],
+    [
+     -1797,
+     -3
+    ],
+    [
+     -1797,
+     -4
+    ],
+    [
+     -1797,
+     1
+    ],
+    [
+     -1797,
+     0
     ],
     [
      -1796,
@@ -598,6 +630,10 @@
     [
      -1808,
      0
+    ],
+    [
+     -1797,
+     -5
     ],
     [
      -1797,
@@ -830,6 +866,10 @@
     [
      -1810,
      -6
+    ],
+    [
+     -1810,
+     -5
     ],
     [
      -1810,
@@ -1156,10 +1196,6 @@
     "uuid": "739e65b4-1f95-4aca-a7a5-9c78b611b594"
    },
    {
-    "name": "Haydenliftzzz",
-    "uuid": "5812e1b2-9bfb-4c63-b3eb-9c78f828b26c"
-   },
-   {
     "name": "FivOnoh",
     "uuid": "0206dd20-dde9-4121-84e6-cc7cc97d0ee9"
    },
@@ -1194,6 +1230,10 @@
    {
     "name": "Jeerome",
     "uuid": "fcf906f0-dbde-4a10-9066-3423fb68c57f"
+   },
+   {
+    "name": "ignPogi",
+    "uuid": "626df241-7fd9-4af1-ac82-3676b0be3fee"
    }
   ],
   "trusted": [
@@ -1222,6 +1262,10 @@
     "uuid": "1ffad1ec-d113-4a7f-a315-34ed8d3eae28"
    },
    {
+    "name": "VeritasRatio",
+    "uuid": "d70a8a6d-1141-426f-9b15-1ac9d19e2553"
+   },
+   {
     "name": "Jdgumbo",
     "uuid": "09fd1d12-92aa-4e31-b691-c580e42f1353"
    },
@@ -1248,10 +1292,6 @@
    {
     "name": "FiveDollarJs",
     "uuid": "739e65b4-1f95-4aca-a7a5-9c78b611b594"
-   },
-   {
-    "name": "Haydenliftzzz",
-    "uuid": "5812e1b2-9bfb-4c63-b3eb-9c78f828b26c"
    },
    {
     "name": "ShadowFace_",
@@ -1457,8 +1497,8 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "BuggsHA",
-     "uuid": "9d2a190d-a5b1-4d03-ae75-20554c83c9e6"
+     "name": "FiveDollarJs",
+     "uuid": "739e65b4-1f95-4aca-a7a5-9c78b611b594"
     }
    ],
    "Builder": [

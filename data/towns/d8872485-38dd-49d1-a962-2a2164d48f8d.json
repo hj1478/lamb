@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Imatra",
   "uuid": "d8872485-38dd-49d1-a962-2a2164d48f8d",
-  "board": "/town set board [msg]",
+  "board": "Legenaadriset Kalapuikot",
   "founder": "blabban77",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
+   "numTownBlocks": 20,
    "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 9,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,6 +104,18 @@
      -1079
     ],
     [
+     643,
+     -1080
+    ],
+    [
+     643,
+     -1079
+    ],
+    [
+     643,
+     -1078
+    ],
+    [
      646,
      -1080
     ],
@@ -140,12 +152,24 @@
      -1077
     ],
     [
+     644,
+     -1078
+    ],
+    [
      645,
      -1080
     ],
     [
      647,
      -1076
+    ],
+    [
+     644,
+     -1079
+    ],
+    [
+     644,
+     -1080
     ]
    ],
    "worlds": {}
@@ -192,12 +216,31 @@
    {
     "name": "VikkeVintero1931",
     "uuid": "e94a7f57-645d-4fd4-aae7-27853d7a227f"
+   },
+   {
+    "name": "JaSuS_101",
+    "uuid": "cb243a18-82b9-4cab-b903-3967c7ae43d7"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Upbeat Quarter",
+    "uuid": "3e46f9f8-16d3-485e-a479-f53c71c13356"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Baby_Y0daa",
+     "uuid": "a26b3080-dc67-4d66-9f9c-6b67a9be6a59"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

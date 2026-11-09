@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "The_Legion",
   "uuid": "c6df8e48-12b8-4998-8d18-a54d838147f4",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "0P2W",
-   "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
+   "name": "Ecacex21",
+   "uuid": "22aaab23-3f1b-4a49-9fbc-28c39f740d1e"
   },
   "nation": {
    "name": "America",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 9,
+   "numResidents": 1,
+   "numTrusted": 10,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": false,
     "fire": false,
     "mobs": false
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34199.498164972894,
-    "y": 68.0,
-    "z": -7380.548778071382,
-    "pitch": 39.30853,
-    "yaw": -169.21921
+    "x": -34162.50853864376,
+    "y": 70.0,
+    "z": -7378.592084248832,
+    "pitch": 17.913843,
+    "yaw": 98.30664
    },
    "homeBlock": [
-    -2138,
+    -2136,
     -462
    ],
    "townBlocks": [
@@ -104,19 +104,19 @@
      -463
     ],
     [
-     -2141,
-     -462
-    ],
-    [
      -2142,
      -462
     ],
     [
      -2141,
+     -462
+    ],
+    [
+     -2142,
      -461
     ],
     [
-     -2142,
+     -2141,
      -461
     ],
     [
@@ -128,11 +128,11 @@
      -462
     ],
     [
-     -2141,
+     -2142,
      -460
     ],
     [
-     -2142,
+     -2141,
      -460
     ],
     [
@@ -192,12 +192,8 @@
   },
   "residents": [
    {
-    "name": "0P2W",
-    "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
-   },
-   {
-    "name": "asaf_s",
-    "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
+    "name": "Ecacex21",
+    "uuid": "22aaab23-3f1b-4a49-9fbc-28c39f740d1e"
    }
   ],
   "trusted": [
@@ -214,6 +210,14 @@
     "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
    },
    {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
+   {
+    "name": "4P2W",
+    "uuid": "d1c9d145-efce-4a6f-b531-5e64cc1944e4"
+   },
+   {
     "name": "LassqL",
     "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
    },
@@ -226,16 +230,12 @@
     "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
    },
    {
+    "name": "Freedombruh",
+    "uuid": "9a2f7acc-c8f3-4a3b-9ddb-7c16c93064eb"
+   },
+   {
     "name": "0P2W",
     "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
-   },
-   {
-    "name": "Swighted_",
-    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
-   },
-   {
-    "name": "dex247",
-    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
    }
   ],
   "outlaws": [],

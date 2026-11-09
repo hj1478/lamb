@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Oakwood",
   "uuid": "c9bc3b6f-bc40-487f-a4e3-b825ee440c99",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 139,
-   "maxTownBlocks": 120,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 392.0,
+   "balance": 441.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -666,10 +666,6 @@
    {
     "name": "Nocturn360",
     "uuid": "67ece7e7-ad3c-4b09-9f4a-f038c4430069"
-   },
-   {
-    "name": "vndikinders123",
-    "uuid": "85aab24d-e84e-441d-aa4c-5b417704cdb5"
    }
   ],
   "trusted": [

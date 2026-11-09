@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Silent_Potatoes",
   "uuid": "d678fbca-8a19-4592-9a4e-8cbb57338652",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "craftyharp",
-   "uuid": "9e032f29-d59e-4964-b501-61b32d44ee16"
+   "name": "NPC67",
+   "uuid": "d69b8904-37f2-20e4-a062-335b20da2fc8"
   },
   "nation": {
-   "name": "Kazakhstan",
-   "uuid": "f0bafb9d-88ac-4afb-bb9a-b7569f405cb2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780345633474,
-   "joinedNationAt": 1789159603917,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794218405506
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -164,12 +164,8 @@
   },
   "residents": [
    {
-    "name": "craftyharp",
-    "uuid": "9e032f29-d59e-4964-b501-61b32d44ee16"
-   },
-   {
-    "name": "Ares_War_God",
-    "uuid": "f15ec1c5-0d96-40f7-a9d4-de60dd46ad6e"
+    "name": "NPC67",
+    "uuid": "d69b8904-37f2-20e4-a062-335b20da2fc8"
    }
   ],
   "trusted": [],

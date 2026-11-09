@@ -1,0 +1,128 @@
+{
+ "fetched_at": "2026-11-09T16:34:24Z",
+ "data": {
+  "name": "Hamilton_City",
+  "uuid": "6a086a71-2f35-49a0-bfc3-5ee8213d550a",
+  "board": "/town set board [msg]",
+  "founder": "ZTHEDOX",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC115",
+   "uuid": "b893ac05-63dd-20d0-88a4-d7249d1f5fc4"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794195402047,
+   "joinedNationAt": null,
+   "ruinedAt": 1794211059999
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 21465.199576784584,
+    "y": 65.0,
+    "z": -6324.898621432724,
+    "pitch": 5.8500085,
+    "yaw": -132.50896
+   },
+   "homeBlock": [
+    1341,
+    -396
+   ],
+   "townBlocks": [
+    [
+     1341,
+     -396
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC115",
+    "uuid": "b893ac05-63dd-20d0-88a4-d7249d1f5fc4"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "jettlowc",
+    "uuid": "b7285510-39eb-4655-8852-6319ed5298ca"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

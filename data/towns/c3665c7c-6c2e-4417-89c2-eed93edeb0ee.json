@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Blue_Water",
   "uuid": "c3665c7c-6c2e-4417-89c2-eed93edeb0ee",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 208,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 4,
-   "numOutlaws": 7,
+   "numResidents": 5,
+   "numTrusted": 2,
+   "numOutlaws": 8,
    "balance": 1034.0,
    "forSalePrice": null
   },
@@ -928,28 +928,8 @@
   },
   "residents": [
    {
-    "name": "DogPool_",
-    "uuid": "3b3a7b84-9b8e-4215-ad15-5608f421c78c"
-   },
-   {
     "name": "Grassboii",
     "uuid": "bda5e1d6-3953-4a1c-893d-578947975001"
-   },
-   {
-    "name": "CruxyMC",
-    "uuid": "5800fc63-db7c-4607-b150-6b356ba66f76"
-   },
-   {
-    "name": "cuttl3fishCull3r",
-    "uuid": "0b3eb8cd-bd04-4542-967b-130102801c64"
-   },
-   {
-    "name": "SFRricraz63",
-    "uuid": "5be9065e-0aef-4fd7-8801-51f1b9f1ddbc"
-   },
-   {
-    "name": "Sync266",
-    "uuid": "971aeb1b-d666-45ab-93b8-3d0e02b7f058"
    },
    {
     "name": "RitzKid76",
@@ -970,16 +950,8 @@
   ],
   "trusted": [
    {
-    "name": "Sync266",
-    "uuid": "971aeb1b-d666-45ab-93b8-3d0e02b7f058"
-   },
-   {
     "name": "RitzKid76",
     "uuid": "b97630ac-c4fe-4c7b-819d-af6e3f80b737"
-   },
-   {
-    "name": "CruxyMC",
-    "uuid": "5800fc63-db7c-4607-b150-6b356ba66f76"
    },
    {
     "name": "Grassboii",
@@ -998,6 +970,10 @@
    {
     "name": "llluminexx",
     "uuid": "7d32541d-ff40-4fe5-93de-7d730a3d7473"
+   },
+   {
+    "name": "A2bot",
+    "uuid": "f1530a70-d390-4898-8acc-429f0a9c2e0f"
    },
    {
     "name": "oncup",
@@ -1197,16 +1173,8 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "DogPool_",
-     "uuid": "3b3a7b84-9b8e-4215-ad15-5608f421c78c"
-    },
-    {
      "name": "Grassboii",
      "uuid": "bda5e1d6-3953-4a1c-893d-578947975001"
-    },
-    {
-     "name": "SFRricraz63",
-     "uuid": "5be9065e-0aef-4fd7-8801-51f1b9f1ddbc"
     }
    ],
    "Builder": [],

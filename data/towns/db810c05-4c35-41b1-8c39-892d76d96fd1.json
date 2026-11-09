@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Meroe",
   "uuid": "db810c05-4c35-41b1-8c39-892d76d96fd1",
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -210,7 +210,12 @@
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "kobiKraft",
+    "uuid": "69ed8ea6-fb15-4e08-a5f2-a0084ada6aa4"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,0 +1,128 @@
+{
+ "fetched_at": "2026-11-09T16:34:24Z",
+ "data": {
+  "name": "Tongen_Town",
+  "uuid": "21385ad2-dd8d-4120-b1bb-361efc57da26",
+  "board": "/town set board [msg]",
+  "founder": "jettlowc",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC116",
+   "uuid": "696226ea-d8d7-202f-91a9-bb37f976a4c8"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794202383391,
+   "joinedNationAt": null,
+   "ruinedAt": 1794211109845
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 16503.549561928725,
+    "y": 109.0,
+    "z": -4867.965457018611,
+    "pitch": 10.349893,
+    "yaw": 167.14575
+   },
+   "homeBlock": [
+    1031,
+    -305
+   ],
+   "townBlocks": [
+    [
+     1031,
+     -305
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC116",
+    "uuid": "696226ea-d8d7-202f-91a9-bb37f976a4c8"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "GameSquire76",
+    "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

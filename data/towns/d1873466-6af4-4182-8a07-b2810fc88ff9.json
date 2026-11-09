@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "Masonic_Lodge",
   "uuid": "d1873466-6af4-4182-8a07-b2810fc88ff9",
-  "board": "/town set board [msg]",
+  "board": "Freemasonry",
   "founder": "LordBeeder",
   "wiki": null,
   "discord": null,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
+   "numTownBlocks": 17,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numTrusted": 1,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -92,12 +92,16 @@
    ],
    "townBlocks": [
     [
+     170,
+     -1002
+    ],
+    [
      171,
      -1001
     ],
     [
-     170,
-     -1002
+     172,
+     -1001
     ],
     [
      171,
@@ -128,6 +132,10 @@
      -1001
     ],
     [
+     172,
+     -999
+    ],
+    [
      170,
      -998
     ],
@@ -136,7 +144,15 @@
      -999
     ],
     [
+     168,
+     -1001
+    ],
+    [
      169,
+     -999
+    ],
+    [
+     168,
      -999
     ],
     [
@@ -152,8 +168,18 @@
     "uuid": "f77c15b1-a9dc-422e-a7e9-7b5d1e744a10"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "Ferger_Burger",
+    "uuid": "a5a2557b-180b-4309-b522-3c87a3f7a028"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "akabur",
+    "uuid": "5f593222-b0dc-4db4-9d9c-58401dff08b5"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

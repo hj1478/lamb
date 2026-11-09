@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-09T16:34:24Z",
+ "data": {
+  "name": "Huntdown",
+  "uuid": "d4b444ee-1032-43fe-b909-7dc0759a766a",
+  "board": "/town set board [msg]",
+  "founder": "Menelaos_",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC100",
+   "uuid": "6f39e5e1-2966-20eb-93a3-d5090dad8e73"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794150153952,
+   "joinedNationAt": null,
+   "ruinedAt": 1794150675292
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -52261.01791310521,
+    "y": 63.0,
+    "z": -22453.652663287696,
+    "pitch": 20.911774,
+    "yaw": -55.30975
+   },
+   "homeBlock": [
+    -3267,
+    -1404
+   ],
+   "townBlocks": [
+    [
+     -3267,
+     -1404
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC100",
+    "uuid": "6f39e5e1-2966-20eb-93a3-d5090dad8e73"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

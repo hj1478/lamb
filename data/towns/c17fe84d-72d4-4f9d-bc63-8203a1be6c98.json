@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T16:11:47Z",
+ "fetched_at": "2026-11-09T16:34:24Z",
  "data": {
   "name": "ArchLand",
   "uuid": "c17fe84d-72d4-4f9d-bc63-8203a1be6c98",
@@ -12,12 +12,12 @@
    "uuid": "cfd9c3a6-92d1-4467-a59c-29109ef8be76"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Bulgaria",
+   "uuid": "30ea9324-4ca2-4aca-9f9f-8b021b4c0321"
   },
   "timestamps": {
    "registered": 1793483061001,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793787447810,
    "ruinedAt": null
   },
   "status": {
@@ -28,14 +28,14 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 8,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -80,20 +80,48 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8330.905098799267,
-    "y": 65.0,
-    "z": -7818.604798786115,
-    "pitch": 22.350313,
-    "yaw": 41.611694
+    "x": 8338.224361387942,
+    "y": 66.0,
+    "z": -7815.63910218845,
+    "pitch": 39.60005,
+    "yaw": -114.239944
    },
    "homeBlock": [
-    520,
+    521,
     -489
    ],
    "townBlocks": [
     [
+     519,
+     -489
+    ],
+    [
+     519,
+     -490
+    ],
+    [
+     521,
+     -490
+    ],
+    [
+     521,
+     -489
+    ],
+    [
+     518,
+     -489
+    ],
+    [
+     520,
+     -490
+    ],
+    [
      520,
      -489
+    ],
+    [
+     518,
+     -490
     ]
    ],
    "worlds": {}
