@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Vargheim",
   "uuid": "df365ffb-9bc2-4c47-925f-19032f67d524",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FallGalaxy64127",
-   "uuid": "8446b6b2-2a25-415d-a1ae-ceb348ed524a"
+   "name": "NPC23",
+   "uuid": "11b024df-644c-2066-8d52-d790301baa20"
   },
   "nation": {
-   "name": "Sweden",
-   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788270890852,
-   "joinedNationAt": 1788279747845,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794132002394
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "FallGalaxy64127",
-    "uuid": "8446b6b2-2a25-415d-a1ae-ceb348ed524a"
+    "name": "NPC23",
+    "uuid": "11b024df-644c-2066-8d52-d790301baa20"
    }
   ],
   "trusted": [],

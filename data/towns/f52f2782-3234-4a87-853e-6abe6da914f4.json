@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Konigsberg",
   "uuid": "f52f2782-3234-4a87-853e-6abe6da914f4",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 502,
-   "maxTownBlocks": 568,
+   "numTownBlocks": 523,
+   "maxTownBlocks": 508,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 39,
-   "numTrusted": 6,
+   "numResidents": 34,
+   "numTrusted": 7,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -220,6 +220,30 @@
      -881
     ],
     [
+     452,
+     -847
+    ],
+    [
+     452,
+     -846
+    ],
+    [
+     452,
+     -845
+    ],
+    [
+     452,
+     -844
+    ],
+    [
+     452,
+     -843
+    ],
+    [
+     452,
+     -842
+    ],
+    [
      468,
      -872
     ],
@@ -368,6 +392,10 @@
      -869
     ],
     [
+     454,
+     -842
+    ],
+    [
      464,
      -868
     ],
@@ -444,6 +472,10 @@
      -865
     ],
     [
+     453,
+     -842
+    ],
+    [
      464,
      -864
     ],
@@ -454,6 +486,26 @@
     [
      464,
      -862
+    ],
+    [
+     453,
+     -845
+    ],
+    [
+     453,
+     -846
+    ],
+    [
+     453,
+     -843
+    ],
+    [
+     453,
+     -844
+    ],
+    [
+     453,
+     -847
     ],
     [
      453,
@@ -1661,6 +1713,10 @@
     ],
     [
      457,
+     -842
+    ],
+    [
+     457,
      -847
     ],
     [
@@ -1852,6 +1908,18 @@
      -856
     ],
     [
+     451,
+     -846
+    ],
+    [
+     451,
+     -847
+    ],
+    [
+     456,
+     -842
+    ],
+    [
      456,
      -843
     ],
@@ -1896,12 +1964,12 @@
      -849
     ],
     [
-     456,
-     -850
-    ],
-    [
      451,
      -860
+    ],
+    [
+     456,
+     -850
     ],
     [
      451,
@@ -1926,6 +1994,22 @@
     [
      456,
      -853
+    ],
+    [
+     451,
+     -844
+    ],
+    [
+     451,
+     -845
+    ],
+    [
+     451,
+     -842
+    ],
+    [
+     451,
+     -843
     ],
     [
      456,
@@ -2136,10 +2220,6 @@
     "uuid": "3e56a60f-573b-4570-a0f6-d49b8aeaddf2"
    },
    {
-    "name": "DrTimmy0316",
-    "uuid": "8500d905-1169-49c6-b3df-c5359dec8860"
-   },
-   {
     "name": "OmenaZombi",
     "uuid": "2825626e-3eda-4f05-bf02-402669a629f0"
    },
@@ -2148,32 +2228,8 @@
     "uuid": "27ffb316-16bf-479b-b42d-77592111d2ef"
    },
    {
-    "name": "TheAxolotlFarmer",
-    "uuid": "3c29e7ae-8e71-4b03-8d93-e190e6c0a00d"
-   },
-   {
-    "name": "MeinJorgen",
-    "uuid": "d5aa17ca-0e56-4d75-80a8-f46657bc01d2"
-   },
-   {
-    "name": "ElectroLks",
-    "uuid": "97e52a03-7945-4196-996d-79fe6d574aa9"
-   },
-   {
     "name": "peanng",
     "uuid": "cb8702b2-6752-4420-b5a8-53d96fdb6361"
-   },
-   {
-    "name": "Sarthug",
-    "uuid": "45635d9d-cc08-4d77-9230-b3918ff047bd"
-   },
-   {
-    "name": "LLHammer34",
-    "uuid": "ccf57bcf-228c-4906-95c0-a4d43ce02ed3"
-   },
-   {
-    "name": "stwipes_",
-    "uuid": "5fa28015-b422-464f-8ad6-6bce2cc251ad"
    },
    {
     "name": "Eggz_on_Toast",
@@ -2258,9 +2314,21 @@
    {
     "name": "Kojty",
     "uuid": "1219f4dc-15a9-4f5e-93b9-07998b1792c6"
+   },
+   {
+    "name": "SeniorCat",
+    "uuid": "edd9688d-a369-4507-a971-f0764980fa6c"
+   },
+   {
+    "name": "kleijnepro",
+    "uuid": "c197edc4-bcbc-41ef-b9f7-2008afd62141"
    }
   ],
   "trusted": [
+   {
+    "name": "TheMagicTom",
+    "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+   },
    {
     "name": "sab2003",
     "uuid": "b724c3ef-3479-4a8f-a475-786e0e75e8d0"

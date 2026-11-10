@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Guatemala_City",
   "uuid": "f8f0ad49-75f9-450e-883f-54d62aee05bf",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 23,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32292.04368179701,
-    "y": 112.0,
-    "z": 2787.0247612494964,
-    "pitch": 13.350066,
-    "yaw": -94.6604
+    "x": -32320.502292267836,
+    "y": 113.0,
+    "z": 2774.5113140484987,
+    "pitch": 4.049998,
+    "yaw": -179.56062
    },
    "homeBlock": [
-    -2019,
-    174
+    -2021,
+    173
    ],
    "townBlocks": [
     [
@@ -104,18 +104,22 @@
      173
     ],
     [
-     -2020,
-     172
-    ],
-    [
      -2021,
      174
+    ],
+    [
+     -2020,
+     172
     ],
     [
      -2019,
      172
     ],
     [
+     -2017,
+     171
+    ],
+    [
      -2016,
      172
     ],
@@ -140,6 +144,10 @@
      174
     ],
     [
+     -2016,
+     175
+    ],
+    [
      -2018,
      172
     ],
@@ -158,6 +166,10 @@
     [
      -2017,
      174
+    ],
+    [
+     -2016,
+     171
     ],
     [
      -2015,
@@ -178,10 +190,6 @@
    {
     "name": "GS_HBH",
     "uuid": "a89c4344-6b59-49b8-80de-a704ae3d8f36"
-   },
-   {
-    "name": "Sui4",
-    "uuid": "8932e2c6-9555-4398-904f-6a9f619cc371"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Port_Moresby",
   "uuid": "f54cac2a-f7ee-4411-9355-ca266f024892",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "unkillebl",
-   "uuid": "f266ea8e-ab99-413f-a615-da9f75131ad8"
+   "name": "NPC3",
+   "uuid": "8b303fbb-07cb-20a0-befb-5271598dc488"
   },
   "nation": {
-   "name": "Solomon_Islands",
-   "uuid": "9aed3715-16cf-4e98-9692-b67b757836e0"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777774500000,
-   "joinedNationAt": 1786060868273,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794304802553
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -40,41 +40,41 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 4,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -200,8 +200,8 @@
   },
   "residents": [
    {
-    "name": "unkillebl",
-    "uuid": "f266ea8e-ab99-413f-a615-da9f75131ad8"
+    "name": "NPC3",
+    "uuid": "8b303fbb-07cb-20a0-befb-5271598dc488"
    }
   ],
   "trusted": [
@@ -212,14 +212,6 @@
    {
     "name": "Spxdqr",
     "uuid": "584781b0-72f3-4ab8-8c0d-d059890bcd8d"
-   },
-   {
-    "name": "Goldennose9898",
-    "uuid": "2cd4184c-31c7-42ce-8288-3c3e948be2a3"
-   },
-   {
-    "name": "unkillebl",
-    "uuid": "f266ea8e-ab99-413f-a615-da9f75131ad8"
    }
   ],
   "outlaws": [

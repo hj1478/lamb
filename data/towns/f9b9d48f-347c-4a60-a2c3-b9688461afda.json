@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Emp",
   "uuid": "f9b9d48f-347c-4a60-a2c3-b9688461afda",
@@ -12,12 +12,12 @@
    "uuid": "5fa845b0-714b-4463-8856-030d30dcec17"
   },
   "nation": {
-   "name": "Gulf_Union",
-   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791847528229,
-   "joinedNationAt": 1791847596329,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

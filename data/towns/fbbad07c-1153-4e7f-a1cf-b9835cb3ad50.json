@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Pipaland",
   "uuid": "fbbad07c-1153-4e7f-a1cf-b9835cb3ad50",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "1bernard0m",
-   "uuid": "8f5f812e-17d2-40de-8dd7-851dabce26bd"
+   "name": "NPC58",
+   "uuid": "80ff6e0b-6dab-20b6-b028-cd27ef43ae33"
   },
   "nation": {
-   "name": "UAE",
-   "uuid": "7c48b77f-01e8-4c76-8fff-08104b930cc2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785356134770,
-   "joinedNationAt": 1787105515833,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794218401666
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "1bernard0m",
-    "uuid": "8f5f812e-17d2-40de-8dd7-851dabce26bd"
+    "name": "NPC58",
+    "uuid": "80ff6e0b-6dab-20b6-b028-cd27ef43ae33"
    }
   ],
   "trusted": [],

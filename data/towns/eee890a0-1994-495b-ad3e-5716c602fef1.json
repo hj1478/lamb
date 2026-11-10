@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Rakiura",
   "uuid": "eee890a0-1994-495b-ad3e-5716c602fef1",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 228,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 7,
-   "numTrusted": 7,
+   "numResidents": 8,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 1947.0,
+   "balance": 1977.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1021,10 +1021,6 @@
     "uuid": "d6425f74-8389-4fb9-a770-56686af80749"
    },
    {
-    "name": "Deathcon188",
-    "uuid": "dd341f74-3fa5-496f-956b-afcb4a3b888f"
-   },
-   {
     "name": "TheError7",
     "uuid": "b48f4639-6fe8-4d36-a4cc-5105767c3407"
    },
@@ -1039,6 +1035,14 @@
    {
     "name": "thepepeone1",
     "uuid": "49f00615-9956-453d-9041-a9a14b4137d7"
+   },
+   {
+    "name": "LazyPanda9595",
+    "uuid": "b9e81ead-6ae4-41b6-9b06-878bb63beb5a"
+   },
+   {
+    "name": "Ushkaa",
+    "uuid": "5a0ab26f-0ced-4601-8577-9c0d699f235b"
    }
   ],
   "trusted": [
@@ -1065,22 +1069,10 @@
    {
     "name": "Dools2",
     "uuid": "efb4f1e4-2070-40f5-bd92-1d2bc17bf8ff"
-   },
-   {
-    "name": "Deathcon188",
-    "uuid": "dd341f74-3fa5-496f-956b-afcb4a3b888f"
    }
   ],
   "outlaws": [],
   "quarters": [
-   {
-    "name": "CanvasEntranceBuilding",
-    "uuid": "b78559fa-b5e4-4376-af16-996ee7795edd"
-   },
-   {
-    "name": "RakiuraMapartCanvas",
-    "uuid": "800709ec-ca20-4468-a0ca-f7ce6e2e1b38"
-   },
    {
     "name": "West Entrance",
     "uuid": "524e3622-8240-46dd-bafc-6f32b929b1fd"
@@ -1198,14 +1190,6 @@
     "uuid": "d9c6b63a-7092-41c4-b08d-614765a3073b"
    },
    {
-    "name": "Main Entrance",
-    "uuid": "a97b0ba4-2eb9-4e98-972f-3a3a5061acef"
-   },
-   {
-    "name": "765A",
-    "uuid": "0b26d64e-94bd-4fb4-a0a6-dfc5b1637a22"
-   },
-   {
     "name": "1B",
     "uuid": "db768a9c-6bbe-4c9b-ace7-e6d9d538f1ac"
    },
@@ -1214,21 +1198,32 @@
     "uuid": "9f8778da-8f02-4605-9af0-bd3033704472"
    },
    {
-    "name": "675B",
-    "uuid": "7de02d0d-f30d-4d64-b7eb-135281dca7fd"
-   },
-   {
     "name": "2B",
     "uuid": "9ba9be50-d002-4711-9703-377baa0ad0d1"
+   },
+   {
+    "name": "RakiuraMapartCanvas",
+    "uuid": "800709ec-ca20-4468-a0ca-f7ce6e2e1b38"
+   },
+   {
+    "name": "CanvasEntranceBuilding",
+    "uuid": "b78559fa-b5e4-4376-af16-996ee7795edd"
+   },
+   {
+    "name": "Main Entrance",
+    "uuid": "a97b0ba4-2eb9-4e98-972f-3a3a5061acef"
+   },
+   {
+    "name": "675A",
+    "uuid": "0b26d64e-94bd-4fb4-a0a6-dfc5b1637a22"
+   },
+   {
+    "name": "675B",
+    "uuid": "7de02d0d-f30d-4d64-b7eb-135281dca7fd"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Deathcon188",
-     "uuid": "dd341f74-3fa5-496f-956b-afcb4a3b888f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [
     {

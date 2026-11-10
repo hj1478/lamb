@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Kekra",
-  "uuid": "df5ab7be-ce2b-44d8-ae48-efcf5f5100ee",
-  "board": "Real Trustmebro btw",
-  "founder": "MoaGlr",
+  "name": "Ili",
+  "uuid": "eaa0b1ae-9b14-4c0a-90ca-84042628aea8",
+  "board": "/town set board [msg]",
+  "founder": "Sylfaenydd",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ht1bowspammer",
-   "uuid": "0390bde0-8d92-4c92-9257-ce1bd04520cb"
+   "name": "Sylfaenydd",
+   "uuid": "d6078aff-c41b-4b67-a01e-ec449f62d209"
   },
   "nation": {
-   "name": "Sakha_Republic",
-   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
+   "name": "Liao",
+   "uuid": "fe97e2e0-fd56-46ad-8a77-525bc67e573e"
   },
   "timestamps": {
-   "registered": 1788703907354,
-   "joinedNationAt": 1788703911655,
+   "registered": 1794262987301,
+   "joinedNationAt": 1794263008460,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numTrusted": 1,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,58 +80,47 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 48768.397365243254,
-    "y": 65.0,
-    "z": -14139.238604896205,
-    "pitch": 2.5316255,
-    "yaw": 178.50426
+    "x": 30026.64017704503,
+    "y": 206.0,
+    "z": -8502.45827988075,
+    "pitch": 37.050175,
+    "yaw": -96.27985
    },
    "homeBlock": [
-    3048,
-    -884
+    1876,
+    -532
    ],
    "townBlocks": [
     [
-     3047,
-     -884
+     1876,
+     -532
     ],
     [
-     3047,
-     -885
-    ],
-    [
-     3049,
-     -884
-    ],
-    [
-     3048,
-     -885
-    ],
-    [
-     3048,
-     -884
-    ],
-    [
-     3049,
-     -885
+     1876,
+     -533
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ht1bowspammer",
-    "uuid": "0390bde0-8d92-4c92-9257-ce1bd04520cb"
+    "name": "Sylfaenydd",
+    "uuid": "d6078aff-c41b-4b67-a01e-ec449f62d209"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
-  "quarters": [
+  "trusted": [
    {
-    "name": "Inviting Property",
-    "uuid": "d8ba49d7-82d2-49b9-bb5e-8b22176d3684"
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
    }
   ],
+  "outlaws": [
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   }
+  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

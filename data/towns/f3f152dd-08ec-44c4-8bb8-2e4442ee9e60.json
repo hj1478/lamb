@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Birdsville",
   "uuid": "f3f152dd-08ec-44c4-8bb8-2e4442ee9e60",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 262,
+   "numTownBlocks": 269,
    "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 14,
-   "numTrusted": 4,
-   "numOutlaws": 132,
-   "balance": 1154.0,
+   "numTrusted": 6,
+   "numOutlaws": 115,
+   "balance": 1013.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 51192.30427644672,
+    "x": 51192.37216968362,
     "y": 65.0,
-    "z": 17542.615952347962,
-    "pitch": 8.400078,
-    "yaw": -178.85742
+    "z": 17537.122592007607,
+    "pitch": 5.2500668,
+    "yaw": 0.24255371
    },
    "homeBlock": [
     3199,
@@ -362,6 +362,22 @@
     [
      3206,
      1096
+    ],
+    [
+     3206,
+     1099
+    ],
+    [
+     3206,
+     1100
+    ],
+    [
+     3185,
+     1096
+    ],
+    [
+     3185,
+     1097
     ],
     [
      3194,
@@ -812,8 +828,16 @@
      1093
     ],
     [
+     3186,
+     1096
+    ],
+    [
      3187,
      1092
+    ],
+    [
+     3186,
+     1097
     ],
     [
      3187,
@@ -828,16 +852,20 @@
      1094
     ],
     [
+     3186,
+     1098
+    ],
+    [
      3196,
      1091
     ],
     [
-     3196,
-     1092
-    ],
-    [
      3187,
      1097
+    ],
+    [
+     3196,
+     1092
     ],
     [
      3187,
@@ -1153,10 +1181,6 @@
     "uuid": "2ea247d6-8df1-4850-80e0-702c61e80523"
    },
    {
-    "name": "harvilchuck",
-    "uuid": "e12bed75-0642-4bfb-abc8-5384fc50f1fb"
-   },
-   {
     "name": "Four1350",
     "uuid": "a96ca681-a8eb-427f-91e8-052c7e974b6b"
    },
@@ -1203,12 +1227,20 @@
    {
     "name": "MitchH_MC",
     "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
+   },
+   {
+    "name": "DinoKid2748",
+    "uuid": "0c431d31-89a3-4f82-9032-c49f9988d8e1"
    }
   ],
   "trusted": [
    {
     "name": "7ember",
     "uuid": "31c426fb-70fe-4612-9122-d256af182d6f"
+   },
+   {
+    "name": "Divalith",
+    "uuid": "28bcd25e-1ad2-4a99-89c5-7b546dfc2f91"
    },
    {
     "name": "323Two",
@@ -1221,6 +1253,10 @@
    {
     "name": "Stest",
     "uuid": "0f070c8c-e374-4de5-b742-4a7a4861be79"
+   },
+   {
+    "name": "dep94mitch",
+    "uuid": "7f0ad2b1-401f-4f53-a228-c0a235cd38de"
    }
   ],
   "outlaws": [
@@ -1285,40 +1321,8 @@
     "uuid": "b2a72cec-fc02-4f3c-85cf-2653518c4786"
    },
    {
-    "name": "Samrorong",
-    "uuid": "7fc90568-07a2-48d9-b232-ebcc5072b60a"
-   },
-   {
-    "name": "qkrgotjd6974",
-    "uuid": "6bfea15a-a4a2-4c6d-ae40-2c39049c1f77"
-   },
-   {
-    "name": "Deepu130",
-    "uuid": "c290c905-afc6-4f30-97f7-161b9c351f6c"
-   },
-   {
-    "name": "ealryroze_10546",
-    "uuid": "832209fa-b1fc-43ac-a26f-8c8cfe216b12"
-   },
-   {
-    "name": "Terius_",
-    "uuid": "89838e4e-896c-4ffb-8904-a9474b2ee55e"
-   },
-   {
-    "name": "takuo4568",
-    "uuid": "195175f8-bee9-48bc-a494-86c954280dd6"
-   },
-   {
-    "name": "HyperLess",
-    "uuid": "ee64d328-42e2-4c9f-8c40-73779204df8e"
-   },
-   {
-    "name": "SunSudal",
-    "uuid": "a7ebd7e8-5506-4567-b165-616ad5d40067"
-   },
-   {
-    "name": "ikatsee",
-    "uuid": "2f650a70-5465-4197-9adb-0e7d266b8bd5"
+    "name": "Cometz_",
+    "uuid": "5ce66852-8cae-4da0-a3b1-5731ae286010"
    },
    {
     "name": "elpapito7",
@@ -1369,12 +1373,12 @@
     "uuid": "d9e4d0ca-23ec-4f96-ba29-0bc289f2ca07"
    },
    {
-    "name": "EternalFlavour",
-    "uuid": "24f733db-a9bc-4cbd-8e02-cfd72c97f75f"
+    "name": "xZAVINACx",
+    "uuid": "bf6bf887-9609-4d2e-bd7a-529f3640a255"
    },
    {
-    "name": "Vations",
-    "uuid": "0e96e0da-76b8-415c-82bd-f3c80383353b"
+    "name": "EternalFlavour",
+    "uuid": "24f733db-a9bc-4cbd-8e02-cfd72c97f75f"
    },
    {
     "name": "XLNuggets",
@@ -1421,66 +1425,6 @@
     "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    },
    {
-    "name": "diffex",
-    "uuid": "6a12e341-2602-4462-ba78-c4fdab5cd190"
-   },
-   {
-    "name": "phad_dunga",
-    "uuid": "daf7d73f-8983-4b8e-b812-da26ec1be3e2"
-   },
-   {
-    "name": "yangxingzhe",
-    "uuid": "437797b6-6c26-47df-8c1d-e0ec8b0475d9"
-   },
-   {
-    "name": "Leaf__H",
-    "uuid": "a21401c1-6f31-4eeb-ada4-f9780e5dd3b8"
-   },
-   {
-    "name": "changfy",
-    "uuid": "8a631f1e-7983-4dc3-ab7e-54e0b04e0da9"
-   },
-   {
-    "name": "cynvo",
-    "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
-   },
-   {
-    "name": "Pura70",
-    "uuid": "40e34485-cc8f-456b-8306-3712360ef4ef"
-   },
-   {
-    "name": "DizzyFive",
-    "uuid": "2003673f-d5c2-4052-b6a1-17a8923c6f3d"
-   },
-   {
-    "name": "fei_mi",
-    "uuid": "4c43729f-9aa6-4e96-b2e1-aa35f9b6e2c3"
-   },
-   {
-    "name": "Rayxxxhappy",
-    "uuid": "1676c5b1-bcdc-4b82-9b1a-fbab78c74032"
-   },
-   {
-    "name": "bbdqz",
-    "uuid": "b2edf2d2-2c5c-4fe2-9e53-36718b51b780"
-   },
-   {
-    "name": "Qukkny_",
-    "uuid": "efa8e839-ede2-4ec7-bc6d-1f46501507a4"
-   },
-   {
-    "name": "wanyishao",
-    "uuid": "a2fe21df-287f-4280-9e97-a522bd80f0e6"
-   },
-   {
-    "name": "New_year_eve",
-    "uuid": "2d1858f5-f164-41c7-9186-2a0253b4a726"
-   },
-   {
-    "name": "alfreddo2012",
-    "uuid": "131ac4e7-f704-4ae1-a913-979d1a6633ea"
-   },
-   {
     "name": "Xochipilli3669",
     "uuid": "25ca4ea2-aca0-4ae7-adca-d72c5e9a8785"
    },
@@ -1515,6 +1459,10 @@
    {
     "name": "Dreamisnice",
     "uuid": "75a1ef3a-c3c1-416b-b0b0-287684ebf990"
+   },
+   {
+    "name": "hirothefighter",
+    "uuid": "f58e50f3-1189-48c2-ac1c-0cfd80e7f78e"
    },
    {
     "name": "XukongZhiYing",
@@ -1581,11 +1529,7 @@
     "uuid": "9bb1b148-b93b-441a-9415-1af448c2e852"
    },
    {
-    "name": "DavisPrime",
-    "uuid": "0a4b9bda-03fb-4fdf-901c-65ac14269ff4"
-   },
-   {
-    "name": "32_5",
+    "name": "MalegeBd",
     "uuid": "a6b59075-966a-4180-bd99-96da586d389b"
    },
    {
@@ -1627,10 +1571,6 @@
    {
     "name": "Kawai_NekoNeko",
     "uuid": "9c61b7e7-5680-4864-9841-9ccf055a4276"
-   },
-   {
-    "name": "CookieMaster_",
-    "uuid": "4f403f9f-7591-489a-8253-5f39da9861fa"
    },
    {
     "name": "Furutsuki_Jun",
@@ -1745,12 +1685,40 @@
     "uuid": "48492fdb-0600-470a-9e03-76c25bce80f2"
    },
    {
-    "name": "carlottia",
+    "name": "sweetiepaj",
     "uuid": "4963fae2-f725-45c0-92d2-b1f429093a05"
    },
    {
     "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
+   },
+   {
+    "name": "sobrem4res",
+    "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
+   },
+   {
+    "name": "VictorChu1",
+    "uuid": "59dc6399-b1eb-45a2-84c0-3b8edc73758e"
+   },
+   {
+    "name": "BrennanW1",
+    "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
+   },
+   {
+    "name": "Bobo_Babis",
+    "uuid": "749c51dc-423f-476b-8b74-e5741d062344"
+   },
+   {
+    "name": "hungrybalong6",
+    "uuid": "def0f314-4315-4dbf-9916-1b0151389e27"
+   },
+   {
+    "name": "jamari_aymara23",
+    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
+   },
+   {
+    "name": "tqken0ko",
+    "uuid": "333fa3c8-39d1-4755-a860-ace54bde0909"
    }
   ],
   "quarters": [
@@ -1771,10 +1739,6 @@
     "uuid": "02603d13-8c3b-4573-820f-7a433f570323"
    },
    {
-    "name": "Bland Residence",
-    "uuid": "fe879781-1ac5-42f5-a983-6d334d3672c0"
-   },
-   {
     "name": "Enraging Suite",
     "uuid": "9ae7db91-8918-4ba6-bde5-dcf5b37950db"
    },
@@ -1787,8 +1751,24 @@
     "uuid": "8f7c7272-874c-4095-b801-02fce0ce6c6e"
    },
    {
+    "name": "Bland Residence",
+    "uuid": "fe879781-1ac5-42f5-a983-6d334d3672c0"
+   },
+   {
     "name": "storage",
     "uuid": "93c9909c-da2c-4fda-b6ed-837df9e83429"
+   },
+   {
+    "name": "Shops",
+    "uuid": "16c64f18-c930-432a-b3f2-377fb42b3318"
+   },
+   {
+    "name": "Spawn",
+    "uuid": "45daa893-18ab-4daf-8546-b8e7aef20c97"
+   },
+   {
+    "name": "Suburbs",
+    "uuid": "3914b6f6-8271-4113-a4a7-1fb0c299d1dd"
    }
   ],
   "ranks": {

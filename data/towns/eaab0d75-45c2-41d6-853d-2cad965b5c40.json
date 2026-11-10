@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Truckee",
   "uuid": "eaab0d75-45c2-41d6-853d-2cad965b5c40",
@@ -12,18 +12,18 @@
    "uuid": "2d123081-e269-46f4-b451-e24134de792e"
   },
   "nation": {
-   "name": "Pacific",
-   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
+   "name": "Mojave",
+   "uuid": "b9102e3b-ad22-41f8-bb32-67aae39e1ec3"
   },
   "timestamps": {
    "registered": 1787497600597,
-   "joinedNationAt": 1789696393532,
+   "joinedNationAt": 1794160162754,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 88,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
+   "nationBonus": 50,
+   "numResidents": 4,
    "numTrusted": 2,
-   "numOutlaws": 7,
-   "balance": 346.0,
+   "numOutlaws": 8,
+   "balance": 608.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,13 +59,13 @@
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
@@ -458,6 +458,10 @@
    {
     "name": "Lord_Glarblo",
     "uuid": "a9e414d4-08af-47b0-b45e-e319d22ec289"
+   },
+   {
+    "name": "PinkButtercups",
+    "uuid": "d3fa55e3-a867-4ce3-8b11-212651f99b45"
    }
   ],
   "trusted": [
@@ -498,6 +502,10 @@
    {
     "name": "MitchH_MC",
     "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
+   },
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
    }
   ],
   "quarters": [],
@@ -523,11 +531,20 @@
    ],
    "Tax-exempt": [
     {
+     "name": "synchopated",
+     "uuid": "2d123081-e269-46f4-b451-e24134de792e"
+    },
+    {
      "name": "Lord_Glarblo",
      "uuid": "a9e414d4-08af-47b0-b45e-e319d22ec289"
     }
    ],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "Lord_Glarblo",
+     "uuid": "a9e414d4-08af-47b0-b45e-e319d22ec289"
+    }
+   ],
    "Realtor": [],
    "Settler": [
     {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Norfolk_Island",
   "uuid": "fa6631de-6fde-4f68-a0c5-281830cfaa3f",
@@ -12,23 +12,23 @@
    "uuid": "36e14dd5-040d-483d-984e-afb3109520d1"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "NewCaledonia",
+   "uuid": "18fd3c05-03f5-476a-9a49-2a68bbc20aa8"
   },
   "timestamps": {
    "registered": 1788270110335,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793814123210,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

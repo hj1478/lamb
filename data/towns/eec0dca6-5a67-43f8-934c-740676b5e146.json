@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Trikala",
   "uuid": "eec0dca6-5a67-43f8-934c-740676b5e146",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 80,
+   "numTownBlocks": 82,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 6,
+   "numTrusted": 9,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -208,6 +208,10 @@
      -442
     ],
     [
+     488,
+     -439
+    ],
+    [
      484,
      -443
     ],
@@ -222,6 +226,10 @@
     [
      484,
      -441
+    ],
+    [
+     488,
+     -440
     ],
     [
      490,
@@ -430,8 +438,20 @@
     "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
    },
    {
+    "name": "_lengyel",
+    "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
+   },
+   {
+    "name": "OnyR_IC",
+    "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
+   },
+   {
     "name": "spartan8806",
     "uuid": "a01f3402-f5a3-4850-a33e-dd5ead872bee"
+   },
+   {
+    "name": "Magmark",
+    "uuid": "1020b785-2dd4-499e-9d50-91e5706095dd"
    },
    {
     "name": "Morf0nios",
@@ -442,7 +462,7 @@
     "uuid": "27557455-d0dc-41c0-9f85-12fc73f96f20"
    },
    {
-    "name": "Manapo_",
+    "name": "Manapos",
     "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
    }
   ],

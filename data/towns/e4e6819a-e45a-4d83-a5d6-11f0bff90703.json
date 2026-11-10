@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Datong",
   "uuid": "e4e6819a-e45a-4d83-a5d6-11f0bff90703",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ConutKing",
-   "uuid": "adcaddbc-b12e-42cc-95db-f792232803bb"
+   "name": "WqVpW",
+   "uuid": "56fca8cf-7412-4fe7-84e6-f2a148b362fe"
   },
   "nation": {
    "name": "Ming",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -248,12 +248,12 @@
      -488
     ],
     [
-     2543,
-     -487
-    ],
-    [
      2542,
      -482
+    ],
+    [
+     2543,
+     -487
     ],
     [
      2542,
@@ -352,23 +352,24 @@
   },
   "residents": [
    {
-    "name": "ConutKing",
-    "uuid": "adcaddbc-b12e-42cc-95db-f792232803bb"
-   },
-   {
     "name": "WqVpW",
     "uuid": "56fca8cf-7412-4fe7-84e6-f2a148b362fe"
    },
    {
     "name": "Lraga",
     "uuid": "19fdd4ae-3139-48ab-b1c1-80b8477a1243"
-   },
+   }
+  ],
+  "trusted": [
    {
     "name": "chunrisheng",
     "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
+   },
+   {
+    "name": "ConutKing",
+    "uuid": "adcaddbc-b12e-42cc-95db-f792232803bb"
    }
   ],
-  "trusted": [],
   "outlaws": [
    {
     "name": "Tsunlam123",
@@ -386,10 +387,6 @@
     {
      "name": "Lraga",
      "uuid": "19fdd4ae-3139-48ab-b1c1-80b8477a1243"
-    },
-    {
-     "name": "chunrisheng",
-     "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
     }
    ],
    "Builder": [],

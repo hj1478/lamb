@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Shreveport",
   "uuid": "ed5f5c14-e368-4b4d-b39d-aba3917860ce",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 8,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 77.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33583.32407235216,
+    "x": -33591.678877383165,
     "y": 63.0,
-    "z": -4021.454305200272,
-    "pitch": 0.749984,
-    "yaw": -178.84344
+    "z": -4023.5405404217054,
+    "pitch": -1.9499998,
+    "yaw": -90.04425
    },
    "homeBlock": [
-    -2099,
+    -2100,
     -252
    ],
    "townBlocks": [
+    [
+     -2100,
+     -253
+    ],
     [
      -2100,
      -252
@@ -98,6 +102,18 @@
     [
      -2100,
      -251
+    ],
+    [
+     -2101,
+     -251
+    ],
+    [
+     -2101,
+     -252
+    ],
+    [
+     -2101,
+     -253
     ],
     [
      -2099,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Chatanga",
   "uuid": "e1089393-2d14-4df3-bf25-627ed94bd89f",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 15,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35587.164707539916,
+    "x": 35592.72637636673,
     "y": 63.0,
-    "z": -26264.884356502203,
-    "pitch": 31.6497,
-    "yaw": -86.00786
+    "z": -26270.575248200366,
+    "pitch": 21.74975,
+    "yaw": 92.80975
    },
    "homeBlock": [
     2224,
@@ -93,7 +93,63 @@
    "townBlocks": [
     [
      2224,
+     -1640
+    ],
+    [
+     2223,
+     -1639
+    ],
+    [
+     2224,
+     -1639
+    ],
+    [
+     2225,
+     -1639
+    ],
+    [
+     2225,
+     -1640
+    ],
+    [
+     2222,
+     -1639
+    ],
+    [
+     2222,
+     -1641
+    ],
+    [
+     2225,
+     -1641
+    ],
+    [
+     2222,
+     -1640
+    ],
+    [
+     2225,
      -1642
+    ],
+    [
+     2223,
+     -1642
+    ],
+    [
+     2223,
+     -1640
+    ],
+    [
+     2224,
+     -1642
+    ],
+    [
+     2223,
+     -1641
+    ],
+    [
+     2224,
+     -1641
     ]
    ],
    "worlds": {}
@@ -114,12 +170,24 @@
    {
     "name": "slapshot404",
     "uuid": "97160b9b-11b9-404f-8547-a5cc13bbde55"
+   },
+   {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    }
   ],
   "quarters": [
    {
     "name": "Inconvenient Flat",
     "uuid": "cc962df8-3c98-4e3d-a49e-a2bc5d15b599"
+   },
+   {
+    "name": "Dull Residence",
+    "uuid": "e43607e1-3f18-4c5c-9b26-d5147e6dca71"
+   },
+   {
+    "name": "Dingy Apartment",
+    "uuid": "8d037e49-fd84-412f-8097-16e30123cd82"
    }
   ],
   "ranks": {

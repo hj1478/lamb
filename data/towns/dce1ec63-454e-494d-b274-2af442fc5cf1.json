@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "LongJiang",
   "uuid": "dce1ec63-454e-494d-b274-2af442fc5cf1",
@@ -12,37 +12,37 @@
    "uuid": "77ff71a1-6bbf-4ec8-8a4f-0402869aae4d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Manchuria",
+   "uuid": "0b048742-5448-454a-a0f6-645ff632e34f"
   },
   "timestamps": {
    "registered": 1794118808088,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794235953642,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44517.409071354356,
+    "x": 44518.27554035506,
     "y": 66.0,
-    "z": -10675.412448332616,
-    "pitch": 4.0790453,
-    "yaw": 179.54417
+    "z": -10678.70016128074,
+    "pitch": 11.999893,
+    "yaw": 0.41107154
    },
    "homeBlock": [
     2782,
@@ -92,7 +92,19 @@
    ],
    "townBlocks": [
     [
+     2784,
+     -668
+    ],
+    [
      2782,
+     -668
+    ],
+    [
+     2783,
+     -668
+    ],
+    [
+     2785,
      -668
     ]
    ],
@@ -104,7 +116,12 @@
     "uuid": "77ff71a1-6bbf-4ec8-8a4f-0402869aae4d"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "FlutterinBreeze",
+    "uuid": "567d7125-5005-4897-aff3-b47c3d7fec29"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

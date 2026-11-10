@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Normandie",
   "uuid": "e90944d4-51ed-4464-b471-94dbc12caa7b",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 10,
-   "numTrusted": 5,
+   "numTrusted": 6,
    "numOutlaws": 2,
    "balance": 2259.0,
    "forSalePrice": null
@@ -2588,14 +2588,6 @@
     "uuid": "a88c0c5e-6761-4c80-86f9-ceb1ec1482f1"
    },
    {
-    "name": "DANIVERSE_13",
-    "uuid": "e1d6eb63-4c15-47f7-9e64-5c244f0d4997"
-   },
-   {
-    "name": "StrongSigmaCat",
-    "uuid": "dd6313ae-4868-47e8-8576-ba51718ef177"
-   },
-   {
     "name": "Zinnooo",
     "uuid": "8ffb4cc4-c17c-4439-901e-064b2134a359"
    },
@@ -2610,6 +2602,14 @@
    {
     "name": "overnormal49016",
     "uuid": "ab7f9363-03cd-4f7c-bccc-96b577691194"
+   },
+   {
+    "name": "Pancen",
+    "uuid": "8e56a204-5c90-4b70-85b9-2dadb8ef0779"
+   },
+   {
+    "name": "Harman_126",
+    "uuid": "88452f9a-86db-48ca-bf6e-a670b07c1f50"
    }
   ],
   "trusted": [
@@ -2632,6 +2632,10 @@
    {
     "name": "Krimb",
     "uuid": "5e55e72a-53ff-4e52-a17c-b4ab111b93e1"
+   },
+   {
+    "name": "FatalMoon_Yt",
+    "uuid": "ffcee824-95d4-4c15-858b-3b1b03b47020"
    }
   ],
   "outlaws": [
@@ -2647,12 +2651,27 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "Pancen",
+     "uuid": "8e56a204-5c90-4b70-85b9-2dadb8ef0779"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Pancen",
+     "uuid": "8e56a204-5c90-4b70-85b9-2dadb8ef0779"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [],
+   "Realtor": [
+    {
+     "name": "Pancen",
+     "uuid": "8e56a204-5c90-4b70-85b9-2dadb8ef0779"
+    }
+   ],
    "Settler": []
   },
   "warps": [],

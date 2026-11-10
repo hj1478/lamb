@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Luncheon_City",
   "uuid": "e1ab476a-0f8a-4ab9-865e-a39da14de4aa",
-  "board": "We will win and rise with lunch and eon",
+  "board": "Got Beer? Got Polka? Got Gold? Come down and relax by the Oasis",
   "founder": "thearbysworker",
   "wiki": null,
   "discord": null,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 8,
-   "numTrusted": 2,
+   "numResidents": 9,
+   "numTrusted": 6,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2490.443617328249,
-    "y": 85.0,
-    "z": -624.4622444241259,
-    "pitch": 74.15488,
-    "yaw": -63.148438
+    "x": -2486.176413662642,
+    "y": 77.0,
+    "z": -632.5660016676693,
+    "pitch": 41.70006,
+    "yaw": 89.55298
    },
    "homeBlock": [
     -156,
@@ -156,11 +156,19 @@
     "uuid": "548a2645-a1db-4a86-b593-4698bd754805"
    },
    {
-    "name": "BoyFacedStinkBug",
+    "name": "SwagFaceStinkBug",
     "uuid": "230a73a7-e378-4a75-9147-c188b8983d8f"
+   },
+   {
+    "name": "pocktcracker",
+    "uuid": "bf73fbbe-06a2-421e-90a4-2e1bfddf18eb"
    }
   ],
   "trusted": [
+   {
+    "name": "Moxicodone",
+    "uuid": "413d6f94-b84b-4bbf-b09d-55c5eb6a64bc"
+   },
    {
     "name": "Rustymach56",
     "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
@@ -168,16 +176,28 @@
    {
     "name": "twomoo1119",
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
+   },
+   {
+    "name": "Hoffywin9999",
+    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+   },
+   {
+    "name": "Azurelogist",
+    "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"
+   },
+   {
+    "name": "GCN22",
+    "uuid": "cd519461-1c7d-4d84-bd37-e7d3fe38c559"
    }
   ],
   "outlaws": [
    {
-    "name": "Swightness",
-    "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
-   },
-   {
     "name": "Rubick_Kubik",
     "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    }
   ],
   "quarters": [],
@@ -194,20 +214,12 @@
    ],
    "Builder": [
     {
-     "name": "ekulman160",
-     "uuid": "eddbc78a-6826-4dea-a9af-d84c0304aa84"
-    },
-    {
      "name": "CakesterCake887",
      "uuid": "254407f0-e266-4a08-960a-1211dc619f21"
     },
     {
      "name": "WarpPawnshop",
      "uuid": "888b9551-374f-4d41-8485-124993be5215"
-    },
-    {
-     "name": "BoyFacedStinkBug",
-     "uuid": "230a73a7-e378-4a75-9147-c188b8983d8f"
     }
    ],
    "Recruiter": [],

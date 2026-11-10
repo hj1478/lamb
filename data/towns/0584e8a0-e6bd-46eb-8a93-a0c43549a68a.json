@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Shiraz",
-  "uuid": "333d3d99-2d24-430a-9fa8-55da01645db9",
+  "name": "Border",
+  "uuid": "0584e8a0-e6bd-46eb-8a93-a0c43549a68a",
   "board": "/town set board [msg]",
-  "founder": "mohammadTS1384",
+  "founder": "DeadlyNote94263",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mohammadTS1384",
-   "uuid": "bc2a8f0d-4db2-48b3-926e-6be573aeabd1"
+   "name": "DeadlyNote94263",
+   "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
   },
   "nation": {
-   "name": "Persia",
-   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
-   "registered": 1793822885851,
-   "joinedNationAt": 1793822935846,
+   "registered": 1794257532686,
+   "joinedNationAt": 1794261759199,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 90.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,31 +80,68 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 19539.485462411732,
-    "y": 85.0,
-    "z": -3751.8814711304017,
-    "pitch": 9.835778,
-    "yaw": 158.9043
+    "x": -34135.725765464165,
+    "y": 68.0,
+    "z": -7272.6223954637635,
+    "pitch": 30.077217,
+    "yaw": -93.66349
    },
    "homeBlock": [
-    1221,
-    -235
+    -2134,
+    -455
    ],
    "townBlocks": [
     [
-     1221,
-     -235
+     -2134,
+     -456
+    ],
+    [
+     -2133,
+     -455
+    ],
+    [
+     -2134,
+     -455
+    ],
+    [
+     -2133,
+     -456
+    ],
+    [
+     -2134,
+     -454
+    ],
+    [
+     -2133,
+     -454
+    ],
+    [
+     -2135,
+     -454
+    ],
+    [
+     -2135,
+     -455
+    ],
+    [
+     -2135,
+     -456
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "mohammadTS1384",
-    "uuid": "bc2a8f0d-4db2-48b3-926e-6be573aeabd1"
+    "name": "DeadlyNote94263",
+    "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "1nspectual",
+    "uuid": "c19db314-b80a-4741-a602-a976a451a4c8"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

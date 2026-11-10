@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Valerio",
   "uuid": "e14b4781-e3a4-4774-8e64-fec947861e36",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Zykrozy",
-   "uuid": "3d3ca055-6dc8-483d-ada5-7c5b84ce4861"
+   "name": "NPC122",
+   "uuid": "557137d8-3dae-20d3-93da-c52314e11cd6"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1787541127373,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794304804886
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -124,8 +124,8 @@
   },
   "residents": [
    {
-    "name": "Zykrozy",
-    "uuid": "3d3ca055-6dc8-483d-ada5-7c5b84ce4861"
+    "name": "NPC122",
+    "uuid": "557137d8-3dae-20d3-93da-c52314e11cd6"
    }
   ],
   "trusted": [],

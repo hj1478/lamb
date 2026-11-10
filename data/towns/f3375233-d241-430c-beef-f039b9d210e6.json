@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Manila",
   "uuid": "f3375233-d241-430c-beef-f039b9d210e6",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 204,
-   "maxTownBlocks": 164,
+   "maxTownBlocks": 200,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 7,
-   "numTrusted": 14,
+   "numResidents": 10,
+   "numTrusted": 11,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -916,12 +916,20 @@
     "uuid": "31b885f2-2c30-4387-b53c-f053b7d1d6d8"
    },
    {
+    "name": "Sineskwela",
+    "uuid": "f6ea3cb1-a199-47ae-bb65-31376bbc20f9"
+   },
+   {
     "name": "RevCreeper_RCS",
     "uuid": "5999f7e6-731a-4d46-835e-773b3a98b078"
    },
    {
     "name": "Redrick6789",
     "uuid": "f3568270-edc8-4e85-ae83-1d3b03763a35"
+   },
+   {
+    "name": "badpanda003",
+    "uuid": "a94ca8a7-d797-4bcd-bc4c-b636bdec79aa"
    },
    {
     "name": "CommanderWayan",
@@ -938,6 +946,10 @@
    {
     "name": "TheEgyptYoshi",
     "uuid": "56c587dd-e01c-4273-8652-7671b8d5dc27"
+   },
+   {
+    "name": "Eclipsaab",
+    "uuid": "8d91852e-1b71-438e-8796-8e937780c59d"
    }
   ],
   "trusted": [
@@ -958,24 +970,12 @@
     "uuid": "5999f7e6-731a-4d46-835e-773b3a98b078"
    },
    {
-    "name": "jayisa",
-    "uuid": "fe5421ae-f58b-4cd2-a1a5-ef5f1669645d"
-   },
-   {
-    "name": "YetI_MC",
-    "uuid": "9b3ba77d-5991-4bab-8405-2b528b340372"
-   },
-   {
     "name": "Acutis24",
     "uuid": "4507e437-34cd-4674-b91c-dd553507a2f1"
    },
    {
     "name": "MrDeperium",
     "uuid": "9b989689-63c1-48dd-bdae-9ffa443f56f0"
-   },
-   {
-    "name": "Drawdd",
-    "uuid": "17642123-63ad-40f4-8fe4-a7f2f821b99e"
    },
    {
     "name": "stevethepillager",
@@ -986,16 +986,16 @@
     "uuid": "31b885f2-2c30-4387-b53c-f053b7d1d6d8"
    },
    {
+    "name": "jayisa",
+    "uuid": "fe5421ae-f58b-4cd2-a1a5-ef5f1669645d"
+   },
+   {
+    "name": "YetI_MC",
+    "uuid": "9b3ba77d-5991-4bab-8405-2b528b340372"
+   },
+   {
     "name": "Silusit",
     "uuid": "6f07216b-bd08-4c52-ac16-861ee10e282d"
-   },
-   {
-    "name": "Filolog",
-    "uuid": "3f86c2f1-3c69-4cd7-bc75-442ae0fd2136"
-   },
-   {
-    "name": "tinysheep112",
-    "uuid": "44c4128a-e5e3-4fd7-b84d-af4cc84f82ca"
    }
   ],
   "outlaws": [],

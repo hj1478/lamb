@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Valley_Of_Ticks",
-  "uuid": "5d37c5f1-7598-4b3c-bf19-6ce0feaf51ea",
+  "name": "Kangaroo",
+  "uuid": "240a9066-7c18-4ba6-b48b-63b798944438",
   "board": "/town set board [msg]",
-  "founder": "ValleyWho",
+  "founder": "SweetLemonade69",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ValleyWho",
-   "uuid": "7976ed1c-2bb0-4ff5-90cf-bf407cbe8b8e"
+   "name": "SweetLemonade69",
+   "uuid": "035082d0-f931-4e25-a7ab-68bdef41033e"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1787831465469,
-   "joinedNationAt": 1787833760869,
+   "registered": 1794244628296,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,19 +28,19 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,56 +80,31 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -22139.53029490467,
-    "y": 70.0,
-    "z": -13053.358782245426,
-    "pitch": 56.484398,
-    "yaw": -9.788208
+    "x": 43280.540225578006,
+    "y": 71.0,
+    "z": 18837.861259755788,
+    "pitch": 71.09991,
+    "yaw": -4.6470947
    },
    "homeBlock": [
-    -1384,
-    -816
+    2705,
+    1177
    ],
    "townBlocks": [
     [
-     -1385,
-     -817
-    ],
-    [
-     -1384,
-     -816
-    ],
-    [
-     -1385,
-     -818
-    ],
-    [
-     -1384,
-     -818
-    ],
-    [
-     -1384,
-     -817
-    ],
-    [
-     -1385,
-     -816
+     2705,
+     1177
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ValleyWho",
-    "uuid": "7976ed1c-2bb0-4ff5-90cf-bf407cbe8b8e"
+    "name": "SweetLemonade69",
+    "uuid": "035082d0-f931-4e25-a7ab-68bdef41033e"
    }
   ],
-  "trusted": [
-   {
-    "name": "TikoAug",
-    "uuid": "bb3acc76-c328-4c8d-a62e-badb857e08dd"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

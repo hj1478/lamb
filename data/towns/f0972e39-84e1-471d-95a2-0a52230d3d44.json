@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Amoy",
   "uuid": "f0972e39-84e1-471d-95a2-0a52230d3d44",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 168,
-   "maxTownBlocks": 238,
+   "maxTownBlocks": 144,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 19,
-   "numTrusted": 3,
+   "nationBonus": 0,
+   "numResidents": 12,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 16.0,
    "forSalePrice": null
@@ -776,40 +776,12 @@
     "uuid": "21ff3577-0395-4458-86e7-b9ce467df031"
    },
    {
-    "name": "74nc3r",
-    "uuid": "a03965cb-51fc-42bc-be1d-1e147af42302"
-   },
-   {
-    "name": "anmam",
-    "uuid": "bbc3e35d-ce9e-45a7-8378-b9b569d855df"
-   },
-   {
     "name": "Kuriyamachan",
     "uuid": "35ff5856-91ac-4577-8b21-e959890764b1"
    },
    {
-    "name": "LancerSquid",
-    "uuid": "70689e6b-6df6-47c9-81fb-5a1cc3904c48"
-   },
-   {
-    "name": "Viiel_Chan",
-    "uuid": "89d5eaa6-e65d-49e8-9d07-d6debcb937fc"
-   },
-   {
     "name": "2DFemboy",
     "uuid": "7566926c-b501-46d2-b0bc-d2ea78d709d1"
-   },
-   {
-    "name": "UncIeSn",
-    "uuid": "5fe198e9-f409-4179-b9e6-f686ab2382f5"
-   },
-   {
-    "name": "ItsNotDifficult",
-    "uuid": "6a6e8b40-384c-4cbf-b83c-f88bfa6de902"
-   },
-   {
-    "name": "msr400XO",
-    "uuid": "e691d802-54f9-4792-a6e7-8115a90c1a56"
    },
    {
     "name": "cxlled_noxy",
@@ -852,10 +824,6 @@
    {
     "name": "2DFemboy",
     "uuid": "7566926c-b501-46d2-b0bc-d2ea78d709d1"
-   },
-   {
-    "name": "74nc3r",
-    "uuid": "a03965cb-51fc-42bc-be1d-1e147af42302"
    }
   ],
   "outlaws": [
@@ -870,10 +838,6 @@
     {
      "name": "Cranberrya",
      "uuid": "21ff3577-0395-4458-86e7-b9ce467df031"
-    },
-    {
-     "name": "anmam",
-     "uuid": "bbc3e35d-ce9e-45a7-8378-b9b569d855df"
     }
    ],
    "Builder": [],

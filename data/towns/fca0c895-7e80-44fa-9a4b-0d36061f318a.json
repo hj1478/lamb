@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Belgrade",
   "uuid": "fca0c895-7e80-44fa-9a4b-0d36061f318a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 168,
+   "maxTownBlocks": 180,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 9,
+   "numResidents": 10,
    "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 59.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -706,6 +706,10 @@
    {
     "name": "048g",
     "uuid": "78cbbddf-848e-4045-b060-da526efc0a35"
+   },
+   {
+    "name": "OurBaseShop_2",
+    "uuid": "712b80d5-e722-47d4-a4cf-18711a926520"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Czersk",
   "uuid": "dbc0b819-e18a-41a6-9339-f9db0171f062",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,20 @@
    ],
    "townBlocks": [
     [
+     473,
+     -778
+    ],
+    [
+     473,
+     -779
+    ],
+    [
      472,
      -779
+    ],
+    [
+     472,
+     -778
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "West_Phoenix",
   "uuid": "f102e90a-7f18-4db9-b4ab-f20d90425b1c",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 47,
-   "maxTownBlocks": 54,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 586.0,
+   "balance": 525.0,
    "forSalePrice": null
   },
   "perms": {
@@ -286,10 +286,6 @@
    {
     "name": "DiamondBoy600",
     "uuid": "4a73c70a-69ef-4c1e-9966-b341c657d951"
-   },
-   {
-    "name": "IkaXO",
-    "uuid": "0d0596dd-76b3-4686-ac08-8ec3f82452ef"
    }
   ],
   "trusted": [
@@ -314,12 +310,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "IkaXO",
-     "uuid": "0d0596dd-76b3-4686-ac08-8ec3f82452ef"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "The_Circus",
-  "uuid": "e06a4283-fca2-4b5f-a961-d5dda7437c55",
-  "board": "Come one, come all! The circus awaits!",
-  "founder": "EdwardG03",
+  "name": "Banghazi",
+  "uuid": "28994c29-3850-42c5-9823-cf70384c4c19",
+  "board": "/town set board [msg]",
+  "founder": "coconut29024",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "EdwardG03",
-   "uuid": "4ca5f355-3672-447c-af2b-68058dd04007"
+   "name": "coconut29024",
+   "uuid": "208d6f32-cc08-49c2-9841-eec8efae49ce"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Libya",
+   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
   },
   "timestamps": {
-   "registered": 1786979465806,
-   "joinedNationAt": null,
+   "registered": 1794246143253,
+   "joinedNationAt": 1794246184833,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 1,
-   "balance": 11.0,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,74 +80,77 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -28092.233579516553,
-    "y": 64.0,
-    "z": -11998.259552815869,
-    "pitch": 41.268234,
-    "yaw": 15.8914795
+    "x": 7533.415943716335,
+    "y": 68.0,
+    "z": -4130.879940774944,
+    "pitch": 33.397682,
+    "yaw": 176.82983
    },
    "homeBlock": [
-    -1756,
-    -750
+    470,
+    -259
    ],
    "townBlocks": [
     [
-     -1758,
-     -750
+     470,
+     -258
     ],
     [
-     -1757,
-     -751
+     472,
+     -259
     ],
     [
-     -1757,
-     -750
+     471,
+     -261
     ],
     [
-     -1757,
-     -749
+     472,
+     -258
     ],
     [
-     -1756,
-     -751
+     471,
+     -260
     ],
     [
-     -1756,
-     -749
+     472,
+     -261
     ],
     [
-     -1756,
-     -750
+     471,
+     -259
     ],
     [
-     -1755,
-     -750
+     472,
+     -260
+    ],
+    [
+     471,
+     -258
+    ],
+    [
+     470,
+     -260
+    ],
+    [
+     470,
+     -259
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "EdwardG03",
-    "uuid": "4ca5f355-3672-447c-af2b-68058dd04007"
+    "name": "coconut29024",
+    "uuid": "208d6f32-cc08-49c2-9841-eec8efae49ce"
    }
   ],
   "trusted": [
-   {
-    "name": "AvocadoApache",
-    "uuid": "a3a4d2fe-aa5c-4a1d-832b-1cfdab47dd9b"
-   },
    {
     "name": "glaggle2001",
     "uuid": "9fc05047-6b42-45d7-ab1e-b6d5dd61b666"
    }
   ],
-  "outlaws": [
-   {
-    "name": "gangster1221",
-    "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Saskatchewan",
   "uuid": "f6b6add1-158b-4c32-b849-fb2761ee9b0b",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 101,
-   "maxTownBlocks": 46,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 5,
-   "numOutlaws": 5,
-   "balance": 4.0,
+   "numOutlaws": 4,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -504,8 +504,8 @@
     "uuid": "bb4a34f9-2a74-456c-a355-14506d9d26e8"
    },
    {
-    "name": "Chance_080",
-    "uuid": "79151583-03fa-4f90-9294-859eff75d1fc"
+    "name": "CorgiPops",
+    "uuid": "5bd3633c-b909-4468-a31f-38b74c61cfe9"
    },
    {
     "name": "GoosesGalore",
@@ -550,10 +550,6 @@
    {
     "name": "justdontt",
     "uuid": "d351252a-f14a-43f8-96e9-e871616535b3"
-   },
-   {
-    "name": "Vitalcqt",
-    "uuid": "8de44e00-aec5-486d-a47b-af1b147295ba"
    }
   ],
   "quarters": [
@@ -564,10 +560,6 @@
    {
     "name": "cave access ⋆˙⟡",
     "uuid": "13043edf-2ca9-4b65-ba8b-f18b1ceb618b"
-   },
-   {
-    "name": "cave entrance",
-    "uuid": "2614151d-b874-46cc-9eda-7f0593621a8f"
    },
    {
     "name": "town farm",
@@ -590,20 +582,29 @@
     "uuid": "844a13bf-4a6b-4281-b074-a9259d580965"
    },
    {
-    "name": "resident's exit",
-    "uuid": "9b201edb-a543-4203-b586-b8ed5c22e71a"
-   },
-   {
     "name": "apartment #4",
     "uuid": "03b435eb-759d-4ce8-bc5d-c39e6a15634e"
    },
    {
     "name": "apartment #5",
     "uuid": "87128c6e-ceda-4892-8eee-0810e8dae343"
+   },
+   {
+    "name": "resident's exit",
+    "uuid": "9b201edb-a543-4203-b586-b8ed5c22e71a"
+   },
+   {
+    "name": "cave entrance",
+    "uuid": "2614151d-b874-46cc-9eda-7f0593621a8f"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "CorgiPops",
+     "uuid": "5bd3633c-b909-4468-a31f-38b74c61cfe9"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Malindi",
-  "uuid": "3a2a3805-ce53-42fe-9720-c9937d304b77",
-  "board": "Home of the Kikuyu Fleet.",
-  "founder": "_william_afton_",
+  "name": "Farmlands",
+  "uuid": "98acf5fe-9193-420b-aa4e-1a1692dbaa77",
+  "board": "/town set board [msg]",
+  "founder": "animeloverlex",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_william_afton_",
-   "uuid": "40c2a350-d943-4773-b624-dd788a761c6f"
+   "name": "animeloverlex",
+   "uuid": "182d9688-8212-4aec-97e4-c84cc220ef66"
   },
   "nation": {
-   "name": "Ethiopia",
-   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+   "name": "Zion",
+   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
   },
   "timestamps": {
-   "registered": 1791757687601,
-   "joinedNationAt": 1791757701401,
+   "registered": 1794285421808,
+   "joinedNationAt": 1794285437808,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,47 +73,70 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14594.691260486361,
-    "y": 63.0,
-    "z": 8869.659727395241,
-    "pitch": 10.800247,
-    "yaw": 154.88832
+    "x": -41878.232956773485,
+    "y": 75.0,
+    "z": -9670.484279840552,
+    "pitch": 38.062256,
+    "yaw": 2.103887
    },
    "homeBlock": [
-    912,
-    554
+    -2618,
+    -605
    ],
    "townBlocks": [
     [
-     912,
-     554
+     -2619,
+     -605
+    ],
+    [
+     -2621,
+     -606
+    ],
+    [
+     -2620,
+     -607
+    ],
+    [
+     -2619,
+     -607
+    ],
+    [
+     -2620,
+     -606
+    ],
+    [
+     -2619,
+     -606
+    ],
+    [
+     -2620,
+     -605
+    ],
+    [
+     -2618,
+     -606
+    ],
+    [
+     -2618,
+     -605
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_william_afton_",
-    "uuid": "40c2a350-d943-4773-b624-dd788a761c6f"
+    "name": "animeloverlex",
+    "uuid": "182d9688-8212-4aec-97e4-c84cc220ef66"
    }
   ],
-  "trusted": [
-   {
-    "name": "DwightGalluzzi",
-    "uuid": "9fb94d6e-fad5-427d-890e-a4ec44ffd365"
-   },
-   {
-    "name": "mr_nuggem_",
-    "uuid": "84aaf560-6843-4cb5-b852-2923334d8faa"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

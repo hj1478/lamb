@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Nitra",
   "uuid": "ebc2646d-562b-4c64-b72a-44e786e7e57a",
-  "board": "Nitra, city of Slovakia",
+  "board": "Nitra, city of Slovakia. The Third Founding of Nitra by Ivan",
   "founder": "KingIvanII",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Nostra:NitraIII",
   "discord": null,
   "mayor": {
    "name": "1v4n12",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 41,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "numOutlaws": 4,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -108,12 +108,20 @@
      -681
     ],
     [
+     393,
+     -680
+    ],
+    [
      392,
      -682
     ],
     [
      392,
      -683
+    ],
+    [
+     392,
+     -681
     ],
     [
      391,
@@ -133,11 +141,19 @@
     ],
     [
      398,
+     -681
+    ],
+    [
+     398,
      -682
     ],
     [
      399,
      -682
+    ],
+    [
+     399,
+     -681
     ],
     [
      394,
@@ -157,11 +173,27 @@
     ],
     [
      394,
+     -681
+    ],
+    [
+     394,
      -682
+    ],
+    [
+     394,
+     -680
+    ],
+    [
+     395,
+     -681
     ],
     [
      395,
      -682
+    ],
+    [
+     396,
+     -681
     ],
     [
      400,
@@ -170,6 +202,10 @@
     [
      397,
      -682
+    ],
+    [
+     400,
+     -681
     ],
     [
      397,
@@ -190,6 +226,10 @@
     [
      395,
      -684
+    ],
+    [
+     397,
+     -681
     ],
     [
      400,
@@ -225,7 +265,24 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "saif098432",
+    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
+   },
+   {
+    "name": "void_master_89",
+    "uuid": "65455ff8-767e-46ac-b829-7142e41b35a1"
+   },
+   {
+    "name": "VilikR",
+    "uuid": "910d4eac-99f6-41ad-88a6-d5a3fbd86443"
+   },
+   {
+    "name": "Libor2",
+    "uuid": "b6defb86-ddd9-40d6-83ab-b2ddcd976adf"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

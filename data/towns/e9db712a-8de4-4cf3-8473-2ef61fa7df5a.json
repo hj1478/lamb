@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Starbase",
   "uuid": "e9db712a-8de4-4cf3-8473-2ef61fa7df5a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 69,
+   "numTownBlocks": 75,
    "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 11,
-   "numTrusted": 6,
+   "numTrusted": 7,
    "numOutlaws": 13,
-   "balance": 0.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34977.30000001192,
-    "y": 71.0,
-    "z": -1569.300000011921,
-    "pitch": 61.200016,
-    "yaw": 133.48529
+    "x": -34888.31038630714,
+    "y": 63.0,
+    "z": -1543.6203147155122,
+    "pitch": 89.1,
+    "yaw": 89.48132
    },
    "homeBlock": [
-    -2187,
-    -99
+    -2181,
+    -97
    ],
    "townBlocks": [
     [
@@ -100,6 +100,10 @@
      -99
     ],
     [
+     -2190,
+     -101
+    ],
+    [
      -2179,
      -98
     ],
@@ -165,6 +169,10 @@
     ],
     [
      -2188,
+     -97
+    ],
+    [
+     -2188,
      -98
     ],
     [
@@ -252,6 +260,10 @@
      -100
     ],
     [
+     -2189,
+     -102
+    ],
+    [
      -2181,
      -96
     ],
@@ -298,6 +310,10 @@
     [
      -2183,
      -103
+    ],
+    [
+     -2188,
+     -102
     ],
     [
      -2183,
@@ -350,6 +366,14 @@
     [
      -2182,
      -95
+    ],
+    [
+     -2186,
+     -98
+    ],
+    [
+     -2186,
+     -99
     ],
     [
      -2186,
@@ -378,10 +402,6 @@
    {
     "name": "SeanElephant1",
     "uuid": "eb5a4077-7d4e-4fd4-a80d-c72b91dd0ae7"
-   },
-   {
-    "name": "AbbySole",
-    "uuid": "f15bd95f-aef7-4041-bbbb-2a8c2c676cc0"
    },
    {
     "name": "jayman381",
@@ -414,6 +434,10 @@
    {
     "name": "WeenyyMix",
     "uuid": "197b28a8-1ad7-43f1-838b-2d14c2f0bde9"
+   },
+   {
+    "name": "Rocky_1212",
+    "uuid": "38ecf8a5-a224-41d8-b68c-4a1123450044"
    }
   ],
   "trusted": [
@@ -432,6 +456,10 @@
    {
     "name": "Ciptoprolol",
     "uuid": "460b3213-d5d7-4304-9f13-172aa9aa6150"
+   },
+   {
+    "name": "James_thebest",
+    "uuid": "3d57c87c-9293-4e90-9669-ab2ae625fe27"
    },
    {
     "name": "Chalanda",
@@ -476,7 +504,7 @@
     "uuid": "17cb6cf8-c153-4ec7-abba-91a683277c34"
    },
    {
-    "name": "Gatorchomp_8",
+    "name": "CorvoX12",
     "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
    },
    {

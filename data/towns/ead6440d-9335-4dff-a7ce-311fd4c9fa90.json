@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Tigranocerta",
   "uuid": "ead6440d-9335-4dff-a7ce-311fd4c9fa90",
@@ -12,7 +12,7 @@
    "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
   },
   "nation": {
-   "name": "Armenia",
+   "name": "Eastern_Anatolia",
    "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 464,
-   "maxTownBlocks": 468,
+   "numTownBlocks": 463,
+   "maxTownBlocks": 420,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 34,
+   "numResidents": 30,
    "numTrusted": 6,
    "numOutlaws": 2,
-   "balance": 100.0,
+   "balance": 89.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14610.360723877067,
-    "y": 85.0,
-    "z": -6351.486505455156,
-    "pitch": -0.15002038,
-    "yaw": 89.999756
+    "x": 14589.660285628295,
+    "y": 76.0,
+    "z": -6352.747692363519,
+    "pitch": 40.499996,
+    "yaw": -30.592041
    },
    "homeBlock": [
-    913,
-    -397
+    911,
+    -398
    ],
    "townBlocks": [
     [
@@ -922,10 +922,6 @@
     [
      908,
      -406
-    ],
-    [
-     922,
-     -394
     ],
     [
      908,
@@ -1973,36 +1969,8 @@
     "uuid": "5eef374f-21c9-43c3-91e0-82123c7a3a8a"
    },
    {
-    "name": "MrAbdo_",
-    "uuid": "ca2a35fa-f18e-4846-8606-9325fa4146cf"
-   },
-   {
-    "name": "Magneto89",
-    "uuid": "56e34c97-10f2-4f9f-98ea-58afc9fb45ce"
-   },
-   {
     "name": "Valiglin",
     "uuid": "c19a795c-3541-4b86-ac6d-5874ce7e9930"
-   },
-   {
-    "name": "_Anonymus_me",
-    "uuid": "a8c5762a-fffc-4209-a24b-a0d453fa7a59"
-   },
-   {
-    "name": "CikyTen_Pidor",
-    "uuid": "00790cb7-b8b3-458e-8cf7-397965f2b9bb"
-   },
-   {
-    "name": "uragi64",
-    "uuid": "a4bc1f25-80e5-4e20-bf58-ca856bb59b77"
-   },
-   {
-    "name": "leeVasya",
-    "uuid": "ec2972d4-e26b-4377-93f1-3f57ab839e8d"
-   },
-   {
-    "name": "meomor22",
-    "uuid": "ae7f46b5-94fa-46db-860c-ab61f44be4fe"
    },
    {
     "name": "KaptanZorba",
@@ -2091,6 +2059,18 @@
    {
     "name": "mnmhadi28",
     "uuid": "ec6a9b95-4b67-45a1-8be3-6ac3ecc4832b"
+   },
+   {
+    "name": "aijapa",
+    "uuid": "131ea4d5-c4ff-4ee8-a2e9-f2c28499034b"
+   },
+   {
+    "name": "Fietswiel",
+    "uuid": "3be3118c-514b-439f-8bef-5f5a26fead76"
+   },
+   {
+    "name": "MahmoudD_D",
+    "uuid": "1a08dd9e-054a-4ee3-ae24-362453c186f8"
    }
   ],
   "trusted": [
@@ -2130,10 +2110,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Inconvenient Apartment",
-    "uuid": "af5d723b-b361-4ebd-999d-eb12bf1e322c"
-   },
    {
     "name": "Room #104",
     "uuid": "3b48ce75-ffeb-40a0-8730-dcea7daee08b"

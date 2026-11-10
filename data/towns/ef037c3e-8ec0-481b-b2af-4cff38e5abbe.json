@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Cerro_Santiago",
   "uuid": "ef037c3e-8ec0-481b-b2af-4cff38e5abbe",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kasper2k14",
-   "uuid": "fce54c36-e37d-44de-af6b-d0ea67d91271"
+   "name": "NPC97",
+   "uuid": "d4811ffc-39e1-205b-b1c5-7dc858a062a9"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781557292820,
-   "joinedNationAt": 1781557423521,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794132704432
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 49,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 5,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -292,8 +292,8 @@
   },
   "residents": [
    {
-    "name": "Kasper2k14",
-    "uuid": "fce54c36-e37d-44de-af6b-d0ea67d91271"
+    "name": "NPC97",
+    "uuid": "d4811ffc-39e1-205b-b1c5-7dc858a062a9"
    }
   ],
   "trusted": [

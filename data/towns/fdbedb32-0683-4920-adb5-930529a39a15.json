@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Atlantic",
   "uuid": "fdbedb32-0683-4920-adb5-930529a39a15",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "iderpalot1",
-   "uuid": "75bdbc90-2c01-46c9-9eb9-acf9ca98d2c2"
+   "name": "NPC28",
+   "uuid": "893567a2-08c0-2033-ba2e-9efc0fa0fcf9"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1784056487264,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794304803889
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 120.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -292,8 +292,8 @@
   },
   "residents": [
    {
-    "name": "iderpalot1",
-    "uuid": "75bdbc90-2c01-46c9-9eb9-acf9ca98d2c2"
+    "name": "NPC28",
+    "uuid": "893567a2-08c0-2033-ba2e-9efc0fa0fcf9"
    }
   ],
   "trusted": [],

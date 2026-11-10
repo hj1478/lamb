@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Tayozhny",
   "uuid": "eaa31215-03b3-4f3e-b1b9-595f7e79be4c",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -168,6 +168,10 @@
      -1175
     ],
     [
+     814,
+     -1176
+    ],
+    [
      811,
      -1178
     ],
@@ -209,6 +213,10 @@
     ],
     [
      813,
+     -1177
+    ],
+    [
+     813,
      -1176
     ]
    ],
@@ -218,20 +226,43 @@
    {
     "name": "nyx_ch",
     "uuid": "f43866b6-6fde-48cf-8946-4636c7ddc2b3"
+   },
+   {
+    "name": "SunnyDJuiceBoxx",
+    "uuid": "a196e17c-2c94-48df-b68f-248b2215be11"
+   },
+   {
+    "name": "sleebee_p",
+    "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "sleebee_p",
+     "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "SunnyDJuiceBoxx",
+     "uuid": "a196e17c-2c94-48df-b68f-248b2215be11"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "sleebee_p",
+     "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

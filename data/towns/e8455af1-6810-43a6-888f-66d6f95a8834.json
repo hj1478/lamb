@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Camp_HalfBlood",
   "uuid": "e8455af1-6810-43a6-888f-66d6f95a8834",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CaptainRyna",
-   "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+   "name": "Jiswby",
+   "uuid": "9c10ac19-cce6-4d47-a812-161458875aa1"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": "Genoa",
+   "uuid": "afa716a4-e6e1-4d7f-b16f-7e30ae1a7046"
   },
   "timestamps": {
    "registered": 1784917961397,
-   "joinedNationAt": 1784918000671,
+   "joinedNationAt": 1794087062357,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "nationBonus": 10,
+   "numResidents": 1,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -212,6 +212,10 @@
      -577
     ],
     [
+     207,
+     -576
+    ],
+    [
      211,
      -580
     ]
@@ -220,18 +224,18 @@
   },
   "residents": [
    {
-    "name": "JustaRalvin",
-    "uuid": "a7927322-e060-40bd-b5aa-fea15fe8365b"
-   },
-   {
-    "name": "CaptainRyna",
-    "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+    "name": "Jiswby",
+    "uuid": "9c10ac19-cce6-4d47-a812-161458875aa1"
    }
   ],
   "trusted": [
    {
     "name": "Secret_Agent009",
     "uuid": "c6869dcc-7701-4aaf-a7aa-5d0e17d2a317"
+   },
+   {
+    "name": "aegea__",
+    "uuid": "e8875c69-d0d6-4113-b334-95e66f7d4823"
    },
    {
     "name": "ItzDarken",

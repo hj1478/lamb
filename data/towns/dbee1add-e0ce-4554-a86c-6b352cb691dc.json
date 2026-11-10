@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "DoubleH",
+  "name": "BadName",
   "uuid": "dbee1add-e0ce-4554-a86c-6b352cb691dc",
   "board": "/town set board [msg]",
   "founder": "Honenos",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -92,12 +92,36 @@
    ],
    "townBlocks": [
     [
+     163,
+     -577
+    ],
+    [
+     164,
+     -577
+    ],
+    [
      165,
      -576
     ],
     [
      165,
+     -577
+    ],
+    [
+     164,
+     -578
+    ],
+    [
+     165,
+     -574
+    ],
+    [
+     165,
      -575
+    ],
+    [
+     164,
+     -574
     ],
     [
      164,
@@ -106,6 +130,26 @@
     [
      164,
      -576
+    ],
+    [
+     166,
+     -577
+    ],
+    [
+     166,
+     -576
+    ],
+    [
+     165,
+     -578
+    ],
+    [
+     166,
+     -575
+    ],
+    [
+     166,
+     -574
     ]
    ],
    "worlds": {}
@@ -118,9 +162,29 @@
    {
     "name": "SmokiestAtom568",
     "uuid": "e9e4e204-ecea-4b4b-ab9f-0803ebc11da6"
+   },
+   {
+    "name": "GinoalPaesino",
+    "uuid": "58768c7b-d050-4db6-bf3d-ac11db0c7692"
+   },
+   {
+    "name": "geva134",
+    "uuid": "00d163a1-6d9a-4e18-941d-d367f894e698"
+   },
+   {
+    "name": "Chilli_Monster",
+    "uuid": "a2210369-4082-4493-86ba-dc5e3a4dfdc0"
    }
   ],
   "trusted": [
+   {
+    "name": "Chilli_Monster",
+    "uuid": "a2210369-4082-4493-86ba-dc5e3a4dfdc0"
+   },
+   {
+    "name": "geva134",
+    "uuid": "00d163a1-6d9a-4e18-941d-d367f894e698"
+   },
    {
     "name": "SmokiestAtom568",
     "uuid": "e9e4e204-ecea-4b4b-ab9f-0803ebc11da6"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Lakefield",
   "uuid": "ff40bfae-004d-40c2-afc0-9d21dafdb3b5",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "BrennanW1",
-   "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
+   "name": "NPC112",
+   "uuid": "6c8fcb07-62f0-207c-b975-fea49708adaf"
   },
   "nation": {
-   "name": "Solomon_Islands",
-   "uuid": "9aed3715-16cf-4e98-9692-b67b757836e0"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785288204671,
-   "joinedNationAt": 1790475666257,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794184979419
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 3,
-   "numOutlaws": 23,
-   "balance": 1128.0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -168,138 +168,15 @@
   },
   "residents": [
    {
-    "name": "BrennanW1",
-    "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
-   },
-   {
-    "name": "XrashMC",
-    "uuid": "2804c555-d50f-46cb-b5ba-e75994231e6b"
-   },
-   {
-    "name": "AGENT_XTREME",
-    "uuid": "d5ca440d-4300-454e-8a08-b7b98baf3165"
-   },
-   {
-    "name": "Dmantastic1",
-    "uuid": "a33d86cd-4734-46f2-95ad-f48a359bcbae"
+    "name": "NPC112",
+    "uuid": "6c8fcb07-62f0-207c-b975-fea49708adaf"
    }
   ],
-  "trusted": [
-   {
-    "name": "PiplupKing",
-    "uuid": "19f64844-0026-48a1-a4bd-f2d84f120d83"
-   },
-   {
-    "name": "IanSpace71",
-    "uuid": "97b69eeb-f63b-49ff-a1a0-0a3f5e7b96ee"
-   },
-   {
-    "name": "itsgatorgreen",
-    "uuid": "3625ce6f-b937-49cf-bec2-0e60200bf9a2"
-   }
-  ],
-  "outlaws": [
-   {
-    "name": "Niiko_X",
-    "uuid": "1e8e8c15-4e73-41e7-a687-8796dc57fb81"
-   },
-   {
-    "name": "ZupraMC",
-    "uuid": "fc317a85-7958-40ae-9027-c4e5feba4d2c"
-   },
-   {
-    "name": "itsZcraft",
-    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
-   },
-   {
-    "name": "hungrybalong6",
-    "uuid": "def0f314-4315-4dbf-9916-1b0151389e27"
-   },
-   {
-    "name": "redshroomy",
-    "uuid": "77366d91-afa1-4cc9-a840-f420a982d4e6"
-   },
-   {
-    "name": "Galaxor5",
-    "uuid": "64ae1323-f92d-4499-8f9f-e8ab6a9fbd77"
-   },
-   {
-    "name": "TpGlemuX",
-    "uuid": "88d4d1e7-6212-4e61-a033-7deb80c585f3"
-   },
-   {
-    "name": "SMPLover",
-    "uuid": "0808a08f-b20d-4030-bfb8-1713130c194b"
-   },
-   {
-    "name": "Ethanol113",
-    "uuid": "5c380da7-7f22-4109-bc4c-fc5970cdca50"
-   },
-   {
-    "name": "1NVADER_Z1M",
-    "uuid": "aa10b101-551a-4742-b24f-d953bbcd7ae8"
-   },
-   {
-    "name": "OzzUnionPro",
-    "uuid": "b3396a1d-4d9b-4c88-8678-b2dc7a33c0e3"
-   },
-   {
-    "name": "EWisawesome",
-    "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
-   },
-   {
-    "name": "Chrouched_",
-    "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
-   },
-   {
-    "name": "diffex",
-    "uuid": "6a12e341-2602-4462-ba78-c4fdab5cd190"
-   },
-   {
-    "name": "Nils_Usakovs",
-    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
-   },
-   {
-    "name": "jamari_aymara23",
-    "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
-   },
-   {
-    "name": "VDX57351",
-    "uuid": "93c22bf0-1c3d-4370-93e9-008fe05b6269"
-   },
-   {
-    "name": "FurbyLordWubble",
-    "uuid": "a55b8f30-fec3-4567-99cc-58eb5ddec36b"
-   },
-   {
-    "name": "legoskywalkerk9",
-    "uuid": "a10b2212-1733-45a4-9d57-d5975d53cee5"
-   },
-   {
-    "name": "Smimi89",
-    "uuid": "9aa76705-a381-4b93-a4b0-d6aaf80ed7de"
-   },
-   {
-    "name": "BeruangHutan",
-    "uuid": "389727af-149f-46c0-891e-eb50210b99ae"
-   },
-   {
-    "name": "T0LSI",
-    "uuid": "60710f55-f994-463f-8e36-7a758a675ebe"
-   },
-   {
-    "name": "Unknown40",
-    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
-   }
-  ],
+  "trusted": [],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "BrennanW1",
-     "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

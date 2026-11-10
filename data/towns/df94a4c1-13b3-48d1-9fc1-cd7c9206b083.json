@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Bobby",
   "uuid": "df94a4c1-13b3-48d1-9fc1-cd7c9206b083",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1791918543955,
-   "joinedNationAt": 1791918577682,
+   "joinedNationAt": 1794262621746,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 7,
-   "numTrusted": 4,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -153,10 +153,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
-   },
    {
     "name": "_DucKnight_",
     "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"

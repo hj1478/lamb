@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "St_Kilda",
   "uuid": "f360048a-b4b5-4f31-9068-53df43fae663",
-  "board": "The Jewel of Scotland",
+  "board": "The Gem of the North",
   "founder": "vikaness",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "519d7f8a-3410-4520-8fe4-a03524f15a44"
   },
   "nation": {
-   "name": "Scotland",
-   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
+   "name": "Eire",
+   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
   },
   "timestamps": {
    "registered": 1793845836405,
-   "joinedNationAt": 1793856217346,
+   "joinedNationAt": 1794024790159,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,7 +41,7 @@
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3068.43329610904,
-    "y": 71.0,
-    "z": -15409.363404399444,
-    "pitch": 10.800061,
-    "yaw": 115.64459
+    "x": -3063.632794411876,
+    "y": 70.0,
+    "z": -15417.647957775545,
+    "pitch": 4.058413,
+    "yaw": 89.14145
    },
    "homeBlock": [
     -192,
@@ -137,7 +137,24 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "DinoKid2748",
+    "uuid": "0c431d31-89a3-4f82-9032-c49f9988d8e1"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "Kevin_dutz",
+    "uuid": "21ef03a3-e3c7-4ce9-b8db-5cfe7ba6d8b4"
+   },
+   {
+    "name": "GOUK121",
+    "uuid": "4b6bebeb-bc27-4f33-af68-11ba437363ae"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "HA",
   "uuid": "f9e09e62-7358-47fb-9c1b-95f0e876a618",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kedrion",
-   "uuid": "f20f5577-339e-4eb0-8f39-26ff34db76f1"
+   "name": "NPC47",
+   "uuid": "8115f9b9-4ec6-207a-9aba-695f24bbada2"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1780827789970,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794132003301
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "Kedrion",
-    "uuid": "f20f5577-339e-4eb0-8f39-26ff34db76f1"
+    "name": "NPC47",
+    "uuid": "8115f9b9-4ec6-207a-9aba-695f24bbada2"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Freedonia",
   "uuid": "e6198cb8-8ead-4492-b94c-4a982800e1c9",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 61,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 55,
+   "numOutlaws": 54,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -346,10 +346,6 @@
    {
     "name": "kakokatelyn",
     "uuid": "9c7771ef-7c52-4c27-a30b-c8d006e8882e"
-   },
-   {
-    "name": "Hamo25",
-    "uuid": "0f268d2c-40e8-42f6-991b-81ce89bf4c33"
    }
   ],
   "trusted": [
@@ -364,6 +360,10 @@
     "uuid": "0f81ba58-e6b8-4d9c-a54c-1d6471a1efc4"
    },
    {
+    "name": "idle_person",
+    "uuid": "18f50b33-c1ed-46d1-b0a8-436e9f735f8f"
+   },
+   {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
@@ -374,10 +374,6 @@
    {
     "name": "Swightness",
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
-   },
-   {
-    "name": "_toma_1",
-    "uuid": "a3066d55-97cf-4fc5-b9e1-7a95544d50f9"
    },
    {
     "name": "Addychi01",
@@ -426,10 +422,6 @@
    {
     "name": "Prettyfastturtle",
     "uuid": "cca2bd46-ae82-4a4a-a9d2-388054eb59f6"
-   },
-   {
-    "name": "ZacianTower",
-    "uuid": "38e99dad-0955-4797-80d2-0edb20c33532"
    },
    {
     "name": "Matiasole",

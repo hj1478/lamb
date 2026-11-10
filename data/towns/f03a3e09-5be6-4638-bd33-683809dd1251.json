@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Mexico_City",
   "uuid": "f03a3e09-5be6-4638-bd33-683809dd1251",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "aCinnamonTstCrch",
-   "uuid": "0aad5dae-d649-44fb-955e-d09ac1e8caf7"
+   "name": "NPC5",
+   "uuid": "e2f9cf4b-11f8-208e-aa0d-7f942cc72f3d"
   },
   "nation": {
-   "name": "Mexico",
-   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777937096560,
-   "joinedNationAt": 1780451125337,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794218402557
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 5,
    "numOutlaws": 4,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -264,8 +264,8 @@
   },
   "residents": [
    {
-    "name": "aCinnamonTstCrch",
-    "uuid": "0aad5dae-d649-44fb-955e-d09ac1e8caf7"
+    "name": "NPC5",
+    "uuid": "e2f9cf4b-11f8-208e-aa0d-7f942cc72f3d"
    }
   ],
   "trusted": [

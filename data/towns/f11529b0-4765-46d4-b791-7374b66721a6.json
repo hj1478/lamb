@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Fort_Caracal",
   "uuid": "f11529b0-4765-46d4-b791-7374b66721a6",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SpartanCaracal",
+   "name": "bongsmoker67",
    "uuid": "883a66bb-48a7-4937-8b1a-c3468862fb23"
   },
   "nation": {
@@ -27,23 +27,23 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
+   "numTownBlocks": 35,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
-   "forSalePrice": null
+   "balance": 19.0,
+   "forSalePrice": 225.0
   },
   "perms": {
    "build": [
@@ -189,6 +189,10 @@
     ],
     [
      2900,
+     -1157
+    ],
+    [
+     2900,
      -1158
     ],
     [
@@ -232,7 +236,7 @@
   },
   "residents": [
    {
-    "name": "SpartanCaracal",
+    "name": "bongsmoker67",
     "uuid": "883a66bb-48a7-4937-8b1a-c3468862fb23"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Konotop",
   "uuid": "e0d23b8b-d902-472f-b0fb-bb1408458657",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 4,
-   "numOutlaws": 0,
-   "balance": 1000.0,
+   "numOutlaws": 2,
+   "balance": 991.0,
    "forSalePrice": null
   },
   "perms": {
@@ -554,6 +554,10 @@
    {
     "name": "Myles16",
     "uuid": "a80ea568-0c02-4212-abb9-6b21e72cb2d0"
+   },
+   {
+    "name": "Dhrem",
+    "uuid": "9849136a-b628-46f5-a488-c8c95d321a5e"
    }
   ],
   "trusted": [
@@ -574,7 +578,16 @@
     "uuid": "2ece4fea-2e57-4667-b2cf-30baeee1c208"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "_Srdjan",
+    "uuid": "2aa44462-21b6-46e4-9b6d-742bcd32cf11"
+   },
+   {
+    "name": "01qe",
+    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
+   }
+  ],
   "quarters": [
    {
     "name": "Elegant Quarter",
@@ -601,10 +614,6 @@
     "uuid": "f56a3741-16b7-4f66-92e8-1a939b3954f9"
    },
    {
-    "name": "Cheerful Apartment",
-    "uuid": "51765f1a-7962-48bd-96fc-5cbfae4fe266"
-   },
-   {
     "name": "Inconvenient Property",
     "uuid": "d57b474e-4108-4f1a-874f-17fa5e026360"
    },
@@ -615,6 +624,18 @@
    {
     "name": "Perturbing Flat",
     "uuid": "bfa47353-5009-45bf-98b5-c35873ace6e8"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "51765f1a-7962-48bd-96fc-5cbfae4fe266"
+   },
+   {
+    "name": "Inviting Dwelling",
+    "uuid": "34cd6d62-55f6-49fb-9af2-f612dac330ab"
+   },
+   {
+    "name": "Stylish Property",
+    "uuid": "644ea47b-50ff-48c6-a523-db0b1c98fd73"
    }
   ],
   "ranks": {

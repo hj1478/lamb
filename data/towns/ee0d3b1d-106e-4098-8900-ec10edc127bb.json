@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Santiago",
   "uuid": "ee0d3b1d-106e-4098-8900-ec10edc127bb",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 169,
-   "maxTownBlocks": 164,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 7,
-   "numTrusted": 10,
+   "numTrusted": 11,
    "numOutlaws": 3,
-   "balance": 726.0,
+   "balance": 691.0,
    "forSalePrice": null
   },
   "perms": {
@@ -776,10 +776,6 @@
     "uuid": "4321a7d6-22ba-4fcc-aa76-7ca972eb65d6"
    },
    {
-    "name": "TheBestKrzysiek",
-    "uuid": "c62c3f2c-e355-4bd6-b888-02a9c56fd897"
-   },
-   {
     "name": "hombremaldito",
     "uuid": "af760ed4-bea5-4309-83af-d4fe26d2cbb9"
    },
@@ -798,12 +794,20 @@
    {
     "name": "__Kociara__",
     "uuid": "a554cc09-c103-4375-8546-13095e8e9d36"
+   },
+   {
+    "name": "Mgr_Schneider",
+    "uuid": "28bbf80e-6be1-417d-b03c-5481ef67521a"
    }
   ],
   "trusted": [
    {
     "name": "x_omega_",
     "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
+   },
+   {
+    "name": "Reanger",
+    "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
    },
    {
     "name": "majster_1702",

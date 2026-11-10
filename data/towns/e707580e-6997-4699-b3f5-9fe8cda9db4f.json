@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Amed",
   "uuid": "e707580e-6997-4699-b3f5-9fe8cda9db4f",
@@ -12,7 +12,7 @@
    "uuid": "5e50643d-a306-4e71-be9a-ad490527cabe"
   },
   "nation": {
-   "name": "Armenia",
+   "name": "Eastern_Anatolia",
    "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 51,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 68,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 122.0,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -141,7 +141,23 @@
     ],
     [
      887,
+     -411
+    ],
+    [
+     887,
+     -410
+    ],
+    [
+     887,
      -409
+    ],
+    [
+     887,
+     -408
+    ],
+    [
+     887,
+     -407
     ],
     [
      882,
@@ -240,12 +256,28 @@
      -408
     ],
     [
+     889,
+     -408
+    ],
+    [
+     889,
+     -409
+    ],
+    [
+     889,
+     -407
+    ],
+    [
      880,
      -411
     ],
     [
      884,
      -410
+    ],
+    [
+     889,
+     -412
     ],
     [
      880,
@@ -264,6 +296,14 @@
      -412
     ],
     [
+     888,
+     -412
+    ],
+    [
+     889,
+     -410
+    ],
+    [
      880,
      -408
     ],
@@ -272,12 +312,40 @@
      -413
     ],
     [
+     889,
+     -411
+    ],
+    [
      880,
      -407
     ],
     [
      884,
      -414
+    ],
+    [
+     888,
+     -410
+    ],
+    [
+     888,
+     -411
+    ],
+    [
+     888,
+     -408
+    ],
+    [
+     888,
+     -409
+    ],
+    [
+     888,
+     -406
+    ],
+    [
+     888,
+     -407
     ],
     [
      885,
@@ -302,9 +370,22 @@
    {
     "name": "iKurdo",
     "uuid": "5e50643d-a306-4e71-be9a-ad490527cabe"
+   },
+   {
+    "name": "HandrenProyer_",
+    "uuid": "bc26dfef-68ac-489f-949a-99b18bb70571"
+   },
+   {
+    "name": "Galaxhi",
+    "uuid": "6e7c8eb9-5c99-4946-8b45-a6a442bcf8ee"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "HandrenProyer_",
+    "uuid": "bc26dfef-68ac-489f-949a-99b18bb70571"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

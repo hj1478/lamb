@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "VELIGRAD",
+  "name": "Novariva",
   "uuid": "ddb3cbfa-dddd-413b-b2e5-16fe8322153d",
   "board": "this is city country",
   "founder": "Vito67777",
@@ -12,12 +12,12 @@
    "uuid": "9a821e7e-dffb-44b4-a8bd-76c6c6b221d7"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": "Italy",
+   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
   },
   "timestamps": {
    "registered": 1791205625593,
-   "joinedNationAt": 1793388215101,
+   "joinedNationAt": 1794212618140,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 45.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6314.844473205936,
+    "x": 6314.94617918613,
     "y": 63.0,
-    "z": -8293.72151502447,
-    "pitch": 17.850016,
-    "yaw": -175.88757
+    "z": -8294.439125024503,
+    "pitch": 21.000204,
+    "yaw": -172.28613
    },
    "homeBlock": [
     394,
@@ -174,9 +174,18 @@
    {
     "name": "Z_C_2026_",
     "uuid": "dc975687-e829-4e99-b5a9-b9a1ed7a87c8"
+   },
+   {
+    "name": "VolvoSales",
+    "uuid": "edcb09b5-5c47-41ca-8f61-3b9facf768ce"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "McSwag14",
+    "uuid": "82b1274e-dadc-4f11-b4fb-d711b51434d0"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

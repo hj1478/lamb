@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Aksumara",
   "uuid": "eab11c72-bb3b-4512-8162-5ebb59dc48cf",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 80.0,
@@ -178,6 +178,10 @@
    {
     "name": "AidamJunior",
     "uuid": "0676fff5-834f-4cdd-a45d-d9b69ce27216"
+   },
+   {
+    "name": "WerixGD",
+    "uuid": "6d583482-1c8b-4588-be9d-f4b8a14a1d8a"
    }
   ],
   "trusted": [

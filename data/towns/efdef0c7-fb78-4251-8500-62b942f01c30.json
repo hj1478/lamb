@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Kushiro",
   "uuid": "efdef0c7-fb78-4251-8500-62b942f01c30",
@@ -8,26 +8,26 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kuroneko8888",
-   "uuid": "d6933b1f-1fbc-4fce-88dd-9a5390befd27"
+   "name": "yukiyuura",
+   "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
   },
   "nation": {
-   "name": "Japan",
-   "uuid": "32d05375-2745-48c7-99df-418d27f00d34"
+   "name": "Hokkaido",
+   "uuid": "1b0372fe-6f27-4b06-a6e9-e5b5c90e6e72"
   },
   "timestamps": {
    "registered": 1777942488870,
-   "joinedNationAt": 1791281302340,
+   "joinedNationAt": 1794138912736,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 500.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -164,11 +164,32 @@
   },
   "residents": [
    {
-    "name": "kuroneko8888",
-    "uuid": "d6933b1f-1fbc-4fce-88dd-9a5390befd27"
+    "name": "yukiyuura",
+    "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Gafia312",
+    "uuid": "fbfb6294-628f-48ba-a745-4499bef9a3fb"
+   },
+   {
+    "name": "yukiyuura",
+    "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
+   },
+   {
+    "name": "osyondesuyo",
+    "uuid": "a93eb935-9baf-4bac-8062-4541e341ee80"
+   },
+   {
+    "name": "f1oR4s",
+    "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
+   },
+   {
+    "name": "_starmii",
+    "uuid": "bb31a245-090b-435e-b6c2-79a1b0f5e5d8"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

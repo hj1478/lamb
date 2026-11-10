@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Jingei",
   "uuid": "e69862c2-b5e0-4039-95e4-c10f5d646871",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,8 +92,20 @@
    ],
    "townBlocks": [
     [
+     2865,
+     -519
+    ],
+    [
+     2865,
+     -520
+    ],
+    [
      2864,
      -519
+    ],
+    [
+     2864,
+     -520
     ]
    ],
    "worlds": {}

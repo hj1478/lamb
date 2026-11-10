@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Caca",
   "uuid": "e97763ef-59ae-4427-a64a-879eaffe16cc",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NoahShan",
-   "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"
+   "name": "NPC104",
+   "uuid": "aef424f8-6b5f-203e-8478-61ecd9d773ed"
   },
   "nation": {
-   "name": "Chicagoland",
-   "uuid": "b1992b2c-6e25-474a-955a-6b311cdfa39e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793923789035,
-   "joinedNationAt": 1793924451122,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794169831253
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 64.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "NoahShan",
-    "uuid": "9c019e29-f516-4a4d-925f-8d3942d857cc"
+    "name": "NPC104",
+    "uuid": "aef424f8-6b5f-203e-8478-61ecd9d773ed"
    }
   ],
   "trusted": [
@@ -110,8 +110,32 @@
     "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
    },
    {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
+   {
     "name": "louisdek",
     "uuid": "01c34b96-295b-4370-b6db-6ec3eb0275e1"
+   },
+   {
+    "name": "Xenox_855",
+    "uuid": "45aac4df-1a3f-49c1-9a9b-8ac95017af28"
+   },
+   {
+    "name": "Sayfoulpe",
+    "uuid": "3891cc50-6d7a-485b-af50-76038440d389"
+   },
+   {
+    "name": "elpapito7",
+    "uuid": "eb3895bc-852e-4814-910a-ea4327ad6221"
+   },
+   {
+    "name": "P1KE__",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
+   },
+   {
+    "name": "dex247",
+    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "New_Aegis",
   "uuid": "eb1f04eb-17e4-499c-a461-0aeeaa3b8ebd",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC137",
-   "uuid": "8d654261-e639-2059-a26c-5387f8751b98"
+   "name": "predatorjacob23",
+   "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
    "registered": 1793268472024,
-   "joinedNationAt": null,
-   "ruinedAt": 1793697574935
+   "joinedNationAt": 1793820627415,
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
@@ -26,55 +26,55 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 100,
+   "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 24.0,
+   "balance": 37.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      2793,
+     1233
+    ],
+    [
+     2793,
      1234
     ],
     [
@@ -102,6 +106,10 @@
     [
      2792,
      1234
+    ],
+    [
+     2792,
+     1233
     ]
    ],
    "worlds": {}
@@ -110,10 +118,6 @@
    {
     "name": "predatorjacob23",
     "uuid": "d4162457-9697-41d7-9772-63ddcb5d1a3e"
-   },
-   {
-    "name": "NPC137",
-    "uuid": "8d654261-e639-2059-a26c-5387f8751b98"
    }
   ],
   "trusted": [

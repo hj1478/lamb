@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Konohagakure",
   "uuid": "ee3a3001-ff4b-48c1-bb09-14aba741d75e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 151,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 6,
-   "balance": 12.0,
+   "balance": 92.0,
    "forSalePrice": null
   },
   "perms": {
@@ -702,6 +702,10 @@
    {
     "name": "DeepInDaSand",
     "uuid": "bb01c8ae-764b-4ee8-921a-e6a0b36bc30f"
+   },
+   {
+    "name": "dailysuho",
+    "uuid": "d4c7cd2c-b374-470a-a835-5e78d0d6df1b"
    }
   ],
   "trusted": [

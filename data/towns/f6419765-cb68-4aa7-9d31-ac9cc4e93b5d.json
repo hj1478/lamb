@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "CopperTree",
   "uuid": "f6419765-cb68-4aa7-9d31-ac9cc4e93b5d",
-  "board": "Femboy Supremacy across the world",
+  "board": "Brazilian supremacy across the world",
   "founder": "BigCreamPop",
   "wiki": null,
   "discord": "https://discord.gg/rjq89Rn2B",
   "mayor": {
-   "name": "TheIRSMonster",
-   "uuid": "c9773529-65af-456a-90bc-13123779dbc2"
+   "name": "DinizAmaLoiras",
+   "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
   },
   "nation": {
    "name": "Brazil",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 86,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 0,
+   "numResidents": 9,
+   "numTrusted": 4,
    "numOutlaws": 6,
-   "balance": 6.0,
-   "forSalePrice": null
+   "balance": 0.0,
+   "forSalePrice": 100000000.0
   },
   "perms": {
    "build": [
@@ -440,16 +440,12 @@
   },
   "residents": [
    {
-    "name": "lilrt67420",
-    "uuid": "5ac18872-6d58-46a2-97f2-30abd24369f8"
-   },
-   {
     "name": "DuckiestChaff92",
     "uuid": "fe51f457-53b9-490a-8339-50e204ff01d4"
    },
    {
-    "name": "TheIRSMonster",
-    "uuid": "c9773529-65af-456a-90bc-13123779dbc2"
+    "name": "Hisenburg_45",
+    "uuid": "0ba11b18-9b2b-4ddc-9f27-be29bd7b80aa"
    },
    {
     "name": "Otuber1",
@@ -472,15 +468,32 @@
     "uuid": "a8c993ab-65d7-4419-95bc-d559e0eb8079"
    },
    {
-    "name": "Person_2d",
-    "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
+    "name": "MuffinMcMarv",
+    "uuid": "071d1210-bb67-4037-b14a-0bd2b2816c0b"
    },
    {
     "name": "DinizAmaLoiras",
     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "MrGelado27",
+    "uuid": "396c775f-26c1-42a0-85e4-22ba6c800c9d"
+   },
+   {
+    "name": "shak2022",
+    "uuid": "98f54e1f-7945-46f3-8278-ba52e2842ccb"
+   },
+   {
+    "name": "DinizAmaLoiras",
+    "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+   },
+   {
+    "name": "Meshly",
+    "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
+   }
+  ],
   "outlaws": [
    {
     "name": "OnAPlain",
@@ -646,14 +659,54 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Councillor": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Police": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "DinizAmaLoiras",
+     "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

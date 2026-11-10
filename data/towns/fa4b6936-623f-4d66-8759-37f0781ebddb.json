@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Summerside",
   "uuid": "fa4b6936-623f-4d66-8759-37f0781ebddb",
-  "board": "/town set board [msg]",
+  "board": "Carrot Farming",
   "founder": "Brightship",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "9491b6be-5570-44b8-a5cc-e7d7fff3005d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Acadia",
+   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
   },
   "timestamps": {
    "registered": 1793059600759,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793837694035,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 19,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 25.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,48 @@
    ],
    "townBlocks": [
     [
+     -1537,
+     -673
+    ],
+    [
+     -1537,
+     -674
+    ],
+    [
+     -1539,
+     -674
+    ],
+    [
+     -1539,
+     -673
+    ],
+    [
+     -1539,
+     -672
+    ],
+    [
+     -1541,
+     -673
+    ],
+    [
+     -1541,
+     -674
+    ],
+    [
+     -1541,
+     -672
+    ],
+    [
      -1540,
      -672
+    ],
+    [
+     -1538,
+     -672
+    ],
+    [
+     -1538,
+     -673
     ],
     [
      -1540,
@@ -104,19 +144,27 @@
      -673
     ],
     [
-     -1539,
+     -1540,
+     -675
+    ],
+    [
+     -1538,
+     -674
+    ],
+    [
+     -1536,
+     -674
+    ],
+    [
+     -1536,
      -673
     ],
     [
-     -1539,
+     -1536,
      -672
     ],
     [
-     -1541,
-     -673
-    ],
-    [
-     -1541,
+     -1537,
      -672
     ]
    ],

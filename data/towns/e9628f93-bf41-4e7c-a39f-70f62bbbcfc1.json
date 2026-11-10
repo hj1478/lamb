@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Lugano",
   "uuid": "e9628f93-bf41-4e7c-a39f-70f62bbbcfc1",
@@ -12,12 +12,12 @@
    "uuid": "3c7a0c4a-e617-4489-8bbc-98409ab79665"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Switzerland",
+   "uuid": "fe3aa6fe-12b4-4a8c-98fb-30efc7e4342f"
   },
   "timestamps": {
    "registered": 1790963914465,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793906149897,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3704.5057322636258,
-    "y": 157.0,
-    "z": -9865.307374588194,
-    "pitch": 35.91703,
-    "yaw": 148.79391
+    "x": 3724.4586477226867,
+    "y": 165.0,
+    "z": -9877.5199285944,
+    "pitch": 42.557316,
+    "yaw": 80.66629
    },
    "homeBlock": [
-    231,
-    -617
+    232,
+    -618
    ],
    "townBlocks": [
     [

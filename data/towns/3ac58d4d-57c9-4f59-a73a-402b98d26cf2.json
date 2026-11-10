@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Jordanaland",
-  "uuid": "4a532324-06d8-46b3-9773-7177cb1b6f4c",
-  "board": "jordanaiscool",
-  "founder": "shortnsweeet",
+  "name": "Pickles",
+  "uuid": "3ac58d4d-57c9-4f59-a73a-402b98d26cf2",
+  "board": "/town set board [msg]",
+  "founder": "tukemono_okazu",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "shortnsweeet",
-   "uuid": "37e58160-b4b3-4262-83b5-4c6b4d3d2a15"
+   "name": "tukemono_okazu",
+   "uuid": "3fdfc37c-10dd-4241-8438-848bfabc65d7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "China",
+   "uuid": "08151770-069e-42a4-95d2-7b31923e3311"
   },
   "timestamps": {
-   "registered": 1778868743520,
-   "joinedNationAt": null,
+   "registered": 1794310729694,
+   "joinedNationAt": 1794310773142,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 364.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,42 +73,87 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -20333.805429515534,
-    "y": 65.0,
-    "z": 19653.799008672016,
-    "pitch": 29.99985,
-    "yaw": -106.04785
+    "x": 40505.1905549867,
+    "y": 115.0,
+    "z": -7374.573132290709,
+    "pitch": 38.439056,
+    "yaw": -1.7521973
    },
    "homeBlock": [
-    -1271,
-    1228
+    2531,
+    -461
    ],
    "townBlocks": [
     [
-     -1271,
-     1228
+     2528,
+     -461
     ],
     [
-     -1272,
-     1228
+     2528,
+     -462
+    ],
+    [
+     2528,
+     -463
+    ],
+    [
+     2530,
+     -463
+    ],
+    [
+     2530,
+     -462
+    ],
+    [
+     2531,
+     -461
+    ],
+    [
+     2530,
+     -461
+    ],
+    [
+     2531,
+     -462
+    ],
+    [
+     2529,
+     -461
+    ],
+    [
+     2531,
+     -463
+    ],
+    [
+     2529,
+     -462
+    ],
+    [
+     2529,
+     -463
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "shortnsweeet",
-    "uuid": "37e58160-b4b3-4262-83b5-4c6b4d3d2a15"
+    "name": "tukemono_okazu",
+    "uuid": "3fdfc37c-10dd-4241-8438-848bfabc65d7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "tqken0ko",
+    "uuid": "333fa3c8-39d1-4755-a860-ace54bde0909"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

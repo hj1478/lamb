@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Reverie",
   "uuid": "ef874a20-c833-48c1-92f6-370ff3100cb5",
@@ -42,7 +42,7 @@
    "numResidents": 10,
    "numTrusted": 15,
    "numOutlaws": 0,
-   "balance": 2835.0,
+   "balance": 3368.0,
    "forSalePrice": null
   },
   "perms": {
@@ -999,7 +999,7 @@
     "uuid": "44d6f8b9-a987-4efe-8a89-f53a85f68e47"
    },
    {
-    "name": "pa_vie",
+    "name": "na_sya",
     "uuid": "6199db18-6d07-4257-b600-cff44418deab"
    },
    {
@@ -1055,7 +1055,43 @@
   },
   "warps": [
    {
-    "name": "east",
+    "name": "Underground",
+    "uuid": "270f2cd8-dc8f-4547-b2cb-0125098fdd8d",
+    "createdAt": 1793825888010,
+    "createdBy": "Lueeeh",
+    "access": "RESIDENT",
+    "location": {
+     "x": -17114,
+     "y": -4,
+     "z": -32017
+    }
+   },
+   {
+    "name": "Storage",
+    "uuid": "fca16108-2865-4017-990f-7fbef5254df8",
+    "createdAt": 1793825696225,
+    "createdBy": "Lueeeh",
+    "access": "RESIDENT",
+    "location": {
+     "x": -17052,
+     "y": 55,
+     "z": -32018
+    }
+   },
+   {
+    "name": "Castle",
+    "uuid": "763a21cc-4221-40ae-a303-7fb947e44b1e",
+    "createdAt": 1793825570576,
+    "createdBy": "Lueeeh",
+    "access": "NATION",
+    "location": {
+     "x": -17288,
+     "y": 67,
+     "z": -32032
+    }
+   },
+   {
+    "name": "East",
     "uuid": "3db9bb19-95cd-4b47-97be-a29d2cab8d3f",
     "createdAt": 1791728383315,
     "createdBy": "Luelia",
@@ -1064,6 +1100,18 @@
      "x": -17072,
      "y": 64,
      "z": -32016
+    }
+   },
+   {
+    "name": "Tower",
+    "uuid": "6eea40ab-1048-4e83-b31b-00f940e1f5e7",
+    "createdAt": 1793826195881,
+    "createdBy": "Lueeeh",
+    "access": "RESIDENT",
+    "location": {
+     "x": -17077,
+     "y": 79,
+     "z": -31994
     }
    }
   ],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Rorinah",
   "uuid": "f266b998-5364-467f-9f48-11c92ab19b64",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 19,
    "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 48.0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,15 @@
    "townBlocks": [
     [
      -1298,
+     1242
+    ],
+    [
+     -1298,
      1241
+    ],
+    [
+     -1301,
+     1239
     ],
     [
      -1298,
@@ -110,22 +118,38 @@
     [
      -1300,
      1240
+    ],
+    [
+     -1300,
+     1243
+    ],
+    [
+     -1299,
+     1243
     ],
     [
      -1300,
      1242
     ],
     [
+     -1301,
+     1241
+    ],
+    [
      -1299,
      1241
     ],
     [
      -1301,
-     1241
+     1240
+    ],
+    [
+     -1299,
+     1242
     ],
     [
      -1301,
-     1240
+     1243
     ],
     [
      -1300,
@@ -134,6 +158,10 @@
     [
      -1299,
      1239
+    ],
+    [
+     -1301,
+     1242
     ],
     [
      -1299,
@@ -150,10 +178,6 @@
   ],
   "trusted": [
    {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
-   },
-   {
     "name": "ooows",
     "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
    },
@@ -162,7 +186,12 @@
     "uuid": "4fe857eb-0eb4-47c8-8fe8-0cfba93e510c"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Kpc",
-  "uuid": "610072be-5406-464b-8688-4010191e577a",
+  "name": "Naypyidaw",
+  "uuid": "da3ce5dd-920b-4e71-85e6-4bd13ccd8f3e",
   "board": "/town set board [msg]",
-  "founder": "Emirdomuryamyam",
+  "founder": "HFQOIJKCOIQ",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "tenshurei",
-   "uuid": "73f7b9ad-96e1-45a8-83a7-bf6c6c4e6f55"
+   "name": "HFQOIJKCOIQ",
+   "uuid": "ff6f66c3-ed21-4cef-98c8-b8d7f01bf60c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Narmada",
+   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
   },
   "timestamps": {
-   "registered": 1788814252153,
-   "joinedNationAt": null,
+   "registered": 1794302596010,
+   "joinedNationAt": 1794302772911,
    "ruinedAt": null
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 99.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,123 +73,130 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 38008.50407176929,
-    "y": 40.0,
-    "z": -13991.945192632855,
-    "pitch": 0.8903043,
-    "yaw": 0.07119751
+    "x": 34490.69999998808,
+    "y": 63.0,
+    "z": 853.6999999880791,
+    "pitch": 89.55956,
+    "yaw": 35.578075
    },
    "homeBlock": [
-    2375,
-    -875
+    2155,
+    53
    ],
    "townBlocks": [
     [
-     2376,
-     -878
+     2155,
+     52
     ],
     [
-     2378,
-     -875
+     2153,
+     54
     ],
     [
-     2376,
-     -877
+     2155,
+     53
     ],
     [
-     2376,
-     -876
+     2155,
+     54
     ],
     [
-     2376,
-     -875
+     2153,
+     53
     ],
     [
-     2376,
-     -874
+     2153,
+     52
     ],
     [
-     2374,
-     -878
+     2153,
+     51
     ],
     [
-     2373,
-     -875
+     2153,
+     50
     ],
     [
-     2374,
-     -877
+     2154,
+     50
     ],
     [
-     2377,
-     -875
+     2154,
+     53
     ],
     [
-     2374,
-     -876
+     2152,
+     52
     ],
     [
-     2377,
-     -874
+     2154,
+     54
     ],
     [
-     2374,
-     -875
+     2152,
+     53
     ],
     [
-     2374,
-     -874
+     2154,
+     51
     ],
     [
-     2377,
-     -876
+     2152,
+     50
     ],
     [
-     2375,
-     -875
+     2154,
+     52
     ],
     [
-     2375,
-     -876
+     2152,
+     51
     ],
     [
-     2375,
-     -874
+     2156,
+     54
     ],
     [
-     2375,
-     -877
+     2156,
+     53
     ],
     [
-     2375,
-     -878
+     2152,
+     54
+    ],
+    [
+     2156,
+     52
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "tenshurei",
-    "uuid": "73f7b9ad-96e1-45a8-83a7-bf6c6c4e6f55"
+    "name": "HFQOIJKCOIQ",
+    "uuid": "ff6f66c3-ed21-4cef-98c8-b8d7f01bf60c"
+   },
+   {
+    "name": "loumutxdy",
+    "uuid": "9fecdb69-e223-4bc7-a513-3f5a470146f2"
+   },
+   {
+    "name": "chococat114514",
+    "uuid": "0a9509f5-1aba-46fc-97fb-802afe62f91e"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "tenshurei",
-     "uuid": "73f7b9ad-96e1-45a8-83a7-bf6c6c4e6f55"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Vatican_City",
   "uuid": "e809426e-ceed-4767-8460-fb88249ac57b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 523,
-   "maxTownBlocks": 596,
+   "maxTownBlocks": 588,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 43,
+   "nationBonus": 60,
+   "numResidents": 44,
    "numTrusted": 30,
    "numOutlaws": 0,
-   "balance": 242.0,
+   "balance": 232.0,
    "forSalePrice": null
   },
   "perms": {
@@ -2212,10 +2212,6 @@
     "uuid": "4242f002-2489-443e-8fbe-95c280bf3e3f"
    },
    {
-    "name": "Zoxf_",
-    "uuid": "02111925-3db7-4438-9cde-2c53b5d40eef"
-   },
-   {
     "name": "dilster2000",
     "uuid": "ab4da2b2-0bca-4017-be8f-d9f88561fcf1"
    },
@@ -2232,32 +2228,8 @@
     "uuid": "e14d2794-466a-4a78-ba98-b8105a197832"
    },
    {
-    "name": "Ciastecko",
-    "uuid": "6b184cf6-ebc2-413d-bad2-cf05d8ab4b5b"
-   },
-   {
-    "name": "ThaEternalKiwi",
-    "uuid": "3fc040a3-40a4-407a-ad4a-0d1233414c1b"
-   },
-   {
-    "name": "TigermanAZ",
-    "uuid": "c560b901-3af2-4ff5-8776-657378c6dd3d"
-   },
-   {
-    "name": "RValueBits",
-    "uuid": "2a0dcb3e-88de-4fb7-bb26-d16dd62dd2ae"
-   },
-   {
     "name": "yogo_4",
     "uuid": "237efa43-661b-48c0-b4b3-bd6c00ae2936"
-   },
-   {
-    "name": "DustlessTexas84",
-    "uuid": "c48d2269-b596-4b79-9830-58d93a84106a"
-   },
-   {
-    "name": "ashperry345",
-    "uuid": "90a64016-c594-48ce-975b-68dc4dc2de30"
    },
    {
     "name": "EdoardoXXVIII",
@@ -2332,10 +2304,6 @@
     "uuid": "f5a6eb16-f9ef-4662-bc2e-d4cb45770c1e"
    },
    {
-    "name": "Sazinom",
-    "uuid": "a2c92a3b-aaad-4afa-8053-3f678e326780"
-   },
-   {
     "name": "storayt",
     "uuid": "2df8e647-098a-4b39-9cef-0405bd3dc9f3"
    },
@@ -2356,8 +2324,44 @@
     "uuid": "0b978e52-15ea-49ed-a50f-388f74397a44"
    },
    {
+    "name": "CrispMiner12",
+    "uuid": "70497fe9-c43f-48ed-9d91-b2dd0e78be43"
+   },
+   {
     "name": "Heinrich_Pablo67",
     "uuid": "9dbc2b27-f28c-4b65-8bb2-8a8945c3eec5"
+   },
+   {
+    "name": "Anomactronics",
+    "uuid": "2163f422-69f0-473a-bd74-4f7e157bda2a"
+   },
+   {
+    "name": "Eviltwn",
+    "uuid": "0579e400-e954-4ec9-958f-7fe5fab4a97e"
+   },
+   {
+    "name": "Broken_Analysis",
+    "uuid": "183e5308-f790-47e3-9680-7340c263280b"
+   },
+   {
+    "name": "RandovMan",
+    "uuid": "b9f348b8-b4f6-4678-972e-0f432fa9ff27"
+   },
+   {
+    "name": "Lewizzboi",
+    "uuid": "4f4ecd59-f103-45d8-86ff-5dfd81ca45c2"
+   },
+   {
+    "name": "Faddo333",
+    "uuid": "020c3cf9-a1e6-4eb4-940c-ad0b28550568"
+   },
+   {
+    "name": "cowisgone2",
+    "uuid": "ac4d800c-d4c5-4a6f-91d0-0a1d422cf648"
+   },
+   {
+    "name": "Sazinom",
+    "uuid": "a2c92a3b-aaad-4afa-8053-3f678e326780"
    }
   ],
   "trusted": [
@@ -2493,10 +2497,6 @@
     "uuid": "f595c1dd-b397-4f2a-99be-847c8a48ae6b"
    },
    {
-    "name": "Welcoming Dwelling",
-    "uuid": "10891507-9abf-4272-ac57-dc255e2eb5c7"
-   },
-   {
     "name": "Cheerful Apartment",
     "uuid": "8a1ad829-d3c5-4ffb-bb72-9851143894ae"
    },
@@ -2543,10 +2543,6 @@
    {
     "name": "Dull Quarter",
     "uuid": "98533566-1b37-49e8-a07d-f796056f125d"
-   },
-   {
-    "name": "Inviting Suite",
-    "uuid": "f7e1546f-1634-4ab1-833d-ed3bd413bb0e"
    },
    {
     "name": "Stylish Flat",
@@ -2619,6 +2615,14 @@
    {
     "name": "Annoying Flat",
     "uuid": "6e25dc13-642d-4d36-bdf9-6ad834e6963e"
+   },
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "10891507-9abf-4272-ac57-dc255e2eb5c7"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "f7e1546f-1634-4ab1-833d-ed3bd413bb0e"
    }
   ],
   "ranks": {
@@ -2626,15 +2630,14 @@
     {
      "name": "x_omega_",
      "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
+    },
+    {
+     "name": "RandovMan",
+     "uuid": "b9f348b8-b4f6-4678-972e-0f432fa9ff27"
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "dilster2000",
-     "uuid": "ab4da2b2-0bca-4017-be8f-d9f88561fcf1"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
-  "name": "Yay",
-  "uuid": "a2735dfa-3a06-4519-bee2-4a74306111e5",
+  "name": "Gang",
+  "uuid": "2f0e36da-8000-4d50-bba6-d5f523edb101",
   "board": "/town set board [msg]",
-  "founder": "WolfDruid94",
+  "founder": "caciki_",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC72",
-   "uuid": "d0ebe7bb-debf-2012-afbc-98d241e8ee64"
+   "name": "caciki_",
+   "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
-   "registered": 1794038804266,
-   "joinedNationAt": null,
-   "ruinedAt": 1794042334318
+   "registered": 1794313719792,
+   "joinedNationAt": 1794313728392,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,61 +47,65 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 36279.69999998808,
-    "y": 71.0,
-    "z": 7857.699999988079,
-    "pitch": 25.04996,
-    "yaw": 174.0
+    "x": 10165.84689300404,
+    "y": 73.0,
+    "z": -6973.542832848511,
+    "pitch": 19.182777,
+    "yaw": -16.100525
    },
    "homeBlock": [
-    2267,
-    491
+    635,
+    -436
    ],
    "townBlocks": [
     [
-     2267,
-     491
+     635,
+     -436
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC72",
-    "uuid": "d0ebe7bb-debf-2012-afbc-98d241e8ee64"
+    "name": "caciki_",
+    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
+   },
+   {
+    "name": "sneypx2",
+    "uuid": "88d6d31c-f4ee-46f2-94df-725173ce9e7a"
    }
   ],
   "trusted": [],

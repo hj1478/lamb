@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Bermof",
   "uuid": "f932e634-0b33-4050-8f65-b3e99f60a1d6",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "thunderballfx",
-   "uuid": "5b1a62d8-7d22-4188-ae82-b5e6da79d021"
+   "name": "Seppioman",
+   "uuid": "9b93c132-f157-43a4-9f01-d539c235fd7e"
   },
   "nation": {
    "name": "Norway",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 70,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 75,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 3,
-   "balance": 51.0,
+   "balance": 67.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,7 +101,15 @@
     ],
     [
      209,
+     -1153
+    ],
+    [
+     209,
      -1154
+    ],
+    [
+     209,
+     -1152
     ],
     [
      216,
@@ -148,19 +156,15 @@
      -1154
     ],
     [
+     212,
+     -1153
+    ],
+    [
      214,
      -1154
     ],
     [
-     212,
-     -1153
-    ],
-    [
      219,
-     -1153
-    ],
-    [
-     214,
      -1153
     ],
     [
@@ -168,28 +172,32 @@
      -1152
     ],
     [
-     219,
-     -1152
+     214,
+     -1153
     ],
     [
-     214,
-     -1156
+     219,
+     -1152
     ],
     [
      212,
      -1151
     ],
     [
-     219,
-     -1155
+     214,
+     -1156
     ],
     [
-     214,
+     219,
      -1155
     ],
     [
      212,
      -1150
+    ],
+    [
+     214,
+     -1155
     ],
     [
      219,
@@ -206,6 +214,14 @@
     [
      216,
      -1150
+    ],
+    [
+     208,
+     -1154
+    ],
+    [
+     208,
+     -1153
     ],
     [
      210,
@@ -225,6 +241,10 @@
     ],
     [
      211,
+     -1152
+    ],
+    [
+     210,
      -1152
     ],
     [
@@ -382,9 +402,18 @@
    {
     "name": "thunderballfx",
     "uuid": "5b1a62d8-7d22-4188-ae82-b5e6da79d021"
+   },
+   {
+    "name": "praline3276",
+    "uuid": "e94395cb-52be-4fb3-972b-0eb5df8ea610"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "praline3276",
+    "uuid": "e94395cb-52be-4fb3-972b-0eb5df8ea610"
+   }
+  ],
   "outlaws": [
    {
     "name": "accvir",
@@ -401,7 +430,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "thunderballfx",
+     "uuid": "5b1a62d8-7d22-4188-ae82-b5e6da79d021"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

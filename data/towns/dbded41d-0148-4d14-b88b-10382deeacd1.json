@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Dobric",
   "uuid": "dbded41d-0148-4d14-b88b-10382deeacd1",
-  "board": "/town set board [msg]",
+  "board": "bate nema ko da stane",
   "founder": "Ali4leKab4m",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Niko_112340",
-   "uuid": "cf179bb9-5f66-4a27-8b4c-470ec1c71f09"
+   "name": "Ali4leKab4m",
+   "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
   },
   "nation": {
-   "name": "Bulgaria",
-   "uuid": "30ea9324-4ca2-4aca-9f9f-8b021b4c0321"
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1788798053343,
-   "joinedNationAt": 1791400908810,
+   "joinedNationAt": 1793979988508,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 6,
+   "nationBonus": 100,
+   "numResidents": 7,
    "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 16.0,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9991.237500011921,
+    "x": 9991.540382750794,
     "y": 65.0,
-    "z": -8802.668721464088,
-    "pitch": 21.971748,
-    "yaw": -111.13843
+    "z": -8802.667792228562,
+    "pitch": -1.9122583,
+    "yaw": -179.82553
    },
    "homeBlock": [
     624,
@@ -93,6 +93,14 @@
    "townBlocks": [
     [
      623,
+     -548
+    ],
+    [
+     623,
+     -549
+    ],
+    [
+     623,
      -550
     ],
     [
@@ -162,6 +170,14 @@
     [
      621,
      -550
+    ],
+    [
+     624,
+     -548
+    ],
+    [
+     624,
+     -549
     ],
     [
      620,
@@ -190,6 +206,10 @@
     [
      622,
      -550
+    ],
+    [
+     622,
+     -549
     ]
    ],
    "worlds": {
@@ -225,12 +245,16 @@
     "uuid": "249c0f06-41c0-4721-ba9b-2418d6627401"
    },
    {
-    "name": "Ivankonator",
-    "uuid": "3f891723-6945-42fe-92c4-586db0bb19ea"
-   },
-   {
     "name": "Ali4leKab4m",
     "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
+   },
+   {
+    "name": "H_0_Z",
+    "uuid": "76065e7e-4117-4ed8-8f29-046f87f7ad03"
+   },
+   {
+    "name": "Ghostpehd",
+    "uuid": "6d9ce928-f49e-44b7-ba40-542062a2efa7"
    }
   ],
   "trusted": [
@@ -255,14 +279,6 @@
     "uuid": "c40b6c83-2866-4231-8096-c6832d217b04"
    },
    {
-    "name": "Luxurious Quarter",
-    "uuid": "f56c8564-915e-41c9-b040-8ca7e2acf4e5"
-   },
-   {
-    "name": "Upbeat Property",
-    "uuid": "76d01fc1-d788-4706-8aae-6a8ec06b69da"
-   },
-   {
     "name": "Annoying Flat",
     "uuid": "4c7f1086-13fe-47de-a222-7cff0e081433"
    },
@@ -273,16 +289,35 @@
    {
     "name": "Bland Apartment",
     "uuid": "20ac2d24-ffc8-45fe-8d7c-3f6e1d2b9c99"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "8adedb21-9ba1-4ce1-b119-29ce1c81c613"
+   },
+   {
+    "name": "Business St.",
+    "uuid": "8effbaf7-1ba8-49f1-86a3-532e137b21d4"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "79596418-5bb4-49f9-875e-576d15a027c1"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "d8929ed6-4da2-43f6-8751-7ae91bc6b4d2"
+   },
+   {
+    "name": "Purva St.",
+    "uuid": "9b5ef9c6-4c43-4527-b945-3c4200fdb4e4"
+   },
+   {
+    "name": "icecream truck",
+    "uuid": "a0643d5f-8227-4512-8a96-15e131c60873"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Niko_112340",
-     "uuid": "cf179bb9-5f66-4a27-8b4c-470ec1c71f09"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

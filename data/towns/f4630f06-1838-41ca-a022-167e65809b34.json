@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T14:26:38Z",
+ "fetched_at": "2026-11-10T14:59:54Z",
  "data": {
   "name": "Saint-Etienne",
   "uuid": "f4630f06-1838-41ca-a022-167e65809b34",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 38,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 59,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 138.0,
+   "numResidents": 3,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -92,12 +92,12 @@
    ],
    "townBlocks": [
     [
-     75,
-     -592
+     71,
+     -588
     ],
     [
-     75,
-     -591
+     71,
+     -587
     ],
     [
      74,
@@ -108,6 +108,10 @@
      -591
     ],
     [
+     76,
+     -585
+    ],
+    [
      74,
      -592
     ],
@@ -160,11 +164,11 @@
      -588
     ],
     [
-     71,
-     -592
+     74,
+     -585
     ],
     [
-     71,
+     76,
      -591
     ],
     [
@@ -176,12 +180,8 @@
      -590
     ],
     [
-     71,
-     -590
-    ],
-    [
-     71,
-     -589
+     72,
+     -593
     ],
     [
      72,
@@ -208,6 +208,18 @@
      -587
     ],
     [
+     72,
+     -586
+    ],
+    [
+     72,
+     -585
+    ],
+    [
+     73,
+     -585
+    ],
+    [
      73,
      -590
     ],
@@ -217,11 +229,79 @@
     ],
     [
      73,
+     -592
+    ],
+    [
+     73,
+     -593
+    ],
+    [
+     75,
+     -593
+    ],
+    [
+     75,
      -592
     ],
     [
      75,
+     -591
+    ],
+    [
+     71,
+     -593
+    ],
+    [
+     71,
+     -592
+    ],
+    [
+     70,
+     -591
+    ],
+    [
+     77,
+     -586
+    ],
+    [
+     71,
+     -591
+    ],
+    [
+     70,
+     -592
+    ],
+    [
+     77,
+     -587
+    ],
+    [
+     71,
      -590
+    ],
+    [
+     70,
+     -589
+    ],
+    [
+     71,
+     -589
+    ],
+    [
+     70,
+     -590
+    ],
+    [
+     77,
+     -585
+    ],
+    [
+     75,
+     -590
+    ],
+    [
+     70,
+     -588
     ],
     [
      75,
@@ -242,6 +322,10 @@
     [
      75,
      -586
+    ],
+    [
+     75,
+     -585
     ]
    ],
    "worlds": {}
@@ -252,20 +336,46 @@
     "uuid": "f0be7690-9311-46c0-8400-ae4b079766a1"
    },
    {
-    "name": "KorbenBalez",
-    "uuid": "66377780-e7e6-4a5d-8327-54b0d889b160"
+    "name": "L1L14N13",
+    "uuid": "fffad280-63d6-42f7-a53c-dcd75f29d9b5"
+   },
+   {
+    "name": "Perlinpinp1",
+    "uuid": "e2b6efe0-186f-4a3d-8b1a-43e7109ce848"
    }
   ],
   "trusted": [
    {
-    "name": "KorbenBalez",
-    "uuid": "66377780-e7e6-4a5d-8327-54b0d889b160"
+    "name": "kalqev",
+    "uuid": "e648558e-9528-49b1-b537-7ec33170c860"
+   },
+   {
+    "name": "L1L14N13",
+    "uuid": "fffad280-63d6-42f7-a53c-dcd75f29d9b5"
+   },
+   {
+    "name": "Perlinpinp1",
+    "uuid": "e2b6efe0-186f-4a3d-8b1a-43e7109ce848"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Costel_Biju",
+    "uuid": "30aa709b-965c-48ee-946f-67ab79a386de"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "L1L14N13",
+     "uuid": "fffad280-63d6-42f7-a53c-dcd75f29d9b5"
+    },
+    {
+     "name": "Perlinpinp1",
+     "uuid": "e2b6efe0-186f-4a3d-8b1a-43e7109ce848"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
