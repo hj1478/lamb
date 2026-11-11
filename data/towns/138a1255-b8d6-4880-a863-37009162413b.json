@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Asse",
   "uuid": "138a1255-b8d6-4880-a863-37009162413b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 2,
+   "numResidents": 1,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     169,
+     -783
+    ],
+    [
+     169,
+     -782
+    ],
+    [
      170,
      -782
     ]
@@ -102,16 +110,16 @@
    {
     "name": "creepermaster246",
     "uuid": "febcf4d9-6f22-4e49-a55e-aea5de863c60"
-   },
-   {
-    "name": "JTben07",
-    "uuid": "9b480f3a-10d2-4d6b-94e8-9c38e939f552"
    }
   ],
   "trusted": [
    {
     "name": "JTben07",
     "uuid": "9b480f3a-10d2-4d6b-94e8-9c38e939f552"
+   },
+   {
+    "name": "Symphony3577",
+    "uuid": "427c388f-2b79-422c-b1a9-dc79058b940f"
    },
    {
     "name": "lizzel_ruby",
@@ -121,12 +129,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "JTben07",
-     "uuid": "9b480f3a-10d2-4d6b-94e8-9c38e939f552"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

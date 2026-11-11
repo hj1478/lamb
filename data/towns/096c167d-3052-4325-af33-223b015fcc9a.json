@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Paphlagonia",
   "uuid": "096c167d-3052-4325-af33-223b015fcc9a",
@@ -12,35 +12,35 @@
    "uuid": "c6c98f05-a0ef-4b6b-8e3e-b232c56e3f88"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
    "registered": 1777719967626,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793903542923,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 42,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 51,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 36.0,
    "forSalePrice": null
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      784,
+     -500
+    ],
+    [
+     784,
      -494
     ],
     [
@@ -137,6 +141,10 @@
     ],
     [
      786,
+     -496
+    ],
+    [
+     786,
      -493
     ],
     [
@@ -157,11 +165,39 @@
     ],
     [
      785,
+     -496
+    ],
+    [
+     786,
+     -497
+    ],
+    [
+     785,
      -495
+    ],
+    [
+     786,
+     -498
     ],
     [
      790,
      -490
+    ],
+    [
+     785,
+     -498
+    ],
+    [
+     785,
+     -497
+    ],
+    [
+     785,
+     -500
+    ],
+    [
+     785,
+     -499
     ],
     [
      790,
@@ -272,6 +308,10 @@
    {
     "name": "Aaaron_Kalahari",
     "uuid": "c6c98f05-a0ef-4b6b-8e3e-b232c56e3f88"
+   },
+   {
+    "name": "k7r9m",
+    "uuid": "3cd52480-05aa-4764-b237-50ce4fbb5a65"
    }
   ],
   "outlaws": [],

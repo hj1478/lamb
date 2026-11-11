@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Vagharshapat",
   "uuid": "0a78bb1d-042c-417e-9e86-ebc74d067655",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Master_CFS",
-   "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
+   "name": "Scrues",
+   "uuid": "0c7d1804-2833-49c3-82b2-51cabf2c5a69"
   },
   "nation": {
    "name": "Armenia",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 98,
-   "maxTownBlocks": 96,
+   "numTownBlocks": 96,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 3,
-   "numTrusted": 15,
+   "numTrusted": 16,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -192,10 +192,6 @@
      -454
     ],
     [
-     980,
-     -455
-    ],
-    [
      979,
      -447
     ],
@@ -353,10 +349,6 @@
     ],
     [
      981,
-     -456
-    ],
-    [
-     981,
      -455
     ],
     [
@@ -488,16 +480,16 @@
   },
   "residents": [
    {
-    "name": "Master_CFS",
-    "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
-   },
-   {
     "name": "Chrizz",
     "uuid": "48d85138-f45e-4b3d-aaa3-29a719540d7f"
    },
    {
     "name": "MeemoorQeoR",
     "uuid": "6221b3d4-95ff-4708-8212-9af61e54bfff"
+   },
+   {
+    "name": "Scrues",
+    "uuid": "0c7d1804-2833-49c3-82b2-51cabf2c5a69"
    }
   ],
   "trusted": [
@@ -528,6 +520,10 @@
    {
     "name": "Gorik782",
     "uuid": "56ebbd9c-6dd2-40eb-af2d-d740090a6962"
+   },
+   {
+    "name": "Master_CFS",
+    "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
    },
    {
     "name": "OMGdiamond888",
@@ -676,12 +672,7 @@
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "Master_CFS",
-     "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

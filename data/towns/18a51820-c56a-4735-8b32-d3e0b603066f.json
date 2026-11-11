@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Buckhead_Ridge",
   "uuid": "18a51820-c56a-4735-8b32-d3e0b603066f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Bruno0929",
-   "uuid": "8a37f95d-472e-45c2-8f06-bb0e59ef9bc7"
+   "name": "NPC68",
+   "uuid": "28c40faf-df75-2074-b901-7e944b09fe9e"
   },
   "nation": {
-   "name": "Florida",
-   "uuid": "6cbea29c-2f48-418c-89cf-0f1d2c76b825"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777922553249,
-   "joinedNationAt": 1777922631108,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794218721560
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 22,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -184,8 +184,8 @@
   },
   "residents": [
    {
-    "name": "Bruno0929",
-    "uuid": "8a37f95d-472e-45c2-8f06-bb0e59ef9bc7"
+    "name": "NPC68",
+    "uuid": "28c40faf-df75-2074-b901-7e944b09fe9e"
    }
   ],
   "trusted": [

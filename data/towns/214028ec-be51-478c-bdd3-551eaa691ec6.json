@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Valmyria",
   "uuid": "214028ec-be51-478c-bdd3-551eaa691ec6",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 52,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 5,
-   "numTrusted": 4,
+   "numResidents": 4,
+   "numTrusted": 3,
    "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
@@ -316,10 +316,6 @@
     "uuid": "f2fe8690-e74b-418e-8591-ca6e5cc3ca20"
    },
    {
-    "name": "just_me1o",
-    "uuid": "873d604c-e25c-4ce6-a6ca-bfd06fdc899a"
-   },
-   {
     "name": "forcrafter",
     "uuid": "3de9a336-1c48-4274-a192-45fa84a76de2"
    }
@@ -332,10 +328,6 @@
    {
     "name": "Ionao",
     "uuid": "72ed9a0e-5ddc-4afe-9af5-d6f261e7ea72"
-   },
-   {
-    "name": "just_me1o",
-    "uuid": "873d604c-e25c-4ce6-a6ca-bfd06fdc899a"
    },
    {
     "name": "forcrafter",
@@ -419,19 +411,9 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "just_me1o",
-     "uuid": "873d604c-e25c-4ce6-a6ca-bfd06fdc899a"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "just_me1o",
-     "uuid": "873d604c-e25c-4ce6-a6ca-bfd06fdc899a"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

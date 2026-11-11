@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Saint-Paul",
   "uuid": "1e6a1d66-aadf-4083-aa43-1567862e10cf",
@@ -35,25 +35,25 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 56,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 2,
-   "balance": 10.0,
+   "numResidents": 5,
+   "numTrusted": 6,
+   "numOutlaws": 6,
+   "balance": 56.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
@@ -65,7 +65,7 @@
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -73,24 +73,76 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 19934.338035653625,
-    "y": 87.0,
-    "z": 15694.563398171096,
-    "pitch": 36.179546,
-    "yaw": -91.59842
+    "x": 19919.062548868882,
+    "y": 91.0,
+    "z": 15685.755207813208,
+    "pitch": 26.545162,
+    "yaw": -1.8484497
    },
    "homeBlock": [
-    1245,
+    1244,
     980
    ],
    "townBlocks": [
+    [
+     1238,
+     984
+    ],
+    [
+     1238,
+     983
+    ],
+    [
+     1238,
+     982
+    ],
+    [
+     1238,
+     981
+    ],
+    [
+     1242,
+     982
+    ],
+    [
+     1242,
+     981
+    ],
+    [
+     1242,
+     984
+    ],
+    [
+     1242,
+     983
+    ],
+    [
+     1242,
+     978
+    ],
+    [
+     1246,
+     985
+    ],
+    [
+     1242,
+     980
+    ],
+    [
+     1246,
+     984
+    ],
+    [
+     1242,
+     979
+    ],
     [
      1239,
      982
@@ -124,22 +176,90 @@
      983
     ],
     [
+     1244,
+     984
+    ],
+    [
      1240,
      982
+    ],
+    [
+     1244,
+     985
     ],
     [
      1240,
      981
     ],
     [
+     1244,
+     982
+    ],
+    [
      1240,
      980
+    ],
+    [
+     1244,
+     983
+    ],
+    [
+     1242,
+     985
+    ],
+    [
+     1240,
+     984
+    ],
+    [
+     1243,
+     982
+    ],
+    [
+     1243,
+     983
+    ],
+    [
+     1243,
+     984
+    ],
+    [
+     1243,
+     985
+    ],
+    [
+     1245,
+     982
+    ],
+    [
+     1245,
+     983
+    ],
+    [
+     1245,
+     984
+    ],
+    [
+     1245,
+     985
+    ],
+    [
+     1245,
+     979
     ],
     [
      1245,
      980
     ],
     [
+     1245,
+     981
+    ],
+    [
+     1243,
+     978
+    ],
+    [
      1243,
      979
     ],
@@ -168,32 +288,32 @@
      979
     ],
     [
-     1238,
+     1241,
+     978
+    ],
+    [
+     1241,
+     985
+    ],
+    [
+     1241,
+     984
+    ],
+    [
+     1241,
      983
-    ],
-    [
-     1238,
-     982
-    ],
-    [
-     1238,
-     981
-    ],
-    [
-     1242,
-     981
     ],
     [
      1240,
      979
     ],
     [
-     1242,
-     980
+     1239,
+     984
     ],
     [
-     1242,
-     979
+     1239,
+     985
     ]
    ],
    "worlds": {}
@@ -206,9 +326,46 @@
    {
     "name": "reallyretrofr",
     "uuid": "94fe981f-d678-4eb8-a3d4-967194b46984"
+   },
+   {
+    "name": "Zerojjcult12",
+    "uuid": "b3f04eb4-dcad-455a-947e-d6d76ea64b35"
+   },
+   {
+    "name": "Lotlaxo",
+    "uuid": "f58f5e46-2666-41bb-8ad4-dfd0af1c0c54"
+   },
+   {
+    "name": "CryBabyKlown",
+    "uuid": "827874b3-5ffa-448d-bf78-6fc1c6da6071"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Breachinho",
+    "uuid": "c99d4771-f844-4eff-b2ac-aee086d15bbe"
+   },
+   {
+    "name": "__Zilla__",
+    "uuid": "b424016f-421b-461b-9ffa-b25f7da41abd"
+   },
+   {
+    "name": "Lotlaxo",
+    "uuid": "f58f5e46-2666-41bb-8ad4-dfd0af1c0c54"
+   },
+   {
+    "name": "RunnySideUp",
+    "uuid": "2984a1fc-ab25-4ddf-acbe-5a3f3a2f88c5"
+   },
+   {
+    "name": "aanari",
+    "uuid": "d5b6a210-2228-47d3-8e0c-f3be1d4de5be"
+   },
+   {
+    "name": "CryBabyKlown",
+    "uuid": "827874b3-5ffa-448d-bf78-6fc1c6da6071"
+   }
+  ],
   "outlaws": [
    {
     "name": "BIG_ALL_IN",
@@ -217,17 +374,75 @@
    {
     "name": "lilbludthetaxman",
     "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
+   },
+   {
+    "name": "Tsunlam123",
+    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+   },
+   {
+    "name": "kbbnm",
+    "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
+   },
+   {
+    "name": "nico97cath",
+    "uuid": "09087bf1-8aae-4ffe-a17c-2c2a542c1b67"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Luxurious Flat",
+    "uuid": "d5e6760c-cbc8-4979-87f8-279dd172a39b"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "ed9c6e5b-78ac-4a2a-a246-a1559faaf661"
+   },
+   {
+    "name": "Breach's Réunion Apartment",
+    "uuid": "22e52031-a0e0-46e4-9e2a-beb838164745"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "5548656e-2b47-45ec-ae1a-5b12909c8276"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "a6d9dfdf-6236-4672-a004-3ef0b604f701"
+   },
+   {
+    "name": "community chest",
+    "uuid": "317a5f7e-6e9d-4b0a-b9d7-0c5f64b3d94a"
+   },
+   {
+    "name": "Lovely Dwelling",
+    "uuid": "f2bb4729-d95e-421f-9c83-00da24334a18"
+   },
+   {
+    "name": "Dingy Suite",
+    "uuid": "640b629a-e027-4955-83fe-7a2e1da46b65"
+   }
+  ],
   "ranks": {
    "Councillor": [
     {
      "name": "reallyretrofr",
      "uuid": "94fe981f-d678-4eb8-a3d4-967194b46984"
+    },
+    {
+     "name": "Zerojjcult12",
+     "uuid": "b3f04eb4-dcad-455a-947e-d6d76ea64b35"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Zerojjcult12",
+     "uuid": "b3f04eb4-dcad-455a-947e-d6d76ea64b35"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [

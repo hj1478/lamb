@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Somniora_Haven",
   "uuid": "17c7baa6-1e88-4078-aee4-b9960b04fa5a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
+   "numTownBlocks": 32,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,28 @@
    ],
    "townBlocks": [
     [
+     2078,
+     -150
+    ],
+    [
+     2078,
+     -151
+    ],
+    [
+     2078,
+     -149
+    ],
+    [
+     2076,
+     -152
+    ],
+    [
      2076,
      -151
+    ],
+    [
+     2076,
+     -153
     ],
     [
      2076,
@@ -108,28 +128,36 @@
      -151
     ],
     [
+     2074,
+     -149
+    ],
+    [
      2077,
      -152
     ],
     [
-     2074,
-     -149
-    ],
-    [
-     2075,
-     -149
+     2073,
+     -153
     ],
     [
      2074,
      -150
     ],
     [
+     2075,
+     -149
+    ],
+    [
      2074,
      -151
     ],
     [
-     2075,
-     -151
+     2072,
+     -152
+    ],
+    [
+     2073,
+     -154
     ],
     [
      2074,
@@ -137,39 +165,59 @@
     ],
     [
      2075,
-     -150
-    ],
-    [
-     2078,
-     -150
-    ],
-    [
-     2078,
      -151
+    ],
+    [
+     2074,
+     -153
+    ],
+    [
+     2075,
+     -150
+    ],
+    [
+     2074,
+     -154
+    ],
+    [
+     2075,
+     -153
     ],
     [
      2075,
      -152
-    ],
-    [
-     2078,
-     -149
     ],
     [
      2073,
      -151
     ],
     [
+     2072,
+     -153
+    ],
+    [
+     2073,
+     -152
+    ],
+    [
+     2072,
+     -154
+    ],
+    [
      2077,
      -149
     ],
     [
+     2073,
+     -150
+    ],
+    [
      2077,
      -150
     ],
     [
-     2073,
-     -150
+     2071,
+     -153
     ]
    ],
    "worlds": {}
@@ -182,8 +230,36 @@
   ],
   "trusted": [
    {
+    "name": "slovensko123",
+    "uuid": "9962af7e-5ae2-4b6f-b835-3db3f7aa8edc"
+   },
+   {
     "name": "Magmark",
     "uuid": "1020b785-2dd4-499e-9d50-91e5706095dd"
+   },
+   {
+    "name": "spartan8806",
+    "uuid": "a01f3402-f5a3-4850-a33e-dd5ead872bee"
+   },
+   {
+    "name": "Leobinchill",
+    "uuid": "035088d8-7550-41e9-9601-fd3fa2068f7e"
+   },
+   {
+    "name": "RhiaMoriarty",
+    "uuid": "0cd420a0-7253-4267-ac96-4db124df412f"
+   },
+   {
+    "name": "_tuttopassa_",
+    "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
+   },
+   {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
+    "name": "BassyCakes26",
+    "uuid": "05039e6d-1943-4948-aa45-2b181515b3a6"
    }
   ],
   "outlaws": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Frogtopia",
   "uuid": "1250e256-6295-4b1c-b71d-4dff65882168",
-  "board": "/town set board [msg]",
+  "board": "If you attack this town you will be dead in minutes i swear",
   "founder": "Darth_Frog",
   "wiki": null,
   "discord": null,
@@ -22,24 +22,24 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 1,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -96,18 +96,42 @@
      -1203
     ],
     [
+     1297,
+     -1202
+    ],
+    [
+     1297,
+     -1201
+    ],
+    [
+     1297,
+     -1200
+    ],
+    [
+     1296,
+     -1202
+    ],
+    [
+     1300,
+     -1203
+    ],
+    [
+     1300,
+     -1202
+    ],
+    [
+     1300,
+     -1201
+    ],
+    [
+     1296,
+     -1201
+    ],
+    [
      1299,
      -1203
     ],
     [
-     1297,
-     -1202
-    ],
-    [
-     1297,
-     -1201
-    ],
-    [
      1299,
      -1201
     ],
@@ -116,19 +140,11 @@
      -1202
     ],
     [
-     1296,
-     -1202
-    ],
-    [
      1298,
      -1202
     ],
     [
      1298,
-     -1201
-    ],
-    [
-     1296,
      -1201
     ],
     [
@@ -142,11 +158,36 @@
    {
     "name": "Darth_Frog",
     "uuid": "c11338b3-9f9b-4318-b1e1-09c2e5277080"
+   },
+   {
+    "name": "Mortarion6789",
+    "uuid": "57806801-09b0-40fa-9862-bcf4f89dd33d"
+   },
+   {
+    "name": "leo47473",
+    "uuid": "dfcc7768-7258-4731-b718-9d6cbe91c56c"
+   },
+   {
+    "name": "DualEyedCyclops",
+    "uuid": "0cf6eb05-2ac3-4d03-b7ed-a99284baf7f9"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "a9db20ec-8c6c-4d5e-86e2-99aa395575b1"
+   },
+   {
+    "name": "Elegant Tenement",
+    "uuid": "c752eca8-f578-4242-9933-ab675e84b515"
+   },
+   {
+    "name": "Lovely Suite",
+    "uuid": "bb8da103-8650-45ff-a67f-f1db05789c42"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

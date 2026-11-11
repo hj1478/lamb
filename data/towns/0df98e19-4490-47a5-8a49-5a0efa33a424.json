@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "NullVille",
   "uuid": "0df98e19-4490-47a5-8a49-5a0efa33a424",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 3,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 6,
-   "balance": 79.0,
+   "balance": 44.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31325.30000001192,
-    "y": 65.0,
-    "z": -6355.475384679365,
-    "pitch": 5.700023,
-    "yaw": 90.08728
+    "x": -31327.48441411504,
+    "y": 64.0,
+    "z": -6356.697563051361,
+    "pitch": -7.4999137,
+    "yaw": 68.05945
    },
    "homeBlock": [
     -1958,
@@ -512,7 +512,12 @@
     "uuid": "1035e432-ba5a-4f6e-afa2-e0253e192ad7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Lambkill",
+    "uuid": "d450205e-d84e-4aeb-a23a-41a6c5fb085b"
+   }
+  ],
   "outlaws": [
    {
     "name": "BlueRedStone_",

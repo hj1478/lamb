@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Kunming",
   "uuid": "1cfb72fb-d9cf-4f74-9a0c-efd578452004",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ASDEW2",
-   "uuid": "3ad4f464-52ca-489c-9318-9893f2d6bfa4"
+   "name": "mingaijiyue",
+   "uuid": "e4c680ba-3572-4818-a3c3-5a1f26fd8025"
   },
   "nation": {
    "name": "Tang",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
-   "numTrusted": 8,
+   "numTrusted": 7,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -536,12 +536,12 @@
   },
   "residents": [
    {
-    "name": "scientistzheng19",
-    "uuid": "d57f67b4-05e8-4fac-af09-503606c28352"
-   },
-   {
     "name": "ASDEW2",
     "uuid": "3ad4f464-52ca-489c-9318-9893f2d6bfa4"
+   },
+   {
+    "name": "mingaijiyue",
+    "uuid": "e4c680ba-3572-4818-a3c3-5a1f26fd8025"
    }
   ],
   "trusted": [
@@ -566,10 +566,6 @@
     "uuid": "72c14d60-13da-4d4b-a691-c9bc6dfab0a3"
    },
    {
-    "name": "TimeSpace_ZONE",
-    "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
-   },
-   {
     "name": "He_j1an",
     "uuid": "8abc610f-b62c-442e-994d-bab35e37e923"
    },
@@ -581,7 +577,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ASDEW2",
+     "uuid": "3ad4f464-52ca-489c-9318-9893f2d6bfa4"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

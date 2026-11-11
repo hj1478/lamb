@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Aztlan",
   "uuid": "192345a8-a4bd-4f68-b986-4f8d5bfe9e05",
@@ -12,12 +12,12 @@
    "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Mexico",
+   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
   },
   "timestamps": {
    "registered": 1793947648560,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793998603795,
    "ruinedAt": null
   },
   "status": {
@@ -28,20 +28,20 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 22,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "nationBonus": 60,
+   "numResidents": 4,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -34873.03721930912,
-    "y": 88.0,
-    "z": 1430.6846512281068,
-    "pitch": 14.722176,
-    "yaw": 31.32788
+    "x": -34885.158168945956,
+    "y": 90.0,
+    "z": 1443.874069743778,
+    "pitch": 24.151917,
+    "yaw": 84.65256
    },
    "homeBlock": [
-    -2180,
-    89
+    -2181,
+    90
    ],
    "townBlocks": [
     [
@@ -100,12 +100,32 @@
      87
     ],
     [
+     -2183,
+     88
+    ],
+    [
+     -2183,
+     89
+    ],
+    [
      -2181,
      90
     ],
     [
      -2181,
      89
+    ],
+    [
+     -2183,
+     90
+    ],
+    [
+     -2183,
+     91
+    ],
+    [
+     -2182,
+     87
     ],
     [
      -2179,
@@ -116,16 +136,28 @@
      88
     ],
     [
-     -2180,
-     89
-    ],
-    [
      -2182,
      89
     ],
     [
      -2180,
+     89
+    ],
+    [
+     -2182,
+     90
+    ],
+    [
+     -2180,
      88
+    ],
+    [
+     -2180,
+     87
+    ],
+    [
+     -2182,
+     91
     ],
     [
      -2180,
@@ -138,6 +170,14 @@
     [
      -2179,
      89
+    ],
+    [
+     -2184,
+     91
+    ],
+    [
+     -2184,
+     90
     ]
    ],
    "worlds": {}
@@ -146,10 +186,36 @@
    {
     "name": "legendemi",
     "uuid": "224c302c-d573-462a-8f8f-e3420659d233"
+   },
+   {
+    "name": "VictimsofChungus",
+    "uuid": "d2a7c038-74da-40e7-9eb4-640e579b4141"
+   },
+   {
+    "name": "Carmelitum",
+    "uuid": "d21c8bb9-beea-41a9-aa06-dd751c08b261"
+   },
+   {
+    "name": "MoeeyDw",
+    "uuid": "4c3bf585-e0fe-4db0-a396-3c1ce8868bd9"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "Mr_One_Punch",
+    "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
+   },
+   {
+    "name": "ER3KO",
+    "uuid": "0bdf5d83-635e-4254-a91d-c319bc8aa942"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Hengist1",
+    "uuid": "5991ea50-a571-4772-86e7-8f5ce45dbdbe"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

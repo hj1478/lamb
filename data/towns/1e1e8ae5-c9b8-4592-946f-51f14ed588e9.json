@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Sol_Orions",
   "uuid": "1e1e8ae5-c9b8-4592-946f-51f14ed588e9",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
+   "numTownBlocks": 20,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 3,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 46.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     -1968,
+     -548
+    ],
+    [
+     -1967,
+     -547
+    ],
+    [
      -1966,
      -547
     ],
@@ -100,12 +108,12 @@
      -549
     ],
     [
-     -1967,
-     -547
+     -1968,
+     -549
     ],
     [
-     -1968,
-     -548
+     -1967,
+     -546
     ],
     [
      -1966,
@@ -113,7 +121,11 @@
     ],
     [
      -1968,
-     -549
+     -546
+    ],
+    [
+     -1968,
+     -547
     ],
     [
      -1966,
@@ -137,6 +149,10 @@
     ],
     [
      -1964,
+     -546
+    ],
+    [
+     -1964,
      -547
     ],
     [
@@ -144,12 +160,12 @@
      -546
     ],
     [
-     -1965,
-     -547
-    ],
-    [
      -1966,
      -549
+    ],
+    [
+     -1965,
+     -547
     ],
     [
      -1965,
@@ -172,7 +188,12 @@
     "uuid": "f3bc4166-b259-45c7-9e17-c0e00a31dc09"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "FaucetFailureXXX",
+    "uuid": "c1b54253-8870-4c1a-964d-518244cc6b15"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,0 +1,136 @@
+{
+ "fetched_at": "2026-11-11T14:31:46Z",
+ "data": {
+  "name": "Moravia",
+  "uuid": "c40d1d30-579b-4382-859c-1179f32808f3",
+  "board": "/town set board [msg]",
+  "founder": "bob_bluesceer",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "bob_bluesceer",
+   "uuid": "210153c0-6156-4778-8b7c-db97f0ea8216"
+  },
+  "nation": {
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
+  },
+  "timestamps": {
+   "registered": 1794406601695,
+   "joinedNationAt": 1794406620648,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 3,
+   "maxTownBlocks": 72,
+   "bonusBlocks": 0,
+   "nationBonus": 60,
+   "numResidents": 1,
+   "numTrusted": 1,
+   "numOutlaws": 0,
+   "balance": 11.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 6129.307806092647,
+    "y": 63.0,
+    "z": -11457.170656909173,
+    "pitch": 14.699887,
+    "yaw": -36.0979
+   },
+   "homeBlock": [
+    383,
+    -717
+   ],
+   "townBlocks": [
+    [
+     382,
+     -716
+    ],
+    [
+     382,
+     -717
+    ],
+    [
+     383,
+     -717
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "bob_bluesceer",
+    "uuid": "210153c0-6156-4778-8b7c-db97f0ea8216"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

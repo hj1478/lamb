@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Minion",
   "uuid": "0bee6d84-b755-4140-8716-58c721d847ce",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 12,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,40 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30055.818561792294,
-    "y": 70.0,
-    "z": -11097.73652303119,
-    "pitch": 30.29993,
-    "yaw": -135.59518
+    "x": -30055.971559015146,
+    "y": 26.0,
+    "z": -11112.170463750897,
+    "pitch": 90.0,
+    "yaw": -123.59036
    },
    "homeBlock": [
     -1879,
-    -694
+    -695
    ],
    "townBlocks": [
     [
+     -1880,
+     -694
+    ],
+    [
+     -1880,
+     -695
+    ],
+    [
+     -1878,
+     -693
+    ],
+    [
      -1878,
      -694
+    ],
+    [
+     -1880,
+     -696
+    ],
+    [
+     -1879,
+     -693
     ],
     [
      -1879,
@@ -104,7 +124,19 @@
      -694
     ],
     [
+     -1879,
+     -696
+    ],
+    [
      -1878,
+     -695
+    ],
+    [
+     -1878,
+     -696
+    ],
+    [
+     -1877,
      -695
     ]
    ],
@@ -116,16 +148,45 @@
     "uuid": "d5106a7b-3f7c-434b-bd52-b4c76c49f874"
    },
    {
+    "name": "CxrterMC",
+    "uuid": "2796409e-9ad4-46b9-9d8b-7d594f81213b"
+   },
+   {
     "name": "ratdoy",
     "uuid": "a7aa7898-ca6c-4147-9af9-94188b51e653"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Becone",
+    "uuid": "27a99e92-d3c2-41ed-9d5c-bd09104b08b0"
+   },
+   {
+    "name": "Minion Vault 4",
+    "uuid": "557a1483-703c-483a-bb53-084dc7069444"
+   },
+   {
+    "name": "Minion Vault 3",
+    "uuid": "42cb952a-bfa6-43ab-976b-6e3aa4d4936b"
+   },
+   {
+    "name": "Minion Vault 2",
+    "uuid": "17c9462a-2181-436a-9a32-d6448e4864b0"
+   },
+   {
+    "name": "Minion Vault 1",
+    "uuid": "e3395f0f-bea8-47e9-a294-132a67221f43"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [
+    {
+     "name": "CxrterMC",
+     "uuid": "2796409e-9ad4-46b9-9d8b-7d594f81213b"
+    },
     {
      "name": "ratdoy",
      "uuid": "a7aa7898-ca6c-4147-9af9-94188b51e653"

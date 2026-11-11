@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Mobula_Ray_Tribe",
   "uuid": "0cf70fd6-a116-4865-a2f7-5e6b12742bf9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": false,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 59,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 68,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 9,
    "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27918.00261829342,
-    "y": 103.0,
-    "z": 11271.519627692116,
-    "pitch": 33.60001,
-    "yaw": -91.64993
+    "x": -27912.379661589068,
+    "y": -62.0,
+    "z": 11272.486767916036,
+    "pitch": 15.300015,
+    "yaw": -89.551025
    },
    "homeBlock": [
     -1745,
@@ -221,6 +221,18 @@
     ],
     [
      -1748,
+     702
+    ],
+    [
+     -1748,
+     701
+    ],
+    [
+     -1748,
+     700
+    ],
+    [
+     -1748,
      707
     ],
     [
@@ -246,6 +258,10 @@
     [
      -1743,
      705
+    ],
+    [
+     -1741,
+     700
     ],
     [
      -1744,
@@ -302,6 +318,26 @@
     [
      -1741,
      706
+    ],
+    [
+     -1741,
+     705
+    ],
+    [
+     -1741,
+     704
+    ],
+    [
+     -1741,
+     703
+    ],
+    [
+     -1741,
+     702
+    ],
+    [
+     -1741,
+     701
     ],
     [
      -1742,
@@ -360,8 +396,12 @@
     "uuid": "f534268a-5c82-4dd0-9fd4-3fefb92da105"
    },
    {
-    "name": "vikaness",
-    "uuid": "519d7f8a-3410-4520-8fe4-a03524f15a44"
+    "name": "xinzj",
+    "uuid": "6f57300f-094d-48af-99fa-fdb8b17d3591"
+   },
+   {
+    "name": "SushiSilent",
+    "uuid": "f560a1db-23de-4bd4-8026-e10233683786"
    }
   ],
   "trusted": [

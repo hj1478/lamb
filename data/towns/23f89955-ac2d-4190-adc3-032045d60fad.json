@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Twoup",
   "uuid": "23f89955-ac2d-4190-adc3-032045d60fad",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,28 +35,28 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 0,
-   "numOutlaws": 1,
-   "balance": 0.0,
+   "numOutlaws": 3,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
     false,
@@ -65,13 +65,13 @@
     false
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": false,
     "fire": false,
     "mobs": false
@@ -92,10 +92,66 @@
    ],
    "townBlocks": [
     [
+     -1072,
+     807
+    ],
+    [
+     -1072,
+     806
+    ],
+    [
+     -1068,
+     808
+    ],
+    [
+     -1072,
+     805
+    ],
+    [
      -1068,
      807
     ],
     [
+     -1072,
+     804
+    ],
+    [
+     -1072,
+     803
+    ],
+    [
+     -1067,
+     803
+    ],
+    [
+     -1067,
+     804
+    ],
+    [
+     -1067,
+     805
+    ],
+    [
+     -1067,
+     806
+    ],
+    [
+     -1067,
+     807
+    ],
+    [
+     -1067,
+     808
+    ],
+    [
+     -1070,
+     803
+    ],
+    [
+     -1070,
+     804
+    ],
+    [
      -1070,
      805
     ],
@@ -108,8 +164,36 @@
      807
     ],
     [
-     -1069,
+     -1066,
+     805
+    ],
+    [
+     -1066,
+     804
+    ],
+    [
+     -1066,
      807
+    ],
+    [
+     -1066,
+     806
+    ],
+    [
+     -1066,
+     803
+    ],
+    [
+     -1071,
+     803
+    ],
+    [
+     -1071,
+     804
+    ],
+    [
+     -1069,
+     808
     ],
     [
      -1071,
@@ -117,11 +201,19 @@
     ],
     [
      -1069,
-     806
+     807
     ],
     [
      -1071,
      806
+    ],
+    [
+     -1069,
+     806
+    ],
+    [
+     -1071,
+     807
     ],
     [
      -1069,
@@ -138,6 +230,22 @@
     [
      -1068,
      805
+    ],
+    [
+     -1066,
+     808
+    ],
+    [
+     -1069,
+     803
+    ],
+    [
+     -1068,
+     804
+    ],
+    [
+     -1068,
+     803
     ]
    ],
    "worlds": {}
@@ -158,6 +266,10 @@
    {
     "name": "S1RLARK",
     "uuid": "28fa1184-8f8d-41ab-a471-5c26b4cf2017"
+   },
+   {
+    "name": "bakedbaconshakin",
+    "uuid": "6c845b58-3c05-428e-95e3-c0da10f7b16b"
    }
   ],
   "trusted": [],
@@ -165,6 +277,14 @@
    {
     "name": "meowmeow293749",
     "uuid": "dda720be-aa93-4ab5-ac16-ec2e1839024e"
+   },
+   {
+    "name": "MBMTX2",
+    "uuid": "644cb4c4-76f3-4d85-a467-c9093155e6e0"
+   },
+   {
+    "name": "BababoiYTgamer",
+    "uuid": "917236ca-6bb3-4bcb-b199-124ad8df9d9f"
    }
   ],
   "quarters": [],
@@ -181,6 +301,10 @@
     {
      "name": "S1RLARK",
      "uuid": "28fa1184-8f8d-41ab-a471-5c26b4cf2017"
+    },
+    {
+     "name": "bakedbaconshakin",
+     "uuid": "6c845b58-3c05-428e-95e3-c0da10f7b16b"
     }
    ],
    "Builder": [],
@@ -189,7 +313,12 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "bakedbaconshakin",
+     "uuid": "6c845b58-3c05-428e-95e3-c0da10f7b16b"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

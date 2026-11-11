@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Tibetan_Troy",
   "uuid": "1739fa6d-4b39-4f67-b097-8e8809cfd2ac",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
+   "numTownBlocks": 33,
    "maxTownBlocks": 62,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 1.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -144,6 +144,22 @@
      -170
     ],
     [
+     1965,
+     -169
+    ],
+    [
+     1965,
+     -168
+    ],
+    [
+     1965,
+     -167
+    ],
+    [
+     1965,
+     -166
+    ],
+    [
      1970,
      -165
     ],
@@ -198,6 +214,14 @@
     [
      1966,
      -165
+    ],
+    [
+     1966,
+     -169
+    ],
+    [
+     1966,
+     -168
     ]
    ],
    "worlds": {}
@@ -209,7 +233,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

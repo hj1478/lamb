@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Freedom",
   "uuid": "03132076-7071-42fb-8fc8-f6ba2bd5f0ed",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MagaSki777",
-   "uuid": "d961c739-024b-4134-a22b-8688d8ed9a66"
+   "name": "NPC37",
+   "uuid": "cf95d11e-e8ce-20ff-848e-136ae7e61d6c"
   },
   "nation": {
-   "name": "Zion",
-   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787349619685,
-   "joinedNationAt": 1787354925105,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794304804747
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 61,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -340,8 +340,8 @@
   },
   "residents": [
    {
-    "name": "MagaSki777",
-    "uuid": "d961c739-024b-4134-a22b-8688d8ed9a66"
+    "name": "NPC37",
+    "uuid": "cf95d11e-e8ce-20ff-848e-136ae7e61d6c"
    }
   ],
   "trusted": [],

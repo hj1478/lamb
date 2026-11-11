@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Rock_Bottom",
   "uuid": "06395a1d-bcec-48cc-80ea-cb8568a9af62",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 60.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 58073.83216454151,
-    "y": -40.0,
-    "z": 28808.502186030706,
-    "pitch": 28.049938,
-    "yaw": 24.619053
+    "x": 58064.814002620966,
+    "y": -63.0,
+    "z": 28799.877180845586,
+    "pitch": -8.550148,
+    "yaw": 142.04797
    },
    "homeBlock": [
     3629,
-    1800
+    1799
    ],
    "townBlocks": [
     [
@@ -164,7 +164,12 @@
     "uuid": "d14b502f-ca97-4de2-bd0c-b42bc906726e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "LordOvega",
+    "uuid": "8176dde7-724c-486b-9085-c0ff3f0f2998"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

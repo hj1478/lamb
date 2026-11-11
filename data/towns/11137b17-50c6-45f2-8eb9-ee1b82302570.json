@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Quanjiaoxian",
   "uuid": "11137b17-50c6-45f2-8eb9-ee1b82302570",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 17,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 174.0,
+   "balance": 94.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,6 +100,10 @@
      -244
     ],
     [
+     2642,
+     -241
+    ],
+    [
      2640,
      -243
     ],
@@ -120,16 +124,24 @@
      -241
     ],
     [
-     2640,
-     -242
-    ],
-    [
      2639,
      -244
     ],
     [
+     2640,
+     -242
+    ],
+    [
+     2642,
+     -243
+    ],
+    [
+     2642,
+     -242
+    ],
+    [
      2641,
-     -241
+     -240
     ],
     [
      2639,
@@ -137,7 +149,15 @@
     ],
     [
      2641,
+     -241
+    ],
+    [
+     2641,
      -242
+    ],
+    [
+     2642,
+     -244
     ]
    ],
    "worlds": {}

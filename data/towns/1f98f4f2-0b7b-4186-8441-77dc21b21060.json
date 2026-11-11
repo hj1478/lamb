@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Virje",
   "uuid": "1f98f4f2-0b7b-4186-8441-77dc21b21060",
@@ -12,12 +12,12 @@
    "uuid": "e51d89b7-3b85-4c50-bc73-e9e58b3f7d7c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
   },
   "timestamps": {
    "registered": 1793803555261,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794244321588,
    "ruinedAt": null
   },
   "status": {
@@ -28,44 +28,44 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 60,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -92,11 +92,111 @@
    ],
    "townBlocks": [
     [
-     374,
+     375,
+     -591
+    ],
+    [
+     375,
+     -592
+    ],
+    [
+     375,
      -593
     ],
     [
      375,
+     -594
+    ],
+    [
+     373,
+     -590
+    ],
+    [
+     373,
+     -589
+    ],
+    [
+     373,
+     -592
+    ],
+    [
+     373,
+     -591
+    ],
+    [
+     377,
+     -593
+    ],
+    [
+     377,
+     -594
+    ],
+    [
+     377,
+     -591
+    ],
+    [
+     377,
+     -592
+    ],
+    [
+     374,
+     -593
+    ],
+    [
+     376,
+     -591
+    ],
+    [
+     374,
+     -594
+    ],
+    [
+     374,
+     -591
+    ],
+    [
+     376,
+     -593
+    ],
+    [
+     374,
+     -592
+    ],
+    [
+     376,
+     -592
+    ],
+    [
+     374,
+     -589
+    ],
+    [
+     376,
+     -594
+    ],
+    [
+     374,
+     -590
+    ],
+    [
+     372,
+     -591
+    ],
+    [
+     372,
+     -590
+    ],
+    [
+     373,
+     -594
+    ],
+    [
+     372,
+     -589
+    ],
+    [
+     373,
      -593
     ]
    ],
@@ -110,20 +210,43 @@
    {
     "name": "BenediktBeno",
     "uuid": "d510172a-1697-42f2-8417-f36ec024a75c"
+   },
+   {
+    "name": "lspani",
+    "uuid": "f1bfdafd-8962-434a-96c2-5bf1be4d3156"
+   },
+   {
+    "name": "david_zube1",
+    "uuid": "b37aeb3b-f7db-4444-a79e-df72c9cd46da"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BenediktBeno",
+     "uuid": "d510172a-1697-42f2-8417-f36ec024a75c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "lspani",
+     "uuid": "f1bfdafd-8962-434a-96c2-5bf1be4d3156"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "lspani",
+     "uuid": "f1bfdafd-8962-434a-96c2-5bf1be4d3156"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

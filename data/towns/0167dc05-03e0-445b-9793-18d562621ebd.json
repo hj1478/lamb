@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Zlin",
   "uuid": "0167dc05-03e0-445b-9793-18d562621ebd",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 98,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 108,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 3,
    "numTrusted": 4,
-   "numOutlaws": 8,
-   "balance": 6.0,
+   "numOutlaws": 13,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6372.207659749561,
-    "y": -62.0,
-    "z": -11240.926783220888,
-    "pitch": 7.0499578,
-    "yaw": -90.70242
+    "x": 6400.225304550051,
+    "y": 184.0,
+    "z": -11227.912747489294,
+    "pitch": 10.200032,
+    "yaw": 92.75604
    },
    "homeBlock": [
-    398,
-    -703
+    400,
+    -702
    ],
    "townBlocks": [
     [
@@ -152,6 +152,14 @@
      -707
     ],
     [
+     401,
+     -708
+    ],
+    [
+     401,
+     -709
+    ],
+    [
      396,
      -704
     ],
@@ -288,6 +296,18 @@
      -707
     ],
     [
+     402,
+     -708
+    ],
+    [
+     402,
+     -709
+    ],
+    [
+     402,
+     -710
+    ],
+    [
      399,
      -706
     ],
@@ -370,6 +390,10 @@
     [
      397,
      -702
+    ],
+    [
+     403,
+     -704
     ],
     [
      397,
@@ -388,6 +412,10 @@
      -701
     ],
     [
+     403,
+     -705
+    ],
+    [
      397,
      -706
     ],
@@ -454,6 +482,18 @@
     [
      400,
      -706
+    ],
+    [
+     403,
+     -708
+    ],
+    [
+     403,
+     -707
+    ],
+    [
+     403,
+     -709
     ],
     [
      393,
@@ -487,10 +527,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "Klirxus",
-    "uuid": "fc5151c7-ec0d-414e-8fcb-d08c846caec7"
-   },
    {
     "name": "Mleczney_",
     "uuid": "5543e054-2b75-4811-814f-5f47198882f8"
@@ -548,12 +584,32 @@
     "uuid": "d3fc9bb3-f77d-4e50-a98b-e69d81d8b5b9"
    },
    {
-    "name": "Dummypotato",
+    "name": "XDA4",
     "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
    },
    {
     "name": "unh2",
     "uuid": "809d3d41-d606-452a-844c-4b0e7bc7e1d0"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
+   },
+   {
+    "name": "saif8368",
+    "uuid": "b65e0490-764d-4c73-a1b8-d0078f37ea0b"
+   },
+   {
+    "name": "saif098432",
+    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
+   },
+   {
+    "name": "Saif123456788",
+    "uuid": "35815736-8c09-4925-a510-8e8b94dbf3d6"
    }
   ],
   "quarters": [],

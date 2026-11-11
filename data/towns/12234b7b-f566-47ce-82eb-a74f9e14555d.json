@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Meadowshire",
   "uuid": "12234b7b-f566-47ce-82eb-a74f9e14555d",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AspectCrimson",
-   "uuid": "b465c26d-c945-4501-bb93-0a3e284f69ac"
+   "name": "SugoiZapanise",
+   "uuid": "244fdcb6-0d73-47a2-9762-09cca8367587"
   },
   "nation": {
    "name": "Iberia",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 48.0,
    "forSalePrice": null
@@ -290,13 +290,27 @@
    {
     "name": "AspectCrimson",
     "uuid": "b465c26d-c945-4501-bb93-0a3e284f69ac"
+   },
+   {
+    "name": "SugoiZapanise",
+    "uuid": "244fdcb6-0d73-47a2-9762-09cca8367587"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "DidiTuxa",
+    "uuid": "8deb8bc7-b8e5-430e-b30e-ad4e9359f379"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "AspectCrimson",
+     "uuid": "b465c26d-c945-4501-bb93-0a3e284f69ac"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

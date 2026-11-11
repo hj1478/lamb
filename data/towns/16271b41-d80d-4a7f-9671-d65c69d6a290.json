@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Savaii",
   "uuid": "16271b41-d80d-4a7f-9671-d65c69d6a290",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776548215198,
-   "joinedNationAt": 1789887976333,
+   "joinedNationAt": 1794019535973,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 107,
-   "maxTownBlocks": 94,
+   "maxTownBlocks": 82,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 7,
+   "numResidents": 6,
    "numTrusted": 2,
-   "numOutlaws": 6,
-   "balance": 17.0,
+   "numOutlaws": 7,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -61841.41587594546,
-    "y": 87.9375,
-    "z": 12915.639780466581,
-    "pitch": 90.0,
-    "yaw": 89.36328
+    "x": -61818.50717516986,
+    "y": 89.9375,
+    "z": 12922.236189057674,
+    "pitch": 26.074865,
+    "yaw": 107.47046
    },
    "homeBlock": [
-    -3866,
+    -3864,
     807
    ],
    "townBlocks": [
@@ -533,10 +533,6 @@
     "uuid": "853aa6e2-f4e0-4a65-81dc-14e56c8ae3f6"
    },
    {
-    "name": "WokeAntifa",
-    "uuid": "fd2ba23a-016e-4613-89dd-8c08a57cde8d"
-   },
-   {
     "name": "BobbyTheFemboy",
     "uuid": "2158ecde-2980-485d-81a0-38a7757a315a"
    },
@@ -559,7 +555,7 @@
   ],
   "trusted": [
    {
-    "name": "WokeAntifa",
+    "name": "jimmytalarico",
     "uuid": "fd2ba23a-016e-4613-89dd-8c08a57cde8d"
    },
    {
@@ -591,6 +587,10 @@
    {
     "name": "Ssalg",
     "uuid": "0352b43c-f2c9-45a4-8cc4-435cf2174147"
+   },
+   {
+    "name": "AstrInk",
+    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
    }
   ],
   "quarters": [
@@ -628,12 +628,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "WokeAntifa",
-     "uuid": "fd2ba23a-016e-4613-89dd-8c08a57cde8d"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

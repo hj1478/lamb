@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Kunashiri",
   "uuid": "1f0f94b2-f0b2-43f9-9be8-1136ba72e22f",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 132,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 973.0,
@@ -630,13 +630,22 @@
    {
     "name": "aaren5",
     "uuid": "73514149-869d-476f-8d41-98b16793ba73"
+   },
+   {
+    "name": "yukiyuura",
+    "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "yukiyuura",
+     "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

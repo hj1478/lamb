@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Bathurst",
   "uuid": "142ab7c8-c22c-4d6d-983d-f081eaf66f87",
-  "board": "Glory to Australia!",
+  "board": "The oldest inland town in Australia.",
   "founder": "dep94mitch",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/nzBjD8hqVm",
   "mayor": {
    "name": "dep94mitch",
    "uuid": "7f0ad2b1-401f-4f53-a228-c0a235cd38de"
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 56,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 78,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 9,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numOutlaws": 2,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 53416.85973422043,
-    "y": 71.0,
-    "z": 20712.24805993785,
-    "pitch": 15.682135,
-    "yaw": -99.983185
+    "x": 53423.47861119451,
+    "y": 64.0,
+    "z": 20712.003748771822,
+    "pitch": 8.845272,
+    "yaw": -90.303696
    },
    "homeBlock": [
     3338,
@@ -100,12 +100,12 @@
      1294
     ],
     [
-     3334,
-     1293
-    ],
-    [
      3335,
      1291
+    ],
+    [
+     3334,
+     1293
     ],
     [
      3334,
@@ -132,16 +132,12 @@
      1298
     ],
     [
-     3335,
-     1293
-    ],
-    [
      3334,
      1291
     ],
     [
      3335,
-     1292
+     1293
     ],
     [
      3334,
@@ -149,6 +145,10 @@
     ],
     [
      3335,
+     1292
+    ],
+    [
+     3335,
      1295
     ],
     [
@@ -168,43 +168,43 @@
      1290
     ],
     [
+     3337,
+     1298
+    ],
+    [
      3338,
      1291
     ],
     [
      3337,
-     1298
-    ],
-    [
-     3337,
      1297
     ],
     [
-     3338,
-     1293
+     3336,
+     1297
     ],
     [
      3337,
      1296
     ],
     [
-     3336,
-     1297
-    ],
-    [
      3338,
-     1292
-    ],
-    [
-     3337,
-     1295
+     1293
     ],
     [
      3336,
      1298
     ],
     [
+     3337,
+     1295
+    ],
+    [
      3338,
+     1292
+    ],
+    [
+     3336,
      1295
     ],
     [
@@ -212,16 +212,8 @@
      1294
     ],
     [
-     3336,
-     1295
-    ],
-    [
      3338,
-     1294
-    ],
-    [
-     3337,
-     1293
+     1295
     ],
     [
      3336,
@@ -229,11 +221,19 @@
     ],
     [
      3337,
-     1292
+     1293
+    ],
+    [
+     3338,
+     1294
     ],
     [
      3336,
      1293
+    ],
+    [
+     3337,
+     1292
     ],
     [
      3338,
@@ -257,6 +257,10 @@
     ],
     [
      3339,
+     1296
+    ],
+    [
+     3339,
      1295
     ],
     [
@@ -272,8 +276,60 @@
      1292
     ],
     [
+     3339,
+     1291
+    ],
+    [
+     3342,
+     1296
+    ],
+    [
+     3342,
+     1297
+    ],
+    [
+     3342,
+     1298
+    ],
+    [
+     3340,
+     1297
+    ],
+    [
+     3341,
+     1297
+    ],
+    [
+     3340,
+     1298
+    ],
+    [
+     3341,
+     1298
+    ],
+    [
      3340,
      1295
+    ],
+    [
+     3342,
+     1290
+    ],
+    [
+     3343,
+     1290
+    ],
+    [
+     3340,
+     1296
+    ],
+    [
+     3342,
+     1291
+    ],
+    [
+     3343,
+     1291
     ],
     [
      3341,
@@ -284,12 +340,20 @@
      1292
     ],
     [
-     3342,
-     1293
+     3343,
+     1292
     ],
     [
      3341,
      1294
+    ],
+    [
+     3342,
+     1293
+    ],
+    [
+     3343,
+     1293
     ],
     [
      3341,
@@ -298,6 +362,26 @@
     [
      3342,
      1294
+    ],
+    [
+     3343,
+     1294
+    ],
+    [
+     3341,
+     1296
+    ],
+    [
+     3342,
+     1295
+    ],
+    [
+     3341,
+     1290
+    ],
+    [
+     3341,
+     1291
     ],
     [
      3341,
@@ -310,6 +394,10 @@
     [
      3340,
      1294
+    ],
+    [
+     3340,
+     1291
     ],
     [
      3340,
@@ -338,10 +426,35 @@
    {
     "name": "Ellosaurus0820",
     "uuid": "4177d62b-7b49-45d8-a2d2-58ff074fdecf"
+   },
+   {
+    "name": "bahubli",
+    "uuid": "8490e7b3-85f5-425c-8d87-e2ab5dd09ae4"
+   },
+   {
+    "name": "Austin28_",
+    "uuid": "6a52b264-d14f-4b97-b977-c4af6f3f7873"
+   },
+   {
+    "name": "neversphere",
+    "uuid": "090721dc-f952-49cb-b19f-a16d0d073e77"
+   },
+   {
+    "name": "SixSevenisDead",
+    "uuid": "5b916c9e-9862-4732-b59d-267f64daec48"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Acerse",
+    "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
+   },
+   {
+    "name": "_FrostedMC",
+    "uuid": "25f12c39-2cee-4ac2-979a-27f3c12b08a9"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

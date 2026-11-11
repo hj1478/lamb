@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Myrheden",
   "uuid": "1bdaf51c-91c9-4b8b-83a9-d9b5d56f22eb",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Alfa75",
-   "uuid": "47e14502-9029-478d-80c7-94ca3d6b7271"
+   "name": "NPC59",
+   "uuid": "04552159-4b73-2046-8d78-9fb441d962bb"
   },
   "nation": {
-   "name": "Sweden",
-   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782328993509,
-   "joinedNationAt": 1782330770657,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794218401832
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 61,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -340,8 +340,8 @@
   },
   "residents": [
    {
-    "name": "Alfa75",
-    "uuid": "47e14502-9029-478d-80c7-94ca3d6b7271"
+    "name": "NPC59",
+    "uuid": "04552159-4b73-2046-8d78-9fb441d962bb"
    }
   ],
   "trusted": [],

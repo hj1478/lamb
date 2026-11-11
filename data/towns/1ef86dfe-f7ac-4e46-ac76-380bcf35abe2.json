@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Palm_Shores",
   "uuid": "1ef86dfe-f7ac-4e46-ac76-380bcf35abe2",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FLEXSTORM",
+   "name": "xRuby_Redx",
    "uuid": "4d1a6ca7-26bb-4ed5-a647-85d14baacc1b"
   },
   "nation": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 75.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -1807,
+     -148
+    ],
+    [
+     -1807,
      -145
     ],
     [
@@ -101,22 +105,34 @@
     ],
     [
      -1807,
+     -147
+    ],
+    [
+     -1807,
      -146
+    ],
+    [
+     -1806,
+     -148
+    ],
+    [
+     -1806,
+     -147
+    ],
+    [
+     -1807,
+     -143
     ],
     [
      -1806,
      -146
     ],
     [
+     -1807,
+     -142
+    ],
+    [
      -1806,
-     -145
-    ],
-    [
-     -1808,
-     -146
-    ],
-    [
-     -1808,
      -145
     ],
     [
@@ -124,15 +140,59 @@
      -144
     ],
     [
+     -1806,
+     -143
+    ],
+    [
+     -1809,
+     -144
+    ],
+    [
+     -1809,
+     -143
+    ],
+    [
+     -1809,
+     -146
+    ],
+    [
+     -1809,
+     -145
+    ],
+    [
+     -1808,
+     -148
+    ],
+    [
+     -1809,
+     -147
+    ],
+    [
+     -1808,
+     -147
+    ],
+    [
+     -1808,
+     -146
+    ],
+    [
+     -1808,
+     -145
+    ],
+    [
      -1808,
      -144
+    ],
+    [
+     -1808,
+     -143
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "FLEXSTORM",
+    "name": "xRuby_Redx",
     "uuid": "4d1a6ca7-26bb-4ed5-a647-85d14baacc1b"
    },
    {
@@ -142,7 +202,32 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Dingy Tenement",
+    "uuid": "3257974a-eb52-4b1a-bfe7-09af95b609f4"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "b543aae9-c3cd-4d52-99a5-8f54f48f9801"
+   },
+   {
+    "name": "Elegant Quarter",
+    "uuid": "4d862572-420f-4484-8799-c05518c36934"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "7115f6ae-06fb-4088-be28-305d4e4e6d05"
+   },
+   {
+    "name": ".",
+    "uuid": "31ce9bdf-a40c-498a-8277-69d22d04218c"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "3d45bc6b-5e40-452c-99b4-4dc5f99fc291"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Tottori",
   "uuid": "2223fb10-52ab-45fa-b684-98ae26397dd5",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1778119580543,
-   "joinedNationAt": 1782392669384,
+   "joinedNationAt": 1794036989869,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 84,
-   "maxTownBlocks": 152,
+   "numTownBlocks": 91,
+   "maxTownBlocks": 212,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 6,
-   "numTrusted": 9,
+   "numResidents": 11,
+   "numTrusted": 10,
    "numOutlaws": 2,
-   "balance": 1000.0,
+   "balance": 95.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 48164.599724119835,
-    "y": 90.0,
-    "z": -5184.3977796607005,
-    "pitch": -37.922104,
-    "yaw": -177.45361
+    "x": 48109.68151198818,
+    "y": 63.0,
+    "z": -5070.487784474424,
+    "pitch": 24.254902,
+    "yaw": -175.49121
    },
    "homeBlock": [
-    3010,
-    -325
+    3006,
+    -317
    ],
    "townBlocks": [
     [
@@ -236,8 +236,20 @@
      -317
     ],
     [
+     3012,
+     -321
+    ],
+    [
      3006,
      -325
+    ],
+    [
+     3012,
+     -320
+    ],
+    [
+     3012,
+     -319
     ],
     [
      3012,
@@ -248,16 +260,32 @@
      -322
     ],
     [
+     3012,
+     -325
+    ],
+    [
      3006,
      -321
+    ],
+    [
+     3012,
+     -324
     ],
     [
      3006,
      -324
     ],
     [
+     3012,
+     -323
+    ],
+    [
      3006,
      -323
+    ],
+    [
+     3012,
+     -322
     ],
     [
      3010,
@@ -440,34 +468,46 @@
     "uuid": "7e3589d1-ecc1-452d-a4de-465990524020"
    },
    {
-    "name": "hamuumakara",
-    "uuid": "07678e15-051b-4667-9d74-b1aff19b3060"
-   },
-   {
-    "name": "kti7",
-    "uuid": "f45ec3fc-bd15-4230-b88e-d0971e29ef5f"
-   },
-   {
     "name": "Bartx54",
     "uuid": "b09de477-9d53-485d-8bed-d40f2108e135"
    },
    {
-    "name": "greenarthropod",
-    "uuid": "9eb8bd42-fa42-451c-8411-62b14f34afb6"
+    "name": "adranimal1",
+    "uuid": "34342355-e76b-42b6-98ec-cf4112469788"
+   },
+   {
+    "name": "DustLastBreath",
+    "uuid": "2bfc7e6f-d3e0-44b6-b067-bf893183f738"
+   },
+   {
+    "name": "DxprxssSoul",
+    "uuid": "c7c635b0-16a5-46ff-9c94-0828cc07bfe4"
+   },
+   {
+    "name": "TheTaxxCollector",
+    "uuid": "4e9dc0cd-5fb0-41ea-9196-d4f40d9789dd"
+   },
+   {
+    "name": "inkyisoffline",
+    "uuid": "eb435928-ead9-4893-820a-c95768cb12f0"
+   },
+   {
+    "name": "_starmii",
+    "uuid": "bb31a245-090b-435e-b6c2-79a1b0f5e5d8"
+   },
+   {
+    "name": "ryoutarou5656",
+    "uuid": "ecf3a135-7efe-46a2-bfb9-323278e4b1b6"
+   },
+   {
+    "name": "kuroneko8888",
+    "uuid": "d6933b1f-1fbc-4fce-88dd-9a5390befd27"
    }
   ],
   "trusted": [
    {
-    "name": "yukiyuura",
-    "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
-   },
-   {
     "name": "channaga317",
     "uuid": "1b2b25ac-5908-4a73-8527-09e06b0d77d0"
-   },
-   {
-    "name": "hacchoumiso",
-    "uuid": "c51b58a7-65e4-41e9-b044-d6e8df546dbe"
    },
    {
     "name": "osyondesuyo",
@@ -478,20 +518,32 @@
     "uuid": "94cc6980-a0c4-4cd7-a031-64070ae3c7e7"
    },
    {
-    "name": "f1oR4s",
-    "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
-   },
-   {
-    "name": "NatDesugaNanika",
-    "uuid": "81bf02bb-1e42-4ea3-98b5-b4e27ea795eb"
-   },
-   {
     "name": "sbakita",
     "uuid": "85c442fe-a730-4115-a115-d8b1e7e392f6"
    },
    {
     "name": "_starmii",
     "uuid": "bb31a245-090b-435e-b6c2-79a1b0f5e5d8"
+   },
+   {
+    "name": "yukiyuura",
+    "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
+   },
+   {
+    "name": "hacchoumiso",
+    "uuid": "c51b58a7-65e4-41e9-b044-d6e8df546dbe"
+   },
+   {
+    "name": "KOBAYASHIJAPAN",
+    "uuid": "65cab124-7219-4600-9ee8-dd40ce0917ca"
+   },
+   {
+    "name": "f1oR4s",
+    "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
+   },
+   {
+    "name": "NatDesugaNanika",
+    "uuid": "81bf02bb-1e42-4ea3-98b5-b4e27ea795eb"
    }
   ],
   "outlaws": [
@@ -506,7 +558,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "_starmii",
+     "uuid": "bb31a245-090b-435e-b6c2-79a1b0f5e5d8"
+    }
+   ],
    "Builder": [
     {
      "name": "rikkyunboy",

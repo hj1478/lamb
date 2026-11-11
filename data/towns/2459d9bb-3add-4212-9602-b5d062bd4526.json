@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Kauai",
   "uuid": "2459d9bb-3add-4212-9602-b5d062bd4526",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 230,
-   "maxTownBlocks": 240,
+   "numTownBlocks": 234,
+   "maxTownBlocks": 230,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 15,
    "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 10947.0,
+   "balance": 10848.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -57154.04784494173,
-    "y": 67.0,
-    "z": -36.698871072819244,
-    "pitch": 24.455194,
-    "yaw": 88.98706
+    "x": -57154.30000001192,
+    "y": 64.0,
+    "z": -36.30000001192093,
+    "pitch": 13.296424,
+    "yaw": 81.260994
    },
    "homeBlock": [
     -3573,
@@ -848,6 +848,10 @@
      -6
     ],
     [
+     -3564,
+     -8
+    ],
+    [
      -3575,
      -4
     ],
@@ -856,12 +860,24 @@
      -7
     ],
     [
-     -3575,
+     -3564,
      -7
     ],
     [
      -3575,
+     -7
+    ],
+    [
+     -3564,
      -6
+    ],
+    [
+     -3575,
+     -6
+    ],
+    [
+     -3564,
+     -5
     ],
     [
      -3574,

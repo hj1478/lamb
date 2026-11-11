@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Towner",
   "uuid": "02bd0262-45b7-4d3d-aa94-aac926950142",
@@ -12,12 +12,12 @@
    "uuid": "ed8ae0c2-9cdf-46ca-b0a0-0981dfecda37"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
    "registered": 1786662242910,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794020773523,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 34,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
+   "nationBonus": 100,
+   "numResidents": 5,
    "numTrusted": 1,
-   "numOutlaws": 3,
+   "numOutlaws": 2,
    "balance": 3.0,
    "forSalePrice": null
   },
@@ -246,6 +246,10 @@
    {
     "name": "Oberon15",
     "uuid": "13abcabb-2bdf-409e-8f65-2d4f4ae2eb82"
+   },
+   {
+    "name": "andriagela",
+    "uuid": "23b3da67-75a9-48dd-a55d-dbdd09b3d205"
    }
   ],
   "trusted": [
@@ -255,10 +259,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "ljldmclxzq",
-    "uuid": "f128bbe0-befc-46f4-ba06-467171bc6a29"
-   },
    {
     "name": "GovernorAustria1",
     "uuid": "3707249c-4e9f-4abf-9900-4483e8917bd7"

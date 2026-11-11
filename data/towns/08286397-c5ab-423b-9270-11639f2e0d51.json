@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Mokpo",
   "uuid": "08286397-c5ab-423b-9270-11639f2e0d51",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Syreeta05",
-   "uuid": "38c3719c-978a-4ddd-95ed-1d615e8754ce"
+   "name": "NPC129",
+   "uuid": "5624806f-0108-2049-a4ab-71b484c01eaf"
   },
   "nation": {
-   "name": "Korea",
-   "uuid": "3df5dfbc-0e70-48f6-8167-f7e335352d60"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786453545483,
-   "joinedNationAt": 1786803620730,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794340160865
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 66,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -360,8 +360,8 @@
   },
   "residents": [
    {
-    "name": "Syreeta05",
-    "uuid": "38c3719c-978a-4ddd-95ed-1d615e8754ce"
+    "name": "NPC129",
+    "uuid": "5624806f-0108-2049-a4ab-71b484c01eaf"
    }
   ],
   "trusted": [],

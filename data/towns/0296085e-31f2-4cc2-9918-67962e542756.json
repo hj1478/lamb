@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Montevideo",
   "uuid": "0296085e-31f2-4cc2-9918-67962e542756",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DrYeetSir",
-   "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+   "name": "LakeFish19",
+   "uuid": "cd02feee-15d9-4c70-8f59-3f579b13a383"
   },
   "nation": {
    "name": "Uruguay",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 107,
+   "numTownBlocks": 108,
    "maxTownBlocks": 314,
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 22,
-   "numTrusted": 9,
+   "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 19166.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -270,6 +270,10 @@
     [
      -1259,
      1314
+    ],
+    [
+     -1260,
+     1315
     ],
     [
      -1259,
@@ -528,8 +532,8 @@
     "uuid": "823dd0aa-b2ba-4db4-8944-49fdc1eb15fe"
    },
    {
-    "name": "k4rrot",
-    "uuid": "60036b13-5484-4067-ab07-39770fce06b9"
+    "name": "BaDumTss06",
+    "uuid": "1328b047-d915-447a-ba8d-3178b9e2b26c"
    },
    {
     "name": "Walkeddawn67",
@@ -558,10 +562,6 @@
    {
     "name": "1PM",
     "uuid": "c5b4cd2f-bf13-422e-9055-6339bea001ad"
-   },
-   {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
    },
    {
     "name": "Pinetrees101",
@@ -610,44 +610,28 @@
    {
     "name": "NachoCubo",
     "uuid": "9b406c2d-51bf-4279-9d8e-9961a38efc9e"
+   },
+   {
+    "name": "LakeFish19",
+    "uuid": "cd02feee-15d9-4c70-8f59-3f579b13a383"
    }
   ],
   "trusted": [
    {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+    "name": "Z_Khan68",
+    "uuid": "cb1aa45b-aa31-4645-8918-ab82222ccfa3"
    },
    {
-    "name": "Gecko1",
-    "uuid": "6203b1cf-ed72-43ea-a3b5-aa9f34ca63b4"
+    "name": "Amazeon",
+    "uuid": "1b190f0b-c3f3-4676-98f9-2fae336a47dc"
    },
    {
-    "name": "CentralCee_alr",
-    "uuid": "1ffad1ec-d113-4a7f-a315-34ed8d3eae28"
+    "name": "Outofband432",
+    "uuid": "1727a412-18c3-4de2-a7b2-7d0328f4940d"
    },
    {
-    "name": "_DucKnight_",
-    "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"
-   },
-   {
-    "name": "chkr1212",
-    "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
-   },
-   {
-    "name": "Archimedes_099",
-    "uuid": "852fddbf-7f65-4979-a7fe-583b182a880b"
-   },
-   {
-    "name": "VeritasRatio",
-    "uuid": "d70a8a6d-1141-426f-9b15-1ac9d19e2553"
-   },
-   {
-    "name": "PapiDebt",
-    "uuid": "57d4b03b-f08b-45f8-90fc-fd52a2429bf9"
-   },
-   {
-    "name": "ooows",
-    "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
+    "name": "memexcx",
+    "uuid": "6388c81e-b68c-4ebe-84a1-603a3b280ee8"
    }
   ],
   "outlaws": [
@@ -660,7 +644,24 @@
     "uuid": "621952d1-3cdc-43be-83d8-ea382857fd00"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Gloomy Flat",
+    "uuid": "524e42a9-8ef6-464a-9a94-551f3e953378"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "dfcde853-ae73-40bb-b121-7431e853f70d"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "d87df93d-e206-4c53-90e1-bc27355d5bed"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "94f08248-b3aa-43bf-aec9-08c0e9b6b0b3"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Ekenas",
   "uuid": "0f3a4a93-a96e-49e2-80b0-08deef780f63",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 93,
+   "numTownBlocks": 95,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -190,6 +190,14 @@
     [
      532,
      -1045
+    ],
+    [
+     536,
+     -1047
+    ],
+    [
+     536,
+     -1046
     ],
     [
      532,

@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-11T14:31:46Z",
+ "data": {
+  "name": "Palmora",
+  "uuid": "9e9ed151-ec70-4512-b975-9e1ff620d71b",
+  "board": "/town set board [msg]",
+  "founder": "mishal3321",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC80",
+   "uuid": "508ecde5-f6a3-2055-963d-a7f7d0b8e674"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794402024776,
+   "joinedNationAt": null,
+   "ruinedAt": 1794402713380
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -60018.39215422848,
+    "y": 63.0,
+    "z": 13415.997364315648,
+    "pitch": 28.796843,
+    "yaw": -70.43829
+   },
+   "homeBlock": [
+    -3752,
+    838
+   ],
+   "townBlocks": [
+    [
+     -3752,
+     838
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC80",
+    "uuid": "508ecde5-f6a3-2055-963d-a7f7d0b8e674"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Kuwait_City",
   "uuid": "1502151b-08ba-4e4b-899d-3ce25c3a2bd3",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 125,
+   "numTownBlocks": 128,
    "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 4,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 20.0,
    "forSalePrice": null
   },
   "perms": {
@@ -545,11 +545,23 @@
     ],
     [
      1065,
+     -173
+    ],
+    [
+     1065,
      -168
     ],
     [
      1065,
      -169
+    ],
+    [
+     1065,
+     -174
+    ],
+    [
+     1065,
+     -175
     ],
     [
      1067,

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Hamadan",
   "uuid": "1a99824d-5557-421f-bda3-79e83c90d03b",
-  "board": "Khosh aamadid be shahre baastaane Hamadan!",
+  "board": "Be shahre taarikhi-e Hamadan khosh aamadid!",
   "founder": "Palatshu",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 23,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 11.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,7 +59,7 @@
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
@@ -80,19 +80,19 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17318.33228954095,
+    "x": 17318.583455258144,
     "y": 98.0,
-    "z": -5181.437647100314,
-    "pitch": 35.70001,
-    "yaw": -92.137825
+    "z": -5184.592742740516,
+    "pitch": 90.0,
+    "yaw": -67.2739
    },
    "homeBlock": [
     1082,
-    -324
+    -325
    ],
    "townBlocks": [
     [
-     1082,
+     1081,
      -324
     ],
     [
@@ -100,12 +100,28 @@
      -325
     ],
     [
-     1082,
+     1085,
      -325
     ],
     [
-     1082,
+     1081,
      -326
+    ],
+    [
+     1085,
+     -326
+    ],
+    [
+     1081,
+     -327
+    ],
+    [
+     1081,
+     -328
+    ],
+    [
+     1085,
+     -324
     ],
     [
      1083,
@@ -117,6 +133,22 @@
     ],
     [
      1084,
+     -326
+    ],
+    [
+     1086,
+     -324
+    ],
+    [
+     1083,
+     -328
+    ],
+    [
+     1084,
+     -325
+    ],
+    [
+     1086,
      -325
     ],
     [
@@ -126,6 +158,30 @@
     [
      1084,
      -324
+    ],
+    [
+     1083,
+     -327
+    ],
+    [
+     1082,
+     -328
+    ],
+    [
+     1082,
+     -324
+    ],
+    [
+     1082,
+     -325
+    ],
+    [
+     1082,
+     -326
+    ],
+    [
+     1082,
+     -327
     ]
    ],
    "worlds": {}

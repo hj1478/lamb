@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Ayvalik",
   "uuid": "09eb2c14-ba33-499e-aabc-942a7107afb1",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 192,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 6,
-   "numOutlaws": 13,
+   "numResidents": 4,
+   "numTrusted": 5,
+   "numOutlaws": 12,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -876,31 +876,11 @@
     "uuid": "ecc58791-231b-4171-b01c-a81ffd59e25f"
    },
    {
-    "name": "BUH6781",
-    "uuid": "fa501828-561b-4f7c-8d8c-fbb989525c1e"
-   },
-   {
     "name": "GORGMctominay",
     "uuid": "df5a8ae2-53f9-40d0-9e34-2ef54eac4d60"
-   },
-   {
-    "name": "SgtClapped",
-    "uuid": "fc1993b6-67aa-46c8-b1b1-931b3baac062"
-   },
-   {
-    "name": "Preciouscatfi25",
-    "uuid": "ada47a9d-c39d-43e5-aceb-dfed5447295e"
-   },
-   {
-    "name": "BAC0NY",
-    "uuid": "b71eef9c-34fe-41f7-8647-df571d1ff045"
    }
   ],
   "trusted": [
-   {
-    "name": "BAC0NY",
-    "uuid": "b71eef9c-34fe-41f7-8647-df571d1ff045"
-   },
    {
     "name": "28st",
     "uuid": "5699652a-7ff4-4054-8b88-4b719ed17f1a"
@@ -948,10 +928,6 @@
     "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
    },
    {
-    "name": "Turanci_maresal",
-    "uuid": "d7a7d122-7d11-4f25-83ac-fe33112f85f1"
-   },
-   {
     "name": "SMPLover",
     "uuid": "0808a08f-b20d-4030-bfb8-1713130c194b"
    },
@@ -990,16 +966,16 @@
     "uuid": "6978682a-3cb4-4ac1-b83f-8c155ec5fa9d"
    },
    {
-    "name": "Elegant Suite",
-    "uuid": "91ac6356-173f-4844-83ba-d13cec2dc9f6"
-   },
-   {
     "name": "Upbeat Apartment",
     "uuid": "601b9cb0-1609-4607-a54c-79d822abfc63"
    },
    {
     "name": "Inconvenient Flat",
     "uuid": "8f79dea6-a00e-42e4-8d89-9726dc9a3226"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "91ac6356-173f-4844-83ba-d13cec2dc9f6"
    },
    {
     "name": "door",

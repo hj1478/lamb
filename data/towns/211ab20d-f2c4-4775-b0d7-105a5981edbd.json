@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Fezzan",
   "uuid": "211ab20d-f2c4-4775-b0d7-105a5981edbd",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ArdaTe_",
-   "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   "name": "BayFisne23",
+   "uuid": "a03b7c0f-2e38-4ce8-b87f-09cabb906cc8"
   },
   "nation": {
    "name": "Libya",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 78,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 50,
    "numResidents": 4,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -116,16 +116,20 @@
      -162
     ],
     [
-     272,
-     -166
+     267,
+     -164
     ],
     [
      271,
      -164
     ],
     [
+     272,
+     -166
+    ],
+    [
      267,
-     -164
+     -165
     ],
     [
      271,
@@ -134,18 +138,6 @@
     [
      272,
      -165
-    ],
-    [
-     267,
-     -165
-    ],
-    [
-     270,
-     -166
-    ],
-    [
-     271,
-     -166
     ],
     [
      267,
@@ -153,6 +145,18 @@
     ],
     [
      270,
+     -166
+    ],
+    [
+     271,
+     -166
+    ],
+    [
+     267,
+     -163
+    ],
+    [
+     270,
      -167
     ],
     [
@@ -162,10 +166,6 @@
     [
      272,
      -167
-    ],
-    [
-     267,
-     -163
     ],
     [
      270,
@@ -240,10 +240,6 @@
   },
   "residents": [
    {
-    "name": "ArdaTe_",
-    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-   },
-   {
     "name": "MehmetBey69",
     "uuid": "3dfe797c-c256-43df-9097-37bb53ad51dd"
    },
@@ -254,9 +250,17 @@
    {
     "name": "Ahmtysn",
     "uuid": "20f35e23-123b-420c-932e-c34022b8f587"
+   },
+   {
+    "name": "BayFisne23",
+    "uuid": "a03b7c0f-2e38-4ce8-b87f-09cabb906cc8"
    }
   ],
   "trusted": [
+   {
+    "name": "ArdaTe_",
+    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   },
    {
     "name": "HasanHasa",
     "uuid": "81bbf644-5635-47fa-9a98-569d85fbd5b3"
@@ -272,51 +276,17 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    },
-    {
      "name": "avizebaby",
      "uuid": "71561fe6-dac3-494b-b428-e3428c0596c8"
     }
    ],
-   "Builder": [
-    {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
-   "Police": [
-    {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    }
-   ],
-   "Tax-exempt": [
-    {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    }
-   ],
-   "Realtor": [
-    {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    }
-   ],
-   "Settler": [
-    {
-     "name": "ArdaTe_",
-     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
-    }
-   ]
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

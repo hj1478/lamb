@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Nolungsallowed",
   "uuid": "0c81f1c1-754e-4122-89ae-635b01c4179a",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 1,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,28 +80,20 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -18291.30000001192,
-    "y": 68.0,
-    "z": 15536.300000011921,
-    "pitch": 12.149983,
-    "yaw": 153.99396
+    "x": -18294.41779556098,
+    "y": 70.0,
+    "z": 15513.699999988079,
+    "pitch": 41.242744,
+    "yaw": 171.3764
    },
    "homeBlock": [
     -1144,
-    971
+    969
    ],
    "townBlocks": [
     [
      -1144,
-     970
-    ],
-    [
-     -1144,
      969
-    ],
-    [
-     -1144,
-     971
     ]
    ],
    "worlds": {}
@@ -112,18 +104,8 @@
     "uuid": "756c4b99-8a88-4cc6-bdd0-d5154444dd71"
    }
   ],
-  "trusted": [
-   {
-    "name": "gangster1221",
-    "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
-   }
-  ],
-  "outlaws": [
-   {
-    "name": "thebestLung",
-    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
-   }
-  ],
+  "trusted": [],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

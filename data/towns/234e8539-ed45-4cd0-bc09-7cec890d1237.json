@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Artashat",
   "uuid": "234e8539-ed45-4cd0-bc09-7cec890d1237",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 92,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 7,
    "numOutlaws": 5,
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": false,
     "mobs": false
    }

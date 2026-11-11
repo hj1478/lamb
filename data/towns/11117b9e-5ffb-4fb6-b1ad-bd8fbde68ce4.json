@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Aussa",
   "uuid": "11117b9e-5ffb-4fb6-b1ad-bd8fbde68ce4",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NightmareOwO7",
+   "name": "NightmareOwOr",
    "uuid": "2e7cd8c2-0a99-4899-9bde-490298cd3061"
   },
   "nation": {
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 8,
    "numTrusted": 5,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 1.0,
    "forSalePrice": null
   },
@@ -256,7 +256,7 @@
   },
   "residents": [
    {
-    "name": "NightmareOwO7",
+    "name": "NightmareOwOr",
     "uuid": "2e7cd8c2-0a99-4899-9bde-490298cd3061"
    },
    {
@@ -278,6 +278,14 @@
    {
     "name": "flikrtz",
     "uuid": "3bffc0ef-e028-4572-8ff1-069859b0d04f"
+   },
+   {
+    "name": "Monoscoping",
+    "uuid": "8de4c383-7270-4282-b76d-42b294108d72"
+   },
+   {
+    "name": "GMTFA",
+    "uuid": "cf0c2742-9ac2-4f8a-b80c-be483310f1cc"
    }
   ],
   "trusted": [
@@ -302,7 +310,12 @@
     "uuid": "744149c6-539f-4626-9a57-106fb581d52a"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   }
+  ],
   "quarters": [
    {
     "name": "Welcoming Quarter",
@@ -311,14 +324,6 @@
    {
     "name": "Lovely Apartment",
     "uuid": "8c61b854-665b-42af-8f1b-d5b27c86cb0a"
-   },
-   {
-    "name": "Inviting Suite",
-    "uuid": "92f5d262-d1c9-4b79-8b62-b9f0ce37f7ba"
-   },
-   {
-    "name": "Dull Apartment",
-    "uuid": "dde08708-0119-415c-8b1e-3cc6dac8c8ba"
    },
    {
     "name": "Cheerful Flat",
@@ -331,6 +336,22 @@
    {
     "name": "Welcoming Tenement",
     "uuid": "1e0c671a-f331-4856-bd3a-5fbc3e653cb4"
+   },
+   {
+    "name": "Dull Apartment",
+    "uuid": "dde08708-0119-415c-8b1e-3cc6dac8c8ba"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "92f5d262-d1c9-4b79-8b62-b9f0ce37f7ba"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "25b31e2d-f74b-4bb4-970b-852920b8195f"
+   },
+   {
+    "name": "Cheerful Dwelling",
+    "uuid": "5b2a8536-c5db-40da-8a3b-d4317717d8dd"
    }
   ],
   "ranks": {

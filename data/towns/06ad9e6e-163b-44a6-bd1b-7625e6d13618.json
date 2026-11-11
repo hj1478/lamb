@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Blancquefort",
   "uuid": "06ad9e6e-163b-44a6-bd1b-7625e6d13618",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 6,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -76.45462592022753,
+    "x": -70.47828602615613,
     "y": 65.0,
-    "z": -9351.51794158298,
-    "pitch": -29.549913,
-    "yaw": 90.69446
+    "z": -9330.305334220864,
+    "pitch": -5.2500353,
+    "yaw": -179.15498
    },
    "homeBlock": [
     -5,
-    -585
+    -584
    ],
    "townBlocks": [
     [
@@ -284,12 +284,12 @@
      -580
     ],
     [
-     -14,
-     -579
-    ],
-    [
      -6,
      -585
+    ],
+    [
+     -14,
+     -579
     ],
     [
      -6,
@@ -764,12 +764,12 @@
   },
   "residents": [
    {
-    "name": "Bowbes8",
-    "uuid": "baea8308-868b-4614-8922-20a3269852d9"
-   },
-   {
     "name": "Davidas12",
     "uuid": "e478168a-f5c1-45fd-8c78-b54dcad1e3ee"
+   },
+   {
+    "name": "DumbledoreTheArc",
+    "uuid": "9735982e-c099-4dd7-a54a-61efbd732ef5"
    },
    {
     "name": "SalmonEntity",
@@ -792,6 +792,10 @@
    {
     "name": "0_ggmaster_0",
     "uuid": "e67a17c8-8afa-4956-b3d7-2e1f90f89fd5"
+   },
+   {
+    "name": "Mystikaosss",
+    "uuid": "852b8201-7c8e-47d8-b59b-1b0f7c8f18ea"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Hormuz",
   "uuid": "1a6e4c64-50bb-462d-8a8c-7aa8a7ef0291",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kbbnm",
-   "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
+   "name": "HeyPuffer",
+   "uuid": "f7d54917-30d3-4b79-8214-02815a1ac63c"
   },
   "nation": {
-   "name": "UAE",
-   "uuid": "7c48b77f-01e8-4c76-8fff-08104b930cc2"
+   "name": "Persia",
+   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
   },
   "timestamps": {
    "registered": 1777657612820,
-   "joinedNationAt": 1777804176690,
+   "joinedNationAt": 1794020234166,
    "ruinedAt": null
   },
   "status": {
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 115,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 6,
+   "nationBonus": 60,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 200.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 19867.02426303284,
-    "y": -19.0,
-    "z": -1888.32668407611,
-    "pitch": 12.0260725,
-    "yaw": 94.63516
+    "x": 19848.61206417433,
+    "y": 64.0,
+    "z": -1826.1145006537827,
+    "pitch": -4.880048,
+    "yaw": -0.8451233
    },
    "homeBlock": [
-    1241,
-    -119
+    1240,
+    -115
    ],
    "townBlocks": [
     [
@@ -556,34 +556,22 @@
   },
   "residents": [
    {
-    "name": "kbbnm",
-    "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
+    "name": "AhlulBayt",
+    "uuid": "b05af323-cc91-4ab0-a3c3-076be93292c0"
+   },
+   {
+    "name": "HeyPuffer",
+    "uuid": "f7d54917-30d3-4b79-8214-02815a1ac63c"
    }
   ],
   "trusted": [
    {
-    "name": "ItsFurina",
-    "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
+    "name": "nachoman267",
+    "uuid": "a1db3a1a-efc0-466a-8f14-58be86e72223"
    },
    {
-    "name": "yangxingzhe",
-    "uuid": "437797b6-6c26-47df-8c1d-e0ec8b0475d9"
-   },
-   {
-    "name": "AstrInk",
-    "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
-   },
-   {
-    "name": "ji_mo",
-    "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
-   },
-   {
-    "name": "whatmilo",
-    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
-   },
-   {
-    "name": "Tsunlam123",
-    "uuid": "5363a704-3197-470a-a0f8-883105cfe1a2"
+    "name": "GameSquire76",
+    "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
    }
   ],
   "outlaws": [],

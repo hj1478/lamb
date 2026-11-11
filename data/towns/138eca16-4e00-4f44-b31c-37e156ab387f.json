@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "New_Ungava",
   "uuid": "138eca16-4e00-4f44-b31c-37e156ab387f",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 2.0,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,12 +100,20 @@
      -875
     ],
     [
+     -1469,
+     -873
+    ],
+    [
      -1470,
      -874
     ],
     [
      -1470,
      -873
+    ],
+    [
+     -1469,
+     -875
     ]
    ],
    "worlds": {}
@@ -114,6 +122,10 @@
    {
     "name": "HH30120",
     "uuid": "32a75be5-b07f-45c5-8599-4df6fd1519cf"
+   },
+   {
+    "name": "SirAurum",
+    "uuid": "a8f949e3-1530-4feb-a583-31453857f0c1"
    }
   ],
   "trusted": [],
@@ -126,7 +138,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "SirAurum",
+     "uuid": "a8f949e3-1530-4feb-a583-31453857f0c1"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

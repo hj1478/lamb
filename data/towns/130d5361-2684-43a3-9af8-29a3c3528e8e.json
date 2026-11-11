@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Leverkusen",
   "uuid": "130d5361-2684-43a3-9af8-29a3c3528e8e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -104,16 +104,16 @@
      -766
     ],
     [
+     233,
+     -763
+    ],
+    [
      235,
      -765
     ],
     [
      233,
-     -763
-    ],
-    [
-     234,
-     -762
+     -764
     ],
     [
      235,
@@ -121,39 +121,19 @@
     ],
     [
      233,
-     -764
-    ],
-    [
-     233,
      -765
     ],
     [
      235,
      -763
-    ],
-    [
-     234,
-     -765
     ],
     [
      235,
      -762
-    ],
-    [
-     234,
-     -766
-    ],
-    [
-     234,
-     -763
     ],
     [
      232,
      -763
-    ],
-    [
-     234,
-     -764
     ],
     [
      232,
@@ -170,6 +150,82 @@
     [
      232,
      -766
+    ],
+    [
+     229,
+     -760
+    ],
+    [
+     234,
+     -762
+    ],
+    [
+     229,
+     -761
+    ],
+    [
+     229,
+     -762
+    ],
+    [
+     229,
+     -763
+    ],
+    [
+     234,
+     -765
+    ],
+    [
+     234,
+     -766
+    ],
+    [
+     230,
+     -760
+    ],
+    [
+     234,
+     -763
+    ],
+    [
+     234,
+     -764
+    ],
+    [
+     231,
+     -765
+    ],
+    [
+     231,
+     -766
+    ],
+    [
+     230,
+     -763
+    ],
+    [
+     231,
+     -761
+    ],
+    [
+     231,
+     -762
+    ],
+    [
+     231,
+     -763
+    ],
+    [
+     230,
+     -761
+    ],
+    [
+     231,
+     -764
+    ],
+    [
+     230,
+     -762
     ]
    ],
    "worlds": {}
@@ -182,6 +238,10 @@
    {
     "name": "Beef_i1l",
     "uuid": "cd2277db-c267-4f09-bb1f-f90b24e44bce"
+   },
+   {
+    "name": "chkr1212",
+    "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
    }
   ],
   "trusted": [
@@ -201,7 +261,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Beef_i1l",
+     "uuid": "cd2277db-c267-4f09-bb1f-f90b24e44bce"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

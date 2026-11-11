@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Campinas",
   "uuid": "0f266f65-070d-4674-a619-bcd8b134a341",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -116,10 +116,30 @@
      1025
     ],
     [
+     -1060,
+     1024
+    ],
+    [
+     -1061,
+     1026
+    ],
+    [
+     -1061,
+     1025
+    ],
+    [
      -1059,
      1024
     ],
     [
+     -1061,
+     1024
+    ],
+    [
+     -1060,
+     1026
+    ],
+    [
      -1057,
      1024
     ],
@@ -130,14 +150,14 @@
     [
      -1055,
      1024
-    ],
-    [
-     -1055,
-     1025
     ],
     [
      -1057,
      1026
+    ],
+    [
+     -1055,
+     1025
     ],
     [
      -1055,
@@ -162,9 +182,17 @@
    {
     "name": "Person_2d",
     "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
+   },
+   {
+    "name": "ASClairJr",
+    "uuid": "d3177a3a-b907-489f-a9eb-76a4ffc1c354"
    }
   ],
   "trusted": [
+   {
+    "name": "Canedoo01",
+    "uuid": "b899e2e1-5013-4157-b32f-95f0a2598aaa"
+   },
    {
     "name": "AgenteC",
     "uuid": "28fc2df1-c7b3-4092-8f77-f47e122b11cf"
@@ -172,6 +200,18 @@
    {
     "name": "Capy3058",
     "uuid": "a2371305-d7b3-46df-a35c-e4a3c5913ac1"
+   },
+   {
+    "name": "shak2022",
+    "uuid": "98f54e1f-7945-46f3-8278-ba52e2842ccb"
+   },
+   {
+    "name": "Thiwgo",
+    "uuid": "6144be09-078c-48ba-b978-8085bdd11efe"
+   },
+   {
+    "name": "SirPug830",
+    "uuid": "a04cff05-9898-4860-8669-c7614912eae0"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Huesca",
   "uuid": "09a3260d-725c-41b0-a60b-0569393c37cc",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 119,
-   "maxTownBlocks": 224,
+   "numTownBlocks": 128,
+   "maxTownBlocks": 248,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 12,
-   "numTrusted": 1,
+   "numResidents": 14,
+   "numTrusted": 0,
    "numOutlaws": 5,
-   "balance": 80.0,
+   "balance": 67.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -127.50580667679452,
-    "y": 76.0,
-    "z": -7995.054135919615,
-    "pitch": 14.999929,
-    "yaw": -59.066135
+    "x": -143.62319750651014,
+    "y": 74.0,
+    "z": -7987.509534019779,
+    "pitch": 23.25007,
+    "yaw": -176.13333
    },
    "homeBlock": [
-    -8,
+    -9,
     -500
    ],
    "townBlocks": [
@@ -176,6 +176,10 @@
      -505
     ],
     [
+     -7,
+     -506
+    ],
+    [
      -16,
      -504
     ],
@@ -208,11 +212,15 @@
      -503
     ],
     [
-     -7,
-     -500
+     -6,
+     -506
     ],
     [
      -7,
+     -500
+    ],
+    [
+     -7,
      -501
     ],
     [
@@ -261,7 +269,15 @@
     ],
     [
      -11,
+     -506
+    ],
+    [
+     -11,
      -505
+    ],
+    [
+     -9,
+     -506
     ],
     [
      -11,
@@ -296,6 +312,10 @@
      -498
     ],
     [
+     -12,
+     -506
+    ],
+    [
      -8,
      -497
     ],
@@ -346,6 +366,10 @@
     [
      -4,
      -501
+    ],
+    [
+     -8,
+     -506
     ],
     [
      -8,
@@ -420,6 +444,10 @@
      -499
     ],
     [
+     -4,
+     -506
+    ],
+    [
      -12,
      -498
     ],
@@ -434,6 +462,10 @@
     [
      -5,
      -505
+    ],
+    [
+     -5,
+     -506
     ],
     [
      -14,
@@ -546,6 +578,10 @@
     [
      -10,
      -505
+    ],
+    [
+     -10,
+     -506
     ],
     [
      -16,
@@ -618,14 +654,17 @@
    {
     "name": "Miky1piky",
     "uuid": "241871e1-74ed-46f2-9850-eb88aed22f90"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "Senninn",
-    "uuid": "35f8a2ad-35ec-4f88-b777-8f06f39ba3ba"
+    "name": "Pato_Admin",
+    "uuid": "cf6b62c7-fd06-4a53-bb9a-3282a41114ad"
+   },
+   {
+    "name": "Snora1210",
+    "uuid": "44f9ece6-5b45-401e-9f9d-63b4738639a4"
    }
   ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "ZeninXR",
@@ -696,7 +735,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "1",
+    "uuid": "f4c8d302-fd09-41bd-a99f-9482e2caf9aa",
+    "createdAt": 1794257988434,
+    "createdBy": "kepgfna",
+    "access": "NATION",
+    "location": {
+     "x": -146,
+     "y": 318,
+     "z": -7926
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T14:40:57Z",
+ "fetched_at": "2026-11-11T14:31:46Z",
  "data": {
   "name": "Jojoland",
   "uuid": "22c2a001-cb39-4651-ab93-5ad863522ff5",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "EyzziStark",
-   "uuid": "c522234b-d3d4-4e31-8230-e5f5331026dc"
+   "name": "RobertFKennedyJr",
+   "uuid": "63b6336b-3d5e-450c-940a-edee4f91d856"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
    "registered": 1778011268726,
-   "joinedNationAt": 1792500028262,
+   "joinedNationAt": 1793919735096,
    "ruinedAt": null
   },
   "status": {
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 117,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "nationBonus": 80,
+   "numResidents": 4,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 1000.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -564,22 +564,42 @@
   },
   "residents": [
    {
+    "name": "syylaas",
+    "uuid": "6c1a9c34-e4bc-4759-8515-bba0f2e8fe78"
+   },
+   {
     "name": "Ozz98",
     "uuid": "2f4ff884-491b-46b3-b8b9-e9e1a56aea9b"
    },
    {
-    "name": "EyzziStark",
-    "uuid": "c522234b-d3d4-4e31-8230-e5f5331026dc"
-   },
-   {
     "name": "Caw827",
     "uuid": "768a0c34-b917-4578-97fb-07a6c9e11146"
+   },
+   {
+    "name": "RobertFKennedyJr",
+    "uuid": "63b6336b-3d5e-450c-940a-edee4f91d856"
    }
   ],
   "trusted": [
    {
     "name": "justromann",
     "uuid": "984c300d-ed52-4b60-a040-bdce6a2062ef"
+   },
+   {
+    "name": "KATTIV",
+    "uuid": "fb8c5568-5017-4c3b-bf96-238d7c663146"
+   },
+   {
+    "name": "rpr220",
+    "uuid": "efda09fe-9853-4ae6-b99d-ff4ed6a0da8e"
+   },
+   {
+    "name": "Aradiante",
+    "uuid": "da8c04d6-ea79-4f2b-bb62-d263ab0e582a"
+   },
+   {
+    "name": "XLNuggets",
+    "uuid": "341b028f-07d8-4dcb-9f17-711d38f713f5"
    }
   ],
   "outlaws": [],
@@ -639,12 +659,7 @@
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Ozz98",
-     "uuid": "2f4ff884-491b-46b3-b8b9-e9e1a56aea9b"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
