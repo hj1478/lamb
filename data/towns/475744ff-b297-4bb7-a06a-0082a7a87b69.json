@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Fort_Chbala",
   "uuid": "475744ff-b297-4bb7-a06a-0082a7a87b69",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dom_yes",
-   "uuid": "42dff4c3-adef-4b57-b918-c1a161d8cf09"
+   "name": "NPC72",
+   "uuid": "81c38e6a-669b-200a-9b48-d5991d9af44c"
   },
   "nation": {
-   "name": "Anchorage",
-   "uuid": "a19a509d-7ea1-46eb-8b88-ae7757ed2494"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784701936425,
-   "joinedNationAt": 1784701959023,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794391207624
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -180,29 +180,15 @@
   },
   "residents": [
    {
-    "name": "Borbyisme",
-    "uuid": "cda1b4e2-e327-49fd-bd83-f003a3c8858a"
-   },
-   {
-    "name": "Dom_yes",
-    "uuid": "42dff4c3-adef-4b57-b918-c1a161d8cf09"
+    "name": "NPC72",
+    "uuid": "81c38e6a-669b-200a-9b48-d5991d9af44c"
    }
   ],
-  "trusted": [
-   {
-    "name": "Dom_yes",
-    "uuid": "42dff4c3-adef-4b57-b918-c1a161d8cf09"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Dom_yes",
-     "uuid": "42dff4c3-adef-4b57-b918-c1a161d8cf09"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "The_Underkingdom",
   "uuid": "3d311307-ec8e-42d3-854f-b6cd3edd285b",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "I_tou_N",
-   "uuid": "aa94185f-fbbc-4236-9ad7-90dd7e9d74c4"
+   "name": "NPC8",
+   "uuid": "583ddc66-2fcc-2069-9469-a8f0fc896ed0"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789342721436,
-   "joinedNationAt": 1789342741302,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794304802604
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "I_tou_N",
-    "uuid": "aa94185f-fbbc-4236-9ad7-90dd7e9d74c4"
+    "name": "NPC8",
+    "uuid": "583ddc66-2fcc-2069-9469-a8f0fc896ed0"
    }
   ],
   "trusted": [],

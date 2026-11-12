@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
-  "name": "Tamaulipas",
+  "name": "Aztecalipas",
   "uuid": "2b7a7e6d-48cb-46a2-9ea9-55f0a9a705ff",
   "board": "wars footsteps",
   "founder": "Invisible_Compy",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ravenwood5792",
-   "uuid": "69fbd5b6-5aad-4690-9015-2ea7634e03c3"
+   "name": "Guibsadminshalla",
+   "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
   },
   "nation": {
    "name": "Mexico",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -40,10 +40,10 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 2,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 250.0
   },
   "perms": {
    "build": [
@@ -228,11 +228,20 @@
     "uuid": "a1fd04e9-c640-4e5d-bbc4-a298216227b9"
    },
    {
-    "name": "Ravenwood5792",
-    "uuid": "69fbd5b6-5aad-4690-9015-2ea7634e03c3"
+    "name": "Guibsadminshalla",
+    "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Guibsadminshalla",
+    "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
+   },
+   {
+    "name": "SceptixOff",
+    "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

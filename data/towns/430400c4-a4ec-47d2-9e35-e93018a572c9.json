@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
-  "name": "VoteForSherrod",
+  "name": "Mansfield",
   "uuid": "430400c4-a4ec-47d2-9e35-e93018a572c9",
   "board": "/town set board [msg]",
   "founder": "gflesch",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -29399.30000001192,
+    "x": -29400.49033342401,
     "y": 68.0,
-    "z": -7422.685001244625,
-    "pitch": -5.249782,
-    "yaw": 39.498066
+    "z": -7414.5629332479,
+    "pitch": 73.16072,
+    "yaw": -166.42683
    },
    "homeBlock": [
     -1838,
@@ -94,6 +94,14 @@
     [
      -1838,
      -464
+    ],
+    [
+     -1837,
+     -463
+    ],
+    [
+     -1837,
+     -464
     ]
    ],
    "worlds": {}
@@ -102,13 +110,30 @@
    {
     "name": "gflesch",
     "uuid": "3321bdc5-696b-4e9b-abf3-50d73aa8343d"
+   },
+   {
+    "name": "LoganKS5",
+    "uuid": "28ff2126-409a-487c-b7ee-cfbcb9c9a24d"
+   },
+   {
+    "name": "DrMindBlast",
+    "uuid": "ed2fb203-851f-46b9-b7bc-59310e39992a"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "LoganKS5",
+     "uuid": "28ff2126-409a-487c-b7ee-cfbcb9c9a24d"
+    },
+    {
+     "name": "DrMindBlast",
+     "uuid": "ed2fb203-851f-46b9-b7bc-59310e39992a"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

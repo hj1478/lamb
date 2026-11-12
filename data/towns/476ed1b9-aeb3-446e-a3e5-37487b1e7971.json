@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Vlore",
   "uuid": "476ed1b9-aeb3-446e-a3e5-37487b1e7971",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1776642286097,
-   "joinedNationAt": 1793370413047,
+   "joinedNationAt": 1793968778984,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 4,
-   "numTrusted": 6,
+   "numTrusted": 7,
    "numOutlaws": 5,
-   "balance": 25.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -576,23 +576,31 @@
   },
   "residents": [
    {
-    "name": "Shef0226",
-    "uuid": "4083bd9a-8fa1-4d12-9e19-32ec6f71d6df"
-   },
-   {
     "name": "Anime_zone21",
     "uuid": "a69d6ee2-0d65-4f07-a790-7841cd8d8e0c"
+   },
+   {
+    "name": "ioniclink",
+    "uuid": "ed116740-77dd-489d-9741-7416503e4c97"
    },
    {
     "name": "F0UR_",
     "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
    },
    {
-    "name": "ioniclink",
-    "uuid": "ed116740-77dd-489d-9741-7416503e4c97"
+    "name": "Nythm",
+    "uuid": "0fa991aa-24ce-4a20-88aa-494ff6de31b3"
    }
   ],
   "trusted": [
+   {
+    "name": "CherryPinkVelvet",
+    "uuid": "bf65776c-972b-4b98-95eb-2dabfa8a4733"
+   },
+   {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
    {
     "name": "LassqL",
     "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
@@ -606,16 +614,12 @@
     "uuid": "30aa709b-965c-48ee-946f-67ab79a386de"
    },
    {
-    "name": "k7m9r",
-    "uuid": "eaf2e3e5-7b6b-416d-90ba-23abd168c915"
+    "name": "F0UR_",
+    "uuid": "fe6010f3-ac8f-4a0a-80d8-4a8b1aa184bf"
    },
    {
     "name": "0P2W",
     "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
-   },
-   {
-    "name": "dex247",
-    "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
    }
   ],
   "outlaws": [
@@ -642,12 +646,12 @@
   ],
   "quarters": [
    {
-    "name": "Enraging Residence",
-    "uuid": "93dabaff-45be-4b11-a212-d5f59be338a8"
-   },
-   {
     "name": "Lovely Suite",
     "uuid": "cfd95e1c-4275-4e20-9562-6558b0a4d48e"
+   },
+   {
+    "name": "Enraging Residence",
+    "uuid": "93dabaff-45be-4b11-a212-d5f59be338a8"
    }
   ],
   "ranks": {

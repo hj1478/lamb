@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Quadsquad",
   "uuid": "32c2f1e6-bb5c-48fb-b801-80fa57867f33",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Virsanov",
-   "uuid": "e4a5eb60-9899-41c5-b963-1a2ce65fb276"
+   "name": "NPC11",
+   "uuid": "829fb7f0-b0d3-204b-a92e-712623ed8a97"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1778967433403,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794304802736
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -48,33 +48,33 @@
   "perms": {
    "build": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -280,8 +280,8 @@
   },
   "residents": [
    {
-    "name": "Virsanov",
-    "uuid": "e4a5eb60-9899-41c5-b963-1a2ce65fb276"
+    "name": "NPC11",
+    "uuid": "829fb7f0-b0d3-204b-a92e-712623ed8a97"
    }
   ],
   "trusted": [],

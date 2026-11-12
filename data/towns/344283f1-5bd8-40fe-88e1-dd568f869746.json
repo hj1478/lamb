@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Montserrat",
   "uuid": "344283f1-5bd8-40fe-88e1-dd568f869746",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "daBrombaer",
-   "uuid": "a4591b26-9aec-4b55-a9db-8d4638866b7b"
+   "name": "NPC76",
+   "uuid": "ba0e0468-d8b9-2041-b9fe-71c1b56e257e"
   },
   "nation": {
-   "name": "Amazon",
-   "uuid": "42b01dcb-1758-4524-b0b2-178cd67ef7ea"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780522302474,
-   "joinedNationAt": 1780690418048,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794391208151
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -256,8 +256,8 @@
   },
   "residents": [
    {
-    "name": "daBrombaer",
-    "uuid": "a4591b26-9aec-4b55-a9db-8d4638866b7b"
+    "name": "NPC76",
+    "uuid": "ba0e0468-d8b9-2041-b9fe-71c1b56e257e"
    }
   ],
   "trusted": [],

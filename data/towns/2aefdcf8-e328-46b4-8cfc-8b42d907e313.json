@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Cumania",
   "uuid": "2aefdcf8-e328-46b4-8cfc-8b42d907e313",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FurkanGvn",
-   "uuid": "8f20d19a-be3f-4318-bee8-130ebe0db7f3"
+   "name": "NPC16",
+   "uuid": "1247e181-2483-206a-99a1-6d5d1c12b81a"
   },
   "nation": {
-   "name": "Iberia",
-   "uuid": "bd9482de-2368-470c-8c3d-baf445e74f6c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777668842155,
-   "joinedNationAt": 1778879813683,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794304802985
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -544,8 +544,8 @@
   },
   "residents": [
    {
-    "name": "FurkanGvn",
-    "uuid": "8f20d19a-be3f-4318-bee8-130ebe0db7f3"
+    "name": "NPC16",
+    "uuid": "1247e181-2483-206a-99a1-6d5d1c12b81a"
    }
   ],
   "trusted": [],

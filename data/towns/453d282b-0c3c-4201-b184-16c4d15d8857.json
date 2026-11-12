@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Portsoy",
   "uuid": "453d282b-0c3c-4201-b184-16c4d15d8857",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Birdcrest",
-   "uuid": "dbee4acd-9806-40ba-ac2f-87fe7b9a63b8"
+   "name": "gangster1221",
+   "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
   },
   "nation": {
    "name": "Scotland",
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 2.0,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -192,16 +192,25 @@
   },
   "residents": [
    {
-    "name": "Birdcrest",
-    "uuid": "dbee4acd-9806-40ba-ac2f-87fe7b9a63b8"
-   },
-   {
     "name": "RoyalDot",
     "uuid": "b22e0693-4cd3-49db-a5e2-77a7c253efb4"
+   },
+   {
+    "name": "gangster1221",
+    "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
+   {
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   }
+  ],
   "quarters": [
    {
     "name": "Gloomy Residence",

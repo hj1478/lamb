@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Jaen",
   "uuid": "40e210a9-cef7-4a53-bc32-ddf639b00a10",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 105,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 111,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 3,
+   "nationBonus": 100,
+   "numResidents": 8,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 4.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -272,6 +272,10 @@
      -396
     ],
     [
+     -89,
+     -400
+    ],
+    [
      -79,
      -397
     ],
@@ -298,6 +302,14 @@
     [
      -81,
      -393
+    ],
+    [
+     -89,
+     -401
+    ],
+    [
+     -89,
+     -402
     ],
     [
      -82,
@@ -408,12 +420,12 @@
      -400
     ],
     [
-     -85,
-     -401
-    ],
-    [
      -88,
      -393
+    ],
+    [
+     -85,
+     -401
     ],
     [
      -88,
@@ -510,15 +522,23 @@
     [
      -86,
      -393
+    ],
+    [
+     -88,
+     -402
+    ],
+    [
+     -88,
+     -401
+    ],
+    [
+     -88,
+     -400
     ]
    ],
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "_Derroy_",
-    "uuid": "db389eaf-0374-48c5-a183-d8d389e9bf22"
-   },
    {
     "name": "Elpato3164",
     "uuid": "30150aaa-829c-4fd3-b2e9-cfbdd871bc14"
@@ -526,6 +546,30 @@
    {
     "name": "cooltryple56789",
     "uuid": "3db427af-7a43-46f9-ab3d-f40bdc191318"
+   },
+   {
+    "name": "Turbo_crak",
+    "uuid": "a2fffae5-3904-4e37-9139-d79f35757360"
+   },
+   {
+    "name": "Micelula",
+    "uuid": "92ea74d2-dbda-466b-8e3f-41f2424f0833"
+   },
+   {
+    "name": "Diejeitor63",
+    "uuid": "8bcf4ebe-a820-452d-812c-fcb2d9171434"
+   },
+   {
+    "name": "K4DOS1T0",
+    "uuid": "dacd1c97-3241-482a-8e8f-403e86c4debc"
+   },
+   {
+    "name": "_Derroy_",
+    "uuid": "db389eaf-0374-48c5-a183-d8d389e9bf22"
+   },
+   {
+    "name": "Geoergon_2313",
+    "uuid": "b804a2ec-3270-48c7-8ebf-39a66dbebd18"
    }
   ],
   "trusted": [],
@@ -536,30 +580,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Lovely Property",
-    "uuid": "eacdf9db-10e0-414b-b030-fa1405b72590"
-   },
-   {
-    "name": "Luxurious Property",
-    "uuid": "075ac35e-c156-4021-bbe8-ccfd6612c595"
-   },
-   {
-    "name": "Inviting Quarter",
-    "uuid": "4abe0a75-8cef-48a9-a6e7-5cf413720238"
-   },
-   {
-    "name": "Enraging Flat",
-    "uuid": "0e2f69e6-f3db-461f-bd95-a8f7cb776bfc"
-   },
-   {
-    "name": "Perturbing Tenement",
-    "uuid": "b63d9de7-f2ed-4860-9080-6fed33a29c8e"
-   },
-   {
-    "name": "Dingy Quarter",
-    "uuid": "51fdf745-8b33-4a46-8579-fdab887eb050"
-   },
    {
     "name": "Dingy Flat",
     "uuid": "0e85157f-1bef-46d6-aa12-0848406595e0"
@@ -601,12 +621,12 @@
     "uuid": "a910d1cc-7f88-4152-8d28-1c7bf8d98888"
    },
    {
-    "name": "Welcoming Suite",
-    "uuid": "07028fa4-1425-4183-bf01-6a75e3ef2b91"
+    "name": "Inconvenient Dwelling",
+    "uuid": "ddd996da-429e-47b2-bdb5-588d49c9167c"
    },
    {
-    "name": "Upbeat Apartment",
-    "uuid": "57ea724d-0c3e-49b4-8bd0-d9ed85e4b31f"
+    "name": "Bland Property",
+    "uuid": "90f4aa0e-2ac0-439d-8030-bcbdd76e3ff5"
    }
   ],
   "ranks": {
@@ -614,6 +634,14 @@
     {
      "name": "Elpato3164",
      "uuid": "30150aaa-829c-4fd3-b2e9-cfbdd871bc14"
+    },
+    {
+     "name": "Turbo_crak",
+     "uuid": "a2fffae5-3904-4e37-9139-d79f35757360"
+    },
+    {
+     "name": "_Derroy_",
+     "uuid": "db389eaf-0374-48c5-a183-d8d389e9bf22"
     }
    ],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Tianshui",
   "uuid": "3fa4096a-ce42-4ae5-8722-b6400f176e64",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Li___z",
-   "uuid": "d24b876d-32c4-407b-a22e-b60a34db6886"
+   "name": "NPC91",
+   "uuid": "f2857869-f763-200e-b49d-1bf5dea04802"
   },
   "nation": {
-   "name": "Dian",
-   "uuid": "ccdb60e3-b086-41fc-ba40-3d20f47901a7"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792900759723,
-   "joinedNationAt": 1792900767707,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794488089263
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -102,6 +102,10 @@
    {
     "name": "Li___z",
     "uuid": "d24b876d-32c4-407b-a22e-b60a34db6886"
+   },
+   {
+    "name": "NPC91",
+    "uuid": "f2857869-f763-200e-b49d-1bf5dea04802"
    }
   ],
   "trusted": [
@@ -110,7 +114,7 @@
     "uuid": "b9c50ebd-ea61-441a-a671-c20065f2bb60"
    },
    {
-    "name": "ItzAmiya",
+    "name": "Silent_Hill_",
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
    }
   ],

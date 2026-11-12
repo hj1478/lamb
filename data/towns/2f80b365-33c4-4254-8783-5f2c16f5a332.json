@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Nahal_Oz",
   "uuid": "2f80b365-33c4-4254-8783-5f2c16f5a332",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 64,
+   "numTownBlocks": 60,
    "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 5,
-   "numTrusted": 2,
+   "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
@@ -148,10 +148,6 @@
      -207
     ],
     [
-     764,
-     -204
-    ],
-    [
      766,
      -207
     ],
@@ -229,10 +225,6 @@
     ],
     [
      763,
-     -204
-    ],
-    [
-     763,
      -205
     ],
     [
@@ -280,10 +272,6 @@
      -205
     ],
     [
-     765,
-     -204
-    ],
-    [
      769,
      -207
     ],
@@ -342,10 +330,6 @@
     [
      759,
      -204
-    ],
-    [
-     762,
-     -204
     ]
    ],
    "worlds": {}
@@ -360,23 +344,19 @@
     "uuid": "77f7f757-cdc6-40ba-babf-ecb4d555ad69"
    },
    {
-    "name": "tkui22",
-    "uuid": "982c9e23-6f12-45a7-a26d-a67cbbb60dab"
-   },
-   {
     "name": "peleg_rm_tk",
     "uuid": "c26c12ea-bce2-4667-82a9-96738de711d5"
    },
    {
     "name": "NeuralFighther",
     "uuid": "874902d4-b63b-47b1-8397-2722fb48599f"
+   },
+   {
+    "name": "__deoxys",
+    "uuid": "0997d8b8-0866-4fd7-8f86-1ce92896d580"
    }
   ],
   "trusted": [
-   {
-    "name": "tkui22",
-    "uuid": "982c9e23-6f12-45a7-a26d-a67cbbb60dab"
-   },
    {
     "name": "shmeeeee",
     "uuid": "77f7f757-cdc6-40ba-babf-ecb4d555ad69"

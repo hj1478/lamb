@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Air_Temple",
   "uuid": "47fe70fa-55fa-4689-a0d9-a06582b9d74a",
@@ -12,12 +12,12 @@
    "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Qing",
+   "uuid": "76b7614d-2844-476c-973e-c5bed2a47bec"
   },
   "timestamps": {
    "registered": 1792524260098,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794251328035,
    "ruinedAt": null
   },
   "status": {
@@ -28,19 +28,19 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 86,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 50,
    "numResidents": 3,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -110,6 +110,10 @@
     [
      2641,
      -826
+    ],
+    [
+     2642,
+     -824
     ]
    ],
    "worlds": {}
@@ -129,10 +133,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "SkelkoWeltens",
-    "uuid": "0a417920-8bcd-48bf-840a-05fd9206a367"
-   },
    {
     "name": "Azurelogist",
     "uuid": "971fde9b-d2bf-4839-8270-200930f88b05"

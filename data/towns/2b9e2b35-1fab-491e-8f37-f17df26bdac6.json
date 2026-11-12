@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Izabal",
   "uuid": "2b9e2b35-1fab-491e-8f37-f17df26bdac6",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DilmerCots",
-   "uuid": "aa872e5d-5583-46d1-927d-f5dea8b9ec64"
+   "name": "NPC90",
+   "uuid": "bfaf856e-56d2-2079-a9ca-56e324e3c5fa"
   },
   "nation": {
-   "name": "Guatemala",
-   "uuid": "443e3b18-0ced-43af-8bdf-4d01130372ac"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786381669018,
-   "joinedNationAt": 1788273527489,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481420913
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -42,39 +42,39 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 27.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
     true,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
     true,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
     true,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
     true,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -184,8 +184,8 @@
   },
   "residents": [
    {
-    "name": "DilmerCots",
-    "uuid": "aa872e5d-5583-46d1-927d-f5dea8b9ec64"
+    "name": "NPC90",
+    "uuid": "bfaf856e-56d2-2079-a9ca-56e324e3c5fa"
    }
   ],
   "trusted": [],
@@ -199,12 +199,7 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "DilmerCots",
-     "uuid": "aa872e5d-5583-46d1-927d-f5dea8b9ec64"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

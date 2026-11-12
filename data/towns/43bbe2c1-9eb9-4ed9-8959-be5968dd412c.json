@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Charles_Town",
   "uuid": "43bbe2c1-9eb9-4ed9-8959-be5968dd412c",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
+   "numTownBlocks": 35,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 38.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,6 +96,10 @@
      -249
     ],
     [
+     -1808,
+     -248
+    ],
+    [
      -1804,
      -253
     ],
@@ -142,12 +146,20 @@
     [
      -1807,
      -254
+    ],
+    [
+     -1809,
+     -248
     ],
     [
      -1807,
      -249
     ],
     [
+     -1807,
+     -248
+    ],
+    [
      -1809,
      -250
     ],
@@ -158,6 +170,10 @@
     [
      -1806,
      -254
+    ],
+    [
+     -1809,
+     -249
     ],
     [
      -1808,
@@ -210,6 +226,10 @@
     [
      -1806,
      -249
+    ],
+    [
+     -1806,
+     -248
     ]
    ],
    "worlds": {}
@@ -222,7 +242,7 @@
   ],
   "trusted": [
    {
-    "name": "Gatorchomp_8",
+    "name": "CorvoX12",
     "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
    },
    {
@@ -231,7 +251,24 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Tenement",
+    "uuid": "a53c6b0e-8acc-43a1-996a-38b499c8b8a8"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "152a5767-3f33-4bc9-bba9-ac250bcdaf75"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "352a990a-caf6-4a11-8a51-0ef0b0af7569"
+   },
+   {
+    "name": "Inviting Suite",
+    "uuid": "73620a13-25eb-4912-b8d9-1504476e3bfc"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Longgang",
   "uuid": "33591434-efd2-46e9-b671-14549ebb5484",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 102,
-   "maxTownBlocks": 200,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 10,
-   "numTrusted": 3,
-   "numOutlaws": 0,
+   "numResidents": 9,
+   "numTrusted": 2,
+   "numOutlaws": 1,
    "balance": 18.0,
    "forSalePrice": null
   },
@@ -504,10 +504,6 @@
   },
   "residents": [
    {
-    "name": "Mentaikonigiri",
-    "uuid": "ffe5ecca-6b4f-4bb1-aa3f-554c33de7c1d"
-   },
-   {
     "name": "Evilmoon50",
     "uuid": "5b8ff15f-6614-414d-b72a-fd1fc0e2bf94"
    },
@@ -550,15 +546,16 @@
     "uuid": "eb5432e8-aeb2-4631-a7b0-38f6c98366ff"
    },
    {
-    "name": "cynvo",
-    "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
-   },
-   {
     "name": "BUGCAT_TW",
     "uuid": "b1766e34-0feb-48f0-b1ce-fccef2ed4cbd"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "cynvo",
+    "uuid": "24788ebd-b4a8-43cc-ac0d-dee25b731b1b"
+   }
+  ],
   "quarters": [
    {
     "name": "Perturbing Dwelling",

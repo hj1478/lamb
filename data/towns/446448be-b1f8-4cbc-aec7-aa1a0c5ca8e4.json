@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Paradise_Coast",
   "uuid": "446448be-b1f8-4cbc-aec7-aa1a0c5ca8e4",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 104,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 102.0,
+   "balance": 122.0,
    "forSalePrice": null
   },
   "perms": {
@@ -514,20 +514,39 @@
    {
     "name": "zCallMeSenpai",
     "uuid": "09e14e03-ff40-47f2-9b08-3e5be76bcb2e"
+   },
+   {
+    "name": "ZaqSD",
+    "uuid": "537fe0ff-d9cc-468e-b7b0-2627104179c2"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ZaqSD",
+    "uuid": "537fe0ff-d9cc-468e-b7b0-2627104179c2"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ZaqSD",
+     "uuid": "537fe0ff-d9cc-468e-b7b0-2627104179c2"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "ZaqSD",
+     "uuid": "537fe0ff-d9cc-468e-b7b0-2627104179c2"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

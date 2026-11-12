@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Harbin",
   "uuid": "2cd9e3e4-603e-464d-972a-08c69b220e6c",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 5,
    "numTrusted": 1,
-   "numOutlaws": 2,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 45350.58779664858,
+    "x": 45350.4873387421,
     "y": 64.5,
-    "z": -9575.012793114774,
-    "pitch": 7.6022854,
-    "yaw": -179.54333
+    "z": -9569.456939325484,
+    "pitch": 13.596219,
+    "yaw": 179.95694
    },
    "homeBlock": [
     2834,
@@ -550,6 +550,18 @@
    {
     "name": "david_03max",
     "uuid": "d47ecb3e-d210-4042-be9e-07cff345d775"
+   },
+   {
+    "name": "AleksiEPJ2101",
+    "uuid": "0eaa43da-09b5-426e-a781-ec7b6385f4ba"
+   },
+   {
+    "name": "kasa3311",
+    "uuid": "6dfbf1e1-e704-4869-bae7-d3507bf3440e"
+   },
+   {
+    "name": "carmior",
+    "uuid": "a4f8c049-aca6-4969-b018-397809e78489"
    }
   ],
   "trusted": [
@@ -566,13 +578,13 @@
    {
     "name": "whosgianna0w0",
     "uuid": "85384984-b78f-4e27-b675-9fa4adfc551c"
+   },
+   {
+    "name": "Tomino1CZ",
+    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
    }
   ],
   "quarters": [
-   {
-    "name": "Elegant Dwelling",
-    "uuid": "b7d7392c-af4e-4d9b-97bb-6b00c0bb6f51"
-   },
    {
     "name": "A-1",
     "uuid": "44cde410-1b55-4ec8-8871-86fab77337a5"
@@ -598,36 +610,12 @@
     "uuid": "d8f40b11-44ea-4c7d-b4ae-37abc88d5bf8"
    },
    {
-    "name": "B-2",
-    "uuid": "4b118428-c807-46bf-801b-4298c6c2c31f"
-   },
-   {
-    "name": "B-2 Door",
-    "uuid": "5b14a790-5187-4447-83f2-d498aa835cf2"
-   },
-   {
     "name": "A-3",
     "uuid": "2bfadbb6-5c02-4e3f-bdf0-b0cdac2ef2c9"
    },
    {
     "name": "A-3 Door",
     "uuid": "6729ea51-121f-499f-9de2-543f21d34326"
-   },
-   {
-    "name": "B-3",
-    "uuid": "b11c9dbb-56e5-4942-aea0-f92df44c9a6d"
-   },
-   {
-    "name": "B-3 Door",
-    "uuid": "921dd56b-456c-4de7-aefe-da037f2da7be"
-   },
-   {
-    "name": "A-4",
-    "uuid": "bda9f9a1-fc04-427a-884a-c6fbce1fa4a4"
-   },
-   {
-    "name": "A-4 Door",
-    "uuid": "5fdb50fc-94f4-4fae-973a-b1836a6b8037"
    },
    {
     "name": "B-4",
@@ -652,6 +640,34 @@
    {
     "name": "B-5 Door",
     "uuid": "0b4b32da-df76-41ed-a792-e8e8187e6295"
+   },
+   {
+    "name": "B-2 Door",
+    "uuid": "5b14a790-5187-4447-83f2-d498aa835cf2"
+   },
+   {
+    "name": "B-2",
+    "uuid": "4b118428-c807-46bf-801b-4298c6c2c31f"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "f7281ba6-ec7d-4cc3-9724-b6397ccac922"
+   },
+   {
+    "name": "B-3",
+    "uuid": "b11c9dbb-56e5-4942-aea0-f92df44c9a6d"
+   },
+   {
+    "name": "B-3 Door",
+    "uuid": "921dd56b-456c-4de7-aefe-da037f2da7be"
+   },
+   {
+    "name": "A-4",
+    "uuid": "bda9f9a1-fc04-427a-884a-c6fbce1fa4a4"
+   },
+   {
+    "name": "A-4 Door",
+    "uuid": "5fdb50fc-94f4-4fae-973a-b1836a6b8037"
    }
   ],
   "ranks": {

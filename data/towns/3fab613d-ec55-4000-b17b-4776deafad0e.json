@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Makedon",
   "uuid": "3fab613d-ec55-4000-b17b-4776deafad0e",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "akirarocks",
-   "uuid": "6af1da43-bb8e-4999-aea3-f99bb0edd489"
+   "name": "mattas_cz",
+   "uuid": "eb0ad73b-6c51-4479-b3db-e817c653e181"
   },
   "nation": {
    "name": "Byzantium",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1781136278375,
-   "joinedNationAt": 1791541582450,
+   "joinedNationAt": 1794131116043,
    "ruinedAt": null
   },
   "status": {
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 92,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 400.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -464,8 +464,12 @@
   },
   "residents": [
    {
-    "name": "akirarocks",
-    "uuid": "6af1da43-bb8e-4999-aea3-f99bb0edd489"
+    "name": "emiinaa",
+    "uuid": "9fbc8d07-b4d4-40d7-9780-64f2cf99b2fb"
+   },
+   {
+    "name": "mattas_cz",
+    "uuid": "eb0ad73b-6c51-4479-b3db-e817c653e181"
    }
   ],
   "trusted": [],

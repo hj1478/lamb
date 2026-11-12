@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Yartville",
   "uuid": "27ce7403-3d6b-4e35-9a85-aad042050c95",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 140,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 144,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32036.486880173703,
-    "y": 63.875,
-    "z": -5797.970231994525,
-    "pitch": 13.650032,
-    "yaw": 179.53217
+    "x": -32146.60815820647,
+    "y": 63.0625,
+    "z": -5834.547313898122,
+    "pitch": -0.14994632,
+    "yaw": -90.0176
    },
    "homeBlock": [
-    -2003,
-    -363
+    -2010,
+    -365
    ],
    "townBlocks": [
     [
@@ -193,6 +193,10 @@
     ],
     [
      -2014,
+     -368
+    ],
+    [
+     -2014,
      -364
     ],
     [
@@ -202,6 +206,10 @@
     [
      -2014,
      -366
+    ],
+    [
+     -2014,
+     -367
     ],
     [
      -2014,
@@ -280,8 +288,16 @@
      -366
     ],
     [
+     -2015,
+     -368
+    ],
+    [
      -2006,
      -365
+    ],
+    [
+     -2015,
+     -367
     ],
     [
      -2006,
@@ -670,6 +686,10 @@
    {
     "name": "creed00",
     "uuid": "e1932446-753f-4c49-a8e4-ae23e69bd150"
+   },
+   {
+    "name": "LaserKiwi553",
+    "uuid": "e2975fb0-d4cf-46cf-8bb2-01db94631505"
    }
   ],
   "trusted": [

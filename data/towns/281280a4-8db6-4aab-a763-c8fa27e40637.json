@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "La_Rochelle",
   "uuid": "281280a4-8db6-4aab-a763-c8fa27e40637",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 134,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 52.0,
    "forSalePrice": null
   },
   "perms": {
@@ -638,10 +638,6 @@
    {
     "name": "Fangering",
     "uuid": "d121eac2-d7cc-484c-a4cf-0dfded1b4cee"
-   },
-   {
-    "name": "0ssmoz",
-    "uuid": "20da0bce-31fa-4956-80dd-1a5932986670"
    }
   ],
   "trusted": [

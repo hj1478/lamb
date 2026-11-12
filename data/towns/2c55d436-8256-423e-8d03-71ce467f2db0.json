@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "New_Haven",
   "uuid": "2c55d436-8256-423e-8d03-71ce467f2db0",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,8 +92,32 @@
    ],
    "townBlocks": [
     [
+     -1228,
+     -654
+    ],
+    [
+     -1225,
+     -655
+    ],
+    [
+     -1228,
+     -655
+    ],
+    [
+     -1226,
+     -655
+    ],
+    [
+     -1226,
+     -656
+    ],
+    [
      -1227,
      -655
+    ],
+    [
+     -1227,
+     -654
     ]
    ],
    "worlds": {}
@@ -102,6 +126,14 @@
    {
     "name": "Boiforreal",
     "uuid": "d50e4fe3-3f0d-450e-84ca-36d913c4f8bd"
+   },
+   {
+    "name": "Lianlord",
+    "uuid": "a1e5b5c3-f106-409e-b19e-9282741ca444"
+   },
+   {
+    "name": "Aibur",
+    "uuid": "f98f5f17-5662-4ba1-8110-537744f10c71"
    }
   ],
   "trusted": [],
@@ -109,7 +141,16 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Lianlord",
+     "uuid": "a1e5b5c3-f106-409e-b19e-9282741ca444"
+    },
+    {
+     "name": "Aibur",
+     "uuid": "f98f5f17-5662-4ba1-8110-537744f10c71"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

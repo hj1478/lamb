@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
-  "name": "Tenochtitlan",
+  "name": "CDMX",
   "uuid": "45d5161d-11a3-4c3e-9f2b-63dee72e7f03",
   "board": "Viva Mexico",
   "founder": "Jakadextr",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mr_One_Punch",
-   "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
+   "name": "Blanksky1005",
+   "uuid": "5d9dd374-57ff-4eff-b967-118310445f3c"
   },
   "nation": {
    "name": "Mexico",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 374,
-   "maxTownBlocks": 168,
+   "maxTownBlocks": 192,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 9,
-   "numTrusted": 6,
+   "numResidents": 11,
+   "numTrusted": 7,
    "numOutlaws": 8,
    "balance": 0.0,
    "forSalePrice": null
@@ -1592,8 +1592,16 @@
   },
   "residents": [
    {
+    "name": "Dein_Halunke",
+    "uuid": "4800619d-5ade-4ae6-a384-3b2fd779b95f"
+   },
+   {
     "name": "Ad0m4s_PVP",
     "uuid": "58087a87-1e7b-40fc-85fd-1b76b3a8cd9f"
+   },
+   {
+    "name": "Imagine8Official",
+    "uuid": "8a05d6e4-db20-4199-8af5-5a8cc5c0565a"
    },
    {
     "name": "Lingani",
@@ -1620,12 +1628,12 @@
     "uuid": "5343bfac-9e20-4a28-acda-037ca2f7d062"
    },
    {
-    "name": "Mr_One_Punch",
-    "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"
-   },
-   {
     "name": "Blanksky1005",
     "uuid": "5d9dd374-57ff-4eff-b967-118310445f3c"
+   },
+   {
+    "name": "DanielMauricio",
+    "uuid": "79dd0d34-8843-4b52-909b-620f619d593c"
    }
   ],
   "trusted": [
@@ -1636,6 +1644,10 @@
    {
     "name": "Blanksky1005",
     "uuid": "5d9dd374-57ff-4eff-b967-118310445f3c"
+   },
+   {
+    "name": "guestex",
+    "uuid": "f02055f0-190c-452c-9df5-3becf9b3a2af"
    },
    {
     "name": "ER3KO",
@@ -1702,10 +1714,6 @@
     "uuid": "3be34a2b-bbd6-4396-9aee-5f450ff4a07b"
    },
    {
-    "name": "Enraging Property",
-    "uuid": "1abf28b6-7965-48de-b475-b2199f735090"
-   },
-   {
     "name": "Luxurious Property",
     "uuid": "cf2d6abb-cc56-443e-a649-3496d3540118"
    },
@@ -1724,10 +1732,19 @@
    {
     "name": "Perturbing Tenement",
     "uuid": "193db511-0d20-4500-bd16-b87247fa1e1a"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "1abf28b6-7965-48de-b475-b2199f735090"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Blanksky1005",
+     "uuid": "5d9dd374-57ff-4eff-b967-118310445f3c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Lira",
   "uuid": "32ac76c7-239d-4d66-9c28-35063863916f",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1788896731480,
-   "joinedNationAt": 1793640630533,
+   "joinedNationAt": 1794422125678,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 21,
-   "numTrusted": 1,
+   "numTrusted": 4,
    "numOutlaws": 12,
-   "balance": 31.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -296,16 +296,8 @@
     "uuid": "54563374-c05f-4b0c-89bc-ce01a1ceb523"
    },
    {
-    "name": "coruptoskar",
-    "uuid": "0622f631-3d4f-433d-8f0c-58795ba73a0d"
-   },
-   {
     "name": "Prime_Leahim",
     "uuid": "9c4a0889-a2c6-4f60-b1f3-23309ce84ebd"
-   },
-   {
-    "name": "Padoks",
-    "uuid": "7b3e75a3-9e4a-4e26-b924-f4115a334579"
    },
    {
     "name": "icebergdonut",
@@ -370,12 +362,32 @@
    {
     "name": "leonzombiiey67",
     "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
+   },
+   {
+    "name": "Maxwell__1612",
+    "uuid": "ac72ca56-5469-4a50-b7c8-26707706e3d5"
+   },
+   {
+    "name": "Matti737",
+    "uuid": "067f5e98-fa32-4198-a10b-e8608d8c0b54"
    }
   ],
   "trusted": [
    {
     "name": "leonzombiiey67",
     "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
+   },
+   {
+    "name": "Kenovo10",
+    "uuid": "0b89cbba-3b48-4cb4-9b18-f4788714e71c"
+   },
+   {
+    "name": "kdomesz24",
+    "uuid": "b37d8401-b4df-4fc6-a7a5-05a15bcc91b5"
+   },
+   {
+    "name": "MrTahiti",
+    "uuid": "8106e99e-2805-4c5e-b6dc-83958d0ae089"
    }
   ],
   "outlaws": [
@@ -384,7 +396,7 @@
     "uuid": "c652e27c-375e-4ff7-82a2-6497a40e2bd1"
    },
    {
-    "name": "felixsgt",
+    "name": "felixOwOr",
     "uuid": "fb727536-85ac-4e35-a8dd-f1eef6616f3a"
    },
    {
@@ -466,20 +478,8 @@
     "uuid": "6be7918a-6b75-4776-bf0e-e4a32f71e094"
    },
    {
-    "name": "Dull Property",
-    "uuid": "af527ae9-4e87-4938-b58b-21c72b2fa08a"
-   },
-   {
-    "name": "Lovely Apartment",
-    "uuid": "39f6860f-669b-47dc-9deb-b4c9dbc98aa4"
-   },
-   {
     "name": "Swedish Apartment",
     "uuid": "e33bdcb5-435a-4a47-bf9b-1b594b59d7cf"
-   },
-   {
-    "name": "Luxurious Flat",
-    "uuid": "1ab1051f-e128-4dcf-b73f-b049d64bf8a2"
    },
    {
     "name": "Inviting Dwelling",
@@ -490,24 +490,12 @@
     "uuid": "98087992-bcbd-4d9d-b0d0-0c0289a5ec0a"
    },
    {
-    "name": "Welcoming Property",
-    "uuid": "be9a25a2-dd6a-40ed-b3db-b3ce4662b315"
-   },
-   {
-    "name": "Perturbing Dwelling",
-    "uuid": "b96ea6b7-e7d8-4b6f-b7fc-0c5bba96606d"
-   },
-   {
-    "name": "Lovely Property",
-    "uuid": "e9d67cf4-efc0-4573-9308-b6db5a0c68e3"
-   },
-   {
-    "name": "Dingy Dwelling",
-    "uuid": "5312696a-6553-4315-a151-a52602b98bc4"
-   },
-   {
     "name": "Inconvenient Quarter",
     "uuid": "ea239e6c-9432-40f2-a432-0f8b8e742e29"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "6ca51eec-a14e-4a0f-8af1-337813de8b68"
    },
    {
     "name": "Inviting Apartment",

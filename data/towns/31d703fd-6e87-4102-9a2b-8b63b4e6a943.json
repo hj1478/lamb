@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Novska",
   "uuid": "31d703fd-6e87-4102-9a2b-8b63b4e6a943",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ret5059",
-   "uuid": "9d68f467-ca5d-4bc6-bc6a-351b87f83166"
+   "name": "NPC19",
+   "uuid": "cab7a07b-493c-20d4-b237-d3246428d12a"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784145547803,
-   "joinedNationAt": 1784224834091,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481201348
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "ret5059",
-    "uuid": "9d68f467-ca5d-4bc6-bc6a-351b87f83166"
+    "name": "NPC19",
+    "uuid": "cab7a07b-493c-20d4-b237-d3246428d12a"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Christchurch",
   "uuid": "34a92628-0e73-4a62-8ace-3b79f8894547",
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 3,
+   "numTrusted": 1,
+   "numOutlaws": 4,
    "balance": 18.0,
    "forSalePrice": null
   },
@@ -660,7 +660,12 @@
     "uuid": "bdc10eeb-0cb1-4492-9b53-829bd39ecf7e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Ushkaa",
+    "uuid": "5a0ab26f-0ced-4601-8577-9c0d699f235b"
+   }
+  ],
   "outlaws": [
    {
     "name": "JimplayzMC",
@@ -673,6 +678,10 @@
    {
     "name": "Sugar_U",
     "uuid": "79c991c8-07a4-4367-ad18-412eadd486fb"
+   },
+   {
+    "name": "A2bot",
+    "uuid": "f1530a70-d390-4898-8acc-429f0a9c2e0f"
    }
   ],
   "quarters": [],

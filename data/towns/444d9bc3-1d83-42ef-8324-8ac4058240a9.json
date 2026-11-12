@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Chernobyl",
   "uuid": "444d9bc3-1d83-42ef-8324-8ac4058240a9",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 415,
-   "maxTownBlocks": 424,
+   "maxTownBlocks": 436,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 27,
+   "numResidents": 28,
    "numTrusted": 4,
    "numOutlaws": 2,
-   "balance": 31.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1760,10 +1760,6 @@
     "uuid": "4d5d5a9a-628c-40fb-b783-94b6e6127a2d"
    },
    {
-    "name": "KINGBABYY1354",
-    "uuid": "0e32bc19-88c2-4463-aad0-9281cccd0d79"
-   },
-   {
     "name": "FretzelDadon",
     "uuid": "e134afe0-5c11-4916-8dee-b6c5c583d285"
    },
@@ -1862,6 +1858,14 @@
    {
     "name": "Duck_Lord81",
     "uuid": "f3a40bb6-db08-41f6-8fbb-7e4887e3b3db"
+   },
+   {
+    "name": "CreamyNoodler",
+    "uuid": "9ca71dbb-7054-4655-a4c4-040ec51910bf"
+   },
+   {
+    "name": "Kotik21",
+    "uuid": "1b03763a-32d0-4eda-a567-5500a0f4c9a9"
    }
   ],
   "trusted": [
@@ -1956,20 +1960,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Storage",
-    "uuid": "f0fef3ae-d8a6-404a-9e69-8cb2b9a448c0",
-    "createdAt": 1789377657947,
-    "createdBy": "vifterr",
-    "access": "NATION",
-    "location": {
-     "x": 10440,
-     "y": 47,
-     "z": -12530
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

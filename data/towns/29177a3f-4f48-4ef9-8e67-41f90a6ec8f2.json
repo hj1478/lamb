@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Skaldrin",
   "uuid": "29177a3f-4f48-4ef9-8e67-41f90a6ec8f2",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 79,
-   "maxTownBlocks": 120,
+   "numTownBlocks": 87,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 7,
    "numOutlaws": 6,
-   "balance": 3.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 52905.440657152954,
+    "x": 52921.47405535061,
     "y": 63.0,
-    "z": -21911.338025113422,
-    "pitch": 18.150002,
-    "yaw": -155.46971
+    "z": -21867.526105970064,
+    "pitch": 1.1999998,
+    "yaw": 89.326416
    },
    "homeBlock": [
-    3306,
-    -1370
+    3307,
+    -1367
    ],
    "townBlocks": [
     [
@@ -244,6 +244,10 @@
      -1370
     ],
     [
+     3313,
+     -1367
+    ],
+    [
      3309,
      -1371
     ],
@@ -262,6 +266,14 @@
     [
      3305,
      -1362
+    ],
+    [
+     3312,
+     -1368
+    ],
+    [
+     3312,
+     -1369
     ],
     [
      3305,
@@ -313,11 +325,23 @@
     ],
     [
      3311,
+     -1366
+    ],
+    [
+     3311,
      -1373
+    ],
+    [
+     3312,
+     -1366
     ],
     [
      3311,
      -1372
+    ],
+    [
+     3312,
+     -1367
     ],
     [
      3311,
@@ -326,6 +350,10 @@
     [
      3311,
      -1370
+    ],
+    [
+     3312,
+     -1365
     ],
     [
      3307,
@@ -362,6 +390,10 @@
     [
      3307,
      -1369
+    ],
+    [
+     3311,
+     -1365
     ],
     [
      3307,
@@ -430,6 +462,10 @@
    {
     "name": "Ferreroooooo",
     "uuid": "a4849299-3391-474a-ab52-f3f449efb887"
+   },
+   {
+    "name": "1csmn",
+    "uuid": "68a685cd-2707-4c97-a95f-748b9fe6f5f8"
    }
   ],
   "trusted": [
@@ -552,14 +588,6 @@
    {
     "name": "Stylish Apartment",
     "uuid": "0c597adc-d57c-4656-a760-fbc99d7a351a"
-   },
-   {
-    "name": "Bland Dwelling",
-    "uuid": "747ea0a9-34b0-4962-ae4d-4553c9675f64"
-   },
-   {
-    "name": "Welcoming Residence",
-    "uuid": "3dad0d63-a47d-4564-899e-72fae5797438"
    },
    {
     "name": "Perturbing Quarter",
@@ -690,10 +718,6 @@
     "uuid": "411b4c89-4115-4ac9-b57f-1433ea1f2206"
    },
    {
-    "name": "Upbeat Residence",
-    "uuid": "605b3db2-e3b9-4875-ae4a-cf9b5cbdaa74"
-   },
-   {
     "name": "Gloomy Residence",
     "uuid": "f800def6-2b1a-4516-8a27-4a560176bc48"
    },
@@ -732,6 +756,26 @@
    {
     "name": "Luxurious Suite",
     "uuid": "3df829ae-34cc-433f-9e56-f8a9c5f7dfac"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "f8b94a2c-97f9-48ac-bf09-4c3da00ddad0"
+   },
+   {
+    "name": "Perturbing Apartment",
+    "uuid": "df9c2f73-9a54-41e8-a203-dc06256c72d6"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "605b3db2-e3b9-4875-ae4a-cf9b5cbdaa74"
+   },
+   {
+    "name": "Bland Dwelling",
+    "uuid": "747ea0a9-34b0-4962-ae4d-4553c9675f64"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "3dad0d63-a47d-4564-899e-72fae5797438"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Susa",
   "uuid": "290a7863-17b9-4948-8f5f-88769eacde3e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,33 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17287.688437489902,
-    "y": 57.0,
-    "z": -3953.300000011921,
-    "pitch": 28.049995,
-    "yaw": 91.649475
+    "x": 17295.816543933804,
+    "y": 63.0,
+    "z": -3963.868023766732,
+    "pitch": 18.037489,
+    "yaw": 132.78778
    },
    "homeBlock": [
     1080,
     -248
    ],
    "townBlocks": [
+    [
+     1080,
+     -249
+    ],
+    [
+     1081,
+     -248
+    ],
+    [
+     1079,
+     -249
+    ],
+    [
+     1081,
+     -249
+    ],
     [
      1080,
      -248

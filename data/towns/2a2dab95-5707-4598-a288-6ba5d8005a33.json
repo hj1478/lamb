@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Oceanside",
   "uuid": "2a2dab95-5707-4598-a288-6ba5d8005a33",
-  "board": "One step of the Pacific",
+  "board": "Coastal outpost of Mojave",
   "founder": "HornFern22",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "dbeb9c11-2316-4f41-a746-d0e403a8c3f6"
   },
   "nation": {
-   "name": "Pacific",
-   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
+   "name": "Mojave",
+   "uuid": "b9102e3b-ad22-41f8-bb32-67aae39e1ec3"
   },
   "timestamps": {
    "registered": 1791066469926,
-   "joinedNationAt": 1791766334537,
+   "joinedNationAt": 1794206371905,
    "ruinedAt": null
   },
   "status": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 42,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 8,
+   "nationBonus": 60,
+   "numResidents": 15,
    "numTrusted": 0,
    "numOutlaws": 4,
    "balance": 0.0,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      -2624,
+     -266
+    ],
+    [
+     -2624,
      -264
     ],
     [
@@ -124,12 +128,20 @@
      -263
     ],
     [
+     -2622,
+     -260
+    ],
+    [
      -2626,
      -267
     ],
     [
      -2623,
      -260
+    ],
+    [
+     -2626,
+     -268
     ],
     [
      -2623,
@@ -160,8 +172,16 @@
      -263
     ],
     [
+     -2622,
+     -261
+    ],
+    [
      -2626,
      -264
+    ],
+    [
+     -2622,
+     -262
     ],
     [
      -2623,
@@ -170,6 +190,18 @@
     [
      -2623,
      -265
+    ],
+    [
+     -2625,
+     -267
+    ],
+    [
+     -2627,
+     -268
+    ],
+    [
+     -2627,
+     -267
     ],
     [
      -2627,
@@ -262,6 +294,34 @@
    {
     "name": "elibeangirl",
     "uuid": "51432c08-22d7-4599-b48d-d6a062c0ea5b"
+   },
+   {
+    "name": "AL3X_____",
+    "uuid": "e61042c9-daee-45a9-b13d-c06d4bf88027"
+   },
+   {
+    "name": "DuckieMan1902",
+    "uuid": "d04c0864-2e73-4ddc-8cdd-9c72bd7dffb1"
+   },
+   {
+    "name": "d9bor6h",
+    "uuid": "c97e6ba3-7a71-4ab5-941f-5d025d9845b5"
+   },
+   {
+    "name": "GamerKairav",
+    "uuid": "3c7e88a0-f043-4dff-ad8b-f9c362201ab6"
+   },
+   {
+    "name": "UNICORNSROCK722",
+    "uuid": "1e6f45eb-d0ee-4640-b546-0e057be2235c"
+   },
+   {
+    "name": "TactikalTaint",
+    "uuid": "d8e2ca2c-68b3-44e0-aa48-32d789714008"
+   },
+   {
+    "name": "ashleybeeme",
+    "uuid": "197e183e-5596-43a1-a009-f1f2eab9f54d"
    }
   ],
   "trusted": [],
@@ -279,19 +339,11 @@
     "uuid": "e6a5bc3c-a386-4810-82af-67d9543ce8b3"
    },
    {
-    "name": "Chrouched_",
-    "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
+    "name": "sobrem4res",
+    "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
    }
   ],
   "quarters": [
-   {
-    "name": "Elegant Property",
-    "uuid": "87b3256e-dd55-484d-ba59-a01ce612253b"
-   },
-   {
-    "name": "Enraging Property",
-    "uuid": "9d97cbee-bce0-4678-b97d-8a219e97a9cd"
-   },
    {
     "name": "Annoying Dwelling",
     "uuid": "2ccf579e-23a8-4a32-b321-d602aac3704f"
@@ -315,6 +367,18 @@
    {
     "name": "Dull Apartment",
     "uuid": "ef324890-3f12-41e7-8a61-2edf533bcaef"
+   },
+   {
+    "name": "Apartment_1",
+    "uuid": "87b3256e-dd55-484d-ba59-a01ce612253b"
+   },
+   {
+    "name": "Apartment_2",
+    "uuid": "9d97cbee-bce0-4678-b97d-8a219e97a9cd"
+   },
+   {
+    "name": "Gift",
+    "uuid": "e34fda3a-b5fe-4d54-a4ae-28982160bea2"
    }
   ],
   "ranks": {
@@ -325,7 +389,12 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "GamerKairav",
+     "uuid": "3c7e88a0-f043-4dff-ad8b-f9c362201ab6"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

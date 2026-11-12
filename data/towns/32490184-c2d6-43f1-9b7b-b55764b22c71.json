@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Yunnan",
   "uuid": "32490184-c2d6-43f1-9b7b-b55764b22c71",
-  "board": "A town in the middle and upper reaches of the Yangtze River",
+  "board": "The quaint village reposing upon the banks of the Jinsha River",
   "founder": "Siudea",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 83,
-   "maxTownBlocks": 118,
+   "numTownBlocks": 89,
+   "maxTownBlocks": 130,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 9,
+   "numResidents": 10,
    "numTrusted": 3,
-   "numOutlaws": 8,
-   "balance": 2.0,
+   "numOutlaws": 9,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -130,6 +130,14 @@
     [
      2300,
      -104
+    ],
+    [
+     2300,
+     -101
+    ],
+    [
+     2300,
+     -102
     ],
     [
      2303,
@@ -324,6 +332,10 @@
      -107
     ],
     [
+     2301,
+     -102
+    ],
+    [
      2308,
      -105
     ],
@@ -342,6 +354,14 @@
     [
      2301,
      -105
+    ],
+    [
+     2301,
+     -100
+    ],
+    [
+     2301,
+     -101
     ],
     [
      2311,
@@ -378,6 +398,10 @@
     [
      2310,
      -102
+    ],
+    [
+     2300,
+     -100
     ],
     [
      2304,
@@ -432,16 +456,8 @@
     "uuid": "b9c50ebd-ea61-441a-a671-c20065f2bb60"
    },
    {
-    "name": "LLLDshark",
-    "uuid": "7440e35e-6162-4962-aba1-dc486776bd18"
-   },
-   {
     "name": "Alex2850215",
     "uuid": "d2cb0def-5a74-4000-b17e-af01866712b4"
-   },
-   {
-    "name": "log123_net",
-    "uuid": "6991439c-75df-4c32-b0ed-96609eb765f4"
    },
    {
     "name": "chenpitang18",
@@ -462,6 +478,18 @@
    {
     "name": "Mirairoma",
     "uuid": "4a2247b9-33ef-49f8-aff6-9c70eb1a2748"
+   },
+   {
+    "name": "Faran2015",
+    "uuid": "00a927d5-8459-49be-bb9e-a09352316709"
+   },
+   {
+    "name": "GFOR33",
+    "uuid": "ad8560bd-3147-4eba-9028-b84bfe49df62"
+   },
+   {
+    "name": "LLLDshark",
+    "uuid": "7440e35e-6162-4962-aba1-dc486776bd18"
    }
   ],
   "trusted": [
@@ -510,6 +538,10 @@
    {
     "name": "Sugar_U",
     "uuid": "79c991c8-07a4-4367-ad18-412eadd486fb"
+   },
+   {
+    "name": "xfw_x",
+    "uuid": "3da28d43-7bf3-4e4a-9c70-b44b8ffd66ef"
    }
   ],
   "quarters": [
@@ -570,10 +602,6 @@
     "uuid": "dbd3ae53-2093-42c4-bed7-dc5c52af023c"
    },
    {
-    "name": "Gloomy Quarter",
-    "uuid": "dce1057a-5fb7-4e85-8731-de9ec5cc5bd3"
-   },
-   {
     "name": "榔的诱惑",
     "uuid": "33fe5b50-2d11-4ea0-99a9-4f034203676d"
    },
@@ -604,27 +632,29 @@
    {
     "name": "云南车站",
     "uuid": "20586011-8e27-42b1-8538-d7e56fc6e74d"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "dce1057a-5fb7-4e85-8731-de9ec5cc5bd3"
+   },
+   {
+    "name": "GFOR33's",
+    "uuid": "8e2f916e-f0ae-4943-ac68-f97b4e109d7e"
+   },
+   {
+    "name": "GFOR33's house",
+    "uuid": "5b8c6e6c-3e6e-4907-b11c-95c48dda8392"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "LLLDshark",
-     "uuid": "7440e35e-6162-4962-aba1-dc486776bd18"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "chenpitang18",
      "uuid": "a2c80df2-8966-485b-abea-de463a4d74d2"
     }
    ],
-   "Recruiter": [
-    {
-     "name": "log123_net",
-     "uuid": "6991439c-75df-4c32-b0ed-96609eb765f4"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

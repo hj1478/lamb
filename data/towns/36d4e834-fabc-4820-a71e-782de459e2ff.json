@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Nubian_Slayer",
   "uuid": "36d4e834-fabc-4820-a71e-782de459e2ff",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Mrdipi",
-   "uuid": "a33c4113-0a5c-40ed-b4b3-cea50e597951"
+   "name": "NPC127",
+   "uuid": "cd06595d-674e-2009-8f87-8bc00176213f"
   },
   "nation": {
-   "name": "Ostafrika",
-   "uuid": "adc88d6b-7be6-4e2f-91d2-da52fab8f379"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1794151234927,
-   "joinedNationAt": 1794151364877,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794331231175
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 22.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,12 +100,12 @@
      136
     ],
     [
-     708,
-     134
-    ],
-    [
      707,
      135
+    ],
+    [
+     708,
+     134
     ],
     [
      708,
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "Mrdipi",
-    "uuid": "a33c4113-0a5c-40ed-b4b3-cea50e597951"
+    "name": "NPC127",
+    "uuid": "cd06595d-674e-2009-8f87-8bc00176213f"
    }
   ],
   "trusted": [

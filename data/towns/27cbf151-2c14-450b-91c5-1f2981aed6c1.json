@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Berdiansk",
   "uuid": "27cbf151-2c14-450b-91c5-1f2981aed6c1",
@@ -12,12 +12,12 @@
    "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": "Ukraine",
+   "uuid": "69956d32-c014-4b25-9128-e7b6ebc1c1f6"
   },
   "timestamps": {
    "registered": 1794185254457,
-   "joinedNationAt": 1794185311204,
+   "joinedNationAt": 1794356725442,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 1259.0,
+   "numTrusted": 3,
+   "numOutlaws": 5,
+   "balance": 1336.0,
    "forSalePrice": null
   },
   "perms": {
@@ -120,6 +120,10 @@
      -630
     ],
     [
+     811,
+     -629
+    ],
+    [
      809,
      -628
     ],
@@ -138,6 +142,10 @@
   ],
   "trusted": [
    {
+    "name": "PiplupKing",
+    "uuid": "19f64844-0026-48a1-a4bd-f2d84f120d83"
+   },
+   {
     "name": "IanSpace71",
     "uuid": "97b69eeb-f63b-49ff-a1a0-0a3f5e7b96ee"
    },
@@ -146,7 +154,28 @@
     "uuid": "3625ce6f-b937-49cf-bec2-0e60200bf9a2"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   },
+   {
+    "name": "itsZcraft",
+    "uuid": "de3fdb0a-1a0b-4ec3-86c7-4432b99b8734"
+   },
+   {
+    "name": "ZupraMC",
+    "uuid": "fc317a85-7958-40ae-9027-c4e5feba4d2c"
+   },
+   {
+    "name": "7BrewLover",
+    "uuid": "a7926920-95f5-467f-aa8a-2f51c045d210"
+   },
+   {
+    "name": "diffex",
+    "uuid": "6a12e341-2602-4462-ba78-c4fdab5cd190"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

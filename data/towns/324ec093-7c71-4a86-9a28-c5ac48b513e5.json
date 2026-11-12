@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Zakopane",
   "uuid": "324ec093-7c71-4a86-9a28-c5ac48b513e5",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 66,
+   "numTownBlocks": 67,
    "maxTownBlocks": 336,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 23,
-   "numTrusted": 2,
-   "numOutlaws": 5,
-   "balance": 0.0,
+   "numTrusted": 1,
+   "numOutlaws": 6,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -293,6 +293,10 @@
     ],
     [
      443,
+     -706
+    ],
+    [
+     443,
      -707
     ],
     [
@@ -360,16 +364,12 @@
   },
   "residents": [
    {
-    "name": "MitkoMAMA",
-    "uuid": "fe20272e-e798-465d-843f-3969f4cb609b"
-   },
-   {
-    "name": "HeroFallacy",
-    "uuid": "af225489-60b7-43f6-979a-ae47d5e9e9df"
-   },
-   {
     "name": "Momch1",
     "uuid": "edfddfb9-c208-4ce8-8809-b763043eb895"
+   },
+   {
+    "name": "alp60",
+    "uuid": "f6d5cecc-0064-4aeb-bb0a-650e95418db8"
    },
    {
     "name": "BillyBJones",
@@ -394,10 +394,6 @@
    {
     "name": "NeonSprout",
     "uuid": "4d4a23e0-6c8a-4dd6-af52-033531912c49"
-   },
-   {
-    "name": "HungryDangerBob",
-    "uuid": "75a5bd4e-5ca7-494e-84e6-fe61c7a53a92"
    },
    {
     "name": "SharnyB",
@@ -450,16 +446,20 @@
    {
     "name": "MCvarko",
     "uuid": "b8719f7a-f721-4b8b-a36d-44d91928883b"
+   },
+   {
+    "name": "Eronbax",
+    "uuid": "e60869d2-2e85-413d-a40d-8fb1b68d74a2"
+   },
+   {
+    "name": "JustTheNour",
+    "uuid": "29de2e5f-65f4-475e-81f0-ff7d5260a291"
    }
   ],
   "trusted": [
    {
     "name": "Bajzyl",
     "uuid": "f81d5cbe-4eef-460b-8ec2-4e8811b86792"
-   },
-   {
-    "name": "IrysZ",
-    "uuid": "cbf46854-9754-40b6-9b86-90466fa0303b"
    }
   ],
   "outlaws": [
@@ -482,6 +482,10 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "Thwerrve",
+    "uuid": "4626eb7f-4eb9-4239-99b0-a7c70ccd5a14"
    }
   ],
   "quarters": [

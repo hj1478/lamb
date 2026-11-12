@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "New_Monktropolis",
   "uuid": "4725d12e-2ee0-4a89-bae6-5d91885ac86e",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 3,
-   "balance": 0.0,
+   "numOutlaws": 5,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -213,6 +213,14 @@
    {
     "name": "Mine_bee",
     "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
+   },
+   {
+    "name": "Hairouna1",
+    "uuid": "58d80c20-1bb8-450d-9877-1521cce55d73"
+   },
+   {
+    "name": "Hairouna2",
+    "uuid": "88029d58-9605-4805-8ef1-4ffe1b16abdf"
    }
   ],
   "quarters": [],

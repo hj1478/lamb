@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "The_Lighthouse",
   "uuid": "4245e7f1-1877-4e9f-bb9f-3f351477a453",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "JackyMcWacky",
-   "uuid": "ed6edf67-d15b-4296-aaa4-d9975362267e"
+   "name": "NPC89",
+   "uuid": "2b1951c8-ebfe-207b-828a-7b6d69003317"
   },
   "nation": {
-   "name": "Atlantic_Ocean",
-   "uuid": "d40f9a16-825b-4868-ba01-68978742c631"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1777814433077,
-   "joinedNationAt": 1783328608945,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481203751
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -40,41 +40,41 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 146.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -136,18 +136,14 @@
   },
   "residents": [
    {
-    "name": "JackyMcWacky",
-    "uuid": "ed6edf67-d15b-4296-aaa4-d9975362267e"
+    "name": "NPC89",
+    "uuid": "2b1951c8-ebfe-207b-828a-7b6d69003317"
    }
   ],
   "trusted": [
    {
     "name": "MortAmos",
     "uuid": "ccfbea76-fd62-4aa4-b9b9-42f8b828ef82"
-   },
-   {
-    "name": "JackyMcWacky",
-    "uuid": "ed6edf67-d15b-4296-aaa4-d9975362267e"
    },
    {
     "name": "Mortamay",

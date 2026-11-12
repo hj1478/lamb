@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Ostersund",
   "uuid": "475d19a3-d406-4fb8-9737-572e1743896e",
@@ -12,12 +12,12 @@
    "uuid": "b1b1baae-245b-49c1-83a9-2faebabc7234"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
    "registered": 1793539658691,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793988745635,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 50.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,12 +92,84 @@
    ],
    "townBlocks": [
     [
+     323,
+     -1146
+    ],
+    [
+     324,
+     -1149
+    ],
+    [
      326,
      -1147
     ],
     [
+     323,
+     -1145
+    ],
+    [
      324,
      -1148
+    ],
+    [
+     326,
+     -1148
+    ],
+    [
+     323,
+     -1148
+    ],
+    [
+     323,
+     -1147
+    ],
+    [
+     326,
+     -1144
+    ],
+    [
+     326,
+     -1145
+    ],
+    [
+     326,
+     -1146
+    ],
+    [
+     324,
+     -1145
+    ],
+    [
+     324,
+     -1144
+    ],
+    [
+     323,
+     -1149
+    ],
+    [
+     324,
+     -1147
+    ],
+    [
+     324,
+     -1146
+    ],
+    [
+     322,
+     -1147
+    ],
+    [
+     322,
+     -1148
+    ],
+    [
+     325,
+     -1144
+    ],
+    [
+     325,
+     -1145
     ],
     [
      325,
@@ -112,11 +184,19 @@
      -1148
     ],
     [
-     326,
+     325,
+     -1149
+    ],
+    [
+     327,
+     -1145
+    ],
+    [
+     327,
      -1146
     ],
     [
-     324,
+     327,
      -1147
     ]
    ],

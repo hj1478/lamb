@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Chickens",
   "uuid": "351a6cb1-9b4d-4a32-9532-0140ecd8ee7c",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 18.0,
+   "numOutlaws": 1,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46889.4616031811,
+    "x": 46886.601280815754,
     "y": 68.0,
-    "z": 14860.892914421074,
-    "pitch": -4.3500543,
-    "yaw": 88.25665
+    "z": 14860.61247102248,
+    "pitch": 3.5999467,
+    "yaw": 91.70662
    },
    "homeBlock": [
     2930,
@@ -221,7 +221,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "pking3",
+    "uuid": "02861e73-ec4f-4c70-b9db-ac1e97b3f8ff"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

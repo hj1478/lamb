@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Shin_Tokyo",
   "uuid": "37668407-97c3-4f08-9a88-e38c1fbb0fac",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "kndkkti",
-   "uuid": "f6be0454-4400-40ad-9da5-fe5dddef4fbb"
+   "name": "NPC21",
+   "uuid": "ddd5e5a9-ffb6-20cf-aaff-f0440e9d5238"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1785314604420,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794304803460
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 53,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 80.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -308,20 +308,11 @@
   },
   "residents": [
    {
-    "name": "kndkkti",
-    "uuid": "f6be0454-4400-40ad-9da5-fe5dddef4fbb"
-   },
-   {
-    "name": "idokndk",
-    "uuid": "1b95aa37-ead0-4a59-af72-969f73f63b9f"
+    "name": "NPC21",
+    "uuid": "ddd5e5a9-ffb6-20cf-aaff-f0440e9d5238"
    }
   ],
-  "trusted": [
-   {
-    "name": "idokndk",
-    "uuid": "1b95aa37-ead0-4a59-af72-969f73f63b9f"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Tegridy_Farms",
   "uuid": "4164563e-5afb-48af-8b0c-477c1c8e0319",
-  "board": "/town set board [msg]",
+  "board": "Tegridy Weed, no better on Earth",
   "founder": "Oblitz_",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "5d191ff2-0e7c-4ae2-a6fb-1d53b44fd0a4"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Yukon",
+   "uuid": "ff708dc2-dca5-4bda-87ea-95ca16592af7"
   },
   "timestamps": {
    "registered": 1793560186381,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793913304874,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 34,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 10,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,24 +92,124 @@
    ],
    "townBlocks": [
     [
+     -2720,
+     -1252
+    ],
+    [
+     -2718,
+     -1251
+    ],
+    [
+     -2718,
+     -1250
+    ],
+    [
+     -2718,
+     -1249
+    ],
+    [
      -2718,
      -1248
     ],
     [
-     -2720,
+     -2718,
      -1247
+    ],
+    [
+     -2719,
+     -1251
+    ],
+    [
+     -2719,
+     -1252
+    ],
+    [
+     -2719,
+     -1249
+    ],
+    [
+     -2719,
+     -1250
     ],
     [
      -2719,
      -1247
     ],
     [
-     -2720,
+     -2719,
      -1248
     ],
     [
      -2719,
+     -1246
+    ],
+    [
+     -2720,
+     -1247
+    ],
+    [
+     -2718,
+     -1246
+    ],
+    [
+     -2720,
+     -1246
+    ],
+    [
+     -2720,
+     -1251
+    ],
+    [
+     -2720,
+     -1250
+    ],
+    [
+     -2720,
+     -1249
+    ],
+    [
+     -2720,
      -1248
+    ],
+    [
+     -2721,
+     -1246
+    ],
+    [
+     -2721,
+     -1247
+    ],
+    [
+     -2721,
+     -1248
+    ],
+    [
+     -2721,
+     -1245
+    ],
+    [
+     -2717,
+     -1250
+    ],
+    [
+     -2717,
+     -1249
+    ],
+    [
+     -2717,
+     -1248
+    ],
+    [
+     -2722,
+     -1247
+    ],
+    [
+     -2722,
+     -1245
+    ],
+    [
+     -2722,
+     -1246
     ]
    ],
    "worlds": {}
@@ -118,13 +218,22 @@
    {
     "name": "Oblitz_",
     "uuid": "5d191ff2-0e7c-4ae2-a6fb-1d53b44fd0a4"
+   },
+   {
+    "name": "Ju0610",
+    "uuid": "90a33a20-eb33-4148-8c04-64899173b043"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Ju0610",
+     "uuid": "90a33a20-eb33-4148-8c04-64899173b043"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

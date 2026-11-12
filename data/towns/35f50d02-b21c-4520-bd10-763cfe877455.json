@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Eskisehir",
   "uuid": "35f50d02-b21c-4520-bd10-763cfe877455",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 7.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10680.06157115606,
-    "y": 87.0,
-    "z": -6970.595707724835,
-    "pitch": 12.891701,
-    "yaw": 146.04337
+    "x": 10676.886385316426,
+    "y": 85.0,
+    "z": -6971.996573983426,
+    "pitch": 15.05685,
+    "yaw": 136.65979
    },
    "homeBlock": [
     667,
@@ -92,12 +92,40 @@
    ],
    "townBlocks": [
     [
+     669,
+     -436
+    ],
+    [
+     669,
+     -434
+    ],
+    [
+     669,
+     -435
+    ],
+    [
+     668,
+     -435
+    ],
+    [
+     668,
+     -436
+    ],
+    [
+     668,
+     -434
+    ],
+    [
      667,
      -436
     ],
     [
      667,
      -435
+    ],
+    [
+     667,
+     -434
     ]
    ],
    "worlds": {}
@@ -106,9 +134,18 @@
    {
     "name": "ESKISEHIRLI",
     "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
+   },
+   {
+    "name": "Orjinal",
+    "uuid": "123e0ea7-cc4d-4126-a868-d0029ff8ddab"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Orjinal",
+    "uuid": "123e0ea7-cc4d-4126-a868-d0029ff8ddab"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

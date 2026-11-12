@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Eindhoven",
   "uuid": "3bb2f533-72e2-46fa-a91e-7ceacf773db5",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 263,
-   "maxTownBlocks": 280,
+   "maxTownBlocks": 256,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
+   "numResidents": 13,
    "numTrusted": 1,
-   "numOutlaws": 9,
+   "numOutlaws": 8,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -1157,20 +1157,8 @@
     "uuid": "64d3c9ac-9445-4c48-ba2a-4483776b4bc0"
    },
    {
-    "name": "Jerlag_01",
-    "uuid": "4cdac7cd-55d7-445e-9f2d-ecae42452b0d"
-   },
-   {
-    "name": "LAJ_Cat",
-    "uuid": "202997d4-d461-4883-8c48-48f705f7403e"
-   },
-   {
     "name": "m1a2abramsooo",
     "uuid": "52b77f80-4cc5-4ca2-a2ce-0b1e57d68e0b"
-   },
-   {
-    "name": "soycajitasyt",
-    "uuid": "721cf986-4ebe-4d24-aaa1-9d513f3d5289"
    },
    {
     "name": "adriaanYTcraft",
@@ -1189,7 +1177,7 @@
     "uuid": "b9064c57-f709-42ff-9861-432591015dbd"
    },
    {
-    "name": "7xqvnr",
+    "name": "F932",
     "uuid": "f2b30337-327b-44dd-adc8-6f044bfe1327"
    },
    {
@@ -1211,6 +1199,10 @@
    {
     "name": "UEPANDA",
     "uuid": "513663e8-94bf-4c23-bba3-d5e1b219c498"
+   },
+   {
+    "name": "safranx",
+    "uuid": "741c2885-f16c-4dbb-9baf-4c64bafcc8ba"
    }
   ],
   "trusted": [
@@ -1239,10 +1231,6 @@
    {
     "name": "Amitile",
     "uuid": "f350aa45-e037-4917-a859-b7779d58990e"
-   },
-   {
-    "name": "Kedrion",
-    "uuid": "f20f5577-339e-4eb0-8f39-26ff34db76f1"
    },
    {
     "name": "FT_1",
@@ -1314,12 +1302,7 @@
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Jerlag_01",
-     "uuid": "4cdac7cd-55d7-445e-9f2d-ecae42452b0d"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Bathrion",
   "uuid": "28724c42-890c-4a31-815f-56af7e14c7c8",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
+   "numTrusted": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -108,8 +108,16 @@
      -824
     ],
     [
+     830,
+     -823
+    ],
+    [
      831,
      -825
+    ],
+    [
+     831,
+     -823
     ],
     [
      831,
@@ -124,13 +132,13 @@
     "uuid": "a5fb3cb9-6e93-440f-8e41-92a809e9c4dd"
    }
   ],
-  "trusted": [
+  "trusted": [],
+  "outlaws": [
    {
-    "name": "TEKOA_",
-    "uuid": "6e92c482-15e9-4da1-b457-091e791322bc"
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
-  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

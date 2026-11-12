@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "BAT_HQ",
   "uuid": "481d758b-c8a3-4cab-96e6-b7dfceba820f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Frgeht",
-   "uuid": "1c8cc13f-c4bc-4345-bffe-bd4e3a722789"
+   "name": "NPC47",
+   "uuid": "f839482c-4e54-20d6-a87b-621f0f707b09"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784558736011,
-   "joinedNationAt": 1784558779702,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481201897
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 43,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -268,8 +268,8 @@
   },
   "residents": [
    {
-    "name": "Frgeht",
-    "uuid": "1c8cc13f-c4bc-4345-bffe-bd4e3a722789"
+    "name": "NPC47",
+    "uuid": "f839482c-4e54-20d6-a87b-621f0f707b09"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Newville",
   "uuid": "2d6c11c4-77e1-489f-bd37-088140c1d587",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Dmir26",
-   "uuid": "68cfe196-7ee1-416d-9237-0d79915413dd"
+   "name": "ArdaTe_",
+   "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
   },
   "nation": {
    "name": "Acadia",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 210.0
   },
   "perms": {
    "build": [
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -24092.01055445387,
-    "y": 63.0,
-    "z": -9389.283026668689,
-    "pitch": 9.965893,
-    "yaw": 98.22778
+    "x": -24098.205583222774,
+    "y": 64.0,
+    "z": -9285.671175908417,
+    "pitch": 2.9414604,
+    "yaw": -175.21643
    },
    "homeBlock": [
-    -1506,
-    -587
+    -1507,
+    -581
    ],
    "townBlocks": [
     [
@@ -240,12 +240,8 @@
   },
   "residents": [
    {
-    "name": "Dmir26",
-    "uuid": "68cfe196-7ee1-416d-9237-0d79915413dd"
-   },
-   {
-    "name": "CitedWinner",
-    "uuid": "6947055b-55ab-4f71-b499-bdd8bbd98914"
+    "name": "ArdaTe_",
+    "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
    }
   ],
   "trusted": [],

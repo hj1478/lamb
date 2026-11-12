@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Space-Center",
   "uuid": "4131f05c-743a-4d76-b296-9a3fd6726e8f",
@@ -25,24 +25,24 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32344.549276628342,
+    "x": -32343.520948710142,
     "y": 64.0,
-    "z": 733.4458203652314,
-    "pitch": 90.0,
-    "yaw": -2.6351929
+    "z": 727.5050381460818,
+    "pitch": 89.75015,
+    "yaw": -0.044952393
    },
    "homeBlock": [
     -2022,
@@ -100,6 +100,18 @@
      48
     ],
     [
+     -2025,
+     47
+    ],
+    [
+     -2025,
+     46
+    ],
+    [
+     -2025,
+     45
+    ],
+    [
      -2022,
      48
     ],
@@ -110,6 +122,10 @@
     [
      -2022,
      46
+    ],
+    [
+     -2025,
+     48
     ],
     [
      -2022,
@@ -126,6 +142,10 @@
     [
      -2021,
      48
+    ],
+    [
+     -2024,
+     45
     ],
     [
      -2024,

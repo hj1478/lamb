@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Saint-Leu",
   "uuid": "43fa5cdc-38c0-47a4-8877-1ee1d4ad4f98",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Toxus974",
-   "uuid": "ba914b87-7148-43d9-ad59-01da9f0d78c0"
+   "name": "NPC54",
+   "uuid": "13a007a1-332f-20ed-8270-b0d46f7be695"
   },
   "nation": {
-   "name": "Madagascar",
-   "uuid": "44f40831-d34f-49e0-a166-46401ad604c4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1788640326227,
-   "joinedNationAt": 1788641801017,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481202638
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,12 +100,8 @@
   },
   "residents": [
    {
-    "name": "Toxus974",
-    "uuid": "ba914b87-7148-43d9-ad59-01da9f0d78c0"
-   },
-   {
-    "name": "stonnehey",
-    "uuid": "8294a642-d46c-4a7b-a8cb-df84e1660364"
+    "name": "NPC54",
+    "uuid": "13a007a1-332f-20ed-8270-b0d46f7be695"
    }
   ],
   "trusted": [],
@@ -113,12 +109,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "stonnehey",
-     "uuid": "8294a642-d46c-4a7b-a8cb-df84e1660364"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

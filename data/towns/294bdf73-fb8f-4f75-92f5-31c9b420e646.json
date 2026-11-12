@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Shop",
   "uuid": "294bdf73-fb8f-4f75-92f5-31c9b420e646",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
+   "numTownBlocks": 35,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 7,
-   "numOutlaws": 0,
-   "balance": 44.0,
+   "numTrusted": 5,
+   "numOutlaws": 1,
+   "balance": 29.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6639.311404596038,
+    "x": 6631.378580142933,
     "y": 71.0,
-    "z": 9592.69865015381,
-    "pitch": 10.113064,
-    "yaw": -179.62907
+    "z": 9566.58620906394,
+    "pitch": 6.2611628,
+    "yaw": -90.98277
    },
    "homeBlock": [
     414,
-    599
+    597
    ],
    "townBlocks": [
     [
      413,
+     595
+    ],
+    [
+     413,
      596
+    ],
+    [
+     415,
+     600
     ],
     [
      415,
@@ -112,6 +120,14 @@
      598
     ],
     [
+     415,
+     595
+    ],
+    [
+     416,
+     600
+    ],
+    [
      416,
      596
     ],
@@ -128,8 +144,16 @@
      599
     ],
     [
+     412,
+     597
+    ],
+    [
      414,
      596
+    ],
+    [
+     414,
+     595
     ],
     [
      414,
@@ -138,10 +162,22 @@
     [
      414,
      597
+    ],
+    [
+     416,
+     595
     ],
     [
      413,
      599
+    ],
+    [
+     414,
+     600
+    ],
+    [
+     413,
+     600
     ],
     [
      414,
@@ -158,6 +194,10 @@
     [
      417,
      596
+    ],
+    [
+     417,
+     595
     ],
     [
      417,
@@ -170,6 +210,10 @@
     [
      418,
      596
+    ],
+    [
+     418,
+     595
     ],
     [
      418,
@@ -202,14 +246,6 @@
     "uuid": "a69a929e-17c2-42eb-837d-a0307c4a23af"
    },
    {
-    "name": "oddanto123",
-    "uuid": "5b84f070-062c-45ea-b736-6a0d5a63c10f"
-   },
-   {
-    "name": "Copppelia",
-    "uuid": "eaa28acb-f899-4a3e-a47c-f0b99b9b5a55"
-   },
-   {
     "name": "MissAedyn",
     "uuid": "541e0ffc-a101-42f1-ae98-3bee72f70c25"
    },
@@ -226,8 +262,22 @@
     "uuid": "8e6fb7c0-16d4-4698-a6e4-91024c9b5602"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Inviting Tenement",
+    "uuid": "96db78b1-7979-456c-bb2c-ec965015075f"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "5cf38a61-bb5c-46a8-bf63-23ec6be6d0b9"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

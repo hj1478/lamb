@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-11-12T15:24:44Z",
+ "data": {
+  "name": "Arcadia",
+  "uuid": "378b9f27-4ae1-4ef1-9d47-c536d296f45b",
+  "board": "/town set board [msg]",
+  "founder": "Soultaker4098",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "Soultaker4098",
+   "uuid": "971715db-5865-4d8f-88ad-5196b1186c42"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794453122141,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 24,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -60259.48351737385,
+    "y": 77.0,
+    "z": -13206.194515427427,
+    "pitch": 26.398508,
+    "yaw": -85.51001
+   },
+   "homeBlock": [
+    -3767,
+    -826
+   ],
+   "townBlocks": [
+    [
+     -3767,
+     -826
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "Soultaker4098",
+    "uuid": "971715db-5865-4d8f-88ad-5196b1186c42"
+   },
+   {
+    "name": "Comfytexas",
+    "uuid": "db8a702b-bdc6-4469-b403-238912471746"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [
+    {
+     "name": "Comfytexas",
+     "uuid": "db8a702b-bdc6-4469-b403-238912471746"
+    }
+   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

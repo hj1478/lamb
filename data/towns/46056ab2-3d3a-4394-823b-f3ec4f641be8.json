@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Mandor",
   "uuid": "46056ab2-3d3a-4394-823b-f3ec4f641be8",
@@ -12,12 +12,12 @@
    "uuid": "570f836e-74bf-45e6-bce2-e7d71d9b02f5"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Lanfang",
+   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
   },
   "timestamps": {
    "registered": 1794047435255,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794058224178,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 7.0,
+   "numOutlaws": 3,
+   "balance": 26.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,48 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 36158.06376070598,
-    "y": 33.0,
-    "z": 7176.633416371961,
-    "pitch": 35.099907,
-    "yaw": -90.145996
+    "x": 36170.247257242074,
+    "y": 29.0,
+    "z": 7180.430673871319,
+    "pitch": 21.000017,
+    "yaw": 90.59985
    },
    "homeBlock": [
-    2259,
+    2260,
     448
    ],
    "townBlocks": [
     [
      2259,
+     449
+    ],
+    [
+     2259,
+     447
+    ],
+    [
+     2258,
+     447
+    ],
+    [
+     2259,
      448
+    ],
+    [
+     2258,
+     448
+    ],
+    [
+     2260,
+     448
+    ],
+    [
+     2259,
+     446
+    ],
+    [
+     2260,
+     449
     ]
    ],
    "worlds": {}
@@ -105,7 +133,20 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "UNK0nWN",
+    "uuid": "80a03e0d-950c-4e9e-921c-12e00af8efab"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

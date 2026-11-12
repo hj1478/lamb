@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "New_Eden",
   "uuid": "3f66c70e-c80f-452c-b55a-d180dac86166",
   "board": "Welcome!",
   "founder": "MrKropotkin69",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/ggk6JxeGxH",
   "mayor": {
    "name": "MrKropotkin69",
    "uuid": "cb3b6ac9-d931-49b9-a333-5c445ad1a44c"
@@ -23,7 +23,7 @@
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -35,37 +35,37 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -92,6 +92,18 @@
    ],
    "townBlocks": [
     [
+     3358,
+     1379
+    ],
+    [
+     3357,
+     1381
+    ],
+    [
+     3358,
+     1380
+    ],
+    [
      3356,
      1380
     ],
@@ -102,6 +114,22 @@
     [
      3356,
      1379
+    ],
+    [
+     3357,
+     1380
+    ],
+    [
+     3357,
+     1379
+    ],
+    [
+     3358,
+     1378
+    ],
+    [
+     3357,
+     1378
     ]
    ],
    "worlds": {}
@@ -110,6 +138,10 @@
    {
     "name": "MrKropotkin69",
     "uuid": "cb3b6ac9-d931-49b9-a333-5c445ad1a44c"
+   },
+   {
+    "name": "bball826",
+    "uuid": "3f88e69d-8de6-42ce-a948-160a21e2626b"
    }
   ],
   "trusted": [],
@@ -120,6 +152,10 @@
     {
      "name": "MrKropotkin69",
      "uuid": "cb3b6ac9-d931-49b9-a333-5c445ad1a44c"
+    },
+    {
+     "name": "bball826",
+     "uuid": "3f88e69d-8de6-42ce-a948-160a21e2626b"
     }
    ],
    "Builder": [],
@@ -128,7 +164,12 @@
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],
-   "Settler": []
+   "Settler": [
+    {
+     "name": "bball826",
+     "uuid": "3f88e69d-8de6-42ce-a948-160a21e2626b"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

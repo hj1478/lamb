@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Vientiane",
   "uuid": "272f6e12-ad85-4817-a8c2-d26ca190e363",
@@ -12,12 +12,12 @@
    "uuid": "d71a7047-3ab1-4ce9-9f32-ec78302b9b1d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Asia",
+   "uuid": "14557fbd-dddf-41f0-9b74-37acaa08c0e4"
   },
   "timestamps": {
    "registered": 1793558066418,
-   "joinedNationAt": null,
+   "joinedNationAt": 1793917764116,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 4,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 57.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -91,6 +91,18 @@
     94
    ],
    "townBlocks": [
+    [
+     2298,
+     95
+    ],
+    [
+     2298,
+     94
+    ],
+    [
+     2299,
+     95
+    ],
     [
      2299,
      94

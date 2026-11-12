@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Puerto_Darwin",
   "uuid": "4818445d-ed21-4a3b-9aea-c6f091744c97",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 26,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 283.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -192,7 +192,16 @@
      1537
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       232,
+       -418
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -202,6 +211,10 @@
    {
     "name": "HUEVECITO",
     "uuid": "9cd400a0-3fd3-4ea5-9dba-1c616a47637e"
+   },
+   {
+    "name": "QueenJGR",
+    "uuid": "d36c2413-6175-4499-836a-f43898e64fbc"
    }
   ],
   "trusted": [],
@@ -258,7 +271,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "QueenJGR",
+     "uuid": "d36c2413-6175-4499-836a-f43898e64fbc"
+    }
+   ],
    "Builder": [
     {
      "name": "Buildercgr",

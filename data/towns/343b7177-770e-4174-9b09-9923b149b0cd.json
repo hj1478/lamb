@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Sao_Vicente",
   "uuid": "343b7177-770e-4174-9b09-9923b149b0cd",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 225,
-   "maxTownBlocks": 640,
+   "numTownBlocks": 242,
+   "maxTownBlocks": 628,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 45,
-   "numTrusted": 3,
-   "numOutlaws": 20,
-   "balance": 59.0,
+   "numResidents": 44,
+   "numTrusted": 2,
+   "numOutlaws": 18,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,20 @@
    ],
    "townBlocks": [
     [
+     -1048,
+     1026
+    ],
+    [
      -1033,
      1042
     ],
     [
      -1033,
      1041
+    ],
+    [
+     -1033,
+     1043
     ],
     [
      -1033,
@@ -146,6 +154,10 @@
     [
      -1047,
      1025
+    ],
+    [
+     -1047,
+     1027
     ],
     [
      -1047,
@@ -205,6 +217,10 @@
     ],
     [
      -1047,
+     1046
+    ],
+    [
+     -1047,
      1045
     ],
     [
@@ -220,6 +236,14 @@
      1037
     ],
     [
+     -1035,
+     1046
+    ],
+    [
+     -1035,
+     1047
+    ],
+    [
      -1047,
      1048
     ],
@@ -232,6 +256,18 @@
      1042
     ],
     [
+     -1035,
+     1043
+    ],
+    [
+     -1035,
+     1045
+    ],
+    [
+     -1046,
+     1024
+    ],
+    [
      -1046,
      1025
     ],
@@ -241,11 +277,19 @@
     ],
     [
      -1046,
+     1027
+    ],
+    [
+     -1046,
      1028
     ],
     [
      -1046,
      1029
+    ],
+    [
+     -1046,
+     1030
     ],
     [
      -1046,
@@ -349,6 +393,10 @@
     ],
     [
      -1045,
+     1024
+    ],
+    [
+     -1045,
      1027
     ],
     [
@@ -366,6 +414,10 @@
     [
      -1031,
      1039
+    ],
+    [
+     -1045,
+     1047
     ],
     [
      -1045,
@@ -402,6 +454,10 @@
     [
      -1045,
      1044
+    ],
+    [
+     -1034,
+     1043
     ],
     [
      -1034,
@@ -677,11 +733,23 @@
     ],
     [
      -1044,
+     1024
+    ],
+    [
+     -1044,
+     1025
+    ],
+    [
+     -1044,
      1028
     ],
     [
      -1044,
      1029
+    ],
+    [
+     -1044,
+     1027
     ],
     [
      -1049,
@@ -1017,10 +1085,6 @@
     "uuid": "09660f8a-0c2c-4d97-8fea-9bba6fa54c00"
    },
    {
-    "name": "Dri_orloff",
-    "uuid": "256639fb-b40b-4bc2-810f-c5aeb9275f97"
-   },
-   {
     "name": "gameover1020",
     "uuid": "68dc5bf1-9c8f-436b-9840-21b5a893319d"
    },
@@ -1053,10 +1117,6 @@
     "uuid": "0ba05dbe-cead-46b3-b148-e7ed51be68f8"
    },
    {
-    "name": "Chezeryg",
-    "uuid": "0470a5cb-aebd-4bab-a24e-431faa4a1993"
-   },
-   {
     "name": "Hyd_rix",
     "uuid": "20d8a01f-0bd2-4638-8f4c-86212170455c"
    },
@@ -1083,10 +1143,6 @@
    {
     "name": "bieljogadas",
     "uuid": "0a995400-e081-4b8f-a3c6-1a94f020a847"
-   },
-   {
-    "name": "Thiwgo",
-    "uuid": "6144be09-078c-48ba-b978-8085bdd11efe"
    },
    {
     "name": "dino12oficial",
@@ -1165,10 +1221,6 @@
     "uuid": "f9c9aff0-6136-4058-8648-142db3c6166d"
    },
    {
-    "name": "SenhorPires",
-    "uuid": "d91435ab-93d0-48b6-b5dd-a674f2e0193c"
-   },
-   {
     "name": "Ryokoon",
     "uuid": "67750331-d9da-4b98-9295-1fc73b50c718"
    },
@@ -1177,15 +1229,23 @@
     "uuid": "c49151d6-a12e-44c2-9165-b5dff0ce6572"
    },
    {
-    "name": "Canedoo01",
-    "uuid": "b899e2e1-5013-4157-b32f-95f0a2598aaa"
+    "name": "Pedro_Kiihl",
+    "uuid": "fc0560af-78f5-4960-87b8-72e547e07766"
+   },
+   {
+    "name": "Peaches_ss",
+    "uuid": "12a53e06-b15d-42d0-a4a1-ebd5bfd890b6"
+   },
+   {
+    "name": "scoby900",
+    "uuid": "5522dcfe-f529-440c-b592-50b149585b10"
+   },
+   {
+    "name": "Bigbrownboi2",
+    "uuid": "d423550e-12c8-49e5-a97d-93af6380c4fe"
    }
   ],
   "trusted": [
-   {
-    "name": "Person_2d",
-    "uuid": "3b437360-1e38-4af9-acef-a16d394304f5"
-   },
    {
     "name": "RaitzOG",
     "uuid": "b7526a7e-892a-4d85-a282-dd259f20719d"
@@ -1209,10 +1269,6 @@
     "uuid": "eb3895bc-852e-4814-910a-ea4327ad6221"
    },
    {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
     "name": "Acerse",
     "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
    },
@@ -1223,10 +1279,6 @@
    {
     "name": "TerrificAxolotl3",
     "uuid": "80b3a0cb-5e98-4868-a932-61b2968842e9"
-   },
-   {
-    "name": "Pig_master_3500",
-    "uuid": "4172783b-ace8-4b76-a46d-61774476c8f9"
    },
    {
     "name": "Costel_Biju",
@@ -1421,6 +1473,10 @@
     {
      "name": "garciaamn",
      "uuid": "6c84bd7d-0a47-482e-9d2a-db2376749e06"
+    },
+    {
+     "name": "Peaches_ss",
+     "uuid": "12a53e06-b15d-42d0-a4a1-ebd5bfd890b6"
     }
    ],
    "Recruiter": [],

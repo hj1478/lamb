@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Diamond",
   "uuid": "2d7ffcba-3cef-4313-9f8f-b262bc3d5f30",
@@ -8,21 +8,21 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Yousotrash67",
-   "uuid": "9348c242-554b-4470-a9a8-186c0293f0ad"
+   "name": "DrYeetSir",
+   "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
   },
   "nation": {
-   "name": "Argentina",
-   "uuid": "a37b3e38-02af-4d98-af67-7f44630d1139"
+   "name": "Uruguay",
+   "uuid": "b75404f8-0698-4865-b2c8-b687af410a65"
   },
   "timestamps": {
    "registered": 1779641738125,
-   "joinedNationAt": 1791687104650,
+   "joinedNationAt": 1794359281842,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 127,
-   "maxTownBlocks": 132,
+   "numTownBlocks": 122,
+   "maxTownBlocks": 122,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 6,
    "numTrusted": 1,
-   "numOutlaws": 7,
-   "balance": 53.0,
+   "numOutlaws": 10,
+   "balance": 62000.0,
    "forSalePrice": null
   },
   "perms": {
@@ -412,20 +412,20 @@
      1722
     ],
     [
-     -1531,
-     1723
-    ],
-    [
      -1530,
      1727
     ],
     [
      -1531,
-     1724
+     1723
     ],
     [
      -1530,
      1728
+    ],
+    [
+     -1531,
+     1724
     ],
     [
      -1530,
@@ -444,10 +444,6 @@
      1718
     ],
     [
-     -1535,
-     1722
-    ],
-    [
      -1530,
      1723
     ],
@@ -464,10 +460,6 @@
      1720
     ],
     [
-     -1533,
-     1717
-    ],
-    [
      -1530,
      1721
     ],
@@ -480,10 +472,6 @@
      1719
     ],
     [
-     -1535,
-     1723
-    ],
-    [
      -1530,
      1720
     ],
@@ -502,14 +490,6 @@
     [
      -1534,
      1719
-    ],
-    [
-     -1534,
-     1718
-    ],
-    [
-     -1534,
-     1717
     ],
     [
      -1534,
@@ -613,10 +593,6 @@
     "uuid": "41f86478-b084-4b7a-82a1-e25b78954a70"
    },
    {
-    "name": "egovizard_vz",
-    "uuid": "c3066335-3a25-4e0a-97ad-98ef59583957"
-   },
-   {
     "name": "edhh",
     "uuid": "02ac94dd-bf2e-430e-85ab-ea5a53b91ebd"
    },
@@ -631,6 +607,10 @@
    {
     "name": "Yousotrash67",
     "uuid": "9348c242-554b-4470-a9a8-186c0293f0ad"
+   },
+   {
+    "name": "DrYeetSir",
+    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
    }
   ],
   "trusted": [
@@ -667,49 +647,28 @@
    {
     "name": "TpGlemuX",
     "uuid": "88d4d1e7-6212-4e61-a033-7deb80c585f3"
+   },
+   {
+    "name": "_DucKnight_",
+    "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"
+   },
+   {
+    "name": "chkr1212",
+    "uuid": "f645420b-f47f-4873-83a4-65ff044dcbf3"
+   },
+   {
+    "name": "ooows",
+    "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
    }
   ],
   "quarters": [
    {
-    "name": "Upbeat Tenement",
-    "uuid": "5d53d72b-6b03-4512-8864-78727cb14f86"
-   },
-   {
-    "name": "Enraging Residence",
-    "uuid": "07b7f9dd-67ba-443f-927e-ae49e1767122"
-   },
-   {
-    "name": "Annoying Quarter",
-    "uuid": "8449eb2b-1145-44ae-9410-ff5974a92f12"
-   },
-   {
-    "name": "Enraging Flat",
-    "uuid": "09514fbc-d192-4119-8a33-c341eead9735"
-   },
-   {
-    "name": "Welcoming Tenement",
-    "uuid": "5e4be436-b0d8-40b6-9869-f07268c78346"
-   },
-   {
-    "name": "Elegant Quarter",
-    "uuid": "351459bd-7013-45b2-8d73-74b3b43d8c5c"
-   },
-   {
-    "name": "Elegant Suite",
-    "uuid": "3ddb2da5-b14d-4ac3-9150-56d74be56146"
-   },
-   {
-    "name": "Upbeat Flat",
-    "uuid": "12129c1d-d438-4396-9d36-6fe4503b2655"
+    "name": "Blackjack",
+    "uuid": "c3779de6-61ab-4f7a-8af5-53720815699a"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Yousotrash67",
-     "uuid": "9348c242-554b-4470-a9a8-186c0293f0ad"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

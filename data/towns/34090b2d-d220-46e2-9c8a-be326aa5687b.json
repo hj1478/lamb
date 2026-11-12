@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Ponikos",
   "uuid": "34090b2d-d220-46e2-9c8a-be326aa5687b",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 170,
+   "numTownBlocks": 177,
    "maxTownBlocks": 200,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 10,
    "numTrusted": 2,
-   "numOutlaws": 14,
+   "numOutlaws": 13,
    "balance": 2.0,
    "forSalePrice": null
   },
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -152,6 +152,10 @@
      -782
     ],
     [
+     2832,
+     -793
+    ],
+    [
      2838,
      -781
     ],
@@ -168,12 +172,20 @@
      -784
     ],
     [
+     2832,
+     -795
+    ],
+    [
      2838,
      -783
     ],
     [
      2844,
      -783
+    ],
+    [
+     2832,
+     -794
     ],
     [
      2838,
@@ -212,8 +224,16 @@
      -785
     ],
     [
+     2832,
+     -797
+    ],
+    [
      2843,
      -780
+    ],
+    [
+     2832,
+     -796
     ],
     [
      2843,
@@ -533,6 +553,14 @@
     ],
     [
      2833,
+     -794
+    ],
+    [
+     2833,
+     -793
+    ],
+    [
+     2833,
      -796
     ],
     [
@@ -785,10 +813,6 @@
     "uuid": "2c24ea86-c78a-460a-adcf-5574b40a737d"
    },
    {
-    "name": "WizzMop",
-    "uuid": "f8e33883-9db8-464d-8390-207dd2efa7df"
-   },
-   {
     "name": "GenjiGallyV12",
     "uuid": "a4993ee1-a919-44d2-a9cc-008a637d8138"
    },
@@ -819,6 +843,10 @@
    {
     "name": "vixelank",
     "uuid": "cdbcd8d3-04a1-43a6-828d-42efd3b01e52"
+   },
+   {
+    "name": "F3ttucineAlfredo",
+    "uuid": "9798ae62-36bd-4b57-a58b-4037806a4427"
    }
   ],
   "trusted": [
@@ -879,10 +907,6 @@
    {
     "name": "xolarza",
     "uuid": "c268c3a6-b921-4e9a-ab2a-78330941ca6b"
-   },
-   {
-    "name": "ljldmclxzq",
-    "uuid": "f128bbe0-befc-46f4-ba06-467171bc6a29"
    },
    {
     "name": "PibExtreme",
@@ -953,6 +977,10 @@
    {
     "name": "Lovely Property",
     "uuid": "d87e0040-6aa3-4f2f-8353-c497a41569cd"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "2714f022-24f3-4d28-a8cc-06f675a50808"
    }
   ],
   "ranks": {

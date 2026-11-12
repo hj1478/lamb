@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Torei",
   "uuid": "48fd118b-3259-418e-8480-b34c2ee4a6ad",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "BecomeCubed",
-   "uuid": "b755ff5a-8f8f-4470-b1a1-3496b4889afc"
+   "name": "NPC49",
+   "uuid": "56d72fa2-82bc-2021-9059-802b27c1a41c"
   },
   "nation": {
-   "name": "Brazil",
-   "uuid": "fab09788-759d-4039-952f-793713232b5e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790523018290,
-   "joinedNationAt": 1790559263144,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481202191
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 8,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 17.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,32 +128,15 @@
   },
   "residents": [
    {
-    "name": "BecomeCubed",
-    "uuid": "b755ff5a-8f8f-4470-b1a1-3496b4889afc"
-   },
-   {
-    "name": "Jiraiya_Bebop",
-    "uuid": "75a1c3a3-ba51-46a9-be8c-3ac63b54ae22"
-   },
-   {
-    "name": "Z0MBIEsquirrel",
-    "uuid": "1544650c-8551-417b-b608-7f1c4bd6af57"
+    "name": "NPC49",
+    "uuid": "56d72fa2-82bc-2021-9059-802b27c1a41c"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Jiraiya_Bebop",
-     "uuid": "75a1c3a3-ba51-46a9-be8c-3ac63b54ae22"
-    },
-    {
-     "name": "Z0MBIEsquirrel",
-     "uuid": "1544650c-8551-417b-b608-7f1c4bd6af57"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

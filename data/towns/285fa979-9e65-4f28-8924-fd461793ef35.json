@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Franklin_TN",
   "uuid": "285fa979-9e65-4f28-8924-fd461793ef35",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_AxoBoy_",
-   "uuid": "5947aff0-c891-418e-a6f4-8763310f1ee6"
+   "name": "NPC25",
+   "uuid": "6b077b23-e2bb-2078-a5c9-62ec3f1433a5"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787186352593,
-   "joinedNationAt": 1787186373293,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794391203544
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -132,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "_AxoBoy_",
-    "uuid": "5947aff0-c891-418e-a6f4-8763310f1ee6"
+    "name": "NPC25",
+    "uuid": "6b077b23-e2bb-2078-a5c9-62ec3f1433a5"
    }
   ],
   "trusted": [],

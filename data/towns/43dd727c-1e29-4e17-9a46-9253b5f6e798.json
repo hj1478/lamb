@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Kozakian",
   "uuid": "43dd727c-1e29-4e17-9a46-9253b5f6e798",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 6,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     -1198,
+     822
+    ],
+    [
+     -1198,
+     823
+    ],
+    [
+     -1200,
+     823
+    ],
+    [
+     -1199,
+     824
+    ],
+    [
      -1199,
      822
     ],
@@ -110,7 +126,16 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Bland Flat",
+    "uuid": "9fcfac5f-53de-452e-b7bd-a2b85e7907dc"
+   },
+   {
+    "name": "Enraging Property",
+    "uuid": "ae09f359-7ac4-41b1-9bf3-87cf670a7f5c"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

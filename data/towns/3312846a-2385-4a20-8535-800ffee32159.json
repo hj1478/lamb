@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Nyroysa",
   "uuid": "3312846a-2385-4a20-8535-800ffee32159",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "p14ystat10n",
-   "uuid": "bd64a42a-b193-40f3-9200-7f3a333d9d9e"
+   "name": "NPC41",
+   "uuid": "19b5bee2-8d44-205a-bbb4-92312fe25642"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1783466592029,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794391206886
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -48,33 +48,33 @@
   "perms": {
    "build": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "destroy": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "switch": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "itemUse": [
     true,
-    false,
-    false,
-    false
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "p14ystat10n",
-    "uuid": "bd64a42a-b193-40f3-9200-7f3a333d9d9e"
+    "name": "NPC41",
+    "uuid": "19b5bee2-8d44-205a-bbb4-92312fe25642"
    }
   ],
   "trusted": [],

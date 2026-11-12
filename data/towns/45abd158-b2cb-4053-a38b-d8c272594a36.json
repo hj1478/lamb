@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:45:38Z",
+ "fetched_at": "2026-11-12T15:24:44Z",
  "data": {
   "name": "Waupaca_TC",
   "uuid": "45abd158-b2cb-4053-a38b-d8c272594a36",
@@ -12,12 +12,12 @@
    "uuid": "7dc6a20b-81f7-4bd2-af4b-14f4cbc0ec6c"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1793852135068,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794089778686,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -94,6 +94,18 @@
     [
      -1998,
      -564
+    ],
+    [
+     -1998,
+     -563
+    ],
+    [
+     -1999,
+     -564
+    ],
+    [
+     -1999,
+     -563
     ]
    ],
    "worlds": {}
@@ -117,7 +129,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "TaZeofficial",
+     "uuid": "cd09515a-4ad5-4f99-9a9e-b54e955b372f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
