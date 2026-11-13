@@ -1,33 +1,33 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Wildwood_Crest",
-  "uuid": "c2728a6c-e8ce-4d60-99e4-3ab3d0dc6dc9",
-  "board": "Those Wildwood Days",
-  "founder": "Pancakedpig",
+  "name": "Yorukistan",
+  "uuid": "e94e84fa-fcc8-40eb-b9e8-0d763159d3eb",
+  "board": "/town set board [msg]",
+  "founder": "rakuptka",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "GalacticDestoyer",
-   "uuid": "d98de181-6dc3-4358-8124-d6c84479357d"
+   "name": "rakuptka",
+   "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
   },
   "nation": {
-   "name": "New_York",
-   "uuid": "f5254fa5-98b8-41d9-9bc8-ed3ddb00c354"
+   "name": "Georgia",
+   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
   },
   "timestamps": {
-   "registered": 1786078918586,
-   "joinedNationAt": 1786999556700,
+   "registered": 1794511366498,
+   "joinedNationAt": 1794511551576,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 80,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 3.0,
-   "forSalePrice": 300.0
+   "balance": 0.0,
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,103 +80,88 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26836.73951267032,
+    "x": 12408.105592306534,
     "y": 63.0,
-    "z": -6755.5977569449,
-    "pitch": 0.012802074,
-    "yaw": 89.82382
+    "z": -8005.756247411067,
+    "pitch": -46.39001,
+    "yaw": -2.9367192
    },
    "homeBlock": [
-    -1678,
-    -423
+    775,
+    -501
    ],
    "townBlocks": [
     [
-     -1677,
-     -419
+     778,
+     -498
     ],
     [
-     -1677,
-     -421
+     778,
+     -497
     ],
     [
-     -1677,
-     -420
+     778,
+     -499
     ],
     [
-     -1677,
-     -423
+     777,
+     -498
     ],
     [
-     -1677,
-     -422
+     777,
+     -497
     ],
     [
-     -1676,
-     -423
+     777,
+     -499
     ],
     [
-     -1678,
-     -422
+     776,
+     -500
     ],
     [
-     -1678,
-     -423
+     775,
+     -501
     ],
     [
-     -1678,
-     -420
+     776,
+     -498
     ],
     [
-     -1678,
-     -421
+     775,
+     -500
     ],
     [
-     -1680,
-     -419
+     776,
+     -499
     ],
     [
-     -1679,
-     -421
+     775,
+     -499
     ],
     [
-     -1680,
-     -420
+     775,
+     -498
     ],
     [
-     -1679,
-     -422
-    ],
-    [
-     -1679,
-     -419
-    ],
-    [
-     -1679,
-     -420
-    ],
-    [
-     -1678,
-     -419
-    ],
-    [
-     -1676,
-     -422
+     776,
+     -497
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "GalacticDestoyer",
-    "uuid": "d98de181-6dc3-4358-8124-d6c84479357d"
-   },
-   {
-    "name": "riddikium",
-    "uuid": "ef8b27e5-f91c-46b4-b127-8e52e9157238"
+    "name": "rakuptka",
+    "uuid": "d4071f2e-7ea6-4253-913c-bcc4f975238e"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Berkofix",
+    "uuid": "f284770a-b4d8-448a-90fa-00b00b934034"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

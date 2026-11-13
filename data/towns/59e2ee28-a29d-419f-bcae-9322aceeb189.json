@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "A_A",
   "uuid": "59e2ee28-a29d-419f-bcae-9322aceeb189",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 7,
-   "numTrusted": 6,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -516,16 +516,16 @@
     "uuid": "c919bae3-9f7c-44e2-89de-a2d16ad65ea9"
    },
    {
-    "name": "rippes_mc",
-    "uuid": "72fa0138-fc47-4c8b-b6ad-51656308aa1b"
-   },
-   {
     "name": "KjzGB",
     "uuid": "dcee86de-fa8e-40f1-8674-1a0d3d1b282c"
    },
    {
     "name": "LawfulDoor1008",
     "uuid": "e1bb5a85-e989-4bcf-945a-1665ff210d4e"
+   },
+   {
+    "name": "Mr_vasbeton",
+    "uuid": "400e90d4-db6c-4f07-9bc1-024eb4634456"
    }
   ],
   "trusted": [
@@ -546,12 +546,16 @@
     "uuid": "9f6b678a-3290-4417-9f7a-34cefba0da87"
    },
    {
-    "name": "rippes_mc",
+    "name": "Zyws_Mother",
     "uuid": "72fa0138-fc47-4c8b-b6ad-51656308aa1b"
    },
    {
     "name": "chunrisheng",
     "uuid": "3d3d7952-7803-45b3-a37a-d7df1e248da9"
+   },
+   {
+    "name": "cute_st",
+    "uuid": "fe6a9144-9784-4a6d-a4b1-60ec2c3c30ac"
    }
   ],
   "outlaws": [],
@@ -581,10 +585,6 @@
     "uuid": "380687f7-024c-49e2-920f-d45f55cd1463"
    },
    {
-    "name": "Cheerful Suite",
-    "uuid": "6145d154-3bc2-4635-83e4-0f59f1ab1f6d"
-   },
-   {
     "name": "Gloomy Apartment",
     "uuid": "0cb7a0fd-06ba-4edf-bf16-9fd1786aa026"
    },
@@ -607,6 +607,10 @@
    {
     "name": "Gloomy Dwelling",
     "uuid": "af68fdbb-2e00-4af6-8f3b-d3175ed507f7"
+   },
+   {
+    "name": "Cheerful Suite",
+    "uuid": "6145d154-3bc2-4635-83e4-0f59f1ab1f6d"
    }
   ],
   "ranks": {

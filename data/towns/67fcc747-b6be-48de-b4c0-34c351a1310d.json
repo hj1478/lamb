@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Leestheim",
   "uuid": "67fcc747-b6be-48de-b4c0-34c351a1310d",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Moortemans",
-   "uuid": "89031bab-6f27-483c-880e-2a39df7c2283"
+   "name": "NPC77",
+   "uuid": "0910dd6e-0803-204d-97db-87fb204fd121"
   },
   "nation": {
-   "name": "Norway",
-   "uuid": "c4716e9b-3ef3-45c3-8f33-0762c014fa7c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1784822979310,
-   "joinedNationAt": 1784830510259,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794391208220
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 54,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -317,8 +317,8 @@
   },
   "residents": [
    {
-    "name": "Moortemans",
-    "uuid": "89031bab-6f27-483c-880e-2a39df7c2283"
+    "name": "NPC77",
+    "uuid": "0910dd6e-0803-204d-97db-87fb204fd121"
    }
   ],
   "trusted": [],

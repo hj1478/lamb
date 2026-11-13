@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Vinland_Casino",
   "uuid": "5a57a6b2-60e4-497b-b2da-a9f294525df0",
-  "board": "A little bright and warmth in the cold",
+  "board": "Win at Vinland casino",
   "founder": "FIG616",
   "wiki": null,
   "discord": "https://discord.gg/C8h2YZhYM",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
-   "numOutlaws": 10,
-   "balance": 11.0,
+   "numTrusted": 3,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23118.488919280302,
-    "y": 70.0625,
-    "z": -15652.618934587945,
-    "pitch": 18.449926,
-    "yaw": 0.011740893
+    "x": -23119.452177197927,
+    "y": 70.0,
+    "z": -15672.50107874439,
+    "pitch": 0.56968236,
+    "yaw": 0.33267212
    },
    "homeBlock": [
     -1445,
-    -979
+    -980
    ],
    "townBlocks": [
     [
@@ -242,6 +242,10 @@
     "uuid": "f10b2b88-3793-4cd6-9336-49b27188ad69"
    },
    {
+    "name": "Poopypoop112",
+    "uuid": "f9afddbe-d369-4a32-b58a-fd4e8abcc264"
+   },
+   {
     "name": "Martyyrr",
     "uuid": "5ab791c8-3e77-4149-8deb-b1a0276e1453"
    }
@@ -272,10 +276,6 @@
     "uuid": "44599bde-260f-4f6e-9a57-68d099cf7f66"
    },
    {
-    "name": "mindblown21",
-    "uuid": "1577d8bf-41a3-448e-bd61-9d73ad0ac97d"
-   },
-   {
     "name": "Troncatcomfy",
     "uuid": "707f0123-88b2-450f-b39b-dc9be07f9ea2"
    },
@@ -288,28 +288,7 @@
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
    }
   ],
-  "quarters": [
-   {
-    "name": "Roullette",
-    "uuid": "8b3c2031-014c-4a31-9bfb-d2787b030cf4"
-   },
-   {
-    "name": "Roullette",
-    "uuid": "038483f1-dee5-4c74-82cc-197eff3c2af5"
-   },
-   {
-    "name": "Double or nothing",
-    "uuid": "ae8c18af-4c3a-4289-bd5d-2f6323dde8d3"
-   },
-   {
-    "name": "Crash",
-    "uuid": "e27924db-a5bd-4334-9bc1-b5cfe62064c0"
-   },
-   {
-    "name": "Nunavut pop up shop",
-    "uuid": "6dce4d9b-0d42-4e48-af70-30f05c713ba2"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

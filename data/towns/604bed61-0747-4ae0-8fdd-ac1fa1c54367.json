@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Freeport",
   "uuid": "604bed61-0747-4ae0-8fdd-ac1fa1c54367",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 108,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 111,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 509.0,
+   "balance": 453.0,
    "forSalePrice": null
   },
   "perms": {
@@ -136,12 +136,16 @@
      -213
     ],
     [
+     -1932,
+     -204
+    ],
+    [
      -1927,
      -208
     ],
     [
      -1932,
-     -204
+     -203
     ],
     [
      -1927,
@@ -164,12 +168,12 @@
      -206
     ],
     [
-     -1927,
-     -205
-    ],
-    [
      -1932,
      -213
+    ],
+    [
+     -1927,
+     -205
     ],
     [
      -1932,
@@ -196,16 +200,12 @@
      -213
     ],
     [
-     -1934,
-     -205
-    ],
-    [
      -1933,
      -212
     ],
     [
      -1934,
-     -206
+     -205
     ],
     [
      -1933,
@@ -213,15 +213,23 @@
     ],
     [
      -1934,
-     -207
+     -206
     ],
     [
      -1933,
      -210
     ],
     [
+     -1934,
+     -207
+    ],
+    [
      -1933,
      -209
+    ],
+    [
+     -1934,
+     -208
     ],
     [
      -1933,
@@ -298,6 +306,10 @@
     [
      -1931,
      -208
+    ],
+    [
+     -1931,
+     -203
     ],
     [
      -1931,
@@ -530,6 +542,10 @@
    {
     "name": "LizC864",
     "uuid": "6d656f0f-9061-401d-9d81-8adb05ff9da8"
+   },
+   {
+    "name": "ozzbinflyin",
+    "uuid": "f28c7be9-f22d-4eed-b874-9c99b80da32c"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Wiesbaden",
   "uuid": "5a4b88a9-1e41-4845-a2c4-4f922e9423b1",
@@ -12,12 +12,12 @@
    "uuid": "0c480549-d654-4887-8f44-1517e00440d0"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": "Bavaria",
+   "uuid": "b890b11b-e1bf-4e0e-9f70-9eaea9a6772a"
   },
   "timestamps": {
    "registered": 1792686531741,
-   "joinedNationAt": 1792686555866,
+   "joinedNationAt": 1793997856336,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 22,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 10,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 65.0,
+   "balance": 51.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,14 @@
    ],
    "townBlocks": [
     [
+     196,
+     -726
+    ],
+    [
+     194,
+     -725
+    ],
+    [
      191,
      -728
     ],
@@ -130,6 +138,10 @@
     [
      194,
      -728
+    ],
+    [
+     195,
+     -725
     ],
     [
      194,
@@ -152,7 +164,15 @@
      -730
     ],
     [
+     195,
+     -728
+    ],
+    [
      192,
+     -729
+    ],
+    [
+     195,
      -729
     ],
     [

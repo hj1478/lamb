@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "The_Underkingdom",
-  "uuid": "3d311307-ec8e-42d3-854f-b6cd3edd285b",
+  "name": "New_Greenland",
+  "uuid": "f93378bc-8bf3-4a36-95dc-057f4ce8abcc",
   "board": "/town set board [msg]",
-  "founder": "I_tou_N",
+  "founder": "Kirill_Poroh",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC8",
-   "uuid": "583ddc66-2fcc-2069-9469-a8f0fc896ed0"
+   "name": "Kirill_Poroh",
+   "uuid": "c00cb7c8-2b05-4c6f-b929-a41628751d81"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1789342721436,
+   "registered": 1794560826789,
    "joinedNationAt": null,
-   "ruinedAt": 1794304802604
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,105 +47,65 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11837.568897754725,
-    "y": 64.0,
-    "z": 5541.838172005935,
-    "pitch": 21.398926,
-    "yaw": -36.72881
+    "x": -9838.290437051666,
+    "y": 90.0,
+    "z": -23187.153713249645,
+    "pitch": 16.199997,
+    "yaw": -122.081726
    },
    "homeBlock": [
-    739,
-    346
+    -615,
+    -1450
    ],
    "townBlocks": [
     [
-     740,
-     346
+     -615,
+     -1451
     ],
     [
-     740,
-     347
-    ],
-    [
-     738,
-     346
-    ],
-    [
-     738,
-     345
-    ],
-    [
-     740,
-     345
-    ],
-    [
-     738,
-     347
-    ],
-    [
-     739,
-     345
-    ],
-    [
-     737,
-     347
-    ],
-    [
-     737,
-     346
-    ],
-    [
-     737,
-     345
-    ],
-    [
-     739,
-     346
-    ],
-    [
-     739,
-     347
+     -615,
+     -1450
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC8",
-    "uuid": "583ddc66-2fcc-2069-9469-a8f0fc896ed0"
+    "name": "Kirill_Poroh",
+    "uuid": "c00cb7c8-2b05-4c6f-b929-a41628751d81"
    }
   ],
   "trusted": [],

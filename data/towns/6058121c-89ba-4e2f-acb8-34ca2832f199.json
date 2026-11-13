@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Jatkosota",
   "uuid": "6058121c-89ba-4e2f-acb8-34ca2832f199",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "StellaVI",
+   "name": "StellaTheSpecial",
    "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
   },
   "nation": {
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
+   "numTownBlocks": 32,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "numOutlaws": 1,
+   "balance": 10.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,40 +92,12 @@
    ],
    "townBlocks": [
     [
-     1132,
-     295
-    ],
-    [
-     1133,
-     296
-    ],
-    [
      1134,
      296
     ],
     [
-     1132,
-     296
-    ],
-    [
-     1133,
-     295
-    ],
-    [
-     1133,
-     298
-    ],
-    [
      1134,
      294
-    ],
-    [
-     1132,
-     294
-    ],
-    [
-     1133,
-     297
     ],
     [
      1134,
@@ -140,6 +112,58 @@
      297
     ],
     [
+     1129,
+     298
+    ],
+    [
+     1129,
+     295
+    ],
+    [
+     1129,
+     296
+    ],
+    [
+     1132,
+     295
+    ],
+    [
+     1133,
+     296
+    ],
+    [
+     1132,
+     296
+    ],
+    [
+     1133,
+     295
+    ],
+    [
+     1133,
+     298
+    ],
+    [
+     1132,
+     293
+    ],
+    [
+     1132,
+     294
+    ],
+    [
+     1133,
+     297
+    ],
+    [
+     1128,
+     298
+    ],
+    [
+     1128,
+     297
+    ],
+    [
      1132,
      297
     ],
@@ -169,6 +193,18 @@
     ],
     [
      1131,
+     295
+    ],
+    [
+     1131,
+     294
+    ],
+    [
+     1130,
+     294
+    ],
+    [
+     1130,
      295
     ],
     [
@@ -188,12 +224,17 @@
   },
   "residents": [
    {
-    "name": "StellaVI",
+    "name": "StellaTheSpecial",
     "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "KIDESPIAO",
+    "uuid": "c07b837f-fe6c-4238-8dc3-da159e8f56b1"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

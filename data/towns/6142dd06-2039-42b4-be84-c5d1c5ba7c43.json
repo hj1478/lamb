@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "EMC",
   "uuid": "6142dd06-2039-42b4-be84-c5d1c5ba7c43",
-  "board": "Communist Pears",
+  "board": "EMC",
   "founder": "VolitantChinese",
   "wiki": null,
   "discord": null,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 904,
-   "maxTownBlocks": 724,
+   "maxTownBlocks": 628,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 52,
-   "numTrusted": 41,
-   "numOutlaws": 30,
-   "balance": 1.0,
+   "numResidents": 44,
+   "numTrusted": 40,
+   "numOutlaws": 29,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -3717,16 +3717,8 @@
   },
   "residents": [
    {
-    "name": "WitherOO",
-    "uuid": "dad530ad-3895-4efa-83b9-68323776abe7"
-   },
-   {
     "name": "DooginBoogin",
     "uuid": "79db9f46-006a-4230-9ce1-d6fa1654c887"
-   },
-   {
-    "name": "diadiaxia",
-    "uuid": "896e7b76-5364-45ee-aaa8-f4593b31ae1d"
    },
    {
     "name": "yuche_0717",
@@ -3741,22 +3733,6 @@
     "uuid": "201992af-7d4e-4c15-8b8a-5258e066a6de"
    },
    {
-    "name": "Feirendong",
-    "uuid": "a7fff68a-0f87-42d5-a9ec-2ac9f6a06a45"
-   },
-   {
-    "name": "mobei2055",
-    "uuid": "f80f2edb-b3fe-4ee6-997b-8ee98e065230"
-   },
-   {
-    "name": "haokunh",
-    "uuid": "8549263e-4bd2-4115-8f78-17071727482f"
-   },
-   {
-    "name": "_TimeTech_",
-    "uuid": "09f368f2-9c6d-42c0-90a0-006d1ae9bc74"
-   },
-   {
     "name": "Yhht1121",
     "uuid": "f735ff6c-cbe3-4c5b-aefb-8f1e501f1703"
    },
@@ -3767,14 +3743,6 @@
    {
     "name": "ReignEmpire",
     "uuid": "f5311c84-a3f4-4e74-b0ee-9e002af52781"
-   },
-   {
-    "name": "LanlanRong",
-    "uuid": "8064c645-1af3-4a53-bb30-4da1ca10cc65"
-   },
-   {
-    "name": "BlueAndre2204",
-    "uuid": "f50e1cc3-418a-4e5f-9497-4734f095f30a"
    },
    {
     "name": "TheNimbusHalo",
@@ -3955,10 +3923,6 @@
     "uuid": "00513929-73af-4a71-95b4-7154b840a141"
    },
    {
-    "name": "WitherOO",
-    "uuid": "dad530ad-3895-4efa-83b9-68323776abe7"
-   },
-   {
     "name": "NullSelfice",
     "uuid": "31c3985e-0a3a-46be-810d-838b7d997c08"
    },
@@ -4113,10 +4077,6 @@
     "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
    },
    {
-    "name": "ljldmclxzq",
-    "uuid": "f128bbe0-befc-46f4-ba06-467171bc6a29"
-   },
-   {
     "name": "ItzDarken",
     "uuid": "4abef3c8-7dfb-40a3-8c5f-8c2f82bf874b"
    },
@@ -4151,10 +4111,6 @@
    {
     "name": "sobrem4res",
     "uuid": "907f374d-986f-41bd-af01-3f77aa2e9a24"
-   },
-   {
-    "name": "tjonesy9",
-    "uuid": "52b4c7d9-368a-495a-805b-c7f2921bfca4"
    },
    {
     "name": "JP_PeaceMaker",
@@ -4211,6 +4167,10 @@
    {
     "name": "DoOoOonguri",
     "uuid": "e0b29b64-c150-40e4-bbd8-642f7d5ceadc"
+   },
+   {
+    "name": "BIG_ALL_IN",
+    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
    }
   ],
   "quarters": [
@@ -4309,17 +4269,21 @@
    {
     "name": "Luxurious Flat",
     "uuid": "cb4873ba-4e2b-42e0-9f62-8214ca706852"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "3f2a2356-99b5-4a91-aff5-78fb181ba94e"
    }
   ],
   "ranks": {
    "Councillor": [
     {
-     "name": "DooginBoogin",
-     "uuid": "79db9f46-006a-4230-9ce1-d6fa1654c887"
-    },
-    {
      "name": "Callinus",
      "uuid": "86eea4a1-29bb-4d42-989b-7508df956e6b"
+    },
+    {
+     "name": "Researcher_Ivan",
+     "uuid": "a4ee3d0b-41d0-4134-8069-8851e02d713e"
     }
    ],
    "Builder": [],
@@ -4335,7 +4299,32 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "2",
+    "uuid": "5c7cf80c-ebfb-44d6-a843-ebdede83bcc8",
+    "createdAt": 1794309049903,
+    "createdBy": "Researcher_Ivan",
+    "access": "NATION",
+    "location": {
+     "x": 32058,
+     "y": 19,
+     "z": -7143
+    }
+   },
+   {
+    "name": "1",
+    "uuid": "a20eb9da-7ccf-4f67-ae28-fa9e989139f6",
+    "createdAt": 1794143258705,
+    "createdBy": "qianrubiao",
+    "access": "RESIDENT",
+    "location": {
+     "x": 31804,
+     "y": 80,
+     "z": -7504
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Belle_River",
   "uuid": "616d0ef0-b4b7-4648-b9a8-b127f7b68c15",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792025100041,
-   "joinedNationAt": 1792025930339,
+   "joinedNationAt": 1794069529888,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 53,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 3,
-   "numOutlaws": 8,
-   "balance": 3.0,
+   "numResidents": 3,
+   "numTrusted": 4,
+   "numOutlaws": 9,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10750.940423954631,
-    "y": 84.0,
-    "z": 12089.966645168026,
-    "pitch": 0.44993228,
-    "yaw": 97.15502
+    "x": 10772.426739309918,
+    "y": 90.0,
+    "z": 12100.300000011921,
+    "pitch": 28.799627,
+    "yaw": 3.692749
    },
    "homeBlock": [
-    671,
-    755
+    673,
+    756
    ],
    "townBlocks": [
     [
@@ -316,15 +316,15 @@
     "uuid": "62e9d3d9-4630-414b-a124-a591ed81d22f"
    },
    {
-    "name": "Lukegvespa",
-    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
-   },
-   {
     "name": "NoahTheLlama1",
     "uuid": "89fcf878-b77d-4a89-8a4d-26a548014c4a"
    }
   ],
   "trusted": [
+   {
+    "name": "MrPickle26",
+    "uuid": "ef634f59-3102-4352-9a80-b7b4a606569a"
+   },
    {
     "name": "twomoo1119",
     "uuid": "8e465788-e5a8-47f2-a863-0da57c485b2f"
@@ -334,8 +334,8 @@
     "uuid": "a3848d8f-5e09-4efa-9a6b-dd1f1e6fa0bb"
    },
    {
-    "name": "Andre1098",
-    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
+    "name": "Lukegvespa",
+    "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
    }
   ],
   "outlaws": [
@@ -370,6 +370,10 @@
    {
     "name": "combfy",
     "uuid": "fc1f0d0b-c3fe-4cac-a1f4-ea3671ff8492"
+   },
+   {
+    "name": "Goulash23",
+    "uuid": "209aca29-f02d-4fb8-b438-6c67b5197db1"
    }
   ],
   "quarters": [
@@ -384,15 +388,14 @@
    {
     "name": "Dull Apartment",
     "uuid": "85f8f183-286b-45d3-90bc-be68fc39cc6a"
+   },
+   {
+    "name": "Upbeat Flat",
+    "uuid": "a0f539cf-5ce1-46eb-b591-3d3fdcfcc8f0"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Lukegvespa",
-     "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

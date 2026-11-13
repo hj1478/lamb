@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Los",
   "uuid": "4b4df8e0-ac45-40d9-81fa-79029150a6cc",
@@ -8,37 +8,37 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Lopile",
-   "uuid": "ed65c837-0096-4ada-8348-38863a3198b0"
+   "name": "NPC124",
+   "uuid": "4175e29d-59fe-2088-8cc2-28beac2a6635"
   },
   "nation": {
-   "name": "Nubia",
-   "uuid": "9a28a017-7c50-4111-9691-4ae74665923a"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785905028164,
-   "joinedNationAt": 1790614467997,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794324412652
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 31,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 39,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -104,6 +104,10 @@
      30
     ],
     [
+     563,
+     31
+    ],
+    [
      561,
      26
     ],
@@ -112,12 +116,24 @@
      28
     ],
     [
+     565,
+     29
+    ],
+    [
      562,
      34
     ],
     [
      563,
      29
+    ],
+    [
+     565,
+     30
+    ],
+    [
+     565,
+     31
     ],
     [
      562,
@@ -214,14 +230,30 @@
     [
      561,
      31
+    ],
+    [
+     564,
+     31
+    ],
+    [
+     564,
+     32
+    ],
+    [
+     564,
+     29
+    ],
+    [
+     564,
+     30
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Lopile",
-    "uuid": "ed65c837-0096-4ada-8348-38863a3198b0"
+    "name": "NPC124",
+    "uuid": "4175e29d-59fe-2088-8cc2-28beac2a6635"
    }
   ],
   "trusted": [

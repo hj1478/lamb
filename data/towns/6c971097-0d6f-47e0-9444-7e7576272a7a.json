@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Bnin",
-  "uuid": "f1f5f5b5-a23a-4153-9c61-e0a6688e0e6b",
+  "name": "Empire_Silesia",
+  "uuid": "6c971097-0d6f-47e0-9444-7e7576272a7a",
   "board": "/town set board [msg]",
-  "founder": "pSyChOl_01",
+  "founder": "KK_Kurdi",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC32",
-   "uuid": "72bcf146-f86c-2074-ae51-612255aea614"
+   "name": "KK_Kurdi",
+   "uuid": "9c082e4b-4f01-4c93-bc06-349a60f4a47a"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1790013276801,
+   "registered": 1794564386199,
    "joinedNationAt": null,
-   "ruinedAt": 1794304804360
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": false,
+   "isPublic": true,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -62,7 +62,7 @@
     true,
     true,
     true,
-    true
+    false
    ],
    "itemUse": [
     true,
@@ -71,56 +71,61 @@
     true
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6044.353065485923,
-    "y": 64.0,
-    "z": -12525.535413809088,
-    "pitch": 53.99967,
-    "yaw": 147.48572
+    "x": -38199.43927727735,
+    "y": 74.0,
+    "z": -15258.11628388842,
+    "pitch": 33.75004,
+    "yaw": 60.11006
    },
    "homeBlock": [
-    377,
-    -783
+    -2388,
+    -954
    ],
    "townBlocks": [
     [
-     377,
-     -783
-    ],
-    [
-     377,
-     -784
-    ],
-    [
-     378,
-     -784
-    ],
-    [
-     378,
-     -783
+     -2388,
+     -954
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC32",
-    "uuid": "72bcf146-f86c-2074-ae51-612255aea614"
+    "name": "KK_Kurdi",
+    "uuid": "9c082e4b-4f01-4c93-bc06-349a60f4a47a"
+   },
+   {
+    "name": "kapileel5",
+    "uuid": "12a81c1e-3295-471b-98f4-84813c03677d"
+   },
+   {
+    "name": "xKrzysieq12",
+    "uuid": "4223b8ba-633e-4716-a36a-97b217b6c46f"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "kapileel5",
+     "uuid": "12a81c1e-3295-471b-98f4-84813c03677d"
+    },
+    {
+     "name": "xKrzysieq12",
+     "uuid": "4223b8ba-633e-4716-a36a-97b217b6c46f"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

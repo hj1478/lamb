@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "San_Sebastian",
   "uuid": "5fe2b67f-0393-4589-82c6-3c89fa155218",
@@ -12,12 +12,12 @@
    "uuid": "b89346e8-2218-4d54-84ac-46ded2ded59e"
   },
   "nation": {
-   "name": "Argentina",
-   "uuid": "a37b3e38-02af-4d98-af67-7f44630d1139"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792559764361,
-   "joinedNationAt": 1792895169411,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,

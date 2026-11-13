@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Valerio",
-  "uuid": "e14b4781-e3a4-4774-8e64-fec947861e36",
-  "board": "BOW TO YOUR KING",
-  "founder": "Zykrozy",
+  "name": "CSA",
+  "uuid": "00b1bf82-e66a-4a17-8729-26942d59516f",
+  "board": "/town set board [msg]",
+  "founder": "jeb_kerman_1",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC122",
-   "uuid": "557137d8-3dae-20d3-93da-c52314e11cd6"
+   "name": "jeb_kerman_1",
+   "uuid": "26248559-6be0-4a01-95ac-35452cfb1900"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1787541127373,
+   "registered": 1794532645101,
    "joinedNationAt": null,
-   "ruinedAt": 1794304804886
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,85 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -37464.95207031727,
-    "y": 73.0,
-    "z": -12342.145646371793,
-    "pitch": 13.799975,
-    "yaw": 175.35324
+    "x": 12476.365460757312,
+    "y": -42.0,
+    "z": 27111.69999998808,
+    "pitch": 45.749912,
+    "yaw": -175.34991
    },
    "homeBlock": [
-    -2342,
-    -772
+    779,
+    1694
    ],
    "townBlocks": [
     [
-     -2342,
-     -771
-    ],
-    [
-     -2342,
-     -770
-    ],
-    [
-     -2342,
-     -772
-    ],
-    [
-     -2343,
-     -771
-    ],
-    [
-     -2343,
-     -772
-    ],
-    [
-     -2341,
-     -772
-    ],
-    [
-     -2341,
-     -771
+     779,
+     1694
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC122",
-    "uuid": "557137d8-3dae-20d3-93da-c52314e11cd6"
+    "name": "jeb_kerman_1",
+    "uuid": "26248559-6be0-4a01-95ac-35452cfb1900"
    }
   ],
   "trusted": [],

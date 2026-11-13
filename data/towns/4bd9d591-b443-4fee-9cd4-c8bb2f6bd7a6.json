@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Shatoy",
   "uuid": "4bd9d591-b443-4fee-9cd4-c8bb2f6bd7a6",
-  "board": "/town set board [msg]",
+  "board": "Grr russia",
   "founder": "SiberiaMC_",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 18,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 307.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16314.365687155361,
-    "y": 136.4952008770059,
-    "z": -8242.989706800236,
-    "pitch": 26.249971,
-    "yaw": -77.49487
+    "x": 16311.86437114695,
+    "y": 129.0,
+    "z": -8246.039584197271,
+    "pitch": 30.000044,
+    "yaw": -66.99362
    },
    "homeBlock": [
     1019,
@@ -113,6 +113,10 @@
     ],
     [
      1021,
+     -515
+    ],
+    [
+     1021,
      -516
     ],
     [
@@ -130,6 +134,10 @@
     [
      1018,
      -515
+    ],
+    [
+     1018,
+     -514
     ],
     [
      1017,
@@ -174,6 +182,14 @@
    {
     "name": "Xzanil3",
     "uuid": "10c94461-21f2-4295-8941-fecb176cd0e2"
+   },
+   {
+    "name": "Void4x",
+    "uuid": "aa8b0709-c8e1-4782-bf32-a3d92b582ecf"
+   },
+   {
+    "name": "atlasilton",
+    "uuid": "bbbe937c-1191-434c-9aec-e22d7d010d7e"
    }
   ],
   "trusted": [],
@@ -181,9 +197,19 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "CrystalRyft",
+     "uuid": "27dfcdaa-8afa-463a-b64a-a4cca3a9a469"
+    }
+   ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "Void4x",
+     "uuid": "aa8b0709-c8e1-4782-bf32-a3d92b582ecf"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

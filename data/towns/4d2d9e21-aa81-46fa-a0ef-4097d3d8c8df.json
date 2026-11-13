@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Portland",
   "uuid": "4d2d9e21-aa81-46fa-a0ef-4097d3d8c8df",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 52,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 2,
-   "numOutlaws": 10,
+   "numOutlaws": 9,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -308,6 +308,10 @@
     "uuid": "15cff815-1bcb-4e6b-a64b-223a199b14a7"
    },
    {
+    "name": "xbsc",
+    "uuid": "3fb11a66-c921-4aac-8141-04a6e9e4fdf4"
+   },
+   {
     "name": "AcuteSlimeitis",
     "uuid": "9b56f3e3-7dcd-4640-a117-de82917dd43c"
    },
@@ -338,10 +342,6 @@
    {
     "name": "Henricky",
     "uuid": "4a6006cd-76df-4df2-9d8a-8e179c4db14a"
-   },
-   {
-    "name": "Perlousharp9",
-    "uuid": "32f63359-05e9-4a52-aa80-052ca1cea1cd"
    },
    {
     "name": "Daniel12615",

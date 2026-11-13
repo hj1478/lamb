@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Batumi",
   "uuid": "62f561cc-5bf5-47ee-a39d-3cca5fcc780c",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 290,
-   "maxTownBlocks": 328,
+   "maxTownBlocks": 272,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 19,
+   "nationBonus": 80,
+   "numResidents": 16,
    "numTrusted": 15,
-   "numOutlaws": 2,
-   "balance": 266.0,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -1260,14 +1260,6 @@
     "uuid": "5a89f919-2a8a-4812-b3bc-d6af69c34832"
    },
    {
-    "name": "TrueClaw",
-    "uuid": "6c33f68d-bfbf-4ec5-b00a-e7cb9af3a760"
-   },
-   {
-    "name": "markerplarker",
-    "uuid": "dd8ab320-8c23-4f95-97d6-01ce10e5744e"
-   },
-   {
     "name": "VOLKAUFFF",
     "uuid": "ec85abf5-1a03-423f-a7b2-2638f3a80b12"
    },
@@ -1322,10 +1314,6 @@
    {
     "name": "LucasMacdonald",
     "uuid": "5f8c7e98-d12a-419b-920c-f07a0dc1a44e"
-   },
-   {
-    "name": "ChairryStrawLizz",
-    "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
    },
    {
     "name": "Kak0nator",
@@ -1402,6 +1390,10 @@
    {
     "name": "RealYoPickk",
     "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   },
+   {
+    "name": "_A_I",
+    "uuid": "7557bb84-a767-4d88-a4e6-a10b2b62db0e"
    }
   ],
   "quarters": [
@@ -1461,19 +1453,11 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
-    {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
    "Builder": [
-    {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
     {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
@@ -1481,19 +1465,11 @@
    ],
    "Recruiter": [
     {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
-    {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
    "Police": [
-    {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
     {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
@@ -1501,35 +1477,23 @@
    ],
    "Tax-exempt": [
     {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
-    {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
    "Treasurer": [
     {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
+     "name": "Kak0nator",
+     "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
    "Realtor": [
-    {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
     {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"
     }
    ],
    "Settler": [
-    {
-     "name": "ChairryStrawLizz",
-     "uuid": "9123db02-ddc1-41a4-93ec-5633adb573ef"
-    },
     {
      "name": "Kak0nator",
      "uuid": "ccf1471e-9430-450d-96f7-6e16c059373a"

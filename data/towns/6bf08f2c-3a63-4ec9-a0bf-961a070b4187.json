@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Sokhumi",
   "uuid": "6bf08f2c-3a63-4ec9-a0bf-961a070b4187",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 2,
+   "numTrusted": 4,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14615.528141485729,
+    "x": 14615.402996066872,
     "y": 63.0625,
-    "z": -8527.689509093741,
-    "pitch": -0.7887021,
-    "yaw": 0.12011719
+    "z": -8543.693956745876,
+    "pitch": -2.1368265e-05,
+    "yaw": 0.1503601
    },
    "homeBlock": [
     913,
-    -533
+    -534
    ],
    "townBlocks": [
     [
@@ -112,12 +112,20 @@
      -532
     ],
     [
+     914,
+     -533
+    ],
+    [
      913,
      -531
     ],
     [
      913,
      -530
+    ],
+    [
+     913,
+     -534
     ],
     [
      912,
@@ -178,15 +186,23 @@
   ],
   "trusted": [
    {
+    "name": "Pulyx",
+    "uuid": "9e3a40d8-2b72-41a0-8d7c-92f7bfaefee6"
+   },
+   {
+    "name": "baranadafd",
+    "uuid": "8ccdc727-0972-4783-85f6-aaaba5f08dc2"
+   },
+   {
     "name": "Kokomo309",
     "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
+   },
+   {
+    "name": "BrennanW1",
+    "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
    }
   ],
   "outlaws": [
-   {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
    {
     "name": "MitchH_MC",
     "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "German",
   "uuid": "5731b403-2723-4c6a-aba1-c7c9cc0b5743",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 555,
-   "maxTownBlocks": 784,
+   "numTownBlocks": 558,
+   "maxTownBlocks": 736,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 57,
-   "numTrusted": 1,
-   "numOutlaws": 8,
+   "numResidents": 53,
+   "numTrusted": 2,
+   "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -72,8 +72,8 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
-    "fire": true,
+    "explosion": false,
+    "fire": false,
     "mobs": false
    }
   },
@@ -1429,6 +1429,10 @@
     ],
     [
      138,
+     -745
+    ],
+    [
+     138,
      -742
     ],
     [
@@ -1438,6 +1442,10 @@
     [
      138,
      -741
+    ],
+    [
+     138,
+     -744
     ],
     [
      141,
@@ -2312,7 +2320,16 @@
      -745
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -12,
+       -77
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
@@ -2320,12 +2337,8 @@
     "uuid": "9f1a9742-f276-4d3f-bd5d-593a9b71e86e"
    },
    {
-    "name": "Bivellet",
-    "uuid": "281be52c-4ffa-40ac-9d1a-4c59d94eacc0"
-   },
-   {
-    "name": "ernestpol3984",
-    "uuid": "bd603d4c-5166-4928-b36b-81ce83b40f5e"
+    "name": "Thebaldbeagle",
+    "uuid": "3b43304c-0fec-47fe-bd88-d182bb71c29e"
    },
    {
     "name": "_Hundu",
@@ -2340,36 +2353,8 @@
     "uuid": "17730bec-80e2-4a54-9e1a-96e8a497a038"
    },
    {
-    "name": "Rajmikk",
-    "uuid": "cf5827d0-6885-4f9d-93da-0b5c0f46e738"
-   },
-   {
-    "name": "Ponchi999",
-    "uuid": "b29d8445-7197-4649-8ec9-b4e70ce0705b"
-   },
-   {
-    "name": "jedibab",
-    "uuid": "238fe0e9-294c-41b9-8dc3-42f4583614b8"
-   },
-   {
-    "name": "shine_10",
-    "uuid": "e3eeb372-3852-4a27-ad00-71b94410a755"
-   },
-   {
-    "name": "OLIELOSO",
-    "uuid": "c47ee637-6ba4-46ea-a6c3-a5a1e631f2af"
-   },
-   {
-    "name": "waitanoob",
-    "uuid": "b4883782-3b12-4f78-9dce-c277c9d6aa3b"
-   },
-   {
     "name": "Elijahhough",
     "uuid": "d40b5351-c09d-4715-9c23-55ff1d9c9ea6"
-   },
-   {
-    "name": "sefearmin",
-    "uuid": "b3b8bb15-250d-498c-a1b5-aa8ba54e5fed"
    },
    {
     "name": "Ru3tytromb0ne",
@@ -2542,12 +2527,32 @@
    {
     "name": "nellac78",
     "uuid": "fa8b467f-ebda-4080-892e-e4cfb54febe0"
+   },
+   {
+    "name": "CW_person",
+    "uuid": "41334078-8bf9-4e2f-91fe-a8d924093095"
+   },
+   {
+    "name": "ZoteriAndrew",
+    "uuid": "7558223b-8490-45d1-8f38-b66043017366"
+   },
+   {
+    "name": "julieta_mfdc",
+    "uuid": "1ed338fd-859f-4659-87ef-a13ea3ce3a19"
+   },
+   {
+    "name": "EvilGotBanned404",
+    "uuid": "dc3f7f40-8ba9-4b80-89f8-615da96d9661"
    }
   ],
   "trusted": [
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
+   },
+   {
+    "name": "GrayMold9",
+    "uuid": "690a13f0-8406-4cf5-a710-b3361f102b03"
    }
   ],
   "outlaws": [
@@ -2578,10 +2583,6 @@
    {
     "name": "Nottinghamshire",
     "uuid": "deb3d2c4-18cd-4bf9-ae38-590e3d86ea08"
-   },
-   {
-    "name": "Texacoo",
-    "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
    }
   ],
   "quarters": [],

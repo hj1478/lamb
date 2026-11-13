@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Manado",
   "uuid": "53cd9bb2-9958-42d3-a6ca-5d75e56c8d17",
@@ -12,37 +12,37 @@
    "uuid": "131f94aa-3033-4773-b51c-0b397e529530"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Micronesia",
+   "uuid": "478aa4e0-e72d-441e-a2f1-0e543f41cb5d"
   },
   "timestamps": {
    "registered": 1794034234247,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794162099820,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": false,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,8 +92,56 @@
    ],
    "townBlocks": [
     [
+     2788,
+     473
+    ],
+    [
+     2788,
+     475
+    ],
+    [
+     2787,
+     476
+    ],
+    [
+     2788,
+     474
+    ],
+    [
+     2787,
+     475
+    ],
+    [
+     2787,
+     474
+    ],
+    [
+     2787,
+     473
+    ],
+    [
+     2786,
+     475
+    ],
+    [
+     2786,
+     476
+    ],
+    [
+     2788,
+     476
+    ],
+    [
+     2786,
+     473
+    ],
+    [
      2786,
      474
+    ],
+    [
+     2785,
+     475
     ]
    ],
    "worlds": {}

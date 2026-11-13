@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Aripuana",
   "uuid": "4ec4c8b3-3be2-47b8-b8aa-075fb6c61a8b",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 13.0,
@@ -47,25 +47,25 @@
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "destroy": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
    ],
    "itemUse": [
-    false,
+    true,
     false,
     false,
     false
@@ -142,6 +142,18 @@
    {
     "name": "karp29",
     "uuid": "6afdd059-9f3f-470c-96d1-ef908dce4403"
+   },
+   {
+    "name": "aripacafundo",
+    "uuid": "ab36e9cf-c44f-42ee-a18d-094d9026ab4a"
+   },
+   {
+    "name": "hagataheloysa",
+    "uuid": "86165851-d990-456c-a5b1-3e361a7b75b7"
+   },
+   {
+    "name": "SRJVBR",
+    "uuid": "bbda6331-0eef-4b42-b6d5-c64d63247e3f"
    }
   ],
   "trusted": [],

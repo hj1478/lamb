@@ -1,46 +1,46 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "New_America",
-  "uuid": "655f9ebd-6468-45b7-b714-2918bf1cf724",
-  "board": "/town set board [msg]",
-  "founder": "MincraftGuy97",
+  "name": "Lusaka",
+  "uuid": "ac3f7461-6e43-42a0-a7d3-6ebd4c9c1553",
+  "board": "A better Rhodesia is a bigger Rhodesia",
+  "founder": "TheKaroo",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MincraftGuy97",
-   "uuid": "611c247e-f8ad-4d31-aa13-15901aa2939a"
+   "name": "TheKaroo",
+   "uuid": "2d1a8941-05e6-4b71-a9af-7b2c919a3961"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Rhodesia",
+   "uuid": "21a64c19-1e38-480d-8dc3-c0621acd1e22"
   },
   "timestamps": {
-   "registered": 1790395845768,
-   "joinedNationAt": null,
+   "registered": 1794528530724,
+   "joinedNationAt": 1794528546974,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "nationBonus": 80,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,48 +80,47 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3819.5689683979326,
-    "y": 69.0,
-    "z": 5593.306152053661,
-    "pitch": 28.050032,
-    "yaw": 35.9209
+    "x": 9830.530743653326,
+    "y": 83.0,
+    "z": 13061.300000011921,
+    "pitch": -4.858448,
+    "yaw": -1.7208252
    },
    "homeBlock": [
-    -239,
-    349
+    614,
+    816
    ],
    "townBlocks": [
     [
-     -239,
-     348
+     613,
+     816
     ],
     [
-     -239,
-     349
+     612,
+     816
     ],
     [
-     -238,
-     349
+     614,
+     816
+    ],
+    [
+     614,
+     817
+    ],
+    [
+     611,
+     816
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "MincraftGuy97",
-    "uuid": "611c247e-f8ad-4d31-aa13-15901aa2939a"
-   },
-   {
-    "name": "Poki8910",
-    "uuid": "b994f380-d4f9-4c7e-9d9b-bf3aa3e0c731"
+    "name": "TheKaroo",
+    "uuid": "2d1a8941-05e6-4b71-a9af-7b2c919a3961"
    }
   ],
-  "trusted": [
-   {
-    "name": "Poki8910",
-    "uuid": "b994f380-d4f9-4c7e-9d9b-bf3aa3e0c731"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

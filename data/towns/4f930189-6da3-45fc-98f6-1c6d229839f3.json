@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Isfahan",
   "uuid": "4f930189-6da3-45fc-98f6-1c6d229839f3",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Zedronyo",
-   "uuid": "6a4743fb-d384-4fb9-a65b-12da9aa056d2"
+   "name": "NPC63",
+   "uuid": "1153ca50-8d0a-20cf-a854-7537772aae05"
   },
   "nation": {
-   "name": "Iran",
-   "uuid": "bfaf9e5a-f783-4a12-8377-36a6b3076cf8"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790791889408,
-   "joinedNationAt": 1790792202364,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794567601750
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,33 +47,33 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
     "mobs": true
    }
   },
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Zedronyo",
-    "uuid": "6a4743fb-d384-4fb9-a65b-12da9aa056d2"
+    "name": "NPC63",
+    "uuid": "1153ca50-8d0a-20cf-a854-7537772aae05"
    }
   ],
   "trusted": [],

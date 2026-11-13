@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Vestimentum",
   "uuid": "4cd5288a-f74e-4ea0-b10f-679371459dc5",
@@ -12,30 +12,30 @@
    "uuid": "69716709-4044-4400-bf50-4b638af62ab4"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Yenisei",
+   "uuid": "b6632595-dc55-474f-8ca5-e7630be393c1"
   },
   "timestamps": {
    "registered": 1793877645485,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794327046344,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 10,
    "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32250.68413051301,
-    "y": 62.0,
-    "z": -21396.552014700057,
-    "pitch": 36.45526,
-    "yaw": -75.82843
+    "x": 32249.769013716068,
+    "y": 66.0625,
+    "z": -21396.541369897972,
+    "pitch": 39.96175,
+    "yaw": -77.24181
    },
    "homeBlock": [
     2015,
@@ -96,8 +96,40 @@
      -1338
     ],
     [
+     2015,
+     -1339
+    ],
+    [
+     2014,
+     -1339
+    ],
+    [
+     2014,
+     -1338
+    ],
+    [
+     2014,
+     -1337
+    ],
+    [
+     2015,
+     -1337
+    ],
+    [
+     2017,
+     -1338
+    ],
+    [
+     2016,
+     -1337
+    ],
+    [
      2016,
      -1338
+    ],
+    [
+     2016,
+     -1339
     ]
    ],
    "worlds": {}

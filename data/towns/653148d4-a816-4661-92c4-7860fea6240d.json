@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Klodzko",
   "uuid": "653148d4-a816-4661-92c4-7860fea6240d",
@@ -12,12 +12,12 @@
    "uuid": "1d599f1a-b589-4027-bf2a-ad6a914f102c"
   },
   "nation": {
-   "name": "Poland",
-   "uuid": "a7d37910-0663-4399-a2b5-cb9caf032652"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
    "registered": 1791474929421,
-   "joinedNationAt": 1793966993959,
+   "joinedNationAt": 1794344452708,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 22,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 100,
    "numResidents": 2,
-   "numTrusted": 4,
-   "numOutlaws": 0,
-   "balance": 10.0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 14.0,
    "forSalePrice": null
   },
   "perms": {
@@ -120,6 +120,10 @@
      -738
     ],
     [
+     377,
+     -736
+    ],
+    [
      374,
      -739
     ],
@@ -146,14 +150,14 @@
     [
      378,
      -740
-    ],
-    [
-     378,
-     -739
     ],
     [
      376,
      -736
+    ],
+    [
+     378,
+     -739
     ],
     [
      376,
@@ -194,19 +198,16 @@
     "uuid": "1d8ba177-f828-406e-9771-52945acb2d83"
    },
    {
-    "name": "FeliksTV",
-    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
-   },
-   {
     "name": "saif098432",
     "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
-   },
-   {
-    "name": "BillyBJones",
-    "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

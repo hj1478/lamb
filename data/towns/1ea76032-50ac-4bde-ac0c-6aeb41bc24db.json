@@ -1,24 +1,24 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Frog_Vc",
-  "uuid": "c0d1af4c-9aa0-4a5d-a3a9-e8df5cb51455",
+  "name": "Philly_Jr",
+  "uuid": "1ea76032-50ac-4bde-ac0c-6aeb41bc24db",
   "board": "/town set board [msg]",
-  "founder": "aaggaarriicc",
+  "founder": "CryptoCommie",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "aaggaarriicc",
-   "uuid": "bbb3337e-beeb-4d43-a7ff-af1c3ba1a99c"
+   "name": "NPC100",
+   "uuid": "b7ae439e-61b2-2083-9269-0db1992c31c0"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1784815379506,
+   "registered": 1794514356243,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794514716353
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,81 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 60.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -3541.7228763467833,
-    "y": 73.5,
-    "z": 3088.899192352458,
-    "pitch": 46.77194,
-    "yaw": 87.50073
+    "x": -27889.637919458844,
+    "y": 71.0,
+    "z": -7447.75417821095,
+    "pitch": 3.299819,
+    "yaw": -106.05004
    },
    "homeBlock": [
-    -222,
-    193
+    -1744,
+    -466
    ],
    "townBlocks": [
     [
-     -222,
-     192
-    ],
-    [
-     -221,
-     192
-    ],
-    [
-     -222,
-     193
+     -1744,
+     -466
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "aaggaarriicc",
-    "uuid": "bbb3337e-beeb-4d43-a7ff-af1c3ba1a99c"
+    "name": "NPC100",
+    "uuid": "b7ae439e-61b2-2083-9269-0db1992c31c0"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Rozewo",
   "uuid": "4d279399-9ba0-41d6-912a-c96744ba57e6",
@@ -12,12 +12,12 @@
    "uuid": "e255c0f0-2c74-41c5-9c6e-a29708450439"
   },
   "nation": {
-   "name": "Poland",
-   "uuid": "a7d37910-0663-4399-a2b5-cb9caf032652"
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
   },
   "timestamps": {
    "registered": 1793972864866,
-   "joinedNationAt": 1793972897766,
+   "joinedNationAt": 1794551281115,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 25,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5837.521923203857,
+    "x": 5838.329349688496,
     "y": 63.0,
-    "z": -12831.64932857684,
-    "pitch": 87.3244,
-    "yaw": 176.50302
+    "z": -12826.55236391139,
+    "pitch": 4.409755,
+    "yaw": 156.12347
    },
    "homeBlock": [
     364,
@@ -92,12 +92,68 @@
    ],
    "townBlocks": [
     [
+     362,
+     -806
+    ],
+    [
+     363,
+     -805
+    ],
+    [
+     363,
+     -804
+    ],
+    [
+     363,
+     -806
+    ],
+    [
+     363,
+     -803
+    ],
+    [
+     363,
+     -802
+    ],
+    [
+     361,
+     -806
+    ],
+    [
      365,
+     -803
+    ],
+    [
+     361,
+     -805
+    ],
+    [
+     365,
+     -804
+    ],
+    [
+     361,
+     -804
+    ],
+    [
+     361,
      -803
     ],
     [
      365,
      -802
+    ],
+    [
+     361,
+     -802
+    ],
+    [
+     362,
+     -803
+    ],
+    [
+     364,
+     -806
     ],
     [
      362,
@@ -105,15 +161,35 @@
     ],
     [
      364,
+     -805
+    ],
+    [
+     362,
+     -805
+    ],
+    [
+     362,
+     -804
+    ],
+    [
+     364,
      -802
+    ],
+    [
+     364,
+     -804
     ],
     [
      364,
      -803
     ],
     [
-     363,
-     -802
+     365,
+     -805
+    ],
+    [
+     365,
+     -806
     ]
    ],
    "worlds": {}
@@ -124,7 +200,16 @@
     "uuid": "e255c0f0-2c74-41c5-9c6e-a29708450439"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "3LeVi",
+    "uuid": "0e0e5a84-e79d-4e22-a4fd-5ebf83e0dd40"
+   },
+   {
+    "name": "saif098432",
+    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

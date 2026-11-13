@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Somethingrandom",
+  "name": "Shuravi",
   "uuid": "5b552425-1f1b-4e7b-a31e-3898c73448f3",
-  "board": "/town set board [msg]",
+  "board": "Communism...",
   "founder": "Averyu21",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 14,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 40.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 17451.31795311354,
+    "x": 17478.504960405397,
     "y": 90.0,
-    "z": -4812.299592822366,
-    "pitch": 77.40019,
-    "yaw": -111.40381
+    "z": -4819.422731904457,
+    "pitch": 1.9983056,
+    "yaw": 88.543335
    },
    "homeBlock": [
-    1090,
-    -301
+    1092,
+    -302
    ],
    "townBlocks": [
     [
@@ -105,6 +105,18 @@
     ],
     [
      1091,
+     -300
+    ],
+    [
+     1088,
+     -302
+    ],
+    [
+     1088,
+     -301
+    ],
+    [
+     1089,
      -300
     ],
     [
@@ -156,7 +168,16 @@
     "uuid": "283fb695-b265-4d2a-937d-bc0161139085"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "GameSquire76",
+    "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
+   },
+   {
+    "name": "radical_johnny",
+    "uuid": "be93d0a1-7142-453f-b49f-a2768e5ca550"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

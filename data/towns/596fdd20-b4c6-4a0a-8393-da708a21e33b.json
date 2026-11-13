@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Dixie",
   "uuid": "596fdd20-b4c6-4a0a-8393-da708a21e33b",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "coorslightyear",
-   "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+   "name": "NPC102",
+   "uuid": "c8f0d390-6cce-20ea-bc9f-d81ac5c81223"
   },
   "nation": {
-   "name": "Yucatan",
-   "uuid": "506cc5c5-3e9e-4fbb-867e-3b872a9068ba"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793332047728,
-   "joinedNationAt": 1793412810962,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794528301610
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -168,8 +168,8 @@
   },
   "residents": [
    {
-    "name": "coorslightyear",
-    "uuid": "da1da8e2-c906-4dc8-9902-55dc747414d5"
+    "name": "NPC102",
+    "uuid": "c8f0d390-6cce-20ea-bc9f-d81ac5c81223"
    }
   ],
   "trusted": [],

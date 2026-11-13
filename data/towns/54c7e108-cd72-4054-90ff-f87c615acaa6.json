@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Mahaica",
   "uuid": "54c7e108-cd72-4054-90ff-f87c615acaa6",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 34,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 44.0,
@@ -238,10 +238,6 @@
    {
     "name": "popnyan",
     "uuid": "d90a1a39-7cc4-4be2-94e5-f0e8720a1f8b"
-   },
-   {
-    "name": "Floralty",
-    "uuid": "63fbd3b2-2eb1-4628-bbad-de417cf4b923"
    }
   ],
   "trusted": [],
@@ -252,10 +248,6 @@
     {
      "name": "popnyan",
      "uuid": "d90a1a39-7cc4-4be2-94e5-f0e8720a1f8b"
-    },
-    {
-     "name": "Floralty",
-     "uuid": "63fbd3b2-2eb1-4628-bbad-de417cf4b923"
     }
    ],
    "Builder": [

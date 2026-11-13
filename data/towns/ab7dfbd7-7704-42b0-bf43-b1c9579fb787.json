@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Tony_Cheeks",
-  "uuid": "0ca0f83e-f643-440e-8673-46338de0de77",
-  "board": "/town set board [msg]",
-  "founder": "animeloverlex",
+  "name": "Starmer_Fan_Club",
+  "uuid": "ab7dfbd7-7704-42b0-bf43-b1c9579fb787",
+  "board": "You too will become a Starmerite.",
+  "founder": "NFISH2021",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC118",
-   "uuid": "c3d1fd63-fc8c-2016-bca0-23963c26ba9a"
+   "name": "NFISH2021",
+   "uuid": "581eedc4-c921-45aa-bc87-17bdbb77d0db"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1794267394645,
+   "registered": 1794540779098,
    "joinedNationAt": null,
-   "ruinedAt": 1794272531172
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,73 +35,89 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -41850.580851932245,
-    "y": 78.0,
-    "z": -9004.780957837524,
-    "pitch": 23.200556,
-    "yaw": 28.816479
+    "x": -194.38352104847812,
+    "y": 64.0,
+    "z": -13582.27604392786,
+    "pitch": 26.107254,
+    "yaw": -63.608383
    },
    "homeBlock": [
-    -2616,
-    -563
+    -13,
+    -849
    ],
    "townBlocks": [
     [
-     -2616,
-     -563
+     -11,
+     -849
+    ],
+    [
+     -12,
+     -850
+    ],
+    [
+     -12,
+     -849
+    ],
+    [
+     -12,
+     -848
+    ],
+    [
+     -13,
+     -849
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC118",
-    "uuid": "c3d1fd63-fc8c-2016-bca0-23963c26ba9a"
+    "name": "NFISH2021",
+    "uuid": "581eedc4-c921-45aa-bc87-17bdbb77d0db"
    }
   ],
   "trusted": [],

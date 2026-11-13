@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Saint_Petersburg",
   "uuid": "58d64318-09bc-4fb9-b5e2-234dabddf7c6",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 685,
-   "maxTownBlocks": 648,
+   "maxTownBlocks": 720,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 49,
+   "numResidents": 55,
    "numTrusted": 15,
-   "numOutlaws": 5,
+   "numOutlaws": 3,
    "balance": 859.0,
    "forSalePrice": null
   },
@@ -2853,14 +2853,6 @@
     "uuid": "fdea3cb8-60fb-4acc-992d-08f14bbb322d"
    },
    {
-    "name": "9O99",
-    "uuid": "bb5d798a-11d9-41d9-a41f-74ad31d1ef94"
-   },
-   {
-    "name": "fortniteleo",
-    "uuid": "8eddceaf-d54f-4b8b-ae07-0067b58de1d4"
-   },
-   {
     "name": "Firstclassstew",
     "uuid": "2f991e98-0062-4d0e-b14f-d60f5c58d426"
    },
@@ -2879,6 +2871,10 @@
    {
     "name": "KristauxSoft",
     "uuid": "0f16c985-180f-4637-88f1-4b9931dbce9b"
+   },
+   {
+    "name": "Eclipse_Wanderer",
+    "uuid": "7a17e8f0-aa65-42e0-872c-edeb0e5c78d2"
    },
    {
     "name": "ta7321",
@@ -2913,28 +2909,8 @@
     "uuid": "fd03f3e9-4912-4ee8-a291-0f4ba4ec6f92"
    },
    {
-    "name": "BigCJF",
-    "uuid": "c80eefe2-ab86-462e-b4b6-f00bc4d008dd"
-   },
-   {
-    "name": "FizzYZD13",
-    "uuid": "bf4e7f4a-032c-417b-9e77-8d56a5e090c0"
-   },
-   {
     "name": "Benasius6",
     "uuid": "d5f6a394-42bc-485e-b77d-2fedcb85fd67"
-   },
-   {
-    "name": "milamilkamila",
-    "uuid": "89b79cb9-92dd-4c9b-87bd-ebb3f978d1f5"
-   },
-   {
-    "name": "Zylx_x",
-    "uuid": "1a95d0fd-a6c4-4f5c-8a92-885322c83336"
-   },
-   {
-    "name": "Ender8087448",
-    "uuid": "9bdfe033-661d-4ca5-9c0e-d163de9628b1"
    },
    {
     "name": "J0N4H69",
@@ -3033,8 +3009,56 @@
     "uuid": "c7e44243-ad42-42d3-9b08-e85e62cfd299"
    },
    {
-    "name": "tsarnikki",
-    "uuid": "e3f6195c-327f-4a78-9aa2-260a1ecbac5c"
+    "name": "Sergaj",
+    "uuid": "78e2a0e1-d0d0-44c4-9fbe-bbd39725e2b7"
+   },
+   {
+    "name": "alextooru",
+    "uuid": "4b830b8b-d016-4757-86ca-e7b1faa38176"
+   },
+   {
+    "name": "xenistu",
+    "uuid": "c4e6b8bf-731d-4740-a629-32edbf86524d"
+   },
+   {
+    "name": "XBogen420",
+    "uuid": "73f22c1e-798c-44f6-bd99-72262d12931a"
+   },
+   {
+    "name": "PabloGine",
+    "uuid": "d3293fc7-8775-4b09-8abc-a851a6b25d45"
+   },
+   {
+    "name": "Lunette546",
+    "uuid": "0ee3ed0a-ac08-4267-93f0-7961219a1ebb"
+   },
+   {
+    "name": "CroatianTanker",
+    "uuid": "e82262ce-794d-41bb-b913-c64649ef6363"
+   },
+   {
+    "name": "Toonbanaan",
+    "uuid": "ba6a61ca-4908-435c-9bc1-3cfa527507af"
+   },
+   {
+    "name": "Alqualine",
+    "uuid": "3c1fa05f-0811-4bcc-9e4a-cdce05138adb"
+   },
+   {
+    "name": "Madloss",
+    "uuid": "838d4e79-df08-496e-9e65-77395cd57588"
+   },
+   {
+    "name": "_mrneck",
+    "uuid": "97085065-e280-43bd-9a36-b25ef7b08a53"
+   },
+   {
+    "name": "BaconnT",
+    "uuid": "50b47def-11a3-4c89-a4be-c6b39d90f663"
+   },
+   {
+    "name": "NiceGuy4X",
+    "uuid": "0d8b289c-b873-4cbe-8101-c0f6e8024092"
    }
   ],
   "trusted": [
@@ -3067,7 +3091,7 @@
     "uuid": "1fbc3390-f79d-4cb9-b07e-46f7df711b1d"
    },
    {
-    "name": "doubtOwOr",
+    "name": "doubtful_C",
     "uuid": "ec6079c4-ce84-415f-afe5-c17f55b5f7bd"
    },
    {
@@ -3109,16 +3133,8 @@
     "uuid": "20a1ac0c-c0d9-4dd8-b8ba-e6b2160eab3d"
    },
    {
-    "name": "74nc3r",
-    "uuid": "a03965cb-51fc-42bc-be1d-1e147af42302"
-   },
-   {
     "name": "Istant",
     "uuid": "a9097345-5732-400d-85a3-67f8813127d1"
-   },
-   {
-    "name": "Ciharry",
-    "uuid": "aee25d40-8460-4c5c-95d7-4a4ba8d42be0"
    }
   ],
   "quarters": [
@@ -3185,10 +3201,6 @@
    {
     "name": "Door",
     "uuid": "489ee74c-b65b-45b7-a870-5e7c0dbb58d1"
-   },
-   {
-    "name": "Nevsky Prospekt 3/1",
-    "uuid": "0ff847aa-da08-4cd2-a613-ef5bff183d8e"
    },
    {
     "name": "Nevsky Prospekt 3/2",
@@ -3351,20 +3363,12 @@
     "uuid": "dd32f119-cb34-4c5a-9653-7b251e74ef34"
    },
    {
-    "name": "Petrovskaya Embankment 3/2",
-    "uuid": "df4e94e2-4697-4022-bcb2-67acf2fe55ee"
-   },
-   {
     "name": "Boat placing area",
     "uuid": "16fac76a-21c3-4b07-b4e7-7351eeb5ae74"
    },
    {
     "name": "Nevsky Prospekt 6/5",
     "uuid": "49348d88-e32e-480e-830b-d9d9d708f882"
-   },
-   {
-    "name": "Petrovskaya Embankment 3/1",
-    "uuid": "bc621786-cb40-473e-9bff-d9b0e042218d"
    },
    {
     "name": "Petrovskaya Embankment 2/1",
@@ -3377,10 +3381,6 @@
    {
     "name": "Moyka Embankment 3/1",
     "uuid": "ae1db2da-95e7-454c-b2a1-08681c3eb627"
-   },
-   {
-    "name": "Moyka Embankment 3/2",
-    "uuid": "02edb43f-dd1e-4fbb-891d-4dc81bbfa4f3"
    },
    {
     "name": "Moyka Embankment 3/3",
@@ -3419,10 +3419,6 @@
     "uuid": "176f30a4-de55-4242-93e8-bd104c8e7d5e"
    },
    {
-    "name": "Nevsky Prospekt 6/4",
-    "uuid": "c70dc9ac-4079-4511-a225-d78e4c4b7a17"
-   },
-   {
     "name": "Petrovskaya Embankment 8/1",
     "uuid": "3046f649-7675-4219-91c2-a9b4d297ce1e"
    },
@@ -3447,10 +3443,6 @@
     "uuid": "16b71983-cb94-4417-a228-3939264329b1"
    },
    {
-    "name": "Nevsky Prospekt 6/6",
-    "uuid": "0ce872f9-bc72-4b06-84b7-d1acace3ba56"
-   },
-   {
     "name": "Nevsky Prospekt 6/1",
     "uuid": "e10edc76-d867-49ce-938e-6995f6131b82"
    },
@@ -3467,10 +3459,6 @@
     "uuid": "498e9ef4-35d6-40c5-8252-55ee0ff87363"
    },
    {
-    "name": "Nevsky Prospekt 2/1",
-    "uuid": "d6876a17-309b-4f88-bcdc-c9f9f4ded73b"
-   },
-   {
     "name": "Nevsky Prospekt 3/3",
     "uuid": "90de864e-80b2-4a50-a3e7-351772ec59e3"
    },
@@ -3479,20 +3467,60 @@
     "uuid": "05ebde2c-7bd2-422d-9fc9-a84810a4dbdf"
    },
    {
-    "name": "Nevsky Prospekt 6/3",
-    "uuid": "6a714dad-3fc2-4f72-88c7-f8d9ca9f4b19"
+    "name": "Petrovskaya Embankment 1",
+    "uuid": "eb8114a4-7439-44ad-bc0a-11200abb2a37"
+   },
+   {
+    "name": "Petrovskaya Embankment 3/1",
+    "uuid": "bc621786-cb40-473e-9bff-d9b0e042218d"
+   },
+   {
+    "name": "Nevsky Prospekt 3/1",
+    "uuid": "0ff847aa-da08-4cd2-a613-ef5bff183d8e"
    },
    {
     "name": "Petrovskaya Embankment 2/2",
     "uuid": "07974d13-81a5-43c4-9147-dd00e9b639ff"
    },
    {
-    "name": "Petrovskaya Embankment 1",
-    "uuid": "eb8114a4-7439-44ad-bc0a-11200abb2a37"
+    "name": "Nevsky Prospekt 2/1",
+    "uuid": "d6876a17-309b-4f88-bcdc-c9f9f4ded73b"
+   },
+   {
+    "name": "XP Farm",
+    "uuid": "c6358da1-b397-4926-8d1f-6042bb088f68"
+   },
+   {
+    "name": "Door",
+    "uuid": "ca601ba9-b7d1-4842-8360-caaeb2e1b149"
+   },
+   {
+    "name": "Nevsky Prospekt 6/3",
+    "uuid": "6a714dad-3fc2-4f72-88c7-f8d9ca9f4b19"
+   },
+   {
+    "name": "Petrovskaya Embankment 3/2",
+    "uuid": "df4e94e2-4697-4022-bcb2-67acf2fe55ee"
+   },
+   {
+    "name": "Nevsky Prospekt 6/4",
+    "uuid": "c70dc9ac-4079-4511-a225-d78e4c4b7a17"
    },
    {
     "name": "Nevsky Prospekt 6/2",
     "uuid": "9c92e74f-3a1b-404a-bc14-444919282706"
+   },
+   {
+    "name": "Nevsky Prospekt 6/6",
+    "uuid": "0ce872f9-bc72-4b06-84b7-d1acace3ba56"
+   },
+   {
+    "name": "Moyka Embankment 3/2",
+    "uuid": "02edb43f-dd1e-4fbb-891d-4dc81bbfa4f3"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "7147ec2a-f731-40aa-8ecf-414e8b412411"
    }
   ],
   "ranks": {

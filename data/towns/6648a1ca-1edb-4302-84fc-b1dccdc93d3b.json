@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Asama",
   "uuid": "6648a1ca-1edb-4302-84fc-b1dccdc93d3b",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 95,
-   "maxTownBlocks": 132,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 6,
-   "numTrusted": 2,
+   "numResidents": 8,
+   "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 95.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46238.41741159999,
-    "y": 71.0625,
-    "z": -8397.420393927812,
-    "pitch": 19.800198,
-    "yaw": -3.6536865
+    "x": 46143.68898296382,
+    "y": 72.0,
+    "z": -8443.511440501838,
+    "pitch": -0.59968793,
+    "yaw": -89.169365
    },
    "homeBlock": [
-    2889,
-    -525
+    2883,
+    -528
    ],
    "townBlocks": [
     [
@@ -480,6 +480,10 @@
     "uuid": "a004c212-10a7-4ae0-a376-18ace14e7172"
    },
    {
+    "name": "Kazugenate",
+    "uuid": "054ba5c3-2337-45f6-a4ce-630f5b6ec267"
+   },
+   {
     "name": "ea_light",
     "uuid": "2e21a7f1-7ba9-4e8e-a0b2-cb0426f3c8cf"
    },
@@ -488,19 +492,27 @@
     "uuid": "7ea27073-9cbe-406d-a983-d393afe1fb29"
    },
    {
-    "name": "Vasek_20161",
-    "uuid": "d80db04d-f95d-417d-b192-9599715d1e6f"
-   },
-   {
     "name": "Sweep__",
     "uuid": "7945577b-a70a-4c8a-b0e8-a34f00b8ab94"
    },
    {
     "name": "lethaltoeinfecti",
     "uuid": "c1d91b9a-642d-45fb-b0af-2cd370f7c145"
+   },
+   {
+    "name": "Kiply4",
+    "uuid": "484233a2-d576-4954-8680-9c7ff04e3e36"
+   },
+   {
+    "name": "daikon_yukkuri",
+    "uuid": "efbfb462-beef-432c-9dbb-c5669c96772f"
    }
   ],
   "trusted": [
+   {
+    "name": "Kazugenate",
+    "uuid": "054ba5c3-2337-45f6-a4ce-630f5b6ec267"
+   },
    {
     "name": "YukimalOfficial",
     "uuid": "a7d98dcf-cb9f-4ee6-b61c-bf7c6ecbc861"
@@ -565,6 +577,46 @@
     "uuid": "dc1b8608-5838-4147-8d70-11ea76ea0dcd"
    },
    {
+    "name": "Dingy Suite",
+    "uuid": "2deddc15-03e0-4c54-bc86-0a95bd15ffc8"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "2a447f40-0c10-4359-a240-b05e552e812c"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "d08b1d3f-0dc9-4428-89ac-60933e4cbd3e"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "6a85e5be-f256-4c91-8a68-2369728f70f5"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "b1aaeeb8-7886-4bdf-b07f-0f5a2aa5cdd1"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "5abc18bd-b04d-4a96-b6f4-1e3cf0f5010e"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "af0cc221-b2c3-4c09-8035-9bfa51d5c1c4"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "8290b0d8-6130-4de0-9570-3a6cae4870ca"
+   },
+   {
+    "name": "Bland Tenement",
+    "uuid": "77ac1455-14a3-47fd-b1de-d36d2e9dadb3"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "849f7d24-8589-499c-8bdf-8ff5be426a1b"
+   },
+   {
     "name": "Annoying Flat",
     "uuid": "17401813-a444-4a0f-8b04-6ff5ab2d9b0e"
    },
@@ -593,48 +645,20 @@
     "uuid": "c506d56c-5935-41f1-a4e1-7b7d6ccb4691"
    },
    {
-    "name": "Dingy Suite",
-    "uuid": "2deddc15-03e0-4c54-bc86-0a95bd15ffc8"
+    "name": "apart",
+    "uuid": "07369a1b-2daa-4b5a-b5ac-b761ce6b2b79"
    },
    {
-    "name": "Bland Property",
-    "uuid": "2a447f40-0c10-4359-a240-b05e552e812c"
-   },
-   {
-    "name": "Luxurious Flat",
-    "uuid": "d08b1d3f-0dc9-4428-89ac-60933e4cbd3e"
-   },
-   {
-    "name": "Dull Suite",
-    "uuid": "6a85e5be-f256-4c91-8a68-2369728f70f5"
-   },
-   {
-    "name": "Dull Quarter",
-    "uuid": "b1aaeeb8-7886-4bdf-b07f-0f5a2aa5cdd1"
-   },
-   {
-    "name": "Enraging Tenement",
-    "uuid": "2fad75e1-deb4-4227-a20c-47dfb2ce32ed"
-   },
-   {
-    "name": "Gloomy Flat",
-    "uuid": "5abc18bd-b04d-4a96-b6f4-1e3cf0f5010e"
-   },
-   {
-    "name": "Gloomy Quarter",
-    "uuid": "af0cc221-b2c3-4c09-8035-9bfa51d5c1c4"
+    "name": "Inconvenient Apartment",
+    "uuid": "fd404f5a-bfd7-458d-b7ab-e00c62fcb8b7"
    },
    {
     "name": "Annoying Apartment",
     "uuid": "c624312b-630c-4364-ba2b-c9560c837672"
    },
    {
-    "name": "Elegant Dwelling",
-    "uuid": "8290b0d8-6130-4de0-9570-3a6cae4870ca"
-   },
-   {
-    "name": "Bland Tenement",
-    "uuid": "77ac1455-14a3-47fd-b1de-d36d2e9dadb3"
+    "name": "Enraging Tenement",
+    "uuid": "2fad75e1-deb4-4227-a20c-47dfb2ce32ed"
    }
   ],
   "ranks": {

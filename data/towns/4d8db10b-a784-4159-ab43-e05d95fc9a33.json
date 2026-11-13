@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Valdeluna",
   "uuid": "4d8db10b-a784-4159-ab43-e05d95fc9a33",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 51,
+   "numTownBlocks": 61,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 46.0,
+   "balance": 209.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1682.368510370533,
-    "y": 128.0,
-    "z": -8412.593092082678,
-    "pitch": 26.099981,
-    "yaw": 71.19861
+    "x": -1671.5810624373817,
+    "y": 109.0,
+    "z": -8442.05511175182,
+    "pitch": 26.279232,
+    "yaw": 154.64876
    },
    "homeBlock": [
-    -106,
-    -526
+    -105,
+    -528
    ],
    "townBlocks": [
     [
@@ -96,8 +96,24 @@
      -530
     ],
     [
+     -103,
+     -529
+    ],
+    [
      -108,
      -531
+    ],
+    [
+     -103,
+     -530
+    ],
+    [
+     -103,
+     -527
+    ],
+    [
+     -103,
+     -528
     ],
     [
      -105,
@@ -169,11 +185,23 @@
     ],
     [
      -105,
+     -538
+    ],
+    [
+     -105,
      -528
+    ],
+    [
+     -103,
+     -537
     ],
     [
      -105,
      -529
+    ],
+    [
+     -106,
+     -538
     ],
     [
      -105,
@@ -186,6 +214,10 @@
     [
      -105,
      -527
+    ],
+    [
+     -103,
+     -536
     ],
     [
      -105,
@@ -233,6 +265,10 @@
     ],
     [
      -107,
+     -533
+    ],
+    [
+     -104,
      -533
     ],
     [
@@ -266,6 +302,10 @@
     [
      -107,
      -532
+    ],
+    [
+     -107,
+     -525
     ],
     [
      -107,
@@ -318,6 +358,14 @@
    {
     "name": "Enraging Suite",
     "uuid": "6349bae7-fbec-4e15-ba8e-0745f3ad32e5"
+   },
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "2832fe7d-5f56-44d1-8f77-0f647c0db118"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "1dcaa605-7f62-40f3-a361-aabf27174245"
    }
   ],
   "ranks": {

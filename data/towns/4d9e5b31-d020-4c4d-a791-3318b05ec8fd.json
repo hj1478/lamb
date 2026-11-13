@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Noxeria",
   "uuid": "4d9e5b31-d020-4c4d-a791-3318b05ec8fd",
-  "board": "Glory to our nation, Chechnya !",
+  "board": "Town for sale 40g dm discord",
   "founder": "NovaxX_1",
   "wiki": null,
   "discord": null,
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 5,
    "numOutlaws": 1,
    "balance": 0.0,
-   "forSalePrice": null
+   "forSalePrice": 40.0
   },
   "perms": {
    "build": [
@@ -198,6 +198,10 @@
    {
     "name": "Zehnit38",
     "uuid": "b90d891c-df03-4244-977b-5aae692e7f46"
+   },
+   {
+    "name": "tzx_The_rich",
+    "uuid": "798c51e6-24a3-4f66-bcbf-67c6a95772ec"
    }
   ],
   "trusted": [
@@ -230,7 +234,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "tzx_The_rich",
+     "uuid": "798c51e6-24a3-4f66-bcbf-67c6a95772ec"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Sulu",
   "uuid": "538c55d0-3ae7-4bf9-9334-a0f895715af6",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 144,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 7,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 112.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -683,10 +683,6 @@
    {
     "name": "theyellerken",
     "uuid": "697ca7ab-ff6a-4982-9e91-3379571411d8"
-   },
-   {
-    "name": "proDEmiR4943",
-    "uuid": "15d4c88e-0b38-4c4f-aee5-5a953c3e0808"
    },
    {
     "name": "Tomanowskii",

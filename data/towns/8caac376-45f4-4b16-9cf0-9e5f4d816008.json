@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Qingliu",
-  "uuid": "72e1da3e-8df1-4819-8602-a3bc483dc70f",
+  "name": "Brunei",
+  "uuid": "8caac376-45f4-4b16-9cf0-9e5f4d816008",
   "board": "/town set board [msg]",
-  "founder": "Re1mari",
+  "founder": "FancyRoyal",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Re1mari",
-   "uuid": "f7287cc1-0295-4178-a495-c24abd05c2a2"
+   "name": "FancyRoyal",
+   "uuid": "025fa63e-b8c6-44ed-91eb-b769f80564d5"
   },
   "nation": {
-   "name": "ROC",
-   "uuid": "41186ac6-1e3b-416c-9c27-bbdfd4593c06"
+   "name": "Philippines",
+   "uuid": "299e3699-8959-4dde-ba05-559ebf5c381e"
   },
   "timestamps": {
-   "registered": 1790613686708,
-   "joinedNationAt": 1790613855298,
+   "registered": 1794524821818,
+   "joinedNationAt": 1794525062869,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,35 +80,64 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41881.77039650867,
-    "y": 98.0,
-    "z": -1413.8746051691774,
-    "pitch": 13.949959,
-    "yaw": 112.22322
+    "x": 42662.38168880712,
+    "y": 64.0,
+    "z": 4311.6456390372,
+    "pitch": 2.2177162,
+    "yaw": -26.269117
    },
    "homeBlock": [
-    2617,
-    -89
+    2666,
+    269
    ],
    "townBlocks": [
     [
-     2617,
-     -89
+     2667,
+     269
+    ],
+    [
+     2666,
+     269
+    ],
+    [
+     2666,
+     268
+    ],
+    [
+     2666,
+     267
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Re1mari",
-    "uuid": "f7287cc1-0295-4178-a495-c24abd05c2a2"
+    "name": "FancyRoyal",
+    "uuid": "025fa63e-b8c6-44ed-91eb-b769f80564d5"
+   },
+   {
+    "name": "nolandio_1",
+    "uuid": "dbbc5bb7-4a24-4be2-867b-ce89c42b36b7"
+   },
+   {
+    "name": "NOTEAMING_1748",
+    "uuid": "016803ec-5ad2-4e8e-b87c-f873e27d61e6"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "nolandio_1",
+     "uuid": "dbbc5bb7-4a24-4be2-867b-ce89c42b36b7"
+    },
+    {
+     "name": "NOTEAMING_1748",
+     "uuid": "016803ec-5ad2-4e8e-b87c-f873e27d61e6"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

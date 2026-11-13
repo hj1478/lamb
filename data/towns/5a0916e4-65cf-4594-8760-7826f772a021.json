@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Albany",
   "uuid": "5a0916e4-65cf-4594-8760-7826f772a021",
@@ -12,37 +12,37 @@
    "uuid": "b4488c96-da6e-4728-ba31-1c81ff85630d"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Newfoundland",
+   "uuid": "faf066e9-bcbb-4e2a-bc2f-bc71253dae47"
   },
   "timestamps": {
    "registered": 1776450340882,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794175999249,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": true,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 26,
    "maxTownBlocks": 48,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 4,
    "numTrusted": 4,
-   "numOutlaws": 2,
-   "balance": 4894.0,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,24 +96,104 @@
      -633
     ],
     [
+     -1192,
+     -633
+    ],
+    [
+     -1195,
+     -631
+    ],
+    [
      -1195,
      -632
     ],
     [
-     -1196,
+     -1195,
+     -629
+    ],
+    [
+     -1195,
+     -630
+    ],
+    [
+     -1193,
+     -631
+    ],
+    [
+     -1191,
+     -633
+    ],
+    [
+     -1193,
+     -630
+    ],
+    [
+     -1193,
+     -633
+    ],
+    [
+     -1191,
+     -631
+    ],
+    [
+     -1193,
      -632
+    ],
+    [
+     -1191,
+     -632
+    ],
+    [
+     -1191,
+     -630
+    ],
+    [
+     -1194,
+     -631
+    ],
+    [
+     -1192,
+     -630
+    ],
+    [
+     -1194,
+     -630
     ],
     [
      -1194,
      -633
     ],
     [
-     -1196,
-     -633
+     -1192,
+     -632
     ],
     [
      -1194,
      -632
+    ],
+    [
+     -1192,
+     -631
+    ],
+    [
+     -1196,
+     -630
+    ],
+    [
+     -1196,
+     -629
+    ],
+    [
+     -1196,
+     -632
+    ],
+    [
+     -1196,
+     -631
+    ],
+    [
+     -1196,
+     -633
     ]
    ],
    "worlds": {}
@@ -132,8 +212,8 @@
     "uuid": "0dcbd5db-b208-4aba-b168-02e6e67e54f7"
    },
    {
-    "name": "4m5m",
-    "uuid": "ea44bdee-0233-4837-9b9f-e4d9e6668e58"
+    "name": "CamelosSecos",
+    "uuid": "ac4fede1-4c45-45df-ac60-a57d040887a4"
    }
   ],
   "trusted": [
@@ -162,6 +242,10 @@
    {
     "name": "2DFemboy",
     "uuid": "7566926c-b501-46d2-b0bc-d2ea78d709d1"
+   },
+   {
+    "name": "4m5m",
+    "uuid": "ea44bdee-0233-4837-9b9f-e4d9e6668e58"
    }
   ],
   "quarters": [],

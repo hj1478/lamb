@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Zyshistan",
   "uuid": "58afdae2-ae59-4eaf-8da6-0ea69ed2ce22",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ark_El_Yus",
-   "uuid": "1fdac593-cb89-423a-ad83-d15edc94229b"
+   "name": "C00D",
+   "uuid": "8a43713e-1d33-47f9-9980-63ae2d63eba1"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Italy",
+   "uuid": "3248dbb4-f9af-4cf1-b87e-b190a54220e2"
   },
   "timestamps": {
    "registered": 1789866613786,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794031928922,
    "ruinedAt": null
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -102,6 +102,10 @@
    {
     "name": "Ark_El_Yus",
     "uuid": "1fdac593-cb89-423a-ad83-d15edc94229b"
+   },
+   {
+    "name": "C00D",
+    "uuid": "8a43713e-1d33-47f9-9980-63ae2d63eba1"
    }
   ],
   "trusted": [],

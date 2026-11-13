@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Larak",
   "uuid": "4ef6abaf-0912-4c6f-a6f7-1325b22cec37",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "OculusMast05",
-   "uuid": "52b3a961-37d2-43a4-b77e-20a8ef18e35e"
+   "name": "NPC75",
+   "uuid": "b46e1281-e4dd-2019-a327-45bf0dbdf48b"
   },
   "nation": {
-   "name": "Sumer",
-   "uuid": "bfb0b0ce-26c6-492e-a161-4a3f86079da8"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790728450700,
-   "joinedNationAt": 1790728460070,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794391207858
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "OculusMast05",
-    "uuid": "52b3a961-37d2-43a4-b77e-20a8ef18e35e"
+    "name": "NPC75",
+    "uuid": "b46e1281-e4dd-2019-a327-45bf0dbdf48b"
    }
   ],
   "trusted": [],

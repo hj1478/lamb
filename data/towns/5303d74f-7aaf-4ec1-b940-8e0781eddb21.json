@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Marina_Del_Rey",
   "uuid": "5303d74f-7aaf-4ec1-b940-8e0781eddb21",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 91,
+   "numTownBlocks": 92,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 5,
    "numOutlaws": 3,
-   "balance": 36.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -290,6 +290,10 @@
     [
      -1811,
      321
+    ],
+    [
+     -1811,
+     320
     ],
     [
      -1800,

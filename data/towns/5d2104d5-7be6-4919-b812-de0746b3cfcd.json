@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "New_Istanbul",
   "uuid": "5d2104d5-7be6-4919-b812-de0746b3cfcd",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 396,
-   "maxTownBlocks": 448,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 29,
-   "numTrusted": 19,
+   "numResidents": 24,
+   "numTrusted": 18,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -1680,10 +1680,6 @@
   },
   "residents": [
    {
-    "name": "Melon594",
-    "uuid": "fc010bcb-fe71-4f0c-ad18-6690f7fae035"
-   },
-   {
     "name": "Gabbertjuh",
     "uuid": "208c9b22-9716-42c4-8ba6-e2e9818c4457"
    },
@@ -1694,22 +1690,6 @@
    {
     "name": "PenguinMaster90",
     "uuid": "9411c61b-8982-41b2-b668-11a7fa15aff7"
-   },
-   {
-    "name": "Onz0",
-    "uuid": "574c88cd-886d-4740-940a-60c85065b9c2"
-   },
-   {
-    "name": "fried_butterr",
-    "uuid": "eb50e172-6ecb-47e3-847f-bf99eb9de27a"
-   },
-   {
-    "name": "MerV83",
-    "uuid": "592feb07-d0ed-4d3e-8d5a-168a32ed0046"
-   },
-   {
-    "name": "laithalhazaimeh",
-    "uuid": "f85ce61e-d61a-4467-aae3-db28ca2497f6"
    },
    {
     "name": "blueshadesofred",
@@ -1838,10 +1818,6 @@
     "uuid": "0952d4fe-706b-4bc3-ac2a-dcc8f61350fa"
    },
    {
-    "name": "Melon594",
-    "uuid": "fc010bcb-fe71-4f0c-ad18-6690f7fae035"
-   },
-   {
     "name": "CAPYBARA28O8",
     "uuid": "f3fefb1d-6b5c-4ef3-9ae0-49a336508aed"
    },
@@ -1909,12 +1885,7 @@
      "uuid": "f4579a95-5da6-492a-b021-714bb1f9769f"
     }
    ],
-   "Builder": [
-    {
-     "name": "Melon594",
-     "uuid": "fc010bcb-fe71-4f0c-ad18-6690f7fae035"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

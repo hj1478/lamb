@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Panzerkampfwagen",
   "uuid": "68eebc43-276c-407b-895e-6e141cc8382d",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 9,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 95.0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 41.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13072.596383489083,
-    "y": 127.0,
-    "z": 7898.291285806226,
-    "pitch": 47.85005,
-    "yaw": -89.551056
+    "x": 13075.405456120303,
+    "y": 112.0,
+    "z": 7891.4633693930255,
+    "pitch": 1.0499862,
+    "yaw": -89.40092
    },
    "homeBlock": [
     817,
@@ -93,7 +93,39 @@
    "townBlocks": [
     [
      817,
+     492
+    ],
+    [
+     816,
+     492
+    ],
+    [
+     817,
      493
+    ],
+    [
+     818,
+     493
+    ],
+    [
+     816,
+     493
+    ],
+    [
+     817,
+     494
+    ],
+    [
+     818,
+     494
+    ],
+    [
+     818,
+     492
+    ],
+    [
+     816,
+     494
     ]
    ],
    "worlds": {}
@@ -104,9 +136,28 @@
     "uuid": "710b25ab-0973-4d34-861f-a0a332d67408"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
-  "quarters": [],
+  "trusted": [
+   {
+    "name": "FORDaLoZ",
+    "uuid": "10286bc5-2980-422b-af54-6b1f7aa488bc"
+   },
+   {
+    "name": "Acerse",
+    "uuid": "dedb0016-c51e-4498-bfa6-c9c2a66669f5"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "AllAboutTheSwag",
+    "uuid": "af402b9a-bd27-4b7b-87ad-12aa1e9dd3da"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "ed9ea464-96cf-4ded-aa3d-e11c373f00de"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

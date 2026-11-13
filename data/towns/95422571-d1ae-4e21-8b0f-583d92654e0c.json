@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Rushville",
-  "uuid": "cfbe6a70-dd9b-47be-a60f-f81cafe0a73b",
+  "name": "Pirna",
+  "uuid": "95422571-d1ae-4e21-8b0f-583d92654e0c",
   "board": "/town set board [msg]",
-  "founder": "FoxGamer7852",
+  "founder": "SuperKate19",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FoxGamer7852",
-   "uuid": "6aaa8625-8f58-4546-8f10-841a63c526ec"
+   "name": "SuperKate19",
+   "uuid": "9a379494-6dfc-44a2-853a-f778c42c8ca0"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1790538477743,
+   "registered": 1794561439540,
    "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,36 +80,35 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8777.93741856305,
-    "y": 67.0,
-    "z": -13555.866231784794,
-    "pitch": -0.14967425,
-    "yaw": 16.795044
+    "x": 4735.300000011921,
+    "y": 88.0,
+    "z": -11885.257645204356,
+    "pitch": 22.49985,
+    "yaw": -171.9295
    },
    "homeBlock": [
-    548,
-    -848
+    295,
+    -743
    ],
    "townBlocks": [
     [
-     548,
-     -848
+     294,
+     -743
+    ],
+    [
+     295,
+     -743
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "FoxGamer7852",
-    "uuid": "6aaa8625-8f58-4546-8f10-841a63c526ec"
+    "name": "SuperKate19",
+    "uuid": "9a379494-6dfc-44a2-853a-f778c42c8ca0"
    }
   ],
-  "trusted": [
-   {
-    "name": "swiftwindbow",
-    "uuid": "791e2f0c-7435-4aa9-8ab8-756fdf8eacaf"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Disneytown",
   "uuid": "68046169-3ab0-4ea2-b8f9-516c8da29bf5",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 82,
+   "numTownBlocks": 84,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numTrusted": 2,
+   "numOutlaws": 2,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -193,6 +193,10 @@
     ],
     [
      -1862,
+     -455
+    ],
+    [
+     -1862,
      -457
     ],
     [
@@ -381,6 +385,10 @@
     ],
     [
      -1863,
+     -455
+    ],
+    [
+     -1863,
      -460
     ],
     [
@@ -400,12 +408,12 @@
      -458
     ],
     [
-     -1863,
-     -459
-    ],
-    [
      -1866,
      -460
+    ],
+    [
+     -1863,
+     -459
     ],
     [
      -1866,
@@ -430,11 +438,24 @@
   ],
   "trusted": [
    {
+    "name": "StarM3wtw0",
+    "uuid": "d932bf2e-05b6-41cd-aefc-58062780772c"
+   },
+   {
     "name": "WokeBob",
     "uuid": "a85b5327-51b6-412b-b505-0ce6b30331ef"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Himalayan_Marmot",
+    "uuid": "3462c104-af2a-4743-8bc2-5befde5ada70"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

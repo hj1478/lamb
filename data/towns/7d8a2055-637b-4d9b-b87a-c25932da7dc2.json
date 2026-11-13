@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Gnomeregan",
-  "uuid": "9703e21f-ef25-4395-a706-0df8c398337d",
+  "name": "TacoTown",
+  "uuid": "7d8a2055-637b-4d9b-b87a-c25932da7dc2",
   "board": "/town set board [msg]",
-  "founder": "CopperBrain",
+  "founder": "GuavaNoose",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CopperBrain",
-   "uuid": "794b0fc2-0d8a-48f7-948a-dfb3aef8e0a7"
+   "name": "GuavaNoose",
+   "uuid": "3a02744a-27f0-4cda-9993-351d11baa816"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1793735936708,
-   "joinedNationAt": 1793735973085,
+   "registered": 1794545951623,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,36 +80,74 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10578.55697811274,
-    "y": 87.0,
-    "z": -6082.516541324737,
-    "pitch": 6.00003,
-    "yaw": 169.41406
+    "x": -40634.44432897167,
+    "y": 64.0,
+    "z": -2808.180265078453,
+    "pitch": 41.40018,
+    "yaw": 6.645935
    },
    "homeBlock": [
-    661,
-    -381
+    -2540,
+    -176
    ],
    "townBlocks": [
     [
-     661,
-     -381
+     -2541,
+     -174
+    ],
+    [
+     -2540,
+     -176
+    ],
+    [
+     -2540,
+     -175
+    ],
+    [
+     -2541,
+     -175
+    ],
+    [
+     -2541,
+     -176
+    ],
+    [
+     -2540,
+     -174
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "CopperBrain",
-    "uuid": "794b0fc2-0d8a-48f7-948a-dfb3aef8e0a7"
+    "name": "GuavaNoose",
+    "uuid": "3a02744a-27f0-4cda-9993-351d11baa816"
+   },
+   {
+    "name": "Ares_W",
+    "uuid": "45634ed5-79a3-4ca2-8621-3f7dd43684d0"
+   },
+   {
+    "name": "Nyohg",
+    "uuid": "d41578bf-c94b-4e1f-8a1c-ac9c6d981275"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Ares_W",
+     "uuid": "45634ed5-79a3-4ca2-8621-3f7dd43684d0"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Nyohg",
+     "uuid": "d41578bf-c94b-4e1f-8a1c-ac9c6d981275"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Philippi",
+  "name": "Serres",
   "uuid": "4a94139d-cf54-40ce-8953-3ce9235f7347",
   "board": "Serres and Kilkis",
   "founder": "Bulgarest",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Manapo_",
-   "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
+   "name": "2billyolo",
+   "uuid": "6e1d65bf-bfee-45f0-a521-3764b1f5e8fc"
   },
   "nation": {
    "name": "Greece",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 109,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 8,
+   "numResidents": 3,
+   "numTrusted": 9,
    "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8423.563144153315,
-    "y": 65.0,
-    "z": -7626.5987794430785,
-    "pitch": 52.83565,
-    "yaw": 1.713083
+    "x": 8408.44438334746,
+    "y": 63.0,
+    "z": -7607.900625759541,
+    "pitch": 17.73571,
+    "yaw": -160.58673
    },
    "homeBlock": [
-    526,
-    -477
+    525,
+    -476
    ],
    "townBlocks": [
     [
@@ -532,20 +532,16 @@
   },
   "residents": [
    {
-    "name": "Bulgarest",
-    "uuid": "242a6c47-bc1a-4f02-906e-507331cb3418"
-   },
-   {
-    "name": "Manapo_",
-    "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
-   },
-   {
     "name": "_Davisss_",
     "uuid": "08a1cd07-1ad0-45c9-b0e8-8895113e1628"
    },
    {
     "name": "2billyolo",
     "uuid": "6e1d65bf-bfee-45f0-a521-3764b1f5e8fc"
+   },
+   {
+    "name": "GrPlaugeDoctor",
+    "uuid": "7cf028ca-e8a9-48b1-a1c8-53807aaa2048"
    }
   ],
   "trusted": [
@@ -554,8 +550,8 @@
     "uuid": "6e1d65bf-bfee-45f0-a521-3764b1f5e8fc"
    },
    {
-    "name": "Average1103",
-    "uuid": "b69b4f28-a216-4d2e-bdd2-7145d8658a9b"
+    "name": "ChimpAmbassador",
+    "uuid": "228624cb-5830-4df8-aede-bd8e0c8c353b"
    },
    {
     "name": "Japlo1505",
@@ -574,11 +570,15 @@
     "uuid": "bbadcef2-753b-4889-9c04-c9ca6593577b"
    },
    {
+    "name": "PROMY19",
+    "uuid": "6376c158-bf0e-43a3-87a0-735a72e6ba62"
+   },
+   {
     "name": "Luciano_Austrian",
     "uuid": "39c5d27d-359c-4f43-b722-5054a61e1d71"
    },
    {
-    "name": "Manapo_",
+    "name": "Manapos",
     "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
    }
   ],
@@ -603,7 +603,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "GrPlaugeDoctor",
+     "uuid": "7cf028ca-e8a9-48b1-a1c8-53807aaa2048"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

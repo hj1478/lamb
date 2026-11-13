@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Sevilla",
   "uuid": "5703c9c8-74d9-46c9-9408-f763b51cf65a",
-  "board": "/town set board [msg]",
+  "board": "Ya huele de Navidad",
   "founder": "FG_UMA",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "stsminami",
-   "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
+   "name": "sometexan",
+   "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
   },
   "nation": {
-   "name": "Kingdom_Of_Spain",
-   "uuid": "ca8122c8-1009-480b-a29d-0a9dccb9f6c5"
+   "name": "Spain",
+   "uuid": "6d6d26dd-f498-4978-acaf-7b2ccfd0de4e"
   },
   "timestamps": {
    "registered": 1776449123034,
-   "joinedNationAt": 1776578139947,
+   "joinedNationAt": 1794218432987,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 123,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 5,
-   "numTrusted": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 15.0,
+   "balance": 36.0,
    "forSalePrice": null
   },
   "perms": {
@@ -588,88 +588,51 @@
   },
   "residents": [
    {
-    "name": "Duolingo_kun",
-    "uuid": "b1d5e4c3-eb53-4256-979d-147af1aebd79"
-   },
-   {
-    "name": "stsminami",
-    "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
-   },
-   {
-    "name": "Nt703231",
-    "uuid": "8c0da967-273e-42b9-8152-f9c476add6cf"
-   },
-   {
     "name": "Paula2002YT",
     "uuid": "82217005-a947-4c99-a297-e5181f044954"
    },
    {
     "name": "Natiillaas",
     "uuid": "f7973f63-1080-4f7d-b3d2-93123208c1d6"
+   },
+   {
+    "name": "_aws",
+    "uuid": "5b9bf6df-cb2e-41a8-80a0-a02c8bc14566"
+   },
+   {
+    "name": "TheatreArt",
+    "uuid": "1e45656c-8dec-4681-bf90-ef2d224c68f1"
+   },
+   {
+    "name": "sometexan",
+    "uuid": "024c2417-2023-4768-affd-d3a209dd0b78"
    }
   ],
   "trusted": [
    {
-    "name": "stsminami",
-    "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
+    "name": "Reanger",
+    "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
    },
    {
-    "name": "katamuturi",
-    "uuid": "4dc6da41-0006-4cf3-bc1d-ec5cc95758a6"
+    "name": "TheatreArt",
+    "uuid": "1e45656c-8dec-4681-bf90-ef2d224c68f1"
    },
    {
-    "name": "173BIGMAC",
-    "uuid": "dd7f1960-4404-4c70-8dcd-f380cdf423e5"
-   },
-   {
-    "name": "_motchii_",
-    "uuid": "101852f5-969d-4ccb-8c61-698bc0cb9b2d"
-   },
-   {
-    "name": "Kousei2212",
-    "uuid": "7f3e4bd0-338c-4e75-a11d-a835e5c26f83"
+    "name": "Aracnedix",
+    "uuid": "1aa37359-2760-4477-81c3-4bddf514bbe9"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "stsminami",
-     "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
-    },
-    {
-     "name": "Nt703231",
-     "uuid": "8c0da967-273e-42b9-8152-f9c476add6cf"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "stsminami",
-     "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
-    }
-   ],
-   "Police": [
-    {
-     "name": "stsminami",
-     "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
-    }
-   ],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "stsminami",
-     "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "stsminami",
-     "uuid": "0565dc2a-9e55-4967-b495-e37c3371d7c5"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

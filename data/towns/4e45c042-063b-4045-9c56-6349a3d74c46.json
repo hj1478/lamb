@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Kamloops",
   "uuid": "4e45c042-063b-4045-9c56-6349a3d74c46",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 80,
-   "maxTownBlocks": 184,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 10,
+   "numResidents": 6,
+   "numTrusted": 8,
    "numOutlaws": 4,
    "balance": 15.0,
    "forSalePrice": null
@@ -416,10 +416,6 @@
   },
   "residents": [
    {
-    "name": "AkechiCrow",
-    "uuid": "763ff7d4-4de0-478e-8658-ecf3b25fd04e"
-   },
-   {
     "name": "LeucosiaNicole",
     "uuid": "eeeaf360-1557-40de-b21b-c0f9ed574085"
    },
@@ -462,10 +458,6 @@
     "uuid": "31f2e1d5-ddba-4d4d-9b09-987d45cc5b0d"
    },
    {
-    "name": "ShadowPlayzDev",
-    "uuid": "258a21d2-a684-4798-b9f5-0013f60678a2"
-   },
-   {
     "name": "communistbandits",
     "uuid": "671becb3-8d02-4bac-b7dc-25654b7b5443"
    },
@@ -480,10 +472,6 @@
    {
     "name": "sxirencore",
     "uuid": "42f9ee65-9646-48cd-aacf-c7f4c2b1e163"
-   },
-   {
-    "name": "AkechiCrow",
-    "uuid": "763ff7d4-4de0-478e-8658-ecf3b25fd04e"
    }
   ],
   "outlaws": [
@@ -505,10 +493,6 @@
    }
   ],
   "quarters": [
-   {
-    "name": "Kamloops (Mayor:",
-    "uuid": "8083539d-2cab-4521-95c9-8f872e7ee015"
-   },
    {
     "name": "Trash Disposal",
     "uuid": "8857f52a-05a7-428f-a76d-7ad12ccc4530"
@@ -576,15 +560,14 @@
    {
     "name": "Dull Dwelling",
     "uuid": "250d0b4a-ef80-4c8f-8981-de4d034e9edf"
+   },
+   {
+    "name": "Kamloops (Mayor:",
+    "uuid": "8083539d-2cab-4521-95c9-8f872e7ee015"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "AkechiCrow",
-     "uuid": "763ff7d4-4de0-478e-8658-ecf3b25fd04e"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

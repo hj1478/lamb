@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Los_Mapuches",
   "uuid": "5df6dba0-74d3-4dd3-b2e0-ac86009ed7ea",
@@ -21,8 +21,8 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": false,
+   "isPublic": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 0,
-   "numOutlaws": 4,
-   "balance": 475.0,
+   "numOutlaws": 5,
+   "balance": 452.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,106 @@
    ],
    "townBlocks": [
     [
+     -1650,
+     1588
+    ],
+    [
+     -1650,
+     1589
+    ],
+    [
+     -1650,
+     1592
+    ],
+    [
+     -1650,
+     1590
+    ],
+    [
+     -1650,
+     1591
+    ],
+    [
+     -1654,
+     1592
+    ],
+    [
+     -1649,
+     1590
+    ],
+    [
+     -1649,
+     1591
+    ],
+    [
+     -1649,
+     1592
+    ],
+    [
+     -1653,
+     1590
+    ],
+    [
+     -1653,
+     1589
+    ],
+    [
+     -1652,
+     1588
+    ],
+    [
+     -1653,
+     1588
+    ],
+    [
+     -1649,
+     1588
+    ],
+    [
+     -1649,
+     1589
+    ],
+    [
+     -1654,
+     1588
+    ],
+    [
+     -1652,
+     1591
+    ],
+    [
+     -1654,
+     1589
+    ],
+    [
+     -1652,
+     1592
+    ],
+    [
+     -1654,
+     1590
+    ],
+    [
+     -1653,
+     1592
+    ],
+    [
+     -1652,
+     1589
+    ],
+    [
+     -1654,
+     1591
+    ],
+    [
+     -1653,
+     1591
+    ],
+    [
+     -1652,
+     1590
+    ],
+    [
      -1656,
      1592
     ],
@@ -132,44 +232,24 @@
      1592
     ],
     [
-     -1654,
+     -1651,
      1592
     ],
     [
-     -1653,
-     1590
-    ],
-    [
-     -1653,
-     1589
-    ],
-    [
-     -1653,
-     1588
-    ],
-    [
-     -1654,
-     1588
-    ],
-    [
-     -1654,
-     1589
-    ],
-    [
-     -1654,
-     1590
-    ],
-    [
-     -1653,
-     1592
-    ],
-    [
-     -1654,
+     -1651,
      1591
     ],
     [
-     -1653,
-     1591
+     -1651,
+     1590
+    ],
+    [
+     -1651,
+     1589
+    ],
+    [
+     -1651,
+     1588
     ]
    ],
    "worlds": {}
@@ -182,6 +262,14 @@
    {
     "name": "Elili_moquitos",
     "uuid": "33ce7755-a750-4b84-ae28-f3597bcf4dff"
+   },
+   {
+    "name": "Gabuino",
+    "uuid": "f4154ea7-4a3d-410f-a0b1-eab179bb78de"
+   },
+   {
+    "name": "cheese_dodo",
+    "uuid": "9faf8214-abdb-4099-9903-745e2f125e63"
    }
   ],
   "trusted": [],
@@ -201,6 +289,10 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "siberbriber",
+    "uuid": "5ffe0ce8-1418-4a0d-ae9e-91cdf343994a"
    }
   ],
   "quarters": [],

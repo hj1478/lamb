@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Tichauer",
-  "uuid": "a7c382fb-8514-42ca-99a3-ce7ac72b1067",
-  "board": "welcome in TYCHY",
-  "founder": "Rekaolley",
+  "name": "Barlivia",
+  "uuid": "bf82394f-fdad-4160-969c-0bc7fd49a60b",
+  "board": "/town set board [msg]",
+  "founder": "Lochy_Sprite",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Rekaolley",
-   "uuid": "acccd991-880a-43de-9b2d-3ac849af65ae"
+   "name": "Lochy_Sprite",
+   "uuid": "6ce40896-55dd-4462-a5c8-35ab74d7df82"
   },
   "nation": {
-   "name": "PLC",
-   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1785804472146,
-   "joinedNationAt": 1785804570481,
+   "registered": 1794543109105,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 242.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,83 +73,51 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6557.037457316766,
-    "y": 66.0,
-    "z": -11982.699999988079,
-    "pitch": -3.8998876,
-    "yaw": 50.371094
+    "x": -57976.489978229525,
+    "y": 62.9375,
+    "z": -17541.47780529553,
+    "pitch": 14.794575,
+    "yaw": -98.371796
    },
    "homeBlock": [
-    409,
-    -749
+    -3624,
+    -1097
    ],
    "townBlocks": [
     [
-     409,
-     -751
+     -3623,
+     -1097
     ],
     [
-     409,
-     -750
+     -3623,
+     -1096
     ],
     [
-     408,
-     -750
+     -3624,
+     -1096
     ],
     [
-     408,
-     -749
+     -3622,
+     -1096
     ],
     [
-     408,
-     -748
-    ],
-    [
-     408,
-     -747
-    ],
-    [
-     410,
-     -748
-    ],
-    [
-     410,
-     -749
-    ],
-    [
-     410,
-     -750
-    ],
-    [
-     409,
-     -747
-    ],
-    [
-     409,
-     -749
-    ],
-    [
-     409,
-     -748
-    ],
-    [
-     410,
-     -747
+     -3624,
+     -1097
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Rekaolley",
-    "uuid": "acccd991-880a-43de-9b2d-3ac849af65ae"
+    "name": "Lochy_Sprite",
+    "uuid": "6ce40896-55dd-4462-a5c8-35ab74d7df82"
    }
   ],
   "trusted": [],

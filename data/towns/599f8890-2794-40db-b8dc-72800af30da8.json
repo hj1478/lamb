@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "North_Rim",
   "uuid": "599f8890-2794-40db-b8dc-72800af30da8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Tawmez",
-   "uuid": "d869d15c-6139-467b-9681-d394553ebc2b"
+   "name": "NPC66",
+   "uuid": "40f4f17e-2214-2064-96b3-7fc1b72ed619"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1785223258855,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794567602102
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -268,8 +268,8 @@
   },
   "residents": [
    {
-    "name": "Tawmez",
-    "uuid": "d869d15c-6139-467b-9681-d394553ebc2b"
+    "name": "NPC66",
+    "uuid": "40f4f17e-2214-2064-96b3-7fc1b72ed619"
    }
   ],
   "trusted": [],

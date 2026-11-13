@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Guilin",
   "uuid": "5aab4aa5-7719-44a1-b4b2-f8f85f982b63",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 136,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 7,
-   "numOutlaws": 11,
+   "numResidents": 3,
+   "numTrusted": 6,
+   "numOutlaws": 9,
    "balance": 386.0,
    "forSalePrice": 999999999.0
   },
@@ -646,6 +646,10 @@
    {
     "name": "el_lanmin",
     "uuid": "5188bc0a-483f-49ad-b6a7-5b39e790af28"
+   },
+   {
+    "name": "SnowRae",
+    "uuid": "f055acda-c2cf-45e9-9c55-b5e4697159cd"
    }
   ],
   "trusted": [
@@ -670,10 +674,6 @@
     "uuid": "0b6a200e-63f7-4b5a-8d14-e6fd1b1df824"
    },
    {
-    "name": "TimeSpace_ZONE",
-    "uuid": "8919ca78-a25c-414a-a36b-3f71896c964a"
-   },
-   {
     "name": "RobinSummeretto",
     "uuid": "a6b3eaab-65da-48ea-853f-67ed24ac68bd"
    }
@@ -692,16 +692,8 @@
     "uuid": "34af2559-cd50-4dbc-98c9-e15b701d6056"
    },
    {
-    "name": "74nc3r",
-    "uuid": "a03965cb-51fc-42bc-be1d-1e147af42302"
-   },
-   {
     "name": "Kuriyamachan",
     "uuid": "35ff5856-91ac-4577-8b21-e959890764b1"
-   },
-   {
-    "name": "Liamdegrote",
-    "uuid": "eaa83b7e-674d-44c4-88c1-1660159f3e98"
    },
    {
     "name": "Saltiestspinach",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Masirah_Island",
   "uuid": "6c0221ab-247e-40e5-a1c0-ccc40269031b",
@@ -12,12 +12,12 @@
    "uuid": "a2486008-fa49-4f27-abce-e937dbcaa6db"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arabia",
+   "uuid": "8afa785d-60c2-4bc6-a02b-1a21847238bd"
   },
   "timestamps": {
    "registered": 1793002043624,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794440922705,
    "ruinedAt": null
   },
   "status": {
@@ -28,17 +28,17 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -92,12 +92,20 @@
    ],
    "townBlocks": [
     [
+     1319,
+     34
+    ],
+    [
      1318,
      33
     ],
     [
      1318,
      34
+    ],
+    [
+     1319,
+     33
     ]
    ],
    "worlds": {}

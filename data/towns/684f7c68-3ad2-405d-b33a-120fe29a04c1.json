@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "South_Phoenix",
   "uuid": "684f7c68-3ad2-405d-b33a-120fe29a04c1",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 69,
-   "maxTownBlocks": 222,
+   "numTownBlocks": 75,
+   "maxTownBlocks": 190,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 16,
-   "numTrusted": 2,
+   "nationBonus": 10,
+   "numResidents": 15,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 49.0,
+   "balance": 38.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,7 +59,7 @@
     false
    ],
    "switch": [
-    false,
+    true,
     false,
     false,
     false
@@ -105,6 +105,10 @@
     ],
     [
      -2506,
+     -261
+    ],
+    [
+     -2506,
      -265
     ],
     [
@@ -172,6 +176,10 @@
      -266
     ],
     [
+     -2505,
+     -261
+    ],
+    [
      -2501,
      -267
     ],
@@ -222,6 +230,10 @@
     [
      -2502,
      -268
+    ],
+    [
+     -2504,
+     -261
     ],
     [
      -2504,
@@ -288,8 +300,16 @@
      -264
     ],
     [
+     -2508,
+     -262
+    ],
+    [
      -2502,
      -265
+    ],
+    [
+     -2508,
+     -261
     ],
     [
      -2508,
@@ -362,6 +382,10 @@
     [
      -2507,
      -264
+    ],
+    [
+     -2507,
+     -261
     ],
     [
      -2507,
@@ -386,10 +410,6 @@
    {
     "name": "DangerMaro",
     "uuid": "d25fc254-3a13-4263-819b-0825840261c9"
-   },
-   {
-    "name": "chizolo150",
-    "uuid": "6a9157f1-a4a0-4b53-aaea-7cdedec86d92"
    },
    {
     "name": "TurtleBoyGreen",
@@ -444,6 +464,14 @@
    {
     "name": "Litashie",
     "uuid": "6cd5fc91-a16d-4e7f-a546-69280c4a3d8b"
+   },
+   {
+    "name": "DiamondBoy600",
+    "uuid": "4a73c70a-69ef-4c1e-9966-b341c657d951"
+   },
+   {
+    "name": "R0Qk1e",
+    "uuid": "e85735b6-cf7c-478c-b36e-2e3e74110e1b"
    }
   ],
   "outlaws": [],
@@ -479,10 +507,6 @@
    {
     "name": "Random Junk",
     "uuid": "d9af9f75-bc91-4eee-883e-a1397f702581"
-   },
-   {
-    "name": "World Trade Center Complex",
-    "uuid": "7d7bc362-c406-4615-818e-8f8572612de2"
    },
    {
     "name": "Dingy Quarter",

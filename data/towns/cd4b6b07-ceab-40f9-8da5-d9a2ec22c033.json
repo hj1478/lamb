@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "SCC",
-  "uuid": "8a512378-e30a-443a-8069-55c71af68671",
+  "name": "Morkov",
+  "uuid": "cd4b6b07-ceab-40f9-8da5-d9a2ec22c033",
   "board": "/town set board [msg]",
-  "founder": "DancingGrandpa",
+  "founder": "1csmn",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DancingGrandpa",
-   "uuid": "6358f7bb-3349-4732-a7aa-0349e8c9e801"
+   "name": "1csmn",
+   "uuid": "68a685cd-2707-4c97-a95f-748b9fe6f5f8"
   },
   "nation": {
-   "name": "Micronesia",
-   "uuid": "478aa4e0-e72d-441e-a2f1-0e543f41cb5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1790635568029,
-   "joinedNationAt": 1790635586437,
+   "registered": 1794528080227,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,39 +80,56 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44795.34639132218,
-    "y": 63.0,
-    "z": 7406.592716637814,
-    "pitch": 4.16574,
-    "yaw": -178.1131
+    "x": 53239.55975885012,
+    "y": 64.0,
+    "z": -21959.94528718298,
+    "pitch": 47.24993,
+    "yaw": 90.977234
    },
    "homeBlock": [
-    2799,
-    462
+    3327,
+    -1373
    ],
    "townBlocks": [
     [
-     2799,
-     462
+     3327,
+     -1374
     ],
     [
-     2800,
-     463
+     3327,
+     -1373
     ],
     [
-     2799,
-     463
+     3327,
+     -1372
+    ],
+    [
+     3328,
+     -1374
+    ],
+    [
+     3328,
+     -1373
+    ],
+    [
+     3328,
+     -1372
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "DancingGrandpa",
-    "uuid": "6358f7bb-3349-4732-a7aa-0349e8c9e801"
+    "name": "1csmn",
+    "uuid": "68a685cd-2707-4c97-a95f-748b9fe6f5f8"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "NOTkaren7397",
+    "uuid": "111ceaf2-f3d3-4e49-a1f7-4148424d879f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

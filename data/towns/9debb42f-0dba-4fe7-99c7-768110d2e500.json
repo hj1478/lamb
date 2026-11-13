@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
-  "name": "Nexora",
-  "uuid": "7b69c6cb-ec78-4f05-9405-03a1170e1bb6",
+  "name": "Linkoping",
+  "uuid": "9debb42f-0dba-4fe7-99c7-768110d2e500",
   "board": "/town set board [msg]",
-  "founder": "oSkely",
+  "founder": "tyurww",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "BylethSEisner",
-   "uuid": "ee4966bf-b70b-4ceb-84ad-01ee433e942d"
+   "name": "tyurww",
+   "uuid": "71edae70-7702-4366-826c-805a2b3c9ae6"
   },
   "nation": {
-   "name": "Khabarovsk",
-   "uuid": "652e8d9e-ae48-4381-8a48-e487bd2780dc"
+   "name": "Sweden",
+   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
   },
   "timestamps": {
-   "registered": 1785787842630,
-   "joinedNationAt": 1786257311136,
+   "registered": 1794578249279,
+   "joinedNationAt": 1794578259686,
    "ruinedAt": null
   },
   "status": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,46 +80,38 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44084.49748277462,
-    "y": -11.9375,
-    "z": -11472.00370877383,
-    "pitch": -0.690965,
-    "yaw": -89.88757
+    "x": 5607.8012689462485,
+    "y": 65.0,
+    "z": -15399.994915442365,
+    "pitch": 27.449974,
+    "yaw": -178.05542
    },
    "homeBlock": [
-    2755,
-    -718
+    350,
+    -963
    ],
    "townBlocks": [
     [
-     2756,
-     -718
-    ],
-    [
-     2756,
-     -717
-    ],
-    [
-     2755,
-     -717
-    ],
-    [
-     2755,
-     -718
+     350,
+     -963
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "BylethSEisner",
-    "uuid": "ee4966bf-b70b-4ceb-84ad-01ee433e942d"
+    "name": "tyurww",
+    "uuid": "71edae70-7702-4366-826c-805a2b3c9ae6"
+   },
+   {
+    "name": "Mr_Vardon",
+    "uuid": "35922509-bee7-4f1e-b083-bf660b7a7d5c"
    }
   ],
   "trusted": [
    {
-    "name": "BylethSEisner",
-    "uuid": "ee4966bf-b70b-4ceb-84ad-01ee433e942d"
+    "name": "Mr_Vardon",
+    "uuid": "35922509-bee7-4f1e-b083-bf660b7a7d5c"
    }
   ],
   "outlaws": [],

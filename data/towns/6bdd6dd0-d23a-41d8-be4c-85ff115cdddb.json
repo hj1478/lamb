@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Bread",
   "uuid": "6bdd6dd0-d23a-41d8-be4c-85ff115cdddb",
@@ -12,12 +12,12 @@
    "uuid": "7028b430-cede-4ed1-a659-3de87de75ab6"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Madagascar",
+   "uuid": "44f40831-d34f-49e0-a166-46401ad604c4"
   },
   "timestamps": {
    "registered": 1794101303242,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794450489223,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 4,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 60,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 105.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,17 +74,17 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14764.699466764803,
-    "y": 64.0,
-    "z": 15755.52106606169,
-    "pitch": 29.250069,
-    "yaw": -95.82715
+    "x": 14758.426300257617,
+    "y": -40.0,
+    "z": 15755.50388262031,
+    "pitch": 90.0,
+    "yaw": -88.78081
    },
    "homeBlock": [
     922,
@@ -94,6 +94,18 @@
     [
      922,
      984
+    ],
+    [
+     923,
+     985
+    ],
+    [
+     923,
+     984
+    ],
+    [
+     922,
+     985
     ]
    ],
    "worlds": {}
@@ -102,16 +114,42 @@
    {
     "name": "GodsBreads",
     "uuid": "7028b430-cede-4ed1-a659-3de87de75ab6"
+   },
+   {
+    "name": "Ulcik",
+    "uuid": "079076ef-d2ff-4e7f-9274-c882fb99808f"
+   },
+   {
+    "name": "pking3",
+    "uuid": "02861e73-ec4f-4c70-b9db-ac1e97b3f8ff"
+   },
+   {
+    "name": "KBKILLSYOU123",
+    "uuid": "cc9efcbe-db86-4388-9890-9cf15c37d2a2"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Ulcik",
+     "uuid": "079076ef-d2ff-4e7f-9274-c882fb99808f"
+    },
+    {
+     "name": "KBKILLSYOU123",
+     "uuid": "cc9efcbe-db86-4388-9890-9cf15c37d2a2"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "pking3",
+     "uuid": "02861e73-ec4f-4c70-b9db-ac1e97b3f8ff"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

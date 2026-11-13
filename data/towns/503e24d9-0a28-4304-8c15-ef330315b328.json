@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Engrosia",
   "uuid": "503e24d9-0a28-4304-8c15-ef330315b328",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 46,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 1,
+   "numResidents": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 116.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,7 +92,27 @@
    ],
    "townBlocks": [
     [
+     -1942,
+     225
+    ],
+    [
+     -1942,
+     226
+    ],
+    [
+     -1944,
+     227
+    ],
+    [
+     -1944,
+     226
+    ],
+    [
      -1943,
+     224
+    ],
+    [
+     -1945,
      224
     ],
     [
@@ -104,7 +124,7 @@
      226
     ],
     [
-     -1943,
+     -1945,
      225
     ],
     [
@@ -112,8 +132,20 @@
      224
     ],
     [
-     -1944,
-     226
+     -1943,
+     225
+    ],
+    [
+     -1943,
+     228
+    ],
+    [
+     -1942,
+     227
+    ],
+    [
+     -1943,
+     227
     ]
    ],
    "worlds": {}
@@ -126,9 +158,17 @@
    {
     "name": "4thNorwegian",
     "uuid": "c4decd6f-d982-40a2-b615-52d0c44aa4fc"
+   },
+   {
+    "name": "FlutterinBreeze",
+    "uuid": "567d7125-5005-4897-aff3-b47c3d7fec29"
    }
   ],
   "trusted": [
+   {
+    "name": "FlutterinBreeze",
+    "uuid": "567d7125-5005-4897-aff3-b47c3d7fec29"
+   },
    {
     "name": "HUGE_STINKER_",
     "uuid": "25ce7772-13eb-42b6-a7e0-4819f3cc7761"
@@ -137,7 +177,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "FlutterinBreeze",
+     "uuid": "567d7125-5005-4897-aff3-b47c3d7fec29"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

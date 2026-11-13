@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Tu",
   "uuid": "6334fb12-b3ec-4fed-9c7e-68728ab586f2",
-  "board": "/town set board [msg]",
+  "board": "Its a bit chilly up here",
   "founder": "MalMeteor",
   "wiki": null,
   "discord": null,
@@ -12,7 +12,7 @@
    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
   },
   "nation": {
-   "name": "Novaya_Zemlya",
+   "name": "Vaygach",
    "uuid": "cd60a093-c205-4e56-b698-2f9e756646ce"
   },
   "timestamps": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "numResidents": 5,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 21255.564192934668,
+    "x": 21229.411112855843,
     "y": 63.0,
-    "z": -22441.433186478458,
-    "pitch": 1.4999858,
-    "yaw": 1.0523179
+    "z": -22441.517995912815,
+    "pitch": 4.500003,
+    "yaw": 88.79462
    },
    "homeBlock": [
-    1328,
+    1326,
     -1403
    ],
    "townBlocks": [
@@ -102,6 +102,10 @@
     [
      1331,
      -1401
+    ],
+    [
+     1328,
+     -1404
     ],
     [
      1325,
@@ -140,6 +144,10 @@
      -1401
     ],
     [
+     1327,
+     -1400
+    ],
+    [
      1329,
      -1402
     ],
@@ -160,11 +168,23 @@
      -1403
     ],
     [
+     1333,
+     -1401
+    ],
+    [
      1330,
      -1402
     ],
     [
+     1333,
+     -1402
+    ],
+    [
      1328,
+     -1400
+    ],
+    [
+     1332,
      -1400
     ],
     [
@@ -176,12 +196,12 @@
      -1401
     ],
     [
-     1330,
-     -1400
-    ],
-    [
      1328,
      -1401
+    ],
+    [
+     1330,
+     -1400
     ],
     [
      1326,
@@ -210,6 +230,14 @@
    {
     "name": "wwwquailx",
     "uuid": "2f1f9a0f-7755-4fca-87c6-f453afcb5dec"
+   },
+   {
+    "name": "ege",
+    "uuid": "fea2fdde-bab9-491b-bda8-6f749c85f944"
+   },
+   {
+    "name": "Gundread",
+    "uuid": "d330d50d-cbba-4b80-b9d7-a8ed63ea3d64"
    }
   ],
   "trusted": [
@@ -220,10 +248,6 @@
    {
     "name": "Rubin808",
     "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
-   },
-   {
-    "name": "kalqev",
-    "uuid": "e648558e-9528-49b1-b537-7ec33170c860"
    },
    {
     "name": "Unknown40",

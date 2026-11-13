@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Pornic",
   "uuid": "6875da7d-ac8b-4020-beac-6e231ef39a30",
   "board": "/town set board [msg]",
   "founder": "hortlakk",
   "wiki": null,
-  "discord": null,
+  "discord": "https://discord.gg/PAcggyCaS",
   "mayor": {
    "name": "Panawells",
    "uuid": "4a10ff64-2e0d-4f90-81a6-b9fd147d7c22"
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 9,
-   "numTrusted": 10,
-   "numOutlaws": 3,
+   "numTrusted": 5,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -728.6574235440153,
-    "y": 63.0,
-    "z": -10124.603173521762,
-    "pitch": 9.284586,
-    "yaw": -63.98697
+    "x": -639.844032645802,
+    "y": 64.0,
+    "z": -10135.92521600777,
+    "pitch": 21.90004,
+    "yaw": -88.288574
    },
    "homeBlock": [
-    -46,
-    -633
+    -40,
+    -634
    ],
    "townBlocks": [
     [
@@ -1088,14 +1088,6 @@
     "uuid": "ef487b0b-8737-41f8-ad93-bfba8e231a19"
    },
    {
-    "name": "Roosterderek",
-    "uuid": "f0514ce8-75bf-4768-842b-ee9e2a51b957"
-   },
-   {
-    "name": "LUC_02304",
-    "uuid": "3211e317-9773-4e8a-8961-c681d36d8e28"
-   },
-   {
     "name": "P4blett3",
     "uuid": "44ce513c-e8e6-4b88-bcbb-1eefcf0bc3cc"
    },
@@ -1118,6 +1110,14 @@
    {
     "name": "Panawells",
     "uuid": "4a10ff64-2e0d-4f90-81a6-b9fd147d7c22"
+   },
+   {
+    "name": "RataDeGym",
+    "uuid": "bbdf6a96-ce84-4e66-97a9-ed2688e87123"
+   },
+   {
+    "name": "KptJacquesParrot",
+    "uuid": "b88106c2-8d56-4afb-be94-d777c8d5e848"
    }
   ],
   "trusted": [
@@ -1126,40 +1126,20 @@
     "uuid": "9c0dfd99-d7b1-4f7b-b32d-1bddc10f94a1"
    },
    {
-    "name": "OGChefStokes",
-    "uuid": "4c9da8a1-58d5-4921-93e3-f2fa17a7e907"
-   },
-   {
-    "name": "Ravocy_",
-    "uuid": "8358d434-edd1-4614-9b39-b0fc2967bdf9"
-   },
-   {
-    "name": "_talvi",
-    "uuid": "e8aa2277-52aa-42cb-9295-1978a80e50eb"
-   },
-   {
-    "name": "Loutre_Honnete",
-    "uuid": "36c1eda7-a686-4d2c-b64c-0ca8b05f2722"
+    "name": "Ayskow",
+    "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
    },
    {
     "name": "IRexC",
     "uuid": "7cc8eb11-7916-428f-a271-e0c628552215"
    },
    {
-    "name": "LordApplez",
-    "uuid": "e308ab82-5cf8-458b-8ad7-feaf09dfe989"
-   },
-   {
-    "name": "Master_Utqqq",
-    "uuid": "e7f3a998-61ae-4dad-85f1-abd8d4ce61c3"
+    "name": "BackToBunny",
+    "uuid": "5c7066a6-e00d-4882-9f3c-603783b9c0d0"
    },
    {
     "name": "Pelle_Nomme",
     "uuid": "96722925-6c17-4f31-81e0-47eb156f2578"
-   },
-   {
-    "name": "Krimb",
-    "uuid": "5e55e72a-53ff-4e52-a17c-b4ab111b93e1"
    }
   ],
   "outlaws": [
@@ -1174,6 +1154,10 @@
    {
     "name": "SceptixOff",
     "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
+   },
+   {
+    "name": "Martinoudu62",
+    "uuid": "70e766be-4630-49e2-bf4e-ddfa645fb6cc"
    }
   ],
   "quarters": [],

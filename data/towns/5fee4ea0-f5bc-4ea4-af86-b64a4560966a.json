@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Barentsoya",
   "uuid": "5fee4ea0-f5bc-4ea4-af86-b64a4560966a",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
+   "numTownBlocks": 26,
    "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 4,
    "numTrusted": 11,
    "numOutlaws": 1,
-   "balance": 52.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,56 @@
    ],
    "townBlocks": [
     [
-     470,
+     473,
+     -1776
+    ],
+    [
+     473,
+     -1773
+    ],
+    [
+     473,
+     -1774
+    ],
+    [
+     473,
+     -1775
+    ],
+    [
+     474,
+     -1774
+    ],
+    [
+     474,
+     -1775
+    ],
+    [
+     469,
+     -1773
+    ],
+    [
+     469,
+     -1772
+    ],
+    [
+     469,
+     -1775
+    ],
+    [
+     469,
+     -1774
+    ],
+    [
+     469,
      -1776
     ],
     [
      472,
      -1775
+    ],
+    [
+     470,
+     -1776
     ],
     [
      470,
@@ -124,31 +168,15 @@
      -1773
     ],
     [
-     469,
-     -1773
-    ],
-    [
      471,
      -1776
     ],
     [
-     469,
-     -1772
-    ],
-    [
      471,
      -1775
     ],
     [
-     469,
-     -1775
-    ],
-    [
      471,
-     -1774
-    ],
-    [
-     469,
      -1774
     ],
     [
@@ -162,10 +190,6 @@
     [
      472,
      -1773
-    ],
-    [
-     469,
-     -1776
     ],
     [
      472,
@@ -175,10 +199,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "ElLanny",
-    "uuid": "da526be3-89c1-4381-864a-f643923d0ec4"
-   },
    {
     "name": "VreikOG",
     "uuid": "388c7fa8-6720-4d33-891e-5cd812d93206"
@@ -190,6 +210,10 @@
    {
     "name": "Rustymach56",
     "uuid": "ff47fd53-77e1-4e3f-85a8-90eb39385775"
+   },
+   {
+    "name": "miniwolf1545",
+    "uuid": "d12000e1-6067-4209-b6c7-94e7b3b24f10"
    }
   ],
   "trusted": [
@@ -257,7 +281,12 @@
      "uuid": "388c7fa8-6720-4d33-891e-5cd812d93206"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "miniwolf1545",
+     "uuid": "d12000e1-6067-4209-b6c7-94e7b3b24f10"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

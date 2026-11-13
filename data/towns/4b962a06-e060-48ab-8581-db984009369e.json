@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T14:23:54Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Greenlands_Guild",
   "uuid": "4b962a06-e060-48ab-8581-db984009369e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -59,9 +59,9 @@
     false
    ],
    "switch": [
-    true,
-    true,
-    true,
+    false,
+    false,
+    false,
     false
    ],
    "itemUse": [
@@ -161,6 +161,10 @@
     ],
     [
      -887,
+     -1539
+    ],
+    [
+     -887,
      -1536
     ],
     [
@@ -230,6 +234,10 @@
    {
     "name": "AnomalyDecay",
     "uuid": "a00fda73-f2a8-4e46-b73b-aa46ad297079"
+   },
+   {
+    "name": "arvatarvee00",
+    "uuid": "04f3cec8-f8bd-4d9d-a06a-37c52786e08f"
    }
   ],
   "trusted": [],

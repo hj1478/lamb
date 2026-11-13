@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Wani",
   "uuid": "60b21d86-2221-4082-bbc1-e5e630e4be56",
@@ -12,12 +12,12 @@
    "uuid": "8cbc3a4f-b052-42b0-8f47-de31f5258610"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Lanfang",
+   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
   },
   "timestamps": {
    "registered": 1794117059278,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794233394286,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,21 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40027.5084280546,
+    "x": 40024.63366063061,
     "y": 63.0,
-    "z": 7040.319912327757,
-    "pitch": 38.69999,
-    "yaw": -177.86623
+    "z": 7049.60749817977,
+    "pitch": -4.3499713,
+    "yaw": 179.43439
    },
    "homeBlock": [
     2501,
     440
    ],
    "townBlocks": [
+    [
+     2501,
+     439
+    ],
     [
      2501,
      440

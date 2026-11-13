@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-13T14:42:16Z",
  "data": {
   "name": "Chud_Aviv",
   "uuid": "6e13c04c-4a2b-4607-98f1-6aca696c0e4e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 11,
    "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "numOutlaws": 4,
+   "balance": 23.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33098.69999998808,
-    "y": 65.0,
-    "z": -9048.47457458282,
-    "pitch": 83.69997,
-    "yaw": 90.70508
+    "x": -33092.38663971508,
+    "y": 63.0,
+    "z": -9055.672088461368,
+    "pitch": 1.64981,
+    "yaw": -89.29144
    },
    "homeBlock": [
     -2069,
@@ -92,12 +92,48 @@
    ],
    "townBlocks": [
     [
+     -2068,
+     -565
+    ],
+    [
+     -2069,
+     -568
+    ],
+    [
+     -2069,
+     -565
+    ],
+    [
+     -2070,
+     -567
+    ],
+    [
+     -2069,
+     -567
+    ],
+    [
+     -2070,
+     -568
+    ],
+    [
      -2069,
      -566
     ],
     [
+     -2070,
+     -565
+    ],
+    [
      -2068,
      -566
+    ],
+    [
+     -2070,
+     -566
+    ],
+    [
+     -2068,
+     -567
     ]
    ],
    "worlds": {}
@@ -113,7 +149,24 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Clocksmith",
+    "uuid": "cc6e7a41-17e1-4c5d-a213-e638da113bbb"
+   },
+   {
+    "name": "Jspry8403",
+    "uuid": "87594f7e-3509-4e68-bf52-0ed2344f46e3"
+   },
+   {
+    "name": "Auovas",
+    "uuid": "2be034de-7939-49eb-8b23-e8e3fd6deef4"
+   },
+   {
+    "name": "BaaBaaBlackSheep",
+    "uuid": "7c78c201-70ec-43f2-bbf0-60c27e973056"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
