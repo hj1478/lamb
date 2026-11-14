@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Maastricht",
   "uuid": "8e00c095-7c3f-41c1-860c-54118fc9e1fb",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 107,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 2,
-   "numOutlaws": 2,
+   "numResidents": 5,
+   "numTrusted": 3,
+   "numOutlaws": 4,
    "balance": 2.0,
    "forSalePrice": null
   },
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3109.437941359332,
-    "y": 63.0,
-    "z": -13047.839111579076,
-    "pitch": 17.400024,
-    "yaw": -83.9978
+    "x": 3087.7436788035748,
+    "y": 62.9375,
+    "z": -13018.729557121342,
+    "pitch": 51.72111,
+    "yaw": -172.92429
    },
    "homeBlock": [
-    194,
-    -816
+    192,
+    -814
    ],
    "townBlocks": [
     [
@@ -152,20 +152,20 @@
      -810
     ],
     [
-     191,
-     -811
-    ],
-    [
      194,
      -808
     ],
     [
      191,
-     -812
+     -811
     ],
     [
      194,
      -807
+    ],
+    [
+     191,
+     -812
     ],
     [
      191,
@@ -188,12 +188,12 @@
      -812
     ],
     [
-     194,
-     -811
-    ],
-    [
      191,
      -816
+    ],
+    [
+     194,
+     -811
     ],
     [
      194,
@@ -428,16 +428,12 @@
      -808
     ],
     [
-     195,
-     -809
-    ],
-    [
      192,
      -809
     ],
     [
      195,
-     -810
+     -809
     ],
     [
      192,
@@ -445,7 +441,7 @@
     ],
     [
      195,
-     -811
+     -810
     ],
     [
      192,
@@ -453,7 +449,7 @@
     ],
     [
      195,
-     -812
+     -811
     ],
     [
      190,
@@ -461,11 +457,11 @@
     ],
     [
      195,
-     -813
+     -812
     ],
     [
      195,
-     -814
+     -813
     ],
     [
      190,
@@ -473,11 +469,15 @@
     ],
     [
      195,
-     -815
+     -814
     ],
     [
      190,
      -809
+    ],
+    [
+     195,
+     -815
     ],
     [
      195,
@@ -532,18 +532,30 @@
     "uuid": "21d71863-3f0a-435b-8f5a-573479931954"
    },
    {
-    "name": "Tomino1CZ",
-    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+    "name": "Tuna9056",
+    "uuid": "25f0ef40-4ff6-4a66-b2e7-45f1b809370a"
+   },
+   {
+    "name": "Iain_22",
+    "uuid": "50eecb7b-7c11-45f5-bcff-1dc86c143dcc"
+   },
+   {
+    "name": "La1ds",
+    "uuid": "cd864131-0029-4496-9645-691c2aa3f650"
    }
   ],
   "trusted": [
    {
-    "name": "Tomino1CZ",
-    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+    "name": "Tuna9056",
+    "uuid": "25f0ef40-4ff6-4a66-b2e7-45f1b809370a"
    },
    {
-    "name": "zjzjz",
-    "uuid": "86084207-72d0-4b7e-b626-584c8acc1e5d"
+    "name": "MattieMirakel",
+    "uuid": "502f8595-d724-4d43-b9c0-79950281abae"
+   },
+   {
+    "name": "Iain_22",
+    "uuid": "50eecb7b-7c11-45f5-bcff-1dc86c143dcc"
    }
   ],
   "outlaws": [
@@ -554,6 +566,14 @@
    {
     "name": "Hamo25",
     "uuid": "0f268d2c-40e8-42f6-991b-81ce89bf4c33"
+   },
+   {
+    "name": "Tomino1CZ",
+    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+   },
+   {
+    "name": "Kevin_dutz",
+    "uuid": "21ef03a3-e3c7-4ce9-b8db-5cfe7ba6d8b4"
    }
   ],
   "quarters": [],

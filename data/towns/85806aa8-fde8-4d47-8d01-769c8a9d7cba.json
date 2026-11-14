@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Easter_Island",
   "uuid": "85806aa8-fde8-4d47-8d01-769c8a9d7cba",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 3,
    "balance": 150.0,
@@ -194,6 +194,10 @@
    {
     "name": "TrapDane",
     "uuid": "03f8886d-f616-46ca-a238-e0920e10ce6c"
+   },
+   {
+    "name": "essbea",
+    "uuid": "3078a10b-263f-42da-bf3c-35dc225d078c"
    }
   ],
   "trusted": [

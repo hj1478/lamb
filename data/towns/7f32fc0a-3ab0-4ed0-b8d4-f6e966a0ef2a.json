@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Gondar",
   "uuid": "7f32fc0a-3ab0-4ed0-b8d4-f6e966a0ef2a",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 51,
+   "numTownBlocks": 53,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 3,
-   "balance": 9.0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -248,6 +248,10 @@
      188
     ],
     [
+     851,
+     189
+    ],
+    [
      866,
      189
     ],
@@ -282,6 +286,10 @@
     [
      853,
      189
+    ],
+    [
+     854,
+     186
     ],
     [
      853,

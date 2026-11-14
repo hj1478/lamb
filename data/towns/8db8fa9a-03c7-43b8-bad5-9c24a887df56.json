@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Oasis",
   "uuid": "8db8fa9a-03c7-43b8-bad5-9c24a887df56",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Sororia",
-   "uuid": "10d84da5-8829-44fb-9893-d9262e4645b7"
+   "name": "NPC10",
+   "uuid": "cd428cfa-375b-20cb-9ffb-64120bb34ab0"
   },
   "nation": {
-   "name": "Sicily",
-   "uuid": "f58a652f-7b66-446f-9fe7-5fa233d03630"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778566771433,
-   "joinedNationAt": 1781616129566,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794654001272
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 58,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 31.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -328,16 +328,11 @@
   },
   "residents": [
    {
-    "name": "Sororia",
-    "uuid": "10d84da5-8829-44fb-9893-d9262e4645b7"
+    "name": "NPC10",
+    "uuid": "cd428cfa-375b-20cb-9ffb-64120bb34ab0"
    }
   ],
-  "trusted": [
-   {
-    "name": "Sororia",
-    "uuid": "10d84da5-8829-44fb-9893-d9262e4645b7"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "FrothierTuba298",

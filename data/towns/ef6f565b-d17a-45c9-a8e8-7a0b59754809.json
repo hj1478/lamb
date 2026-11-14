@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-14T13:38:44Z",
+ "data": {
+  "name": "Luigiville",
+  "uuid": "ef6f565b-d17a-45c9-a8e8-7a0b59754809",
+  "board": "/town set board [msg]",
+  "founder": "LuigiIsCool1234",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC94",
+   "uuid": "cc50bd40-eef2-209c-9f28-c03e0658d689"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794616607650,
+   "joinedNationAt": null,
+   "ruinedAt": 1794617636313
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": -41325.204588212604,
+    "y": 91.0,
+    "z": -5704.39275433227,
+    "pitch": 19.459862,
+    "yaw": -118.302826
+   },
+   "homeBlock": [
+    -2583,
+    -357
+   ],
+   "townBlocks": [
+    [
+     -2583,
+     -357
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC94",
+    "uuid": "cc50bd40-eef2-209c-9f28-c03e0658d689"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

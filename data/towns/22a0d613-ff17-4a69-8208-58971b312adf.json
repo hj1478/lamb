@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-14T13:38:44Z",
+ "data": {
+  "name": "Yonaguni_Island",
+  "uuid": "22a0d613-ff17-4a69-8208-58971b312adf",
+  "board": "/town set board [msg]",
+  "founder": "osyondesuyo",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC113",
+   "uuid": "4ce9347b-2ab9-20a9-9e72-bf29115a4c46"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794660009713,
+   "joinedNationAt": null,
+   "ruinedAt": 1794660979230
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 44076.73738185414,
+    "y": 63.0,
+    "z": -932.1197795615068,
+    "pitch": 39.280914,
+    "yaw": 1.6572877
+   },
+   "homeBlock": [
+    2754,
+    -59
+   ],
+   "townBlocks": [
+    [
+     2754,
+     -59
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC113",
+    "uuid": "4ce9347b-2ab9-20a9-9e72-bf29115a4c46"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

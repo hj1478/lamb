@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Liepaja",
   "uuid": "76bfcf96-e07c-40e9-bf50-5c194d27c358",
@@ -25,23 +25,23 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 210,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 208,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 3,
-   "numOutlaws": 5,
+   "numResidents": 9,
+   "numTrusted": 2,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7576.518881208785,
-    "y": 64.0,
-    "z": -14842.704986072906,
-    "pitch": 89.8849,
-    "yaw": 3.6123047
+    "x": 7591.913440778381,
+    "y": 58.0,
+    "z": -14855.835373923917,
+    "pitch": 10.354278,
+    "yaw": -89.384254
    },
    "homeBlock": [
-    473,
-    -928
+    474,
+    -929
    ],
    "townBlocks": [
     [
@@ -956,10 +956,6 @@
     "uuid": "fa45fb88-6bfe-4234-aaad-bc74c3c6438e"
    },
    {
-    "name": "Yossilaher",
-    "uuid": "75f62165-02da-483d-9b56-8fe77824672a"
-   },
-   {
     "name": "ShadowK_12",
     "uuid": "b77dc1e6-6a4e-43ad-aa1e-7255e11529a5"
    },
@@ -978,10 +974,6 @@
   ],
   "trusted": [
    {
-    "name": "whatmilo",
-    "uuid": "d0a28ee2-00e8-43c5-91ae-a61922bfe88f"
-   },
-   {
     "name": "Huxf",
     "uuid": "18ad8bc8-0f2f-40c9-8653-56b3ab1a5895"
    },
@@ -992,24 +984,12 @@
   ],
   "outlaws": [
    {
-    "name": "BIG_ALL_IN",
-    "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
-   },
-   {
     "name": "Turtleundercover",
     "uuid": "968f5874-7709-4212-908c-454a255e67ba"
    },
    {
     "name": "BrennanW1",
     "uuid": "6020a12c-cf01-473e-ab93-163b9dcad83d"
-   },
-   {
-    "name": "ssoybean",
-    "uuid": "ccd42cb1-1baf-42e3-84e2-3b3e18122cc7"
-   },
-   {
-    "name": "SpyingBigfoot39",
-    "uuid": "43d05a08-7fa0-4fb5-9e5f-a19679e2acd2"
    }
   ],
   "quarters": [

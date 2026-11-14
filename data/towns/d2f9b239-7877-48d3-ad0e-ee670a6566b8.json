@@ -1,0 +1,132 @@
+{
+ "fetched_at": "2026-11-14T13:38:44Z",
+ "data": {
+  "name": "New_Warsaw",
+  "uuid": "d2f9b239-7877-48d3-ad0e-ee670a6566b8",
+  "board": "/town set board [msg]",
+  "founder": "Gerwazy420",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NPC93",
+   "uuid": "5381b6c0-3ae1-205a-8106-c9e982bfb522"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794605511853,
+   "joinedNationAt": null,
+   "ruinedAt": 1794609696787
+  },
+  "status": {
+   "isPublic": false,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": true,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "destroy": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "switch": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "itemUse": [
+    true,
+    true,
+    true,
+    true
+   ],
+   "flags": {
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 9322.221661614965,
+    "y": 63.0,
+    "z": -16772.95800852552,
+    "pitch": 18.68486,
+    "yaw": 6.7769585
+   },
+   "homeBlock": [
+    582,
+    -1049
+   ],
+   "townBlocks": [
+    [
+     582,
+     -1049
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NPC93",
+    "uuid": "5381b6c0-3ae1-205a-8106-c9e982bfb522"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "Axrielle",
+    "uuid": "a23a939c-d450-4242-8f6d-11c8cb0ece6b"
+   },
+   {
+    "name": "Kyle_Bordeaux",
+    "uuid": "c48452d7-14fa-45ca-8c8d-00a230b05952"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

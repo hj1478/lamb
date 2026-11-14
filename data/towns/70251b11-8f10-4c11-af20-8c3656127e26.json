@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Jurassic_Housing",
   "uuid": "70251b11-8f10-4c11-af20-8c3656127e26",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "laconic5",
-   "uuid": "f9c53bd4-c060-4b69-818e-81bce0358a75"
+   "name": "NPC17",
+   "uuid": "1a864a01-4753-20a4-8090-496b1e1db5f2"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783442179342,
-   "joinedNationAt": 1783614308845,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794481201273
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 42,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -264,8 +264,8 @@
   },
   "residents": [
    {
-    "name": "laconic5",
-    "uuid": "f9c53bd4-c060-4b69-818e-81bce0358a75"
+    "name": "NPC17",
+    "uuid": "1a864a01-4753-20a4-8090-496b1e1db5f2"
    }
   ],
   "trusted": [],

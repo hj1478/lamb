@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "BikiniBottom",
   "uuid": "75a9d686-46f5-4982-b319-0fab78bd6ca7",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33242.15021596441,
+    "x": -33258.75869055233,
     "y": 63.0,
-    "z": 2538.8378671849537,
-    "pitch": 21.397919,
-    "yaw": 84.483765
+    "z": 2536.618426980067,
+    "pitch": 0.19979072,
+    "yaw": -160.69298
    },
    "homeBlock": [
-    -2078,
+    -2079,
     158
    ],
    "townBlocks": [
@@ -136,12 +136,12 @@
      157
     ],
     [
-     -2077,
-     158
-    ],
-    [
      -2079,
      160
+    ],
+    [
+     -2077,
+     158
     ],
     [
      -2079,

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Tunnelrats",
   "uuid": "78a05aaa-a7c5-49a3-9a77-a3cb8b73b086",
-  "board": "Terraforming in progress.",
+  "board": "terraforming in progress",
   "founder": "Sublette",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 9,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 64.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,24 +73,32 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4832.46225778632,
+    "x": 4833.542801845742,
     "y": 65.0,
-    "z": -12579.307402190123,
-    "pitch": 45.000027,
-    "yaw": -31.791964
+    "z": -12593.362500736868,
+    "pitch": 88.20001,
+    "yaw": 164.71094
    },
    "homeBlock": [
     302,
-    -787
+    -788
    ],
    "townBlocks": [
+    [
+     301,
+     -787
+    ],
+    [
+     301,
+     -788
+    ],
     [
      301,
      -789
@@ -100,12 +108,20 @@
      -789
     ],
     [
+     303,
+     -788
+    ],
+    [
      302,
      -789
     ],
     [
      302,
      -788
+    ],
+    [
+     303,
+     -787
     ],
     [
      302,

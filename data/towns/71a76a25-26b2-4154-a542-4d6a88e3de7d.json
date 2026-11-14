@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Karaganda",
   "uuid": "71a76a25-26b2-4154-a542-4d6a88e3de7d",
@@ -12,12 +12,12 @@
    "uuid": "72d96d44-9775-4341-ada9-2247c4ed6f5b"
   },
   "nation": {
-   "name": "Uzbekistan",
-   "uuid": "21e7f3c4-a4d2-4b30-a790-550d87505d9b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793238082473,
-   "joinedNationAt": 1793254939150,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 156,
-   "maxTownBlocks": 142,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 11,
+   "nationBonus": 0,
+   "numResidents": 9,
    "numTrusted": 9,
    "numOutlaws": 0,
-   "balance": 476.0,
+   "balance": 1743.0,
    "forSalePrice": null
   },
   "perms": {
@@ -740,10 +740,6 @@
     "uuid": "14f3dc19-3af0-421f-be66-897056382e77"
    },
    {
-    "name": "artisansGrimoire",
-    "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
-   },
-   {
     "name": "ChefCatt",
     "uuid": "28078136-9e39-4579-be50-2bb1b0b0daf1"
    },
@@ -754,10 +750,6 @@
    {
     "name": "Trevor98",
     "uuid": "5cf64623-9ebc-42d1-a745-ea3eadfa56e1"
-   },
-   {
-    "name": "Scaryacha",
-    "uuid": "398e293b-518c-4721-9822-9f9a9d27f759"
    },
    {
     "name": "Z0raa_a",
@@ -805,12 +797,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "artisansGrimoire",
-     "uuid": "f71191a0-69d2-4523-8a7b-0f4945440636"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Oxford_MS",
   "uuid": "842c9404-e566-4c1c-a718-d4543b95a7ea",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 19,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31829.576547782894,
+    "x": -31830.724785943396,
     "y": 63.0,
-    "z": -4651.762499988079,
-    "pitch": 53.583996,
-    "yaw": -10.154968
+    "z": -4665.754546921418,
+    "pitch": 31.384012,
+    "yaw": -134.05513
    },
    "homeBlock": [
     -1990,
-    -291
+    -292
    ],
    "townBlocks": [
     [
@@ -104,8 +104,36 @@
      -292
     ],
     [
+     -1989,
+     -289
+    ],
+    [
+     -1992,
+     -290
+    ],
+    [
+     -1992,
+     -291
+    ],
+    [
+     -1992,
+     -289
+    ],
+    [
      -1990,
      -290
+    ],
+    [
+     -1988,
+     -290
+    ],
+    [
+     -1990,
+     -289
+    ],
+    [
+     -1988,
+     -291
     ],
     [
      -1990,
@@ -114,6 +142,18 @@
     [
      -1990,
      -291
+    ],
+    [
+     -1988,
+     -289
+    ],
+    [
+     -1991,
+     -288
+    ],
+    [
+     -1991,
+     -289
     ],
     [
      -1991,
@@ -137,7 +177,16 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "CorvoX12",
+    "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

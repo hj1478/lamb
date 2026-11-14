@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Montgomery",
   "uuid": "7cc80635-ed5d-4cf5-afdd-544305233e71",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 702,
-   "maxTownBlocks": 692,
+   "numTownBlocks": 703,
+   "maxTownBlocks": 740,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 51,
+   "numResidents": 55,
    "numTrusted": 1,
-   "numOutlaws": 2,
-   "balance": 16.0,
+   "numOutlaws": 3,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1238,6 +1238,10 @@
     [
      -1948,
      -255
+    ],
+    [
+     -1948,
+     -254
     ],
     [
      -1948,
@@ -2929,6 +2933,10 @@
     "uuid": "b42452a6-f161-44ea-bd3b-33770a1da7ac"
    },
    {
+    "name": "Ech0____",
+    "uuid": "5e30c364-034d-403e-bd88-fb4e0b3f5f5a"
+   },
+   {
     "name": "Know1___",
     "uuid": "8ee4811e-25dd-40e5-9579-9786b5e6095a"
    },
@@ -3111,6 +3119,18 @@
    {
     "name": "HRHmegatron",
     "uuid": "e6a36387-20ee-4212-af68-35acfe42ee95"
+   },
+   {
+    "name": "JessDe12",
+    "uuid": "bfc574db-3120-4e39-9cc3-2f354d3c4947"
+   },
+   {
+    "name": "5474",
+    "uuid": "6d498032-0ce1-4bb0-aaa3-8217aed55dc4"
+   },
+   {
+    "name": "Ray_FOXY",
+    "uuid": "ed654a72-f6f4-4299-ad2e-f4d29213dcaa"
    }
   ],
   "trusted": [
@@ -3127,6 +3147,10 @@
    {
     "name": "as_the_gamer",
     "uuid": "3473da73-adda-4253-b36f-0d4dfb10ed9d"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
   "quarters": [
@@ -3203,10 +3227,6 @@
     "uuid": "d2002908-f4b1-4663-bfc0-059c9d61157c"
    },
    {
-    "name": "Dull Property",
-    "uuid": "e518fcce-faf3-40ba-b0b7-35b1a926c443"
-   },
-   {
     "name": "Dingy Apartment",
     "uuid": "6d722f15-f78a-47a0-853d-7b42ab066177"
    },
@@ -3275,10 +3295,6 @@
     "uuid": "638f9e97-e44e-4bd5-8e2f-0d20caa70942"
    },
    {
-    "name": "Stylish Apartment",
-    "uuid": "af966241-c5e7-40a2-ba7b-1dadcca07c0e"
-   },
-   {
     "name": "Luxurious Property",
     "uuid": "40b2e3fc-d59e-4f66-b551-8209d265dbb4"
    },
@@ -3301,10 +3317,6 @@
    {
     "name": "Luxurious Dwelling",
     "uuid": "e5813a69-47c1-4b0d-ac0c-05b11b9e2ec5"
-   },
-   {
-    "name": "Dingy Dwelling",
-    "uuid": "fcb45629-055b-45e6-a3ce-a4f3c67695c3"
    },
    {
     "name": "Perturbing Apartment",
@@ -3337,10 +3349,6 @@
    {
     "name": "Inconvenient Suite",
     "uuid": "da304894-fe3b-4dcf-b734-96372a9006ea"
-   },
-   {
-    "name": "Inviting Tenement",
-    "uuid": "2ee26156-2a02-4ac5-a134-24b23303daff"
    },
    {
     "name": "Perturbing Suite",
@@ -3419,10 +3427,6 @@
     "uuid": "eef6f3c7-b1d4-4cf0-9a6f-9d1791d82e56"
    },
    {
-    "name": "Welcoming Tenement",
-    "uuid": "800c538f-3a2c-45c0-a6c5-67aa4f2699b5"
-   },
-   {
     "name": "Dull Apartment",
     "uuid": "c7daff30-d402-428c-b087-ed0ffbaad195"
    },
@@ -3439,12 +3443,48 @@
     "uuid": "2a43db63-384c-4d8e-b5ee-77bdb66967dd"
    },
    {
+    "name": "Dingy Flat",
+    "uuid": "2b8013c3-17b1-4298-a908-47ee45d8cc14"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "fcb45629-055b-45e6-a3ce-a4f3c67695c3"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "d7f7ca1f-cfd1-4dc9-92f3-0f5c8a8a7d8f"
+   },
+   {
+    "name": "Dingy Apartment",
+    "uuid": "15328f6c-290e-4e4f-8b2f-02d8a2d4d403"
+   },
+   {
+    "name": "Enraging Residence",
+    "uuid": "024da14a-23e9-487d-8d89-f8d4e6693408"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "29bdcb90-7cb0-454d-bbad-e38b51dc3430"
+   },
+   {
     "name": "Inviting Quarter",
     "uuid": "09a9da83-ff68-4cab-ae80-a18ea2edc285"
    },
    {
-    "name": "Dingy Flat",
-    "uuid": "2b8013c3-17b1-4298-a908-47ee45d8cc14"
+    "name": "Inviting Tenement",
+    "uuid": "2ee26156-2a02-4ac5-a134-24b23303daff"
+   },
+   {
+    "name": "Inconvenient Suite",
+    "uuid": "5bbb565e-be01-4ced-8970-10cce55e4327"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "fcdedcff-5a66-4b77-847f-22cab96e7ffe"
+   },
+   {
+    "name": "Dull Property",
+    "uuid": "e518fcce-faf3-40ba-b0b7-35b1a926c443"
    }
   ],
   "ranks": {

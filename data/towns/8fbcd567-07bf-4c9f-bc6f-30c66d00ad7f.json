@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Grenada",
   "uuid": "8fbcd567-07bf-4c9f-bc6f-30c66d00ad7f",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 44,
+   "numTownBlocks": 45,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
-   "balance": 1101.0,
+   "balance": 1076.0,
    "forSalePrice": null
   },
   "perms": {
@@ -237,6 +237,10 @@
     ],
     [
      -1380,
+     229
+    ],
+    [
+     -1380,
      228
     ],
     [
@@ -294,10 +298,6 @@
     "uuid": "0d65ff8f-d3ca-40fa-ba4a-cb8d6b6ca9a9"
    },
    {
-    "name": "Stylish Apartment",
-    "uuid": "5f8b0cf3-05b3-4d83-b7a9-dcf4940fa822"
-   },
-   {
     "name": "Dingy Residence",
     "uuid": "5ac7d125-8b63-47fa-a257-48ef62860801"
    },
@@ -336,6 +336,10 @@
    {
     "name": "Perturbing Residence",
     "uuid": "547d7528-8f0a-4bb6-a829-31b4807496a3"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "5f8b0cf3-05b3-4d83-b7a9-dcf4940fa822"
    }
   ],
   "ranks": {

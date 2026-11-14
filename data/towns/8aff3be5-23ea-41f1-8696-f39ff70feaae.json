@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Myshkin",
   "uuid": "8aff3be5-23ea-41f1-8696-f39ff70feaae",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 273,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 479.0,
+   "balance": 495.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1193,10 +1193,6 @@
   },
   "residents": [
    {
-    "name": "koj99rated",
-    "uuid": "6b2bbea8-7113-4508-8977-ca0f718fa699"
-   },
-   {
     "name": "zzzbonk",
     "uuid": "9a4e5264-28f0-4660-8913-b010b3bd3543"
    }
@@ -1249,10 +1245,6 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "koj99rated",
-     "uuid": "6b2bbea8-7113-4508-8977-ca0f718fa699"
-    },
-    {
      "name": "zzzbonk",
      "uuid": "9a4e5264-28f0-4660-8913-b010b3bd3543"
     }
@@ -1265,32 +1257,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "Shop",
-    "uuid": "de5039fe-a5da-4db9-bb0e-26f643397aba",
-    "createdAt": 1789163078935,
-    "createdBy": "koj99rated",
-    "access": "RESIDENT",
-    "location": {
-     "x": 15187,
-     "y": 48,
-     "z": -10348
-    }
-   },
-   {
-    "name": "Storage",
-    "uuid": "e5928525-b4a7-40b1-a19b-f5b5e4916ff8",
-    "createdAt": 1788718674296,
-    "createdBy": "zzzbonk",
-    "access": "RESIDENT",
-    "location": {
-     "x": 15198,
-     "y": 45,
-     "z": -10420
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

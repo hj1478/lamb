@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Evensk",
   "uuid": "71112ce0-d205-4fca-ba4a-3454c0472edd",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 54,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 9,
+   "numResidents": 4,
+   "numTrusted": 8,
    "numOutlaws": 1,
    "balance": 317.0,
    "forSalePrice": null
@@ -316,8 +316,16 @@
     "uuid": "d48fb35a-05ad-4892-abbd-3949e757eec5"
    },
    {
+    "name": "jacobche1823",
+    "uuid": "0c960595-0b81-441e-8b58-382a3ef07165"
+   },
+   {
     "name": "Masonzad1122",
     "uuid": "2cc72d19-d595-43dd-8148-ca92a3869713"
+   },
+   {
+    "name": "gremAGATHA",
+    "uuid": "f7640eb9-fd05-4f48-8901-e9f8fcd9fe1c"
    }
   ],
   "trusted": [
@@ -336,10 +344,6 @@
    {
     "name": "leonlav4",
     "uuid": "90590c52-cfdb-4ec4-b8a6-7ca5bdae5aff"
-   },
-   {
-    "name": "Be_Like",
-    "uuid": "30cc8a29-3e5b-46bd-9140-6629344d17e0"
    },
    {
     "name": "_glitch101x",
@@ -427,7 +431,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "jacobche1823",
+     "uuid": "0c960595-0b81-441e-8b58-382a3ef07165"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Adalbert_Abbey",
   "uuid": "71460912-7fdd-49cb-bb00-42c2ede067d6",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Navy_1979",
-   "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
+   "name": "Atti_737",
+   "uuid": "42d20c41-67f7-4fe0-9e04-5aa543eb6816"
   },
   "nation": {
    "name": "Papal_States",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 5,
    "numTrusted": 5,
    "numOutlaws": 0,
@@ -612,20 +612,20 @@
     "uuid": "7d3b9748-d128-4e77-8d63-655b341c2abd"
    },
    {
-    "name": "rekz90",
-    "uuid": "4d5c8a02-2580-42c6-9625-32017fd146de"
-   },
-   {
     "name": "Lickpl",
     "uuid": "1a0bd21b-445f-4bb0-b23c-741d265dddde"
    },
    {
-    "name": "Navy_1979",
-    "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
+    "name": "Mano444",
+    "uuid": "2770f5b3-469f-454c-8ba5-90058a93a51a"
    },
    {
     "name": "Zack58",
     "uuid": "8f01c04e-9276-45cd-ad6a-76b277cad40d"
+   },
+   {
+    "name": "Atti_737",
+    "uuid": "42d20c41-67f7-4fe0-9e04-5aa543eb6816"
    }
   ],
   "trusted": [
@@ -634,16 +634,16 @@
     "uuid": "891d5199-aec9-45ab-a813-7e50d8c0a4e6"
    },
    {
+    "name": "Arcanum_Maximum",
+    "uuid": "57afba5b-98a6-41be-b115-ba0f5fb9a079"
+   },
+   {
     "name": "Navy_1979",
     "uuid": "b80ff284-3935-4f7f-be12-e7d373686362"
    },
    {
     "name": "Ghiro03",
     "uuid": "4368de29-9817-41b4-a51b-1a86dabd64ec"
-   },
-   {
-    "name": "Arcanum_Maximum",
-    "uuid": "57afba5b-98a6-41be-b115-ba0f5fb9a079"
    },
    {
     "name": "Lazyfan_",
@@ -659,12 +659,7 @@
      "uuid": "1a0bd21b-445f-4bb0-b23c-741d265dddde"
     }
    ],
-   "Builder": [
-    {
-     "name": "rekz90",
-     "uuid": "4d5c8a02-2580-42c6-9625-32017fd146de"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

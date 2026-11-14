@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Ste-Marie-Dallah",
   "uuid": "7e520657-0008-4133-8131-f0c86c8ddd67",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 244,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
+   "numResidents": 11,
    "numTrusted": 0,
    "numOutlaws": 4,
-   "balance": 14.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -124,11 +124,11 @@
      -549
     ],
     [
-     134,
+     132,
      -547
     ],
     [
-     132,
+     134,
      -547
     ],
     [
@@ -178,10 +178,6 @@
    {
     "name": "WarTurtle455",
     "uuid": "d4e87d81-689c-4803-8e07-5a072885357d"
-   },
-   {
-    "name": "xLekaa",
-    "uuid": "e387f33b-8d80-4023-a128-5e507ffc728c"
    },
    {
     "name": "GayUberDriverNY",
@@ -268,25 +264,10 @@
    ],
    "Recruiter": [],
    "Police": [],
-   "Tax-exempt": [
-    {
-     "name": "rimabenzema",
-     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
-    }
-   ],
-   "Treasurer": [
-    {
-     "name": "rimabenzema",
-     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
-    }
-   ],
+   "Tax-exempt": [],
+   "Treasurer": [],
    "Realtor": [],
-   "Settler": [
-    {
-     "name": "rimabenzema",
-     "uuid": "facb5f9e-471b-4b43-99e1-bb637debe1f5"
-    }
-   ]
+   "Settler": []
   },
   "warps": [],
   "bankhistory": []

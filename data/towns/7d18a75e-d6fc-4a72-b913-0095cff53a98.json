@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Emerald_Veil",
   "uuid": "7d18a75e-d6fc-4a72-b913-0095cff53a98",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Synthstain",
-   "uuid": "1e5f534c-1115-4f16-8012-8f0a083d9dba"
+   "name": "NPC67",
+   "uuid": "e46b8676-e53f-20a4-9476-62411c07d6de"
   },
   "nation": {
-   "name": "Mauretania",
-   "uuid": "1144631f-3d54-4d8a-b107-8fb89b020cca"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778795568616,
-   "joinedNationAt": 1779396146033,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794567602391
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -352,8 +352,8 @@
   },
   "residents": [
    {
-    "name": "Synthstain",
-    "uuid": "1e5f534c-1115-4f16-8012-8f0a083d9dba"
+    "name": "NPC67",
+    "uuid": "e46b8676-e53f-20a4-9476-62411c07d6de"
    }
   ],
   "trusted": [

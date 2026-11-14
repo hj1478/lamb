@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Brunei",
   "uuid": "8caac376-45f4-4b16-9cf0-9e5f4d816008",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "numResidents": 4,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,20 +80,24 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42662.38168880712,
-    "y": 64.0,
-    "z": 4311.6456390372,
-    "pitch": 2.2177162,
-    "yaw": -26.269117
+    "x": 42679.93325884399,
+    "y": 65.0,
+    "z": 4305.050000011921,
+    "pitch": -1.3231237,
+    "yaw": 0.11324501
    },
    "homeBlock": [
-    2666,
+    2667,
     269
    ],
    "townBlocks": [
     [
      2667,
      269
+    ],
+    [
+     2665,
+     268
     ],
     [
      2666,
@@ -106,6 +110,14 @@
     [
      2666,
      267
+    ],
+    [
+     2667,
+     267
+    ],
+    [
+     2667,
+     268
     ]
    ],
    "worlds": {}
@@ -122,9 +134,18 @@
    {
     "name": "NOTEAMING_1748",
     "uuid": "016803ec-5ad2-4e8e-b87c-f873e27d61e6"
+   },
+   {
+    "name": "LunarEra",
+    "uuid": "432d8060-b89b-4251-8886-03d0838cdc6a"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "LunarEra",
+    "uuid": "432d8060-b89b-4251-8886-03d0838cdc6a"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
@@ -138,7 +159,12 @@
      "uuid": "016803ec-5ad2-4e8e-b87c-f873e27d61e6"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "LunarEra",
+     "uuid": "432d8060-b89b-4251-8886-03d0838cdc6a"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

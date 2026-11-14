@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "MMGA",
   "uuid": "90ae1e95-1a70-4543-975e-bb8355a7c293",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 49,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 29,
+   "numResidents": 2,
+   "numTrusted": 32,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -73,8 +73,8 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
-    "mobs": false
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,8 +92,200 @@
    ],
    "townBlocks": [
     [
+     2455,
+     -524
+    ],
+    [
+     2455,
+     -523
+    ],
+    [
+     2455,
+     -522
+    ],
+    [
+     2455,
+     -521
+    ],
+    [
+     2455,
+     -520
+    ],
+    [
+     2458,
+     -524
+    ],
+    [
+     2456,
+     -520
+    ],
+    [
+     2456,
+     -521
+    ],
+    [
+     2458,
+     -522
+    ],
+    [
+     2456,
+     -522
+    ],
+    [
+     2458,
+     -523
+    ],
+    [
+     2456,
+     -523
+    ],
+    [
+     2458,
+     -520
+    ],
+    [
+     2456,
+     -524
+    ],
+    [
+     2458,
+     -521
+    ],
+    [
+     2454,
+     -521
+    ],
+    [
+     2454,
+     -522
+    ],
+    [
+     2454,
+     -523
+    ],
+    [
+     2451,
+     -521
+    ],
+    [
+     2451,
+     -522
+    ],
+    [
+     2451,
+     -523
+    ],
+    [
+     2457,
+     -524
+    ],
+    [
+     2453,
+     -523
+    ],
+    [
+     2457,
+     -523
+    ],
+    [
+     2453,
+     -522
+    ],
+    [
      2457,
      -522
+    ],
+    [
+     2457,
+     -521
+    ],
+    [
+     2457,
+     -520
+    ],
+    [
+     2453,
+     -521
+    ],
+    [
+     2449,
+     -523
+    ],
+    [
+     2449,
+     -522
+    ],
+    [
+     2449,
+     -521
+    ],
+    [
+     2459,
+     -520
+    ],
+    [
+     2459,
+     -521
+    ],
+    [
+     2459,
+     -522
+    ],
+    [
+     2459,
+     -523
+    ],
+    [
+     2459,
+     -524
+    ],
+    [
+     2447,
+     -521
+    ],
+    [
+     2447,
+     -522
+    ],
+    [
+     2447,
+     -523
+    ],
+    [
+     2448,
+     -523
+    ],
+    [
+     2452,
+     -523
+    ],
+    [
+     2448,
+     -521
+    ],
+    [
+     2448,
+     -522
+    ],
+    [
+     2452,
+     -521
+    ],
+    [
+     2452,
+     -522
+    ],
+    [
+     2450,
+     -522
+    ],
+    [
+     2450,
+     -523
+    ],
+    [
+     2450,
+     -521
     ]
    ],
    "worlds": {}
@@ -102,12 +294,20 @@
    {
     "name": "Qian_Yi_Chen",
     "uuid": "7681adc9-40e8-474b-9e51-5b01b5cdbd30"
+   },
+   {
+    "name": "Bananice_99",
+    "uuid": "7756af7c-ff29-4958-b059-9ceeaa769410"
    }
   ],
   "trusted": [
    {
     "name": "FutureYun",
     "uuid": "73c21d38-0e90-4102-bb37-6d7d96e128c1"
+   },
+   {
+    "name": "Shrimp_PiPi",
+    "uuid": "b72de7c2-4ae5-4f19-8ec2-c56cf510a92f"
    },
    {
     "name": "L_cat_M",
@@ -134,6 +334,10 @@
     "uuid": "781851a5-821c-4c07-9eb8-500842eb546e"
    },
    {
+    "name": "yangxingzhe",
+    "uuid": "437797b6-6c26-47df-8c1d-e0ec8b0475d9"
+   },
+   {
     "name": "ji_mo",
     "uuid": "db9e782e-0dd2-48fa-94d1-d2b4adcc8c27"
    },
@@ -152,6 +356,10 @@
    {
     "name": "PreviousYun",
     "uuid": "c782ae9c-163f-4313-af60-3d6a1a979037"
+   },
+   {
+    "name": "K__a__i",
+    "uuid": "a12ae20e-ef49-465d-bd60-0b4234442c49"
    },
    {
     "name": "JauneMaxWell",
@@ -186,12 +394,12 @@
     "uuid": "934d993a-5289-4b24-a368-9e380f6f9255"
    },
    {
-    "name": "Ming_Judy",
-    "uuid": "24999973-b686-4d0f-919b-d492b05ead07"
+    "name": "bbdqz",
+    "uuid": "b2edf2d2-2c5c-4fe2-9e53-36718b51b780"
    },
    {
-    "name": "Kirlsaki_Chitoge",
-    "uuid": "67c81cb9-e412-453e-ba6c-3611a7e8097c"
+    "name": "Ming_Judy",
+    "uuid": "24999973-b686-4d0f-919b-d492b05ead07"
    },
    {
     "name": "AstrInk",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Yajiang_INC",
   "uuid": "87bd5e1f-4f56-415a-bb3c-e75d0e5c5cc7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "luzc",
-   "uuid": "46a7a2ae-caea-4842-8da2-7b85dc782479"
+   "name": "NPC30",
+   "uuid": "8c4e4a62-c9f3-2087-93c5-9bed68c3ee06"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1790350008633,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794481201577
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 11,
-   "maxTownBlocks": 36,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,32 +140,15 @@
   },
   "residents": [
    {
-    "name": "luzc",
-    "uuid": "46a7a2ae-caea-4842-8da2-7b85dc782479"
-   },
-   {
-    "name": "Dealyzz",
-    "uuid": "17f75c63-92b2-4288-96c8-a3910dc69532"
-   },
-   {
-    "name": "greenteatreat",
-    "uuid": "bb46f448-c7c0-4eea-b68c-51ae8bbbeaef"
+    "name": "NPC30",
+    "uuid": "8c4e4a62-c9f3-2087-93c5-9bed68c3ee06"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Dealyzz",
-     "uuid": "17f75c63-92b2-4288-96c8-a3910dc69532"
-    },
-    {
-     "name": "greenteatreat",
-     "uuid": "bb46f448-c7c0-4eea-b68c-51ae8bbbeaef"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

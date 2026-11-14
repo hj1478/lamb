@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Burghausen",
   "uuid": "862dab96-cfb8-4af2-9528-2688e157f1ae",
@@ -23,7 +23,7 @@
   "status": {
    "isPublic": true,
    "isOpen": true,
-   "isNeutral": false,
+   "isNeutral": true,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 232,
-   "maxTownBlocks": 256,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 13,
+   "numResidents": 14,
    "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 1014.0,
+   "balance": 114.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1040,10 +1040,6 @@
     "uuid": "5a2b9f23-0715-4883-83a1-658823ba7110"
    },
    {
-    "name": "HerzogEhedem",
-    "uuid": "4dddac6e-3892-4774-b740-5e64282acddb"
-   },
-   {
     "name": "Mlkzznr_MC",
     "uuid": "546ce211-0157-48c2-a070-d58659605b5e"
    },
@@ -1074,6 +1070,14 @@
    {
     "name": "Acronix_SG",
     "uuid": "14eae9bf-9e42-4f37-8c40-52871fb4c380"
+   },
+   {
+    "name": "Brabracaca",
+    "uuid": "ae5e4877-2a5f-4e47-9dae-4ad9bdd50bf0"
+   },
+   {
+    "name": "DinoBoy2012",
+    "uuid": "394d46ee-1195-4d77-b00f-7942aa7050f0"
    }
   ],
   "trusted": [
@@ -1106,48 +1110,8 @@
     "uuid": "b419509d-94b6-44bd-870e-6964b166b02d"
    },
    {
-    "name": "Public Housing 3",
-    "uuid": "4f071346-0aa6-4dd1-92e0-1393e980ef61"
-   },
-   {
     "name": "Saskes Haus",
     "uuid": "f74fbf36-8049-449a-9343-34cf91eb9c97"
-   },
-   {
-    "name": "DSA Cshop 1",
-    "uuid": "ac9d3432-59b3-4bcb-979b-21494b92ae90"
-   },
-   {
-    "name": "DSA Cshop 2",
-    "uuid": "3c610315-de11-4c30-ae44-e9170d3b84c8"
-   },
-   {
-    "name": "DSA Cshop 3",
-    "uuid": "1064480b-44f0-46e7-bf7a-5fefb4734629"
-   },
-   {
-    "name": "DSA Cshop 4",
-    "uuid": "90e5a259-8cf6-4d92-8827-2e894434c35d"
-   },
-   {
-    "name": "DSA Cshop 5",
-    "uuid": "fb84c9de-a3b5-4c4a-bb41-686fb95530ef"
-   },
-   {
-    "name": "DSA Cshop 9",
-    "uuid": "a5c98e00-b21d-4baf-850b-93af2cfb9e15"
-   },
-   {
-    "name": "DSA Cshop 8",
-    "uuid": "fb433bbc-6162-4f31-8c1f-6d6851edec77"
-   },
-   {
-    "name": "DSA Cshop 7",
-    "uuid": "32e884ec-ac4e-4e60-85a9-c5092dcb9d79"
-   },
-   {
-    "name": "DSA Cshop 6",
-    "uuid": "b748fc20-7d92-41c3-9a4a-14da1f6246fd"
    },
    {
     "name": "Burghausener Bahnhof",
@@ -1192,6 +1156,26 @@
    {
     "name": "Door",
     "uuid": "016f4d02-3b55-42f8-b8d5-e1757aa60a10"
+   },
+   {
+    "name": "Inconvenient Property",
+    "uuid": "efc0adaa-8b48-4921-b4ab-c69aad8bfe3c"
+   },
+   {
+    "name": "Brabracaca's Apartment",
+    "uuid": "4f071346-0aa6-4dd1-92e0-1393e980ef61"
+   },
+   {
+    "name": "Public Housing",
+    "uuid": "61a96484-f066-424a-8a14-6cc4160d65b4"
+   },
+   {
+    "name": "Public Housing",
+    "uuid": "0539b29a-d6c9-47da-b518-1a5c0123c491"
+   },
+   {
+    "name": "Player's Stall",
+    "uuid": "f3585b8e-cd9f-4208-9564-157d95116b35"
    }
   ],
   "ranks": {

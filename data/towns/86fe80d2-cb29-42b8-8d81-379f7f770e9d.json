@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Thalassia",
   "uuid": "86fe80d2-cb29-42b8-8d81-379f7f770e9d",
@@ -8,17 +8,17 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Liamdegrote",
-   "uuid": "eaa83b7e-674d-44c4-88c1-1660159f3e98"
+   "name": "NPC105",
+   "uuid": "4b984fd4-deb7-2026-ae27-927e2c3fe232"
   },
   "nation": {
-   "name": "Sumatra",
-   "uuid": "27e4011d-2dbf-499c-9b1b-6707f1d3d440"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1786052893881,
-   "joinedNationAt": 1789811265080,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794567600592
   },
   "status": {
    "isPublic": false,
@@ -26,9 +26,9 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -140,8 +140,8 @@
   },
   "residents": [
    {
-    "name": "Liamdegrote",
-    "uuid": "eaa83b7e-674d-44c4-88c1-1660159f3e98"
+    "name": "NPC105",
+    "uuid": "4b984fd4-deb7-2026-ae27-927e2c3fe232"
    }
   ],
   "trusted": [],

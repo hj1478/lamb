@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Lagash",
   "uuid": "7864a370-aa2b-41d3-9497-e7037ce814fd",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 67,
-   "maxTownBlocks": 144,
+   "numTownBlocks": 80,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 7,
-   "numTrusted": 7,
-   "numOutlaws": 50,
-   "balance": 0.0,
+   "nationBonus": 80,
+   "numResidents": 9,
+   "numTrusted": 14,
+   "numOutlaws": 48,
+   "balance": 26.0,
    "forSalePrice": null
   },
   "perms": {
@@ -112,12 +112,36 @@
      -228
     ],
     [
+     1060,
+     -231
+    ],
+    [
+     1060,
+     -230
+    ],
+    [
+     1060,
+     -233
+    ],
+    [
+     1060,
+     -232
+    ],
+    [
      1059,
      -229
     ],
     [
      1067,
      -227
+    ],
+    [
+     1067,
+     -228
+    ],
+    [
+     1067,
+     -229
     ],
     [
      1059,
@@ -141,11 +165,27 @@
     ],
     [
      1061,
+     -231
+    ],
+    [
+     1061,
+     -230
+    ],
+    [
+     1061,
      -229
     ],
     [
      1061,
      -228
+    ],
+    [
+     1061,
+     -233
+    ],
+    [
+     1061,
+     -232
     ],
     [
      1063,
@@ -200,6 +240,10 @@
      -230
     ],
     [
+     1068,
+     -227
+    ],
+    [
      1065,
      -226
     ],
@@ -296,6 +340,10 @@
      -229
     ],
     [
+     1062,
+     -232
+    ],
+    [
      1064,
      -224
     ],
@@ -306,6 +354,10 @@
     [
      1066,
      -228
+    ],
+    [
+     1062,
+     -233
     ],
     [
      1066,
@@ -384,18 +436,54 @@
     "uuid": "344b2ece-fa75-4ccb-8bb3-819c5760f9da"
    },
    {
-    "name": "CrimeanGuyy",
-    "uuid": "071e21d0-6bf4-4623-9898-8cc194f6802e"
-   },
-   {
     "name": "Beschurger17",
     "uuid": "6be1ed15-f76c-47f8-a9a3-02112f883e08"
+   },
+   {
+    "name": "ProfesorKirpi",
+    "uuid": "d9745968-bd3e-4ef5-93ee-e0b335873744"
+   },
+   {
+    "name": "Flamingfire500",
+    "uuid": "b687753d-4e63-4028-befa-13ff14891722"
+   },
+   {
+    "name": "bagelwolf",
+    "uuid": "0334b585-81c1-4a6b-a9b5-4bb94327a7fe"
    }
   ],
   "trusted": [
    {
     "name": "Andakira",
     "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
+   },
+   {
+    "name": "casperkul",
+    "uuid": "0247c863-e235-42b3-b4e2-fd799cd6f0ea"
+   },
+   {
+    "name": "Yawel",
+    "uuid": "3a08bda7-d578-4bd4-85aa-c3f4c9fd1a89"
+   },
+   {
+    "name": "ProfesorKirpi",
+    "uuid": "d9745968-bd3e-4ef5-93ee-e0b335873744"
+   },
+   {
+    "name": "trenabuser1",
+    "uuid": "489e76b2-86e3-4dce-99b6-e376d3a6bf0c"
+   },
+   {
+    "name": "Andre1098",
+    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
+   },
+   {
+    "name": "Knifery",
+    "uuid": "344b2ece-fa75-4ccb-8bb3-819c5760f9da"
+   },
+   {
+    "name": "bagelwolf",
+    "uuid": "0334b585-81c1-4a6b-a9b5-4bb94327a7fe"
    },
    {
     "name": "FORDaLoZ",
@@ -406,20 +494,20 @@
     "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
    },
    {
-    "name": "casperkul",
-    "uuid": "0247c863-e235-42b3-b4e2-fd799cd6f0ea"
+    "name": "Avesa_Vulpe",
+    "uuid": "b5fb51cf-feb7-42f7-8ea5-67dc831d08e6"
    },
    {
     "name": "Andariyen",
     "uuid": "db3cae9c-eef7-4a63-805d-79119909c326"
    },
    {
-    "name": "trenabuser1",
-    "uuid": "489e76b2-86e3-4dce-99b6-e376d3a6bf0c"
+    "name": "Oscario01",
+    "uuid": "2bd5c449-0d52-4da2-bfb3-f7e3269a7a9d"
    },
    {
-    "name": "Andre1098",
-    "uuid": "be66697b-bde8-4d70-b339-4ba15b390fa9"
+    "name": "D4ed41us",
+    "uuid": "6beeaba5-4cc0-4179-9aa7-57e8090ad5ac"
    }
   ],
   "outlaws": [
@@ -504,7 +592,7 @@
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
    },
    {
-    "name": "Swighted_",
+    "name": "P1KE__",
     "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
    },
    {
@@ -564,10 +652,6 @@
     "uuid": "65bc0679-1a57-454d-93c4-0eca9cd1dc6b"
    },
    {
-    "name": "MarkusAntonyus",
-    "uuid": "92aabe90-bfe8-450a-9d58-dbc076d0974a"
-   },
-   {
     "name": "GetBetterPeasant",
     "uuid": "6ee1d6cf-26d3-4b3c-9368-4f144d4514f2"
    },
@@ -600,14 +684,6 @@
     "uuid": "d2520abb-fde4-48b3-b630-4c53f11a6bfc"
    },
    {
-    "name": "XukongZhiYing",
-    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
-   },
-   {
-    "name": "realmiryue1",
-    "uuid": "9e7a353d-5eae-416e-b450-83914409137b"
-   },
-   {
     "name": "Kokoroyu",
     "uuid": "5f3ee79b-bc8b-4127-82f4-e43b925882ef"
    },
@@ -622,12 +698,16 @@
    {
     "name": "SammyTheGoat555",
     "uuid": "1d10cf5f-762d-4061-974c-e6772d2e0844"
+   },
+   {
+    "name": "Sayfoulpe",
+    "uuid": "3891cc50-6d7a-485b-af50-76038440d389"
    }
   ],
   "quarters": [
    {
-    "name": "MNGA HQ",
-    "uuid": "a75ce4fc-d3fb-449f-ac5d-4a202349db1b"
+    "name": "GMart Booth",
+    "uuid": "b343f5ce-ae96-4a05-9cf4-8f4cec7ae565"
    }
   ],
   "ranks": {

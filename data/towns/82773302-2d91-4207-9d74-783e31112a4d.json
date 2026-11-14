@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Porto_Alegre",
   "uuid": "82773302-2d91-4207-9d74-783e31112a4d",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 122,
-   "maxTownBlocks": 144,
+   "numTownBlocks": 141,
+   "maxTownBlocks": 158,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 7,
-   "numTrusted": 1,
+   "nationBonus": 50,
+   "numResidents": 9,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 25.0,
+   "balance": 8.0,
    "forSalePrice": null
   },
   "perms": {
@@ -208,11 +208,39 @@
      1191
     ],
     [
+     -1134,
+     1196
+    ],
+    [
+     -1134,
+     1195
+    ],
+    [
+     -1134,
+     1198
+    ],
+    [
+     -1134,
+     1197
+    ],
+    [
      -1140,
      1196
     ],
     [
+     -1133,
+     1196
+    ],
+    [
+     -1134,
+     1192
+    ],
+    [
      -1140,
+     1197
+    ],
+    [
+     -1133,
      1197
     ],
     [
@@ -224,8 +252,16 @@
      1194
     ],
     [
+     -1133,
+     1198
+    ],
+    [
      -1140,
      1199
+    ],
+    [
+     -1134,
+     1193
     ],
     [
      -1140,
@@ -236,11 +272,23 @@
      1193
     ],
     [
+     -1133,
+     1193
+    ],
+    [
      -1140,
      1194
     ],
     [
+     -1133,
+     1194
+    ],
+    [
      -1140,
+     1195
+    ],
+    [
+     -1133,
      1195
     ],
     [
@@ -336,6 +384,18 @@
      1196
     ],
     [
+     -1132,
+     1195
+    ],
+    [
+     -1132,
+     1194
+    ],
+    [
+     -1132,
+     1193
+    ],
+    [
      -1141,
      1200
     ],
@@ -398,6 +458,10 @@
     [
      -1146,
      1192
+    ],
+    [
+     -1131,
+     1194
     ],
     [
      -1146,
@@ -510,6 +574,10 @@
     [
      -1136,
      1198
+    ],
+    [
+     -1138,
+     1199
     ],
     [
      -1144,
@@ -578,6 +646,14 @@
     [
      -1149,
      1195
+    ],
+    [
+     -1132,
+     1197
+    ],
+    [
+     -1132,
+     1196
     ]
    ],
    "worlds": {}
@@ -588,8 +664,8 @@
     "uuid": "ced20961-a62e-41e6-b06b-9a7509eccd7a"
    },
    {
-    "name": "davidomate",
-    "uuid": "28294b2b-1ef6-4104-9172-8dcf3c7f7d06"
+    "name": "MonkieWrench",
+    "uuid": "c5a60bad-1e4f-42d4-bc14-f04f577dc648"
    },
    {
     "name": "Vuoto64",
@@ -610,23 +686,22 @@
    {
     "name": "MitoBut",
     "uuid": "0d5459f9-6da6-418f-88f0-c451a1155372"
-   }
-  ],
-  "trusted": [
+   },
    {
-    "name": "DrYeetSir",
-    "uuid": "0fd95f1c-f1af-4c1d-b0a2-253737711a93"
+    "name": "DeadMichalPool",
+    "uuid": "453c76b3-37ae-4e57-8556-2c2f68182323"
+   },
+   {
+    "name": "neposeid0nskiy69",
+    "uuid": "1ac2d97b-6edb-456b-855e-839581e8de66"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
    {
     "name": "A1",
     "uuid": "80c2f3a3-0de6-4748-82dd-0f10c8ba6c43"
-   },
-   {
-    "name": "A2",
-    "uuid": "36d0ace0-b71d-47d8-b07a-928c0ffc92a6"
    },
    {
     "name": "B1",
@@ -655,6 +730,10 @@
    {
     "name": "B2",
     "uuid": "b6897bf3-27c1-467a-9224-999e2b5f8fbf"
+   },
+   {
+    "name": "A2",
+    "uuid": "36d0ace0-b71d-47d8-b07a-928c0ffc92a6"
    }
   ],
   "ranks": {

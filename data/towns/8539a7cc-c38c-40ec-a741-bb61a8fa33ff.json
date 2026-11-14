@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Montenegro",
   "uuid": "8539a7cc-c38c-40ec-a741-bb61a8fa33ff",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792849854646,
-   "joinedNationAt": 1793478481284,
+   "joinedNationAt": 1794092278232,
    "ruinedAt": null
   },
   "status": {
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
+   "numTownBlocks": 22,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6884.845437045464,
-    "y": 67.0,
-    "z": -7979.463595047677,
-    "pitch": 3.9577827,
-    "yaw": 61.268112
+    "x": 6876.255067654957,
+    "y": 63.0,
+    "z": -7969.027251191347,
+    "pitch": 7.1658697,
+    "yaw": -155.27747
    },
    "homeBlock": [
-    430,
+    429,
     -499
    ],
    "townBlocks": [
@@ -112,6 +112,10 @@
      -500
     ],
     [
+     431,
+     -502
+    ],
+    [
      430,
      -499
     ],
@@ -140,8 +144,16 @@
      -501
     ],
     [
+     430,
+     -502
+    ],
+    [
      433,
      -501
+    ],
+    [
+     429,
+     -502
     ],
     [
      429,
@@ -177,10 +189,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "Pufund",
-    "uuid": "db700912-6005-4d1a-a2be-bee2fd2851b0"
-   },
    {
     "name": "k7r9m",
     "uuid": "3cd52480-05aa-4764-b237-50ce4fbb5a65"

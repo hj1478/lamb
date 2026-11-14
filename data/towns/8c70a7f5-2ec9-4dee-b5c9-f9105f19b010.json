@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Epsteintopia",
   "uuid": "8c70a7f5-2ec9-4dee-b5c9-f9105f19b010",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 102,
+   "numTownBlocks": 22,
+   "maxTownBlocks": 114,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 6,
+   "numResidents": 7,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 57.0,
+   "balance": 50.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     2697,
+     635
+    ],
+    [
      2699,
      632
     ],
@@ -112,28 +116,68 @@
      630
     ],
     [
+     2698,
+     632
+    ],
+    [
      2699,
      631
     ],
     [
      2698,
-     632
+     633
     ],
     [
      2698,
+     634
+    ],
+    [
+     2698,
+     635
+    ],
+    [
+     2700,
      633
+    ],
+    [
+     2698,
+     636
     ],
     [
      2697,
      631
     ],
     [
+     2699,
+     636
+    ],
+    [
      2697,
      632
     ],
     [
      2697,
      633
+    ],
+    [
+     2699,
+     634
+    ],
+    [
+     2697,
+     634
+    ],
+    [
+     2699,
+     635
+    ],
+    [
+     2700,
+     635
+    ],
+    [
+     2700,
+     634
     ]
    ],
    "worlds": {}
@@ -162,6 +206,10 @@
    {
     "name": "razzic",
     "uuid": "776db989-52a8-4962-b0c8-45b34ff86255"
+   },
+   {
+    "name": "Billysauraus",
+    "uuid": "3fddd7e0-b026-4899-9430-f109265a4951"
    }
   ],
   "trusted": [
@@ -189,9 +237,18 @@
     {
      "name": "22AP",
      "uuid": "10c2bf7e-a68b-40df-9c00-8e8176c1d8a1"
+    },
+    {
+     "name": "Billysauraus",
+     "uuid": "3fddd7e0-b026-4899-9430-f109265a4951"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Billysauraus",
+     "uuid": "3fddd7e0-b026-4899-9430-f109265a4951"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

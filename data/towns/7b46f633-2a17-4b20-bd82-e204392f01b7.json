@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Nambara",
   "uuid": "7b46f633-2a17-4b20-bd82-e204392f01b7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 36,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 3,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 59.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -53.33768489748076,
+    "x": -63.55125720274211,
     "y": 63.0,
-    "z": 5997.508479069295,
-    "pitch": 5.9536533,
-    "yaw": 0.8447876
+    "z": 5999.514088242611,
+    "pitch": -4.096405,
+    "yaw": 88.59578
    },
    "homeBlock": [
     -4,
@@ -92,15 +92,63 @@
    ],
    "townBlocks": [
     [
-     -3,
-     374
+     -5,
+     376
     ],
     [
-     -3,
+     -6,
+     376
+    ],
+    [
+     -6,
+     371
+    ],
+    [
+     -5,
+     371
+    ],
+    [
+     -6,
+     375
+    ],
+    [
+     -5,
      373
     ],
     [
+     -6,
+     374
+    ],
+    [
+     -5,
+     372
+    ],
+    [
+     -5,
+     375
+    ],
+    [
+     -6,
+     373
+    ],
+    [
+     -5,
+     374
+    ],
+    [
+     -6,
+     372
+    ],
+    [
      -4,
+     374
+    ],
+    [
+     -7,
+     374
+    ],
+    [
+     -2,
      374
     ],
     [
@@ -108,7 +156,19 @@
      373
     ],
     [
+     -7,
+     373
+    ],
+    [
+     -2,
+     375
+    ],
+    [
      -4,
+     376
+    ],
+    [
+     -7,
      376
     ],
     [
@@ -116,8 +176,40 @@
      375
     ],
     [
-     -5,
+     -7,
+     375
+    ],
+    [
+     -4,
+     372
+    ],
+    [
+     -4,
+     371
+    ],
+    [
+     -3,
+     372
+    ],
+    [
+     -3,
+     371
+    ],
+    [
+     -3,
+     374
+    ],
+    [
+     -3,
      373
+    ],
+    [
+     -7,
+     372
+    ],
+    [
+     -7,
+     371
     ],
     [
      -3,
@@ -126,14 +218,6 @@
     [
      -3,
      375
-    ],
-    [
-     -5,
-     375
-    ],
-    [
-     -5,
-     374
     ]
    ],
    "worlds": {}
@@ -150,6 +234,14 @@
    {
     "name": "pictureingau",
     "uuid": "05adb2ba-7fda-4e2c-8264-6776f4224e37"
+   },
+   {
+    "name": "TheOriginalAqua",
+    "uuid": "da108e5e-d4e0-4d59-b6c5-524d71816de3"
+   },
+   {
+    "name": "Lupo14L",
+    "uuid": "930ed2f2-bedc-4a7e-8633-9aeb6c0a8e05"
    }
   ],
   "trusted": [],
@@ -174,10 +266,27 @@
     {
      "name": "pictureingau",
      "uuid": "05adb2ba-7fda-4e2c-8264-6776f4224e37"
+    },
+    {
+     "name": "TheOriginalAqua",
+     "uuid": "da108e5e-d4e0-4d59-b6c5-524d71816de3"
+    },
+    {
+     "name": "Lupo14L",
+     "uuid": "930ed2f2-bedc-4a7e-8633-9aeb6c0a8e05"
     }
    ],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "TheOriginalAqua",
+     "uuid": "da108e5e-d4e0-4d59-b6c5-524d71816de3"
+    },
+    {
+     "name": "Lupo14L",
+     "uuid": "930ed2f2-bedc-4a7e-8633-9aeb6c0a8e05"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

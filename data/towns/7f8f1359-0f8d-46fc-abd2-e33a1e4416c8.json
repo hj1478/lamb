@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Bejaia",
   "uuid": "7f8f1359-0f8d-46fc-abd2-e33a1e4416c8",
-  "board": "/town set board [msg]",
+  "board": "Join Bejaia",
   "founder": "RegularDude___",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 22,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 1,
-   "numTrusted": 3,
+   "numResidents": 4,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 208.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 1914.7289885965824,
-    "y": 69.0,
-    "z": -5717.524274818737,
-    "pitch": 17.418974,
-    "yaw": -166.38611
+    "x": 1913.4227783086176,
+    "y": 70.0,
+    "z": -5714.235473842966,
+    "pitch": 19.6673,
+    "yaw": -1.9076233
    },
    "homeBlock": [
     119,
@@ -100,10 +100,22 @@
      -357
     ],
     [
+     115,
+     -357
+    ],
+    [
      117,
      -359
     ],
     [
+     115,
+     -359
+    ],
+    [
+     115,
+     -358
+    ],
+    [
      119,
      -358
     ],
@@ -116,15 +128,39 @@
      -357
     ],
     [
+     116,
+     -359
+    ],
+    [
+     116,
+     -358
+    ],
+    [
      120,
      -358
+    ],
+    [
+     121,
+     -358
+    ],
+    [
+     116,
+     -357
     ],
     [
      120,
      -357
     ],
     [
+     121,
+     -357
+    ],
+    [
      120,
+     -359
+    ],
+    [
+     121,
      -359
     ],
     [
@@ -133,6 +169,10 @@
     ],
     [
      118,
+     -358
+    ],
+    [
+     122,
      -358
     ],
     [
@@ -146,12 +186,28 @@
    {
     "name": "RegularDude___",
     "uuid": "850e8ee1-a20c-4d8b-9cce-38ce46ab2efa"
+   },
+   {
+    "name": "BananaMan___",
+    "uuid": "d8bb7acf-f6cf-4ed6-8c4f-c2d9aa99a2ad"
+   },
+   {
+    "name": "Sinister_Rykiel",
+    "uuid": "3565cf90-3c9d-4966-bad4-d21869519975"
+   },
+   {
+    "name": "JAJAlol008",
+    "uuid": "16a61f32-9311-41f4-9aab-6e4ef260d789"
    }
   ],
   "trusted": [
    {
     "name": "mavryz",
     "uuid": "27f0243b-ce7e-4c69-8441-a8792c204a06"
+   },
+   {
+    "name": "Sinister_Rykiel",
+    "uuid": "3565cf90-3c9d-4966-bad4-d21869519975"
    },
    {
     "name": "Bibinfr78",

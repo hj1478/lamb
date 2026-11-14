@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Bazaar",
   "uuid": "7c8d035b-852a-4834-8cb5-ce13f67d6a9a",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 156,
+   "maxTownBlocks": 154,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 13,
-   "numTrusted": 1,
-   "numOutlaws": 1,
+   "nationBonus": 10,
+   "numResidents": 12,
+   "numTrusted": 2,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -592,14 +592,6 @@
     "uuid": "23fd353f-ef5e-4c90-ac8a-26366e15e7aa"
    },
    {
-    "name": "MARKY_MATSU",
-    "uuid": "38962875-dcd4-46a3-b5a9-77d25bab3611"
-   },
-   {
-    "name": "Sigeon_ThePigeon",
-    "uuid": "7e676e3b-e5aa-4d8f-86a0-657ced929159"
-   },
-   {
     "name": "Hitze04",
     "uuid": "1ac8eb4c-3a5c-4bc6-830e-40861456f55c"
    },
@@ -620,56 +612,56 @@
     "uuid": "ea0a63d1-a36c-4986-b7fe-fa0fdaab4a2d"
    },
    {
-    "name": "w6web",
-    "uuid": "6f80eba4-8370-44c3-9442-874f3ab38b78"
-   },
-   {
     "name": "Specterxx",
     "uuid": "fcd25426-a704-4a83-9661-31e4019745c5"
    },
    {
     "name": "Snowix31113",
     "uuid": "abb18cdd-2b64-4645-9dd5-fb2a7dcc1966"
+   },
+   {
+    "name": "xwd",
+    "uuid": "2734a5b4-c569-4c98-a719-325288e8a3bb"
+   },
+   {
+    "name": "_erg",
+    "uuid": "6b286731-5b51-4da6-ae8c-4e134d8f3931"
    }
   ],
   "trusted": [
    {
     "name": "mavryz",
     "uuid": "27f0243b-ce7e-4c69-8441-a8792c204a06"
-   }
-  ],
-  "outlaws": [
+   },
    {
-    "name": "0Miura",
-    "uuid": "393865d7-d88b-496d-9381-dfc4b20fd789"
+    "name": "xwd",
+    "uuid": "2734a5b4-c569-4c98-a719-325288e8a3bb"
    }
   ],
+  "outlaws": [],
   "quarters": [
    {
-    "name": "Upbeat Residence",
-    "uuid": "7df18533-03a3-4842-9169-8752528e740b"
+    "name": "Gloomy Quarter",
+    "uuid": "1ad08cf5-e575-48e4-af66-8c4dae72374f"
    },
    {
-    "name": "Enraging Quarter",
-    "uuid": "df87d4f3-dad2-4eb9-a5c2-36a9729113b3"
-   },
-   {
-    "name": "Welcoming Tenement",
-    "uuid": "1b7582df-5452-48ef-9dc8-f108a1bbfd12"
+    "name": "Cheerful Quarter",
+    "uuid": "c8621da3-5f10-4ccc-b95f-c990ff5749ba"
    },
    {
     "name": "Welcoming Flat",
     "uuid": "1f0018d8-162a-4992-8121-4d15ebdfac06"
-   },
-   {
-    "name": "Gloomy Quarter",
-    "uuid": "1ad08cf5-e575-48e4-af66-8c4dae72374f"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "xwd",
+     "uuid": "2734a5b4-c569-4c98-a719-325288e8a3bb"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

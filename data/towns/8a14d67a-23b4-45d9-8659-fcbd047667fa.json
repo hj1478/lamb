@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Liberty_Field",
   "uuid": "8a14d67a-23b4-45d9-8659-fcbd047667fa",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 13,
+   "numTownBlocks": 18,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32366.94915211149,
-    "y": 71.0,
-    "z": -8583.300000011921,
-    "pitch": 19.067108,
-    "yaw": -137.61737
+    "x": -32363.454279379377,
+    "y": 67.0,
+    "z": -8580.454636609004,
+    "pitch": 1.4632308,
+    "yaw": 179.61563
    },
    "homeBlock": [
     -2023,
@@ -108,8 +108,16 @@
      -538
     ],
     [
+     -2018,
+     -537
+    ],
+    [
      -2022,
      -537
+    ],
+    [
+     -2019,
+     -539
     ],
     [
      -2022,
@@ -118,6 +126,10 @@
     [
      -2022,
      -539
+    ],
+    [
+     -2019,
+     -537
     ],
     [
      -2021,
@@ -142,6 +154,14 @@
     [
      -2021,
      -539
+    ],
+    [
+     -2018,
+     -539
+    ],
+    [
+     -2018,
+     -538
     ]
    ],
    "worlds": {}
@@ -152,7 +172,16 @@
     "uuid": "7c609808-b8ea-47cc-bc82-4b8b164c89a1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "FaucetFailureXXX",
+    "uuid": "c1b54253-8870-4c1a-964d-518244cc6b15"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

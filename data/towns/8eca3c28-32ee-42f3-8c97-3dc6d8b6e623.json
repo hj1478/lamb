@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Iberistan",
   "uuid": "8eca3c28-32ee-42f3-8c97-3dc6d8b6e623",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,11 +92,55 @@
    ],
    "townBlocks": [
     [
-     919,
+     920,
+     -622
+    ],
+    [
+     920,
+     -621
+    ],
+    [
+     918,
+     -620
+    ],
+    [
+     918,
+     -621
+    ],
+    [
+     918,
+     -622
+    ],
+    [
+     920,
      -620
     ],
     [
      920,
+     -619
+    ],
+    [
+     921,
+     -622
+    ],
+    [
+     921,
+     -621
+    ],
+    [
+     919,
+     -620
+    ],
+    [
+     919,
+     -621
+    ],
+    [
+     919,
+     -622
+    ],
+    [
+     921,
      -620
     ]
    ],
@@ -106,11 +150,29 @@
    {
     "name": "Bugha_denis6",
     "uuid": "17e5c300-00e5-480c-a098-227c37cfdbfa"
+   },
+   {
+    "name": "Bomba2000",
+    "uuid": "4628ae49-fc9a-43ca-893d-66890f1e2095"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Caboom_man",
+    "uuid": "ced81cee-dd7b-4011-8929-add24291a402"
+   },
+   {
+    "name": "andriagela",
+    "uuid": "23b3da67-75a9-48dd-a55d-dbdd09b3d205"
+   }
+  ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Stylish Suite",
+    "uuid": "8e371320-b8e1-411f-85de-957acfbe3b18"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

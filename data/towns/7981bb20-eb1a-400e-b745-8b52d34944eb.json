@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Kirkopolis",
   "uuid": "7981bb20-eb1a-400e-b745-8b52d34944eb",
@@ -12,12 +12,12 @@
    "uuid": "d2d3e479-19aa-48c9-839a-2b5c8dd9a6fd"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Florida",
+   "uuid": "6cbea29c-2f48-418c-89cf-0f1d2c76b825"
   },
   "timestamps": {
    "registered": 1780615038645,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794086548251,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
-   "canOutsidersSpawn": false,
+   "hasNation": true,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 29,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 1085.0,
+   "balance": 1050.0,
    "forSalePrice": null
   },
   "perms": {

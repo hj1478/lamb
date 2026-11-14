@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Rockshire",
   "uuid": "7900fdc6-e47c-40e4-ad27-19d7b7431d2f",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 96,
-   "maxTownBlocks": 70,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 5,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -480,24 +480,12 @@
   },
   "residents": [
    {
-    "name": "KhaledMKMA",
-    "uuid": "7abf467a-9662-42fd-8511-51f9a6c26f95"
-   },
-   {
     "name": "happyhammie88",
     "uuid": "5cfd1b50-2c26-427b-9c0f-9e9875b3e9b5"
    },
    {
-    "name": "MagmaTesseract",
-    "uuid": "eef3a251-d3a0-46ee-a713-917e71f530c2"
-   },
-   {
     "name": "WhisBlade",
     "uuid": "f18d58cc-8daf-4bad-a0fb-ff567887ad19"
-   },
-   {
-    "name": "heneyclan",
-    "uuid": "e8b20644-31ad-4fa0-821a-82fef5041333"
    }
   ],
   "trusted": [
@@ -538,12 +526,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "KhaledMKMA",
-     "uuid": "7abf467a-9662-42fd-8511-51f9a6c26f95"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [
     {

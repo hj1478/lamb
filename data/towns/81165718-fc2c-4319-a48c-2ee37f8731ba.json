@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Ottilia",
   "uuid": "81165718-fc2c-4319-a48c-2ee37f8731ba",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 7,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 17.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      565,
+     -380
+    ],
+    [
+     565,
      -379
     ],
     [
@@ -101,7 +105,19 @@
     ],
     [
      563,
+     -380
+    ],
+    [
+     563,
      -379
+    ],
+    [
+     564,
+     -378
+    ],
+    [
+     564,
+     -380
     ]
    ],
    "worlds": {}
@@ -112,7 +128,12 @@
     "uuid": "4963fae2-f725-45c0-92d2-b1f429093a05"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Longest_Man",
+    "uuid": "dac4703a-2830-4393-93cc-20f4f30a0405"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

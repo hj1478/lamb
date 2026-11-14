@@ -1,0 +1,169 @@
+{
+ "fetched_at": "2026-11-14T13:38:44Z",
+ "data": {
+  "name": "Sumba",
+  "uuid": "1ca5f84c-e5e6-4528-bbb3-d640f019dac1",
+  "board": "/town set board [msg]",
+  "founder": "NerdPidgeon",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "NerdPidgeon",
+   "uuid": "edd95b4e-988e-4896-b22e-482307f37537"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794633903785,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 6,
+   "maxTownBlocks": 36,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 42984.01779578077,
+    "y": 80.0,
+    "z": 11498.522391410881,
+    "pitch": 40.24199,
+    "yaw": -140.24127
+   },
+   "homeBlock": [
+    2686,
+    718
+   ],
+   "townBlocks": [
+    [
+     2687,
+     718
+    ],
+    [
+     2687,
+     719
+    ],
+    [
+     2685,
+     718
+    ],
+    [
+     2685,
+     719
+    ],
+    [
+     2686,
+     718
+    ],
+    [
+     2686,
+     719
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "NerdPidgeon",
+    "uuid": "edd95b4e-988e-4896-b22e-482307f37537"
+   },
+   {
+    "name": "RushUser",
+    "uuid": "68997914-25ed-443c-8c06-c2ef82a03420"
+   },
+   {
+    "name": "o_ry0",
+    "uuid": "a01c8489-166f-47ad-afaa-b680f2bb33f0"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [
+    {
+     "name": "RushUser",
+     "uuid": "68997914-25ed-443c-8c06-c2ef82a03420"
+    },
+    {
+     "name": "o_ry0",
+     "uuid": "a01c8489-166f-47ad-afaa-b680f2bb33f0"
+    }
+   ],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": [
+    {
+     "name": "RushUser",
+     "uuid": "68997914-25ed-443c-8c06-c2ef82a03420"
+    },
+    {
+     "name": "o_ry0",
+     "uuid": "a01c8489-166f-47ad-afaa-b680f2bb33f0"
+    }
+   ]
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

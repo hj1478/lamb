@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "AtlanticCity",
   "uuid": "8f4fb6f8-3dd4-4b99-b31e-7f5415070c57",
@@ -27,7 +27,7 @@
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": false,
+   "isForSale": true,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 28,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 4.0,
-   "forSalePrice": null
+   "forSalePrice": 500.0
   },
   "perms": {
    "build": [
@@ -214,10 +214,6 @@
    {
     "name": "Annahbrandt",
     "uuid": "668e9dd3-3608-4999-ac42-e3c313a6a6be"
-   },
-   {
-    "name": "cool_capybara",
-    "uuid": "a95c4df0-1c8f-46fb-a696-d83536b2e88f"
    }
   ],
   "trusted": [

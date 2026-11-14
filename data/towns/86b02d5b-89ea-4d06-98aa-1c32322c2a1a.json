@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Cozumel",
   "uuid": "86b02d5b-89ea-4d06-98aa-1c32322c2a1a",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "HansTheBoss08",
-   "uuid": "75270975-581a-4ce3-a5fa-3db56d7e166d"
+   "name": "NPC20",
+   "uuid": "8beff55f-215f-2014-b430-b8a95e00ca9f"
   },
   "nation": {
-   "name": "Mexico",
-   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778556699913,
-   "joinedNationAt": 1778556717814,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794654001606
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 60,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -164,8 +164,8 @@
   },
   "residents": [
    {
-    "name": "HansTheBoss08",
-    "uuid": "75270975-581a-4ce3-a5fa-3db56d7e166d"
+    "name": "NPC20",
+    "uuid": "8beff55f-215f-2014-b430-b8a95e00ca9f"
    }
   ],
   "trusted": [

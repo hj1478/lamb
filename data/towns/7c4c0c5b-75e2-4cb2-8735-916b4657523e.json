@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Sagres_Industry",
   "uuid": "7c4c0c5b-75e2-4cb2-8735-916b4657523e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ginjarel",
-   "uuid": "b39d0985-da6f-439f-ac23-4b6cd8f7693a"
+   "name": "NPC33",
+   "uuid": "963388f7-083e-2051-b0d8-5d08f5f90d97"
   },
   "nation": {
-   "name": "Portugal",
-   "uuid": "219c067b-ce9f-4156-bea3-743978c2dc34"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787093965223,
-   "joinedNationAt": 1787095195928,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794654002797
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 15,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -156,24 +156,15 @@
   },
   "residents": [
    {
-    "name": "ginjarel",
-    "uuid": "b39d0985-da6f-439f-ac23-4b6cd8f7693a"
-   },
-   {
-    "name": "Rafaa1107",
-    "uuid": "2ae32e9e-3300-4f09-aef0-c1c28ab2b063"
+    "name": "NPC33",
+    "uuid": "963388f7-083e-2051-b0d8-5d08f5f90d97"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Rafaa1107",
-     "uuid": "2ae32e9e-3300-4f09-aef0-c1c28ab2b063"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

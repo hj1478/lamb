@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Pogorzyce",
   "uuid": "811e5191-08fe-469f-bcc1-8c55315eb5a6",
-  "board": "land of hills",
+  "board": "pogorzyce land",
   "founder": "dummypotato",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
   },
   "nation": {
-   "name": "SPQR",
-   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
+   "name": "Czech_Republic",
+   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
   },
   "timestamps": {
    "registered": 1778341312669,
-   "joinedNationAt": 1793985584649,
+   "joinedNationAt": 1794501324753,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 155,
-   "maxTownBlocks": 268,
+   "numTownBlocks": 156,
+   "maxTownBlocks": 240,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 14,
+   "nationBonus": 60,
+   "numResidents": 15,
    "numTrusted": 5,
-   "numOutlaws": 9,
-   "balance": 186.0,
+   "numOutlaws": 10,
+   "balance": 639.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6632.397093066085,
+    "x": 6632.423035416571,
     "y": 65.0,
-    "z": -11669.583963240664,
-    "pitch": -3.9686785,
-    "yaw": 90.59722
+    "z": -11667.43452207154,
+    "pitch": -2.2500124,
+    "yaw": 91.19717
    },
    "homeBlock": [
     414,
@@ -140,6 +140,10 @@
      -718
     ],
     [
+     410,
+     -727
+    ],
+    [
      417,
      -727
     ],
@@ -149,7 +153,7 @@
     ],
     [
      410,
-     -727
+     -728
     ],
     [
      417,
@@ -161,7 +165,7 @@
     ],
     [
      410,
-     -728
+     -729
     ],
     [
      417,
@@ -170,10 +174,6 @@
     [
      423,
      -732
-    ],
-    [
-     410,
-     -729
     ],
     [
      417,
@@ -224,6 +224,10 @@
      -731
     ],
     [
+     424,
+     -730
+    ],
+    [
      418,
      -724
     ],
@@ -240,12 +244,12 @@
      -727
     ],
     [
-     418,
-     -720
-    ],
-    [
      417,
      -732
+    ],
+    [
+     418,
+     -720
     ],
     [
      418,
@@ -770,6 +774,10 @@
    {
     "name": "Saiikon",
     "uuid": "ba0f41b9-b263-4a15-8fdd-664a75cf288f"
+   },
+   {
+    "name": "BlunterToast",
+    "uuid": "ecd646ae-6869-48dd-aa18-c3eb6b902009"
    }
   ],
   "trusted": [
@@ -830,13 +838,13 @@
    {
     "name": "1v4n12",
     "uuid": "fcebbf17-19dc-4475-9de3-694fc7ea189f"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
   "quarters": [
-   {
-    "name": "Bland Suite",
-    "uuid": "26622a5b-bdf8-4d82-aece-298bd88bef34"
-   },
    {
     "name": "Dingy Suite",
     "uuid": "d96b2633-71e4-4459-933e-7a22dc4503f0"
@@ -854,8 +862,12 @@
     "uuid": "f028e0f1-0bcc-4973-88c1-7a9a8acbaa01"
    },
    {
-    "name": "Elegant Quarter",
-    "uuid": "3369bb06-c4b5-420b-bfb8-621bc2ff0268"
+    "name": "Bland Suite",
+    "uuid": "26622a5b-bdf8-4d82-aece-298bd88bef34"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "65833cc8-1414-49d9-add4-9567301e876e"
    }
   ],
   "ranks": {
@@ -871,6 +883,10 @@
     {
      "name": "Xarvo",
      "uuid": "7f7006ca-75c0-4b00-9303-2cccf0dc4d6d"
+    },
+    {
+     "name": "XDA4",
+     "uuid": "a91d35bc-266f-4e78-a6c7-2685af92dcd8"
     }
    ],
    "Builder": [
@@ -884,6 +900,10 @@
     {
      "name": "Xarvo",
      "uuid": "7f7006ca-75c0-4b00-9303-2cccf0dc4d6d"
+    },
+    {
+     "name": "BlunterToast",
+     "uuid": "ecd646ae-6869-48dd-aa18-c3eb6b902009"
     }
    ],
    "Tax-exempt": [],

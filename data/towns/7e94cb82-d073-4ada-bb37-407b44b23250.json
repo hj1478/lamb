@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Yinchuan",
   "uuid": "7e94cb82-d073-4ada-bb37-407b44b23250",
-  "board": "/town set board [msg]",
+  "board": "Welcome to the Yinchuan",
   "founder": "CHyinban",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 6,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,27 @@
    "townBlocks": [
     [
      2381,
+     -408
+    ],
+    [
+     2381,
      -407
     ],
     [
      2382,
+     -408
+    ],
+    [
+     2382,
      -407
+    ],
+    [
+     2380,
+     -407
+    ],
+    [
+     2380,
+     -408
     ]
    ],
    "worlds": {}
@@ -110,12 +126,20 @@
   ],
   "trusted": [
    {
+    "name": "Sukho_lorLong",
+    "uuid": "9588e2a3-b53d-4f2e-ad20-b1be42431c34"
+   },
+   {
     "name": "GGfun",
     "uuid": "1c2c85a5-e022-4ac7-be20-334eec410525"
    },
    {
     "name": "JetCoast0417",
     "uuid": "acada206-82bd-4525-b61e-a477a9075982"
+   },
+   {
+    "name": "Rift_09",
+    "uuid": "4824543b-9e24-47cb-83c8-3e9914a4d9ba"
    }
   ],
   "outlaws": [],

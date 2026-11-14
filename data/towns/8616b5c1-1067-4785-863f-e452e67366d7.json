@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Larpland",
   "uuid": "8616b5c1-1067-4785-863f-e452e67366d7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ESKISEHIRLI",
-   "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
+   "name": "ahmet_baba_pro",
+   "uuid": "2fcf9ec0-671e-4873-a0fe-8a9e9f660e9c"
   },
   "nation": {
    "name": "America",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -112,25 +112,25 @@
   },
   "residents": [
    {
-    "name": "ESKISEHIRLI",
-    "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
-   },
+    "name": "ahmet_baba_pro",
+    "uuid": "2fcf9ec0-671e-4873-a0fe-8a9e9f660e9c"
+   }
+  ],
+  "trusted": [
    {
     "name": "Orjinal",
     "uuid": "123e0ea7-cc4d-4126-a868-d0029ff8ddab"
+   },
+   {
+    "name": "ESKISEHIRLI",
+    "uuid": "1ae56307-f225-49de-9262-0b5a3e51bfcf"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Orjinal",
-     "uuid": "123e0ea7-cc4d-4126-a868-d0029ff8ddab"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

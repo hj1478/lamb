@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Meighen",
   "uuid": "8c884009-9d50-4439-8f9a-0391a51fd60f",
@@ -12,12 +12,12 @@
    "uuid": "96b28f82-603f-4fa8-a47e-1a0cfa105a39"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Arctic_Isles",
+   "uuid": "d13fe63e-d51c-455e-b308-75e02a2570bb"
   },
   "timestamps": {
    "registered": 1777940486823,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794172926785,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35528.20593522841,
-    "y": 63.0,
-    "z": -29576.310540388942,
-    "pitch": 43.50002,
-    "yaw": -21.556805
+    "x": -35527.997810816676,
+    "y": -1.0,
+    "z": -29575.999181113628,
+    "pitch": -3.6000023,
+    "yaw": 0.19232178
    },
    "homeBlock": [
     -2221,
@@ -206,6 +206,18 @@
    {
     "name": "Enterance",
     "uuid": "d4d0a68f-6295-4402-8f6d-7fd2f1fe0d08"
+   },
+   {
+    "name": "Break Boats here",
+    "uuid": "ed668b4e-f8ea-48f0-b3ac-ef92772f8b8f"
+   },
+   {
+    "name": "Boat Dispensers",
+    "uuid": "afa072d3-1bfd-4866-8536-f0e5b1c65218"
+   },
+   {
+    "name": "Place Boats Here",
+    "uuid": "5ce0bffd-73f8-45a2-a360-ccb4251c28a7"
    }
   ],
   "ranks": {

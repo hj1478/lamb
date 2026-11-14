@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Kara",
   "uuid": "795ca21a-93fa-415e-ba15-3183e8a7bec9",
-  "board": "Welcome to Hyperborea",
+  "board": null,
   "founder": "Alianaka",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "0E0F",
-   "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
+   "name": "qianrubiao",
+   "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
   },
   "nation": {
    "name": "Kara",
@@ -27,7 +27,7 @@
    "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 360,
-   "maxTownBlocks": 354,
+   "maxTownBlocks": 306,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 27,
-   "numTrusted": 3,
+   "numResidents": 23,
+   "numTrusted": 13,
    "numOutlaws": 3,
    "balance": 0.0,
-   "forSalePrice": 5250.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -1541,10 +1541,6 @@
   },
   "residents": [
    {
-    "name": "0E0F",
-    "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
-   },
-   {
     "name": "_alex0898",
     "uuid": "aa0596eb-16b2-42fe-8448-a5de52a88811"
    },
@@ -1559,10 +1555,6 @@
    {
     "name": "siltred",
     "uuid": "77a3f74c-30da-43df-be4c-17ef88002fe9"
-   },
-   {
-    "name": "Breezepuff",
-    "uuid": "8ff02392-627b-4f55-9e12-16d951af58f3"
    },
    {
     "name": "Caperdoodledoo",
@@ -1593,10 +1585,6 @@
     "uuid": "da998c94-1b7f-4e82-9479-24da0105c817"
    },
    {
-    "name": "Mr_Crabs123",
-    "uuid": "de954011-4a33-4d53-b631-c83817e1d943"
-   },
-   {
     "name": "Sonja_Stella",
     "uuid": "4c24329b-d0bd-4c7d-b771-dac87775c543"
    },
@@ -1621,10 +1609,6 @@
     "uuid": "877b1081-e95f-45a2-ad59-b570b9425c17"
    },
    {
-    "name": "cooooooooorsLite",
-    "uuid": "26c121b8-960d-44a1-ad90-c1463bb68023"
-   },
-   {
     "name": "Daisy_1235",
     "uuid": "051c0f8e-17de-4b47-b65c-0e52be0a2ef2"
    },
@@ -1645,14 +1629,30 @@
     "uuid": "98e97a64-0dc5-43bd-939f-895b674d5725"
    },
    {
-    "name": "BlueFire9858",
-    "uuid": "3c4cb024-3b8a-4c8c-a5d7-a9a6063911ce"
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
    }
   ],
   "trusted": [
    {
-    "name": "PoppyPoopyPoo",
-    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+    "name": "supepokemen",
+    "uuid": "f1434d56-403a-490d-8afc-82a2cd756ac9"
+   },
+   {
+    "name": "hanbai0W0",
+    "uuid": "def624e6-e578-42ca-b996-648a3ab5db09"
+   },
+   {
+    "name": "sam16784",
+    "uuid": "2fd587ce-049f-4330-b2a2-0119b1d7b0dc"
+   },
+   {
+    "name": "Researcher_Ivan",
+    "uuid": "a4ee3d0b-41d0-4134-8069-8851e02d713e"
+   },
+   {
+    "name": "HarbingerOfFire",
+    "uuid": "841e5e23-da14-4bf3-9c1e-575d1d128c46"
    },
    {
     "name": "Duolingoose",
@@ -1661,6 +1661,30 @@
    {
     "name": "0E0F",
     "uuid": "097b14b1-7500-4d69-b662-ddbbed7db268"
+   },
+   {
+    "name": "Jinvinho",
+    "uuid": "0f8f56d2-34f0-4e72-8da1-92890379ed3f"
+   },
+   {
+    "name": "PoppyPoopyPoo",
+    "uuid": "7e2bb77a-5905-487d-80d9-1c7d69c1771f"
+   },
+   {
+    "name": "Link_E_",
+    "uuid": "098b4710-5288-4bf3-b305-dfc9307a5482"
+   },
+   {
+    "name": "Breezepuff",
+    "uuid": "8ff02392-627b-4f55-9e12-16d951af58f3"
+   },
+   {
+    "name": "Callinus",
+    "uuid": "86eea4a1-29bb-4d42-989b-7508df956e6b"
+   },
+   {
+    "name": "yizhiyiyiy",
+    "uuid": "266126fd-39ee-4e77-b8ca-f92fd3cfc293"
    }
   ],
   "outlaws": [
@@ -1688,12 +1712,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Breezepuff",
-     "uuid": "8ff02392-627b-4f55-9e12-16d951af58f3"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

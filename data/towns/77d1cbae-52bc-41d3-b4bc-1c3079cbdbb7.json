@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Chisinau",
   "uuid": "77d1cbae-52bc-41d3-b4bc-1c3079cbdbb7",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 120,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 3,
    "numTrusted": 2,
    "numOutlaws": 2,
    "balance": 0.0,
@@ -582,6 +582,10 @@
    {
     "name": "swfc",
     "uuid": "177f7045-4a22-477e-9fdf-8527d6f42fb1"
+   },
+   {
+    "name": "KURAPIKA96484",
+    "uuid": "8eb9aa91-76ea-4a0f-8ccb-d472fe51c97d"
    }
   ],
   "trusted": [

@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Lokutu",
   "uuid": "728a2271-7fcd-4419-a945-8d8675ab95e3",
   "board": "Work in the coal mines or fight in the Hunger Games in Lokutu!",
   "founder": "PalauDautoMaster",
-  "wiki": "https://wiki.earthmc.net/wiki/Nostra:Lokutu",
-  "discord": null,
+  "wiki": null,
+  "discord": "https://discord.gg/RhPZYQdG2",
   "mayor": {
    "name": "PalauDautoMaster",
    "uuid": "e33ab2e3-bc20-4cc4-be21-b28095e4d785"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 30,
-   "maxTownBlocks": 160,
+   "numTownBlocks": 34,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 4,
    "numTrusted": 2,
-   "numOutlaws": 2,
-   "balance": 100.0,
+   "numOutlaws": 3,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8878.53170221299,
+    "x": 8878.467124697536,
     "y": 62.0625,
-    "z": 9426.696956907637,
-    "pitch": 20.399956,
-    "yaw": -0.20718384
+    "z": 9426.572417417525,
+    "pitch": 16.650011,
+    "yaw": -0.66101074
    },
    "homeBlock": [
     554,
@@ -93,7 +93,23 @@
    "townBlocks": [
     [
      551,
+     589
+    ],
+    [
+     551,
      588
+    ],
+    [
+     550,
+     589
+    ],
+    [
+     550,
+     588
+    ],
+    [
+     550,
+     587
     ],
     [
      555,
@@ -228,10 +244,6 @@
     "uuid": "5dea93a7-201c-4e67-ace9-c611ef024894"
    },
    {
-    "name": "ElFalsoSpreen",
-    "uuid": "5c9af324-09f4-401b-9bfc-ec2a38713fef"
-   },
-   {
     "name": "Dinnerbone6856",
     "uuid": "fe56d471-394d-4698-ab51-5d3f5ce1aa91"
    }
@@ -254,6 +266,10 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
   "quarters": [
@@ -286,10 +302,6 @@
     "uuid": "97b92a9f-9036-43bf-8a41-f24e2ad389f7"
    },
    {
-    "name": "Baked Goods",
-    "uuid": "134e0ff3-8911-4cd4-b5b6-351624bfe391"
-   },
-   {
     "name": "Empty Apartment",
     "uuid": "3c49d7a0-1827-49a7-a1d2-0d52042a20a6"
    },
@@ -298,8 +310,28 @@
     "uuid": "7580c550-e175-4421-b03f-b8c811b41c3d"
    },
    {
+    "name": "SKALDRIN EMBASSY",
+    "uuid": "31637923-b237-43c1-a767-e05acbac332a"
+   },
+   {
     "name": "Room 2",
     "uuid": "de8adb3b-1a1a-4cc0-8ac5-7c990013b7bb"
+   },
+   {
+    "name": "4 Presidential Ave",
+    "uuid": "c4939d60-7324-4258-93e9-3ea594c59c1a"
+   },
+   {
+    "name": "Gloomy Suite",
+    "uuid": "388bbf58-db6e-482a-ac96-a8620b2d65d4"
+   },
+   {
+    "name": "1 Presidential Ave",
+    "uuid": "b0382bd5-8779-421b-a4be-d90fa8181dca"
+   },
+   {
+    "name": "3 Presidential Ave",
+    "uuid": "c34e87e6-1bc9-461f-9f36-77231b9c9c89"
    }
   ],
   "ranks": {
@@ -318,12 +350,7 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "ElFalsoSpreen",
-     "uuid": "5c9af324-09f4-401b-9bfc-ec2a38713fef"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [
     {

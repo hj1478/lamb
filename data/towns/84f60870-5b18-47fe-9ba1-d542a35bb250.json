@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Aragon",
   "uuid": "84f60870-5b18-47fe-9ba1-d542a35bb250",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 75,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 2,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -396,11 +396,19 @@
   },
   "residents": [
    {
+    "name": "VoteRight",
+    "uuid": "cfc19994-37e1-42b9-a5d2-551b7a4a442a"
+   },
+   {
     "name": "Tomadzu",
     "uuid": "484d7cf8-bef4-4969-81a6-e13c6e636076"
    }
   ],
   "trusted": [
+   {
+    "name": "VoteRight",
+    "uuid": "cfc19994-37e1-42b9-a5d2-551b7a4a442a"
+   },
    {
     "name": "Tomadzu",
     "uuid": "484d7cf8-bef4-4969-81a6-e13c6e636076"
@@ -414,7 +422,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "VoteRight",
+     "uuid": "cfc19994-37e1-42b9-a5d2-551b7a4a442a"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

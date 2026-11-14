@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Prusa",
   "uuid": "73aa4df6-9d50-4c32-b83f-1af2028e9965",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 141,
-   "maxTownBlocks": 196,
+   "numTownBlocks": 149,
+   "maxTownBlocks": 244,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
-   "numTrusted": 2,
+   "numResidents": 12,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 536.0,
+   "balance": 380.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9878.487629429615,
+    "x": 9879.2018047995,
     "y": 70.0,
-    "z": -7127.200650158769,
-    "pitch": 7.4141817,
-    "yaw": -101.69629
+    "z": -7127.387256794606,
+    "pitch": 9.878419,
+    "yaw": -114.66773
    },
    "homeBlock": [
     617,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      630,
+     -450
+    ],
+    [
+     630,
      -449
     ],
     [
@@ -102,6 +106,10 @@
     [
      630,
      -447
+    ],
+    [
+     630,
+     -451
     ],
     [
      620,
@@ -177,6 +185,10 @@
     ],
     [
      630,
+     -442
+    ],
+    [
+     630,
      -446
     ],
     [
@@ -222,6 +234,10 @@
     [
      624,
      -447
+    ],
+    [
+     629,
+     -451
     ],
     [
      615,
@@ -244,6 +260,10 @@
      -449
     ],
     [
+     629,
+     -450
+    ],
+    [
      623,
      -442
     ],
@@ -282,6 +302,14 @@
     [
      628,
      -444
+    ],
+    [
+     628,
+     -451
+    ],
+    [
+     628,
+     -450
     ],
     [
      628,
@@ -382,6 +410,10 @@
     [
      617,
      -449
+    ],
+    [
+     631,
+     -447
     ],
     [
      622,
@@ -664,10 +696,6 @@
     "uuid": "dac4703a-2830-4393-93cc-20f4f30a0405"
    },
    {
-    "name": "sweetiepaj",
-    "uuid": "4963fae2-f725-45c0-92d2-b1f429093a05"
-   },
-   {
     "name": "nayuta333",
     "uuid": "88081e42-7303-427b-ae6a-52a0d3e85276"
    },
@@ -680,19 +708,43 @@
     "uuid": "7e04a7c2-6509-45df-9729-fe0881107a59"
    },
    {
-    "name": "Justgamer_ash",
-    "uuid": "f39b111a-1842-4539-8957-b828173fb2ec"
-   },
-   {
     "name": "OvertTrout8376",
     "uuid": "9c0b9b65-82dc-43e0-82d2-c4a41d23c58c"
    },
    {
     "name": "GoGojoejoe7229",
     "uuid": "aa489a89-6647-4bbc-83de-53c9d1274708"
+   },
+   {
+    "name": "Grey",
+    "uuid": "96db07c2-c68a-4108-9776-87204f2c81c1"
+   },
+   {
+    "name": "templeman3268",
+    "uuid": "d7df878e-a671-4a91-a4de-3a12a7200f03"
+   },
+   {
+    "name": "Justscrib",
+    "uuid": "d3fe6b64-6d2f-45b1-9a2e-ec918a8f5400"
+   },
+   {
+    "name": "BenPastirma",
+    "uuid": "a645d7ab-188a-4d09-9d99-d1008fad94d7"
+   },
+   {
+    "name": "IceGods55",
+    "uuid": "79a7cb1a-861b-46f9-a4aa-3bbadd95047b"
+   },
+   {
+    "name": "tins_q",
+    "uuid": "a83dfdda-5f99-4833-8e40-597492437729"
    }
   ],
   "trusted": [
+   {
+    "name": "_lengyel",
+    "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
+   },
    {
     "name": "nayuta333",
     "uuid": "88081e42-7303-427b-ae6a-52a0d3e85276"
@@ -700,17 +752,16 @@
    {
     "name": "sweetiepaj",
     "uuid": "4963fae2-f725-45c0-92d2-b1f429093a05"
+   },
+   {
+    "name": "FlyJim2000",
+    "uuid": "aaff3f56-8d93-4bd0-a850-4b558bfe968f"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "sweetiepaj",
-     "uuid": "4963fae2-f725-45c0-92d2-b1f429093a05"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Omsk",
   "uuid": "7dc28fa6-6d6c-4fbf-8e98-dfec9091e5d2",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "xXOVERL0RDXx",
-   "uuid": "5e1e24a8-85f5-421e-9070-a4cc7d274531"
+   "name": "NPC65",
+   "uuid": "74cfde72-ad1d-209f-9ed5-10f8c1a4bfbf"
   },
   "nation": {
-   "name": "Kazakhstan",
-   "uuid": "f0bafb9d-88ac-4afb-bb9a-b7569f405cb2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787993290420,
-   "joinedNationAt": 1789187074239,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794567602045
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 23,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 5,
+   "numOutlaws": 4,
    "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -188,8 +188,8 @@
   },
   "residents": [
    {
-    "name": "xXOVERL0RDXx",
-    "uuid": "5e1e24a8-85f5-421e-9070-a4cc7d274531"
+    "name": "NPC65",
+    "uuid": "74cfde72-ad1d-209f-9ed5-10f8c1a4bfbf"
    }
   ],
   "trusted": [
@@ -199,10 +199,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "ChasinTheMoon",
-    "uuid": "bf69aebd-e16b-461e-84cd-901052002820"
-   },
    {
     "name": "PeterPeter5001",
     "uuid": "00bc5f30-28a7-44e3-af79-674d47d16d4d"

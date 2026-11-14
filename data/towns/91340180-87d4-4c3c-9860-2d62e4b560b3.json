@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Truro",
   "uuid": "91340180-87d4-4c3c-9860-2d62e4b560b3",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 21,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 25.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,24 +80,24 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -1961.438705396357,
-    "y": 63.0,
-    "z": -11541.377590546908,
-    "pitch": 90.0,
-    "yaw": 175.2193
+    "x": -1943.892191542709,
+    "y": 80.0,
+    "z": -11510.771672256156,
+    "pitch": 3.7496219,
+    "yaw": 177.83524
    },
    "homeBlock": [
-    -123,
-    -722
+    -122,
+    -720
    ],
    "townBlocks": [
     [
-     -122,
-     -722
-    ],
-    [
      -124,
      -721
+    ],
+    [
+     -122,
+     -722
     ],
     [
      -120,
@@ -116,12 +116,12 @@
      -720
     ],
     [
-     -120,
-     -721
-    ],
-    [
      -122,
      -723
+    ],
+    [
+     -120,
+     -721
     ],
     [
      -124,
@@ -144,12 +144,12 @@
      -723
     ],
     [
-     -121,
-     -719
-    ],
-    [
      -123,
      -723
+    ],
+    [
+     -121,
+     -719
     ],
     [
      -123,
@@ -182,6 +182,14 @@
    {
     "name": "effent",
     "uuid": "65618a40-aff6-4c59-b147-72a60ffecfcd"
+   },
+   {
+    "name": "mariocontre__",
+    "uuid": "c6439cac-dd2b-4e1a-854e-c94272ba4d25"
+   },
+   {
+    "name": "targbyq",
+    "uuid": "adc4db06-883b-4c73-804f-dc6b182f837d"
    }
   ],
   "trusted": [],

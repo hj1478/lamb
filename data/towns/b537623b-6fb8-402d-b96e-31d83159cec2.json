@@ -1,0 +1,136 @@
+{
+ "fetched_at": "2026-11-14T13:38:44Z",
+ "data": {
+  "name": "Dortmund",
+  "uuid": "b537623b-6fb8-402d-b96e-31d83159cec2",
+  "board": "/town set board [msg]",
+  "founder": "01kd",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "01kd",
+   "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+  },
+  "nation": {
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+  },
+  "timestamps": {
+   "registered": 1794663344353,
+   "joinedNationAt": 1794663368591,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": true,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 112,
+   "bonusBlocks": 0,
+   "nationBonus": 100,
+   "numResidents": 1,
+   "numTrusted": 3,
+   "numOutlaws": 0,
+   "balance": 0.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 3017.4997826524295,
+    "y": 67.0,
+    "z": -11762.302100601099,
+    "pitch": 13.35002,
+    "yaw": 11.048654
+   },
+   "homeBlock": [
+    188,
+    -736
+   ],
+   "townBlocks": [
+    [
+     188,
+     -736
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "01kd",
+    "uuid": "1963e4ea-2c03-4b57-8165-2bd1d873922e"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "tortella47",
+    "uuid": "f49ec61c-b5ee-433d-885b-904a700b90cb"
+   },
+   {
+    "name": "Deacon_Heitor",
+    "uuid": "46ef4822-59db-4c3e-a3c0-79245cccf108"
+   },
+   {
+    "name": "Grojnik",
+    "uuid": "6c563057-36c2-4cef-8260-0a4cc2d4b36f"
+   }
+  ],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:14:26Z",
+ "fetched_at": "2026-11-14T13:38:44Z",
  "data": {
   "name": "Tuvan",
   "uuid": "86997501-7915-470e-bf99-af25ff4b57a1",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 63,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
-   "numTrusted": 3,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 2,
    "balance": 34.0,
    "forSalePrice": null
@@ -348,34 +348,18 @@
   },
   "residents": [
    {
-    "name": "Martin9095",
-    "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
-   },
-   {
     "name": "lowtier3qd",
     "uuid": "315dc992-5297-4fba-a8d8-2626da16f105"
    },
    {
     "name": "__N3xus___",
     "uuid": "b1a362d4-349c-4d77-a370-4873fb83519f"
-   },
-   {
-    "name": "RubyNet",
-    "uuid": "f49b946a-b8af-4323-ba2f-d1873bfba45f"
    }
   ],
   "trusted": [
    {
-    "name": "RubyNet",
-    "uuid": "f49b946a-b8af-4323-ba2f-d1873bfba45f"
-   },
-   {
     "name": "__N3xus___",
     "uuid": "b1a362d4-349c-4d77-a370-4873fb83519f"
-   },
-   {
-    "name": "Martin9095",
-    "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
    }
   ],
   "outlaws": [
@@ -390,16 +374,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Martin9095",
-     "uuid": "de36bab7-e579-4389-9390-d5e2a34fa2cb"
-    },
-    {
-     "name": "RubyNet",
-     "uuid": "f49b946a-b8af-4323-ba2f-d1873bfba45f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
