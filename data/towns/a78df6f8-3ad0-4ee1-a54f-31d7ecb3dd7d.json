@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
-  "name": "Redeus",
+  "name": "RudeusMansion",
   "uuid": "a78df6f8-3ad0-4ee1-a54f-31d7ecb3dd7d",
   "board": "/town set board [msg]",
   "founder": "RoxyRudi",
@@ -12,12 +12,12 @@
    "uuid": "c4d322f0-70bd-4812-ab31-181342bdc863"
   },
   "nation": {
-   "name": "Eire",
-   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
+   "name": "European_Union",
+   "uuid": "69454d9d-80de-46e2-a04d-9d8e1ded2bfe"
   },
   "timestamps": {
    "registered": 1792159870437,
-   "joinedNationAt": 1794009567069,
+   "joinedNationAt": 1794712625294,
    "ruinedAt": null
   },
   "status": {
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 40,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 918.8174671451744,
-    "y": 68.0,
-    "z": -11412.464917285559,
-    "pitch": 0.8286972,
-    "yaw": -179.95422
+    "x": 915.6985975352383,
+    "y": 70.0,
+    "z": -11414.300725367852,
+    "pitch": 11.014851,
+    "yaw": 76.54303
    },
    "homeBlock": [
     57,
@@ -92,32 +92,36 @@
    ],
    "townBlocks": [
     [
-     56,
-     -716
-    ],
-    [
-     58,
-     -716
-    ],
-    [
-     58,
-     -715
+     53,
+     -713
     ],
     [
      57,
      -716
     ],
     [
+     59,
+     -710
+    ],
+    [
      57,
      -715
+    ],
+    [
+     59,
+     -711
     ],
     [
      57,
      -714
     ],
     [
-     58,
+     59,
      -712
+    ],
+    [
+     52,
+     -711
     ],
     [
      57,
@@ -128,16 +132,28 @@
      -713
     ],
     [
+     52,
+     -712
+    ],
+    [
      57,
      -712
     ],
     [
-     58,
+     59,
      -714
     ],
     [
+     57,
+     -711
+    ],
+    [
+     57,
+     -710
+    ],
+    [
      58,
-     -713
+     -710
     ],
     [
      56,
@@ -154,6 +170,82 @@
     [
      56,
      -715
+    ],
+    [
+     53,
+     -712
+    ],
+    [
+     53,
+     -711
+    ],
+    [
+     53,
+     -710
+    ],
+    [
+     56,
+     -710
+    ],
+    [
+     56,
+     -711
+    ],
+    [
+     54,
+     -713
+    ],
+    [
+     54,
+     -711
+    ],
+    [
+     56,
+     -716
+    ],
+    [
+     54,
+     -712
+    ],
+    [
+     54,
+     -710
+    ],
+    [
+     58,
+     -716
+    ],
+    [
+     58,
+     -715
+    ],
+    [
+     58,
+     -712
+    ],
+    [
+     58,
+     -711
+    ],
+    [
+     58,
+     -714
+    ],
+    [
+     58,
+     -713
+    ],
+    [
+     55,
+     -710
+    ],
+    [
+     55,
+     -711
+    ],
+    [
+     55,
+     -712
     ],
     [
      55,
@@ -174,7 +266,12 @@
     "uuid": "70e766be-4630-49e2-bf4e-ddfa645fb6cc"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "sobble1sgod",
+    "uuid": "8e10a836-9085-4040-a013-22767c78b1ad"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Linkoping",
   "uuid": "9debb42f-0dba-4fe7-99c7-768110d2e500",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 85.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,24 @@
    ],
    "townBlocks": [
     [
+     349,
+     -962
+    ],
+    [
+     349,
+     -963
+    ],
+    [
      350,
      -963
+    ],
+    [
+     348,
+     -963
+    ],
+    [
+     348,
+     -962
     ]
    ],
    "worlds": {}
@@ -117,7 +133,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Mr_Vardon",
+     "uuid": "35922509-bee7-4f1e-b083-bf660b7a7d5c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

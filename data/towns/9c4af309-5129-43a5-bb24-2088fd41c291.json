@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
-  "name": "Chiavari",
+  "name": "Genova",
   "uuid": "9c4af309-5129-43a5-bb24-2088fd41c291",
-  "board": "Long Live Chiavari",
+  "board": "Pesto alla genovese",
   "founder": "Rauf_Orbay",
   "wiki": null,
   "discord": null,
@@ -25,23 +25,23 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 155,
-   "maxTownBlocks": 188,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 9,
+   "nationBonus": 60,
+   "numResidents": 6,
    "numTrusted": 7,
-   "numOutlaws": 1,
+   "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 3650.567809446671,
-    "y": 80.0,
-    "z": -8913.699999988079,
-    "pitch": 10.649968,
-    "yaw": 106.605415
+    "x": 3642.0860223964005,
+    "y": 111.0,
+    "z": -9010.503718995595,
+    "pitch": 1.7651618,
+    "yaw": -90.21699
    },
    "homeBlock": [
-    228,
-    -558
+    227,
+    -564
    ],
    "townBlocks": [
     [
@@ -720,18 +720,6 @@
     "uuid": "a322dfd7-632c-4e16-b5e2-b623b8b0d579"
    },
    {
-    "name": "ShawskiYouTube",
-    "uuid": "905bd04b-479f-428e-8bfa-7565b345f7d1"
-   },
-   {
-    "name": "0JzorkJ0",
-    "uuid": "dda18df4-3340-4cad-819c-35da9801133b"
-   },
-   {
-    "name": "UnknwnJ",
-    "uuid": "242e4aa8-965b-4394-acab-b340d7f88339"
-   },
-   {
     "name": "VR_liker2000",
     "uuid": "bd00b414-1c99-428a-9254-e667e663f751"
    },
@@ -782,12 +770,7 @@
     "uuid": "25a9bc43-0cdf-4bf5-9119-0e563e945dc4"
    }
   ],
-  "outlaws": [
-   {
-    "name": "LassqL",
-    "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
-   }
-  ],
+  "outlaws": [],
   "quarters": [],
   "ranks": {
    "Councillor": [],

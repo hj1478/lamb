@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Tuffopolis",
   "uuid": "a61bf24f-96c9-4fa5-bff4-4c3d05ad2195",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1794315278542,
-   "joinedNationAt": 1794315290242,
+   "joinedNationAt": 1794497674327,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 52,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 73,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 3,
+   "numTrusted": 6,
    "numOutlaws": 0,
-   "balance": 139.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,23 @@
    "townBlocks": [
     [
      631,
+     -443
+    ],
+    [
+     631,
+     -442
+    ],
+    [
+     631,
+     -441
+    ],
+    [
+     631,
      -440
+    ],
+    [
+     631,
+     -439
     ],
     [
      633,
@@ -101,7 +117,7 @@
     ],
     [
      631,
-     -439
+     -438
     ],
     [
      633,
@@ -109,10 +125,6 @@
     ],
     [
      631,
-     -438
-    ],
-    [
-     631,
      -437
     ],
     [
@@ -134,6 +146,34 @@
     [
      633,
      -437
+    ],
+    [
+     633,
+     -442
+    ],
+    [
+     633,
+     -443
+    ],
+    [
+     633,
+     -440
+    ],
+    [
+     631,
+     -444
+    ],
+    [
+     633,
+     -441
+    ],
+    [
+     633,
+     -444
+    ],
+    [
+     633,
+     -445
     ],
     [
      635,
@@ -173,6 +213,10 @@
     ],
     [
      632,
+     -441
+    ],
+    [
+     632,
      -438
     ],
     [
@@ -180,6 +224,22 @@
      -439
     ],
     [
+     632,
+     -444
+    ],
+    [
+     632,
+     -445
+    ],
+    [
+     632,
+     -442
+    ],
+    [
+     632,
+     -443
+    ],
+    [
      630,
      -434
     ],
@@ -217,6 +277,14 @@
     ],
     [
      634,
+     -443
+    ],
+    [
+     634,
+     -444
+    ],
+    [
+     634,
      -439
     ],
     [
@@ -233,7 +301,19 @@
     ],
     [
      627,
+     -440
+    ],
+    [
+     627,
+     -441
+    ],
+    [
+     627,
      -438
+    ],
+    [
+     627,
+     -439
     ],
     [
      629,
@@ -284,11 +364,11 @@
      -440
     ],
     [
-     629,
+     628,
      -441
     ],
     [
-     628,
+     629,
      -441
     ],
     [
@@ -298,6 +378,10 @@
     [
      628,
      -435
+    ],
+    [
+     626,
+     -439
     ]
    ],
    "worlds": {}
@@ -306,6 +390,14 @@
    {
     "name": "_lengyel",
     "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
+   },
+   {
+    "name": "Beeray_",
+    "uuid": "6dbf8485-fe0e-4784-bdbf-534da4ecb18d"
+   },
+   {
+    "name": "900O",
+    "uuid": "d4d1dd17-90f2-4378-bb8f-e363a17e768d"
    }
   ],
   "trusted": [
@@ -314,8 +406,24 @@
     "uuid": "673cb68c-c580-4c3d-9aa3-040c0873a5b4"
    },
    {
+    "name": "_lengyel",
+    "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
+   },
+   {
+    "name": "Irnik_hun",
+    "uuid": "62825565-8e18-4cc1-a07c-acee006e6825"
+   },
+   {
     "name": "Longest_Man",
     "uuid": "dac4703a-2830-4393-93cc-20f4f30a0405"
+   },
+   {
+    "name": "Gorik782",
+    "uuid": "56ebbd9c-6dd2-40eb-af2d-d740090a6962"
+   },
+   {
+    "name": "pokiron",
+    "uuid": "1a5e9179-aa5f-4b23-adc9-bb3c43a3dc10"
    }
   ],
   "outlaws": [],

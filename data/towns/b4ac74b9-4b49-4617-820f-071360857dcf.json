@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Oro_Coast",
   "uuid": "b4ac74b9-4b49-4617-820f-071360857dcf",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DiegoDudeGuy",
-   "uuid": "c844fdeb-1ecd-4280-af8c-22f78d304b01"
+   "name": "NPC125",
+   "uuid": "a3409115-791f-2091-ba76-355b884e993b"
   },
   "nation": {
-   "name": "Baja",
-   "uuid": "9d9551ec-eb60-43b2-a0cd-8b49eda5e57b"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782922526601,
-   "joinedNationAt": 1786875097349,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794718908381
   },
   "status": {
    "isPublic": false,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 50,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -296,8 +296,8 @@
   },
   "residents": [
    {
-    "name": "DiegoDudeGuy",
-    "uuid": "c844fdeb-1ecd-4280-af8c-22f78d304b01"
+    "name": "NPC125",
+    "uuid": "a3409115-791f-2091-ba76-355b884e993b"
    }
   ],
   "trusted": [

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Nanking",
   "uuid": "a6c1963a-95b2-49e4-9e19-0b5db1a16eea",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 28,
-   "numTrusted": 14,
+   "numTrusted": 16,
    "numOutlaws": 8,
    "balance": 218.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 41140.638666099694,
-    "y": 34.875,
-    "z": -4070.41485181301,
-    "pitch": 10.567635,
-    "yaw": 2.9568481
+    "x": 41127.19671703632,
+    "y": 64.0,
+    "z": -4113.913926155687,
+    "pitch": 2.0999599,
+    "yaw": 8.94821
    },
    "homeBlock": [
-    2571,
-    -255
+    2570,
+    -258
    ],
    "townBlocks": [
     [
@@ -1769,6 +1769,10 @@
   },
   "residents": [
    {
+    "name": "MugiWind",
+    "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
+   },
+   {
     "name": "HifumiAnata",
     "uuid": "a0e9677e-983a-4771-9a98-f42012711cd1"
    },
@@ -1791,30 +1795,6 @@
    {
     "name": "meridian2758",
     "uuid": "f3a74e19-df89-43f9-8d68-14ce55e8a577"
-   },
-   {
-    "name": "dt3x",
-    "uuid": "8881442c-6d95-4f18-94e7-cb9596f8f786"
-   },
-   {
-    "name": "stringthe0ry",
-    "uuid": "c91270c6-864f-4468-a17c-dff775739cb4"
-   },
-   {
-    "name": "Rai_Lindao",
-    "uuid": "50ca86b5-75ee-4cc9-be5d-cac5d14445d5"
-   },
-   {
-    "name": "SpalyBeast13",
-    "uuid": "64ba3c6f-ddca-4bce-a181-8e677c0d4329"
-   },
-   {
-    "name": "SuperFTW",
-    "uuid": "efa73595-21dd-48ff-9a85-a1a2bddfb607"
-   },
-   {
-    "name": "Sea97",
-    "uuid": "fb2ac373-fdd5-4a92-8404-774997feb57e"
    },
    {
     "name": "htppsrxb",
@@ -1879,9 +1859,33 @@
    {
     "name": "Thecoolcid",
     "uuid": "dd6afe06-4589-425a-b2e5-fb6f94b534cb"
+   },
+   {
+    "name": "EmmmmMCaa",
+    "uuid": "5c9276df-eb64-4a3e-b2ff-b5443d782054"
+   },
+   {
+    "name": "chenyuzhi",
+    "uuid": "2b87187c-e0a7-4dc3-b609-2f2468f0b80d"
+   },
+   {
+    "name": "Simeis_3_188",
+    "uuid": "bc274d01-9541-4315-9212-19b8153e914d"
+   },
+   {
+    "name": "Drizzy_TonZJY",
+    "uuid": "e92ae294-b9ad-4499-b1e4-121457f03520"
+   },
+   {
+    "name": "ccyyd",
+    "uuid": "d3a71bab-b80f-4c86-a4c1-42cf3353320e"
    }
   ],
   "trusted": [
+   {
+    "name": "EmmmmMCaa",
+    "uuid": "5c9276df-eb64-4a3e-b2ff-b5443d782054"
+   },
    {
     "name": "14387767",
     "uuid": "ef52e50b-063f-4c86-be2e-6bdf2721bc91"
@@ -1905,6 +1909,10 @@
    {
     "name": "lilioa",
     "uuid": "184dabad-1ea0-4507-aa40-1a07c8bb4871"
+   },
+   {
+    "name": "MugiWind",
+    "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
    },
    {
     "name": "scottwong198964",
@@ -2135,20 +2143,25 @@
     "uuid": "b5cd10ad-50ef-4741-83d0-737bb7a34bc5"
    },
    {
-    "name": "Stylish Apartment",
-    "uuid": "33eb00d3-5acc-485c-9b0c-751a819630c8"
-   },
-   {
     "name": "Enraging Tenement",
     "uuid": "37f5d853-fe63-4590-bdd3-68c1ec339102"
    },
    {
     "name": "gate2",
     "uuid": "f471bbfc-3621-40cd-912a-dc264c17b9e8"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "33eb00d3-5acc-485c-9b0c-751a819630c8"
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "MugiWind",
+     "uuid": "debd90c4-666b-49fb-aa14-00d6bbc3d0a3"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

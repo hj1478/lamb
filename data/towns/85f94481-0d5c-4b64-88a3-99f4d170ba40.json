@@ -1,0 +1,123 @@
+{
+ "fetched_at": "2026-11-15T14:03:56Z",
+ "data": {
+  "name": "Bambu_City",
+  "uuid": "85f94481-0d5c-4b64-88a3-99f4d170ba40",
+  "board": "/town set board [msg]",
+  "founder": "BambuVex",
+  "wiki": null,
+  "discord": null,
+  "mayor": {
+   "name": "BambuVex",
+   "uuid": "0f63b763-b718-4f13-900c-9498598024e1"
+  },
+  "nation": {
+   "name": null,
+   "uuid": null
+  },
+  "timestamps": {
+   "registered": 1794731867463,
+   "joinedNationAt": null,
+   "ruinedAt": null
+  },
+  "status": {
+   "isPublic": true,
+   "isOpen": false,
+   "isNeutral": false,
+   "isCapital": false,
+   "isOverClaimed": false,
+   "isRuined": false,
+   "isForSale": false,
+   "hasNation": false,
+   "canOutsidersSpawn": false,
+   "canPassiveMobsSpawn": true,
+   "hasSnowAccumulation": true,
+   "hasFriendlyFire": false
+  },
+  "stats": {
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
+   "bonusBlocks": 0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 0,
+   "numOutlaws": 0,
+   "balance": 1.0,
+   "forSalePrice": null
+  },
+  "perms": {
+   "build": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "destroy": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "switch": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "itemUse": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "flags": {
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
+   }
+  },
+  "coordinates": {
+   "spawn": {
+    "world": "earth",
+    "x": 10708.699999988079,
+    "y": 73.0,
+    "z": 4019.699999988079,
+    "pitch": 40.580505,
+    "yaw": 127.65747
+   },
+   "homeBlock": [
+    669,
+    251
+   ],
+   "townBlocks": [
+    [
+     669,
+     251
+    ]
+   ],
+   "worlds": {}
+  },
+  "residents": [
+   {
+    "name": "BambuVex",
+    "uuid": "0f63b763-b718-4f13-900c-9498598024e1"
+   }
+  ],
+  "trusted": [],
+  "outlaws": [],
+  "quarters": [],
+  "ranks": {
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
+   "Tax-exempt": [],
+   "Treasurer": [],
+   "Realtor": [],
+   "Settler": []
+  },
+  "warps": [],
+  "bankhistory": []
+ }
+}

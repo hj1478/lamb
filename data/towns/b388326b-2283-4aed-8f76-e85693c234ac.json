@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Helsinki",
   "uuid": "b388326b-2283-4aed-8f76-e85693c234ac",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 50,
-   "maxTownBlocks": 108,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
-   "numTrusted": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 18.0,
    "forSalePrice": null
@@ -300,19 +300,20 @@
     "uuid": "567d6402-e645-43c7-a045-3f04ca4a3f89"
    },
    {
-    "name": "BumbleBuzzzz2013",
-    "uuid": "d3cda294-7a50-4fbd-a854-2a7d346253e7"
+    "name": "Sqzerd",
+    "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
    },
    {
-    "name": "SevasXD",
-    "uuid": "93ae1a67-3b8d-4e9c-a6f8-792bb4899eed"
-   },
-   {
-    "name": "jimppulinen",
-    "uuid": "33a0c51c-8878-499a-8ceb-815443f7dc9f"
+    "name": "bunbunputentyo",
+    "uuid": "dac98b27-8422-4571-8e45-2e81d78ff9af"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Sqzerd",
+    "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+   }
+  ],
   "outlaws": [],
   "quarters": [
    {
@@ -349,14 +350,54 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Councillor": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Police": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Sqzerd",
+     "uuid": "450346eb-23dd-409d-8b31-07d93b31069b"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

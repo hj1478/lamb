@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Sisirak",
   "uuid": "a8908c5b-e06b-403a-91c3-abf7bd5bf858",
-  "board": "a nice paradise",
+  "board": "A compact town and a nice beach paradise!",
   "founder": "Cicurak",
   "wiki": null,
   "discord": null,
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
+   "numTownBlocks": 42,
    "maxTownBlocks": 34,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 2,
    "numTrusted": 5,
    "numOutlaws": 3,
-   "balance": 68.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,16 @@
    ],
    "townBlocks": [
     [
+     1333,
+     -485
+    ],
+    [
      1330,
      -483
+    ],
+    [
+     1329,
+     -482
     ],
     [
      1333,
@@ -104,8 +112,16 @@
      -482
     ],
     [
+     1329,
+     -481
+    ],
+    [
      1333,
      -482
+    ],
+    [
+     1329,
+     -480
     ],
     [
      1330,
@@ -116,6 +132,10 @@
      -483
     ],
     [
+     1329,
+     -479
+    ],
+    [
      1330,
      -484
     ],
@@ -126,6 +146,10 @@
     [
      1330,
      -479
+    ],
+    [
+     1329,
+     -485
     ],
     [
      1329,
@@ -173,6 +197,10 @@
     ],
     [
      1331,
+     -485
+    ],
+    [
+     1332,
      -485
     ],
     [
@@ -206,6 +234,10 @@
     [
      1334,
      -484
+    ],
+    [
+     1334,
+     -485
     ],
     [
      1334,
@@ -236,8 +268,8 @@
     "uuid": "c8521d2a-f2a9-436d-80ec-52489f8f0975"
    },
    {
-    "name": "macura777",
-    "uuid": "2cd034e5-0a7f-415f-9f6e-ba3186291b33"
+    "name": "UrosS200",
+    "uuid": "8bddfbc1-6902-4a37-88ca-9a5ff726354c"
    }
   ],
   "trusted": [
@@ -314,10 +346,6 @@
     "uuid": "88c9a975-5999-4611-aacc-d96ded8cec92"
    },
    {
-    "name": "Inconvenient Apartment",
-    "uuid": "0c23b0f5-620a-49f5-8874-779390a082ee"
-   },
-   {
     "name": "Luxurious Dwelling",
     "uuid": "c2d1c217-4570-45b5-b067-5b789a812103"
    },
@@ -330,12 +358,60 @@
     "uuid": "9c860d1c-4361-4522-8086-429107d1ee65"
    },
    {
+    "name": "Bland Suite",
+    "uuid": "3e81338c-150a-4ee5-b3a9-b1dd5b7cad09"
+   },
+   {
     "name": "Inviting Tenement",
     "uuid": "98559464-39c2-4012-9caf-db8b2a6a843f"
    },
    {
-    "name": "Bland Suite",
-    "uuid": "3e81338c-150a-4ee5-b3a9-b1dd5b7cad09"
+    "name": "Luxurious Quarter",
+    "uuid": "6d215753-dfc2-4281-8298-7d71e689d316"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "15563950-0239-4665-a1dc-295a89edca3d"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "2610dae2-80cd-4dc4-8498-87e25b08a38b"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "f09191f8-8e80-4df5-bb28-cf174313b9f5"
+   },
+   {
+    "name": "Lovely Tenement",
+    "uuid": "5946f65e-b4b2-4ece-9a81-a70dee73becd"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "8940dffa-4253-438d-b2e2-80de66ad60db"
+   },
+   {
+    "name": "Perturbing Property",
+    "uuid": "91cb1abe-0334-4307-acc3-9c5d2762ee9e"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "24a7c043-f7a0-4f83-9946-693fcf5be66a"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "f83d48bb-65c8-4735-98dd-5d3ddb6745bb"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "5df61755-425f-4ee8-ac44-b4e842292de8"
+   },
+   {
+    "name": "Perturbing Property",
+    "uuid": "8555e9e4-ce2d-42b1-89b3-f1057189fc4f"
+   },
+   {
+    "name": "RailwayStation",
+    "uuid": "4321d28c-f056-478e-a77b-b2be1cc1799a"
    }
   ],
   "ranks": {

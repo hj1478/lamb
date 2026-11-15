@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Great_Moravia",
   "uuid": "a8fa8cfd-bd7d-4a83-ba17-9fb8186f2a97",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 100,
-   "maxTownBlocks": 244,
+   "numTownBlocks": 110,
+   "maxTownBlocks": 232,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 12,
+   "numResidents": 11,
    "numTrusted": 2,
-   "numOutlaws": 5,
+   "numOutlaws": 6,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6151.785308978831,
+    "x": 6152.034069452266,
     "y": 64.0,
-    "z": -11016.1516336007,
-    "pitch": 4.9499316,
-    "yaw": -1.8413213
+    "z": -11015.978213044544,
+    "pitch": 3.300313,
+    "yaw": -0.9466022
    },
    "homeBlock": [
     384,
@@ -176,6 +176,30 @@
      -685
     ],
     [
+     387,
+     -684
+    ],
+    [
+     387,
+     -685
+    ],
+    [
+     387,
+     -686
+    ],
+    [
+     387,
+     -687
+    ],
+    [
+     387,
+     -682
+    ],
+    [
+     387,
+     -683
+    ],
+    [
      381,
      -685
     ],
@@ -208,8 +232,16 @@
      -692
     ],
     [
+     387,
+     -688
+    ],
+    [
      381,
      -682
+    ],
+    [
+     387,
+     -689
     ],
     [
      381,
@@ -349,6 +381,10 @@
     ],
     [
      378,
+     -682
+    ],
+    [
+     378,
      -684
     ],
     [
@@ -474,6 +510,10 @@
     [
      377,
      -684
+    ],
+    [
+     377,
+     -682
     ],
     [
      377,
@@ -503,18 +543,6 @@
    {
     "name": "void_master_89",
     "uuid": "65455ff8-767e-46ac-b829-7142e41b35a1"
-   },
-   {
-    "name": "ratirano",
-    "uuid": "4987f04d-0b90-4045-9099-c5ca31a6957d"
-   },
-   {
-    "name": "FrostyCreep",
-    "uuid": "8a3acb72-b862-4e79-abab-57aaf7d897f0"
-   },
-   {
-    "name": "TobrickCZ",
-    "uuid": "b5777926-6362-44e4-9ae5-6e67043c3b5e"
    },
    {
     "name": "Fighting_Beaver",
@@ -547,6 +575,14 @@
    {
     "name": "JEDLIS",
     "uuid": "7dc911ee-b05a-4ea4-8e91-18b0c3461ff9"
+   },
+   {
+    "name": "SaneLamb6416741",
+    "uuid": "08037b06-0dd9-4c36-a529-af295854ce23"
+   },
+   {
+    "name": "Marek32",
+    "uuid": "123020f6-86f0-4cd7-85c2-c9e31d27242b"
    }
   ],
   "trusted": [
@@ -579,33 +615,13 @@
    {
     "name": "Tomino1CZ",
     "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+   },
+   {
+    "name": "Mirecek1CZE",
+    "uuid": "e048ed4a-f488-4956-8f63-dcfb9098b777"
    }
   ],
   "quarters": [
-   {
-    "name": "Gloomy Dwelling",
-    "uuid": "48dc8887-3930-41cc-8e4d-d80a4199d3aa"
-   },
-   {
-    "name": "Lovely Property",
-    "uuid": "627fe186-a317-45a4-a265-a3887359caf1"
-   },
-   {
-    "name": "Enraging Apartment",
-    "uuid": "2198c182-b329-4922-889d-d02c272c03fd"
-   },
-   {
-    "name": "Inviting Dwelling",
-    "uuid": "4182f09a-a979-47a0-a15c-e171e4379364"
-   },
-   {
-    "name": "Stylish Property",
-    "uuid": "8b428e02-3293-4411-b31a-bbd3bb18044c"
-   },
-   {
-    "name": "Inviting Residence",
-    "uuid": "b0e85754-5cb3-43c1-b1c7-3b94a99b1640"
-   },
    {
     "name": "Stylish Dwelling",
     "uuid": "8ba11596-e0c1-43d4-937a-95ac3dd2797f"
@@ -647,10 +663,6 @@
     "uuid": "0a02f9c0-3f08-4c95-9b44-efb1f520d578"
    },
    {
-    "name": "Luxurious Flat",
-    "uuid": "327d2bb8-2ce5-44cc-9922-2a4d7abc3c13"
-   },
-   {
     "name": "Stylish Suite",
     "uuid": "9e822ddb-1908-4af1-adf8-d3a4b2ed4b6d"
    },
@@ -683,14 +695,6 @@
     "uuid": "bbe67fa8-e034-46ea-8dc1-3b25308fca2a"
    },
    {
-    "name": "Inconvenient Residence",
-    "uuid": "d7d36585-73db-44a6-ab0b-5b4e1b8c6565"
-   },
-   {
-    "name": "Upbeat Dwelling",
-    "uuid": "563ff312-3621-4727-b180-6dcbecf56911"
-   },
-   {
     "name": "Luxurious Dwelling",
     "uuid": "3a1a68bb-2bf0-43d8-9bf7-adb2281129a5"
    },
@@ -701,6 +705,18 @@
    {
     "name": "Lovely Property",
     "uuid": "a8d16b8f-8ba7-4929-b44e-7b02086ac1cc"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "327d2bb8-2ce5-44cc-9922-2a4d7abc3c13"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "75951cb9-12a6-4168-a2c1-9629ef93cad1"
+   },
+   {
+    "name": "Annoying Property",
+    "uuid": "55e2b411-8b8f-4b56-b790-e961fe1b13be"
    }
   ],
   "ranks": {

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Mtskheta",
   "uuid": "9b274c1e-d3c3-44d3-b8fb-3a082f7f3db2",
-  "board": "Flowers bloom in your heart!",
+  "board": "our bodies are in the mountains but our heart belongs to the sea",
   "founder": "PineGapples_",
   "wiki": null,
   "discord": null,
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 92,
+   "numTownBlocks": 94,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 6,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 27.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16408.396940779003,
-    "y": 119.9375,
-    "z": -8130.477937728726,
-    "pitch": 0.44990793,
-    "yaw": 1.1080933
+    "x": 16487.53528600851,
+    "y": 128.0,
+    "z": -8129.602167777871,
+    "pitch": -8.281845,
+    "yaw": 1.4330426
    },
    "homeBlock": [
-    1025,
+    1030,
     -509
    ],
    "townBlocks": [
@@ -193,6 +193,10 @@
     ],
     [
      1030,
+     -511
+    ],
+    [
+     1030,
      -509
     ],
     [
@@ -226,6 +230,10 @@
     [
      1022,
      -513
+    ],
+    [
+     1030,
+     -507
     ],
     [
      1018,
@@ -480,10 +488,6 @@
    {
     "name": "Yoru27",
     "uuid": "90f8a89f-980a-4917-a03e-7b8b90f800b2"
-   },
-   {
-    "name": "pengpy",
-    "uuid": "6ce17d6c-5c2c-4b23-8b59-facb56df6e58"
    },
    {
     "name": "HonkDooder",

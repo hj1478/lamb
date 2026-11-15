@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "The_Shelves",
   "uuid": "b5853993-b6b0-43db-a204-24813619d625",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 111,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 129,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 3,
    "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -185,7 +185,19 @@
     ],
     [
      656,
+     -180
+    ],
+    [
+     656,
+     -179
+    ],
+    [
+     656,
      -182
+    ],
+    [
+     656,
+     -181
     ],
     [
      655,
@@ -197,6 +209,18 @@
     ],
     [
      655,
+     -179
+    ],
+    [
+     655,
+     -180
+    ],
+    [
+     655,
+     -181
+    ],
+    [
+     655,
      -182
     ],
     [
@@ -205,6 +229,18 @@
     ],
     [
      643,
+     -179
+    ],
+    [
+     658,
+     -180
+    ],
+    [
+     658,
+     -181
+    ],
+    [
+     658,
      -179
     ],
     [
@@ -246,6 +282,18 @@
     [
      657,
      -182
+    ],
+    [
+     657,
+     -181
+    ],
+    [
+     657,
+     -180
+    ],
+    [
+     657,
+     -179
     ],
     [
      660,
@@ -464,6 +512,14 @@
      -182
     ],
     [
+     659,
+     -180
+    ],
+    [
+     659,
+     -179
+    ],
+    [
      665,
      -184
     ],
@@ -478,6 +534,10 @@
     [
      659,
      -182
+    ],
+    [
+     659,
+     -181
     ],
     [
      647,
@@ -501,11 +561,23 @@
     ],
     [
      654,
+     -179
+    ],
+    [
+     654,
      -183
     ],
     [
      654,
      -182
+    ],
+    [
+     654,
+     -181
+    ],
+    [
+     654,
+     -180
     ],
     [
      654,
@@ -546,6 +618,10 @@
    {
     "name": "TheStacker",
     "uuid": "c2172bbd-b2e4-44be-aa23-fb13f520d778"
+   },
+   {
+    "name": "kencarsonlvr999",
+    "uuid": "b5341848-b17b-42d5-bc30-4aab39e7f7a7"
    }
   ],
   "trusted": [
@@ -573,8 +649,18 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "kencarsonlvr999",
+     "uuid": "b5341848-b17b-42d5-bc30-4aab39e7f7a7"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "TheStacker",
+     "uuid": "c2172bbd-b2e4-44be-aa23-fb13f520d778"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

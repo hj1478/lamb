@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Jelenec",
   "uuid": "aa0f6f4a-a4af-4a80-b8b2-d57dbf85067e",
@@ -12,12 +12,12 @@
    "uuid": "e048ed4a-f488-4956-8f63-dcfb9098b777"
   },
   "nation": {
-   "name": "Czech_Republic",
-   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
   },
   "timestamps": {
    "registered": 1788880155809,
-   "joinedNationAt": 1792078986610,
+   "joinedNationAt": 1794383690453,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 20,
-   "maxTownBlocks": 84,
+   "numTownBlocks": 22,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 268.0,
+   "numOutlaws": 12,
+   "balance": 327.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 7164.805645291592,
-    "y": 73.0,
-    "z": -10642.835143423605,
-    "pitch": 10.049986,
-    "yaw": 172.93698
+    "x": 7161.018779702634,
+    "y": 70.9375,
+    "z": -10630.283806394358,
+    "pitch": 16.533937,
+    "yaw": 9.0159
    },
    "homeBlock": [
     447,
-    -666
+    -665
    ],
    "townBlocks": [
     [
@@ -114,6 +114,10 @@
     [
      445,
      -664
+    ],
+    [
+     445,
+     -663
     ],
     [
      448,
@@ -165,6 +169,10 @@
     ],
     [
      446,
+     -663
+    ],
+    [
+     446,
      -667
     ],
     [
@@ -202,6 +210,42 @@
    {
     "name": "Lillwester",
     "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+   },
+   {
+    "name": "That1_manus",
+    "uuid": "d8fc4c71-1a27-46c0-8d68-7bfe636fe6fb"
+   },
+   {
+    "name": "szyhax",
+    "uuid": "ec8a23af-0791-4fd4-8862-2bf67ad4ee2c"
+   },
+   {
+    "name": "Lidey1",
+    "uuid": "655db71e-bd65-4bcc-b609-d249b4f96418"
+   },
+   {
+    "name": "void_master_89",
+    "uuid": "65455ff8-767e-46ac-b829-7142e41b35a1"
+   },
+   {
+    "name": "frankos002",
+    "uuid": "27bc5d77-2a8a-4ccb-b3cd-6d09795a87d6"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   },
+   {
+    "name": "JAQE123123",
+    "uuid": "a78f0acd-c863-493d-b614-35fce8f20fae"
+   },
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "FeliksTV",
+    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
    }
   ],
   "quarters": [],

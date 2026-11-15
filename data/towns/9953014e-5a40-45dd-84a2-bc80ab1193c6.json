@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "TinyTown",
   "uuid": "9953014e-5a40-45dd-84a2-bc80ab1193c6",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 120,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 5,
-   "numTrusted": 5,
-   "numOutlaws": 2,
+   "numTrusted": 4,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -176,10 +176,6 @@
     "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
    },
    {
-    "name": "YeetBrick",
-    "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
-   },
-   {
     "name": "notJaze",
     "uuid": "baeac71b-44c0-46f8-b966-4ac9279a1a4e"
    },
@@ -190,6 +186,10 @@
    {
     "name": "AnyaxX222",
     "uuid": "1ecc3011-3f77-4e0d-b506-2f760b76f84c"
+   },
+   {
+    "name": "pengpy",
+    "uuid": "6ce17d6c-5c2c-4b23-8b59-facb56df6e58"
    }
   ],
   "trusted": [
@@ -206,10 +206,6 @@
     "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
    },
    {
-    "name": "YeetBrick",
-    "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
-   },
-   {
     "name": "2hett",
     "uuid": "bc707f29-27d9-471b-9b6f-f5045780ba68"
    }
@@ -222,6 +218,10 @@
    {
     "name": "dex247",
     "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
+   },
+   {
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
    }
   ],
   "quarters": [
@@ -456,6 +456,10 @@
    {
     "name": "Luxurious Property",
     "uuid": "ca393fbf-f610-45e0-9359-8ba11159fa58"
+   },
+   {
+    "name": "Upbeat Apartment",
+    "uuid": "e6ab652f-387e-4cfe-a0f2-6d0e49416d58"
    }
   ],
   "ranks": {
@@ -463,20 +467,12 @@
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ],
    "Builder": [
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     },
     {
      "name": "AnyaxX222",
@@ -487,60 +483,36 @@
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ],
    "Police": [
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ],
    "Tax-exempt": [
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ],
    "Treasurer": [
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ],
    "Realtor": [
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ],
    "Settler": [
     {
      "name": "Iordw",
      "uuid": "01f56d6f-5f0d-45fb-abb4-ba66e918c913"
-    },
-    {
-     "name": "YeetBrick",
-     "uuid": "d8642663-0a89-4b05-b376-b51eb6b84f8c"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Upington",
   "uuid": "994520f2-0766-4cf4-a279-8a7ec8f43657",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 163,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 3,
-   "balance": 20.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -752,10 +752,6 @@
     "uuid": "16922cfb-d7c0-4e5d-9184-9352b119c595"
    },
    {
-    "name": "99Vur",
-    "uuid": "f4aa24ea-ff53-42f9-9cd0-4069552a5422"
-   },
-   {
     "name": "pyrolyster",
     "uuid": "70bdc4e1-e42c-427e-bf59-3bc206026c52"
    }
@@ -783,10 +779,6 @@
    {
     "name": "Annoying Flat",
     "uuid": "07455962-1b77-4613-a1e7-7170a4c04928"
-   },
-   {
-    "name": "Lovely Property",
-    "uuid": "36ac5993-5ccc-4493-9a00-3b0e88a21b8b"
    },
    {
     "name": "Dingy Quarter",
@@ -823,6 +815,10 @@
    {
     "name": "Luxurious Property",
     "uuid": "7b2fe95f-2073-434f-bd8d-eaf11dbf76ed"
+   },
+   {
+    "name": "Lovely Property",
+    "uuid": "36ac5993-5ccc-4493-9a00-3b0e88a21b8b"
    }
   ],
   "ranks": {

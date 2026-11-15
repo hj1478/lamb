@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Wuhan",
   "uuid": "9a339a3a-7f12-49b2-9b99-641dd4c67a42",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 404,
-   "maxTownBlocks": 388,
+   "maxTownBlocks": 364,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 24,
-   "numTrusted": 26,
+   "numResidents": 22,
+   "numTrusted": 27,
    "numOutlaws": 9,
-   "balance": 100.0,
+   "balance": 98.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1721,32 +1721,16 @@
     "uuid": "82f0f92d-c30e-4ed0-a208-96ceca79c36c"
    },
    {
-    "name": "zakuid64",
-    "uuid": "9c2df859-0a58-44bf-899e-280813263b7f"
-   },
-   {
     "name": "2_Drop",
     "uuid": "6156a1c4-83d0-499c-b911-a3634b556d42"
-   },
-   {
-    "name": "Diegusmago",
-    "uuid": "f677025e-2792-4c3b-9563-d8f29a315144"
    },
    {
     "name": "ItsFurina",
     "uuid": "1a34b593-98e2-4661-ae95-028aff8010e9"
    },
    {
-    "name": "LB_2015",
-    "uuid": "24baac6a-16dc-4e1b-90a9-1801b59ecb42"
-   },
-   {
     "name": "lookTragedy_",
     "uuid": "660e690a-3646-4b5a-9743-9f353ba915f3"
-   },
-   {
-    "name": "Turre20",
-    "uuid": "2bc41f3d-d025-4106-b232-b055abc155f8"
    },
    {
     "name": "xiao_gaoQAQ",
@@ -1811,12 +1795,24 @@
    {
     "name": "Ech0_0_",
     "uuid": "90f74f7c-5cb7-402d-b1f3-d2c1dd78dc58"
+   },
+   {
+    "name": "Phoenix_RHW",
+    "uuid": "e2d7d030-b126-46d8-beca-37981e60a523"
+   },
+   {
+    "name": "InfinityBling",
+    "uuid": "d462428a-2161-47bb-80d1-bd01ffd5daf6"
    }
   ],
   "trusted": [
    {
     "name": "xytarum",
     "uuid": "1386355c-8407-46e0-bbef-1e10bf6acfe9"
+   },
+   {
+    "name": "InfinityBling",
+    "uuid": "d462428a-2161-47bb-80d1-bd01ffd5daf6"
    },
    {
     "name": "YIYI_0113",
@@ -1829,6 +1825,10 @@
    {
     "name": "Rain_Leng",
     "uuid": "6a1caf9a-ddc3-4534-ba23-0db492ef8e01"
+   },
+   {
+    "name": "Phoenix_RHW",
+    "uuid": "e2d7d030-b126-46d8-beca-37981e60a523"
    },
    {
     "name": "VTLung",
@@ -1897,10 +1897,6 @@
    {
     "name": "_Plumme",
     "uuid": "fec2c3a5-23f9-4bc9-8ae6-52c5e0554916"
-   },
-   {
-    "name": "alapdq",
-    "uuid": "766dbbfa-0596-48eb-a45e-27d013c64e15"
    },
    {
     "name": "Luzzzjing",
@@ -2091,7 +2087,20 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "store",
+    "uuid": "24baaa0a-9095-4faf-b858-1eb096280292",
+    "createdAt": 1794589405224,
+    "createdBy": "ItsFurina",
+    "access": "NATION",
+    "location": {
+     "x": 40512,
+     "y": 63,
+     "z": -3073
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

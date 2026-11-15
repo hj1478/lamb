@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
-  "name": "Virginia",
+  "name": "Market",
   "uuid": "b3dcf44d-62bf-4754-aa08-f60d1e2658dc",
   "board": "Sic Semper Tyrannis!",
   "founder": "AxisBlue",
   "wiki": null,
   "discord": "https://discord.gg/5sPBAdCyRd",
   "mayor": {
-   "name": "Clext",
-   "uuid": "0fd85f7c-5ac2-409c-87cf-2f8f6e95f9d6"
+   "name": "St_Butchie",
+   "uuid": "a47f48bf-66ee-4f6a-8800-b972b4bd77d7"
   },
   "nation": {
    "name": "America",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 224,
-   "maxTownBlocks": 412,
+   "maxTownBlocks": 376,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
-   "numTrusted": 0,
-   "numOutlaws": 8,
-   "balance": 481.0,
+   "numResidents": 23,
+   "numTrusted": 1,
+   "numOutlaws": 12,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27699.062647914383,
+    "x": -27767.0731566171,
     "y": 63.0,
-    "z": -5914.991953765838,
-    "pitch": -16.04998,
-    "yaw": -87.50992
+    "z": -5752.94581417408,
+    "pitch": 16.726166,
+    "yaw": -154.19841
    },
    "homeBlock": [
-    -1732,
-    -370
+    -1736,
+    -360
    ],
    "townBlocks": [
     [
@@ -1020,24 +1020,12 @@
     "uuid": "5e922cb0-d4f3-46ea-b498-933ed44eafcb"
    },
    {
-    "name": "Linsorks",
-    "uuid": "e35bd718-f74a-42c8-940d-7b70f165e018"
-   },
-   {
     "name": "AerofruitVOs",
     "uuid": "506665cd-6a06-465e-b82a-f7f1c5a2d2aa"
    },
    {
     "name": "St_Butchie",
     "uuid": "a47f48bf-66ee-4f6a-8800-b972b4bd77d7"
-   },
-   {
-    "name": "Clext",
-    "uuid": "0fd85f7c-5ac2-409c-87cf-2f8f6e95f9d6"
-   },
-   {
-    "name": "CryptoCommie",
-    "uuid": "660a046d-c6fe-4066-98a7-772c88c97875"
    },
    {
     "name": "JoeyTheGamer_",
@@ -1084,19 +1072,24 @@
     "uuid": "5a31f8d4-7daf-4284-bd0d-398516633836"
    },
    {
-    "name": "UmuttiFrutti",
-    "uuid": "31ced739-e191-4d06-acb0-0aac2bacfab1"
-   },
-   {
-    "name": "JayBonezTR",
-    "uuid": "abbb0d40-78b8-440c-8cd4-89c34bcd3eec"
-   },
-   {
     "name": "Just_CJ_",
     "uuid": "224f1e11-ff00-4f3d-a02d-cee012c1ec1d"
+   },
+   {
+    "name": "Archie_Slater",
+    "uuid": "2e6594ad-c777-4b57-b706-def5d19ddbbc"
+   },
+   {
+    "name": "pyrops32k",
+    "uuid": "1cca3bd5-b0f3-4ab0-ae9f-672c77efc013"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Clext",
+    "uuid": "0fd85f7c-5ac2-409c-87cf-2f8f6e95f9d6"
+   }
+  ],
   "outlaws": [
    {
     "name": "Yerevan_773",
@@ -1111,10 +1104,6 @@
     "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
    },
    {
-    "name": "Tldigi",
-    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
-   },
-   {
     "name": "SaturnJamie",
     "uuid": "e9954008-3788-46c7-a1cb-2cf432813aa8"
    },
@@ -1127,19 +1116,31 @@
     "uuid": "04f30a2f-54c0-41b0-a8b2-c8c18ff3def3"
    },
    {
-    "name": "tqken0ko",
+    "name": "_Takenoko",
     "uuid": "333fa3c8-39d1-4755-a860-ace54bde0909"
+   },
+   {
+    "name": "Szuper",
+    "uuid": "d3e838f9-f039-4e18-8993-02dfdd433a12"
+   },
+   {
+    "name": "Illmenia",
+    "uuid": "f5b1ddd5-afdf-4e86-b7b3-d8f0b870e8d3"
+   },
+   {
+    "name": "yarch1e",
+    "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
+   },
+   {
+    "name": "Ztruwwel2",
+    "uuid": "393b5b52-ce03-4536-bb17-3a19b697b527"
+   },
+   {
+    "name": "Kirill_Poroh",
+    "uuid": "c00cb7c8-2b05-4c6f-b929-a41628751d81"
    }
   ],
   "quarters": [
-   {
-    "name": "Market",
-    "uuid": "31a28ad4-bba7-4ec8-b2a9-d2f419a828a0"
-   },
-   {
-    "name": "House",
-    "uuid": "5cc5add8-7214-4dc8-827c-4b3ba455abef"
-   },
    {
     "name": "Elegant Residence",
     "uuid": "3f52be40-9e78-4e96-9672-00fda8aa9dff"
@@ -1151,6 +1152,14 @@
    {
     "name": "Perturbing Tenement",
     "uuid": "48977068-b801-44c3-90f1-b2b6dc3624f8"
+   },
+   {
+    "name": "House",
+    "uuid": "5cc5add8-7214-4dc8-827c-4b3ba455abef"
+   },
+   {
+    "name": "Market",
+    "uuid": "31a28ad4-bba7-4ec8-b2a9-d2f419a828a0"
    }
   ],
   "ranks": {

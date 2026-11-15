@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Sentinel_City",
   "uuid": "b08f8655-6e18-4d57-81ca-ee6cf63b7288",
-  "board": "Still Under Development",
+  "board": "Open for Business",
   "founder": "Xthul",
   "wiki": null,
   "discord": null,
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 64,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 1,
    "numOutlaws": 1,
-   "balance": 525.0,
+   "balance": 390.0,
    "forSalePrice": null
   },
   "perms": {
@@ -364,8 +364,16 @@
     "uuid": "a8b0a4f5-c5ad-42de-9485-bfea827660df"
    },
    {
+    "name": "mastermokey",
+    "uuid": "48b9efcb-fd3d-48e4-ac8b-9d77807f49c0"
+   },
+   {
     "name": "SirLambz",
     "uuid": "915dcfb4-252c-4255-8954-8f02cb84e841"
+   },
+   {
+    "name": "Waffle_Gamer29",
+    "uuid": "6775ce9a-7f45-4df1-b463-91053a9a22bf"
    }
   ],
   "trusted": [
@@ -392,8 +400,18 @@
      "uuid": "b08a9cb1-d623-409b-96a8-3aa8f0cf31cb"
     }
    ],
-   "Builder": [],
-   "Recruiter": [],
+   "Builder": [
+    {
+     "name": "mastermokey",
+     "uuid": "48b9efcb-fd3d-48e4-ac8b-9d77807f49c0"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "mastermokey",
+     "uuid": "48b9efcb-fd3d-48e4-ac8b-9d77807f49c0"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

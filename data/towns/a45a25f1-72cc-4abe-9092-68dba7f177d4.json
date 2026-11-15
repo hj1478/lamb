@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Tower",
   "uuid": "a45a25f1-72cc-4abe-9092-68dba7f177d4",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 5,
    "maxTownBlocks": 84,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9282.699999988079,
-    "y": 69.0,
-    "z": -19584.76249998808,
-    "pitch": 26.549988,
-    "yaw": 51.15016
+    "x": 9289.440993706152,
+    "y": 68.0,
+    "z": -19588.752507302863,
+    "pitch": 89.7,
+    "yaw": 178.05151
    },
    "homeBlock": [
     580,
@@ -102,6 +102,10 @@
     [
      581,
      -1225
+    ],
+    [
+     580,
+     -1224
     ],
     [
      580,
@@ -158,6 +162,14 @@
    {
     "name": "Tower-2 Apartment-5",
     "uuid": "c0b66396-1790-4ab2-aaee-95f04e251105"
+   },
+   {
+    "name": "Tower-3 Apartment-2",
+    "uuid": "d07904f4-f294-4b94-ad63-7d173c3135d1"
+   },
+   {
+    "name": "Tower-3 Apartment-1",
+    "uuid": "57362f70-b21d-4964-93f3-7c75f1971519"
    }
   ],
   "ranks": {

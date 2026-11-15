@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Rumelia",
   "uuid": "aa4fac8d-e285-4fab-b09b-eae9ad1204d7",
@@ -12,12 +12,12 @@
    "uuid": "8c127e39-8882-4dce-bd72-5e0c79cf1773"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1779227247249,
-   "joinedNationAt": 1793276715066,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 421,
-   "maxTownBlocks": 168,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 9,
    "numTrusted": 1,
    "numOutlaws": 9,
@@ -1780,6 +1780,10 @@
   },
   "residents": [
    {
+    "name": "Toasty_Hashbrown",
+    "uuid": "ab0873da-bde3-476d-9dea-b1d19532cd8e"
+   },
+   {
     "name": "BigGrayDog",
     "uuid": "f3ccdb63-bb4a-46cb-ad3e-2d637e1924d0"
    },
@@ -1794,10 +1798,6 @@
    {
     "name": "ghonw",
     "uuid": "c6bc5416-9ae4-4f6b-b1fc-3e8cad3031cb"
-   },
-   {
-    "name": "Solaradian",
-    "uuid": "52c90c5d-b18e-44a4-8190-949ee0a1cf56"
    },
    {
     "name": "crashgoblin66",

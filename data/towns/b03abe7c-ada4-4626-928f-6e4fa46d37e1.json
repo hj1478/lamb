@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Bonaire",
   "uuid": "b03abe7c-ada4-4626-928f-6e4fa46d37e1",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 32,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 2,
    "numOutlaws": 8,
    "balance": 0.0,
@@ -224,10 +224,6 @@
   },
   "residents": [
    {
-    "name": "Mestarihylje",
-    "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
-   },
-   {
     "name": "Sleepyy_MC",
     "uuid": "1fa05c95-e954-4f0f-90c9-fd4d3bf00624"
    },
@@ -238,6 +234,14 @@
    {
     "name": "Tuhooja09",
     "uuid": "6ba3f4ac-ef7d-4477-bb50-bd6030a6dc81"
+   },
+   {
+    "name": "Murzynka_ez",
+    "uuid": "ee9f7cdc-25a2-4755-a887-8eabf016ecd0"
+   },
+   {
+    "name": "01qe",
+    "uuid": "f14a0717-d078-4229-94eb-72649ecbfa69"
    }
   ],
   "trusted": [
@@ -286,10 +290,6 @@
   ],
   "quarters": [
    {
-    "name": "Welcoming Quarter",
-    "uuid": "de60884e-55f2-4a98-8630-9624fa333bea"
-   },
-   {
     "name": "Lovely Quarter",
     "uuid": "f707a3a2-8af1-4cf7-92c5-a4c0e19fa9e1"
    },
@@ -312,15 +312,14 @@
    {
     "name": "Stylish Suite",
     "uuid": "ab5a94bf-ea4e-4cf6-931e-8a5b546eabe0"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "de60884e-55f2-4a98-8630-9624fa333bea"
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Mestarihylje",
-     "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

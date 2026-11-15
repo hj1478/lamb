@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Sarajevo",
   "uuid": "b160636b-74fc-44f4-bf45-d1345d1609ac",
@@ -12,19 +12,19 @@
    "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
    "registered": 1779718281886,
-   "joinedNationAt": 1779723575220,
+   "joinedNationAt": 1794598455150,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 165,
-   "maxTownBlocks": 336,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 23,
-   "numTrusted": 3,
+   "nationBonus": 100,
+   "numResidents": 24,
+   "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 2.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -765,10 +765,6 @@
     "uuid": "72578f5c-204c-4d3c-8dfb-0350ae1d4601"
    },
    {
-    "name": "AryanKasapin",
-    "uuid": "1047bed5-afb0-47a8-942f-644bec3ce9d7"
-   },
-   {
     "name": "betsoup",
     "uuid": "e6facfcb-fad3-48ee-b9aa-15691aa5ffb1"
    },
@@ -851,13 +847,17 @@
    {
     "name": "Lesetsu",
     "uuid": "a5b98114-5f28-452e-954a-15cc31bcafbc"
+   },
+   {
+    "name": "YRyanranAwA",
+    "uuid": "449943e8-1727-4ab4-86c8-1bcf56d2cf05"
+   },
+   {
+    "name": "DABBIED",
+    "uuid": "50b988e2-24b8-44d0-b2ff-77cda4fec130"
    }
   ],
   "trusted": [
-   {
-    "name": "Kokomo309",
-    "uuid": "dedbadeb-4857-4e2e-9d76-a69c0a147d61"
-   },
    {
     "name": "pengpy",
     "uuid": "6ce17d6c-5c2c-4b23-8b59-facb56df6e58"

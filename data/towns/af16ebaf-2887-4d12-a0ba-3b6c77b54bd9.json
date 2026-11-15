@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Polska",
   "uuid": "af16ebaf-2887-4d12-a0ba-3b6c77b54bd9",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1780843208611,
-   "joinedNationAt": 1790964223525,
+   "joinedNationAt": 1794426329809,
    "ruinedAt": null
   },
   "status": {
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 171,
-   "maxTownBlocks": 232,
+   "maxTownBlocks": 268,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 11,
-   "numTrusted": 0,
+   "numResidents": 14,
+   "numTrusted": 1,
    "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9506.562419378004,
+    "x": 9535.701110964867,
     "y": 63.0,
-    "z": -14552.673313168221,
-    "pitch": 31.25788,
-    "yaw": 84.19727
+    "z": -14543.413393926667,
+    "pitch": 17.9566,
+    "yaw": -106.72296
    },
    "homeBlock": [
-    594,
-    -910
+    595,
+    -909
    ],
    "townBlocks": [
     [
@@ -822,9 +822,26 @@
    {
     "name": "SynBrodatego",
     "uuid": "2b937357-f835-4234-bf99-dfed244351b2"
+   },
+   {
+    "name": "SH4MAAS",
+    "uuid": "59653e23-aa9f-436a-9550-bca66aabdc3b"
+   },
+   {
+    "name": "Don_Peanut",
+    "uuid": "6e06731f-22b9-4898-985a-4d654ecd6420"
+   },
+   {
+    "name": "Theunderalator_",
+    "uuid": "de243cd7-7100-4766-942e-b4d84234f2f0"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Don_Peanut",
+    "uuid": "6e06731f-22b9-4898-985a-4d654ecd6420"
+   }
+  ],
   "outlaws": [
    {
     "name": "01qe",
@@ -843,12 +860,7 @@
     "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
    }
   ],
-  "quarters": [
-   {
-    "name": "vixititties",
-    "uuid": "0981aca1-aa7d-4a2f-81de-da8d53244a53"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [],
    "Builder": [],

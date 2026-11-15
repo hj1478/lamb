@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Villahermosa",
   "uuid": "9a24427c-1288-41f1-96d2-b26d9204b565",
-  "board": "/town set board [msg]",
+  "board": "QUE VIVA MEXICO POR SIEMPRE!",
   "founder": "joshee26217",
   "wiki": null,
   "discord": null,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 59,
+   "numTownBlocks": 64,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33164.60364844218,
-    "y": 73.0,
-    "z": 1334.2491666092794,
-    "pitch": 25.649881,
-    "yaw": 33.46753
+    "x": -33180.50345749815,
+    "y": 64.0,
+    "z": 1285.3929134893242,
+    "pitch": 0.7499794,
+    "yaw": 0.4668579
    },
    "homeBlock": [
-    -2073,
-    83
+    -2074,
+    80
    ],
    "townBlocks": [
     [
@@ -144,6 +144,10 @@
      85
     ],
     [
+     -2068,
+     87
+    ],
+    [
      -2074,
      78
     ],
@@ -154,6 +158,10 @@
     [
      -2070,
      86
+    ],
+    [
+     -2076,
+     78
     ],
     [
      -2076,
@@ -244,6 +252,10 @@
      81
     ],
     [
+     -2069,
+     87
+    ],
+    [
      -2075,
      80
     ],
@@ -264,6 +276,10 @@
      86
     ],
     [
+     -2075,
+     85
+    ],
+    [
      -2072,
      83
     ],
@@ -272,8 +288,8 @@
      86
     ],
     [
-     -2075,
-     85
+     -2077,
+     78
     ],
     [
      -2075,
@@ -282,6 +298,10 @@
     [
      -2072,
      84
+    ],
+    [
+     -2077,
+     79
     ],
     [
      -2072,
@@ -304,12 +324,12 @@
      81
     ],
     [
-     -2071,
-     82
-    ],
-    [
      -2072,
      79
+    ],
+    [
+     -2071,
+     82
     ],
     [
      -2072,
@@ -337,10 +357,6 @@
    }
   ],
   "trusted": [
-   {
-    "name": "RomanDiCario",
-    "uuid": "c6361698-4f03-4fb2-bb3c-74e799a22ad5"
-   },
    {
     "name": "Mr_One_Punch",
     "uuid": "79efac02-df4b-4b20-8aa9-0dfb919b600b"

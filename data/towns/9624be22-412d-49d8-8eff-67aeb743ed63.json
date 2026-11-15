@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Junglemania",
   "uuid": "9624be22-412d-49d8-8eff-67aeb743ed63",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 12,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,33 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26736.64227201097,
-    "y": 62.11076431274413,
-    "z": 5790.984534544254,
-    "pitch": 10.898958,
-    "yaw": 48.239304
+    "x": -26716.204459191107,
+    "y": 63.0,
+    "z": 5799.069141514788,
+    "pitch": 7.3867564,
+    "yaw": 91.37698
    },
    "homeBlock": [
-    -1672,
-    361
+    -1670,
+    362
    ],
    "townBlocks": [
+    [
+     -1669,
+     363
+    ],
+    [
+     -1672,
+     363
+    ],
+    [
+     -1670,
+     362
+    ],
+    [
+     -1670,
+     363
+    ],
     [
      -1670,
      361
@@ -101,6 +117,26 @@
     ],
     [
      -1672,
+     361
+    ],
+    [
+     -1671,
+     363
+    ],
+    [
+     -1669,
+     362
+    ],
+    [
+     -1672,
+     362
+    ],
+    [
+     -1671,
+     362
+    ],
+    [
+     -1669,
      361
     ]
    ],

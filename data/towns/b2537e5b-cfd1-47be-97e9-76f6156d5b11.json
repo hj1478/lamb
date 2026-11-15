@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Venn",
   "uuid": "b2537e5b-cfd1-47be-97e9-76f6156d5b11",
-  "board": "/town set board [msg]",
+  "board": "Beyond the reach of men, where the ocean keeps its oldest secrets.",
   "founder": "JohnHendrix",
   "wiki": null,
   "discord": null,
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -74,23 +74,67 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -45991.75375196,
-    "y": 63.0,
-    "z": 16920.425290098814,
-    "pitch": 28.84627,
-    "yaw": 31.231934
+    "x": -45984.82839523706,
+    "y": 64.0,
+    "z": 16920.503188214978,
+    "pitch": 9.755006,
+    "yaw": -88.63267
    },
    "homeBlock": [
     -2875,
     1057
    ],
    "townBlocks": [
+    [
+     -2875,
+     1056
+    ],
+    [
+     -2874,
+     1056
+    ],
+    [
+     -2876,
+     1056
+    ],
+    [
+     -2874,
+     1057
+    ],
+    [
+     -2876,
+     1057
+    ],
+    [
+     -2874,
+     1058
+    ],
+    [
+     -2876,
+     1058
+    ],
+    [
+     -2877,
+     1057
+    ],
+    [
+     -2873,
+     1057
+    ],
+    [
+     -2875,
+     1059
+    ],
+    [
+     -2875,
+     1058
+    ],
     [
      -2875,
      1057

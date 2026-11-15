@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Otuken",
   "uuid": "b181fb62-f54e-4f2c-8c06-0bb68361844c",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "AtillaKagan",
-   "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   "name": "erennick",
+   "uuid": "beaa046f-6be8-40b9-943c-421b54439c5b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Byzantium",
+   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
   },
   "timestamps": {
    "registered": 1784894415228,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794146480038,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 142,
-   "maxTownBlocks": 228,
+   "maxTownBlocks": 328,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 19,
    "numTrusted": 3,
-   "numOutlaws": 3,
-   "balance": 506.0,
+   "numOutlaws": 2,
+   "balance": 471.0,
    "forSalePrice": null
   },
   "perms": {
@@ -668,14 +668,6 @@
     "uuid": "78230178-446c-42c4-b078-9ebecbc29908"
    },
    {
-    "name": "SyntheticVoice",
-    "uuid": "ba2637e7-d65d-4193-82a7-b2a39ab555ff"
-   },
-   {
-    "name": "BruajBD",
-    "uuid": "6a658284-a57a-47d6-b286-3143aea81435"
-   },
-   {
     "name": "arif262",
     "uuid": "c5dd4435-c48e-4070-a72d-c119c77fd148"
    },
@@ -728,16 +720,24 @@
     "uuid": "485c520b-5346-468b-a06d-ff897b47bd0b"
    },
    {
-    "name": "AtillaKagan",
-    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
-   },
-   {
     "name": "JamesRamirez50",
     "uuid": "f51fc700-0604-440f-90bf-af4965b8e7dc"
    },
    {
     "name": "bardoare",
     "uuid": "c34e71b5-1f64-456c-b43b-5598c306ece5"
+   },
+   {
+    "name": "Fulminata_",
+    "uuid": "20041f99-dcd6-4fe7-8829-6a675ed30213"
+   },
+   {
+    "name": "soupamarioplays",
+    "uuid": "51714446-939d-4f15-9d5b-82afa08abea9"
+   },
+   {
+    "name": "yalniz_koylu",
+    "uuid": "15e713cb-fa3a-42a4-a8f3-eb32f6e9141a"
    }
   ],
   "trusted": [
@@ -756,15 +756,11 @@
   ],
   "outlaws": [
    {
-    "name": "Prupflex",
-    "uuid": "abf18bea-2b8c-4ab6-8d01-7bf9a489ec7e"
-   },
-   {
     "name": "ItzGlazzy",
     "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
    },
    {
-    "name": "tqken0ko",
+    "name": "_Takenoko",
     "uuid": "333fa3c8-39d1-4755-a860-ace54bde0909"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "PR_Of_Frogs",
   "uuid": "a7946b64-9899-47c2-99ea-1a95f0b6f6c9",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
+   "numResidents": 5,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 21.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,8 +92,16 @@
    ],
    "townBlocks": [
     [
-     2770,
+     2767,
      1232
+    ],
+    [
+     2768,
+     1233
+    ],
+    [
+     2767,
+     1231
     ],
     [
      2768,
@@ -102,6 +110,30 @@
     [
      2768,
      1231
+    ],
+    [
+     2769,
+     1233
+    ],
+    [
+     2768,
+     1230
+    ],
+    [
+     2769,
+     1230
+    ],
+    [
+     2769,
+     1232
+    ],
+    [
+     2769,
+     1231
+    ],
+    [
+     2770,
+     1232
     ],
     [
      2772,
@@ -109,19 +141,15 @@
     ],
     [
      2771,
-     1232
-    ],
-    [
-     2769,
-     1233
-    ],
-    [
-     2769,
-     1232
-    ],
-    [
-     2769,
      1231
+    ],
+    [
+     2771,
+     1232
+    ],
+    [
+     2770,
+     1230
     ],
     [
      2770,
@@ -146,6 +174,10 @@
    {
     "name": "MangosAmIRite",
     "uuid": "7db82d59-b251-4db0-896f-abd4ed7bcdeb"
+   },
+   {
+    "name": "MuhkelPuhkel",
+    "uuid": "1bae7693-c3f2-4179-a388-c0edc3b3edbe"
    }
   ],
   "trusted": [],
@@ -166,7 +198,12 @@
      "uuid": "7db82d59-b251-4db0-896f-abd4ed7bcdeb"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "MuhkelPuhkel",
+     "uuid": "1bae7693-c3f2-4179-a388-c0edc3b3edbe"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

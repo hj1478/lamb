@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Azul",
   "uuid": "a10bc809-c7d4-47ad-8895-f34811b680bc",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 6,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": true
    }
   },
@@ -94,6 +94,18 @@
     [
      81,
      -362
+    ],
+    [
+     82,
+     -361
+    ],
+    [
+     82,
+     -362
+    ],
+    [
+     80,
+     -361
     ],
     [
      81,

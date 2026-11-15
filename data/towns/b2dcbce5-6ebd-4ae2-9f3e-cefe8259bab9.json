@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Orcadas",
   "uuid": "b2dcbce5-6ebd-4ae2-9f3e-cefe8259bab9",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "HarbingerOfFire",
-   "uuid": "841e5e23-da14-4bf3-9c1e-575d1d128c46"
+   "name": "HarbingerOfFlame",
+   "uuid": "9a1c6b01-d62e-46d8-bf80-95859fca83f0"
   },
   "nation": {
    "name": "Ross_Sea",
@@ -25,24 +25,24 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 14,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,6 +132,14 @@
      1961
     ],
     [
+     -3238,
+     1962
+    ],
+    [
+     -3238,
+     1961
+    ],
+    [
      -3236,
      1964
     ],
@@ -144,14 +152,22 @@
   },
   "residents": [
    {
-    "name": "HarbingerOfFire",
-    "uuid": "841e5e23-da14-4bf3-9c1e-575d1d128c46"
+    "name": "HarbingerOfFlame",
+    "uuid": "9a1c6b01-d62e-46d8-bf80-95859fca83f0"
    }
   ],
   "trusted": [
    {
     "name": "Jinvinho",
     "uuid": "0f8f56d2-34f0-4e72-8da1-92890379ed3f"
+   },
+   {
+    "name": "HarbingerOfFlame",
+    "uuid": "9a1c6b01-d62e-46d8-bf80-95859fca83f0"
+   },
+   {
+    "name": "HarbingerOfFire",
+    "uuid": "841e5e23-da14-4bf3-9c1e-575d1d128c46"
    },
    {
     "name": "Duolingoose",

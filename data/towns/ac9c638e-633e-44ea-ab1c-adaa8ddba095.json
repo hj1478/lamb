@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Bristol",
   "uuid": "ac9c638e-633e-44ea-ab1c-adaa8ddba095",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 116,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 80.0,
@@ -567,10 +567,6 @@
    {
     "name": "Xishai",
     "uuid": "ebc7cf69-40fc-4dd5-bb1a-2eed714e2214"
-   },
-   {
-    "name": "flosoliva",
-    "uuid": "58a142b4-a4ba-4442-a1da-6848872af68c"
    }
   ],
   "trusted": [

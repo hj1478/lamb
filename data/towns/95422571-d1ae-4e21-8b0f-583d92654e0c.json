@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Pirna",
   "uuid": "95422571-d1ae-4e21-8b0f-583d92654e0c",
@@ -12,12 +12,12 @@
    "uuid": "9a379494-6dfc-44a2-853a-f778c42c8ca0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Germany",
+   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
   },
   "timestamps": {
    "registered": 1794561439540,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794746626042,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,

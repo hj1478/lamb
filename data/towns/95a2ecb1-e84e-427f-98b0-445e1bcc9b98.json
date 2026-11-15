@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Puerto_Bandera",
   "uuid": "95a2ecb1-e84e-427f-98b0-445e1bcc9b98",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 132,
-   "maxTownBlocks": 180,
+   "numTownBlocks": 136,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 10,
+   "numResidents": 9,
    "numTrusted": 0,
    "numOutlaws": 49,
-   "balance": 32.0,
+   "balance": 168.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -26065.979549415246,
-    "y": 66.0,
-    "z": 27726.676813590537,
-    "pitch": 10.9432335,
-    "yaw": -90.92383
+    "x": -26070.37177052052,
+    "y": 65.9375,
+    "z": 27718.181723658625,
+    "pitch": 23.6673,
+    "yaw": 0.09613037
    },
    "homeBlock": [
     -1630,
@@ -240,6 +240,10 @@
      1731
     ],
     [
+     -1628,
+     1727
+    ],
+    [
      -1640,
      1731
     ],
@@ -341,6 +345,10 @@
     ],
     [
      -1629,
+     1727
+    ],
+    [
+     -1629,
      1729
     ],
     [
@@ -432,12 +440,12 @@
      1729
     ],
     [
-     -1631,
-     1730
+     -1630,
+     1727
     ],
     [
-     -1630,
-     1734
+     -1631,
+     1730
     ],
     [
      -1631,
@@ -445,6 +453,14 @@
     ],
     [
      -1630,
+     1734
+    ],
+    [
+     -1630,
+     1733
+    ],
+    [
+     -1631,
      1733
     ],
     [
@@ -453,15 +469,11 @@
     ],
     [
      -1631,
-     1733
+     1734
     ],
     [
      -1630,
      1731
-    ],
-    [
-     -1631,
-     1734
     ],
     [
      -1634,
@@ -590,6 +602,10 @@
     [
      -1637,
      1730
+    ],
+    [
+     -1627,
+     1727
     ],
     [
      -1627,
@@ -661,12 +677,8 @@
     "uuid": "fc35d00b-9e2c-4be0-a0ee-9aa32ac905f5"
    },
    {
-    "name": "jettlowc",
-    "uuid": "b7285510-39eb-4655-8852-6319ed5298ca"
-   },
-   {
-    "name": "ZTHEDOX",
-    "uuid": "0e712f84-3e49-4976-9aae-874b54348dbe"
+    "name": "Guide_ftapYT",
+    "uuid": "f19bf785-da41-4371-ac3c-3928d2034a82"
    }
   ],
   "trusted": [],
@@ -690,10 +702,6 @@
    {
     "name": "estojo",
     "uuid": "82dddac2-a8d9-428a-9da5-bb05c129e763"
-   },
-   {
-    "name": "218AA",
-    "uuid": "02d93643-e10d-49c7-8303-10c79a993075"
    },
    {
     "name": "MalMeteor",
@@ -780,10 +788,6 @@
     "uuid": "77366d91-afa1-4cc9-a840-f420a982d4e6"
    },
    {
-    "name": "Turanci_maresal",
-    "uuid": "d7a7d122-7d11-4f25-83ac-fe33112f85f1"
-   },
-   {
     "name": "Unknown40",
     "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
    },
@@ -798,10 +802,6 @@
    {
     "name": "praisemiyabi",
     "uuid": "557595d8-5c8d-4331-8a18-24296d01e2cd"
-   },
-   {
-    "name": "XukongZhiYing",
-    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
    },
    {
     "name": "Chrouched_",
@@ -866,16 +866,24 @@
    {
     "name": "tyld_mulky",
     "uuid": "2751d11b-f0b5-44c7-823d-d2021aa927d4"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "CaptainRyna",
+    "uuid": "2aea6fde-64f7-4a85-bcab-dc08a1e59dd1"
+   },
+   {
+    "name": "Swightzure",
+    "uuid": "c4edfcd2-1143-4a93-9ee1-26435fad06d7"
    }
   ],
   "quarters": [
    {
     "name": "B_Brothers' House",
     "uuid": "41ec2b78-100c-4f93-88ea-8870bbc6f6c4"
-   },
-   {
-    "name": "Lovely Flat",
-    "uuid": "261571ed-6534-43b8-b269-0a9196685af4"
    },
    {
     "name": "Gloomy Quarter",
@@ -922,20 +930,16 @@
     "uuid": "a6bbb9ba-fa6d-46d5-b96a-53a588a6ec7c"
    },
    {
+    "name": "Elegant Residence",
+    "uuid": "51e06cb2-2dc9-48cf-83b5-57c1cb0dc632"
+   },
+   {
     "name": "Enraging Flat",
     "uuid": "7c47d0c5-f756-496a-8f0a-ce4dbc26dee6"
    },
    {
     "name": "Bland Apartment",
     "uuid": "feb56968-91a7-42d3-8ba3-1dc7eb93ce80"
-   },
-   {
-    "name": "Inconvenient Tenement",
-    "uuid": "0d1064d1-03b4-4851-8ff8-9e415afad903"
-   },
-   {
-    "name": "Elegant Residence",
-    "uuid": "51e06cb2-2dc9-48cf-83b5-57c1cb0dc632"
    }
   ],
   "ranks": {

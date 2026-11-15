@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Trinity",
   "uuid": "b436cc7c-2d32-4628-9182-f87ac15c8d66",
@@ -8,73 +8,73 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "UltimateUniverse",
-   "uuid": "9a4dc5d2-e805-4926-a2bb-b64fec0c82a2"
+   "name": "NPC82",
+   "uuid": "78128bb3-4cbe-20c2-bad2-03adbacc2fd7"
   },
   "nation": {
-   "name": "Gulf_Union",
-   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792008924696,
-   "joinedNationAt": 1792008946615,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794747255125
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 2,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -97,6 +97,10 @@
     ],
     [
      -1952,
+     -218
+    ],
+    [
+     -1949,
      -218
     ],
     [
@@ -128,8 +132,8 @@
   },
   "residents": [
    {
-    "name": "UltimateUniverse",
-    "uuid": "9a4dc5d2-e805-4926-a2bb-b64fec0c82a2"
+    "name": "NPC82",
+    "uuid": "78128bb3-4cbe-20c2-bad2-03adbacc2fd7"
    }
   ],
   "trusted": [],
@@ -141,6 +145,14 @@
    {
     "name": "AtillaKagan",
     "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   },
+   {
+    "name": "Nils_Usakovs",
+    "uuid": "53d316d8-c9bc-4a25-a585-c543d32f72d0"
+   },
+   {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
    }
   ],
   "quarters": [],

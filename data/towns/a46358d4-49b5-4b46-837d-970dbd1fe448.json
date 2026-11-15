@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
-  "name": "Global",
+  "name": "New_Asgori",
   "uuid": "a46358d4-49b5-4b46-837d-970dbd1fe448",
   "board": "The Global Reserve Bank",
   "founder": "Palantirian",
   "wiki": null,
   "discord": "https://discord.gg/hChdUU3pSD",
   "mayor": {
-   "name": "Palantirian",
-   "uuid": "ca88f521-5ba8-45b9-b335-ba6601ac76d3"
+   "name": "wubalubadubdub12",
+   "uuid": "75f68201-79d7-4372-8856-28490fc6a267"
   },
   "nation": {
-   "name": "Germany",
-   "uuid": "3241c38b-1434-438a-bab5-800a552f5fab"
+   "name": "Denmark",
+   "uuid": "73f18d06-0647-4146-a27b-cfa22b5792b2"
   },
   "timestamps": {
    "registered": 1784094768744,
-   "joinedNationAt": 1784094776538,
+   "joinedNationAt": 1794721934078,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 50,
+   "numTownBlocks": 52,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 2,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -253,6 +253,10 @@
     ],
     [
      257,
+     -782
+    ],
+    [
+     257,
      -785
     ],
     [
@@ -262,6 +266,10 @@
     [
      258,
      -783
+    ],
+    [
+     258,
+     -782
     ],
     [
      258,
@@ -296,11 +304,16 @@
   },
   "residents": [
    {
+    "name": "wubalubadubdub12",
+    "uuid": "75f68201-79d7-4372-8856-28490fc6a267"
+   }
+  ],
+  "trusted": [
+   {
     "name": "Palantirian",
     "uuid": "ca88f521-5ba8-45b9-b335-ba6601ac76d3"
    }
   ],
-  "trusted": [],
   "outlaws": [
    {
     "name": "Addychi01",

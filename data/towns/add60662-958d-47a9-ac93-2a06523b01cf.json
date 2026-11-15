@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Saint-Denis",
   "uuid": "add60662-958d-47a9-ac93-2a06523b01cf",
@@ -12,12 +12,12 @@
    "uuid": "4c9da8a1-58d5-4921-93e3-f2fa17a7e907"
   },
   "nation": {
-   "name": "France",
-   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
+   "name": "European_Union",
+   "uuid": "69454d9d-80de-46e2-a04d-9d8e1ded2bfe"
   },
   "timestamps": {
    "registered": 1794419428343,
-   "joinedNationAt": 1794493504245,
+   "joinedNationAt": 1794689384535,
    "ruinedAt": null
   },
   "status": {
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -112,7 +112,12 @@
     "uuid": "4c9da8a1-58d5-4921-93e3-f2fa17a7e907"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Martinoudu62",
+    "uuid": "70e766be-4630-49e2-bf4e-ddfa645fb6cc"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

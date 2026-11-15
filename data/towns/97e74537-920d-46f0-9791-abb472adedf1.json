@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Xvarnastana",
   "uuid": "97e74537-920d-46f0-9791-abb472adedf1",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
-   "maxTownBlocks": 74,
+   "numTownBlocks": 27,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "nationBonus": 60,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,47 +92,111 @@
    ],
    "townBlocks": [
     [
+     1179,
+     -163
+    ],
+    [
+     1180,
+     -163
+    ],
+    [
      1180,
      -164
     ],
     [
-     1181,
-     -164
-    ],
-    [
      1180,
      -165
     ],
     [
-     1181,
-     -165
-    ],
-    [
      1179,
-     -166
+     -167
     ],
     [
      1180,
      -166
     ],
     [
-     1181,
-     -166
-    ],
-    [
      1179,
-     -165
+     -166
     ],
     [
      1180,
      -167
     ],
     [
+     1179,
+     -165
+    ],
+    [
+     1180,
+     -168
+    ],
+    [
+     1179,
+     -164
+    ],
+    [
+     1178,
+     -166
+    ],
+    [
+     1178,
+     -164
+    ],
+    [
+     1178,
+     -165
+    ],
+    [
+     1179,
+     -168
+    ],
+    [
+     1182,
+     -163
+    ],
+    [
+     1181,
+     -163
+    ],
+    [
+     1181,
+     -164
+    ],
+    [
+     1181,
+     -165
+    ],
+    [
+     1181,
+     -166
+    ],
+    [
      1181,
      -167
     ],
     [
-     1179,
+     1181,
+     -168
+    ],
+    [
+     1182,
+     -168
+    ],
+    [
+     1182,
+     -167
+    ],
+    [
+     1182,
+     -166
+    ],
+    [
+     1182,
+     -165
+    ],
+    [
+     1182,
      -164
     ]
    ],
@@ -146,9 +210,18 @@
    {
     "name": "BroliGames",
     "uuid": "14ef31d0-7b12-4ae4-8bd7-13000369a39b"
+   },
+   {
+    "name": "NightKiller_003",
+    "uuid": "d5db5b1c-0379-496e-a6d7-a249ba847dd1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "NightKiller_003",
+    "uuid": "d5db5b1c-0379-496e-a6d7-a249ba847dd1"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

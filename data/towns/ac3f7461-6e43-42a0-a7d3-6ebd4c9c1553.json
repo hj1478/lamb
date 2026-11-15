@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Lusaka",
   "uuid": "ac3f7461-6e43-42a0-a7d3-6ebd4c9c1553",
-  "board": "A better Rhodesia is a bigger Rhodesia",
+  "board": "Welcome to Lusaka!",
   "founder": "TheKaroo",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,17 +80,41 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9830.530743653326,
+    "x": 9766.664437614847,
     "y": 83.0,
-    "z": 13061.300000011921,
-    "pitch": -4.858448,
-    "yaw": -1.7208252
+    "z": 13068.483082171306,
+    "pitch": 7.4209757,
+    "yaw": 90.25522
    },
    "homeBlock": [
-    614,
+    610,
     816
    ],
    "townBlocks": [
+    [
+     612,
+     818
+    ],
+    [
+     612,
+     817
+    ],
+    [
+     610,
+     815
+    ],
+    [
+     610,
+     816
+    ],
+    [
+     610,
+     817
+    ],
+    [
+     610,
+     818
+    ],
     [
      613,
      816
@@ -98,6 +122,18 @@
     [
      612,
      816
+    ],
+    [
+     613,
+     815
+    ],
+    [
+     612,
+     815
+    ],
+    [
+     614,
+     815
     ],
     [
      614,
@@ -109,7 +145,19 @@
     ],
     [
      611,
+     818
+    ],
+    [
+     611,
+     817
+    ],
+    [
+     611,
      816
+    ],
+    [
+     611,
+     815
     ]
    ],
    "worlds": {}
@@ -118,6 +166,18 @@
    {
     "name": "TheKaroo",
     "uuid": "2d1a8941-05e6-4b71-a9af-7b2c919a3961"
+   },
+   {
+    "name": "bigmansion2013",
+    "uuid": "d2d136bb-e04f-4eef-9a67-5382c062025d"
+   },
+   {
+    "name": "SollyBoy1553",
+    "uuid": "2d63ce50-9ca8-45bd-ba3e-7d9323ef25c8"
+   },
+   {
+    "name": "sixseven82",
+    "uuid": "7cd1eb73-be75-4e04-8062-257537008172"
    }
   ],
   "trusted": [],

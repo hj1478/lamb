@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Derker",
   "uuid": "b193c337-f303-41c0-9c58-7e629df3b0ad",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "1TheRealBean1",
-   "uuid": "0aa64f9e-f8ea-40db-aff7-9a9c1ed226a7"
+   "name": "NPC12",
+   "uuid": "3379473a-be26-209c-be30-ddb3eecab80b"
   },
   "nation": {
-   "name": "Anchorage",
-   "uuid": "a19a509d-7ea1-46eb-8b88-ae7757ed2494"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789286988782,
-   "joinedNationAt": 1789328072860,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794567600867
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 66,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 3,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 2,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -360,22 +360,14 @@
   },
   "residents": [
    {
-    "name": "1TheRealBean1",
-    "uuid": "0aa64f9e-f8ea-40db-aff7-9a9c1ed226a7"
-   },
-   {
-    "name": "Raelyn1330",
-    "uuid": "57087341-818a-45e1-9c21-44059c9ca0d1"
+    "name": "NPC12",
+    "uuid": "3379473a-be26-209c-be30-ddb3eecab80b"
    }
   ],
   "trusted": [
    {
     "name": "KABLO150",
     "uuid": "f49518ec-f2db-4cb6-9058-52443762d08a"
-   },
-   {
-    "name": "Raelyn1330",
-    "uuid": "57087341-818a-45e1-9c21-44059c9ca0d1"
    },
    {
     "name": "PibExtreme",

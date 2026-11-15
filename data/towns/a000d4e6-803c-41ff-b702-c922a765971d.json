@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Tipperary",
   "uuid": "a000d4e6-803c-41ff-b702-c922a765971d",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 3,
    "balance": 0.0,
@@ -147,10 +147,6 @@
    "worlds": {}
   },
   "residents": [
-   {
-    "name": "Artist_10313",
-    "uuid": "cf930eba-b935-4636-ab43-e6f68e4fd562"
-   },
    {
     "name": "Gbear115",
     "uuid": "87c9dbca-1256-46dd-9185-2361668185dd"

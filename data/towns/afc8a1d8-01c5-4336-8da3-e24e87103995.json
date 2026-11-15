@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Alexandria_DD",
   "uuid": "afc8a1d8-01c5-4336-8da3-e24e87103995",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 114,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 120,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 8,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -97,11 +97,19 @@
     ],
     [
      673,
+     -208
+    ],
+    [
+     673,
      -209
     ],
     [
      673,
      -210
+    ],
+    [
+     673,
+     -205
     ],
     [
      673,
@@ -470,6 +478,22 @@
     [
      668,
      -210
+    ],
+    [
+     668,
+     -207
+    ],
+    [
+     668,
+     -208
+    ],
+    [
+     668,
+     -205
+    ],
+    [
+     668,
+     -206
     ],
     [
      674,
@@ -558,6 +582,14 @@
    {
     "name": "shadowhands169",
     "uuid": "e6c3ebaf-3659-415c-b4c9-cbcf6d6729bd"
+   },
+   {
+    "name": "airfishinc",
+    "uuid": "8372d199-4788-42d1-ba81-f3d309e996c4"
+   },
+   {
+    "name": "RankVessel31445",
+    "uuid": "0f708728-b036-46f8-ab33-b5f2e5b0dead"
    }
   ],
   "trusted": [
@@ -597,30 +629,6 @@
   "outlaws": [],
   "quarters": [
    {
-    "name": "Annoying Property",
-    "uuid": "8241efb5-9e75-47ea-9632-bc4300acf163"
-   },
-   {
-    "name": "Upbeat Tenement",
-    "uuid": "273275b4-f974-4fbd-8bb3-972fa0a6f786"
-   },
-   {
-    "name": "Gloomy Tenement",
-    "uuid": "c6999194-746e-4519-aca3-3e560d11b44e"
-   },
-   {
-    "name": "Luxurious Apartment",
-    "uuid": "818836f3-6903-4216-934a-f8c2fa7c0c00"
-   },
-   {
-    "name": "Inconvenient Flat",
-    "uuid": "dd869843-cfa5-4924-b0f6-8109e96b0d0f"
-   },
-   {
-    "name": "Medium Apartment",
-    "uuid": "5bf7eef7-70a9-4691-b384-e978d008861a"
-   },
-   {
     "name": "Small Apartment",
     "uuid": "d24d5b6c-ab61-4369-bba3-b913ec73c424"
    },
@@ -637,14 +645,6 @@
     "uuid": "8416e0ea-3c98-437b-a133-89d9b0336750"
    },
    {
-    "name": "Luxurious Apartment",
-    "uuid": "659a055c-af8f-4835-9234-e8cd7870bdef"
-   },
-   {
-    "name": "Luxurious Apartment",
-    "uuid": "d2edc023-13b8-449a-a840-942796ab94d8"
-   },
-   {
     "name": "Tiny Apartment",
     "uuid": "2ca3731e-cca9-436a-bb40-469798c68143"
    },
@@ -653,12 +653,100 @@
     "uuid": "ba3f6eb6-7a9c-44c4-81b1-3b6330c8f1f4"
    },
    {
+    "name": "Medium Apartment",
+    "uuid": "bdf58a37-8063-4500-99f3-7c4c419cdeef"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "273275b4-f974-4fbd-8bb3-972fa0a6f786"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "818836f3-6903-4216-934a-f8c2fa7c0c00"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "dd869843-cfa5-4924-b0f6-8109e96b0d0f"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "3b76e567-d539-4ded-ac6f-b67a0ed6c804"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "1c70a5a6-82b1-461c-83b9-71022d258177"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "d2edc023-13b8-449a-a840-942796ab94d8"
+   },
+   {
     "name": "Tiny Apartment",
     "uuid": "345662bd-1768-41ed-a08c-295650e53a30"
    },
    {
+    "name": "Luxurious Apartment",
+    "uuid": "7bf8f419-47c4-49a4-b14c-a64960a249ac"
+   },
+   {
     "name": "Medium Apartment",
-    "uuid": "bdf58a37-8063-4500-99f3-7c4c419cdeef"
+    "uuid": "5bf7eef7-70a9-4691-b384-e978d008861a"
+   },
+   {
+    "name": "Medium Apartment",
+    "uuid": "c5921344-0dc6-489b-a412-518e81a10803"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "8241efb5-9e75-47ea-9632-bc4300acf163"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "4deea01f-3c18-465e-8379-e62ad117fa6b"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "a0916551-1a07-47c8-8e64-61ef8a91fffc"
+   },
+   {
+    "name": "Tiny Apartment",
+    "uuid": "6c254104-334a-4e79-946c-02295bd4e5b7"
+   },
+   {
+    "name": "Medium Apartment",
+    "uuid": "9f7c34f8-2635-4d8e-ab31-062497bf800c"
+   },
+   {
+    "name": "Small Townhome",
+    "uuid": "6bab6771-0678-4f72-bddc-8eee4f9705b7"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "ccf351ef-a7dc-4a60-9ea2-8d315a03947d"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "11f09b50-95df-4aeb-ae87-eeb1d0b8bb29"
+   },
+   {
+    "name": "Small Townhome",
+    "uuid": "659a055c-af8f-4835-9234-e8cd7870bdef"
+   },
+   {
+    "name": "Small Apartment",
+    "uuid": "c6999194-746e-4519-aca3-3e560d11b44e"
+   },
+   {
+    "name": "Small Farmhome",
+    "uuid": "475b378e-854b-4d49-bdc6-a503c7f1fe45"
+   },
+   {
+    "name": "Small Farmhome",
+    "uuid": "ef947f57-ae88-4fa4-907c-a1231c9ec0e2"
+   },
+   {
+    "name": "Large Farmhome",
+    "uuid": "943342a9-0e1f-48b6-869e-a56115a4d562"
    }
   ],
   "ranks": {
@@ -668,7 +756,12 @@
      "uuid": "e6c3ebaf-3659-415c-b4c9-cbcf6d6729bd"
     }
    ],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "airfishinc",
+     "uuid": "8372d199-4788-42d1-ba81-f3d309e996c4"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

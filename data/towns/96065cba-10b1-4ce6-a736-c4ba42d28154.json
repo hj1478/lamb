@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Beirut",
   "uuid": "96065cba-10b1-4ce6-a736-c4ba42d28154",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "bumbaTOOT",
-   "uuid": "4089cbb7-e0e5-40ca-86d9-93ad82e2f5d8"
+   "name": "arcttc",
+   "uuid": "778946b7-0add-40cd-91a5-fdeac0043186"
   },
   "nation": {
    "name": "Palestine",
@@ -29,18 +29,18 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 125,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 5,
-   "numTrusted": 4,
+   "numResidents": 4,
+   "numTrusted": 5,
    "numOutlaws": 7,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12931.875367997513,
-    "y": 77.0,
-    "z": -5157.1203834294365,
-    "pitch": 4.4649215,
-    "yaw": 69.77466
+    "x": 12892.49504143801,
+    "y": 63.0,
+    "z": -5156.584671730626,
+    "pitch": -23.584833,
+    "yaw": -89.37319
    },
    "homeBlock": [
-    808,
+    805,
     -323
    ],
    "townBlocks": [
@@ -596,10 +596,6 @@
   },
   "residents": [
    {
-    "name": "asdasdasdd",
-    "uuid": "82411158-5f58-4895-b257-bbb188ca2f47"
-   },
-   {
     "name": "ProBarlas",
     "uuid": "49f5a1a2-96e9-439f-b39a-0135751087e7"
    },
@@ -628,6 +624,10 @@
    {
     "name": "johnzinnnn",
     "uuid": "6baff41d-2d79-4060-900a-cd4af756b7e4"
+   },
+   {
+    "name": "Manapos",
+    "uuid": "bd1de772-a4e1-4f80-ad69-e9c106b711bf"
    },
    {
     "name": "bumbaTOOT",
@@ -666,7 +666,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "bumbaTOOT",
+     "uuid": "4089cbb7-e0e5-40ca-86d9-93ad82e2f5d8"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

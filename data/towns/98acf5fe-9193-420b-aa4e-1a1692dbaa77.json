@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Farmlands",
   "uuid": "98acf5fe-9193-420b-aa4e-1a1692dbaa77",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 11,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numTrusted": 2,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,6 +100,10 @@
      -606
     ],
     [
+     -2619,
+     -604
+    ],
+    [
      -2620,
      -607
     ],
@@ -126,6 +130,10 @@
     [
      -2618,
      -605
+    ],
+    [
+     -2618,
+     -604
     ]
    ],
    "worlds": {}
@@ -136,8 +144,22 @@
     "uuid": "182d9688-8212-4aec-97e4-c84cc220ef66"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "RhiaMoriarty",
+    "uuid": "0cd420a0-7253-4267-ac96-4db124df412f"
+   },
+   {
+    "name": "BluRoux",
+    "uuid": "2ee4f8e3-1de6-4ead-874e-e501e97bc662"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Yolkery",
+    "uuid": "b86eb5dc-6d94-4068-a86f-fd4833d813a4"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

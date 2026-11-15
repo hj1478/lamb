@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Nettleton",
   "uuid": "a28067b4-bcb8-4c54-808c-459e240131b7",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 16,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 21.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,10 +93,66 @@
    "townBlocks": [
     [
      -32,
+     -821
+    ],
+    [
+     -32,
      -820
     ],
     [
      -31,
+     -820
+    ],
+    [
+     -31,
+     -821
+    ],
+    [
+     -31,
+     -822
+    ],
+    [
+     -31,
+     -823
+    ],
+    [
+     -32,
+     -823
+    ],
+    [
+     -32,
+     -822
+    ],
+    [
+     -34,
+     -820
+    ],
+    [
+     -34,
+     -822
+    ],
+    [
+     -34,
+     -821
+    ],
+    [
+     -34,
+     -823
+    ],
+    [
+     -33,
+     -823
+    ],
+    [
+     -33,
+     -822
+    ],
+    [
+     -33,
+     -821
+    ],
+    [
+     -33,
      -820
     ]
    ],
@@ -108,7 +164,12 @@
     "uuid": "e3ac195a-6323-47b8-b2f0-b88b7b5b5225"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "RedDogRose",
+    "uuid": "30288c1e-a014-4f1c-8e86-bebd66e04367"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Cefalu",
   "uuid": "9fc9d47a-b73e-4695-babc-c614c48e6d03",
@@ -42,7 +42,7 @@
    "numResidents": 15,
    "numTrusted": 14,
    "numOutlaws": 0,
-   "balance": 125.0,
+   "balance": 371.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1269,7 +1269,56 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [],
+  "warps": [
+   {
+    "name": "main",
+    "uuid": "3d3fe743-6b6a-486f-82f3-c93031a34134",
+    "createdAt": 1794739458917,
+    "createdBy": "Padme1",
+    "access": "RESIDENT",
+    "location": {
+     "x": 3091,
+     "y": 52,
+     "z": -6731
+    }
+   },
+   {
+    "name": "farm",
+    "uuid": "414a6f39-2ba3-4bae-a01d-08dab91f7093",
+    "createdAt": 1794739524965,
+    "createdBy": "Padme1",
+    "access": "RESIDENT",
+    "location": {
+     "x": 3088,
+     "y": 12,
+     "z": -6725
+    }
+   },
+   {
+    "name": "capitalbuild",
+    "uuid": "e126e6c4-ee32-4177-8f60-9bbf8fd32a82",
+    "createdAt": 1794739659865,
+    "createdBy": "Padme1",
+    "access": "NATION",
+    "location": {
+     "x": 2998,
+     "y": 64,
+     "z": -6740
+    }
+   },
+   {
+    "name": "shop",
+    "uuid": "ef1c90bb-b953-49c8-8578-7a5a19db242e",
+    "createdAt": 1794739577665,
+    "createdBy": "Padme1",
+    "access": "RESIDENT",
+    "location": {
+     "x": 3085,
+     "y": -61,
+     "z": -6745
+    }
+   }
+  ],
   "bankhistory": []
  }
 }

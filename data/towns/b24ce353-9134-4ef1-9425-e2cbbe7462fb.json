@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Maji",
   "uuid": "b24ce353-9134-4ef1-9425-e2cbbe7462fb",
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 11,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 13,
-   "balance": 652.0,
+   "balance": 642.0,
    "forSalePrice": null
   },
   "perms": {
@@ -332,6 +332,10 @@
     "uuid": "b8dbe65d-3af7-44be-959b-0d9da60b522d"
    },
    {
+    "name": "Will_G63",
+    "uuid": "15de9c74-a198-4809-bca5-7376d060b98e"
+   },
+   {
     "name": "Blake_Playz_MC_",
     "uuid": "2163dee0-882b-425e-96d7-02e0a79989e9"
    },
@@ -364,10 +368,6 @@
     "uuid": "2f61d436-9ae4-447a-8706-3c62e74a3c2e"
    },
    {
-    "name": "5tlivuoiitp",
-    "uuid": "63bf5b3a-c209-40da-80ee-01ad0b2f836c"
-   },
-   {
     "name": "KumpotatoGamer",
     "uuid": "396196b7-6745-455b-b7af-da4884e665e1"
    }
@@ -378,7 +378,11 @@
     "uuid": "8c0cc7de-3f30-4433-a6b1-39b41b10fc86"
    },
    {
-    "name": "NightmareOwO7",
+    "name": "BellieLB",
+    "uuid": "485da0ba-8c24-4898-b5ad-75c685f6f3de"
+   },
+   {
+    "name": "NightmareOwOr",
     "uuid": "2e7cd8c2-0a99-4899-9bde-490298cd3061"
    }
   ],
@@ -514,10 +518,6 @@
     "uuid": "8995b084-4668-456e-91a9-e4c01e9b69ac"
    },
    {
-    "name": "Annoying Flat",
-    "uuid": "94920731-1668-4ac7-a725-1d86179f1fff"
-   },
-   {
     "name": "Gloomy Residence",
     "uuid": "35093d5a-0af6-4d99-9f40-e493bfdb89ee"
    },
@@ -554,22 +554,6 @@
     "uuid": "da714ab7-865b-4261-97a3-6764c204a71b"
    },
    {
-    "name": "Gloomy Apartment",
-    "uuid": "58b2bf5b-e6f3-416b-b5db-95ad1001ea18"
-   },
-   {
-    "name": "Dull Tenement",
-    "uuid": "42fc9f4c-0c74-4901-854e-8c8d0ca6454f"
-   },
-   {
-    "name": "Cheerful Tenement",
-    "uuid": "e0377973-4fca-4e58-9a77-f1718861afa3"
-   },
-   {
-    "name": "Bland Suite",
-    "uuid": "d5f591f3-5cd7-41d8-9dc3-f267a08084ec"
-   },
-   {
     "name": "Stylish Tenement",
     "uuid": "6b0d2e08-4b14-4000-bcbf-c977ba7af2c3"
    },
@@ -586,17 +570,71 @@
     "uuid": "01700b78-2f80-4f33-8e8c-ff7c2560848e"
    },
    {
-    "name": "Welcoming Residence",
-    "uuid": "a3fef040-f7a1-4148-96c7-8799961930a8"
-   },
-   {
     "name": "Floor 10",
     "uuid": "9fed0b7d-eb2e-42be-9e97-15cb06398087"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "42fc9f4c-0c74-4901-854e-8c8d0ca6454f"
+   },
+   {
+    "name": "Lobby",
+    "uuid": "b4f02af8-b2b7-4b64-97e5-7daf938a4d7b"
+   },
+   {
+    "name": "Floor 2",
+    "uuid": "d877892a-abd2-44f5-b058-9ed81312441e"
+   },
+   {
+    "name": "Floor 3",
+    "uuid": "a00c2f27-8246-42af-8dcd-393f72bb2f87"
+   },
+   {
+    "name": "Floor 3A",
+    "uuid": "18ec594e-271c-4b9f-bec5-ae311798d39a"
+   },
+   {
+    "name": "Floor 5",
+    "uuid": "d9f917ff-6fec-417c-8b10-2dc58e1c1928"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "58b2bf5b-e6f3-416b-b5db-95ad1001ea18"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "e0377973-4fca-4e58-9a77-f1718861afa3"
+   },
+   {
+    "name": "Annoying Flat",
+    "uuid": "94920731-1668-4ac7-a725-1d86179f1fff"
+   },
+   {
+    "name": "Bland Suite",
+    "uuid": "d5f591f3-5cd7-41d8-9dc3-f267a08084ec"
+   },
+   {
+    "name": "Floor 1",
+    "uuid": "ab17deb8-0656-441c-ab1d-6f228c4536b9"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "a3fef040-f7a1-4148-96c7-8799961930a8"
    }
   ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Will_G63",
+     "uuid": "15de9c74-a198-4809-bca5-7376d060b98e"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Will_G63",
+     "uuid": "15de9c74-a198-4809-bca5-7376d060b98e"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

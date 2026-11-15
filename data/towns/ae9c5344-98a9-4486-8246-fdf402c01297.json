@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "New_Aberdare",
   "uuid": "ae9c5344-98a9-4486-8246-fdf402c01297",
@@ -17,32 +17,32 @@
   },
   "timestamps": {
    "registered": 1793642418710,
-   "joinedNationAt": 1793649116964,
+   "joinedNationAt": 1794314009255,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 17.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,40 +80,92 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27135.174261269374,
+    "x": -27143.05321647919,
     "y": 63.0,
-    "z": -20731.64646029422,
-    "pitch": 32.202282,
-    "yaw": -25.417114
+    "z": -20744.142235359843,
+    "pitch": 11.23837,
+    "yaw": 88.67682
    },
    "homeBlock": [
-    -1696,
-    -1296
+    -1697,
+    -1297
    ],
    "townBlocks": [
     [
-     -1698,
-     -1298
-    ],
-    [
-     -1696,
-     -1297
-    ],
-    [
      -1697,
-     -1298
+     -1301
     ],
     [
-     -1697,
-     -1297
+     -1695,
+     -1299
+    ],
+    [
+     -1695,
+     -1300
+    ],
+    [
+     -1695,
+     -1301
     ],
     [
      -1696,
      -1296
     ],
     [
+     -1696,
+     -1301
+    ],
+    [
+     -1696,
+     -1302
+    ],
+    [
+     -1698,
+     -1298
+    ],
+    [
+     -1696,
+     -1299
+    ],
+    [
+     -1698,
+     -1299
+    ],
+    [
+     -1696,
+     -1300
+    ],
+    [
+     -1696,
+     -1297
+    ],
+    [
+     -1696,
+     -1298
+    ],
+    [
+     -1697,
+     -1298
+    ],
+    [
+     -1695,
+     -1302
+    ],
+    [
+     -1697,
+     -1297
+    ],
+    [
+     -1697,
+     -1300
+    ],
+    [
      -1698,
      -1297
+    ],
+    [
+     -1697,
+     -1299
     ],
     [
      -1697,
@@ -126,6 +178,10 @@
    {
     "name": "Nucl3arNiGHT",
     "uuid": "003458e0-ddf9-4e81-a4cc-5ed9615cd6b6"
+   },
+   {
+    "name": "Guava_Queen",
+    "uuid": "d202b8d4-857d-46ae-a975-2428cb9ec345"
    }
   ],
   "trusted": [
@@ -134,8 +190,58 @@
     "uuid": "d202b8d4-857d-46ae-a975-2428cb9ec345"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "outlaws": [
+   {
+    "name": "Stolqe",
+    "uuid": "bce208bb-f76b-4fe2-8953-197a3f98ec2c"
+   }
+  ],
+  "quarters": [
+   {
+    "name": "Inviting Apartment",
+    "uuid": "4697f940-9d87-4315-a9a6-825aaf0dffc8"
+   },
+   {
+    "name": "Dull Suite",
+    "uuid": "b5452432-9247-4c2a-a76d-9f86e83adf02"
+   },
+   {
+    "name": "Stylish Residence",
+    "uuid": "a214c55b-2842-48d3-89bb-0a70f7848013"
+   },
+   {
+    "name": "Inviting Property",
+    "uuid": "dba20089-4df1-48b4-a350-7d7e5df5e172"
+   },
+   {
+    "name": "Dull Tenement",
+    "uuid": "78dc206f-96e6-42c4-b4bb-4c5398379d39"
+   },
+   {
+    "name": "Lovely Tenement",
+    "uuid": "01268cb5-5f62-4235-b5d9-4d4516f6ebf0"
+   },
+   {
+    "name": "Ground Floor Apartment",
+    "uuid": "bf0a3ccb-2989-4132-adca-958172eb67f6"
+   },
+   {
+    "name": "First Floor Apartment",
+    "uuid": "18d7e958-8e99-4e51-be1f-80b91eb6ad92"
+   },
+   {
+    "name": "Second Floor Apartment",
+    "uuid": "db2a20ba-a727-44f1-81c9-dd4db27fee14"
+   },
+   {
+    "name": "Third Floor Apartment",
+    "uuid": "a15ab048-f29c-4256-8193-10199752a7e7"
+   },
+   {
+    "name": "Fourth Floor Apartment",
+    "uuid": "3ef1fdf0-7cc1-4f3d-a57a-5bd3833e6c77"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

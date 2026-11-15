@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Lindenstadt",
   "uuid": "a2a26ce4-c02b-4aae-8259-98941f40a9d4",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 10,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 45.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4349.47972548268,
+    "x": 4353.359699036356,
     "y": 65.0,
-    "z": -13185.153277096877,
-    "pitch": 21.444502,
-    "yaw": 91.61804
+    "z": -13181.837394572942,
+    "pitch": 7.800011,
+    "yaw": -34.084473
    },
    "homeBlock": [
-    271,
-    -825
+    272,
+    -824
    ],
    "townBlocks": [
     [
@@ -96,8 +96,32 @@
      -824
     ],
     [
+     273,
+     -823
+    ],
+    [
+     271,
+     -823
+    ],
+    [
+     272,
+     -823
+    ],
+    [
+     273,
+     -824
+    ],
+    [
      271,
      -824
+    ],
+    [
+     272,
+     -826
+    ],
+    [
+     273,
+     -825
     ],
     [
      271,
@@ -116,7 +140,12 @@
     "uuid": "e804e469-77e9-4222-aa27-7011d76d675d"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Mrdipi",
+    "uuid": "a33c4113-0a5c-40ed-b4b3-cea50e597951"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

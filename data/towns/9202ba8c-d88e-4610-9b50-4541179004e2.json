@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T13:36:47Z",
+ "fetched_at": "2026-11-15T14:03:56Z",
  "data": {
   "name": "Ahousat",
   "uuid": "9202ba8c-d88e-4610-9b50-4541179004e2",
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 112,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 7,
    "balance": 0.0,
@@ -72,9 +72,9 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": false,
+    "explosion": true,
     "fire": false,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -567,6 +567,10 @@
    {
     "name": "uldza",
     "uuid": "27e0350b-575c-4a33-aa2e-3421408c331b"
+   },
+   {
+    "name": "kang0213",
+    "uuid": "3aaf4018-f8d6-411f-a3a0-ea87d613e45d"
    }
   ],
   "trusted": [],
