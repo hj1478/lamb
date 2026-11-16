@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Guigang",
   "uuid": "d4cde803-f225-4b80-ba5c-711063f4037e",
-  "board": "/town set board [msg]",
+  "board": "Guigang",
   "founder": "Aem_geqian",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
+   "numTownBlocks": 20,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 37.0,
+   "balance": 117.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 39319.5636201254,
+    "x": 39287.997077822314,
     "y": 64.0,
-    "z": -441.6819558929535,
-    "pitch": -17.399937,
-    "yaw": 179.01648
+    "z": -448.105824912264,
+    "pitch": 3.3000648,
+    "yaw": 89.91657
    },
    "homeBlock": [
-    2457,
-    -28
+    2455,
+    -29
    ],
    "townBlocks": [
     [
@@ -144,6 +144,10 @@
      -28
     ],
     [
+     2455,
+     -30
+    ],
+    [
      2457,
      -27
     ],
@@ -158,6 +162,14 @@
     [
      2455,
      -28
+    ],
+    [
+     2455,
+     -27
+    ],
+    [
+     2455,
+     -26
     ]
    ],
    "worlds": {}

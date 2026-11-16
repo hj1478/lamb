@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "OTeria",
   "uuid": "be5179a0-5daf-4ca2-90c0-1465203a6ad2",
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 136,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 3,
    "balance": 352.0,
    "forSalePrice": null
@@ -174,22 +174,9 @@
    {
     "name": "AfkMaster10",
     "uuid": "de9fbae7-131c-4195-9098-d1e9d47f8cdd"
-   },
-   {
-    "name": "BasedOS",
-    "uuid": "e2a34d6f-526d-47ef-a638-9327cbc79a55"
-   },
-   {
-    "name": "Borstep",
-    "uuid": "7bdedf74-c59f-4692-a063-af15e2eb5aee"
    }
   ],
-  "trusted": [
-   {
-    "name": "BasedOS",
-    "uuid": "e2a34d6f-526d-47ef-a638-9327cbc79a55"
-   }
-  ],
+  "trusted": [],
   "outlaws": [
    {
     "name": "Niiko_X",
@@ -206,19 +193,9 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "BasedOS",
-     "uuid": "e2a34d6f-526d-47ef-a638-9327cbc79a55"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "BasedOS",
-     "uuid": "e2a34d6f-526d-47ef-a638-9327cbc79a55"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

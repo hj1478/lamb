@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Octarion",
   "uuid": "d340eefc-8a92-4d52-8991-d397ff34f29e",
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 100,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 5,
+   "numResidents": 2,
+   "numTrusted": 2,
+   "numOutlaws": 4,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -498,19 +498,23 @@
    {
     "name": "TheCrazyRedston",
     "uuid": "747e1eff-86e3-41c2-bb1c-d6f3fa768c32"
+   },
+   {
+    "name": "Dyrd",
+    "uuid": "541ccd18-f93c-4e11-a20f-78240febe25a"
    }
   ],
   "trusted": [
+   {
+    "name": "Dyrd",
+    "uuid": "541ccd18-f93c-4e11-a20f-78240febe25a"
+   },
    {
     "name": "STARDUCK_ZXY",
     "uuid": "1e0e7c69-0085-4e96-b1db-312cb8c70de2"
    }
   ],
   "outlaws": [
-   {
-    "name": "Sakxoia",
-    "uuid": "96e8a048-7821-4ed5-8ccc-f2aca42a0b3e"
-   },
    {
     "name": "dragondev02",
     "uuid": "de4b9e98-4982-4c36-a54c-4dff24128609"

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Valtherion",
   "uuid": "d8568bad-5d25-4f64-b5ae-0e7ce6486063",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 54,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 63,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 2,
-   "numTrusted": 1,
+   "numTrusted": 2,
    "numOutlaws": 2,
-   "balance": 0.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13077.57683150336,
-    "y": 180.0,
-    "z": -13073.35056043617,
-    "pitch": -2.4000206,
-    "yaw": -150.67581
+    "x": 13111.951458774854,
+    "y": 231.0,
+    "z": -13104.654654957945,
+    "pitch": -10.350136,
+    "yaw": 89.57945
    },
    "homeBlock": [
-    817,
-    -818
+    819,
+    -820
    ],
    "townBlocks": [
     [
@@ -140,16 +140,24 @@
      -817
     ],
     [
+     815,
+     -817
+    ],
+    [
      814,
      -818
     ],
     [
      815,
-     -817
+     -816
+    ],
+    [
+     814,
+     -815
     ],
     [
      815,
-     -816
+     -815
     ],
     [
      814,
@@ -164,6 +172,18 @@
      -823
     ],
     [
+     820,
+     -818
+    ],
+    [
+     820,
+     -819
+    ],
+    [
+     820,
+     -820
+    ],
+    [
      818,
      -823
     ],
@@ -216,6 +236,18 @@
      -816
     ],
     [
+     820,
+     -821
+    ],
+    [
+     820,
+     -822
+    ],
+    [
+     820,
+     -823
+    ],
+    [
      817,
      -824
     ],
@@ -262,6 +294,10 @@
     [
      816,
      -816
+    ],
+    [
+     816,
+     -815
     ],
     [
      816,
@@ -324,6 +360,10 @@
    {
     "name": "Bafaex",
     "uuid": "a5fb3cb9-6e93-440f-8e41-92a809e9c4dd"
+   },
+   {
+    "name": "leonzombiiey67",
+    "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
    }
   ],
   "outlaws": [
@@ -338,36 +378,92 @@
   ],
   "quarters": [
    {
-    "name": "a",
-    "uuid": "da2dcb6b-1957-4a21-a56c-1f030a289829"
+    "name": "Dull Suite",
+    "uuid": "0dabd005-2412-4b12-aba4-d18273241f8e"
    },
    {
-    "name": "A",
-    "uuid": "a5ed5813-b19b-47af-8fc8-63a8a7304141"
+    "name": "Dingy Property",
+    "uuid": "dc22461e-11bf-4380-bb23-5381e4631f43"
    },
    {
-    "name": "b",
-    "uuid": "bfed3aa1-eb9f-4b00-aecb-52d0439bc446"
+    "name": "Welcoming Property",
+    "uuid": "298da422-46d9-4d04-af1c-bf87797e63f8"
    },
    {
-    "name": "B",
-    "uuid": "4cc81ec3-2c84-47ae-b9c5-7560139643bc"
+    "name": "Stylish Property",
+    "uuid": "88bd904a-a485-479f-a20b-54648a56b026"
    },
    {
-    "name": "c",
-    "uuid": "a76c81e9-7ed2-4153-a73b-1f120f342687"
+    "name": "Luxurious Dwelling",
+    "uuid": "5e73e26a-29dd-4051-b7f1-6db9ba90296e"
    },
    {
-    "name": "C",
-    "uuid": "a84fa848-1a88-4f34-92fe-3a11013d4b39"
+    "name": "Luxurious Dwelling",
+    "uuid": "77b4eae6-3f85-49d1-81a4-d9405a03c1c9"
+   },
+   {
+    "name": "Stylish Flat",
+    "uuid": "e2e7b5db-1402-4e9b-93ed-5f79052012d2"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "28ee0690-3279-4a5a-be83-1795dd9440ac"
+   },
+   {
+    "name": "Dingy Quarter",
+    "uuid": "c1d135f2-3741-4f81-ab0d-a03cb05a18e4"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "b822b9c0-46e6-4a31-945d-18a47f97e039"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "396b0c5e-ebdc-446a-ab9c-a1e8c770cda6"
+   },
+   {
+    "name": "Enraging Residence",
+    "uuid": "79bb2b02-a053-4bed-8d99-dbfd8bb60f7a"
+   },
+   {
+    "name": "Dingy Tenement",
+    "uuid": "9328c1df-bbba-425b-80f3-9432b2a9d5be"
+   },
+   {
+    "name": "Bland Quarter",
+    "uuid": "96cdee66-3588-4337-9bdc-583b0d06522c"
+   },
+   {
+    "name": "Elegant Dwelling",
+    "uuid": "db4b4dc3-7595-432f-ba99-ce8e3cb0f778"
+   },
+   {
+    "name": "D",
+    "uuid": "9bf7619f-f697-4736-aab1-ceb306dae980"
    },
    {
     "name": "d",
     "uuid": "827d5d36-75f7-436b-a054-ce9e47471cf0"
    },
    {
-    "name": "D",
-    "uuid": "9bf7619f-f697-4736-aab1-ceb306dae980"
+    "name": "C",
+    "uuid": "a84fa848-1a88-4f34-92fe-3a11013d4b39"
+   },
+   {
+    "name": "c",
+    "uuid": "a76c81e9-7ed2-4153-a73b-1f120f342687"
+   },
+   {
+    "name": "b",
+    "uuid": "bfed3aa1-eb9f-4b00-aecb-52d0439bc446"
+   },
+   {
+    "name": "A",
+    "uuid": "a5ed5813-b19b-47af-8fc8-63a8a7304141"
+   },
+   {
+    "name": "a",
+    "uuid": "da2dcb6b-1957-4a21-a56c-1f030a289829"
    },
    {
     "name": "e",
@@ -434,64 +530,8 @@
     "uuid": "40b75b4c-19ab-40fe-9ee8-964021812e9e"
    },
    {
-    "name": "Dull Suite",
-    "uuid": "0dabd005-2412-4b12-aba4-d18273241f8e"
-   },
-   {
-    "name": "Dingy Property",
-    "uuid": "dc22461e-11bf-4380-bb23-5381e4631f43"
-   },
-   {
-    "name": "Welcoming Property",
-    "uuid": "298da422-46d9-4d04-af1c-bf87797e63f8"
-   },
-   {
-    "name": "Stylish Property",
-    "uuid": "88bd904a-a485-479f-a20b-54648a56b026"
-   },
-   {
-    "name": "Luxurious Dwelling",
-    "uuid": "5e73e26a-29dd-4051-b7f1-6db9ba90296e"
-   },
-   {
-    "name": "Luxurious Dwelling",
-    "uuid": "77b4eae6-3f85-49d1-81a4-d9405a03c1c9"
-   },
-   {
-    "name": "Stylish Flat",
-    "uuid": "e2e7b5db-1402-4e9b-93ed-5f79052012d2"
-   },
-   {
-    "name": "Upbeat Dwelling",
-    "uuid": "28ee0690-3279-4a5a-be83-1795dd9440ac"
-   },
-   {
-    "name": "Dingy Quarter",
-    "uuid": "c1d135f2-3741-4f81-ab0d-a03cb05a18e4"
-   },
-   {
-    "name": "Dull Flat",
-    "uuid": "b822b9c0-46e6-4a31-945d-18a47f97e039"
-   },
-   {
-    "name": "Luxurious Apartment",
-    "uuid": "396b0c5e-ebdc-446a-ab9c-a1e8c770cda6"
-   },
-   {
-    "name": "Enraging Residence",
-    "uuid": "79bb2b02-a053-4bed-8d99-dbfd8bb60f7a"
-   },
-   {
-    "name": "Dingy Tenement",
-    "uuid": "9328c1df-bbba-425b-80f3-9432b2a9d5be"
-   },
-   {
-    "name": "Bland Quarter",
-    "uuid": "96cdee66-3588-4337-9bdc-583b0d06522c"
-   },
-   {
-    "name": "Elegant Dwelling",
-    "uuid": "db4b4dc3-7595-432f-ba99-ce8e3cb0f778"
+    "name": "B",
+    "uuid": "4cc81ec3-2c84-47ae-b9c5-7560139643bc"
    }
   ],
   "ranks": {

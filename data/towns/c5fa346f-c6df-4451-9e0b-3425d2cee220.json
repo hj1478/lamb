@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Alabama",
   "uuid": "c5fa346f-c6df-4451-9e0b-3425d2cee220",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 6,
-   "numTrusted": 5,
+   "numTrusted": 6,
    "numOutlaws": 2,
    "balance": 936.0,
    "forSalePrice": null
@@ -472,6 +472,10 @@
   },
   "residents": [
    {
+    "name": "ChekNAH",
+    "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
+   },
+   {
     "name": "PresDJT",
     "uuid": "e1d36d54-d0e4-4777-874b-14106d3fbd91"
    },
@@ -484,16 +488,12 @@
     "uuid": "2856bb6c-c292-42ee-a548-41a895f5ea27"
    },
    {
-    "name": "Good_p2",
-    "uuid": "b79ea4b0-ca6e-4e29-87c4-4a60f421e93f"
+    "name": "LongShotSilver",
+    "uuid": "cd022ec2-02b3-47a4-b49b-9744758ed25e"
    },
    {
-    "name": "GRITSNFRIEDCHKN",
-    "uuid": "d268de09-f50b-440e-a584-492cdc3590a5"
-   },
-   {
-    "name": "Mr_Money333",
-    "uuid": "e8445876-8419-4a12-81f0-06734a7d9b69"
+    "name": "DR_Rayzixx",
+    "uuid": "54531334-b49b-45d9-911d-7901961ce404"
    }
   ],
   "trusted": [
@@ -512,6 +512,10 @@
    {
     "name": "MakRouss",
     "uuid": "f08ba846-6de5-45e1-89f6-fa55e3a224ce"
+   },
+   {
+    "name": "ChekNAH",
+    "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
    },
    {
     "name": "Stephen5311",
@@ -591,7 +595,12 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "ChekNAH",
+     "uuid": "20c2b879-d390-49a3-92a2-c29168b9f8ee"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

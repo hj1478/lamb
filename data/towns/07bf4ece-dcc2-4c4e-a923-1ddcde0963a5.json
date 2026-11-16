@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Newland",
-  "uuid": "4e623841-f59d-48c7-8c94-223bb16ec213",
+  "name": "Whalsay",
+  "uuid": "07bf4ece-dcc2-4c4e-a923-1ddcde0963a5",
   "board": "/town set board [msg]",
-  "founder": "TREBLlNKA",
+  "founder": "T33thThief",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC56",
-   "uuid": "60539944-f56b-2060-810d-540363e452f5"
+   "name": "T33thThief",
+   "uuid": "a15bafac-b3cd-4d5f-84da-f9de3344ee18"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1790877202247,
+   "registered": 1794757207466,
    "joinedNationAt": null,
-   "ruinedAt": 1794567600998
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,80 +35,97 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 4968.915477943754,
-    "y": 59.0,
-    "z": 12266.484933733098,
-    "pitch": 31.055475,
-    "yaw": -0.83154297
+    "x": -361.4391938352469,
+    "y": 63.0,
+    "z": -16756.05967807031,
+    "pitch": 10.411585,
+    "yaw": 89.75391
    },
    "homeBlock": [
-    310,
-    766
+    -23,
+    -1048
    ],
    "townBlocks": [
     [
-     310,
-     766
+     -22,
+     -1048
+    ],
+    [
+     -23,
+     -1048
+    ],
+    [
+     -23,
+     -1047
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC56",
-    "uuid": "60539944-f56b-2060-810d-540363e452f5"
+    "name": "T33thThief",
+    "uuid": "a15bafac-b3cd-4d5f-84da-f9de3344ee18"
+   },
+   {
+    "name": "HAMME",
+    "uuid": "cd9fdec7-32e5-4f4b-9c5c-965f85d336dd"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "HAMME",
+     "uuid": "cd9fdec7-32e5-4f4b-9c5c-965f85d336dd"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

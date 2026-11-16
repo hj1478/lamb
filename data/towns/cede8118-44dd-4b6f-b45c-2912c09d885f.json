@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Isles_Of_Scilly",
   "uuid": "cede8118-44dd-4b6f-b45c-2912c09d885f",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1794363423952,
-   "joinedNationAt": 1794367381040,
+   "joinedNationAt": 1794730195420,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
+   "numTownBlocks": 22,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2264.087485051751,
-    "y": 63.0,
-    "z": -11538.146278975442,
-    "pitch": 20.699604,
-    "yaw": -33.95862
+    "x": -2266.6074070188024,
+    "y": 65.0,
+    "z": -11550.718497928341,
+    "pitch": 1.5425233,
+    "yaw": -54.56548
    },
    "homeBlock": [
     -142,
@@ -96,16 +96,36 @@
      -721
     ],
     [
+     -139,
+     -722
+    ],
+    [
+     -144,
+     -722
+    ],
+    [
+     -144,
+     -721
+    ],
+    [
+     -139,
+     -723
+    ],
+    [
+     -144,
+     -723
+    ],
+    [
      -141,
      -721
     ],
     [
-     -141,
-     -722
-    ],
-    [
      -142,
      -723
+    ],
+    [
+     -141,
+     -722
     ],
     [
      -142,
@@ -117,10 +137,42 @@
     ],
     [
      -143,
+     -723
+    ],
+    [
+     -143,
+     -722
+    ],
+    [
+     -146,
+     -722
+    ],
+    [
+     -145,
      -722
     ],
     [
      -143,
+     -721
+    ],
+    [
+     -145,
+     -721
+    ],
+    [
+     -145,
+     -723
+    ],
+    [
+     -140,
+     -723
+    ],
+    [
+     -140,
+     -722
+    ],
+    [
+     -140,
      -721
     ]
    ],

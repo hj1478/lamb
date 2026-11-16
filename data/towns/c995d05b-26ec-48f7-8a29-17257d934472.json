@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Wellstead",
   "uuid": "c995d05b-26ec-48f7-8a29-17257d934472",
-  "board": "/town set board [msg]",
+  "board": "GAMBLE AT",
   "founder": "Loobels",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FunnyShib",
-   "uuid": "2e2c274f-f05a-482c-bf60-c9d36fb2ea32"
+   "name": "RockyToady",
+   "uuid": "4c2300dd-8010-4616-a13a-4a4441258d51"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Australia",
+   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
   },
   "timestamps": {
    "registered": 1784683976127,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794677496903,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -160,12 +160,12 @@
   },
   "residents": [
    {
-    "name": "FunnyShib",
-    "uuid": "2e2c274f-f05a-482c-bf60-c9d36fb2ea32"
-   },
-   {
     "name": "RockyToady",
     "uuid": "4c2300dd-8010-4616-a13a-4a4441258d51"
+   },
+   {
+    "name": "SquishyTheFrog",
+    "uuid": "c5bc815a-3d78-463b-b475-ca74f7f85620"
    }
   ],
   "trusted": [

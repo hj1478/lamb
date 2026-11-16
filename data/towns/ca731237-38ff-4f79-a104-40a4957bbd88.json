@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Zvenigorod",
   "uuid": "ca731237-38ff-4f79-a104-40a4957bbd88",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 55,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 2,
+   "numTrusted": 3,
    "numOutlaws": 2,
-   "balance": 90.0,
+   "balance": 102.0,
    "forSalePrice": null
   },
   "perms": {
@@ -318,12 +318,24 @@
    {
     "name": "D_KVyach",
     "uuid": "c6b6ab6d-4c80-4de0-8172-a7736325b2eb"
+   },
+   {
+    "name": "kasaletka_30",
+    "uuid": "c5e41e21-57c1-4f70-8d45-b38888a16ef6"
    }
   ],
   "trusted": [
    {
+    "name": "George_Albert",
+    "uuid": "50c97ab9-e28b-4a8f-82f1-aa8e8220af2d"
+   },
+   {
     "name": "askate",
     "uuid": "d9dcfe8a-2fc3-4472-adaa-dd3317804976"
+   },
+   {
+    "name": "kasaletka_30",
+    "uuid": "c5e41e21-57c1-4f70-8d45-b38888a16ef6"
    }
   ],
   "outlaws": [
@@ -338,7 +350,12 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "kasaletka_30",
+     "uuid": "c5e41e21-57c1-4f70-8d45-b38888a16ef6"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

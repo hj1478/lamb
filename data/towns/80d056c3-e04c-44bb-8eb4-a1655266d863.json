@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Birmingham_AL",
-  "uuid": "1b4393a6-c82a-49d4-8a2c-159117de5b0e",
+  "name": "Findland",
+  "uuid": "80d056c3-e04c-44bb-8eb4-a1655266d863",
   "board": "/town set board [msg]",
-  "founder": "p3achscone",
+  "founder": "XRoyalFang",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "p3achscone",
-   "uuid": "31d7203b-8482-4243-a182-8ca2906d2292"
+   "name": "XRoyalFang",
+   "uuid": "510c671a-d01e-47a0-8eb6-b4cfad83e4ba"
   },
   "nation": {
-   "name": "Gulf_Union",
-   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1790897738253,
-   "joinedNationAt": 1790897796153,
+   "registered": 1794780023481,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,44 +80,75 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31275.531151015774,
-    "y": 66.0,
-    "z": -4265.300000011921,
-    "pitch": 88.04999,
-    "yaw": -177.72888
+    "x": -60198.39574802494,
+    "y": 63.0,
+    "z": -19703.775175699608,
+    "pitch": 21.58314,
+    "yaw": 88.07332
    },
    "homeBlock": [
-    -1955,
-    -267
+    -3763,
+    -1232
    ],
    "townBlocks": [
     [
-     -1956,
-     -268
+     -3761,
+     -1232
     ],
     [
-     -1956,
-     -267
+     -3761,
+     -1233
     ],
     [
-     -1955,
-     -267
+     -3763,
+     -1232
+    ],
+    [
+     -3763,
+     -1233
+    ],
+    [
+     -3762,
+     -1232
+    ],
+    [
+     -3762,
+     -1233
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "p3achscone",
-    "uuid": "31d7203b-8482-4243-a182-8ca2906d2292"
+    "name": "XRoyalFang",
+    "uuid": "510c671a-d01e-47a0-8eb6-b4cfad83e4ba"
+   },
+   {
+    "name": "froffinotfrog",
+    "uuid": "d002c8ba-64f0-4490-bece-8162afbfeb25"
    }
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Gloomy Dwelling",
+    "uuid": "0ba2b400-b344-45cc-a2d6-7fd4c119b935"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "froffinotfrog",
+     "uuid": "d002c8ba-64f0-4490-bece-8162afbfeb25"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "froffinotfrog",
+     "uuid": "d002c8ba-64f0-4490-bece-8162afbfeb25"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

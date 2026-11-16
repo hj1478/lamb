@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Starling_City",
   "uuid": "c0d2a0bd-874b-4394-9ecd-b663309d534f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Lillwester",
-   "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+   "name": "NPC92",
+   "uuid": "b3b4dc88-132f-2016-a104-740fd447e651"
   },
   "nation": {
-   "name": "Panama",
-   "uuid": "aa909d31-b086-4402-9bbd-bab051944df2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793571514269,
-   "joinedNationAt": 1793571544026,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794607974072
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -124,8 +124,8 @@
   },
   "residents": [
    {
-    "name": "Lillwester",
-    "uuid": "9f84aa8f-8bde-446d-b928-de5de3f3961d"
+    "name": "NPC92",
+    "uuid": "b3b4dc88-132f-2016-a104-740fd447e651"
    }
   ],
   "trusted": [],

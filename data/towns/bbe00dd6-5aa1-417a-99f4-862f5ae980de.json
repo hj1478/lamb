@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Xuchang",
   "uuid": "bbe00dd6-5aa1-417a-99f4-862f5ae980de",
@@ -25,24 +25,24 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 172,
-   "maxTownBlocks": 172,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
+   "numResidents": 5,
    "numTrusted": 6,
    "numOutlaws": 5,
-   "balance": 59.0,
+   "balance": 129.0,
    "forSalePrice": null
   },
   "perms": {
@@ -789,10 +789,6 @@
   },
   "residents": [
    {
-    "name": "Kirlsaki_Chitoge",
-    "uuid": "67c81cb9-e412-453e-ba6c-3611a7e8097c"
-   },
-   {
     "name": "Ydrop3000",
     "uuid": "961145cb-9ff9-4c07-8d2d-d5edc40da74d"
    },
@@ -880,12 +876,7 @@
    }
   ],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Kirlsaki_Chitoge",
-     "uuid": "67c81cb9-e412-453e-ba6c-3611a7e8097c"
-    }
-   ],
+   "Councillor": [],
    "Builder": [
     {
      "name": "Lila0716",

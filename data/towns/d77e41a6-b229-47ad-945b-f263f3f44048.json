@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Vieux-Fort",
   "uuid": "d77e41a6-b229-47ad-945b-f263f3f44048",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SkaporTitiMC",
-   "uuid": "2a4b665b-e84b-4cc0-b120-f38d22f637a4"
+   "name": "NPC32",
+   "uuid": "ada03f3a-150f-209b-ba56-4ab4196dae5d"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789573168282,
-   "joinedNationAt": 1789744328232,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794654002272
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 18,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -168,8 +168,8 @@
   },
   "residents": [
    {
-    "name": "SkaporTitiMC",
-    "uuid": "2a4b665b-e84b-4cc0-b120-f38d22f637a4"
+    "name": "NPC32",
+    "uuid": "ada03f3a-150f-209b-ba56-4ab4196dae5d"
    }
   ],
   "trusted": [],

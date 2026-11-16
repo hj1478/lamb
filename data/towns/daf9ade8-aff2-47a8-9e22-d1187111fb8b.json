@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Aaru",
   "uuid": "daf9ade8-aff2-47a8-9e22-d1187111fb8b",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 120,
-   "maxTownBlocks": 120,
+   "numTownBlocks": 135,
+   "maxTownBlocks": 164,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 5,
+   "nationBonus": 80,
+   "numResidents": 7,
    "numTrusted": 2,
-   "numOutlaws": 1,
-   "balance": 84.0,
+   "numOutlaws": 2,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -192,6 +192,14 @@
      -210
     ],
     [
+     1045,
+     -209
+    ],
+    [
+     1045,
+     -208
+    ],
+    [
      1047,
      -209
     ],
@@ -214,6 +222,10 @@
     [
      1045,
      -213
+    ],
+    [
+     1047,
+     -206
     ],
     [
      1045,
@@ -224,12 +236,24 @@
      -215
     ],
     [
+     1047,
+     -208
+    ],
+    [
      1045,
      -214
     ],
     [
+     1047,
+     -207
+    ],
+    [
      1054,
      -212
+    ],
+    [
+     1044,
+     -209
     ],
     [
      1054,
@@ -244,40 +268,48 @@
      -209
     ],
     [
-     1047,
-     -214
-    ],
-    [
      1044,
      -212
     ],
     [
      1047,
-     -213
+     -214
     ],
     [
      1044,
      -213
+    ],
+    [
+     1047,
+     -213
+    ],
+    [
+     1044,
+     -210
+    ],
+    [
+     1045,
+     -207
     ],
     [
      1047,
      -216
     ],
     [
-     1044,
-     -210
-    ],
-    [
      1054,
      -214
     ],
     [
-     1047,
-     -215
-    ],
-    [
      1044,
      -211
+    ],
+    [
+     1045,
+     -206
+    ],
+    [
+     1047,
+     -215
     ],
     [
      1054,
@@ -326,6 +358,10 @@
     [
      1041,
      -215
+    ],
+    [
+     1041,
+     -209
     ],
     [
      1053,
@@ -365,11 +401,27 @@
     ],
     [
      1046,
+     -207
+    ],
+    [
+     1046,
+     -208
+    ],
+    [
+     1046,
+     -206
+    ],
+    [
+     1046,
      -211
     ],
     [
      1046,
      -212
+    ],
+    [
+     1046,
+     -209
     ],
     [
      1046,
@@ -525,6 +577,10 @@
     ],
     [
      1043,
+     -209
+    ],
+    [
+     1043,
      -210
     ],
     [
@@ -566,6 +622,10 @@
     [
      1043,
      -215
+    ],
+    [
+     1042,
+     -209
     ],
     [
      1042,
@@ -594,6 +654,14 @@
    {
     "name": "JaniceXuan",
     "uuid": "5f0e268c-1f01-46f4-9e2e-93c7fda20d78"
+   },
+   {
+    "name": "Louitto",
+    "uuid": "7b3f14ab-a269-48aa-851b-2de59f165357"
+   },
+   {
+    "name": "Lowkeeed",
+    "uuid": "5a3dbf4a-fa6c-4997-8362-f3bdb1281f5f"
    }
   ],
   "trusted": [
@@ -610,6 +678,10 @@
    {
     "name": "GovernorAustria1",
     "uuid": "3707249c-4e9f-4abf-9900-4483e8917bd7"
+   },
+   {
+    "name": "Jinvinho",
+    "uuid": "0f8f56d2-34f0-4e72-8da1-92890379ed3f"
    }
   ],
   "quarters": [
@@ -618,16 +690,96 @@
     "uuid": "4dcc9814-b6a3-4213-9f4b-793995db1b84"
    },
    {
+    "name": "Dull Dwelling",
+    "uuid": "d91d20fa-42f2-4656-acfe-fb9291587db5"
+   },
+   {
     "name": "Elegant Dwelling",
     "uuid": "f4881d8b-ced7-44cd-97e8-dffa9b640d8c"
    },
    {
-    "name": "Perturbing Quarter",
-    "uuid": "6add5acb-4d5f-4aef-ae41-5c70756d49d9"
+    "name": "Aaru East Train Station",
+    "uuid": "3d80f20e-ed9c-4879-b622-ef5bb79e6a37"
    },
    {
-    "name": "Dull Dwelling",
-    "uuid": "d91d20fa-42f2-4656-acfe-fb9291587db5"
+    "name": "Aaru West Train Station",
+    "uuid": "c77cb2e8-0128-4834-b7a6-8ce58f93f102"
+   },
+   {
+    "name": "Ziggurat of Aaru",
+    "uuid": "f5091551-caf3-471e-9e38-dec8df9bcf2b"
+   },
+   {
+    "name": "Kiži Church",
+    "uuid": "be04074d-f0e6-43e2-a172-c02f728f88af"
+   },
+   {
+    "name": "Aaru Eastern Gardens",
+    "uuid": "7f3ddabf-6605-452c-a1b7-ef64960bc089"
+   },
+   {
+    "name": "3A",
+    "uuid": "c14f99cd-7e97-4161-9970-b15f9f6a0fb9"
+   },
+   {
+    "name": "2A",
+    "uuid": "13627584-6875-4e2e-b03a-e0ded7a40302"
+   },
+   {
+    "name": "1B",
+    "uuid": "4909da65-796c-4037-9b2b-a083afacfc44"
+   },
+   {
+    "name": "2B",
+    "uuid": "b000f249-7d2c-41a5-964d-35707f1dc2af"
+   },
+   {
+    "name": "3B",
+    "uuid": "c3f2ced9-d874-46d8-a920-37da2bb9ecf7"
+   },
+   {
+    "name": "1C",
+    "uuid": "38d5229b-25ac-4b4e-8098-4485261d1af3"
+   },
+   {
+    "name": "1D",
+    "uuid": "b5eedbfd-243a-4fa0-a3d9-739b2ea0f630"
+   },
+   {
+    "name": "2C",
+    "uuid": "cf3498fd-fc2b-48c9-9f30-b51716317f88"
+   },
+   {
+    "name": "2D",
+    "uuid": "5662caa0-4b51-4e4c-85e3-872560fc08bc"
+   },
+   {
+    "name": "3C",
+    "uuid": "1bf3cc1f-8a6d-45da-8126-6d3f960573a3"
+   },
+   {
+    "name": "3D",
+    "uuid": "e8a0da11-d099-49d4-8f74-e771f005bd0e"
+   },
+   {
+    "name": "Tour De L'Orle D'Or",
+    "uuid": "4629b771-f611-46a1-8a0f-6b10e743e49e"
+   },
+   {
+    "name": "1A",
+    "uuid": "5cddb07a-71b4-4d52-a659-320fa8312c62"
+   },
+   {
+    "name": "Aaru Gallery",
+    "uuid": "1d2207d1-9266-4bb3-93d0-a40cdd80db85"
+   },
+   {
+    "name": "Aaru Northern Gardens",
+    "uuid": "0d03e0f4-49ca-479e-a7e0-15def7b25cee"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "6add5acb-4d5f-4aef-ae41-5c70756d49d9"
    }
   ],
   "ranks": {

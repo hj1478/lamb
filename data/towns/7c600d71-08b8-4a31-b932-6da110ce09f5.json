@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Name",
-  "uuid": "15326068-2dc8-4ce4-a206-c339b7dc06f3",
+  "name": "Toolopolis",
+  "uuid": "7c600d71-08b8-4a31-b932-6da110ce09f5",
   "board": "/town set board [msg]",
-  "founder": "Lochy_Sprite",
+  "founder": "TheGuiltyMayor",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC103",
-   "uuid": "c6cdca5d-435e-2034-969f-8465b8e6da6e"
+   "name": "TheGuiltyMayor",
+   "uuid": "2859642b-f914-4ec9-acc8-dc80458bf8d8"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1794542709007,
+   "registered": 1794831048496,
    "joinedNationAt": null,
-   "ruinedAt": 1794542878910
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,73 +35,77 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 2,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -57960.114961124214,
-    "y": 62.9375,
-    "z": -17510.855171196312,
-    "pitch": 24.70648,
-    "yaw": -143.30617
+    "x": 19624.10519189083,
+    "y": 76.0,
+    "z": -4961.960222423927,
+    "pitch": 31.92946,
+    "yaw": 1.5131836
    },
    "homeBlock": [
-    -3623,
-    -1095
+    1226,
+    -311
    ],
    "townBlocks": [
     [
-     -3623,
-     -1095
+     1226,
+     -311
+    ],
+    [
+     1226,
+     -310
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC103",
-    "uuid": "c6cdca5d-435e-2034-969f-8465b8e6da6e"
+    "name": "TheGuiltyMayor",
+    "uuid": "2859642b-f914-4ec9-acc8-dc80458bf8d8"
    }
   ],
   "trusted": [],

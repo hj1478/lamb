@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "St_Vianney",
   "uuid": "cf116842-d494-4fd4-8efb-d2c6f0dd97bb",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": true,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 6,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 14.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,17 +80,25 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32111.60741899823,
-    "y": 63.0,
-    "z": -5397.4405535280275,
-    "pitch": 6.1500125,
-    "yaw": 90.7538
+    "x": -32109.807000757726,
+    "y": 64.0,
+    "z": -5400.195071321876,
+    "pitch": 34.350033,
+    "yaw": -94.34622
    },
    "homeBlock": [
     -2007,
     -338
    ],
    "townBlocks": [
+    [
+     -2008,
+     -338
+    ],
+    [
+     -2008,
+     -337
+    ],
     [
      -2007,
      -338
@@ -102,6 +110,10 @@
     [
      -2006,
      -338
+    ],
+    [
+     -2006,
+     -337
     ]
    ],
    "worlds": {}

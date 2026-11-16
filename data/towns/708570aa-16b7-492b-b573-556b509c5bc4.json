@@ -1,47 +1,47 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Nuevo_Pornic",
-  "uuid": "2c1aef1e-870a-4aa7-9005-d7cab476ca13",
+  "name": "Arad",
+  "uuid": "708570aa-16b7-492b-b573-556b509c5bc4",
   "board": "/town set board [msg]",
-  "founder": "Ayskow",
+  "founder": "SwiftCristi",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ayskow",
-   "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
+   "name": "SwiftCristi",
+   "uuid": "9708c260-6ad0-49f0-9b76-bb7b10c8c2b6"
   },
   "nation": {
-   "name": "Mexico",
-   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
+   "name": "Romania",
+   "uuid": "c86ccd50-b82b-4a33-93ec-b009822bfab3"
   },
   "timestamps": {
-   "registered": 1794431903541,
-   "joinedNationAt": 1794431939142,
+   "registered": 1794835727981,
+   "joinedNationAt": 1794835823212,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -80,92 +80,37 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -35079.43799912816,
+    "x": 7426.760908956052,
     "y": 63.0,
-    "z": 2200.5049010434973,
-    "pitch": 29.076483,
-    "yaw": -112.280045
+    "z": -10006.676015563955,
+    "pitch": 21.44996,
+    "yaw": -173.22083
    },
    "homeBlock": [
-    -2193,
-    137
+    464,
+    -626
    ],
    "townBlocks": [
     [
-     -2191,
-     136
-    ],
-    [
-     -2191,
-     135
-    ],
-    [
-     -2193,
-     135
-    ],
-    [
-     -2191,
-     137
-    ],
-    [
-     -2194,
-     137
-    ],
-    [
-     -2194,
-     135
-    ],
-    [
-     -2191,
-     134
-    ],
-    [
-     -2194,
-     136
-    ],
-    [
-     -2193,
-     136
-    ],
-    [
-     -2193,
-     137
-    ],
-    [
-     -2193,
-     138
-    ],
-    [
-     -2192,
-     134
-    ],
-    [
-     -2192,
-     135
-    ],
-    [
-     -2192,
-     136
-    ],
-    [
-     -2192,
-     137
-    ],
-    [
-     -2192,
-     138
+     464,
+     -626
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Ayskow",
-    "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
+    "name": "SwiftCristi",
+    "uuid": "9708c260-6ad0-49f0-9b76-bb7b10c8c2b6"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

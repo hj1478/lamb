@@ -1,31 +1,31 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Dixie",
-  "uuid": "596fdd20-b4c6-4a0a-8393-da708a21e33b",
-  "board": "Southern Pride Worldwide!",
-  "founder": "coorslightyear",
+  "name": "Duisburg",
+  "uuid": "1af73b71-4c45-4fee-af7d-2d9c63690106",
+  "board": "/town set board [msg]",
+  "founder": "tortella47",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC102",
-   "uuid": "c8f0d390-6cce-20ea-bc9f-d81ac5c81223"
+   "name": "NPC91",
+   "uuid": "a3505f1f-e1fa-20e2-9cf8-2c55ef23f4ec"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793332047728,
+   "registered": 1794754472635,
    "joinedNationAt": null,
-   "ruinedAt": 1794528301610
+   "ruinedAt": 1794837487631
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": true,
    "isForSale": false,
    "hasNation": false,
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 18,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,99 +80,36 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31620.442446114626,
-    "y": 65.0,
-    "z": -3260.903127009174,
-    "pitch": 12.599923,
-    "yaw": 179.78381
+    "x": 3029.2399109827256,
+    "y": 68.0,
+    "z": -11743.135648076463,
+    "pitch": -88.79996,
+    "yaw": 84.55591
    },
    "homeBlock": [
-    -1977,
-    -204
+    189,
+    -734
    ],
    "townBlocks": [
     [
-     -1978,
-     -202
-    ],
-    [
-     -1978,
-     -203
-    ],
-    [
-     -1978,
-     -204
-    ],
-    [
-     -1978,
-     -205
-    ],
-    [
-     -1976,
-     -201
-    ],
-    [
-     -1975,
-     -202
-    ],
-    [
-     -1975,
-     -203
-    ],
-    [
-     -1977,
-     -204
-    ],
-    [
-     -1975,
-     -204
-    ],
-    [
-     -1977,
-     -203
-    ],
-    [
-     -1975,
-     -205
-    ],
-    [
-     -1977,
-     -205
-    ],
-    [
-     -1977,
-     -202
-    ],
-    [
-     -1976,
-     -203
-    ],
-    [
-     -1976,
-     -202
-    ],
-    [
-     -1976,
-     -205
-    ],
-    [
-     -1976,
-     -204
-    ],
-    [
-     -1974,
-     -204
+     189,
+     -734
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC102",
-    "uuid": "c8f0d390-6cce-20ea-bc9f-d81ac5c81223"
+    "name": "NPC91",
+    "uuid": "a3505f1f-e1fa-20e2-9cf8-2c55ef23f4ec"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "tortella47",
+    "uuid": "f49ec61c-b5ee-433d-885b-904a700b90cb"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

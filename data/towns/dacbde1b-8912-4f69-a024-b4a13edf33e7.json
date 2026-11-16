@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Rimini",
   "uuid": "dacbde1b-8912-4f69-a024-b4a13edf33e7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Jan_80",
-   "uuid": "22762468-97cf-40f4-ac18-7d94fdf2e111"
+   "name": "NPC71",
+   "uuid": "e5c23a80-3894-2041-b24b-49c1d035a9cd"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1789649300018,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794740405164
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "Jan_80",
-    "uuid": "22762468-97cf-40f4-ac18-7d94fdf2e111"
+    "name": "NPC71",
+    "uuid": "e5c23a80-3894-2041-b24b-49c1d035a9cd"
    }
   ],
   "trusted": [],

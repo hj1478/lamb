@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Huzzbears",
   "uuid": "d07c12bc-42ae-490e-b533-d01c4897c205",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Trai1",
-   "uuid": "3dc0aa2c-e877-4785-bb3a-873b81dd25ae"
+   "name": "NPC37",
+   "uuid": "7225f561-eee0-2097-8a06-65bf6baea9cd"
   },
   "nation": {
-   "name": "Florida",
-   "uuid": "6cbea29c-2f48-418c-89cf-0f1d2c76b825"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1782786415697,
-   "joinedNationAt": 1782786502947,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794654003010
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 13,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -148,8 +148,8 @@
   },
   "residents": [
    {
-    "name": "Trai1",
-    "uuid": "3dc0aa2c-e877-4785-bb3a-873b81dd25ae"
+    "name": "NPC37",
+    "uuid": "7225f561-eee0-2097-8a06-65bf6baea9cd"
    }
   ],
   "trusted": [],

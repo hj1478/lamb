@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "YOJIMBO",
+  "name": "Tyendinaga",
   "uuid": "bc10beba-fea3-450d-9378-31287f74f3dc",
   "board": "/town set board [msg]",
   "founder": "akirarocks",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Lynxy664",
-   "uuid": "7e3cfe3a-46c5-4348-8b50-1d0915e838a5"
+   "name": "Peaches_02",
+   "uuid": "8e8a55df-3a24-4083-8b3a-9f4db540b65e"
   },
   "nation": {
    "name": "Acadia",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1780701246221,
-   "joinedNationAt": 1782387248819,
+   "joinedNationAt": 1794711349949,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 36,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 2,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 779.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27745.94965731058,
+    "x": -27751.215357400975,
     "y": 63.0,
-    "z": -8917.877939024584,
-    "pitch": 2.4390268,
-    "yaw": 0.6413574
+    "z": -8843.684447311125,
+    "pitch": -0.15013838,
+    "yaw": 52.26245
    },
    "homeBlock": [
     -1735,
-    -558
+    -553
    ],
    "townBlocks": [
     [
@@ -242,16 +242,16 @@
    {
     "name": "Lynxy664",
     "uuid": "7e3cfe3a-46c5-4348-8b50-1d0915e838a5"
+   },
+   {
+    "name": "Peaches_02",
+    "uuid": "8e8a55df-3a24-4083-8b3a-9f4db540b65e"
    }
   ],
   "trusted": [
    {
-    "name": "cleandemon1",
-    "uuid": "2a6d4075-9384-481f-884f-63b0a82c4d43"
-   },
-   {
-    "name": "akirarocks",
-    "uuid": "6af1da43-bb8e-4999-aea3-f99bb0edd489"
+    "name": "lavinika",
+    "uuid": "3d3a786e-7fd4-431c-910f-00a9f47900c5"
    }
   ],
   "outlaws": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Naypyidaw",
+  "name": "Nay_Pyi_Taw",
   "uuid": "da3ce5dd-920b-4e71-85e6-4bd13ccd8f3e",
-  "board": "/town set board [msg]",
+  "board": "Myanmar",
   "founder": "HFQOIJKCOIQ",
   "wiki": null,
   "discord": null,
@@ -12,20 +12,20 @@
    "uuid": "ff6f66c3-ed21-4cef-98c8-b8d7f01bf60c"
   },
   "nation": {
-   "name": "Narmada",
-   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
+   "name": "Myanmar",
+   "uuid": "64c32d06-0e75-44be-a8e6-c6f652c2f841"
   },
   "timestamps": {
    "registered": 1794302596010,
-   "joinedNationAt": 1794302772911,
+   "joinedNationAt": 1794803164202,
    "ruinedAt": null
   },
   "status": {
    "isPublic": false,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
-   "isOverClaimed": false,
+   "isCapital": true,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 116,
+   "numTownBlocks": 48,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 3,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 5,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,74 +92,6 @@
    ],
    "townBlocks": [
     [
-     2155,
-     52
-    ],
-    [
-     2153,
-     54
-    ],
-    [
-     2155,
-     53
-    ],
-    [
-     2155,
-     54
-    ],
-    [
-     2153,
-     53
-    ],
-    [
-     2153,
-     52
-    ],
-    [
-     2153,
-     51
-    ],
-    [
-     2153,
-     50
-    ],
-    [
-     2154,
-     50
-    ],
-    [
-     2154,
-     53
-    ],
-    [
-     2152,
-     52
-    ],
-    [
-     2154,
-     54
-    ],
-    [
-     2152,
-     53
-    ],
-    [
-     2154,
-     51
-    ],
-    [
-     2152,
-     50
-    ],
-    [
-     2154,
-     52
-    ],
-    [
-     2152,
-     51
-    ],
-    [
      2156,
      54
     ],
@@ -168,12 +100,188 @@
      53
     ],
     [
+     2156,
+     52
+    ],
+    [
+     2153,
+     54
+    ],
+    [
+     2153,
+     49
+    ],
+    [
+     2153,
+     48
+    ],
+    [
+     2154,
+     42
+    ],
+    [
+     2153,
+     47
+    ],
+    [
+     2153,
+     46
+    ],
+    [
+     2153,
+     53
+    ],
+    [
+     2154,
+     45
+    ],
+    [
+     2153,
+     52
+    ],
+    [
+     2154,
+     46
+    ],
+    [
+     2153,
+     51
+    ],
+    [
+     2154,
+     43
+    ],
+    [
+     2153,
+     50
+    ],
+    [
+     2154,
+     44
+    ],
+    [
+     2152,
+     48
+    ],
+    [
+     2153,
+     41
+    ],
+    [
+     2154,
+     49
+    ],
+    [
+     2152,
+     49
+    ],
+    [
+     2154,
+     50
+    ],
+    [
+     2152,
+     46
+    ],
+    [
+     2154,
+     47
+    ],
+    [
+     2152,
+     47
+    ],
+    [
+     2154,
+     48
+    ],
+    [
+     2152,
+     52
+    ],
+    [
+     2153,
+     45
+    ],
+    [
+     2154,
+     53
+    ],
+    [
+     2152,
+     53
+    ],
+    [
+     2153,
+     44
+    ],
+    [
+     2154,
+     54
+    ],
+    [
+     2152,
+     50
+    ],
+    [
+     2153,
+     43
+    ],
+    [
+     2154,
+     51
+    ],
+    [
+     2152,
+     51
+    ],
+    [
+     2153,
+     42
+    ],
+    [
+     2154,
+     52
+    ],
+    [
      2152,
      54
     ],
     [
-     2156,
+     2155,
+     51
+    ],
+    [
+     2155,
      52
+    ],
+    [
+     2155,
+     50
+    ],
+    [
+     2155,
+     53
+    ],
+    [
+     2155,
+     54
+    ],
+    [
+     2152,
+     44
+    ],
+    [
+     2152,
+     45
+    ],
+    [
+     2152,
+     42
+    ],
+    [
+     2152,
+     43
     ]
    ],
    "worlds": {}
@@ -184,19 +292,41 @@
     "uuid": "ff6f66c3-ed21-4cef-98c8-b8d7f01bf60c"
    },
    {
+    "name": "Furnance",
+    "uuid": "265e3c6c-e240-42b8-a0ba-1d8ddb889cf9"
+   }
+  ],
+  "trusted": [
+   {
+    "name": "xiaoLan_Blue",
+    "uuid": "4ce9e79c-8d34-4815-a6f2-02777c137012"
+   },
+   {
     "name": "loumutxdy",
     "uuid": "9fecdb69-e223-4bc7-a513-3f5a470146f2"
    },
    {
     "name": "chococat114514",
     "uuid": "0a9509f5-1aba-46fc-97fb-802afe62f91e"
+   },
+   {
+    "name": "Furnance",
+    "uuid": "265e3c6c-e240-42b8-a0ba-1d8ddb889cf9"
+   },
+   {
+    "name": "zilpung",
+    "uuid": "791ab236-57db-4f0e-94f2-e065ce5fdf5c"
    }
   ],
-  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "Furnance",
+     "uuid": "265e3c6c-e240-42b8-a0ba-1d8ddb889cf9"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Valley",
-  "uuid": "10dd2b87-4b97-4836-900d-66b362833d60",
+  "name": "Formosa",
+  "uuid": "dde51ae5-614d-47c1-a179-549509e94f5a",
   "board": "/town set board [msg]",
-  "founder": "Noviello_",
+  "founder": "MysteryTVIDS",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Noviello_",
-   "uuid": "059948e5-c518-4aae-8ddf-7ff2a69b0db4"
+   "name": "MysteryTVIDS",
+   "uuid": "56227f6f-759c-4892-9bd9-83b7c310fdba"
   },
   "nation": {
-   "name": "Gulf_Union",
-   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
-   "registered": 1789619116744,
-   "joinedNationAt": 1789619145194,
+   "registered": 1794793409765,
+   "joinedNationAt": 1794794417865,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "nationBonus": 100,
+   "numResidents": 2,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,57 +80,54 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -31511.360746151564,
-    "y": 64.0,
-    "z": -4117.469743427968,
-    "pitch": 42.000046,
-    "yaw": 20.496582
+    "x": -20753.328557219396,
+    "y": 63.0,
+    "z": 16450.761047476753,
+    "pitch": 26.58186,
+    "yaw": -172.95764
    },
    "homeBlock": [
-    -1970,
-    -258
+    -1298,
+    1028
    ],
    "townBlocks": [
     [
-     -1970,
-     -258
+     -1298,
+     1028
     ],
     [
-     -1970,
-     -257
-    ],
-    [
-     -1971,
-     -256
-    ],
-    [
-     -1970,
-     -256
-    ],
-    [
-     -1971,
-     -257
+     -1298,
+     1029
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Noviello_",
-    "uuid": "059948e5-c518-4aae-8ddf-7ff2a69b0db4"
-   }
-  ],
-  "trusted": [
+    "name": "MysteryTVIDS",
+    "uuid": "56227f6f-759c-4892-9bd9-83b7c310fdba"
+   },
    {
-    "name": "Hoffywin9999",
-    "uuid": "58d8e0b6-30e6-4af1-8448-8d1187844632"
+    "name": "Venom502",
+    "uuid": "e775b123-00bb-4f25-918e-177c4b2c49b7"
    }
   ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "Venom502",
+     "uuid": "e775b123-00bb-4f25-918e-177c4b2c49b7"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Venom502",
+     "uuid": "e775b123-00bb-4f25-918e-177c4b2c49b7"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

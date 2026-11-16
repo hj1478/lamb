@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Omolon",
   "uuid": "c43719f6-1203-4d67-9d6e-fab935a850b3",
-  "board": "/town set board [msg]",
+  "board": "Locality of Potential",
   "founder": "InsertNikki",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 6,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,10 +93,26 @@
    "townBlocks": [
     [
      3596,
+     -1217
+    ],
+    [
+     3595,
+     -1217
+    ],
+    [
+     3596,
+     -1215
+    ],
+    [
+     3596,
      -1216
     ],
     [
      3595,
+     -1216
+    ],
+    [
+     3597,
      -1216
     ]
    ],
@@ -106,9 +122,18 @@
    {
     "name": "InsertNikki",
     "uuid": "a8bb877e-d3c7-447f-ba16-23ea7b10bfc1"
+   },
+   {
+    "name": "Off911",
+    "uuid": "17c781cf-6741-4067-8d98-df1cf8687a94"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Off911",
+    "uuid": "17c781cf-6741-4067-8d98-df1cf8687a94"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

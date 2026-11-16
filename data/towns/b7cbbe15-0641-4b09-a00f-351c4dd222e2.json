@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Navan",
   "uuid": "b7cbbe15-0641-4b09-a00f-351c4dd222e2",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "CrashLlama",
-   "uuid": "a56f5846-1c21-4428-942c-0eb9ce3a3781"
+   "name": "NPC79",
+   "uuid": "72d54e5e-4586-2012-a570-3923fc123f72"
   },
   "nation": {
-   "name": "Persia",
-   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790733962228,
-   "joinedNationAt": 1790733985316,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794740407132
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "CrashLlama",
-    "uuid": "a56f5846-1c21-4428-942c-0eb9ce3a3781"
+    "name": "NPC79",
+    "uuid": "72d54e5e-4586-2012-a570-3923fc123f72"
    }
   ],
   "trusted": [],

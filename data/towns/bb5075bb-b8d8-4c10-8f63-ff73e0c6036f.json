@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Baltimore_City",
   "uuid": "bb5075bb-b8d8-4c10-8f63-ff73e0c6036f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "sandape420",
-   "uuid": "636b67ff-876f-4080-991d-b4b46046c414"
+   "name": "NPC72",
+   "uuid": "aa1f9888-85be-20c1-a314-5514363d99c1"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790650686796,
-   "joinedNationAt": 1791344096463,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794740405232
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 28,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 1,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -208,8 +208,8 @@
   },
   "residents": [
    {
-    "name": "sandape420",
-    "uuid": "636b67ff-876f-4080-991d-b4b46046c414"
+    "name": "NPC72",
+    "uuid": "aa1f9888-85be-20c1-a314-5514363d99c1"
    }
   ],
   "trusted": [
@@ -226,12 +226,7 @@
   ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "sandape420",
-     "uuid": "636b67ff-876f-4080-991d-b4b46046c414"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

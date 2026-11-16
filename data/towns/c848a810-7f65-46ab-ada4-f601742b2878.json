@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Hourston_Island",
   "uuid": "c848a810-7f65-46ab-ada4-f601742b2878",
@@ -12,12 +12,12 @@
    "uuid": "d7baf739-481c-4016-9e8d-6caf27e0f5c0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Canada",
+   "uuid": "5d603785-42c5-4550-9523-a8e25bcfa40e"
   },
   "timestamps": {
    "registered": 1794586657254,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794706054945,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,7 +96,35 @@
      -952
     ],
     [
+     -2297,
+     -952
+    ],
+    [
      -2298,
+     -951
+    ],
+    [
+     -2297,
+     -951
+    ],
+    [
+     -2298,
+     -953
+    ],
+    [
+     -2300,
+     -952
+    ],
+    [
+     -2299,
+     -953
+    ],
+    [
+     -2299,
+     -952
+    ],
+    [
+     -2299,
      -951
     ]
    ],

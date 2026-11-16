@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Peru",
   "uuid": "cff7b8a8-9f73-4159-b728-5df3e64af562",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -104,7 +104,12 @@
     "uuid": "12955634-91ee-435c-9645-4148992c1ac4"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Meshly",
+    "uuid": "ce6ac8b1-6194-4f1f-bb07-f3f662100b1f"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

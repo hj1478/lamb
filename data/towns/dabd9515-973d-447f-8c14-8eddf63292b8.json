@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Qinghai",
   "uuid": "dabd9515-973d-447f-8c14-8eddf63292b8",
   "board": "Whatever color the sky holds, Qinghai Lake reflects",
   "founder": "LAOLING__",
-  "wiki": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Nostra:Qinghai",
   "discord": null,
   "mayor": {
    "name": "LAOLING__",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 25,
+   "numTownBlocks": 40,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 2,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,7 +72,7 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": false,
     "mobs": false
    }
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 36020.69999998808,
-    "y": 103.0,
-    "z": -5877.081092159853,
-    "pitch": 9.2149515,
-    "yaw": 143.02493
+    "x": 36040.15206444241,
+    "y": 104.0,
+    "z": -5890.285692669198,
+    "pitch": 5.203708,
+    "yaw": -45.71875
    },
    "homeBlock": [
-    2251,
-    -368
+    2252,
+    -369
    ],
    "townBlocks": [
     [
@@ -124,10 +124,50 @@
      -369
     ],
     [
+     2255,
+     -369
+    ],
+    [
+     2255,
+     -368
+    ],
+    [
+     2255,
+     -371
+    ],
+    [
+     2253,
+     -366
+    ],
+    [
+     2255,
+     -370
+    ],
+    [
+     2255,
+     -367
+    ],
+    [
+     2252,
+     -366
+    ],
+    [
      2252,
      -367
     ],
     [
+     2256,
+     -368
+    ],
+    [
+     2256,
+     -369
+    ],
+    [
+     2256,
+     -370
+    ],
+    [
      2249,
      -367
     ],
@@ -148,8 +188,16 @@
      -369
     ],
     [
+     2254,
+     -370
+    ],
+    [
      2249,
      -369
+    ],
+    [
+     2254,
+     -367
     ],
     [
      2249,
@@ -168,8 +216,16 @@
      -369
     ],
     [
+     2254,
+     -371
+    ],
+    [
      2251,
      -367
+    ],
+    [
+     2254,
+     -372
     ],
     [
      2250,
@@ -189,6 +245,10 @@
     ],
     [
      2253,
+     -372
+    ],
+    [
+     2253,
      -371
     ]
    ],
@@ -202,12 +262,32 @@
   ],
   "trusted": [
    {
+    "name": "A_ZHONG1",
+    "uuid": "3c35f4db-0f83-4d5e-8c6d-1aadf470cf63"
+   },
+   {
     "name": "RevDestiny",
     "uuid": "1e57446c-eeee-4cd2-9a97-0a446ea1d0b4"
    },
    {
+    "name": "xzYie",
+    "uuid": "416830b3-8318-4eef-ab71-ee3f23d63216"
+   },
+   {
+    "name": "ming2022",
+    "uuid": "31172ecd-14fe-4873-9b1c-7856ac22935d"
+   },
+   {
+    "name": "LiZekaiii",
+    "uuid": "1589b4fe-c8aa-4674-af8d-3f709d10b8e0"
+   },
+   {
     "name": "qkrgotjd6974",
     "uuid": "6bfea15a-a4a2-4c6d-ae40-2c39049c1f77"
+   },
+   {
+    "name": "HyperLess",
+    "uuid": "ee64d328-42e2-4c9f-8c40-73779204df8e"
    }
   ],
   "outlaws": [],

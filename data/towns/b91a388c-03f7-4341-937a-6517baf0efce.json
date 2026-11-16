@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Slasherz",
   "uuid": "b91a388c-03f7-4341-937a-6517baf0efce",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_FamzuMC_",
-   "uuid": "f2dba27a-29b6-4887-8072-40d477242594"
+   "name": "NPC89",
+   "uuid": "14daa759-5837-20e2-a55b-95f3bc5b51fd"
   },
   "nation": {
-   "name": "Ethiopia",
-   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791373475318,
-   "joinedNationAt": 1791501872851,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794828168071
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
+   "nationBonus": 0,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 3.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -114,6 +114,10 @@
    {
     "name": "_FamzuMC_",
     "uuid": "f2dba27a-29b6-4887-8072-40d477242594"
+   },
+   {
+    "name": "NPC89",
+    "uuid": "14daa759-5837-20e2-a55b-95f3bc5b51fd"
    }
   ],
   "trusted": [],

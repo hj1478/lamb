@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Lhasa",
   "uuid": "da3f4e9c-2792-4083-b333-c1fe4c701a7e",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 325,
-   "maxTownBlocks": 316,
+   "numTownBlocks": 328,
+   "maxTownBlocks": 304,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 18,
-   "numTrusted": 13,
-   "numOutlaws": 12,
-   "balance": 33.0,
+   "numResidents": 17,
+   "numTrusted": 14,
+   "numOutlaws": 11,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 33015.55960421667,
-    "y": 113.1875,
-    "z": -3043.56547640983,
-    "pitch": -3.1501184,
-    "yaw": -1.0683289
+    "x": 33015.53223962485,
+    "y": 54.0,
+    "z": -3033.42850825756,
+    "pitch": 0.44996285,
+    "yaw": 87.88162
    },
    "homeBlock": [
     2063,
-    -191
+    -190
    ],
    "townBlocks": [
     [
@@ -905,6 +905,10 @@
     ],
     [
      2048,
+     -196
+    ],
+    [
+     2048,
      -195
     ],
     [
@@ -954,6 +958,10 @@
     [
      2050,
      -182
+    ],
+    [
+     2048,
+     -197
     ],
     [
      2048,
@@ -1154,6 +1162,10 @@
     [
      2043,
      -189
+    ],
+    [
+     2049,
+     -198
     ],
     [
      2053,
@@ -1428,10 +1440,6 @@
     "uuid": "ff452aa3-4594-43b9-a623-0b4b8014d486"
    },
    {
-    "name": "wsywlxz",
-    "uuid": "2d0d83ab-25dc-4292-a4b0-e35b64977514"
-   },
-   {
     "name": "katanb666",
     "uuid": "3a3d0c08-fae7-4b65-9819-722b40bd3f77"
    },
@@ -1464,11 +1472,15 @@
     "uuid": "de2e9c78-7687-4c3a-bbe0-1e650a1ed906"
    },
    {
-    "name": "WordLion89977",
-    "uuid": "887d6bf2-8a08-4b43-a986-3283d52d4038"
+    "name": "Wingzhenz1",
+    "uuid": "8b3276c5-04d1-4e3c-b352-9781c40d7d69"
    }
   ],
   "trusted": [
+   {
+    "name": "wsywlxz",
+    "uuid": "2d0d83ab-25dc-4292-a4b0-e35b64977514"
+   },
    {
     "name": "Magmark",
     "uuid": "1020b785-2dd4-499e-9d50-91e5706095dd"
@@ -1476,10 +1488,6 @@
    {
     "name": "CXchaoxiXC",
     "uuid": "fe9dffcd-8373-447a-a671-52c59da9efec"
-   },
-   {
-    "name": "User_142857",
-    "uuid": "b2308313-2d72-4d2b-9a93-eff3595a9f6a"
    },
    {
     "name": "ShareCashier",
@@ -1518,8 +1526,12 @@
     "uuid": "266126fd-39ee-4e77-b8ca-f92fd3cfc293"
    },
    {
-    "name": "luckyoumc",
+    "name": "LuckyouMC",
     "uuid": "b329dcd7-7e64-4d94-a217-ebadd0495081"
+   },
+   {
+    "name": "lzx233666",
+    "uuid": "be4caea6-25bd-4b1c-a761-3834849a7fdb"
    }
   ],
   "outlaws": [
@@ -1558,10 +1570,6 @@
    {
     "name": "KittyDogg",
     "uuid": "4e02c372-717c-483f-a0f5-171b42d1cfc4"
-   },
-   {
-    "name": "Lord_Gibraltar",
-    "uuid": "6db958f7-004f-4451-a460-a0a12a7decba"
    },
    {
     "name": "Siudea",
@@ -1894,10 +1902,6 @@
     "uuid": "612aaed3-c4a1-4741-bd1b-a90e3b881d8e"
    },
    {
-    "name": "106 ༡༠༦",
-    "uuid": "87c5addb-747e-4d4b-83e0-2ab8262069ed"
-   },
-   {
     "name": "108 ༡༠༨",
     "uuid": "ff3201bf-f4a9-4ab7-9154-fcfada989028"
    },
@@ -1956,10 +1960,6 @@
    {
     "name": "107 ༡༠༧",
     "uuid": "959c0521-48b2-4a4b-b0db-92fbbd22cae1"
-   },
-   {
-    "name": "102",
-    "uuid": "b9eedb48-2415-4c7f-a7a2-a931a615e924"
    },
    {
     "name": "107",
@@ -2036,6 +2036,42 @@
    {
     "name": "211 ༢༡༡",
     "uuid": "33e49e3a-cb31-4692-8caa-1ece2d352728"
+   },
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "82d1ab22-976d-44bf-ad22-41c64db00e76"
+   },
+   {
+    "name": "Inviting Apartment",
+    "uuid": "93ff7d45-c71e-4801-9335-0fe97dc3448b"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "d5b71b75-8889-4054-a6c9-615eb69ff545"
+   },
+   {
+    "name": "Annoying Residence",
+    "uuid": "9b4cd8f6-1d27-496f-8732-0673d3ff7043"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "b2f05768-e1eb-4249-92ed-6858368f2629"
+   },
+   {
+    "name": "Inconvenient Tenement",
+    "uuid": "0dfa4ff3-947e-4804-877e-af90fdb58b27"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "bd146eeb-1878-4087-9a2a-f0b63f3d2ab4"
+   },
+   {
+    "name": "102",
+    "uuid": "b9eedb48-2415-4c7f-a7a2-a931a615e924"
+   },
+   {
+    "name": "106 ༡༠༦",
+    "uuid": "87c5addb-747e-4d4b-83e0-2ab8262069ed"
    }
   ],
   "ranks": {

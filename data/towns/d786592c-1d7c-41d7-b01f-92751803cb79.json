@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Uddevalla",
   "uuid": "d786592c-1d7c-41d7-b01f-92751803cb79",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "FrxnchWaffle",
-   "uuid": "8c4a3f84-4d61-4dbb-9a17-041614fb40d3"
+   "name": "NPC85",
+   "uuid": "5e6bf54a-097b-2057-9ff1-81bbe40f8b9c"
   },
   "nation": {
-   "name": "Sweden",
-   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785860582408,
-   "joinedNationAt": 1785862362911,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794826806802
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 49,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -292,8 +292,8 @@
   },
   "residents": [
    {
-    "name": "FrxnchWaffle",
-    "uuid": "8c4a3f84-4d61-4dbb-9a17-041614fb40d3"
+    "name": "NPC85",
+    "uuid": "5e6bf54a-097b-2057-9ff1-81bbe40f8b9c"
    }
   ],
   "trusted": [

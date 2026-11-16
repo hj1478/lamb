@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Armadillo",
   "uuid": "c3a7630c-871e-4c8c-a1a1-87d9d7851130",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Evilbaby163079",
-   "uuid": "b064541d-8024-488b-9a7e-7eb07e1fb7c4"
+   "name": "NPC95",
+   "uuid": "44d265e6-2aeb-20f4-9438-39a0a8d83a31"
   },
   "nation": {
-   "name": "Persia",
-   "uuid": "8e91e85b-e301-4942-9a5a-670a023e3a6f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1783684996731,
-   "joinedNationAt": 1783685467544,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794620889695
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 33,
-   "maxTownBlocks": 74,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 2,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 3.0,
+   "nationBonus": 0,
+   "numResidents": 1,
+   "numTrusted": 3,
+   "numOutlaws": 2,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -228,25 +228,34 @@
   },
   "residents": [
    {
-    "name": "Evilbaby163079",
-    "uuid": "b064541d-8024-488b-9a7e-7eb07e1fb7c4"
-   },
-   {
-    "name": "SIDDDDDDD07",
-    "uuid": "7f2e559c-6616-4efc-825a-0a4f181f84f5"
+    "name": "NPC95",
+    "uuid": "44d265e6-2aeb-20f4-9438-39a0a8d83a31"
    }
   ],
   "trusted": [
    {
-    "name": "SIDDDDDDD07",
-    "uuid": "7f2e559c-6616-4efc-825a-0a4f181f84f5"
+    "name": "Jashbrown",
+    "uuid": "17764cae-7f25-475e-b8d7-719330090e1f"
    },
    {
-    "name": "CarbonRabbit",
-    "uuid": "fddd37ce-111b-4bab-9323-08f17fc5dab9"
+    "name": "GameSquire76",
+    "uuid": "e0bb5793-d292-4ec9-b898-9dc7f5b795cd"
+   },
+   {
+    "name": "OfficiallyXiomi",
+    "uuid": "e52bc002-dbc4-4559-86d5-58b6392efd22"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
+   },
+   {
+    "name": "FindItCooper",
+    "uuid": "e83a3e70-13d7-43b1-a91f-bef87bbd9fe9"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

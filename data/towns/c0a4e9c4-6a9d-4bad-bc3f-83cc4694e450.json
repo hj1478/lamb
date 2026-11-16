@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Pointe-Lebel",
   "uuid": "c0a4e9c4-6a9d-4bad-bc3f-83cc4694e450",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 70,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 83,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 5,
+   "numResidents": 7,
+   "numTrusted": 7,
    "numOutlaws": 0,
-   "balance": 45.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -137,6 +137,14 @@
     ],
     [
      -1536,
+     -706
+    ],
+    [
+     -1536,
+     -705
+    ],
+    [
+     -1536,
      -704
     ],
     [
@@ -157,11 +165,19 @@
     ],
     [
      -1538,
+     -705
+    ],
+    [
+     -1538,
      -702
     ],
     [
      -1538,
      -703
+    ],
+    [
+     -1538,
+     -706
     ],
     [
      -1528,
@@ -169,6 +185,10 @@
     ],
     [
      -1538,
+     -696
+    ],
+    [
+     -1538,
      -697
     ],
     [
@@ -204,6 +224,18 @@
      -698
     ],
     [
+     -1537,
+     -705
+    ],
+    [
+     -1535,
+     -705
+    ],
+    [
+     -1537,
+     -706
+    ],
+    [
      -1535,
      -704
     ],
@@ -222,6 +254,10 @@
     [
      -1535,
      -700
+    ],
+    [
+     -1535,
+     -706
     ],
     [
      -1531,
@@ -261,6 +297,10 @@
     ],
     [
      -1534,
+     -706
+    ],
+    [
+     -1534,
      -696
     ],
     [
@@ -336,6 +376,10 @@
      -698
     ],
     [
+     -1533,
+     -706
+    ],
+    [
      -1537,
      -703
     ],
@@ -352,6 +396,10 @@
      -700
     ],
     [
+     -1539,
+     -698
+    ],
+    [
      -1537,
      -701
     ],
@@ -361,6 +409,10 @@
     ],
     [
      -1530,
+     -697
+    ],
+    [
+     -1539,
      -697
     ],
     [
@@ -398,6 +450,10 @@
    {
     "name": "pvtk",
     "uuid": "a47832ed-e623-4ffd-a87c-bbe464604629"
+   },
+   {
+    "name": "BuckedZulu",
+    "uuid": "e6b204ec-1510-4f92-a759-c892c9b70c60"
    }
   ],
   "trusted": [
@@ -410,12 +466,20 @@
     "uuid": "ab2228e4-8120-42ea-891c-6995e3438bb7"
    },
    {
-    "name": "FisherCollins",
+    "name": "FisherRize",
     "uuid": "4d464597-9aa1-4558-9bdb-4e8135a129c2"
+   },
+   {
+    "name": "Dayzle",
+    "uuid": "0d5dcb52-c6a3-45ce-b21d-9208a150ea86"
    },
    {
     "name": "Lucas2011",
     "uuid": "4452780b-034d-4d46-b427-717ce3f5acda"
+   },
+   {
+    "name": "0rremorre",
+    "uuid": "566ab227-eb1c-4239-a303-e84f29851c7b"
    },
    {
     "name": "MylesRatliff",
@@ -423,9 +487,19 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Town_Warehouse",
+    "uuid": "2665df70-ba2a-4981-8821-71f35a06a92c"
+   }
+  ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BuckedZulu",
+     "uuid": "e6b204ec-1510-4f92-a759-c892c9b70c60"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

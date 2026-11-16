@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Cienfuegos",
   "uuid": "bbf99381-455b-4dbd-ad7b-77a16cfaf8db",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 270,
-   "maxTownBlocks": 260,
+   "maxTownBlocks": 272,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 15,
+   "numResidents": 16,
    "numTrusted": 15,
    "numOutlaws": 1,
-   "balance": 1.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1234,6 +1234,10 @@
    {
     "name": "ignPogi",
     "uuid": "626df241-7fd9-4af1-ac82-3676b0be3fee"
+   },
+   {
+    "name": "shazyzy",
+    "uuid": "4c095b07-5b34-4252-96b0-e4632ae5eb13"
    }
   ],
   "trusted": [

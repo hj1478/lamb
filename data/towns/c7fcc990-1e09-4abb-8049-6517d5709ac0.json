@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Pasargadae",
   "uuid": "c7fcc990-1e09-4abb-8049-6517d5709ac0",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 84,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
+   "nationBonus": 60,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -92,12 +92,20 @@
    ],
    "townBlocks": [
     [
+     1179,
+     -248
+    ],
+    [
      1180,
      -244
     ],
     [
      1181,
      -244
+    ],
+    [
+     1179,
+     -247
     ],
     [
      1180,
@@ -108,12 +116,60 @@
      -245
     ],
     [
+     1179,
+     -246
+    ],
+    [
      1180,
      -246
     ],
     [
      1181,
      -246
+    ],
+    [
+     1179,
+     -245
+    ],
+    [
+     1180,
+     -247
+    ],
+    [
+     1181,
+     -247
+    ],
+    [
+     1179,
+     -244
+    ],
+    [
+     1180,
+     -248
+    ],
+    [
+     1181,
+     -248
+    ],
+    [
+     1182,
+     -248
+    ],
+    [
+     1182,
+     -247
+    ],
+    [
+     1182,
+     -246
+    ],
+    [
+     1182,
+     -245
+    ],
+    [
+     1182,
+     -244
     ]
    ],
    "worlds": {}
@@ -122,6 +178,10 @@
    {
     "name": "mohammadTS1384",
     "uuid": "bc2a8f0d-4db2-48b3-926e-6be573aeabd1"
+   },
+   {
+    "name": "AmirTS1383",
+    "uuid": "52a9ef55-fea0-4ef2-8973-f4efa4d4d69a"
    }
   ],
   "trusted": [],

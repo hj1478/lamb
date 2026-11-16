@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "The_Legion",
   "uuid": "c6df8e48-12b8-4998-8d18-a54d838147f4",
@@ -12,12 +12,12 @@
    "uuid": "22aaab23-3f1b-4a49-9fbc-28c39f740d1e"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793895544075,
-   "joinedNationAt": 1793958233473,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 10,
    "numOutlaws": 0,
@@ -218,7 +218,7 @@
     "uuid": "d1c9d145-efce-4a6f-b531-5e64cc1944e4"
    },
    {
-    "name": "LassqL",
+    "name": "LassoLL",
     "uuid": "cd947989-742f-4885-bbe1-f399ba6be7ec"
    },
    {

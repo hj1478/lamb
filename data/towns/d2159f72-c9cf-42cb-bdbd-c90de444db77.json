@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Kuorevesi",
   "uuid": "d2159f72-c9cf-42cb-bdbd-c90de444db77",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 216,
-   "maxTownBlocks": 192,
+   "maxTownBlocks": 180,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 11,
+   "numResidents": 10,
    "numTrusted": 2,
-   "numOutlaws": 14,
-   "balance": 32.0,
+   "numOutlaws": 13,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -968,10 +968,6 @@
     "uuid": "1b105dff-318b-4e67-8708-713ad0cb3f17"
    },
    {
-    "name": "jonttu088",
-    "uuid": "81afed1d-85a5-4b73-b954-25ae434b55bd"
-   },
-   {
     "name": "EpicBadger420",
     "uuid": "e935fcec-2484-4fd5-aaae-920da561c2bc"
    },
@@ -1036,20 +1032,12 @@
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
    },
    {
-    "name": "6x02",
-    "uuid": "76d23ab8-f86b-4b17-8ff6-871c03a1f27b"
-   },
-   {
     "name": "superpuma021",
     "uuid": "3d8e0199-70f4-4739-9f41-0835d9a2eae4"
    },
    {
     "name": "ToxBytes",
     "uuid": "88688fec-eac4-4d07-8ea9-16a245b97538"
-   },
-   {
-    "name": "0rremorre",
-    "uuid": "566ab227-eb1c-4239-a303-e84f29851c7b"
    },
    {
     "name": "jamari_aymara23",
@@ -1070,6 +1058,10 @@
    {
     "name": "LimpingCow",
     "uuid": "c4e0151c-b47f-4e9c-ad8f-32b3b465f110"
+   },
+   {
+    "name": "ItzDarken",
+    "uuid": "4abef3c8-7dfb-40a3-8c5f-8c2f82bf874b"
    }
   ],
   "quarters": [
@@ -1104,6 +1096,14 @@
    {
     "name": "Empty Bulk",
     "uuid": "54192d58-f2df-41ed-9153-3350184a3965"
+   },
+   {
+    "name": "Luxurious Property",
+    "uuid": "31b38660-080f-4dd2-9ff7-fc5aff277aaf"
+   },
+   {
+    "name": "Pale Oak",
+    "uuid": "6a9be1d1-96ca-440d-9513-4e9ea58e6f7f"
    }
   ],
   "ranks": {
@@ -1113,12 +1113,7 @@
      "uuid": "1b105dff-318b-4e67-8708-713ad0cb3f17"
     }
    ],
-   "Builder": [
-    {
-     "name": "jonttu088",
-     "uuid": "81afed1d-85a5-4b73-b954-25ae434b55bd"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [

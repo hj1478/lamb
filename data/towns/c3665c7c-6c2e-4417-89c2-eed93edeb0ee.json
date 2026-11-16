@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Blue_Water",
   "uuid": "c3665c7c-6c2e-4417-89c2-eed93edeb0ee",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 208,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 220,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 5,
-   "numTrusted": 2,
+   "numResidents": 10,
+   "numTrusted": 3,
    "numOutlaws": 8,
    "balance": 1034.0,
    "forSalePrice": null
@@ -928,8 +928,28 @@
   },
   "residents": [
    {
+    "name": "Orknarok_666",
+    "uuid": "413e630d-d87a-4cb7-adaf-01af67d014b2"
+   },
+   {
+    "name": "DogPool_",
+    "uuid": "3b3a7b84-9b8e-4215-ad15-5608f421c78c"
+   },
+   {
+    "name": "ArbiterGaming",
+    "uuid": "aadac75e-12a4-4114-b2b5-a406b0669bfd"
+   },
+   {
     "name": "Grassboii",
     "uuid": "bda5e1d6-3953-4a1c-893d-578947975001"
+   },
+   {
+    "name": "CruxyMC",
+    "uuid": "5800fc63-db7c-4607-b150-6b356ba66f76"
+   },
+   {
+    "name": "SFRricraz63",
+    "uuid": "5be9065e-0aef-4fd7-8801-51f1b9f1ddbc"
    },
    {
     "name": "RitzKid76",
@@ -952,6 +972,10 @@
    {
     "name": "RitzKid76",
     "uuid": "b97630ac-c4fe-4c7b-819d-af6e3f80b737"
+   },
+   {
+    "name": "CruxyMC",
+    "uuid": "5800fc63-db7c-4607-b150-6b356ba66f76"
    },
    {
     "name": "Grassboii",
@@ -1173,15 +1197,36 @@
   "ranks": {
    "Councillor": [
     {
+     "name": "Orknarok_666",
+     "uuid": "413e630d-d87a-4cb7-adaf-01af67d014b2"
+    },
+    {
+     "name": "DogPool_",
+     "uuid": "3b3a7b84-9b8e-4215-ad15-5608f421c78c"
+    },
+    {
+     "name": "ArbiterGaming",
+     "uuid": "aadac75e-12a4-4114-b2b5-a406b0669bfd"
+    },
+    {
      "name": "Grassboii",
      "uuid": "bda5e1d6-3953-4a1c-893d-578947975001"
+    },
+    {
+     "name": "SFRricraz63",
+     "uuid": "5be9065e-0aef-4fd7-8801-51f1b9f1ddbc"
     }
    ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [],
+   "Treasurer": [
+    {
+     "name": "Orknarok_666",
+     "uuid": "413e630d-d87a-4cb7-adaf-01af67d014b2"
+    }
+   ],
    "Realtor": [],
    "Settler": []
   },

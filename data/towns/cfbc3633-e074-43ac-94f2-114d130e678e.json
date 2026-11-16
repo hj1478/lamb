@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Xotic-Xports",
   "uuid": "cfbc3633-e074-43ac-94f2-114d130e678e",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 72,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 41.0,
+   "balance": 55.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 28518.349692120868,
-    "y": 67.0,
-    "z": 3628.530288291726,
-    "pitch": 2.794223,
-    "yaw": 1.8074951
+    "x": 28518.95399657806,
+    "y": 65.0,
+    "z": 3629.4888253035256,
+    "pitch": 0.27595493,
+    "yaw": -1.2480469
    },
    "homeBlock": [
     1782,
@@ -386,6 +386,10 @@
    {
     "name": "maxcaw",
     "uuid": "8759e45d-f392-49fc-99d7-4d7e20d5abd6"
+   },
+   {
+    "name": "ventuuuw",
+    "uuid": "7d709992-e4e2-4386-be0e-4bf49171d697"
    }
   ],
   "trusted": [

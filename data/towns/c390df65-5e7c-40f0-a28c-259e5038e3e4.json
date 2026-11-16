@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Hometown",
   "uuid": "c390df65-5e7c-40f0-a28c-259e5038e3e4",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -41,8 +41,8 @@
    "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 4,
-   "numOutlaws": 2,
-   "balance": 0.0,
+   "numOutlaws": 1,
+   "balance": 30.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -38456.69999998808,
+    "x": -38452.49292852155,
     "y": -14.0,
-    "z": -11366.479381824707,
-    "pitch": 1.6499959,
-    "yaw": -88.7063
+    "z": -11366.455745355392,
+    "pitch": 2.9999907,
+    "yaw": 91.177536
    },
    "homeBlock": [
     -2404,
@@ -430,12 +430,12 @@
   ],
   "trusted": [
    {
-    "name": "ohheckhannah",
-    "uuid": "bb4a34f9-2a74-456c-a355-14506d9d26e8"
-   },
-   {
     "name": "greenteasalsa",
     "uuid": "7699a41c-93de-4c0e-a05d-76d6403a107f"
+   },
+   {
+    "name": "ohheckhannah",
+    "uuid": "bb4a34f9-2a74-456c-a355-14506d9d26e8"
    },
    {
     "name": "herondaisy",
@@ -447,10 +447,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "XukongZhiYing",
-    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
-   },
    {
     "name": "TheTrexian",
     "uuid": "9859c65b-6eed-454f-b018-2f6360ba02eb"

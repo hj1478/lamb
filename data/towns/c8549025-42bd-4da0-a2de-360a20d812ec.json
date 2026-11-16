@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Doncaster",
   "uuid": "c8549025-42bd-4da0-a2de-360a20d812ec",
-  "board": "Founded by the Romans in AD 71",
+  "board": "Hail King Slyprince!",
   "founder": "CharlemagneHappy",
-  "wiki": null,
-  "discord": null,
+  "wiki": "https://wiki.earthmc.net/wiki/Nostra:Ireland_(Eire)",
+  "discord": "https://discord.gg/72D2sTUcsg",
   "mayor": {
-   "name": "RedDogRose",
-   "uuid": "30288c1e-a014-4f1c-8e86-bebd66e04367"
+   "name": "UrMomzBoyfrend",
+   "uuid": "9459a305-40fa-4ded-bbbe-8882e0c9bbeb"
   },
   "nation": {
-   "name": "Scotland",
-   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
+   "name": "Eire",
+   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
   },
   "timestamps": {
    "registered": 1790164168193,
-   "joinedNationAt": 1792527013224,
+   "joinedNationAt": 1794700275785,
    "ruinedAt": null
   },
   "status": {
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 8,
-   "numTrusted": 2,
+   "numTrusted": 3,
    "numOutlaws": 8,
-   "balance": 20.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -96,20 +96,20 @@
      -826
     ],
     [
-     -41,
-     -825
-    ],
-    [
      -34,
      -828
     ],
     [
      -41,
-     -824
+     -825
     ],
     [
      -34,
      -827
+    ],
+    [
+     -41,
+     -824
     ],
     [
      -34,
@@ -324,12 +324,16 @@
      -825
     ],
     [
+     -32,
+     -847
+    ],
+    [
      -29,
      -843
     ],
     [
      -32,
-     -847
+     -846
     ],
     [
      -29,
@@ -338,10 +342,6 @@
     [
      -26,
      -837
-    ],
-    [
-     -32,
-     -846
     ],
     [
      -29,
@@ -476,20 +476,20 @@
      -846
     ],
     [
-     -27,
-     -838
-    ],
-    [
      -31,
      -847
     ],
     [
      -27,
-     -837
+     -838
     ],
     [
      -31,
      -848
+    ],
+    [
+     -27,
+     -837
     ],
     [
      -31,
@@ -745,10 +745,6 @@
     "uuid": "40dc0e78-4185-41ae-9a74-f70c1818e19a"
    },
    {
-    "name": "RedDogRose",
-    "uuid": "30288c1e-a014-4f1c-8e86-bebd66e04367"
-   },
-   {
     "name": "RevampedTed",
     "uuid": "338e0380-bd36-4125-8ac8-f42592784fd2"
    },
@@ -759,16 +755,24 @@
    {
     "name": "GoobCoob",
     "uuid": "63fb5db8-b96f-464e-8c6c-783f2aa51ac7"
+   },
+   {
+    "name": "UrMomzBoyfrend",
+    "uuid": "9459a305-40fa-4ded-bbbe-8882e0c9bbeb"
    }
   ],
   "trusted": [
    {
-    "name": "axieyoel",
-    "uuid": "48d6cae8-6865-4e67-8993-329d4dcbc21b"
+    "name": "SlyPrince",
+    "uuid": "7073fbaf-f0e2-42f3-8e0b-68a61930eba4"
    },
    {
-    "name": "Cescobb",
-    "uuid": "19424c8a-9cc2-45e0-b817-9b6d43b4996f"
+    "name": "FutureLemon",
+    "uuid": "4735ef09-ac88-430e-9389-9377d2abcb3a"
+   },
+   {
+    "name": "MineHero43",
+    "uuid": "3e69dfbd-e17b-4225-9c38-564a95ce877a"
    }
   ],
   "outlaws": [
@@ -789,7 +793,7 @@
     "uuid": "3e565ba7-12db-4f12-9621-1d7c876d67e3"
    },
    {
-    "name": "MexicanDude6317",
+    "name": "AEpicSnail17",
     "uuid": "73489f6a-64a6-410e-9cc9-1f5299af4052"
    },
    {

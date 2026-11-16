@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T14:03:56Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "New_Westeria",
   "uuid": "cfd37518-c00c-4a05-a1eb-887fe22985d2",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1794673594525,
-   "joinedNationAt": 1794673601020,
+   "joinedNationAt": 1794844471830,
    "ruinedAt": null
   },
   "status": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23328.975873238305,
-    "y": 80.0,
-    "z": 17257.135742770613,
-    "pitch": 6.449971,
-    "yaw": 174.05667
+    "x": -23323.786226673827,
+    "y": 69.0,
+    "z": 17255.253480717693,
+    "pitch": 57.899986,
+    "yaw": -93.99347
    },
    "homeBlock": [
-    -1459,
+    -1458,
     1078
    ],
    "townBlocks": [
@@ -120,25 +120,36 @@
     "uuid": "0afccce5-53af-4388-b7f8-1739ddd24228"
    }
   ],
-  "trusted": [
-   {
-    "name": "ooows",
-    "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
+   {
+    "name": "Dingy Property",
+    "uuid": "9f0db0df-de94-4499-be9a-67d527093005"
+   },
    {
     "name": "Perturbing Quarter",
     "uuid": "d1f67484-ecf9-4a83-90e8-adb6cb949d7c"
    },
    {
-    "name": "Perturbing Flat",
-    "uuid": "ed6483ed-c2ec-4133-b16c-577dcc5c0d15"
+    "name": "Dingy Dwelling",
+    "uuid": "9313417a-8e4d-4382-856d-b3835398ed59"
    },
    {
-    "name": "Dingy Property",
-    "uuid": "9f0db0df-de94-4499-be9a-67d527093005"
+    "name": "Upbeat Quarter",
+    "uuid": "dd740fb7-192d-4f9e-9afc-7c89fd3859ed"
+   },
+   {
+    "name": "Gloomy Apartment",
+    "uuid": "d45dc5c8-3754-42d2-97c5-8f4e017e4c90"
+   },
+   {
+    "name": "Lovely Quarter",
+    "uuid": "51942aac-2cbc-42f4-9770-60b8f46c2a1c"
+   },
+   {
+    "name": "Annoying Tenement",
+    "uuid": "371cfc1e-ebc9-4355-9f28-a080e19ad5c8"
    },
    {
     "name": "Stylish Suite",
@@ -161,24 +172,8 @@
     "uuid": "4b0ea9e9-16f1-4b99-a9e9-fe46eb2bee82"
    },
    {
-    "name": "Dingy Dwelling",
-    "uuid": "9313417a-8e4d-4382-856d-b3835398ed59"
-   },
-   {
-    "name": "Upbeat Quarter",
-    "uuid": "dd740fb7-192d-4f9e-9afc-7c89fd3859ed"
-   },
-   {
-    "name": "Gloomy Apartment",
-    "uuid": "d45dc5c8-3754-42d2-97c5-8f4e017e4c90"
-   },
-   {
-    "name": "Lovely Quarter",
-    "uuid": "51942aac-2cbc-42f4-9770-60b8f46c2a1c"
-   },
-   {
-    "name": "Annoying Tenement",
-    "uuid": "371cfc1e-ebc9-4355-9f28-a080e19ad5c8"
+    "name": "Perturbing Flat",
+    "uuid": "ed6483ed-c2ec-4133-b16c-577dcc5c0d15"
    }
   ],
   "ranks": {

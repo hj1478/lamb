@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Morkov",
   "uuid": "cd4b6b07-ceab-40f9-8da5-d9a2ec22c033",
@@ -12,12 +12,12 @@
    "uuid": "68a685cd-2707-4c97-a95f-748b9fe6f5f8"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "FE",
+   "uuid": "939ce868-d47c-444a-a467-4ace4a978814"
   },
   "timestamps": {
    "registered": 1794528080227,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794618511499,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 9.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 53239.55975885012,
-    "y": 64.0,
-    "z": -21959.94528718298,
-    "pitch": 47.24993,
-    "yaw": 90.977234
+    "x": 53235.16458566907,
+    "y": 63.0,
+    "z": -21959.88504549414,
+    "pitch": 0.29992104,
+    "yaw": -89.02307
    },
    "homeBlock": [
     3327,
@@ -105,6 +105,10 @@
     ],
     [
      3328,
+     -1375
+    ],
+    [
+     3328,
      -1374
     ],
     [
@@ -114,6 +118,18 @@
     [
      3328,
      -1372
+    ],
+    [
+     3329,
+     -1374
+    ],
+    [
+     3329,
+     -1375
+    ],
+    [
+     3329,
+     -1373
     ]
    ],
    "worlds": {}
@@ -136,7 +152,12 @@
    "Councillor": [],
    "Builder": [],
    "Recruiter": [],
-   "Police": [],
+   "Police": [
+    {
+     "name": "1csmn",
+     "uuid": "68a685cd-2707-4c97-a95f-748b9fe6f5f8"
+    }
+   ],
    "Tax-exempt": [],
    "Treasurer": [],
    "Realtor": [],

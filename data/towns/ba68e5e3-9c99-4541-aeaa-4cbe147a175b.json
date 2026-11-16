@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Neptune",
   "uuid": "ba68e5e3-9c99-4541-aeaa-4cbe147a175b",
@@ -12,23 +12,23 @@
    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "AC",
+   "uuid": "257be193-e328-4f96-8529-fc47e8fa2ce7"
   },
   "timestamps": {
    "registered": 1785027002160,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794395475529,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
-   "isCapital": false,
+   "isCapital": true,
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -41,8 +41,8 @@
    "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
-   "numOutlaws": 22,
-   "balance": 4291.0,
+   "numOutlaws": 23,
+   "balance": 266.0,
    "forSalePrice": null
   },
   "perms": {
@@ -515,14 +515,6 @@
     "uuid": "8afa085d-0d32-46a8-95a5-a9a211a00b3a"
    },
    {
-    "name": "Turanci_maresal",
-    "uuid": "d7a7d122-7d11-4f25-83ac-fe33112f85f1"
-   },
-   {
-    "name": "MarkusAntonyus",
-    "uuid": "92aabe90-bfe8-450a-9d58-dbc076d0974a"
-   },
-   {
     "name": "hielluosymp",
     "uuid": "215aca8a-9727-4e4c-89d2-c71f088dc7ea"
    },
@@ -577,6 +569,18 @@
    {
     "name": "MitchH_MC",
     "uuid": "875816ab-edd1-4367-bda5-6574cc68c49a"
+   },
+   {
+    "name": "Maraotay",
+    "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "P1KE__",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
+   },
+   {
+    "name": "saif098432",
+    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
    }
   ],
   "quarters": [
@@ -1045,10 +1049,6 @@
     "uuid": "aa0d3c9b-90c4-431f-8d0a-b85ea6a4400f"
    },
    {
-    "name": "Moonlite666",
-    "uuid": "6c91bdf4-3d07-4736-9d6d-60f01c5f37d2"
-   },
-   {
     "name": "E 2 1",
     "uuid": "c8d06289-b761-44e7-9040-df147193c9d9"
    },
@@ -1269,10 +1269,6 @@
     "uuid": "10bf03ed-0a2a-46af-8218-6c58352063b7"
    },
    {
-    "name": "F 2 3",
-    "uuid": "c798313c-d92e-4c0c-ba60-940f96641cd0"
-   },
-   {
     "name": "F 2 4",
     "uuid": "80d13781-fba6-4cbe-9fe6-cbd03db12cb8"
    },
@@ -1391,6 +1387,158 @@
    {
     "name": "Iceberg II",
     "uuid": "40462d76-031d-43bf-bc12-d5a738fe9f7d"
+   },
+   {
+    "name": "F 2 3",
+    "uuid": "c798313c-d92e-4c0c-ba60-940f96641cd0"
+   },
+   {
+    "name": "B -5 7",
+    "uuid": "978f53d9-6022-42c4-9858-b2c829045921"
+   },
+   {
+    "name": "B -5 9",
+    "uuid": "f4d326e4-bdd2-4168-b196-ecb4f43be7f9"
+   },
+   {
+    "name": "B -5 11",
+    "uuid": "ed17ec55-cbc7-431c-92fa-156c2981d692"
+   },
+   {
+    "name": "B -5 13",
+    "uuid": "a7d4b04f-d133-4bc1-a336-94e8abc029f7"
+   },
+   {
+    "name": "B -5 12",
+    "uuid": "fcbd2a27-14e3-41c1-85cf-373ac26f4427"
+   },
+   {
+    "name": "B -5 14",
+    "uuid": "8ad032b5-9c7d-4172-9b4f-f1c2ca94ccca"
+   },
+   {
+    "name": "B -6 9",
+    "uuid": "b218463f-b6ae-4fe2-affd-286f4d9ae668"
+   },
+   {
+    "name": "B -6 10",
+    "uuid": "b78e457a-6091-451d-8398-a0f6303ad210"
+   },
+   {
+    "name": "B -6 11",
+    "uuid": "4fba4f93-42ea-47b3-b628-707d97205219"
+   },
+   {
+    "name": "B -6 12",
+    "uuid": "88f45d0a-f35d-4a32-b92f-d18431af4697"
+   },
+   {
+    "name": "B -6 13",
+    "uuid": "57d9ea29-7c4c-4aab-b04e-41c19c30b4e8"
+   },
+   {
+    "name": "B -6 14",
+    "uuid": "0e77f1e7-5684-4f1e-890a-9f1fa8ab6e7e"
+   },
+   {
+    "name": "B -5 15",
+    "uuid": "0759534f-94cf-42f1-9f45-d0fb7f4103c8"
+   },
+   {
+    "name": "B -5 16",
+    "uuid": "6e04b801-1f8a-4b0b-ac46-970f6b321f3d"
+   },
+   {
+    "name": "B -5 17",
+    "uuid": "321ca9aa-5500-43fc-b846-b440eab9e4af"
+   },
+   {
+    "name": "B -5 18",
+    "uuid": "32d02206-2538-48ea-92dc-be02d98bcdd6"
+   },
+   {
+    "name": "B -4 15",
+    "uuid": "6e1d8bec-5823-46da-b78a-eed6b13ebb44"
+   },
+   {
+    "name": "B -3 17",
+    "uuid": "a064372b-c50a-453c-b77c-cb35ead11c78"
+   },
+   {
+    "name": "B -3 18",
+    "uuid": "97a2ab1f-dd4d-4719-be34-db727b87f7f1"
+   },
+   {
+    "name": "B -4 17",
+    "uuid": "d813c8f9-a437-40d7-9801-637f335c7125"
+   },
+   {
+    "name": "B -4 18",
+    "uuid": "9a3d6a6b-6fe7-4d99-af6a-5e027b05abea"
+   },
+   {
+    "name": "B -4 16",
+    "uuid": "68314123-3589-4114-b4da-3a2e9dabddd2"
+   },
+   {
+    "name": "B -3 15",
+    "uuid": "c8777eb6-a951-4ab9-ba71-5295d415371c"
+   },
+   {
+    "name": "B -3 16",
+    "uuid": "520295fa-097f-48d8-8c12-af085719a7d9"
+   },
+   {
+    "name": "B -5 1",
+    "uuid": "d5ee1228-9f86-45a0-aeaf-f0552440da67"
+   },
+   {
+    "name": "B -5 10",
+    "uuid": "ed403bde-6109-4399-96db-6ba89e65c17a"
+   },
+   {
+    "name": "B -5 19",
+    "uuid": "4690abae-b6ca-4731-a9dd-9a33a4da71d6"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "f23506e5-86f2-4983-b6b8-dbfa4784b2d1"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "5b48edc9-ae25-4028-bdfc-c5a52a9f305a"
+   },
+   {
+    "name": "Welcoming Quarter",
+    "uuid": "1cd7066d-c1db-4418-9bf2-d5d730ad6d97"
+   },
+   {
+    "name": "Inviting Flat",
+    "uuid": "1ad26040-32b0-4da5-a06c-635579a5b586"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "1fba6c8b-7bf7-4099-8d92-84992f184d1a"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "67b59630-f8a2-4827-a377-ac0d59e88ead"
+   },
+   {
+    "name": "Welcoming Suite",
+    "uuid": "ed79bc59-31f1-45da-8be8-1e58b4573348"
+   },
+   {
+    "name": "Atlantic Casino",
+    "uuid": "c9b14c7d-74b5-4b97-ae9f-e193bbefe80d"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "0285d0e0-43f5-4231-baa2-959b3b78c615"
+   },
+   {
+    "name": "Cheerful Apartment",
+    "uuid": "368a4f4e-c447-4500-9eaa-cd4ed402ca15"
    }
   ],
   "ranks": {

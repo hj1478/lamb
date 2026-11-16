@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Sabi",
   "uuid": "d0b4226e-9c48-48f9-bc4a-2b07ba70de6e",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 50,
    "numResidents": 1,
-   "numTrusted": 3,
-   "numOutlaws": 0,
-   "balance": 7.0,
+   "numTrusted": 0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44908.85340993831,
+    "x": 44911.72588473453,
     "y": -16.0,
-    "z": -6296.523625928837,
-    "pitch": 19.650032,
-    "yaw": -12.469177
+    "z": -6292.633847781125,
+    "pitch": 5.5500197,
+    "yaw": -84.919075
    },
    "homeBlock": [
     2806,
@@ -104,8 +104,36 @@
      -393
     ],
     [
+     2807,
+     -391
+    ],
+    [
+     2808,
+     -393
+    ],
+    [
+     2808,
+     -394
+    ],
+    [
+     2808,
+     -392
+    ],
+    [
      2805,
      -392
+    ],
+    [
+     2805,
+     -391
+    ],
+    [
+     2804,
+     -393
+    ],
+    [
+     2804,
+     -394
     ],
     [
      2805,
@@ -114,6 +142,10 @@
     [
      2805,
      -394
+    ],
+    [
+     2806,
+     -390
     ],
     [
      2805,
@@ -148,22 +180,35 @@
     "uuid": "0378f24f-f1fd-4f2a-a0c7-6904efb614ea"
    }
   ],
-  "trusted": [
+  "trusted": [],
+  "outlaws": [
    {
-    "name": "sungjin89",
-    "uuid": "ba0f1c7e-df91-41d9-a1f7-b792cd1edff7"
-   },
-   {
-    "name": "CrownOfLech",
-    "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
-   },
-   {
-    "name": "Thecaspergod",
-    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
    }
   ],
-  "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Key Spawner 1",
+    "uuid": "ca5a1c71-6339-43f7-ae56-2e2bb9c3924c"
+   },
+   {
+    "name": "Key Spawner 2",
+    "uuid": "4a5044e9-c9fb-4b20-8290-492f0e810d7c"
+   },
+   {
+    "name": "Key Spawner 3",
+    "uuid": "a5b39f96-f35a-477e-8444-51ac90575a47"
+   },
+   {
+    "name": "Cosy Cottage",
+    "uuid": "8441533b-c748-4582-ab6d-3766d86fc811"
+   },
+   {
+    "name": "Villager",
+    "uuid": "acb071c1-2815-4c48-8916-8b6959f78a0f"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Punta_Cana",
   "uuid": "c029555a-3a32-44b7-b2b9-115bc64cf382",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Nbax",
-   "uuid": "6c8c1acd-4cae-44b6-a359-84ec0ec864f0"
+   "name": "NPC30",
+   "uuid": "12f30535-9623-2018-a2f5-2d5215a4fcbf"
   },
   "nation": {
-   "name": "Cuba",
-   "uuid": "26420ca3-40e2-490b-bc5b-eddb765a49e7"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778442132530,
-   "joinedNationAt": 1778442454297,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794826801606
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 20,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -176,8 +176,8 @@
   },
   "residents": [
    {
-    "name": "Nbax",
-    "uuid": "6c8c1acd-4cae-44b6-a359-84ec0ec864f0"
+    "name": "NPC30",
+    "uuid": "12f30535-9623-2018-a2f5-2d5215a4fcbf"
    }
   ],
   "trusted": [],

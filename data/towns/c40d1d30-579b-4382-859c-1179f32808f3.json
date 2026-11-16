@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Moravia",
   "uuid": "c40d1d30-579b-4382-859c-1179f32808f3",
-  "board": "/town set board [msg]",
+  "board": "TAKE MY HORSE TAKE BACK TENFOLD",
   "founder": "bob_bluesceer",
   "wiki": null,
   "discord": null,
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1794406601695,
-   "joinedNationAt": 1794406620648,
+   "joinedNationAt": 1794763576525,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 11,
    "maxTownBlocks": 72,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 11.0,
+   "numTrusted": 4,
+   "numOutlaws": 8,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -72,9 +72,9 @@
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": true,
-    "mobs": true
+    "mobs": false
    }
   },
   "coordinates": {
@@ -92,6 +92,26 @@
    ],
    "townBlocks": [
     [
+     381,
+     -717
+    ],
+    [
+     381,
+     -718
+    ],
+    [
+     383,
+     -718
+    ],
+    [
+     384,
+     -717
+    ],
+    [
+     384,
+     -716
+    ],
+    [
      382,
      -716
     ],
@@ -100,8 +120,20 @@
      -717
     ],
     [
+     382,
+     -718
+    ],
+    [
+     382,
+     -719
+    ],
+    [
      383,
      -717
+    ],
+    [
+     383,
+     -716
     ]
    ],
    "worlds": {}
@@ -116,9 +148,54 @@
    {
     "name": "Maraotay",
     "uuid": "eed10dca-9acf-45e4-9c1f-1d9488e8e5e2"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   },
+   {
+    "name": "FeliksTV",
+    "uuid": "86579434-4170-422c-a3bf-5ffc18ab768a"
+   },
+   {
+    "name": "saif098432",
+    "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tomino1CZ",
+    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+   },
+   {
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
+   },
+   {
+    "name": "Jvannnn",
+    "uuid": "cf5162d4-345f-42d5-a89e-3f45e1b0e9cd"
+   },
+   {
+    "name": "flda",
+    "uuid": "86bd1bc5-1d1c-44b4-92ce-c4c91970f8de"
+   },
+   {
+    "name": "EWisawesome",
+    "uuid": "4f44e93d-d429-405c-9e33-e7409fc7f38b"
+   },
+   {
+    "name": "Ayskow",
+    "uuid": "e756ad21-29ca-49b7-99d5-862604b6f2cf"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "Proser",
+    "uuid": "8f90a970-90de-407d-b4e7-0d9fde10f51a"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

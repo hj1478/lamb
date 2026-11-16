@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Blaine",
   "uuid": "c933c3a8-d362-4c81-aada-0e653b30a2a6",
@@ -35,12 +35,12 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 6,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,17 +80,73 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -33439.21722501328,
-    "y": 64.0,
-    "z": -9380.839385635634,
-    "pitch": 24.299961,
-    "yaw": -85.07666
+    "x": -33430.135830571446,
+    "y": 65.0,
+    "z": -9383.543150931882,
+    "pitch": 51.89984,
+    "yaw": -90.60024
    },
    "homeBlock": [
     -2090,
     -587
    ],
    "townBlocks": [
+    [
+     -2088,
+     -585
+    ],
+    [
+     -2088,
+     -586
+    ],
+    [
+     -2088,
+     -587
+    ],
+    [
+     -2091,
+     -586
+    ],
+    [
+     -2089,
+     -585
+    ],
+    [
+     -2088,
+     -588
+    ],
+    [
+     -2091,
+     -587
+    ],
+    [
+     -2091,
+     -588
+    ],
+    [
+     -2089,
+     -588
+    ],
+    [
+     -2089,
+     -586
+    ],
+    [
+     -2089,
+     -587
+    ],
+    [
+     -2090,
+     -588
+    ],
+    [
+     -2090,
+     -585
+    ],
+    [
+     -2090,
+     -586
+    ],
     [
      -2090,
      -587
@@ -106,9 +162,30 @@
    {
     "name": "Auovas",
     "uuid": "2be034de-7939-49eb-8b23-e8e3fd6deef4"
+   },
+   {
+    "name": "Clocksmith",
+    "uuid": "cc6e7a41-17e1-4c5d-a213-e638da113bbb"
+   },
+   {
+    "name": "BaaBaaBlackSheep",
+    "uuid": "7c78c201-70ec-43f2-bbf0-60c27e973056"
+   },
+   {
+    "name": "MrDoubling",
+    "uuid": "a297645f-e993-46d4-bba2-580b30a72e93"
+   },
+   {
+    "name": "Sharkboy6719",
+    "uuid": "497e3d2a-c4a5-4a8e-8fbe-691c4eeb86cf"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "ro_1022210",
+    "uuid": "89da8567-b51f-49f3-84eb-4a561091dbe6"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
@@ -116,6 +193,18 @@
     {
      "name": "Auovas",
      "uuid": "2be034de-7939-49eb-8b23-e8e3fd6deef4"
+    },
+    {
+     "name": "Clocksmith",
+     "uuid": "cc6e7a41-17e1-4c5d-a213-e638da113bbb"
+    },
+    {
+     "name": "BaaBaaBlackSheep",
+     "uuid": "7c78c201-70ec-43f2-bbf0-60c27e973056"
+    },
+    {
+     "name": "Sharkboy6719",
+     "uuid": "497e3d2a-c4a5-4a8e-8fbe-691c4eeb86cf"
     }
    ],
    "Builder": [],

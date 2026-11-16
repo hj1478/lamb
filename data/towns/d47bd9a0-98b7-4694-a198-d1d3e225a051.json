@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Khurasan",
   "uuid": "d47bd9a0-98b7-4694-a198-d1d3e225a051",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 21,
    "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 13.0,
+   "balance": 12.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,12 +92,88 @@
    ],
    "townBlocks": [
     [
+     1380,
+     -213
+    ],
+    [
+     1379,
+     -214
+    ],
+    [
+     1379,
+     -213
+    ],
+    [
+     1383,
+     -215
+    ],
+    [
+     1382,
+     -215
+    ],
+    [
+     1382,
+     -214
+    ],
+    [
+     1383,
+     -213
+    ],
+    [
+     1382,
+     -213
+    ],
+    [
+     1383,
+     -214
+    ],
+    [
+     1385,
+     -214
+    ],
+    [
+     1381,
+     -215
+    ],
+    [
+     1381,
+     -214
+    ],
+    [
+     1381,
+     -213
+    ],
+    [
+     1380,
+     -215
+    ],
+    [
+     1380,
+     -214
+    ],
+    [
+     1384,
+     -214
+    ],
+    [
+     1384,
+     -215
+    ],
+    [
+     1384,
+     -213
+    ],
+    [
      1386,
      -213
     ],
     [
      1385,
      -213
+    ],
+    [
+     1385,
+     -212
     ]
    ],
    "worlds": {}
@@ -108,12 +184,12 @@
     "uuid": "f0fcc6e0-05a0-443a-9547-93e48caf9a8d"
    },
    {
-    "name": "Hamza_At_Turki",
-    "uuid": "df573cc1-0892-45d5-95bb-ac627fd3666e"
-   },
-   {
     "name": "ibadAllah",
     "uuid": "2ca196bd-ea69-4fce-b112-e40273e54eec"
+   },
+   {
+    "name": "Hamza_At_Turki",
+    "uuid": "df573cc1-0892-45d5-95bb-ac627fd3666e"
    }
   ],
   "trusted": [],
@@ -122,12 +198,12 @@
   "ranks": {
    "Councillor": [
     {
-     "name": "Hamza_At_Turki",
-     "uuid": "df573cc1-0892-45d5-95bb-ac627fd3666e"
-    },
-    {
      "name": "ibadAllah",
      "uuid": "2ca196bd-ea69-4fce-b112-e40273e54eec"
+    },
+    {
+     "name": "Hamza_At_Turki",
+     "uuid": "df573cc1-0892-45d5-95bb-ac627fd3666e"
     }
    ],
    "Builder": [],

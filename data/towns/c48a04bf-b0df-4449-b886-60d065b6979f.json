@@ -1,80 +1,80 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Cinderest",
+  "name": "Cindercrest",
   "uuid": "c48a04bf-b0df-4449-b886-60d065b6979f",
   "board": "/town set board [msg]",
   "founder": "Birb_mc",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Birb_mc",
-   "uuid": "b639f09c-13d2-4229-ac05-49a4a1d50d9c"
+   "name": "NPC131",
+   "uuid": "530c0613-5583-20a6-acf6-2d28479ab84a"
   },
   "nation": {
-   "name": "Sakha_Republic",
-   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1794339716529,
-   "joinedNationAt": 1794339749276,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794772952104
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,20 +92,89 @@
    ],
    "townBlocks": [
     [
+     3074,
+     -868
+    ],
+    [
+     3074,
+     -869
+    ],
+    [
+     3074,
+     -870
+    ],
+    [
+     3074,
+     -871
+    ],
+    [
+     3076,
+     -869
+    ],
+    [
+     3076,
+     -868
+    ],
+    [
+     3076,
+     -871
+    ],
+    [
+     3076,
+     -870
+    ],
+    [
+     3077,
+     -871
+    ],
+    [
+     3075,
+     -870
+    ],
+    [
+     3077,
+     -869
+    ],
+    [
+     3075,
+     -871
+    ],
+    [
+     3077,
+     -870
+    ],
+    [
      3075,
      -868
+    ],
+    [
+     3075,
+     -869
+    ],
+    [
+     3078,
+     -870
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Birb_mc",
-    "uuid": "b639f09c-13d2-4229-ac05-49a4a1d50d9c"
+    "name": "NPC131",
+    "uuid": "530c0613-5583-20a6-acf6-2d28479ab84a"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Tommydrummer78",
+    "uuid": "aea29395-8040-49aa-99df-c34875786a2c"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Bolboreta",
   "uuid": "c4dd99c7-d2b1-4099-8363-e222621c7b43",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 42.0,
@@ -162,22 +162,13 @@
    {
     "name": "Lunasilken",
     "uuid": "42fda364-0d01-494a-be77-06c292532924"
-   },
-   {
-    "name": "ItsNecroZ",
-    "uuid": "45eacd79-a227-408a-b771-3a4573b6b4ea"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "ItsNecroZ",
-     "uuid": "45eacd79-a227-408a-b771-3a4573b6b4ea"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

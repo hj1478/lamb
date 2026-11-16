@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "George",
   "uuid": "c17979f6-6da4-4b96-9fea-915ac97fddfb",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 218,
-   "maxTownBlocks": 238,
+   "maxTownBlocks": 214,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 19,
-   "numTrusted": 6,
-   "numOutlaws": 7,
+   "numResidents": 17,
+   "numTrusted": 3,
+   "numOutlaws": 9,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -972,10 +972,6 @@
     "uuid": "8d0f866d-8373-4235-9213-9bf757c0c558"
    },
    {
-    "name": "UnWashedPickaxe",
-    "uuid": "09ecff49-c00a-4946-b690-acf81892ae41"
-   },
-   {
     "name": "PistTanger",
     "uuid": "6dacce16-c253-4069-8ed2-67c5c56920f9"
    },
@@ -998,10 +994,6 @@
    {
     "name": "roclen",
     "uuid": "7f719b54-a330-4a81-abd7-33cacdba120b"
-   },
-   {
-    "name": "VeteranRT",
-    "uuid": "d663177a-de67-4307-b753-92b53760ac7f"
    },
    {
     "name": "coolsee",
@@ -1056,18 +1048,6 @@
    {
     "name": "roclen",
     "uuid": "7f719b54-a330-4a81-abd7-33cacdba120b"
-   },
-   {
-    "name": "BenedictXVIII",
-    "uuid": "50d10dfc-9726-4270-92ce-2e58de1423f1"
-   },
-   {
-    "name": "69Dean69",
-    "uuid": "dfced161-b2e7-4c50-9391-7487443af58d"
-   },
-   {
-    "name": "Marmarosak",
-    "uuid": "2b89e265-43c0-46c9-8760-3ba61199c7d7"
    }
   ],
   "outlaws": [
@@ -1098,6 +1078,14 @@
    {
     "name": "TheMagicTom",
     "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+   },
+   {
+    "name": "IkeNyne",
+    "uuid": "e1bb6466-c144-4281-b196-c72ff5b71a4f"
+   },
+   {
+    "name": "pictureingau",
+    "uuid": "05adb2ba-7fda-4e2c-8264-6776f4224e37"
    }
   ],
   "quarters": [
@@ -1140,6 +1128,10 @@
    {
     "name": "Perturbing Dwelling",
     "uuid": "206123c0-82e7-485c-9b62-cd9bc37b983b"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "74f9e33a-d062-4f02-b757-62d1e3a818fd"
    }
   ],
   "ranks": {

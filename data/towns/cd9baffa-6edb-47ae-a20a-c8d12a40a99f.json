@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Rio_Rancho",
   "uuid": "cd9baffa-6edb-47ae-a20a-c8d12a40a99f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "iloveroxymydog",
-   "uuid": "34d11ef3-ea90-4df2-b815-c26854b2dddb"
+   "name": "NPC54",
+   "uuid": "87ee7d10-a356-207a-9049-a8e6fff55897"
   },
   "nation": {
-   "name": "Zion",
-   "uuid": "1d4ef84e-0c38-436c-a3b8-88c4ee90b551"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778724375472,
-   "joinedNationAt": 1783365600805,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794826805664
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
-   "numResidents": 2,
+   "nationBonus": 0,
+   "numResidents": 1,
    "numTrusted": 3,
    "numOutlaws": 0,
    "balance": 3.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -160,12 +160,8 @@
   },
   "residents": [
    {
-    "name": "MarkHasCool",
-    "uuid": "7cff60ef-7745-4ac7-b1c7-c9c88c118541"
-   },
-   {
-    "name": "iloveroxymydog",
-    "uuid": "34d11ef3-ea90-4df2-b815-c26854b2dddb"
+    "name": "NPC54",
+    "uuid": "87ee7d10-a356-207a-9049-a8e6fff55897"
    }
   ],
   "trusted": [

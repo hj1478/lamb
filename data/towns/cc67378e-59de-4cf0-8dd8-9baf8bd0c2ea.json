@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Amsterdam",
   "uuid": "cc67378e-59de-4cf0-8dd8-9baf8bd0c2ea",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 592,
-   "maxTownBlocks": 1144,
+   "numTownBlocks": 603,
+   "maxTownBlocks": 1156,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 87,
+   "numResidents": 88,
    "numTrusted": 5,
    "numOutlaws": 1,
-   "balance": 73.0,
+   "balance": 315.0,
    "forSalePrice": null
   },
   "perms": {
@@ -365,7 +365,15 @@
     ],
     [
      119,
+     -810
+    ],
+    [
+     119,
      -808
+    ],
+    [
+     119,
+     -809
     ],
     [
      119,
@@ -398,6 +406,14 @@
     [
      119,
      -805
+    ],
+    [
+     116,
+     -810
+    ],
+    [
+     116,
+     -809
     ],
     [
      116,
@@ -648,6 +664,10 @@
      -787
     ],
     [
+     117,
+     -810
+    ],
+    [
      132,
      -791
     ],
@@ -788,16 +808,12 @@
      -783
     ],
     [
-     122,
-     -794
-    ],
-    [
      109,
      -790
     ],
     [
      122,
-     -795
+     -794
     ],
     [
      109,
@@ -805,7 +821,7 @@
     ],
     [
      122,
-     -792
+     -795
     ],
     [
      109,
@@ -813,7 +829,7 @@
     ],
     [
      122,
-     -793
+     -792
     ],
     [
      109,
@@ -821,7 +837,7 @@
     ],
     [
      122,
-     -790
+     -793
     ],
     [
      109,
@@ -829,11 +845,15 @@
     ],
     [
      122,
-     -791
+     -790
     ],
     [
      109,
      -785
+    ],
+    [
+     122,
+     -791
     ],
     [
      109,
@@ -993,6 +1013,10 @@
     ],
     [
      115,
+     -809
+    ],
+    [
+     115,
      -808
     ],
     [
@@ -1002,6 +1026,10 @@
     [
      115,
      -806
+    ],
+    [
+     115,
+     -810
     ],
     [
      132,
@@ -1696,8 +1724,16 @@
      -808
     ],
     [
+     118,
+     -809
+    ],
+    [
      112,
      -786
+    ],
+    [
+     118,
+     -810
     ],
     [
      121,
@@ -2156,6 +2192,10 @@
      -794
     ],
     [
+     114,
+     -809
+    ],
+    [
      120,
      -806
     ],
@@ -2178,6 +2218,10 @@
     [
      113,
      -795
+    ],
+    [
+     114,
+     -810
     ],
     [
      120,
@@ -2477,6 +2521,10 @@
     "uuid": "47be1e05-e98c-4054-b28f-9131a5589911"
    },
    {
+    "name": "MaroodersMap",
+    "uuid": "28b5060d-e2ed-44cd-b685-177ba154ef73"
+   },
+   {
     "name": "kevinchen67",
     "uuid": "484ef275-6703-41cc-b8c1-efa8b3e8c2c6"
    },
@@ -2501,10 +2549,6 @@
     "uuid": "f59be920-ced0-4c66-8b74-edefb166f0e9"
    },
    {
-    "name": "lSlipped",
-    "uuid": "480eafca-ed3f-49e7-8a6f-ff6a275e2617"
-   },
-   {
     "name": "stiel42",
     "uuid": "45eb1d9c-e090-4926-85e5-03365591e5df"
    },
@@ -2515,10 +2559,6 @@
    {
     "name": "Straw_inturtles",
     "uuid": "a1964fa8-94f3-4f6f-a43f-5d78a6db93c1"
-   },
-   {
-    "name": "VF_Nightshine",
-    "uuid": "ea9234e8-3734-4173-9328-a55d426a60ce"
    },
    {
     "name": "_G1zm0_4",
@@ -2553,10 +2593,6 @@
     "uuid": "6a44e4b3-dd96-4ca6-b5f3-63b9f05f1ff5"
    },
    {
-    "name": "Komkomper",
-    "uuid": "31f4f42c-daec-4475-a418-6eafaa74e069"
-   },
-   {
     "name": "fizzki",
     "uuid": "60c6932a-b537-4fe3-a4cf-3808c3fca9c9"
    },
@@ -2569,40 +2605,12 @@
     "uuid": "c0d02a32-5194-453a-b842-3d341c494269"
    },
    {
-    "name": "ScribbleJuice",
-    "uuid": "b19ff72a-620d-4aa2-974c-1a8ceba313f4"
-   },
-   {
-    "name": "crookedcraze",
-    "uuid": "158ffbc2-7eac-4550-9c21-bee3f05443d0"
-   },
-   {
-    "name": "ItzTheXY",
-    "uuid": "43f84be9-d6ed-4f5e-90bd-650a1abdefd4"
-   },
-   {
-    "name": "stepbro_kyan",
-    "uuid": "007af183-ce6e-4d5b-bcc8-5768895e1afd"
-   },
-   {
-    "name": "Bro_ItzLia",
-    "uuid": "86331bec-5fe4-4dc9-839e-422bdd8781c8"
-   },
-   {
     "name": "SgtRory",
     "uuid": "f3b9d191-2c08-49b1-aee9-2b5c75b0a5b1"
    },
    {
     "name": "Ghoul_trooper_19",
     "uuid": "d0f5bbd8-244f-48b6-a8ba-411cc6bcf499"
-   },
-   {
-    "name": "Belilia1984",
-    "uuid": "01f8aab1-127e-4fa0-bd40-90ae18b32500"
-   },
-   {
-    "name": "MessiH100",
-    "uuid": "0ef0464e-12f3-4252-8c76-872ed9eb7d19"
    },
    {
     "name": "_Jova",
@@ -2615,10 +2623,6 @@
    {
     "name": "crepperlover192",
     "uuid": "56d30625-a0cf-4a32-80b9-b79130d70d93"
-   },
-   {
-    "name": "GarrettTron",
-    "uuid": "63d02b73-6a87-45aa-a5d8-2bd56eda9ddb"
    },
    {
     "name": "Bluppie10",
@@ -2757,10 +2761,6 @@
     "uuid": "61e01152-6124-4069-b1d9-c4d20bfdb164"
    },
    {
-    "name": "Crosswindian_Uni",
-    "uuid": "72938545-f315-46fe-bea0-be11d82822ca"
-   },
-   {
     "name": "TZombieKingZ9",
     "uuid": "5c7b7f05-6508-4543-90e3-e2cb12f5e7e4"
    },
@@ -2815,6 +2815,54 @@
    {
     "name": "Akkersam",
     "uuid": "3a3d91ed-a4f4-4c93-bba0-49282d0792e3"
+   },
+   {
+    "name": "arwinn030",
+    "uuid": "2ec29c34-169d-43f0-9b31-12209d04bc40"
+   },
+   {
+    "name": "bestDrill",
+    "uuid": "eb483ccb-d1da-4b10-82a8-d21bce307148"
+   },
+   {
+    "name": "Razilby",
+    "uuid": "d4d979d0-3724-4798-bf14-37a4d90a160b"
+   },
+   {
+    "name": "SalTheLemonRat",
+    "uuid": "7bb4579c-aadf-428f-862c-db0a95440fd9"
+   },
+   {
+    "name": "roel",
+    "uuid": "d4173722-2ce7-4869-9f8a-84d80cf82c4f"
+   },
+   {
+    "name": "wsxje",
+    "uuid": "c45a836d-540b-4922-b217-aabd06a6a540"
+   },
+   {
+    "name": "MertDC",
+    "uuid": "f4f3d152-bae9-451b-b56b-d987a35575e3"
+   },
+   {
+    "name": "denizpvp31",
+    "uuid": "cce8c406-ac25-4324-9967-828b5810f529"
+   },
+   {
+    "name": "Puppylover520520",
+    "uuid": "e813652f-21f6-49d3-8295-0eba0f5fc3d4"
+   },
+   {
+    "name": "Williamcooler123",
+    "uuid": "cc594d12-1e6b-423a-a2fa-ca62bda0501b"
+   },
+   {
+    "name": "i_eatburger",
+    "uuid": "6e09f859-bf8f-4229-989d-247d788a3628"
+   },
+   {
+    "name": "MrWizard012",
+    "uuid": "73f04438-fb7b-49ce-8a6a-c956809e5f10"
    }
   ],
   "trusted": [
@@ -3187,10 +3235,6 @@
     "uuid": "ffa8deb7-daf1-479f-a0f9-16551e5ea6ab"
    },
    {
-    "name": "Lovely Suite",
-    "uuid": "4f94e621-8ead-47da-bba4-2fb710445560"
-   },
-   {
     "name": "Gloomy Dwelling",
     "uuid": "a7c69901-98b5-4b21-bc45-24e52750da9e"
    },
@@ -3295,10 +3339,6 @@
     "uuid": "9ec900f0-c8a5-41e6-b55e-5748d7f937ac"
    },
    {
-    "name": "construction_subway",
-    "uuid": "e3781a23-733d-4434-a70d-8c266955c099"
-   },
-   {
     "name": "Luxurious Suite",
     "uuid": "7ce8bc46-6752-48de-a269-7372dcbe2585"
    },
@@ -3335,14 +3375,6 @@
     "uuid": "378e0f19-0cec-4558-9fd0-9fbb2627d007"
    },
    {
-    "name": "Elegant Residence",
-    "uuid": "551cbcc2-3ed0-4d2c-b059-1a150d51ccf8"
-   },
-   {
-    "name": "Elegant Flat",
-    "uuid": "8ac71a7e-88ba-44ec-830e-487e611cb122"
-   },
-   {
     "name": "MapArtShop",
     "uuid": "c3bdca85-8f9f-419c-abd3-8311b6086663"
    },
@@ -3355,24 +3387,8 @@
     "uuid": "42f5328d-4944-49af-8f98-069989f72501"
    },
    {
-    "name": "Amethyst's Apartment!",
-    "uuid": "402fcaea-53a5-4d4b-8ed2-1fe306b5ad23"
-   },
-   {
-    "name": "Inconvenient Residence",
-    "uuid": "8dff7389-d946-4fa0-a618-0d2edd078579"
-   },
-   {
-    "name": "Lovely Residence",
-    "uuid": "6e248c52-0d31-411f-a8a9-2c8faab4e8ff"
-   },
-   {
     "name": "Bland Property",
     "uuid": "ec3a396f-23b1-48c7-a711-ecccb9c4e97d"
-   },
-   {
-    "name": "Gloomy Suite",
-    "uuid": "21ddbdf9-71d6-4d24-bd2a-95713c88c6e0"
    },
    {
     "name": "Inviting Apartment",
@@ -3393,6 +3409,62 @@
    {
     "name": "Dull Property",
     "uuid": "fd79f117-3b8b-4267-8c91-28e8e2086768"
+   },
+   {
+    "name": "construction_subway",
+    "uuid": "e3781a23-733d-4434-a70d-8c266955c099"
+   },
+   {
+    "name": "Bland Apartment",
+    "uuid": "28c6cc7d-cb5c-42eb-b5a3-6bb20d8ebbc3"
+   },
+   {
+    "name": "Dull Quarter",
+    "uuid": "03b97c26-5b0b-4b48-808c-9044f56dc8be"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "551cbcc2-3ed0-4d2c-b059-1a150d51ccf8"
+   },
+   {
+    "name": "Gloomy Suite",
+    "uuid": "21ddbdf9-71d6-4d24-bd2a-95713c88c6e0"
+   },
+   {
+    "name": "Amethyst's Apartment!",
+    "uuid": "402fcaea-53a5-4d4b-8ed2-1fe306b5ad23"
+   },
+   {
+    "name": "Dingy Apartment",
+    "uuid": "5a2e14da-d707-40e3-867d-fc66abc5ab18"
+   },
+   {
+    "name": "Lovely Suite",
+    "uuid": "4f94e621-8ead-47da-bba4-2fb710445560"
+   },
+   {
+    "name": "Inconvenient Residence",
+    "uuid": "8dff7389-d946-4fa0-a618-0d2edd078579"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "1c2927a9-b7bd-4951-b57a-bd346468c501"
+   },
+   {
+    "name": "Upbeat Dwelling",
+    "uuid": "9a252382-22cb-4e67-8991-48fac88462c2"
+   },
+   {
+    "name": "Dingy Dwelling",
+    "uuid": "dd5b8c17-85f0-4f98-9b57-fb28364e00aa"
+   },
+   {
+    "name": "Inviting Tenement",
+    "uuid": "8ab7b9ac-4c46-43cd-857c-57fda1c10d8d"
+   },
+   {
+    "name": "Lovely Residence",
+    "uuid": "6e248c52-0d31-411f-a8a9-2c8faab4e8ff"
    }
   ],
   "ranks": {

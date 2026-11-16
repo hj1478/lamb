@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Lhasa_Dagze",
   "uuid": "dac4d98b-e6fb-43ce-8071-22118496490b",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "User_142857",
-   "uuid": "b2308313-2d72-4d2b-9a93-eff3595a9f6a"
+   "name": "wsywlxz",
+   "uuid": "2d0d83ab-25dc-4292-a4b0-e35b64977514"
   },
   "nation": {
    "name": "Liao",
@@ -35,19 +35,19 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 49,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 60,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "numResidents": 5,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 12.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
+    true,
     false,
     false,
     false
@@ -188,12 +188,12 @@
      -182
     ],
     [
-     2058,
-     -188
-    ],
-    [
      2057,
      -182
+    ],
+    [
+     2058,
+     -188
     ],
     [
      2057,
@@ -285,7 +285,51 @@
     ],
     [
      2054,
+     -184
+    ],
+    [
+     2054,
+     -180
+    ],
+    [
+     2054,
      -181
+    ],
+    [
+     2055,
+     -180
+    ],
+    [
+     2051,
+     -182
+    ],
+    [
+     2051,
+     -181
+    ],
+    [
+     2053,
+     -181
+    ],
+    [
+     2053,
+     -180
+    ],
+    [
+     2053,
+     -182
+    ],
+    [
+     2052,
+     -182
+    ],
+    [
+     2052,
+     -181
+    ],
+    [
+     2052,
+     -180
     ]
    ],
    "worlds": {}
@@ -294,19 +338,53 @@
    {
     "name": "User_142857",
     "uuid": "b2308313-2d72-4d2b-9a93-eff3595a9f6a"
+   },
+   {
+    "name": "wsywlxz",
+    "uuid": "2d0d83ab-25dc-4292-a4b0-e35b64977514"
+   },
+   {
+    "name": "mymidnight__",
+    "uuid": "30b82459-0a63-43d7-bc64-92e045191da1"
+   },
+   {
+    "name": "IGot1t1",
+    "uuid": "1c2421d7-86bb-43e4-9396-b30638e3c002"
+   },
+   {
+    "name": "Cat_LinyuOwO",
+    "uuid": "54934188-bcf1-4444-8afb-2fefad7f3939"
    }
   ],
   "trusted": [
    {
     "name": "minori2846",
     "uuid": "e2923627-d89c-44c1-83ba-4a0433428b8f"
+   },
+   {
+    "name": "LuckyouMC",
+    "uuid": "b329dcd7-7e64-4d94-a217-ebadd0495081"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
+   "Councillor": [
+    {
+     "name": "User_142857",
+     "uuid": "b2308313-2d72-4d2b-9a93-eff3595a9f6a"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "mymidnight__",
+     "uuid": "30b82459-0a63-43d7-bc64-92e045191da1"
+    },
+    {
+     "name": "IGot1t1",
+     "uuid": "1c2421d7-86bb-43e4-9396-b30638e3c002"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

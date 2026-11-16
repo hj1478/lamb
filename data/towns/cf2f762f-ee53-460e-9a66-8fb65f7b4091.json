@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Challans",
-  "uuid": "d07ebcec-3384-4b29-8e80-ff10517e0fae",
-  "board": "/town set board [msg]",
-  "founder": "StayzGG",
+  "name": "Strasbourg",
+  "uuid": "cf2f762f-ee53-460e-9a66-8fb65f7b4091",
+  "board": "Strazburg ein symbol der Kaiserreich",
+  "founder": "iboollas",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "StayzGG",
-   "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+   "name": "iboollas",
+   "uuid": "bcac71c9-45fd-4a25-9206-ed3886fb8e90"
   },
   "nation": {
-   "name": "Eire",
-   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
+   "name": "France",
+   "uuid": "dd63ad0f-0194-4988-aa06-499f07ca131b"
   },
   "timestamps": {
-   "registered": 1794408853121,
-   "joinedNationAt": 1794408972209,
+   "registered": 1794767964741,
+   "joinedNationAt": 1794767988691,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 2,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 53.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,52 +80,35 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -710.524997323613,
-    "y": 57.0,
-    "z": -10011.377014049329,
-    "pitch": 86.10001,
-    "yaw": -176.80933
+    "x": 3384.3800073229427,
+    "y": 74.0,
+    "z": -11270.821693341104,
+    "pitch": 8.400129,
+    "yaw": 179.38635
    },
    "homeBlock": [
-    -45,
-    -626
+    211,
+    -705
    ],
    "townBlocks": [
     [
-     -45,
-     -627
+     211,
+     -705
     ],
     [
-     -45,
-     -626
-    ],
-    [
-     -45,
-     -628
-    ],
-    [
-     -44,
-     -627
-    ],
-    [
-     -44,
-     -628
+     211,
+     -706
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "StayzGG",
-    "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+    "name": "iboollas",
+    "uuid": "bcac71c9-45fd-4a25-9206-ed3886fb8e90"
    }
   ],
-  "trusted": [
-   {
-    "name": "SceptixOff",
-    "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

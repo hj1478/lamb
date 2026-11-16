@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Xallim",
   "uuid": "c1f4d9bf-5278-475d-af44-b7b6605a269d",
-  "board": "/town set board [msg]",
+  "board": "Town of the River",
   "founder": "zten__",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,15 +92,7 @@
    ],
    "townBlocks": [
     [
-     2718,
-     -822
-    ],
-    [
      2717,
-     -823
-    ],
-    [
-     2718,
      -823
     ],
     [
@@ -108,12 +100,60 @@
      -824
     ],
     [
-     2718,
-     -824
+     2717,
+     -821
     ],
     [
      2717,
      -822
+    ],
+    [
+     2718,
+     -822
+    ],
+    [
+     2719,
+     -825
+    ],
+    [
+     2718,
+     -823
+    ],
+    [
+     2719,
+     -824
+    ],
+    [
+     2720,
+     -824
+    ],
+    [
+     2718,
+     -824
+    ],
+    [
+     2718,
+     -825
+    ],
+    [
+     2719,
+     -821
+    ],
+    [
+     2719,
+     -823
+    ],
+    [
+     2720,
+     -825
+    ],
+    [
+     2719,
+     -822
+    ],
+    [
+     2718,
+     -821
     ]
    ],
    "worlds": {}
@@ -122,6 +162,10 @@
    {
     "name": "zten__",
     "uuid": "9a009006-5f26-4ead-b9d6-a9ef5c7a226c"
+   },
+   {
+    "name": "Stolqe",
+    "uuid": "bce208bb-f76b-4fe2-8953-197a3f98ec2c"
    }
   ],
   "trusted": [
@@ -131,7 +175,32 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Gloomy Tenement",
+    "uuid": "056fbeb2-930d-42be-b120-58e9f99d34f5"
+   },
+   {
+    "name": "Luxurious Dwelling",
+    "uuid": "aeaebc97-4dfa-4145-babe-cd7ddf8f4ff0"
+   },
+   {
+    "name": "Enraging Dwelling",
+    "uuid": "2e0dcb2a-baca-4dd8-89dd-34c729219cc6"
+   },
+   {
+    "name": "Stylish Flat",
+    "uuid": "81bfa619-4c34-41cd-be75-b8df88169300"
+   },
+   {
+    "name": "Welcoming Property",
+    "uuid": "1f7d0b9f-0bbd-42bb-8b48-9ae4f8a62fa7"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "d0f7c722-a6c7-4e6b-bc7e-520c10e6a2a6"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

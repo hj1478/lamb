@@ -1,45 +1,45 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Curunat",
-  "uuid": "058b8368-3357-494b-8c87-22b54638e15a",
+  "name": "Sunset_Shores",
+  "uuid": "75d9996d-99ec-47b1-9fb3-fc1d41d37745",
   "board": "/town set board [msg]",
-  "founder": "MERT4540",
+  "founder": "bizzy_day",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MERT4540",
-   "uuid": "e6595703-ebf7-4252-a827-86e75977d485"
+   "name": "bizzy_day",
+   "uuid": "4b05277b-e327-4316-9f58-8103510da514"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sakha_Republic",
+   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
   },
   "timestamps": {
-   "registered": 1789760477203,
-   "joinedNationAt": null,
+   "registered": 1794767470234,
+   "joinedNationAt": 1794767903773,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 80,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,48 +80,67 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -2533.5841060261546,
-    "y": 63.0,
-    "z": -4594.8305604714305,
-    "pitch": 28.694633,
-    "yaw": 84.62155
+    "x": 49180.69999998808,
+    "y": 66.0,
+    "z": -13548.479843952751,
+    "pitch": 26.549967,
+    "yaw": 60.57306
    },
    "homeBlock": [
-    -159,
-    -288
+    3073,
+    -847
    ],
    "townBlocks": [
     [
-     -159,
-     -287
+     3073,
+     -847
     ],
     [
-     -159,
-     -288
+     3073,
+     -845
+    ],
+    [
+     3073,
+     -846
+    ],
+    [
+     3075,
+     -845
+    ],
+    [
+     3074,
+     -845
+    ],
+    [
+     3075,
+     -846
+    ],
+    [
+     3074,
+     -846
+    ],
+    [
+     3075,
+     -847
+    ],
+    [
+     3074,
+     -847
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "MERT4540",
-    "uuid": "e6595703-ebf7-4252-a827-86e75977d485"
-   },
-   {
-    "name": "merdopro",
-    "uuid": "ab24d10d-1d50-4466-bb7d-a4e927e5a040"
+    "name": "bizzy_day",
+    "uuid": "4b05277b-e327-4316-9f58-8103510da514"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "merdopro",
-     "uuid": "ab24d10d-1d50-4466-bb7d-a4e927e5a040"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

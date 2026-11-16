@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Agrinio",
   "uuid": "ba23d209-3cce-480a-9c57-225c824e6001",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "El_M_00",
-   "uuid": "39afd038-4ac7-41c8-8a93-d635c98d0a2c"
+   "name": "Whoovian",
+   "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
   },
   "nation": {
    "name": "Greece",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 135,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 4,
    "numTrusted": 11,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -636,12 +636,20 @@
   },
   "residents": [
    {
+    "name": "paixnidiarisgod",
+    "uuid": "e67e5b33-4036-4aad-9273-5e2f54e05252"
+   },
+   {
     "name": "Jokubas125",
     "uuid": "401fd5ee-4ca9-47e1-9267-378fc677dd08"
    },
    {
     "name": "El_M_00",
     "uuid": "39afd038-4ac7-41c8-8a93-d635c98d0a2c"
+   },
+   {
+    "name": "Whoovian",
+    "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
    }
   ],
   "trusted": [
@@ -693,7 +701,16 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "paixnidiarisgod",
+     "uuid": "e67e5b33-4036-4aad-9273-5e2f54e05252"
+    },
+    {
+     "name": "El_M_00",
+     "uuid": "39afd038-4ac7-41c8-8a93-d635c98d0a2c"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

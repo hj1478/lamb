@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Nile",
   "uuid": "d3a78f9b-2a68-4f82-ae97-d7224556fa23",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 484,
-   "maxTownBlocks": 448,
+   "maxTownBlocks": 520,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 29,
+   "numResidents": 35,
    "numTrusted": 6,
    "numOutlaws": 2,
-   "balance": 2887.0,
+   "balance": 2501.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11321.2948137742,
+    "x": 11338.413861402954,
     "y": 66.0,
-    "z": -3389.4996195243784,
-    "pitch": 5.8921843,
-    "yaw": -91.355225
+    "z": -3389.9147540828635,
+    "pitch": 2.5846174,
+    "yaw": -179.89209
    },
    "homeBlock": [
-    707,
+    708,
     -212
    ],
    "townBlocks": [
@@ -2041,28 +2041,12 @@
     "uuid": "c5a2a68a-9976-4ec0-87cd-9269ede9c3d2"
    },
    {
-    "name": "kennt3",
-    "uuid": "bddb4841-0922-4abe-a711-bb2a8229ac92"
+    "name": "ToastBomber_",
+    "uuid": "3eb75049-53cf-4dde-b7d2-13d7d438f7f5"
    },
    {
     "name": "FE_GE",
     "uuid": "663b50b5-f701-416a-bc06-2c9e947e6ea7"
-   },
-   {
-    "name": "Bombardss",
-    "uuid": "f75f978b-8c3e-4b08-a2e3-e22da2f67515"
-   },
-   {
-    "name": "Limeta_",
-    "uuid": "b945e7a6-fdea-4e5d-962a-566b6557177b"
-   },
-   {
-    "name": "DynIup",
-    "uuid": "b172af55-2971-4566-be8b-619efed09fee"
-   },
-   {
-    "name": "Mafee6Coder12",
-    "uuid": "8ad623a5-b5dd-4326-b317-a1b34eb2b3cc"
    },
    {
     "name": "UltimateChicken4",
@@ -2151,6 +2135,46 @@
    {
     "name": "SGBloxMC",
     "uuid": "33568092-9ae5-41de-86d8-9ef69e32e54c"
+   },
+   {
+    "name": "AntzFuzz",
+    "uuid": "c4b59682-b65e-415c-ae5b-55a1b73f98c9"
+   },
+   {
+    "name": "Lenaxxz",
+    "uuid": "8fd20495-fae6-4c05-98ba-a5109de64204"
+   },
+   {
+    "name": "Killer123w",
+    "uuid": "367746e7-0fb0-4ee7-8917-9cdf57c76bec"
+   },
+   {
+    "name": "boxtier",
+    "uuid": "9e4b5206-f717-45c7-8c59-f5417868bf6e"
+   },
+   {
+    "name": "SniperNinja",
+    "uuid": "9eba5e0b-e317-49bb-a994-bd9bd68bb0fa"
+   },
+   {
+    "name": "leftovergiz",
+    "uuid": "f10ec025-782e-495e-afb7-8be2fb8f10f7"
+   },
+   {
+    "name": "mingtao53",
+    "uuid": "decf4942-fefa-45aa-bc27-8fa83b7bf627"
+   },
+   {
+    "name": "lidl_warrior",
+    "uuid": "27686db5-0679-4d01-ae07-020700b546b4"
+   },
+   {
+    "name": "derwood2011",
+    "uuid": "7cd1c767-32d1-46c7-9c06-7d056893f131"
+   },
+   {
+    "name": "ImSudo",
+    "uuid": "cabde249-e525-448e-bdca-558518277dd6"
    }
   ],
   "trusted": [
@@ -2213,6 +2237,86 @@
    {
     "name": "Duck",
     "uuid": "cdc48592-a7b4-4ae5-be33-c358ce43ba8d"
+   },
+   {
+    "name": "Dingy Residence",
+    "uuid": "4676afb4-008a-47e5-843f-d18c686edb20"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "4afb516d-2ca8-43f1-b5f9-a2a4538b1b27"
+   },
+   {
+    "name": "Elegant Property",
+    "uuid": "9f630d4b-7648-4d55-81ce-15789589c26a"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "8596018d-8336-4923-b2e8-e0c991384e10"
+   },
+   {
+    "name": "Dull Flat",
+    "uuid": "5669dc17-379d-479c-b382-8353e9733805"
+   },
+   {
+    "name": "Perturbing Tenement",
+    "uuid": "461f574a-3a8e-49a5-9a46-e2313c4c6a6d"
+   },
+   {
+    "name": "Gloomy Flat",
+    "uuid": "2ca54c78-3172-4be9-95d9-3885bb4d5fd6"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "ff2e3091-b26b-4c34-9664-db5baaad5f60"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "61610c2d-7dfb-4940-8faf-dfc3c95e23e9"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "ee67827f-6444-48e6-ad69-b8d8f2bf4b42"
+   },
+   {
+    "name": "Luxurious Quarter",
+    "uuid": "5c0a8d87-b54f-4c65-babb-a8ef3b55ee9a"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "caf0e509-67aa-46e9-b7b5-2da53268e389"
+   },
+   {
+    "name": "Stylish Tenement",
+    "uuid": "80b9e5a9-f428-470e-88a9-d7b1b7da1237"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "c702a806-905f-4d1c-ba33-026fe137e8c9"
+   },
+   {
+    "name": "Door",
+    "uuid": "65e36d52-bee8-46e4-ba06-633d62cc6f6b"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "9742641e-fbbd-4956-a27c-6aad91c9d05f"
+   },
+   {
+    "name": "Lovely Residence",
+    "uuid": "d569ea0e-964e-48a5-8a2d-6d2dc74176ee"
+   },
+   {
+    "name": "F1(NILE)",
+    "uuid": "46a380ad-a34d-4464-b9cf-5768635cfacb"
+   },
+   {
+    "name": "Enraging Dwelling",
+    "uuid": "a7a3880c-63e0-4088-b207-df3995c87d43"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "6c11720b-4de4-4f37-aca6-07a723bf1063"
    }
   ],
   "ranks": {
@@ -2246,6 +2350,18 @@
    ]
   },
   "warps": [
+   {
+    "name": "Storage",
+    "uuid": "e19c2c21-4926-4c01-9192-e60ac3ef3bbc",
+    "createdAt": 1794820186626,
+    "createdBy": "JR1258",
+    "access": "NATION",
+    "location": {
+     "x": 11216,
+     "y": 41,
+     "z": -3392
+    }
+   },
    {
     "name": "heads",
     "uuid": "a5323afd-fc81-4362-bd89-53fb121c66d9",

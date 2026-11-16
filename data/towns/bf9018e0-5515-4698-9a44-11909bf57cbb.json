@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "SneakyTown",
   "uuid": "bf9018e0-5515-4698-9a44-11909bf57cbb",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 211,
-   "maxTownBlocks": 820,
+   "maxTownBlocks": 700,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 60,
+   "numResidents": 50,
    "numTrusted": 3,
    "numOutlaws": 5,
-   "balance": 85.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -940,14 +940,6 @@
   },
   "residents": [
    {
-    "name": "Mnecrfty",
-    "uuid": "7e7f9713-7441-4e32-b095-370905ce432c"
-   },
-   {
-    "name": "HarmanTheChamp",
-    "uuid": "75f26672-9bb8-40a0-9604-901cac062dc7"
-   },
-   {
     "name": "Tippyinkle",
     "uuid": "93022817-a8a4-49d3-a00d-1eb57898821c"
    },
@@ -956,20 +948,12 @@
     "uuid": "04029f09-2c29-40eb-8a1a-d9fe52fc7e5d"
    },
    {
-    "name": "kitsumea2465",
-    "uuid": "833ab277-b307-4d69-afd3-e84a7dabf4e7"
-   },
-   {
     "name": "Filip742014",
     "uuid": "0056b145-e465-42ab-a4bf-8dd4b3239dea"
    },
    {
     "name": "The10thBlob",
     "uuid": "0c5b5630-436b-42d1-a309-ee644dd5341c"
-   },
-   {
-    "name": "Combicrusherr",
-    "uuid": "266fcd60-2756-4302-849d-5fb3c5e32ec3"
    },
    {
     "name": "Tomduc64",
@@ -996,52 +980,16 @@
     "uuid": "c9581578-ac11-43b6-80d3-80456ff2bc40"
    },
    {
-    "name": "Thatonefunnyguy6",
-    "uuid": "dfad4737-dd49-4a73-b047-3c0ca011f29d"
-   },
-   {
-    "name": "Xandrith",
-    "uuid": "e21bf70d-c8da-4a89-a6ad-9e5c42e5f2fd"
-   },
-   {
-    "name": "football1951",
-    "uuid": "2258cdfc-9908-4563-928f-374bab62e37c"
-   },
-   {
-    "name": "GREENRACER07",
-    "uuid": "392e74f9-37a1-4b6d-803f-4f663f1f9799"
-   },
-   {
     "name": "tsYapUpu",
     "uuid": "ba8fca76-931d-4c01-8ee7-1a50e7964ae5"
-   },
-   {
-    "name": "Squid4rdLover",
-    "uuid": "b0d71503-2c5b-4af7-b367-6b5c7da7a9fb"
    },
    {
     "name": "SkeletonsOnly",
     "uuid": "8035fcee-2cea-42c3-9828-276d0253ff94"
    },
    {
-    "name": "elithegamer1234",
-    "uuid": "7854eff9-24f2-4c19-bfca-1dd78169d41e"
-   },
-   {
-    "name": "MysticKETCHUP",
-    "uuid": "eb26391a-c8cd-4102-b5b1-1c6798e56d09"
-   },
-   {
     "name": "catmaster1324232",
     "uuid": "eba2fa28-1c75-4118-8407-b8755f6c2a9f"
-   },
-   {
-    "name": "Chocsneeze",
-    "uuid": "dc61dfd3-71ed-4859-8b6c-07fa6754b5d5"
-   },
-   {
-    "name": "da_lumar",
-    "uuid": "007695ef-38a9-46a7-ac57-606a48290b74"
    },
    {
     "name": "Pepper_MC_",
@@ -1178,6 +1126,18 @@
    {
     "name": "Loluhere",
     "uuid": "ac92876f-ed0f-410e-9754-2d6dc91b00f4"
+   },
+   {
+    "name": "kaiusthedude",
+    "uuid": "03fffb39-43d1-46ac-b4cb-0d5d607b15a8"
+   },
+   {
+    "name": "Harumi_Hebi",
+    "uuid": "822be19e-1a4b-45a4-8b35-b8316c6eedef"
+   },
+   {
+    "name": "Sneakyavi",
+    "uuid": "ea0eb001-7c24-45e8-96c3-f555456f5f33"
    }
   ],
   "trusted": [
@@ -1254,10 +1214,6 @@
     "uuid": "476b5f67-811e-4182-94e2-1affc5d4a3d8"
    },
    {
-    "name": "Luxurious Flat",
-    "uuid": "fd5da54a-f770-4507-848e-c83c2147e28f"
-   },
-   {
     "name": "Gloomy Quarter",
     "uuid": "9e372576-1142-44d3-9b34-f6bbedd6b224"
    },
@@ -1290,10 +1246,6 @@
     "uuid": "d4a512ed-32fb-4d64-b578-8649862c0c4f"
    },
    {
-    "name": "Cheerful Residence",
-    "uuid": "6110a81b-6988-41f9-9713-c62f5a9a5541"
-   },
-   {
     "name": "Stylish Tenement",
     "uuid": "f402afc5-b20d-4d37-bfba-f767f7542c8c"
    },
@@ -1304,17 +1256,24 @@
    {
     "name": "Cheerful Quarter",
     "uuid": "a727cb3d-7829-4885-9b8d-a23dd804fe44"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "791a1e63-4eb0-493d-b159-84f90369437e"
+   },
+   {
+    "name": "Luxurious Flat",
+    "uuid": "fd5da54a-f770-4507-848e-c83c2147e28f"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "6110a81b-6988-41f9-9713-c62f5a9a5541"
    }
   ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [
-    {
-     "name": "Mnecrfty",
-     "uuid": "7e7f9713-7441-4e32-b095-370905ce432c"
-    }
-   ],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

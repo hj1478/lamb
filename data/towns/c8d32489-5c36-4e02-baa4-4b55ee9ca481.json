@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Ciudad_Real",
   "uuid": "c8d32489-5c36-4e02-baa4-4b55ee9ca481",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/xz5PnHg87B",
   "mayor": {
-   "name": "Wardzoo",
-   "uuid": "c943da0f-fd13-4fa2-bd1a-e4289a2cc5e1"
+   "name": "ayazcs",
+   "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
   },
   "nation": {
    "name": "SPQR",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 220,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 10,
-   "numTrusted": 2,
+   "numResidents": 8,
+   "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 1292.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -580,14 +580,6 @@
   },
   "residents": [
    {
-    "name": "Wardzoo",
-    "uuid": "c943da0f-fd13-4fa2-bd1a-e4289a2cc5e1"
-   },
-   {
-    "name": "ayazcs",
-    "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
-   },
-   {
     "name": "BerrakBekir07",
     "uuid": "f48c4f0a-ba13-41a8-ab3c-0b66c8c9aa47"
    },
@@ -612,18 +604,22 @@
     "uuid": "6bfdf470-d283-4298-9db4-287fb0091c8b"
    },
    {
-    "name": "asaf_s",
-    "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
-   },
-   {
     "name": "Kyo_K4t",
     "uuid": "747de6f0-df5a-48dd-914c-061ce107f900"
+   },
+   {
+    "name": "ayazcs",
+    "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
    }
   ],
   "trusted": [
    {
     "name": "asaf_s",
     "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
+   },
+   {
+    "name": "Wardzoo",
+    "uuid": "c943da0f-fd13-4fa2-bd1a-e4289a2cc5e1"
    },
    {
     "name": "0P2W",
@@ -637,10 +633,6 @@
     {
      "name": "ayazcs",
      "uuid": "3b0ee245-9de9-4aca-9962-305fc9009006"
-    },
-    {
-     "name": "asaf_s",
-     "uuid": "6af24eb1-bd34-4150-b2c2-09b7af19f5b9"
     }
    ],
    "Builder": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Tsushima",
   "uuid": "c1de3073-b118-475d-a296-3ea4ec73b49a",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1792933739614,
-   "joinedNationAt": 1792933772915,
+   "joinedNationAt": 1794673187423,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 38,
+   "numTownBlocks": 40,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46345.30000001192,
-    "y": 63.0,
-    "z": -4827.553029458402,
-    "pitch": 16.79998,
-    "yaw": -87.86614
+    "x": 46346.77389002428,
+    "y": 68.0,
+    "z": -4843.236168543463,
+    "pitch": 19.350063,
+    "yaw": -83.665344
    },
    "homeBlock": [
     2896,
-    -302
+    -303
    ],
    "townBlocks": [
     [
@@ -208,6 +208,10 @@
      -300
     ],
     [
+     2896,
+     -307
+    ],
+    [
      2897,
      -306
     ],
@@ -242,6 +246,10 @@
     [
      2899,
      -306
+    ],
+    [
+     2899,
+     -307
     ]
    ],
    "worlds": {}

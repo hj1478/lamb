@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Polymarket",
   "uuid": "db10cf93-6121-4711-bc43-f828ec06afed",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Chinese_Century",
-   "uuid": "067e756b-a84d-474b-b6f2-043692180f73"
+   "name": "TrumpMusic",
+   "uuid": "a1f52292-3965-4b0c-8b10-905e84cda913"
   },
   "nation": {
    "name": "Kazakhstan",
@@ -21,11 +21,11 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 44,
-   "maxTownBlocks": 118,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 9,
-   "numTrusted": 2,
+   "nationBonus": 0,
+   "numResidents": 3,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 32.0,
    "forSalePrice": null
@@ -272,10 +272,6 @@
   },
   "residents": [
    {
-    "name": "Chinese_Century",
-    "uuid": "067e756b-a84d-474b-b6f2-043692180f73"
-   },
-   {
     "name": "AwareApplePie",
     "uuid": "8ec0a1d0-2379-43e3-846d-2b719ac63155"
    },
@@ -284,38 +280,14 @@
     "uuid": "a1f52292-3965-4b0c-8b10-905e84cda913"
    },
    {
-    "name": "FEX_Thunder6039",
-    "uuid": "5e56bf4b-afad-4bb1-8603-02171ae1d110"
-   },
-   {
     "name": "AiBoti_67",
     "uuid": "da37c7d0-fe7a-4cdf-894e-521c55bcca65"
-   },
-   {
-    "name": "Ayan06827",
-    "uuid": "391a2694-9637-4609-b38a-a764b1383f64"
-   },
-   {
-    "name": "AdamBetter7",
-    "uuid": "a62ee039-6364-4070-a876-488498b92fc5"
-   },
-   {
-    "name": "crsmail",
-    "uuid": "0f648f13-f220-4c05-aa00-a432fe67e256"
-   },
-   {
-    "name": "Matti737",
-    "uuid": "067f5e98-fa32-4198-a10b-e8608d8c0b54"
    }
   ],
   "trusted": [
    {
     "name": "ItzYunwu",
     "uuid": "6111d9ec-6c40-417e-8cc6-47d282f6da53"
-   },
-   {
-    "name": "Chinese_Century",
-    "uuid": "067e756b-a84d-474b-b6f2-043692180f73"
    }
   ],
   "outlaws": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Belgica",
   "uuid": "d79cc7b8-7e40-4dad-9ac4-3d861f025f94",
@@ -12,12 +12,12 @@
    "uuid": "f5445963-a995-4475-84f3-ad6b20b4047d"
   },
   "nation": {
-   "name": "Eire",
-   "uuid": "bd94306d-014f-4e4f-926a-cfeff737e669"
+   "name": "European_Union",
+   "uuid": "69454d9d-80de-46e2-a04d-9d8e1ded2bfe"
   },
   "timestamps": {
    "registered": 1794392824954,
-   "joinedNationAt": 1794392924815,
+   "joinedNationAt": 1794737599986,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 16,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 1,
+   "nationBonus": 60,
+   "numResidents": 3,
+   "numTrusted": 4,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 15.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,20 +80,80 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 1123.7449925556457,
+    "x": 1111.4306553088466,
     "y": 64.0,
-    "z": -11496.742257432137,
-    "pitch": 21.600191,
-    "yaw": -102.88196
+    "z": -11492.382691808583,
+    "pitch": 77.55008,
+    "yaw": -178.0747
    },
    "homeBlock": [
-    70,
+    69,
     -719
    ],
    "townBlocks": [
     [
+     72,
+     -719
+    ],
+    [
      70,
      -719
+    ],
+    [
+     71,
+     -720
+    ],
+    [
+     70,
+     -720
+    ],
+    [
+     71,
+     -719
+    ],
+    [
+     71,
+     -718
+    ],
+    [
+     70,
+     -718
+    ],
+    [
+     67,
+     -718
+    ],
+    [
+     67,
+     -720
+    ],
+    [
+     67,
+     -719
+    ],
+    [
+     69,
+     -718
+    ],
+    [
+     69,
+     -719
+    ],
+    [
+     68,
+     -720
+    ],
+    [
+     68,
+     -719
+    ],
+    [
+     68,
+     -718
+    ],
+    [
+     69,
+     -720
     ]
    ],
    "worlds": {}
@@ -102,9 +162,29 @@
    {
     "name": "pigoen23",
     "uuid": "f5445963-a995-4475-84f3-ad6b20b4047d"
+   },
+   {
+    "name": "CowboyChick",
+    "uuid": "9a04c941-762c-4fe8-b4a1-66a14a50f615"
+   },
+   {
+    "name": "mimac_06",
+    "uuid": "c9cc0ea8-6ea1-4069-9180-beaef5e0b21e"
    }
   ],
   "trusted": [
+   {
+    "name": "CowboyChick",
+    "uuid": "9a04c941-762c-4fe8-b4a1-66a14a50f615"
+   },
+   {
+    "name": "Martinoudu62",
+    "uuid": "70e766be-4630-49e2-bf4e-ddfa645fb6cc"
+   },
+   {
+    "name": "mimac_06",
+    "uuid": "c9cc0ea8-6ea1-4069-9180-beaef5e0b21e"
+   },
    {
     "name": "Mwanzanou",
     "uuid": "01a909de-b2df-434d-bffb-6898ca95495c"

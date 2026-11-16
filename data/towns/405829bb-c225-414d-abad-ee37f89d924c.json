@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Yucca",
-  "uuid": "35fdaf62-eb5f-43fb-a1f4-34e7de0043e5",
-  "board": "Life On The Frontier",
-  "founder": "Angerboi",
+  "name": "Home",
+  "uuid": "405829bb-c225-414d-abad-ee37f89d924c",
+  "board": "/town set board [msg]",
+  "founder": "FlowersOfTheEvil",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Angerboi",
-   "uuid": "60aec7a7-325d-4243-850f-51aa733edf06"
+   "name": "FlowersOfTheEvil",
+   "uuid": "62ae9d99-c4be-48d2-89b7-37008de81948"
   },
   "nation": {
-   "name": "Arizona",
-   "uuid": "b04867c5-dc03-4b56-942c-a34dfae3a2db"
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
-   "registered": 1778978707741,
-   "joinedNationAt": 1782019513191,
+   "registered": 1794829319615,
+   "joinedNationAt": 1794829923721,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 30,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 3.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,147 +80,156 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -40514.578593162165,
-    "y": 91.0,
-    "z": -5066.4707623988525,
-    "pitch": -1.6500174,
-    "yaw": 0.7559829
+    "x": 11220.81082594564,
+    "y": 230.0625,
+    "z": -7449.124863235675,
+    "pitch": 8.099986,
+    "yaw": -68.7251
    },
    "homeBlock": [
-    -2533,
-    -317
+    701,
+    -466
    ],
    "townBlocks": [
     [
-     -2537,
-     -322
+     702,
+     -466
     ],
     [
-     -2537,
-     -321
+     702,
+     -468
     ],
     [
-     -2537,
-     -320
+     702,
+     -467
     ],
     [
-     -2532,
-     -321
+     700,
+     -466
     ],
     [
-     -2537,
-     -319
+     706,
+     -468
     ],
     [
-     -2532,
-     -320
+     700,
+     -467
     ],
     [
-     -2537,
-     -318
+     706,
+     -467
     ],
     [
-     -2532,
-     -319
+     700,
+     -468
     ],
     [
-     -2532,
-     -318
+     705,
+     -466
     ],
     [
-     -2534,
-     -318
+     703,
+     -467
     ],
     [
-     -2534,
-     -320
+     703,
+     -466
     ],
     [
-     -2535,
-     -322
+     703,
+     -468
     ],
     [
-     -2534,
-     -319
+     698,
+     -464
     ],
     [
-     -2534,
-     -322
+     698,
+     -465
     ],
     [
-     -2534,
-     -321
+     701,
+     -465
     ],
     [
-     -2535,
-     -319
+     701,
+     -466
     ],
     [
-     -2535,
-     -318
+     701,
+     -467
     ],
     [
-     -2535,
-     -321
+     701,
+     -468
     ],
     [
-     -2535,
-     -320
+     705,
+     -468
     ],
     [
-     -2533,
-     -317
+     705,
+     -467
     ],
     [
-     -2533,
-     -318
+     699,
+     -467
     ],
     [
-     -2536,
-     -320
+     699,
+     -466
     ],
     [
-     -2536,
-     -321
+     699,
+     -465
     ],
     [
-     -2536,
-     -322
+     700,
+     -464
     ],
     [
-     -2533,
-     -321
+     700,
+     -465
     ],
     [
-     -2533,
-     -322
+     699,
+     -464
     ],
     [
-     -2536,
-     -318
+     704,
+     -468
     ],
     [
-     -2533,
-     -319
+     699,
+     -468
     ],
     [
-     -2536,
-     -319
+     704,
+     -467
     ],
     [
-     -2533,
-     -320
+     704,
+     -466
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Angerboi",
-    "uuid": "60aec7a7-325d-4243-850f-51aa733edf06"
+    "name": "FlowersOfTheEvil",
+    "uuid": "62ae9d99-c4be-48d2-89b7-37008de81948"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Mishidia",
+    "uuid": "62eeec97-e253-48bb-9d57-eff3acfe810c"
+   },
+   {
+    "name": "TheLastGeorgian_",
+    "uuid": "4d0b0b15-7e2c-4e0c-a22e-33319131fa48"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

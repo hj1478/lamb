@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Kirkburg",
   "uuid": "caa8c5c0-462b-43ef-8e6f-db64edcdb244",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "GoldenMoaii",
-   "uuid": "a164dc68-4214-44ad-92b4-909daaaa2d29"
+   "name": "NPC40",
+   "uuid": "a72aa013-b1a5-20ac-a2e9-5f8f61ed887f"
   },
   "nation": {
-   "name": "Netherlands",
-   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1787514925858,
-   "joinedNationAt": 1787538517802,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794740402770
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 19,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -172,8 +172,8 @@
   },
   "residents": [
    {
-    "name": "GoldenMoaii",
-    "uuid": "a164dc68-4214-44ad-92b4-909daaaa2d29"
+    "name": "NPC40",
+    "uuid": "a72aa013-b1a5-20ac-a2e9-5f8f61ed887f"
    }
   ],
   "trusted": [],

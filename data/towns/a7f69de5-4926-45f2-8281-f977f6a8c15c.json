@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Philly_Jr",
-  "uuid": "1ea76032-50ac-4bde-ac0c-6aeb41bc24db",
+  "name": "Manhattan_KS",
+  "uuid": "a7f69de5-4926-45f2-8281-f977f6a8c15c",
   "board": "/town set board [msg]",
-  "founder": "CryptoCommie",
+  "founder": "blkarmphoenix",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC100",
-   "uuid": "b7ae439e-61b2-2083-9269-0db1992c31c0"
+   "name": "blkarmphoenix",
+   "uuid": "18395886-83bb-48df-8f1d-a29f08be637b"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
-   "registered": 1794514356243,
-   "joinedNationAt": null,
-   "ruinedAt": 1794514716353
+   "registered": 1794780589882,
+   "joinedNationAt": 1794780914682,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -27889.637919458844,
+    "x": -34700.624303002405,
     "y": 71.0,
-    "z": -7447.75417821095,
-    "pitch": 3.299819,
-    "yaw": -106.05004
+    "z": -6784.9340121582345,
+    "pitch": 17.857111,
+    "yaw": 179.86844
    },
    "homeBlock": [
-    -1744,
-    -466
+    -2169,
+    -425
    ],
    "townBlocks": [
     [
-     -1744,
-     -466
+     -2169,
+     -425
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC100",
-    "uuid": "b7ae439e-61b2-2083-9269-0db1992c31c0"
+    "name": "blkarmphoenix",
+    "uuid": "18395886-83bb-48df-8f1d-a29f08be637b"
    }
   ],
   "trusted": [],

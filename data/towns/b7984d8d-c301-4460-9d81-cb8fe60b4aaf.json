@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Maydan",
   "uuid": "b7984d8d-c301-4460-9d81-cb8fe60b4aaf",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 186,
-   "maxTownBlocks": 500,
+   "maxTownBlocks": 560,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 35,
+   "numResidents": 40,
    "numTrusted": 13,
    "numOutlaws": 7,
-   "balance": 198.0,
+   "balance": 390.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": true,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -844,14 +844,6 @@
     "uuid": "e064efdc-5f28-4b55-85b3-f23690a13f5e"
    },
    {
-    "name": "lolobolo",
-    "uuid": "a8d0768a-a7d9-4077-b7b0-d690de98852b"
-   },
-   {
-    "name": "Appa011",
-    "uuid": "0e8667cc-0ddb-42d3-a111-1427cb77efb3"
-   },
-   {
     "name": "zarquial",
     "uuid": "c03114ed-d87f-4eec-8b99-817003818273"
    },
@@ -978,6 +970,34 @@
    {
     "name": "Glizzy1Gobbler1",
     "uuid": "e05bf39c-4552-47bc-8a6b-c216180ed454"
+   },
+   {
+    "name": "TheUnforgiven67",
+    "uuid": "270f76c6-1f88-4cd6-b1b0-8688a51a171a"
+   },
+   {
+    "name": "BYsebastion",
+    "uuid": "83407b65-3421-4cc2-bb21-b4336881dc92"
+   },
+   {
+    "name": "NoctuWerryx",
+    "uuid": "de71dcb9-2535-4b58-915d-939948b76863"
+   },
+   {
+    "name": "cosmocharm",
+    "uuid": "391f7edb-07d4-43e2-a5c5-8998c421994b"
+   },
+   {
+    "name": "TheLeaf1212",
+    "uuid": "a5cb9832-ae2e-4a6d-a443-105f91505cb4"
+   },
+   {
+    "name": "Tangothursday",
+    "uuid": "7b93cd64-bafd-4dc4-a9e4-3919e0a0cc0e"
+   },
+   {
+    "name": "Thijsffx",
+    "uuid": "7ac6e9f9-338f-4f9f-ab06-e728c5818919"
    }
   ],
   "trusted": [
@@ -1174,10 +1194,6 @@
     "uuid": "27e05735-c7ab-4891-b29c-3ec28e48d8f3"
    },
    {
-    "name": "Upbeat Tenement",
-    "uuid": "417e0a74-02d0-4d31-965f-2e0ec5e3e085"
-   },
-   {
     "name": "Enraging Quarter",
     "uuid": "9fd50e45-cfd0-484f-af6c-e9191a90c3aa"
    },
@@ -1192,14 +1208,6 @@
    {
     "name": "Dingy Quarter",
     "uuid": "0339f2c5-a179-4f55-83eb-2d6f36657f8a"
-   },
-   {
-    "name": "Stylish Dwelling",
-    "uuid": "dbf01bdb-45a7-4dee-8978-05cca7da5fbd"
-   },
-   {
-    "name": "Inconvenient Quarter",
-    "uuid": "2641e514-6199-4e10-8b16-0cbdb871a9c6"
    },
    {
     "name": "Inviting Dwelling",
@@ -1220,6 +1228,54 @@
    {
     "name": "Dull Quarter",
     "uuid": "79742b0c-aa86-4835-810a-6ab1ba2c200c"
+   },
+   {
+    "name": "Upbeat Tenement",
+    "uuid": "417e0a74-02d0-4d31-965f-2e0ec5e3e085"
+   },
+   {
+    "name": "Elegant Suite",
+    "uuid": "3f53067c-f69c-456b-b1fa-f6e1c4873dfa"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "54af37b1-7ffb-4b1a-aabf-b4312aa3dbc1"
+   },
+   {
+    "name": "Luxurious Apartment",
+    "uuid": "9d0b4f83-5954-45df-a7ad-016f61620c3f"
+   },
+   {
+    "name": "Cheerful Tenement",
+    "uuid": "d59dc937-da52-4a80-83af-4b7d1cf6ed67"
+   },
+   {
+    "name": "Dingy Property",
+    "uuid": "aa507a92-1e8f-4910-be12-e2fc46a35590"
+   },
+   {
+    "name": "Welcoming Residence",
+    "uuid": "e44ee75b-d204-42ca-aac5-2592e0ce3a9b"
+   },
+   {
+    "name": "Stylish Quarter",
+    "uuid": "4d719d37-fdfa-45e5-8235-5303af1c3193"
+   },
+   {
+    "name": "Inviting Residence",
+    "uuid": "79e6b57d-640d-4ea0-ac98-53eac6ed2d55"
+   },
+   {
+    "name": "Bland Tenement",
+    "uuid": "0c17072e-91fa-47ea-914d-fca2aebb2439"
+   },
+   {
+    "name": "Stylish Dwelling",
+    "uuid": "dbf01bdb-45a7-4dee-8978-05cca7da5fbd"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "2641e514-6199-4e10-8b16-0cbdb871a9c6"
    }
   ],
   "ranks": {

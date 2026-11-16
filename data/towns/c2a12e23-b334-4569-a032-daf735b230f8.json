@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Axolotl",
   "uuid": "c2a12e23-b334-4569-a032-daf735b230f8",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Chazo_2",
-   "uuid": "37c2978c-2f97-4810-aa45-4b15172baba0"
+   "name": "NPC23",
+   "uuid": "4ec5e472-352f-20ff-aab4-1d0fe120b077"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1784909899451,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794826801400
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "Chazo_2",
-    "uuid": "37c2978c-2f97-4810-aa45-4b15172baba0"
+    "name": "NPC23",
+    "uuid": "4ec5e472-352f-20ff-aab4-1d0fe120b077"
    }
   ],
   "trusted": [],

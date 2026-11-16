@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Scorpion_Den",
   "uuid": "ce4e21c2-73c0-40ac-a907-feafa04e034d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
+   "numTownBlocks": 26,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 2.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,12 +92,36 @@
    ],
    "townBlocks": [
     [
+     567,
+     -45
+    ],
+    [
+     567,
+     -46
+    ],
+    [
+     567,
+     -47
+    ],
+    [
+     567,
+     -48
+    ],
+    [
+     567,
+     -44
+    ],
+    [
      568,
      -48
     ],
     [
      566,
      -46
+    ],
+    [
+     568,
+     -44
     ],
     [
      566,
@@ -128,6 +152,10 @@
      -44
     ],
     [
+     566,
+     -43
+    ],
+    [
      565,
      -47
     ],
@@ -152,27 +180,11 @@
      -47
     ],
     [
-     567,
-     -45
-    ],
-    [
      564,
      -46
     ],
     [
-     567,
-     -46
-    ],
-    [
-     567,
-     -47
-    ],
-    [
      564,
-     -48
-    ],
-    [
-     567,
      -48
     ],
     [
@@ -180,7 +192,7 @@
      -45
     ],
     [
-     567,
+     564,
      -44
     ]
    ],

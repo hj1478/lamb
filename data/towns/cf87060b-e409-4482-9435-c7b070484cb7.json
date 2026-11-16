@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Jeonju",
   "uuid": "cf87060b-e409-4482-9435-c7b070484cb7",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 42,
+   "numTownBlocks": 29,
+   "maxTownBlocks": 74,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "nationBonus": 50,
+   "numResidents": 2,
+   "numTrusted": 3,
+   "numOutlaws": 3,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,6 +92,118 @@
    ],
    "townBlocks": [
     [
+     2834,
+     -326
+    ],
+    [
+     2834,
+     -325
+    ],
+    [
+     2836,
+     -331
+    ],
+    [
+     2836,
+     -330
+    ],
+    [
+     2834,
+     -328
+    ],
+    [
+     2834,
+     -327
+    ],
+    [
+     2834,
+     -330
+    ],
+    [
+     2834,
+     -329
+    ],
+    [
+     2836,
+     -329
+    ],
+    [
+     2838,
+     -329
+    ],
+    [
+     2836,
+     -328
+    ],
+    [
+     2838,
+     -330
+    ],
+    [
+     2836,
+     -327
+    ],
+    [
+     2838,
+     -331
+    ],
+    [
+     2838,
+     -328
+    ],
+    [
+     2835,
+     -326
+    ],
+    [
+     2835,
+     -328
+    ],
+    [
+     2835,
+     -327
+    ],
+    [
+     2835,
+     -330
+    ],
+    [
+     2835,
+     -329
+    ],
+    [
+     2835,
+     -331
+    ],
+    [
+     2833,
+     -328
+    ],
+    [
+     2833,
+     -327
+    ],
+    [
+     2837,
+     -328
+    ],
+    [
+     2837,
+     -329
+    ],
+    [
+     2833,
+     -326
+    ],
+    [
+     2837,
+     -330
+    ],
+    [
+     2833,
+     -325
+    ],
+    [
      2837,
      -331
     ]
@@ -102,10 +214,40 @@
    {
     "name": "Rubin808",
     "uuid": "2a43358d-0f5e-488a-afa3-55feb58e8e83"
+   },
+   {
+    "name": "CostlySpider",
+    "uuid": "8ff01f4e-e05e-424c-9b27-3c8a1aa90c9d"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "CrownOfLech",
+    "uuid": "fd6365ba-912e-476d-a685-20c678b2423d"
+   },
+   {
+    "name": "Thecaspergod",
+    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
+   },
+   {
+    "name": "Unknown40",
+    "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "Min1sterr",
+    "uuid": "15264ea1-3d55-4b5c-80f5-451053b48330"
+   },
+   {
+    "name": "ItzGlazzy",
+    "uuid": "2300f269-d9b8-4ea7-8ca4-957a20bf4abf"
+   },
+   {
+    "name": "Inkhavens",
+    "uuid": "3c6755b4-9152-46ef-98e5-b7fdf63d8e1a"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

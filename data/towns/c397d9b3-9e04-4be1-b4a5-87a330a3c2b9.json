@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Isfahan",
-  "uuid": "4f930189-6da3-45fc-98f6-1c6d229839f3",
+  "name": "Latinuania",
+  "uuid": "c397d9b3-9e04-4be1-b4a5-87a330a3c2b9",
   "board": "/town set board [msg]",
-  "founder": "Zedronyo",
+  "founder": "JakeHole",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC63",
-   "uuid": "1153ca50-8d0a-20cf-a854-7537772aae05"
+   "name": "Lawe",
+   "uuid": "f6dd8add-96aa-4328-b0b4-25ef37543708"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1790791889408,
+   "registered": 1794760933679,
    "joinedNationAt": null,
-   "ruinedAt": 1794567601750
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,72 +36,80 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 36,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 75.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 18519.39117822699,
-    "y": 91.0,
-    "z": -4038.9006985782457,
-    "pitch": 14.999926,
-    "yaw": 18.555702
+    "x": 8308.95122071216,
+    "y": 68.0,
+    "z": -13820.051433929353,
+    "pitch": 9.132802,
+    "yaw": -176.10742
    },
    "homeBlock": [
-    1157,
-    -253
+    519,
+    -864
    ],
    "townBlocks": [
     [
-     1157,
-     -253
+     519,
+     -864
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC63",
-    "uuid": "1153ca50-8d0a-20cf-a854-7537772aae05"
+    "name": "JakeHole",
+    "uuid": "7a704628-872f-4eb6-a474-4b3af09b33b5"
+   },
+   {
+    "name": "thermocat",
+    "uuid": "23dc3bfd-93df-43ad-974e-e44a252679de"
+   },
+   {
+    "name": "Lawe",
+    "uuid": "f6dd8add-96aa-4328-b0b4-25ef37543708"
    }
   ],
   "trusted": [],
@@ -109,7 +117,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "thermocat",
+     "uuid": "23dc3bfd-93df-43ad-974e-e44a252679de"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

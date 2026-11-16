@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
-  "name": "Thalassia",
-  "uuid": "86fe80d2-cb29-42b8-8d81-379f7f770e9d",
-  "board": "Where the ocean meets civilization",
-  "founder": "Liamdegrote",
+  "name": "Blois",
+  "uuid": "299c11a2-e450-4f1c-a48a-3744b584d9f3",
+  "board": "/town set board [msg]",
+  "founder": "Gr3nzz",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC105",
-   "uuid": "4b984fd4-deb7-2026-ae27-927e2c3fe232"
+   "name": "Gr3nzz",
+   "uuid": "b81dc49a-ff68-4d63-8ecc-ed09910aa085"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1786052893881,
+   "registered": 1794761745916,
    "joinedNationAt": null,
-   "ruinedAt": 1794567600592
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,101 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 37856.39102502471,
+    "x": 334.29723352200114,
     "y": 63.0,
-    "z": 11782.135167580882,
-    "pitch": 15.150013,
-    "yaw": -89.12158
+    "z": -10409.623194429616,
+    "pitch": 28.71288,
+    "yaw": -171.98083
    },
    "homeBlock": [
-    2366,
-    736
+    20,
+    -651
    ],
    "townBlocks": [
     [
-     2366,
-     736
-    ],
-    [
-     2366,
-     735
-    ],
-    [
-     2365,
-     735
-    ],
-    [
-     2365,
-     736
-    ],
-    [
-     2366,
-     737
-    ],
-    [
-     2365,
-     737
-    ],
-    [
-     2367,
-     735
-    ],
-    [
-     2367,
-     737
-    ],
-    [
-     2367,
-     736
-    ],
-    [
-     2364,
-     736
-    ],
-    [
-     2364,
-     735
+     20,
+     -651
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC105",
-    "uuid": "4b984fd4-deb7-2026-ae27-927e2c3fe232"
+    "name": "Gr3nzz",
+    "uuid": "b81dc49a-ff68-4d63-8ecc-ed09910aa085"
    }
   ],
   "trusted": [],

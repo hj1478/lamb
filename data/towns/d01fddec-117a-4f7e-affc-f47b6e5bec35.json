@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Amerigo",
   "uuid": "d01fddec-117a-4f7e-affc-f47b6e5bec35",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DanielGamesYT",
-   "uuid": "653742df-d893-47b8-8c2e-e61477b8b8f4"
+   "name": "NPC43",
+   "uuid": "1fc869c2-0ce4-201b-82df-76a166a0886f"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1790980684840,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794740404898
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,12 +112,8 @@
   },
   "residents": [
    {
-    "name": "DanielGamesYT",
-    "uuid": "653742df-d893-47b8-8c2e-e61477b8b8f4"
-   },
-   {
-    "name": "Samiiinko",
-    "uuid": "f876a902-98d6-4c52-84e2-f8aadb45beac"
+    "name": "NPC43",
+    "uuid": "1fc869c2-0ce4-201b-82df-76a166a0886f"
    }
   ],
   "trusted": [],

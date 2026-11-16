@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Zharkan",
   "uuid": "b7b51ca4-e472-4a4c-9604-0547d17fe8d4",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Scooby007",
-   "uuid": "17363e7b-89cb-4877-a29c-a618d6bd5553"
+   "name": "NPC107",
+   "uuid": "3bcb7dde-b3f0-20bc-a42e-fa8c01edee86"
   },
   "nation": {
-   "name": "Sakha_Republic",
-   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1790624377465,
-   "joinedNationAt": 1790624420114,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794654003120
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 4,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -112,8 +112,8 @@
   },
   "residents": [
    {
-    "name": "Scooby007",
-    "uuid": "17363e7b-89cb-4877-a29c-a618d6bd5553"
+    "name": "NPC107",
+    "uuid": "3bcb7dde-b3f0-20bc-a42e-fa8c01edee86"
    }
   ],
   "trusted": [],

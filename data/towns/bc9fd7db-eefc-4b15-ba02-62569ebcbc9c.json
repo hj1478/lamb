@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Garissa_Chieti",
   "uuid": "bc9fd7db-eefc-4b15-ba02-62569ebcbc9c",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MonolithicTactic",
-   "uuid": "64c1cbbd-3fe8-4355-b135-d16047e38779"
+   "name": "caciki_",
+   "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
   },
   "nation": {
-   "name": "Ethiopia",
-   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1791493513663,
-   "joinedNationAt": 1791493545213,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
-   "isForSale": false,
-   "hasNation": true,
+   "isForSale": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,14 +36,14 @@
   },
   "stats": {
    "numTownBlocks": 29,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 1.0,
-   "forSalePrice": null
+   "forSalePrice": 100.0
   },
   "perms": {
    "build": [
@@ -212,12 +212,12 @@
   },
   "residents": [
    {
-    "name": "MonolithicTactic",
-    "uuid": "64c1cbbd-3fe8-4355-b135-d16047e38779"
-   },
-   {
     "name": "DarkpageM",
     "uuid": "4580f3cf-f5db-45fe-80c8-1391f7225347"
+   },
+   {
+    "name": "caciki_",
+    "uuid": "b663b4b2-e8ac-40dd-9eaf-367034241f97"
    }
   ],
   "trusted": [

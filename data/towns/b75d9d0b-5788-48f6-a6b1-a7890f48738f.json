@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Jambi_Baru",
   "uuid": "b75d9d0b-5788-48f6-a6b1-a7890f48738f",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 102,
-   "maxTownBlocks": 156,
+   "numTownBlocks": 103,
+   "maxTownBlocks": 168,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 8,
+   "numResidents": 9,
    "numTrusted": 3,
-   "numOutlaws": 19,
-   "balance": 2.0,
+   "numOutlaws": 20,
+   "balance": 6.0,
    "forSalePrice": null
   },
   "perms": {
@@ -82,9 +82,9 @@
     "world": "earth",
     "x": 36703.30000001192,
     "y": 247.0,
-    "z": 9415.53165695562,
-    "pitch": 1.4914458,
-    "yaw": -89.77658
+    "z": 9415.569802753957,
+    "pitch": 0.4363153,
+    "yaw": -91.1861
    },
    "homeBlock": [
     2293,
@@ -368,6 +368,10 @@
      590
     ],
     [
+     2294,
+     592
+    ],
+    [
      2292,
      585
     ],
@@ -534,6 +538,10 @@
    {
     "name": "CreditSux",
     "uuid": "5b009510-a033-4622-9124-feb3837bc013"
+   },
+   {
+    "name": "Nandnank",
+    "uuid": "b99c5cb8-86e8-4152-ab5a-28cbd5d57b63"
    }
   ],
   "trusted": [
@@ -626,6 +634,10 @@
    {
     "name": "Taha_AbuObaida",
     "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
+   {
+    "name": "Thecaspergod",
+    "uuid": "ca1fa021-5fb7-4059-828d-cb9532e72e45"
    }
   ],
   "quarters": [
@@ -724,6 +736,10 @@
    {
     "name": "Enraging Tenement",
     "uuid": "d5e687c2-539d-46b2-b447-977e05beea60"
+   },
+   {
+    "name": "Welcoming Flat",
+    "uuid": "b0f1e9f1-087c-44c6-9a00-55cacae36480"
    }
   ],
   "ranks": {

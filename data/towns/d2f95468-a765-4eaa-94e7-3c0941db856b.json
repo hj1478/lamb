@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Kuujjuaq",
   "uuid": "d2f95468-a765-4eaa-94e7-3c0941db856b",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 60,
-   "maxTownBlocks": 164,
+   "maxTownBlocks": 176,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 7,
-   "numTrusted": 6,
-   "numOutlaws": 1,
-   "balance": 2.0,
+   "numResidents": 8,
+   "numTrusted": 5,
+   "numOutlaws": 2,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -132,12 +132,12 @@
      -982
     ],
     [
-     -1497,
-     -986
-    ],
-    [
      -1502,
      -981
+    ],
+    [
+     -1497,
+     -986
     ],
     [
      -1502,
@@ -236,12 +236,12 @@
      -982
     ],
     [
-     -1496,
-     -986
-    ],
-    [
      -1504,
      -981
+    ],
+    [
+     -1496,
+     -986
     ],
     [
      -1500,
@@ -362,6 +362,10 @@
    {
     "name": "Thekodiakbear",
     "uuid": "f7a2f01d-ba70-4792-8aa8-299b823ff51a"
+   },
+   {
+    "name": "AfterDarkAlley",
+    "uuid": "6aacaef8-2368-4669-9ffe-135fdcdd52c6"
    }
   ],
   "trusted": [
@@ -382,10 +386,6 @@
     "uuid": "5ab791c8-3e77-4149-8deb-b1a0276e1453"
    },
    {
-    "name": "limao_mao",
-    "uuid": "1df4938b-fed2-4615-b094-7acb97238bdc"
-   },
-   {
     "name": "fellfardown",
     "uuid": "b589ffe0-726d-4482-90d1-e69f75e5c591"
    }
@@ -394,6 +394,10 @@
    {
     "name": "Gambino003",
     "uuid": "53885ab1-e47f-436c-8ac6-38b5f1f86f6c"
+   },
+   {
+    "name": "Stolqe",
+    "uuid": "bce208bb-f76b-4fe2-8953-197a3f98ec2c"
    }
   ],
   "quarters": [],

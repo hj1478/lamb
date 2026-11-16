@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Ushitaki",
   "uuid": "cd00d643-6e38-4797-8ae6-2dbf230ea330",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 55,
-   "maxTownBlocks": 140,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 5,
-   "numTrusted": 16,
-   "numOutlaws": 1,
-   "balance": 48.0,
+   "numResidents": 4,
+   "numTrusted": 20,
+   "numOutlaws": 0,
+   "balance": 11.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 50487.61592553694,
+    "x": 50506.60054204083,
     "y": 70.0,
-    "z": -7661.449446496011,
-    "pitch": -0.44982153,
-    "yaw": 1.4633789
+    "z": -7671.438769066444,
+    "pitch": 1.949973,
+    "yaw": 87.871155
    },
    "homeBlock": [
-    3155,
-    -479
+    3156,
+    -480
    ],
    "townBlocks": [
     [
@@ -316,10 +316,6 @@
   },
   "residents": [
    {
-    "name": "miZu337",
-    "uuid": "31ef1608-2861-4d7e-8e4f-2c1cf6754251"
-   },
-   {
     "name": "Silent_Hill_",
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
    },
@@ -358,7 +354,7 @@
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
    },
    {
-    "name": "Truzz666",
+    "name": "Lwlzero",
     "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
    },
    {
@@ -382,12 +378,28 @@
     "uuid": "b8299267-2660-462a-a399-dff57687f85e"
    },
    {
+    "name": "Haoge_dada",
+    "uuid": "77ff71a1-6bbf-4ec8-8a4f-0402869aae4d"
+   },
+   {
+    "name": "FlutterinBreeze",
+    "uuid": "567d7125-5005-4897-aff3-b47c3d7fec29"
+   },
+   {
     "name": "ChaiTsama",
     "uuid": "5e6a6f1b-8425-49dd-b1b0-4a526db0d34d"
    },
    {
     "name": "Sepflower",
     "uuid": "39da6fc3-31d2-483e-9dea-585d89724c27"
+   },
+   {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
+    "name": "Migang360",
+    "uuid": "241b93ee-c7dd-4bbe-81c8-2313306c64fc"
    },
    {
     "name": "Tsunlam123",
@@ -402,18 +414,8 @@
     "uuid": "77b9ec62-ac44-4976-8828-d804342a7430"
    }
   ],
-  "outlaws": [
-   {
-    "name": "_Koridor_92_",
-    "uuid": "781851a5-821c-4c07-9eb8-500842eb546e"
-   }
-  ],
-  "quarters": [
-   {
-    "name": "Ushitaki的宇宙无敌小门禁",
-    "uuid": "8ce74280-ab44-4014-810c-e568f2729202"
-   }
-  ],
+  "outlaws": [],
+  "quarters": [],
   "ranks": {
    "Councillor": [
     {

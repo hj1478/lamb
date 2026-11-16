@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T16:34:24Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Nagasaki",
   "uuid": "c1c091d0-7938-49ed-9963-c1dab2ac1924",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": "https://discord.gg/V2awA5KzXW",
   "mayor": {
-   "name": "ChickenHolic",
-   "uuid": "87ebaf95-483f-45cf-a82e-04f191343084"
+   "name": "Unbidleaf",
+   "uuid": "52289180-9ef9-415f-a69a-651867ce3cda"
   },
   "nation": {
    "name": "Japan",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 282,
-   "maxTownBlocks": 772,
+   "numTownBlocks": 306,
+   "maxTownBlocks": 760,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 56,
+   "numResidents": 55,
    "numTrusted": 4,
-   "numOutlaws": 50,
-   "balance": 586.0,
+   "numOutlaws": 56,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 46616.24103287279,
+    "x": 46615.700179499065,
     "y": 73.0,
-    "z": -4280.085537205967,
-    "pitch": 8.1624365,
-    "yaw": 87.93552
+    "z": -4280.062322572395,
+    "pitch": 7.648361,
+    "yaw": 89.42917
    },
    "homeBlock": [
     2913,
@@ -96,12 +96,24 @@
      -268
     ],
     [
+     2899,
+     -272
+    ],
+    [
      2906,
      -267
     ],
     [
+     2899,
+     -273
+    ],
+    [
      2906,
      -266
+    ],
+    [
+     2899,
+     -271
     ],
     [
      2901,
@@ -156,12 +168,20 @@
      -258
     ],
     [
+     2901,
+     -274
+    ],
+    [
      2906,
      -256
     ],
     [
      2906,
      -255
+    ],
+    [
+     2901,
+     -275
     ],
     [
      2906,
@@ -260,6 +280,22 @@
      -277
     ],
     [
+     2899,
+     -274
+    ],
+    [
+     2905,
+     -275
+    ],
+    [
+     2899,
+     -275
+    ],
+    [
+     2905,
+     -276
+    ],
+    [
      2913,
      -266
     ],
@@ -310,6 +346,14 @@
     [
      2913,
      -263
+    ],
+    [
+     2904,
+     -276
+    ],
+    [
+     2904,
+     -275
     ],
     [
      2904,
@@ -480,12 +524,28 @@
      -274
     ],
     [
+     2898,
+     -271
+    ],
+    [
      2918,
      -275
     ],
     [
+     2898,
+     -272
+    ],
+    [
      2918,
      -276
+    ],
+    [
+     2898,
+     -273
+    ],
+    [
+     2898,
+     -274
     ],
     [
      2918,
@@ -520,8 +580,20 @@
      -263
     ],
     [
+     2902,
+     -276
+    ],
+    [
      2910,
      -264
+    ],
+    [
+     2902,
+     -275
+    ],
+    [
+     2902,
+     -274
     ],
     [
      2910,
@@ -536,6 +608,10 @@
      -262
     ],
     [
+     2902,
+     -273
+    ],
+    [
      2910,
      -259
     ],
@@ -548,20 +624,12 @@
      -273
     ],
     [
-     2917,
-     -265
-    ],
-    [
      2919,
      -275
     ],
     [
      2910,
      -274
-    ],
-    [
-     2917,
-     -264
     ],
     [
      2910,
@@ -602,10 +670,6 @@
     [
      2910,
      -268
-    ],
-    [
-     2917,
-     -266
     ],
     [
      2919,
@@ -992,16 +1056,32 @@
      -269
     ],
     [
+     2900,
+     -272
+    ],
+    [
      2915,
      -262
+    ],
+    [
+     2900,
+     -273
     ],
     [
      2915,
      -263
     ],
     [
+     2900,
+     -274
+    ],
+    [
      2915,
      -264
+    ],
+    [
+     2900,
+     -275
     ],
     [
      2915,
@@ -1034,6 +1114,22 @@
     [
      2912,
      -260
+    ],
+    [
+     2903,
+     -276
+    ],
+    [
+     2903,
+     -273
+    ],
+    [
+     2903,
+     -275
+    ],
+    [
+     2903,
+     -274
     ],
     [
      2903,
@@ -1237,14 +1333,6 @@
     "uuid": "1fa52f7a-6bf3-42a9-83d4-c88e0a8ae479"
    },
    {
-    "name": "SickmaDog",
-    "uuid": "013a3916-008d-40d2-916f-e51a17b29697"
-   },
-   {
-    "name": "micahfoster84",
-    "uuid": "7b92250d-1bdd-4409-87bb-08cc5c32dfe1"
-   },
-   {
     "name": "loving_kindness",
     "uuid": "4b707600-cffd-4fae-af9b-4f1e5e998b78"
    },
@@ -1257,40 +1345,8 @@
     "uuid": "4dba3d0c-eb97-4829-af34-12a1570429fe"
    },
    {
-    "name": "anotherbadd",
-    "uuid": "15af75a4-8bfe-4a45-b3f5-3e42382bf762"
-   },
-   {
-    "name": "Jobaboba",
-    "uuid": "86ea3e54-99d0-49a8-904b-635eaa3e34be"
-   },
-   {
-    "name": "Uncagedbird",
-    "uuid": "a3eb7e68-7337-4b0e-81fe-3b1cf4740198"
-   },
-   {
-    "name": "Lupoax",
-    "uuid": "dd9104e9-f085-4513-a5e0-2877d39c479b"
-   },
-   {
-    "name": "Eltio39",
-    "uuid": "02f8d8a5-c05d-4859-89c1-80f592393a49"
-   },
-   {
     "name": "MrDuck1939",
     "uuid": "7586b74d-07a8-4385-b5d8-b60a41931991"
-   },
-   {
-    "name": "Vasqual",
-    "uuid": "0a3caa01-4c93-4f9c-9c2c-cd48d399046a"
-   },
-   {
-    "name": "LucasVGF",
-    "uuid": "84ed9f9f-7a72-493a-bb26-8c590d1de5a8"
-   },
-   {
-    "name": "MatKnght",
-    "uuid": "8c9742b2-5dd5-416d-a17f-b388eb498e0c"
    },
    {
     "name": "Sp00kieP00ki3",
@@ -1449,8 +1505,44 @@
     "uuid": "9de100b8-4c01-4948-a721-d0c2bd9bf8ea"
    },
    {
-    "name": "ChickenHolic",
-    "uuid": "87ebaf95-483f-45cf-a82e-04f191343084"
+    "name": "Agemnce",
+    "uuid": "0594b4ee-b8c9-4477-9160-11b2aca789e2"
+   },
+   {
+    "name": "cooldonkeys31",
+    "uuid": "d5cc589b-fd5f-40ec-becf-be69c86ec38d"
+   },
+   {
+    "name": "Unbidleaf",
+    "uuid": "52289180-9ef9-415f-a69a-651867ce3cda"
+   },
+   {
+    "name": "Am1xu",
+    "uuid": "9699e9e3-bd9c-4274-8450-bfb8503b0a4c"
+   },
+   {
+    "name": "1uy3",
+    "uuid": "b8925ca0-fbc6-410d-bee2-36666ff0363e"
+   },
+   {
+    "name": "Piggsie",
+    "uuid": "05ee0c11-a2ec-4d7c-bb68-2762634f040b"
+   },
+   {
+    "name": "Brolox228056",
+    "uuid": "6c43a0f2-74a3-4349-a48f-ca29baa1b8bf"
+   },
+   {
+    "name": "Bruxer96",
+    "uuid": "5b85ad49-4024-4d9b-b9ac-cde0e5daf218"
+   },
+   {
+    "name": "J3llyf_shhh",
+    "uuid": "6456e56a-a89a-4892-a485-a7bad1ecc9f7"
+   },
+   {
+    "name": "nyx0tic",
+    "uuid": "d66a00c8-04de-43a2-9bfb-e1d1fdffbfea"
    }
   ],
   "trusted": [
@@ -1483,10 +1575,6 @@
    {
     "name": "rigSPriNg",
     "uuid": "3378df5b-4ed3-47ae-8ca0-2bb6acd7ffab"
-   },
-   {
-    "name": "Vanillosmios",
-    "uuid": "d4869188-3abd-44bc-a247-2a43bb096b88"
    },
    {
     "name": "rivllon",
@@ -1541,20 +1629,12 @@
     "uuid": "ea55a2c1-094d-4398-a6db-5171ac7844c5"
    },
    {
-    "name": "XukongZhiYing",
-    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
-   },
-   {
     "name": "osyondesuyo",
     "uuid": "a93eb935-9baf-4bac-8062-4541e341ee80"
    },
    {
     "name": "hamutabenai",
     "uuid": "a503322c-1478-455c-9e81-f7004b2ce760"
-   },
-   {
-    "name": "MalMeteor",
-    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
    },
    {
     "name": "Dornan_",
@@ -1671,6 +1751,42 @@
    {
     "name": "Aarizqaid",
     "uuid": "4eb7baea-d310-40f0-9e69-09efa460d6a8"
+   },
+   {
+    "name": "donkSlide",
+    "uuid": "34af2559-cd50-4dbc-98c9-e15b701d6056"
+   },
+   {
+    "name": "bohe_mau",
+    "uuid": "4f5220dd-8453-4cca-b758-c518769c8674"
+   },
+   {
+    "name": "LAOLING__",
+    "uuid": "37128061-dde5-406c-938e-71c7f65a0f22"
+   },
+   {
+    "name": "K__a__i",
+    "uuid": "a12ae20e-ef49-465d-bd60-0b4234442c49"
+   },
+   {
+    "name": "New_year_eve",
+    "uuid": "2d1858f5-f164-41c7-9186-2a0253b4a726"
+   },
+   {
+    "name": "meng_yuyun",
+    "uuid": "2a218a87-6b37-42ab-96c6-db7c32963ec6"
+   },
+   {
+    "name": "Bananice_99",
+    "uuid": "7756af7c-ff29-4958-b059-9ceeaa769410"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "uuu_CHA",
+    "uuid": "dbfef0ca-4400-4789-84b0-f542717f33d6"
    }
   ],
   "quarters": [
@@ -1697,10 +1813,6 @@
    {
     "name": "Room #025",
     "uuid": "06c37204-4a72-4a05-8852-b337ff72c168"
-   },
-   {
-    "name": "Room #037",
-    "uuid": "360ada8b-c88d-423d-a949-e40c0444f0b0"
    },
    {
     "name": "Room #040",
@@ -1775,16 +1887,8 @@
     "uuid": "1eae39d2-7ea1-4373-86fc-ecb91b20d2c9"
    },
    {
-    "name": "Room #030",
-    "uuid": "4cf3b173-a7e6-4edf-a000-e265f9b59849"
-   },
-   {
     "name": "Room #032",
     "uuid": "4f991c2d-3d3d-4d47-8ab2-6128200949a1"
-   },
-   {
-    "name": "Room #012",
-    "uuid": "2cf4a746-ccfb-4e40-a7bc-d47859705ce9"
    },
    {
     "name": "Room #031",
@@ -1795,24 +1899,8 @@
     "uuid": "0d203b94-a7ce-4633-ab61-338d3c97d4e9"
    },
    {
-    "name": "Room #029",
-    "uuid": "851ab871-7aad-4d37-a9e7-67c5139c0f90"
-   },
-   {
-    "name": "Room #028",
-    "uuid": "f458bcb7-212f-4aa4-a750-62e4192772cd"
-   },
-   {
     "name": "Room #017",
     "uuid": "c4d27b78-2d5b-41a7-9712-915f4c999602"
-   },
-   {
-    "name": "Room #021",
-    "uuid": "f1270478-9dc2-42e9-a1cd-208ff21f7a90"
-   },
-   {
-    "name": "Room #045",
-    "uuid": "b1f292e5-add4-47dd-b537-530b61124df1"
    },
    {
     "name": "Room #049",
@@ -1821,10 +1909,6 @@
    {
     "name": "Room #036",
     "uuid": "bf8789aa-5637-4bc2-8a5f-634242f040c8"
-   },
-   {
-    "name": "Stylish Suite",
-    "uuid": "b1d82b86-a472-474f-83c2-8aba1618be58"
    },
    {
     "name": "Luxurious Apartment",
@@ -1931,10 +2015,6 @@
     "uuid": "0b3b8549-ae64-4ca8-a2d9-8a6ce818f604"
    },
    {
-    "name": "Room #064",
-    "uuid": "2da2df46-89f2-4584-ba98-310f25ce94ff"
-   },
-   {
     "name": "Room #063",
     "uuid": "4f28afc6-a1ab-4df4-bdde-a4b8f0df8fb5"
    },
@@ -1961,10 +2041,6 @@
    {
     "name": "Room #068",
     "uuid": "9b4237a6-7e2f-48c5-8171-d96cde39c7f3"
-   },
-   {
-    "name": "Room #005",
-    "uuid": "65509f83-5320-4c09-9728-c56708cf4d93"
    },
    {
     "name": "Room #002",
@@ -1999,16 +2075,8 @@
     "uuid": "80151870-d7c7-484d-827a-770cdeef069b"
    },
    {
-    "name": "Room #043",
-    "uuid": "8705a76b-1b1a-4cfd-983d-1ee1a61821e9"
-   },
-   {
     "name": "Room #007",
     "uuid": "6d9b6af3-f4e2-4ce9-b21f-a25387daa30c"
-   },
-   {
-    "name": "Room #048",
-    "uuid": "62d7ec6e-a564-43c6-8783-dda8f76f8f93"
    },
    {
     "name": "Room #046",
@@ -2043,10 +2111,6 @@
     "uuid": "097210c4-aba6-4595-b5a7-82455d5dd24f"
    },
    {
-    "name": "Room #013",
-    "uuid": "9a1d3696-2d36-41ee-818c-6da2b3085c49"
-   },
-   {
     "name": "Room #024",
     "uuid": "8928aca1-acef-4383-9a9b-42579cbe3b88"
    },
@@ -2075,16 +2139,84 @@
     "uuid": "f2983f99-7078-4167-892a-8d6ed222f23a"
    },
    {
-    "name": "Y: -60.0",
-    "uuid": "9c10c4f7-c1a4-4c50-99d1-bb72f675a1f7"
-   },
-   {
     "name": "Room #059",
     "uuid": "437aa6b3-6738-4a04-b949-2eb0e5d0fa83"
    },
    {
     "name": "Room #009",
     "uuid": "47187f54-56ff-4538-b4df-451a02a83a14"
+   },
+   {
+    "name": "Room #012",
+    "uuid": "2cf4a746-ccfb-4e40-a7bc-d47859705ce9"
+   },
+   {
+    "name": "Room #013",
+    "uuid": "9a1d3696-2d36-41ee-818c-6da2b3085c49"
+   },
+   {
+    "name": "Room #028",
+    "uuid": "f458bcb7-212f-4aa4-a750-62e4192772cd"
+   },
+   {
+    "name": "Room #029",
+    "uuid": "851ab871-7aad-4d37-a9e7-67c5139c0f90"
+   },
+   {
+    "name": "Room #048",
+    "uuid": "62d7ec6e-a564-43c6-8783-dda8f76f8f93"
+   },
+   {
+    "name": "Head Shop",
+    "uuid": "71a43f62-a566-45b9-996b-6745f8ee18fb"
+   },
+   {
+    "name": "Stylish Suite",
+    "uuid": "b1d82b86-a472-474f-83c2-8aba1618be58"
+   },
+   {
+    "name": "Room #005",
+    "uuid": "65509f83-5320-4c09-9728-c56708cf4d93"
+   },
+   {
+    "name": "Cactus Farm",
+    "uuid": "03fb2567-710b-47c5-ab30-b1611874939f"
+   },
+   {
+    "name": "Trapdoor",
+    "uuid": "3f2a2b1a-70b6-449d-9be9-07eaadfd61fd"
+   },
+   {
+    "name": "Room #045",
+    "uuid": "b1f292e5-add4-47dd-b537-530b61124df1"
+   },
+   {
+    "name": "Bland Apartment",
+    "uuid": "e8f2a370-1fe7-42bc-838b-787bffdc5c84"
+   },
+   {
+    "name": "Bland Residence",
+    "uuid": "04bcfa20-99de-46a4-a833-c3024500e2f1"
+   },
+   {
+    "name": "Room #064",
+    "uuid": "2da2df46-89f2-4584-ba98-310f25ce94ff"
+   },
+   {
+    "name": "Room #037",
+    "uuid": "360ada8b-c88d-423d-a949-e40c0444f0b0"
+   },
+   {
+    "name": "Room #021",
+    "uuid": "f1270478-9dc2-42e9-a1cd-208ff21f7a90"
+   },
+   {
+    "name": "Room #030",
+    "uuid": "4cf3b173-a7e6-4edf-a000-e265f9b59849"
+   },
+   {
+    "name": "Room #043",
+    "uuid": "8705a76b-1b1a-4cfd-983d-1ee1a61821e9"
    }
   ],
   "ranks": {
@@ -2092,8 +2224,8 @@
    "Builder": [],
    "Recruiter": [
     {
-     "name": "ChickenHolic",
-     "uuid": "87ebaf95-483f-45cf-a82e-04f191343084"
+     "name": "Unbidleaf",
+     "uuid": "52289180-9ef9-415f-a69a-651867ce3cda"
     }
    ],
    "Police": [],

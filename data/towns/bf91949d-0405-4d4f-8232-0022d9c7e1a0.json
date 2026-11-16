@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-16T16:00:18Z",
  "data": {
   "name": "Syndassko",
   "uuid": "bf91949d-0405-4d4f-8232-0022d9c7e1a0",
@@ -12,12 +12,12 @@
    "uuid": "2a4aba94-8d32-4b4b-a503-b3b3af351f7e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Vym",
+   "uuid": "d6df43ac-a84b-47d3-b822-35d9d82494ec"
   },
   "timestamps": {
    "registered": 1794276639397,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794365462017,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 48,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 70,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
+   "nationBonus": 10,
+   "numResidents": 5,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 10.0,
+   "numOutlaws": 1,
+   "balance": 338.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 39276.147501504325,
-    "y": 63.0,
-    "z": -24394.448046561152,
-    "pitch": 59.249992,
-    "yaw": -67.90668
+    "x": 39276.87493520275,
+    "y": 64.0,
+    "z": -24390.884146806886,
+    "pitch": -56.400032,
+    "yaw": -95.65683
    },
    "homeBlock": [
     2454,
@@ -92,6 +92,22 @@
    ],
    "townBlocks": [
     [
+     2456,
+     -1524
+    ],
+    [
+     2456,
+     -1525
+    ],
+    [
+     2456,
+     -1526
+    ],
+    [
+     2454,
+     -1524
+    ],
+    [
      2454,
      -1525
     ],
@@ -100,12 +116,76 @@
      -1526
     ],
     [
+     2454,
+     -1527
+    ],
+    [
+     2454,
+     -1523
+    ],
+    [
+     2455,
+     -1526
+    ],
+    [
+     2455,
+     -1525
+    ],
+    [
+     2455,
+     -1524
+    ],
+    [
+     2452,
+     -1527
+    ],
+    [
+     2452,
+     -1525
+    ],
+    [
+     2452,
+     -1526
+    ],
+    [
+     2457,
+     -1526
+    ],
+    [
+     2457,
+     -1525
+    ],
+    [
+     2457,
+     -1524
+    ],
+    [
+     2452,
+     -1523
+    ],
+    [
+     2452,
+     -1524
+    ],
+    [
+     2453,
+     -1527
+    ],
+    [
      2453,
      -1526
     ],
     [
      2453,
+     -1523
+    ],
+    [
+     2453,
      -1525
+    ],
+    [
+     2453,
+     -1524
     ]
    ],
    "worlds": {}
@@ -126,10 +206,19 @@
    {
     "name": "Vinny6018",
     "uuid": "c80c538e-7b8f-4191-9d0c-5f26b91fa548"
+   },
+   {
+    "name": "VKANMC",
+    "uuid": "4e848781-c993-4b77-8bb7-353ef3071030"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],
@@ -145,6 +234,10 @@
     {
      "name": "Vinny6018",
      "uuid": "c80c538e-7b8f-4191-9d0c-5f26b91fa548"
+    },
+    {
+     "name": "VKANMC",
+     "uuid": "4e848781-c993-4b77-8bb7-353ef3071030"
     }
    ],
    "Recruiter": [],
@@ -154,6 +247,10 @@
     {
      "name": "Tanks3819",
      "uuid": "1512abd9-5037-459e-a06b-e78ba5d1f855"
+    },
+    {
+     "name": "Vinny6018",
+     "uuid": "c80c538e-7b8f-4191-9d0c-5f26b91fa548"
     }
    ],
    "Realtor": [
