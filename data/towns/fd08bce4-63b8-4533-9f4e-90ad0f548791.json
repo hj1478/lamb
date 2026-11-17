@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Ayanka",
   "uuid": "fd08bce4-63b8-4533-9f4e-90ad0f548791",
@@ -12,12 +12,12 @@
    "uuid": "5c73dd2c-802f-4228-8793-7bf4fe6bd823"
   },
   "nation": {
-   "name": "Kamchatka",
-   "uuid": "b57eace1-9f98-4418-b290-8aa11612db69"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778224936563,
-   "joinedNationAt": 1780483806250,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 88,
-   "maxTownBlocks": 34,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,

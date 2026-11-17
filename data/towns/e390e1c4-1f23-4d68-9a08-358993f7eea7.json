@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Mu",
   "uuid": "e390e1c4-1f23-4d68-9a08-358993f7eea7",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Alterkir",
-   "uuid": "f576aa41-92ee-4add-bbd4-9c55b39efb59"
+   "name": "NPC58",
+   "uuid": "98fec7b6-a019-207e-909f-0ffa84f9e46a"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1786325730671,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794913201794
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -128,8 +128,8 @@
   },
   "residents": [
    {
-    "name": "Alterkir",
-    "uuid": "f576aa41-92ee-4add-bbd4-9c55b39efb59"
+    "name": "NPC58",
+    "uuid": "98fec7b6-a019-207e-909f-0ffa84f9e46a"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Fort_Caracal",
   "uuid": "f11529b0-4765-46d4-b791-7374b66721a6",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": true,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 35,
+   "numTownBlocks": 36,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 19.0,
+   "balance": 0.0,
    "forSalePrice": 225.0
   },
   "perms": {
@@ -130,6 +130,10 @@
     [
      2902,
      -1156
+    ],
+    [
+     2902,
+     -1155
     ],
     [
      2901,

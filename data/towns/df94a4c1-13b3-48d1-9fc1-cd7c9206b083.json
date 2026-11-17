@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Bobby",
   "uuid": "df94a4c1-13b3-48d1-9fc1-cd7c9206b083",
@@ -12,12 +12,12 @@
    "uuid": "16dec14f-8b7a-48b6-8344-5a27415af1a0"
   },
   "nation": {
-   "name": "Uruguay",
-   "uuid": "b75404f8-0698-4865-b2c8-b687af410a65"
+   "name": "Brazil",
+   "uuid": "fab09788-759d-4039-952f-793713232b5e"
   },
   "timestamps": {
    "registered": 1791918543955,
-   "joinedNationAt": 1794262621746,
+   "joinedNationAt": 1794358428192,
    "ruinedAt": null
   },
   "status": {
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 7,
-   "maxTownBlocks": 134,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 7,
+   "nationBonus": 100,
+   "numResidents": 8,
    "numTrusted": 3,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -150,6 +150,10 @@
    {
     "name": "ucunico",
     "uuid": "a8be346e-32ff-42b0-ab7c-63c7cb68b753"
+   },
+   {
+    "name": "acidlyawsome",
+    "uuid": "5cc36f18-ecb6-4c0e-8240-d22829f14571"
    }
   ],
   "trusted": [
@@ -166,7 +170,12 @@
     "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

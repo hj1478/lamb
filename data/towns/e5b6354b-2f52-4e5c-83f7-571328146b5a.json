@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Kirov",
   "uuid": "e5b6354b-2f52-4e5c-83f7-571328146b5a",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 98,
-   "maxTownBlocks": 104,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 3,
+   "numOutlaws": 4,
    "balance": 14.0,
    "forSalePrice": null
   },
@@ -490,14 +490,14 @@
    {
     "name": "Rackerkid2022",
     "uuid": "08f569e2-1c78-4e23-9c2f-edd7d7bd6f9a"
-   },
-   {
-    "name": "ivan051492",
-    "uuid": "a83e9a08-1f4e-4baf-98ec-49423647031d"
    }
   ],
   "trusted": [],
   "outlaws": [
+   {
+    "name": "Continentalia",
+    "uuid": "2c1f0bd5-f870-414d-9231-9084b270d6a9"
+   },
    {
     "name": "Jackbreaker12",
     "uuid": "5ae7c3e0-c53b-4ace-8395-03c8aaad67a0"

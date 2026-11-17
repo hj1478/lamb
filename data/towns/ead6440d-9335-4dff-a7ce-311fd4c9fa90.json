@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Tigranocerta",
   "uuid": "ead6440d-9335-4dff-a7ce-311fd4c9fa90",
@@ -8,11 +8,11 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "yarch1e",
-   "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
+   "name": "Agnesyatta",
+   "uuid": "cd479be2-4cf0-4f44-8128-c7f68f899dab"
   },
   "nation": {
-   "name": "Eastern_Anatolia",
+   "name": "Armenia",
    "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 463,
-   "maxTownBlocks": 420,
+   "numTownBlocks": 445,
+   "maxTownBlocks": 464,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 30,
-   "numTrusted": 6,
-   "numOutlaws": 2,
-   "balance": 89.0,
+   "nationBonus": 80,
+   "numResidents": 32,
+   "numTrusted": 2,
+   "numOutlaws": 3,
+   "balance": 32.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14589.660285628295,
-    "y": 76.0,
-    "z": -6352.747692363519,
-    "pitch": 40.499996,
-    "yaw": -30.592041
+    "x": 14610.258177895641,
+    "y": 85.0,
+    "z": -6351.585365632371,
+    "pitch": 17.48137,
+    "yaw": 88.34009
    },
    "homeBlock": [
-    911,
-    -398
+    913,
+    -397
    ],
    "townBlocks": [
     [
@@ -141,10 +141,6 @@
     ],
     [
      909,
-     -388
-    ],
-    [
-     909,
      -389
     ],
     [
@@ -154,10 +150,6 @@
     [
      909,
      -391
-    ],
-    [
-     909,
-     -387
     ],
     [
      909,
@@ -225,10 +217,6 @@
     ],
     [
      914,
-     -387
-    ],
-    [
-     914,
      -392
     ],
     [
@@ -242,10 +230,6 @@
     [
      914,
      -395
-    ],
-    [
-     914,
-     -388
     ],
     [
      914,
@@ -454,10 +438,6 @@
     [
      918,
      -397
-    ],
-    [
-     916,
-     -388
     ],
     [
      918,
@@ -750,10 +730,6 @@
     [
      906,
      -394
-    ],
-    [
-     918,
-     -388
     ],
     [
      906,
@@ -841,14 +817,6 @@
     ],
     [
      908,
-     -387
-    ],
-    [
-     908,
-     -388
-    ],
-    [
-     908,
      -389
     ],
     [
@@ -1029,14 +997,6 @@
     ],
     [
      913,
-     -388
-    ],
-    [
-     913,
-     -387
-    ],
-    [
-     913,
      -393
     ],
     [
@@ -1298,10 +1258,6 @@
     [
      917,
      -389
-    ],
-    [
-     917,
-     -388
     ],
     [
      898,
@@ -1349,14 +1305,6 @@
     ],
     [
      911,
-     -388
-    ],
-    [
-     911,
-     -387
-    ],
-    [
-     911,
      -410
     ],
     [
@@ -1482,10 +1430,6 @@
     [
      915,
      -397
-    ],
-    [
-     915,
-     -388
     ],
     [
      907,
@@ -1668,14 +1612,6 @@
      -410
     ],
     [
-     912,
-     -388
-    ],
-    [
-     912,
-     -387
-    ],
-    [
      910,
      -412
     ],
@@ -1777,15 +1713,7 @@
     ],
     [
      910,
-     -387
-    ],
-    [
-     910,
      -389
-    ],
-    [
-     910,
-     -388
     ],
     [
      910,
@@ -1953,10 +1881,6 @@
   },
   "residents": [
    {
-    "name": "yarch1e",
-    "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
-   },
-   {
     "name": "Abn10rmal",
     "uuid": "9f70c571-3a67-41b5-ac6c-ca361ce054d1"
    },
@@ -1969,16 +1893,8 @@
     "uuid": "5eef374f-21c9-43c3-91e0-82123c7a3a8a"
    },
    {
-    "name": "Valiglin",
-    "uuid": "c19a795c-3541-4b86-ac6d-5874ce7e9930"
-   },
-   {
-    "name": "KaptanZorba",
-    "uuid": "959ad0d1-25a0-4132-beb1-de36b6e918c9"
-   },
-   {
-    "name": "Zendar_toji",
-    "uuid": "18507ecc-98e8-4661-b724-baaae060be5b"
+    "name": "Magneto89",
+    "uuid": "56e34c97-10f2-4f9f-98ea-58afc9fb45ce"
    },
    {
     "name": "CompotFakee",
@@ -1991,10 +1907,6 @@
    {
     "name": "sanya_solyarka",
     "uuid": "74008241-19c4-4b51-be84-3dd2270778db"
-   },
-   {
-    "name": "hydratesla123",
-    "uuid": "5d981c3c-c27b-427f-acac-16ad74a89a05"
    },
    {
     "name": "DePinZ",
@@ -2071,28 +1983,36 @@
    {
     "name": "MahmoudD_D",
     "uuid": "1a08dd9e-054a-4ee3-ae24-362453c186f8"
+   },
+   {
+    "name": "mm44turboshi",
+    "uuid": "5b8f93ed-b092-482e-9007-06cfcda89f9f"
+   },
+   {
+    "name": "Qxran",
+    "uuid": "9dce95c7-47f2-4159-9d12-6eb209adf5f2"
+   },
+   {
+    "name": "Elekze1234",
+    "uuid": "3d6e7b0e-c38c-4f06-a2c4-6fe3dff75f5c"
+   },
+   {
+    "name": "Agnesyatta",
+    "uuid": "cd479be2-4cf0-4f44-8128-c7f68f899dab"
+   },
+   {
+    "name": "____1000____",
+    "uuid": "ee58bd1b-cacc-4762-ac3e-46f11dcb8ced"
+   },
+   {
+    "name": "KGKpro",
+    "uuid": "5e5d40bb-0edc-48e1-8ca6-7d28404c8f99"
    }
   ],
   "trusted": [
    {
-    "name": "FailPrincess",
-    "uuid": "350e8fba-358e-472f-bc04-6f3d2287ac39"
-   },
-   {
-    "name": "Aklaplayz",
-    "uuid": "de9b8de2-ebab-48ef-9f42-cf02edda5f40"
-   },
-   {
-    "name": "Yerevan_773",
-    "uuid": "7c66e9de-3184-44f6-a006-6e39b21201d0"
-   },
-   {
-    "name": "0_ggmaster_0",
-    "uuid": "e67a17c8-8afa-4956-b3d7-2e1f90f89fd5"
-   },
-   {
-    "name": "Master_CFS",
-    "uuid": "13268821-237d-47ab-8aca-93814688e8f9"
+    "name": "yarch1e",
+    "uuid": "bb4137c0-6dbb-4873-a293-e62f3d08ce9e"
    },
    {
     "name": "Illmenia",
@@ -2105,30 +2025,22 @@
     "uuid": "fbd4f717-3464-41b4-8895-8c8b46d2b4c1"
    },
    {
-    "name": "ArdaTe_",
+    "name": "_restobej",
     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
+   },
+   {
+    "name": "Tldigi",
+    "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
   "quarters": [
-   {
-    "name": "Room #104",
-    "uuid": "3b48ce75-ffeb-40a0-8730-dcea7daee08b"
-   },
    {
     "name": "Room #109",
     "uuid": "c3da6a3b-87f2-40ad-a449-1e7d3027f525"
    },
    {
-    "name": "Room #112",
-    "uuid": "e80a5d2d-de5d-4dcc-9bb2-c3359d966867"
-   },
-   {
     "name": "Room #105",
     "uuid": "5d885027-0be4-478b-a81f-4a76e853ec53"
-   },
-   {
-    "name": "Room #110",
-    "uuid": "c604684d-def1-46f0-9563-b1d8bb366caf"
    },
    {
     "name": "Room #102",
@@ -2137,10 +2049,6 @@
    {
     "name": "Room #101",
     "uuid": "46345b05-37b4-4a2a-ba2a-cac395e9deb2"
-   },
-   {
-    "name": "Room #103",
-    "uuid": "6c01f679-e290-4b3e-9f66-061b93f0a9bc"
    },
    {
     "name": "Room #108",
@@ -2155,8 +2063,24 @@
     "uuid": "9b7ff191-4734-4fba-b9aa-49e9fa56393d"
    },
    {
+    "name": "Room #104",
+    "uuid": "3b48ce75-ffeb-40a0-8730-dcea7daee08b"
+   },
+   {
+    "name": "Room #103",
+    "uuid": "6c01f679-e290-4b3e-9f66-061b93f0a9bc"
+   },
+   {
+    "name": "Room #112",
+    "uuid": "e80a5d2d-de5d-4dcc-9bb2-c3359d966867"
+   },
+   {
     "name": "Room #111",
     "uuid": "4302ead6-aef1-4089-be8c-a5de71c67fa0"
+   },
+   {
+    "name": "Room #110",
+    "uuid": "c604684d-def1-46f0-9563-b1d8bb366caf"
    }
   ],
   "ranks": {

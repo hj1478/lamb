@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Pacific_Grove",
   "uuid": "e4db1bdc-1156-4519-84e6-eb1669926261",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Fr0z3nW1nt3r",
-   "uuid": "936862ff-a230-4436-a9a3-578952cd1b63"
+   "name": "NPC62",
+   "uuid": "fbea90bd-97cf-20c6-bd73-846aafb496c0"
   },
   "nation": {
-   "name": "Pacific",
-   "uuid": "d9d44019-e408-418e-8e6d-b2ec89f3c8e7"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1789969429428,
-   "joinedNationAt": 1789969458578,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794913202270
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "Fr0z3nW1nt3r",
-    "uuid": "936862ff-a230-4436-a9a3-578952cd1b63"
+    "name": "NPC62",
+    "uuid": "fbea90bd-97cf-20c6-bd73-846aafb496c0"
    }
   ],
   "trusted": [],

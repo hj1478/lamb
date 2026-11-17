@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Chatanga",
   "uuid": "e1089393-2d14-4df3-bf25-627ed94bd89f",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
+   "numTownBlocks": 16,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 1,
-   "numOutlaws": 2,
+   "numTrusted": 2,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,22 +73,22 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 35592.72637636673,
+    "x": 35596.32640543784,
     "y": 63.0,
-    "z": -26270.575248200366,
-    "pitch": 21.74975,
-    "yaw": 92.80975
+    "z": -26254.146673375995,
+    "pitch": 73.95023,
+    "yaw": -91.2464
    },
    "homeBlock": [
     2224,
-    -1642
+    -1641
    ],
    "townBlocks": [
     [
@@ -110,6 +110,10 @@
     [
      2225,
      -1640
+    ],
+    [
+     2226,
+     -1641
     ],
     [
      2222,
@@ -162,6 +166,10 @@
   ],
   "trusted": [
    {
+    "name": "Thwerrve",
+    "uuid": "4626eb7f-4eb9-4239-99b0-a7c70ccd5a14"
+   },
+   {
     "name": "jotjotj0t",
     "uuid": "47f6623a-e74a-4bef-9d49-d206fff12578"
    }
@@ -174,6 +182,10 @@
    {
     "name": "Taha_AbuObaida",
     "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
   "quarters": [

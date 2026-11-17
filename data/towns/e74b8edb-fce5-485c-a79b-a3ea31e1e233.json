@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "West_Pacific",
   "uuid": "e74b8edb-fce5-485c-a79b-a3ea31e1e233",
@@ -8,37 +8,37 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "mishal3321",
-   "uuid": "3eae8eb2-fa3f-4fdf-825c-a526e48f20ee"
+   "name": "NPC127",
+   "uuid": "9de1c4a7-9119-20b4-849d-cb0215c8121d"
   },
   "nation": {
-   "name": "Oceania",
-   "uuid": "e227e0ab-923a-451f-a82f-635b2edd0ea8"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1794404293799,
-   "joinedNationAt": 1794404314849,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794722702123
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 15,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,44 +47,44 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 42760.07050409663,
-    "y": 63.5625,
-    "z": 12894.676536103876,
-    "pitch": 46.19996,
-    "yaw": 7.6585693
+    "x": 42758.18589393943,
+    "y": 66.0,
+    "z": 12886.567582338426,
+    "pitch": 4.799264,
+    "yaw": 21.656006
    },
    "homeBlock": [
     2672,
@@ -94,14 +94,70 @@
     [
      2672,
      805
+    ],
+    [
+     2672,
+     806
+    ],
+    [
+     2672,
+     807
+    ],
+    [
+     2673,
+     805
+    ],
+    [
+     2673,
+     806
+    ],
+    [
+     2674,
+     807
+    ],
+    [
+     2674,
+     806
+    ],
+    [
+     2674,
+     805
+    ],
+    [
+     2671,
+     806
+    ],
+    [
+     2671,
+     805
+    ],
+    [
+     2671,
+     807
+    ],
+    [
+     2670,
+     805
+    ],
+    [
+     2673,
+     807
+    ],
+    [
+     2670,
+     807
+    ],
+    [
+     2670,
+     806
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "mishal3321",
-    "uuid": "3eae8eb2-fa3f-4fdf-825c-a526e48f20ee"
+    "name": "NPC127",
+    "uuid": "9de1c4a7-9119-20b4-849d-cb0215c8121d"
    }
   ],
   "trusted": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Niagara_Falls",
   "uuid": "f87365c8-b9d3-49c0-a508-321c224994a5",
-  "board": "Home Of The Falls, Hidden In The Trees",
+  "board": "Home of the Falls",
   "founder": "VirtuallyInbound",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 11,
+   "numTownBlocks": 14,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 34.0,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
@@ -100,39 +100,51 @@
      -532
     ],
     [
-     -1775,
-     -531
-    ],
-    [
      -1774,
      -531
     ],
     [
+     -1774,
+     -530
+    ],
+    [
      -1773,
      -531
     ],
     [
      -1773,
+     -530
+    ],
+    [
+     -1775,
      -533
     ],
     [
-     -1773,
+     -1775,
      -532
     ],
     [
-     -1773,
+     -1774,
      -534
     ],
     [
      -1775,
-     -533
+     -531
     ],
     [
      -1775,
+     -530
+    ],
+    [
+     -1773,
+     -533
+    ],
+    [
+     -1773,
      -532
     ],
     [
-     -1774,
+     -1773,
      -534
     ]
    ],
@@ -154,6 +166,10 @@
   ],
   "trusted": [
    {
+    "name": "hiddencpvp",
+    "uuid": "4867c1b1-7b79-422c-b9fa-2423f192f7d8"
+   },
+   {
     "name": "pl69onyt",
     "uuid": "819ab2c1-d586-45a7-a2ef-8709b28faf18"
    },
@@ -162,7 +178,12 @@
     "uuid": "d37def6c-046c-4904-b397-8f49a6e096d9"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

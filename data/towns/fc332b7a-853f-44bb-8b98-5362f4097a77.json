@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Jingdezhen",
   "uuid": "fc332b7a-853f-44bb-8b98-5362f4097a77",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Truzz666",
-   "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+   "name": "NPC129",
+   "uuid": "58798184-72e9-2057-a155-61b74f21409c"
   },
   "nation": {
-   "name": "Ming",
-   "uuid": "bcce0aff-cd6d-455f-a698-4bf8f017df9f"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1794635595097,
-   "joinedNationAt": 1794635635847,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794735321125
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 5,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,12 +100,12 @@
      -178
     ],
     [
-     2631,
-     -178
-    ],
-    [
      2630,
      -177
+    ],
+    [
+     2631,
+     -178
     ],
     [
      2631,
@@ -116,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "Truzz666",
-    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
+    "name": "NPC129",
+    "uuid": "58798184-72e9-2057-a155-61b74f21409c"
    }
   ],
   "trusted": [

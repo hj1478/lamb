@@ -1,33 +1,33 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Dakhla",
-  "uuid": "1dc18f6d-f891-4788-ab01-07198fad5ac6",
-  "board": "sea",
-  "founder": "ravtav13",
+  "name": "Severograd",
+  "uuid": "2dca0fb5-8353-4a3a-adc2-3146d3cc11f6",
+  "board": "/town set board [msg]",
+  "founder": "CWK_registeel",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "ravtav13",
-   "uuid": "684fea81-c1ff-4161-935d-cec8322ab2cb"
+   "name": "CWK_registeel",
+   "uuid": "9146bc94-cd1e-41c0-a76e-e5a7fb23856d"
   },
   "nation": {
-   "name": "Morocco",
-   "uuid": "fb065d83-c6a1-41ed-a1f8-86bb6e729502"
+   "name": "Kara",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
-   "registered": 1786011610126,
-   "joinedNationAt": 1786011741176,
+   "registered": 1794897920515,
+   "joinedNationAt": 1794898002215,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
-   "isForSale": true,
+   "isForSale": false,
    "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
@@ -35,15 +35,15 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 30,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
-   "forSalePrice": 100.0
+   "forSalePrice": null
   },
   "perms": {
    "build": [
@@ -80,52 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -5652.535437516049,
-    "y": 65.0,
-    "z": -726.4841936236774,
-    "pitch": 2.3999426,
-    "yaw": -178.36432
+    "x": 32808.30218096031,
+    "y": 63.0,
+    "z": -29369.071857069037,
+    "pitch": 36.300045,
+    "yaw": 2.248413
    },
    "homeBlock": [
-    -354,
-    -46
+    2050,
+    -1836
    ],
    "townBlocks": [
     [
-     -353,
-     -45
-    ],
-    [
-     -353,
-     -46
-    ],
-    [
-     -353,
-     -47
-    ],
-    [
-     -354,
-     -47
-    ],
-    [
-     -352,
-     -46
-    ],
-    [
-     -355,
-     -46
-    ],
-    [
-     -354,
-     -46
+     2050,
+     -1836
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "ravtav13",
-    "uuid": "684fea81-c1ff-4161-935d-cec8322ab2cb"
+    "name": "CWK_registeel",
+    "uuid": "9146bc94-cd1e-41c0-a76e-e5a7fb23856d"
    }
   ],
   "trusted": [],

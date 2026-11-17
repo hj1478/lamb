@@ -1,14 +1,14 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Fengxigu",
+  "name": "Cheese",
   "uuid": "e46e3694-e298-4b52-b9bf-94bb0b0f0479",
   "board": "[The people are the rivers and mountains. The rivers and mountains are the people.]",
   "founder": "Truzz666",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Truzz666",
+   "name": "Lwlzero",
    "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
   },
   "nation": {
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 112,
+   "numTownBlocks": 114,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 15,
+   "numTrusted": 17,
    "numOutlaws": 4,
-   "balance": 0.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 40995.92113235472,
-    "y": 74.0,
-    "z": -938.3511901458648,
-    "pitch": 20.138342,
-    "yaw": 97.1828
+    "x": 40987.5,
+    "y": 69.0,
+    "z": -938.5,
+    "pitch": 21.571144,
+    "yaw": -175.93294
    },
    "homeBlock": [
-    2562,
+    2561,
     -59
    ],
    "townBlocks": [
@@ -237,6 +237,10 @@
     ],
     [
      2555,
+     -50
+    ],
+    [
+     2555,
      -51
     ],
     [
@@ -417,6 +421,10 @@
     ],
     [
      2561,
+     -64
+    ],
+    [
+     2561,
      -63
     ],
     [
@@ -544,7 +552,7 @@
   },
   "residents": [
    {
-    "name": "Truzz666",
+    "name": "Lwlzero",
     "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
    }
   ],
@@ -552,6 +560,10 @@
    {
     "name": "Kiss_shot__",
     "uuid": "5e41ea40-9cbe-4a5f-97ef-69d46c953a0e"
+   },
+   {
+    "name": "512N",
+    "uuid": "0fe9a67a-1f91-4099-b6bc-fb5cf0082297"
    },
    {
     "name": "L_cat_M",
@@ -566,7 +578,7 @@
     "uuid": "a3ea0667-8664-40be-a20e-a6a2e69a4c08"
    },
    {
-    "name": "Truzz666",
+    "name": "Lwlzero",
     "uuid": "4cbabab6-a0fe-4617-ae50-5b6b6fca2a9e"
    },
    {
@@ -580,6 +592,10 @@
    {
     "name": "Hoshino_Shinnako",
     "uuid": "3d717b81-da73-468d-93f4-e4499aa75bda"
+   },
+   {
+    "name": "x4qri",
+    "uuid": "ecead593-8b83-4105-b020-92e1058d25fd"
    },
    {
     "name": "IOwOIn",
@@ -632,6 +648,10 @@
    {
     "name": "Luxurious Dwelling",
     "uuid": "725c2c83-cb21-44ac-95b6-11a0d96bacea"
+   },
+   {
+    "name": "Cheese传送点",
+    "uuid": "71ea2ddf-7870-4b6b-be4e-620691b60bf5"
    }
   ],
   "ranks": {

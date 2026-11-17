@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Aquisea",
   "uuid": "e421aa83-4499-432b-a87e-43bc90b0ed32",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 54,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 4,
    "balance": 0.0,
@@ -316,12 +316,16 @@
     "uuid": "54848a55-517d-44d0-842d-1582ab27e362"
    },
    {
-    "name": "ItsStormPlayz",
-    "uuid": "96d8f569-7d2b-4f82-b8ec-f21f5c50b1ba"
+    "name": "peatg_",
+    "uuid": "acd3c703-0a8f-4ae9-86af-b8266fcaed4f"
    },
    {
     "name": "GoatedLiam1",
     "uuid": "d944f91f-c772-42da-9161-459702a91c1f"
+   },
+   {
+    "name": "Sogeki",
+    "uuid": "51ecd18f-03eb-4d7a-849e-39a2f602d13e"
    }
   ],
   "trusted": [],
@@ -394,9 +398,19 @@
    }
   ],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "peatg_",
+     "uuid": "acd3c703-0a8f-4ae9-86af-b8266fcaed4f"
+    }
+   ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "peatg_",
+     "uuid": "acd3c703-0a8f-4ae9-86af-b8266fcaed4f"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Ili",
   "uuid": "eaa0b1ae-9b14-4c0a-90ca-84042628aea8",
-  "board": "/town set board [msg]",
+  "board": "Laputa",
   "founder": "Sylfaenydd",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 7,
    "numTrusted": 1,
-   "numOutlaws": 1,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -98,6 +98,38 @@
     [
      1876,
      -533
+    ],
+    [
+     1876,
+     -534
+    ],
+    [
+     1875,
+     -534
+    ],
+    [
+     1875,
+     -533
+    ],
+    [
+     1875,
+     -532
+    ],
+    [
+     1876,
+     -535
+    ],
+    [
+     1877,
+     -534
+    ],
+    [
+     1877,
+     -533
+    ],
+    [
+     1877,
+     -532
     ]
    ],
    "worlds": {}
@@ -106,6 +138,30 @@
    {
     "name": "Sylfaenydd",
     "uuid": "d6078aff-c41b-4b67-a01e-ec449f62d209"
+   },
+   {
+    "name": "Doxygo",
+    "uuid": "c9d58563-c90e-4ce9-8529-5dc3c0bf0b50"
+   },
+   {
+    "name": "SquirtingGlitter",
+    "uuid": "28c53b42-29f6-4dcf-969e-7a9581ad2c60"
+   },
+   {
+    "name": "homura2112",
+    "uuid": "182ed846-0e66-49c9-a981-7044da8b9f7e"
+   },
+   {
+    "name": "thefryingpan123",
+    "uuid": "fe5773d2-a429-4d17-857e-f04b2fc813aa"
+   },
+   {
+    "name": "yupleft",
+    "uuid": "190e5907-e5f7-47d1-83a7-f078d0a136c0"
+   },
+   {
+    "name": "Unarmed_Assassin",
+    "uuid": "b6bd67c3-5e85-4cef-be52-eceb33c866ee"
    }
   ],
   "trusted": [
@@ -118,6 +174,10 @@
    {
     "name": "BIG_ALL_IN",
     "uuid": "7a60d4d3-e042-4204-8825-1a91c61f6e30"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
   "quarters": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Versailles",
   "uuid": "e0976eab-7f22-4b60-bf18-fe11a687cf1b",
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 43,
+   "numTownBlocks": 46,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -105,11 +105,19 @@
     ],
     [
      26,
+     -685
+    ],
+    [
+     26,
      -682
     ],
     [
      26,
      -683
+    ],
+    [
+     26,
+     -686
     ],
     [
      27,
@@ -236,6 +244,10 @@
      -684
     ],
     [
+     27,
+     -685
+    ],
+    [
      22,
      -684
     ],
@@ -274,7 +286,28 @@
   ],
   "trusted": [],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Inconvenient Apartment",
+    "uuid": "63455722-4a22-4dae-b058-3c5d75ee5766"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "28e028bc-08d0-4413-9661-2cab4785844e"
+   },
+   {
+    "name": "Stylish Apartment",
+    "uuid": "518e7203-43cd-411f-907f-03d2869c3e87"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "f18ced79-5eda-4c0c-9842-6d2c7cce4901"
+   },
+   {
+    "name": "Durray's House",
+    "uuid": "1d356b6e-0d67-4340-aec0-72f09e7df1fb"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

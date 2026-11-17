@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Adimeia",
   "uuid": "e2796bb6-1c6a-4f82-b2db-1adfd251520a",
@@ -42,7 +42,7 @@
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 10.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -279,7 +279,16 @@
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Cheerful Property",
+    "uuid": "34e5041b-0972-49b7-a127-891d158d519e"
+   },
+   {
+    "name": "Elegant Tenement",
+    "uuid": "bd0dc728-8a07-45d0-a8cd-3223a49a29b5"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

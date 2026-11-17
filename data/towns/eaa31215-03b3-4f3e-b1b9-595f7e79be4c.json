@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Tayozhny",
   "uuid": "eaa31215-03b3-4f3e-b1b9-595f7e79be4c",
-  "board": "A cold, peaceful community",
+  "board": "A picturesque oceanside settlement",
   "founder": "nyx_ch",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 32,
+   "numTownBlocks": 34,
    "maxTownBlocks": 96,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 12976.784676288647,
+    "x": 12990.684161668813,
     "y": 63.0,
-    "z": -18790.001274342987,
-    "pitch": 41.39972,
-    "yaw": 171.46313
+    "z": -18775.456758459015,
+    "pitch": 27.900002,
+    "yaw": -115.35261
    },
    "homeBlock": [
     811,
-    -1175
+    -1174
    ],
    "townBlocks": [
     [
@@ -140,6 +140,10 @@
      -1176
     ],
     [
+     812,
+     -1172
+    ],
+    [
      809,
      -1177
     ],
@@ -149,15 +153,19 @@
     ],
     [
      812,
-     -1178
+     -1176
     ],
     [
-     812,
-     -1176
+     808,
+     -1177
     ],
     [
      812,
      -1177
+    ],
+    [
+     811,
+     -1172
     ],
     [
      813,
@@ -237,19 +245,28 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
     {
-     "name": "sleebee_p",
-     "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
+     "name": "SunnyDJuiceBoxx",
+     "uuid": "a196e17c-2c94-48df-b68f-248b2215be11"
     }
    ],
    "Builder": [
     {
      "name": "SunnyDJuiceBoxx",
      "uuid": "a196e17c-2c94-48df-b68f-248b2215be11"
+    },
+    {
+     "name": "sleebee_p",
+     "uuid": "2edca7b0-15b6-4738-852e-e5f362b4099f"
     }
    ],
    "Recruiter": [],

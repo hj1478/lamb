@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Hayvoron",
   "uuid": "ffd1c1c3-4125-4a48-8d2b-4618f3317bfc",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 9,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 98.0,
+   "balance": 130.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10755.68491012198,
+    "x": 10759.478291993022,
     "y": 64.0,
-    "z": -10767.72459592676,
-    "pitch": 31.32741,
-    "yaw": 127.19386
+    "z": -10798.42861290779,
+    "pitch": 19.418568,
+    "yaw": -0.6855469
    },
    "homeBlock": [
     672,
-    -673
+    -675
    ],
    "townBlocks": [
     [
@@ -101,6 +101,10 @@
     ],
     [
      672,
+     -675
+    ],
+    [
+     671,
      -675
     ],
     [
@@ -118,6 +122,10 @@
     [
      672,
      -673
+    ],
+    [
+     673,
+     -675
     ]
    ],
    "worlds": {}

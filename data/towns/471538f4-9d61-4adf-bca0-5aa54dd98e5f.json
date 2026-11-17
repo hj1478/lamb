@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Meanies",
-  "uuid": "07d8b15e-afd9-4024-80af-65c27de0b357",
+  "name": "PB-IX",
+  "uuid": "471538f4-9d61-4adf-bca0-5aa54dd98e5f",
   "board": "/town set board [msg]",
-  "founder": "MeanieIsHere",
+  "founder": "Vylorax",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "MeanieIsHere",
-   "uuid": "df482411-42a3-4bf1-a420-3acdcb1a1f9f"
+   "name": "Vylorax",
+   "uuid": "6f5edf62-d283-4f3a-9af5-2ade6bbb7963"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "James_Bay",
+   "uuid": "6f88443b-e6cd-4c12-9757-c4696eca231d"
   },
   "timestamps": {
-   "registered": 1783491067462,
-   "joinedNationAt": null,
+   "registered": 1794862839898,
+   "joinedNationAt": 1794862878448,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -80,28 +80,32 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 30252.66033105841,
-    "y": 7.0,
-    "z": 8600.4545397053,
-    "pitch": 37.26681,
-    "yaw": -85.76401
+    "x": -30744.523936070374,
+    "y": 69.0,
+    "z": -16313.516698255213,
+    "pitch": 0.63390255,
+    "yaw": -179.74083
    },
    "homeBlock": [
-    1890,
-    537
+    -1922,
+    -1020
    ],
    "townBlocks": [
     [
-     1890,
-     537
+     -1922,
+     -1020
+    ],
+    [
+     -1921,
+     -1020
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "MeanieIsHere",
-    "uuid": "df482411-42a3-4bf1-a420-3acdcb1a1f9f"
+    "name": "Vylorax",
+    "uuid": "6f5edf62-d283-4f3a-9af5-2ade6bbb7963"
    }
   ],
   "trusted": [],

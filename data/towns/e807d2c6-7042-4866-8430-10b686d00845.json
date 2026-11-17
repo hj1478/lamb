@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Fort_Crucible",
   "uuid": "e807d2c6-7042-4866-8430-10b686d00845",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
+   "numTownBlocks": 3,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 13.0,
    "forSalePrice": null
   },
   "perms": {
@@ -96,6 +96,10 @@
      -101
     ],
     [
+     2118,
+     -101
+    ],
+    [
      2117,
      -101
     ]
@@ -108,7 +112,12 @@
     "uuid": "4a2c0ebd-b2fc-48e6-b342-a8dbe46c8f85"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Cy3pher",
+    "uuid": "35fb0aa9-85b6-4fba-895c-be20f5beaef4"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

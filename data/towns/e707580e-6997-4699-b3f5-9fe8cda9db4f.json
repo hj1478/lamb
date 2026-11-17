@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Amed",
   "uuid": "e707580e-6997-4699-b3f5-9fe8cda9db4f",
@@ -12,7 +12,7 @@
    "uuid": "5e50643d-a306-4e71-be9a-ad490527cabe"
   },
   "nation": {
-   "name": "Eastern_Anatolia",
+   "name": "Armenia",
    "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 68,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 23.0,
+   "balance": 48.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },

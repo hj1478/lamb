@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-15T14:03:56Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Buffalo_Narrows",
-  "uuid": "9a7636b7-bf85-4944-9fe8-71d3adb3737c",
-  "board": "Northern Village Of Buffalo Narrows.",
-  "founder": "xLostxEchox",
+  "name": "Dsfassfdsf",
+  "uuid": "593b65f7-d24e-4eb0-9bf1-e9ba0ac12721",
+  "board": "/town set board [msg]",
+  "founder": "Virsanov",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC111",
-   "uuid": "50721e22-7171-2069-8282-08a50af303a4"
+   "name": "Virsanov",
+   "uuid": "e4a5eb60-9899-41c5-b963-1a2ce65fb276"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1788930460725,
+   "registered": 1794846645065,
    "joinedNationAt": null,
-   "ruinedAt": 1794654003633
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,81 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -38876.848329308974,
-    "y": 69.0,
-    "z": -14427.336203491137,
-    "pitch": -4.0500426,
-    "yaw": -88.65018
+    "x": -3523.7020234439747,
+    "y": 64.0,
+    "z": -32131.48700960941,
+    "pitch": 4.625545,
+    "yaw": 136.07005
    },
    "homeBlock": [
-    -2430,
-    -902
+    -221,
+    -2009
    ],
    "townBlocks": [
     [
-     -2429,
-     -903
-    ],
-    [
-     -2429,
-     -902
-    ],
-    [
-     -2431,
-     -902
-    ],
-    [
-     -2431,
-     -903
-    ],
-    [
-     -2430,
-     -903
-    ],
-    [
-     -2430,
-     -902
+     -221,
+     -2009
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC111",
-    "uuid": "50721e22-7171-2069-8282-08a50af303a4"
+    "name": "Virsanov",
+    "uuid": "e4a5eb60-9899-41c5-b963-1a2ce65fb276"
    }
   ],
   "trusted": [],

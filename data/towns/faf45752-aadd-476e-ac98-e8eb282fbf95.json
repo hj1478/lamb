@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "NewVivinstan",
   "uuid": "faf45752-aadd-476e-ac98-e8eb282fbf95",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Patrick_Jane1969",
-   "uuid": "f33be3d0-bf7c-446e-93e0-b5023d5e2e8d"
+   "name": "Vviinnn",
+   "uuid": "cea7968d-9dfb-49c6-9406-933c35691009"
   },
   "nation": {
    "name": null,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 26,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -49,7 +49,7 @@
    "build": [
     false,
     false,
-    true,
+    false,
     false
    ],
    "destroy": [
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -44505.533241958234,
-    "y": 63.0,
-    "z": -8746.198159978232,
-    "pitch": 29.549784,
-    "yaw": -89.77066
+    "x": -44497.50853589297,
+    "y": 71.0,
+    "z": -8748.565533940955,
+    "pitch": 28.56075,
+    "yaw": -90.4585
    },
    "homeBlock": [
     -2782,
@@ -200,10 +200,6 @@
   },
   "residents": [
    {
-    "name": "Patrick_Jane1969",
-    "uuid": "f33be3d0-bf7c-446e-93e0-b5023d5e2e8d"
-   },
-   {
     "name": "Vviinnn",
     "uuid": "cea7968d-9dfb-49c6-9406-933c35691009"
    }
@@ -222,12 +218,7 @@
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
-   "Treasurer": [
-    {
-     "name": "Patrick_Jane1969",
-     "uuid": "f33be3d0-bf7c-446e-93e0-b5023d5e2e8d"
-    }
-   ],
+   "Treasurer": [],
    "Realtor": [],
    "Settler": []
   },

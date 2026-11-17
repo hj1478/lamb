@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Dobric",
   "uuid": "dbded41d-0148-4d14-b88b-10382deeacd1",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ali4leKab4m",
+   "name": "Ali4_Snooze_time",
    "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
   },
   "nation": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 32,
+   "numTownBlocks": 39,
    "maxTownBlocks": 184,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 7,
    "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 34.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 9991.540382750794,
+    "x": 9972.45602073088,
     "y": 65.0,
-    "z": -8802.667792228562,
-    "pitch": -1.9122583,
-    "yaw": -179.82553
+    "z": -8803.378393423356,
+    "pitch": 4.0175886,
+    "yaw": -89.28516
    },
    "homeBlock": [
-    624,
+    623,
     -551
    ],
    "townBlocks": [
@@ -164,8 +164,24 @@
      -552
     ],
     [
+     620,
+     -552
+    ],
+    [
      621,
      -553
+    ],
+    [
+     620,
+     -553
+    ],
+    [
+     621,
+     -548
+    ],
+    [
+     621,
+     -549
     ],
     [
      621,
@@ -186,6 +202,14 @@
     [
      620,
      -551
+    ],
+    [
+     620,
+     -548
+    ],
+    [
+     620,
+     -549
     ],
     [
      622,
@@ -210,6 +234,10 @@
     [
      622,
      -549
+    ],
+    [
+     622,
+     -548
     ]
    ],
    "worlds": {
@@ -245,7 +273,7 @@
     "uuid": "249c0f06-41c0-4721-ba9b-2418d6627401"
    },
    {
-    "name": "Ali4leKab4m",
+    "name": "Ali4_Snooze_time",
     "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
    },
    {
@@ -259,7 +287,7 @@
   ],
   "trusted": [
    {
-    "name": "Ali4leKab4m",
+    "name": "Ali4_Snooze_time",
     "uuid": "293178bd-fe7b-4554-8231-27fc9285e453"
    },
    {
@@ -313,11 +341,28 @@
    {
     "name": "icecream truck",
     "uuid": "a0643d5f-8227-4512-8a96-15e131c60873"
+   },
+   {
+    "name": "Bland Property",
+    "uuid": "ce3fd6c5-075c-4fbf-a5ff-e3cad1b82d80"
+   },
+   {
+    "name": "Bland Tenement",
+    "uuid": "6f97505c-0c4e-4673-a0f6-295176f6bb7e"
+   },
+   {
+    "name": "Elegant Flat",
+    "uuid": "87d2d4e1-d4f2-49a0-8103-8b3c3caea358"
    }
   ],
   "ranks": {
    "Councillor": [],
-   "Builder": [],
+   "Builder": [
+    {
+     "name": "Niko_112340",
+     "uuid": "cf179bb9-5f66-4a27-8b4c-470ec1c71f09"
+    }
+   ],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

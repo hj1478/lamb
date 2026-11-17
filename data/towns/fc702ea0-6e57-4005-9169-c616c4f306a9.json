@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Ouagadougou",
   "uuid": "fc702ea0-6e57-4005-9169-c616c4f306a9",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
+   "numTownBlocks": 5,
    "maxTownBlocks": 54,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 24.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,22 @@
    "townBlocks": [
     [
      -49,
+     175
+    ],
+    [
+     -49,
+     176
+    ],
+    [
+     -49,
+     174
+    ],
+    [
+     -49,
+     177
+    ],
+    [
+     -48,
      176
     ]
    ],
@@ -112,7 +128,12 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "JayRockeyRenard",
+     "uuid": "50a435a0-f29a-49f3-8a9d-5f702b5e8348"
+    }
+   ],
    "Builder": [
     {
      "name": "JayRockeyRenard",

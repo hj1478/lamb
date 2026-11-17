@@ -1,27 +1,27 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "WhiteGirlCentral",
-  "uuid": "2efbf4b5-80d8-4ab7-806e-2e56739daf4d",
-  "board": "Come Here For White Girls",
-  "founder": "blayzeyboy00",
+  "name": "Paulau_Jamdena",
+  "uuid": "5c17ab64-8d35-492c-bdf6-54259f4566a7",
+  "board": "/town set board [msg]",
+  "founder": "SceptixOff",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "GhostGab07",
-   "uuid": "ada1cffd-5f32-4773-b320-c777418bebcf"
+   "name": "SceptixOff",
+   "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
   },
   "nation": {
-   "name": "Iceland",
-   "uuid": "3d6415b7-74eb-4052-8606-c2cce362d120"
+   "name": "Oceania",
+   "uuid": "e227e0ab-923a-451f-a82f-635b2edd0ea8"
   },
   "timestamps": {
-   "registered": 1783835023687,
-   "joinedNationAt": 1783896754556,
+   "registered": 1794851126791,
+   "joinedNationAt": 1794851604516,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,50 +29,50 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 60,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numTrusted": 1,
+   "numOutlaws": 1,
+   "balance": 5.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "destroy": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "switch": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "itemUse": [
-    true,
+    false,
     false,
     false,
     false
    ],
    "flags": {
     "pvp": false,
-    "explosion": true,
+    "explosion": false,
     "fire": true,
     "mobs": false
    }
@@ -80,88 +80,94 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -6014.791249818722,
-    "y": 78.0,
-    "z": -19675.397783273438,
-    "pitch": 3.9569783,
-    "yaw": -89.68044
+    "x": 47011.257976214336,
+    "y": 64.0,
+    "z": 10857.167747725567,
+    "pitch": 28.035574,
+    "yaw": -166.77672
    },
    "homeBlock": [
-    -376,
-    -1230
+    2938,
+    678
    ],
    "townBlocks": [
     [
-     -377,
-     -1232
+     2938,
+     678
     ],
     [
-     -377,
-     -1229
+     2937,
+     677
     ],
     [
-     -377,
-     -1231
+     2937,
+     678
     ],
     [
-     -377,
-     -1230
+     2938,
+     677
     ],
     [
-     -378,
-     -1232
+     2937,
+     679
     ],
     [
-     -376,
-     -1229
+     2936,
+     679
     ],
     [
-     -376,
-     -1230
+     2937,
+     680
     ],
     [
-     -378,
-     -1230
+     2938,
+     680
     ],
     [
-     -376,
-     -1231
+     2939,
+     680
     ],
     [
-     -378,
-     -1231
+     2938,
+     679
     ],
     [
-     -376,
-     -1232
+     2939,
+     678
     ],
     [
-     -375,
-     -1230
+     2939,
+     679
     ],
     [
-     -375,
-     -1229
+     2936,
+     677
     ],
     [
-     -375,
-     -1231
-    ],
-    [
-     -378,
-     -1229
+     2936,
+     678
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "GhostGab07",
-    "uuid": "ada1cffd-5f32-4773-b320-c777418bebcf"
+    "name": "SceptixOff",
+    "uuid": "5501f62c-d5f4-4108-82d7-82bf15fa7db8"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "Guibsadminshalla",
+    "uuid": "ea422053-df6c-4bfe-b5f5-b3be8a33eac1"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "StayzGG",
+    "uuid": "9e0c8b49-b273-49e6-b909-4b3a9ec5321b"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

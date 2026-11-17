@@ -1,44 +1,44 @@
 {
- "fetched_at": "2026-11-16T16:00:18Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Zharkan",
-  "uuid": "b7b51ca4-e472-4a4c-9604-0547d17fe8d4",
+  "name": "Tatev",
+  "uuid": "cdc685cd-48fb-499d-9c32-365e490db9ef",
   "board": "/town set board [msg]",
-  "founder": "Scooby007",
+  "founder": "Yerevan_773",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC107",
-   "uuid": "3bcb7dde-b3f0-20bc-a42e-fa8c01edee86"
+   "name": "Yerevan_773",
+   "uuid": "7c66e9de-3184-44f6-a006-6e39b21201d0"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Armenia",
+   "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
-   "registered": 1790624377465,
-   "joinedNationAt": null,
-   "ruinedAt": 1794654003120
+   "registered": 1794877269107,
+   "joinedNationAt": 1794877283057,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,73 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 43560.2720693207,
-    "y": 63.0,
-    "z": -18699.840890713192,
-    "pitch": 40.95006,
-    "yaw": 150.61414
+    "x": 16565.413267732678,
+    "y": 92.0,
+    "z": -6887.770341169198,
+    "pitch": 11.399983,
+    "yaw": 179.84473
    },
    "homeBlock": [
-    2722,
-    -1169
+    1035,
+    -431
    ],
    "townBlocks": [
     [
-     2722,
-     -1170
-    ],
-    [
-     2722,
-     -1169
-    ],
-    [
-     2723,
-     -1170
-    ],
-    [
-     2724,
-     -1170
+     1035,
+     -431
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC107",
-    "uuid": "3bcb7dde-b3f0-20bc-a42e-fa8c01edee86"
+    "name": "Yerevan_773",
+    "uuid": "7c66e9de-3184-44f6-a006-6e39b21201d0"
    }
   ],
   "trusted": [],

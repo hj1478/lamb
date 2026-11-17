@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Robonia",
   "uuid": "eb976586-2e2e-4f0c-a508-74176bced8b6",
@@ -8,37 +8,37 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "PurpleSeven",
-   "uuid": "71d1f215-22d4-4c99-9aa7-a349738fb138"
+   "name": "NPC81",
+   "uuid": "5f26bace-1c47-205b-b9d3-831e2ca01a99"
   },
   "nation": {
-   "name": "Scotland",
-   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781424303338,
-   "joinedNationAt": 1781424311032,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794740407353
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 43,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -92,60 +92,8 @@
    ],
    "townBlocks": [
     [
-     -85,
-     -919
-    ],
-    [
-     -83,
-     -921
-    ],
-    [
-     -85,
-     -920
-    ],
-    [
-     -85,
-     -921
-    ],
-    [
-     -83,
-     -923
-    ],
-    [
-     -85,
-     -922
-    ],
-    [
-     -83,
-     -922
-    ],
-    [
-     -83,
-     -924
-    ],
-    [
-     -86,
-     -924
-    ],
-    [
-     -86,
-     -923
-    ],
-    [
      -86,
      -925
-    ],
-    [
-     -86,
-     -920
-    ],
-    [
-     -86,
-     -922
-    ],
-    [
-     -86,
-     -921
     ],
     [
      -87,
@@ -161,14 +109,6 @@
     ],
     [
      -85,
-     -923
-    ],
-    [
-     -85,
-     -924
-    ],
-    [
-     -85,
      -925
     ],
     [
@@ -212,26 +152,6 @@
      -922
     ],
     [
-     -84,
-     -921
-    ],
-    [
-     -84,
-     -920
-    ],
-    [
-     -84,
-     -923
-    ],
-    [
-     -84,
-     -922
-    ],
-    [
-     -84,
-     -924
-    ],
-    [
      -88,
      -923
     ],
@@ -244,16 +164,8 @@
      -921
     ],
     [
-     -82,
-     -922
-    ],
-    [
      -88,
      -920
-    ],
-    [
-     -82,
-     -921
     ],
     [
      -88,
@@ -268,8 +180,8 @@
   },
   "residents": [
    {
-    "name": "PurpleSeven",
-    "uuid": "71d1f215-22d4-4c99-9aa7-a349738fb138"
+    "name": "NPC81",
+    "uuid": "5f26bace-1c47-205b-b9d3-831e2ca01a99"
    }
   ],
   "trusted": [],

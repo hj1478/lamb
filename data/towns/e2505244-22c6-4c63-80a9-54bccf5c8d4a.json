@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "New_Riyadh",
   "uuid": "e2505244-22c6-4c63-80a9-54bccf5c8d4a",
@@ -12,12 +12,12 @@
    "uuid": "4082a38f-e311-459d-b7c4-645bf60d9751"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Scotland",
+   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
   },
   "timestamps": {
    "registered": 1794336991494,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794428751469,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 28.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -96,8 +96,32 @@
      -860
     ],
     [
+     -17,
+     -860
+    ],
+    [
+     -19,
+     -861
+    ],
+    [
+     -18,
+     -858
+    ],
+    [
+     -17,
+     -859
+    ],
+    [
+     -19,
+     -858
+    ],
+    [
      -19,
      -859
+    ],
+    [
+     -18,
+     -861
     ],
     [
      -18,

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Summerside",
   "uuid": "fa4b6936-623f-4d66-8759-37f0781ebddb",
@@ -12,12 +12,12 @@
    "uuid": "9491b6be-5570-44b8-a5cc-e7d7fff3005d"
   },
   "nation": {
-   "name": "Acadia",
-   "uuid": "b201949e-4a85-41d4-a252-12901c826d5d"
+   "name": "St_Lawrence",
+   "uuid": "5f530d62-315e-47e0-9e89-954eebe80f4f"
   },
   "timestamps": {
    "registered": 1793059600759,
-   "joinedNationAt": 1793837694035,
+   "joinedNationAt": 1794857982130,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 19,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 24,
+   "maxTownBlocks": 78,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
+   "nationBonus": 30,
+   "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 2.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,26 +92,6 @@
    ],
    "townBlocks": [
     [
-     -1537,
-     -673
-    ],
-    [
-     -1537,
-     -674
-    ],
-    [
-     -1539,
-     -674
-    ],
-    [
-     -1539,
-     -673
-    ],
-    [
-     -1539,
-     -672
-    ],
-    [
      -1541,
      -673
     ],
@@ -152,6 +132,42 @@
      -674
     ],
     [
+     -1537,
+     -672
+    ],
+    [
+     -1537,
+     -673
+    ],
+    [
+     -1535,
+     -673
+    ],
+    [
+     -1537,
+     -674
+    ],
+    [
+     -1535,
+     -672
+    ],
+    [
+     -1539,
+     -674
+    ],
+    [
+     -1539,
+     -673
+    ],
+    [
+     -1539,
+     -672
+    ],
+    [
+     -1535,
+     -674
+    ],
+    [
      -1536,
      -674
     ],
@@ -164,7 +180,11 @@
      -672
     ],
     [
-     -1537,
+     -1542,
+     -673
+    ],
+    [
+     -1542,
      -672
     ]
    ],
@@ -182,6 +202,10 @@
    {
     "name": "thekid900",
     "uuid": "09b092ce-54af-4ece-afa2-f2c7af32008b"
+   },
+   {
+    "name": "Mintybeaver",
+    "uuid": "ca3e4895-eb87-43b4-9cd4-b1cf33e88948"
    }
   ],
   "trusted": [],
@@ -200,6 +224,10 @@
     {
      "name": "thekid900",
      "uuid": "09b092ce-54af-4ece-afa2-f2c7af32008b"
+    },
+    {
+     "name": "Mintybeaver",
+     "uuid": "ca3e4895-eb87-43b4-9cd4-b1cf33e88948"
     }
    ],
    "Builder": [],

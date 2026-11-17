@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Birdsville",
   "uuid": "f3f152dd-08ec-44c4-8bb8-2e4442ee9e60",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 269,
-   "maxTownBlocks": 268,
+   "numTownBlocks": 280,
+   "maxTownBlocks": 316,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 14,
+   "numResidents": 18,
    "numTrusted": 6,
-   "numOutlaws": 115,
-   "balance": 1013.0,
+   "numOutlaws": 113,
+   "balance": 722.0,
    "forSalePrice": null
   },
   "perms": {
@@ -372,12 +372,36 @@
      1100
     ],
     [
+     3209,
+     1097
+    ],
+    [
+     3209,
+     1096
+    ],
+    [
+     3185,
+     1095
+    ],
+    [
      3185,
      1096
     ],
     [
      3185,
      1097
+    ],
+    [
+     3185,
+     1098
+    ],
+    [
+     3185,
+     1093
+    ],
+    [
+     3185,
+     1094
     ],
     [
      3194,
@@ -480,6 +504,18 @@
      1100
     ],
     [
+     3208,
+     1098
+    ],
+    [
+     3208,
+     1097
+    ],
+    [
+     3208,
+     1096
+    ],
+    [
      3200,
      1096
     ],
@@ -597,27 +633,7 @@
     ],
     [
      3188,
-     1102
-    ],
-    [
-     3188,
-     1103
-    ],
-    [
-     3188,
-     1104
-    ],
-    [
-     3188,
      1098
-    ],
-    [
-     3188,
-     1100
-    ],
-    [
-     3188,
-     1101
     ],
     [
      3188,
@@ -760,6 +776,10 @@
      1092
     ],
     [
+     3186,
+     1092
+    ],
+    [
      3198,
      1101
     ],
@@ -804,12 +824,20 @@
      1094
     ],
     [
+     3207,
+     1098
+    ],
+    [
      3198,
      1091
     ],
     [
      3198,
      1092
+    ],
+    [
+     3207,
+     1096
     ],
     [
      3196,
@@ -824,6 +852,22 @@
      1098
     ],
     [
+     3186,
+     1093
+    ],
+    [
+     3187,
+     1091
+    ],
+    [
+     3186,
+     1094
+    ],
+    [
+     3186,
+     1095
+    ],
+    [
      3187,
      1093
     ],
@@ -836,12 +880,12 @@
      1092
     ],
     [
-     3186,
-     1097
-    ],
-    [
      3187,
      1095
+    ],
+    [
+     3186,
+     1097
     ],
     [
      3196,
@@ -1185,10 +1229,6 @@
     "uuid": "a96ca681-a8eb-427f-91e8-052c7e974b6b"
    },
    {
-    "name": "HotChipZ36",
-    "uuid": "e9656736-7205-40bd-a520-326734c2fbe6"
-   },
-   {
     "name": "BowenArrow0",
     "uuid": "21e74d44-1a55-4630-90e8-eb8c960ae61b"
    },
@@ -1231,6 +1271,26 @@
    {
     "name": "DinoKid2748",
     "uuid": "0c431d31-89a3-4f82-9032-c49f9988d8e1"
+   },
+   {
+    "name": "Asnic28",
+    "uuid": "43544e7d-8665-44ab-9254-719b574eb8d4"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   },
+   {
+    "name": "mxnst3r666",
+    "uuid": "178aecaf-978c-4db7-9865-b79961814b19"
+   },
+   {
+    "name": "pocheto",
+    "uuid": "e72c0462-cdaa-4371-bf48-481856d2e1d3"
+   },
+   {
+    "name": "MkitaBnita",
+    "uuid": "99edddb8-6b4c-4a31-a0e0-242da8daa873"
    }
   ],
   "trusted": [
@@ -1409,10 +1469,6 @@
     "uuid": "3fedef8f-cd33-48d5-a68c-0041eaa14b4e"
    },
    {
-    "name": "Sakxoia",
-    "uuid": "96e8a048-7821-4ed5-8ccc-f2aca42a0b3e"
-   },
-   {
     "name": "xMxhan",
     "uuid": "a34e04e1-af44-4707-8e47-4bf5ba1028f5"
    },
@@ -1465,10 +1521,6 @@
     "uuid": "f58e50f3-1189-48c2-ac1c-0cfd80e7f78e"
    },
    {
-    "name": "XukongZhiYing",
-    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
-   },
-   {
     "name": "Vfinestone",
     "uuid": "e319f1e6-1eca-4296-9707-386c460b2703"
    },
@@ -1489,10 +1541,6 @@
     "uuid": "3b887bcb-75f5-44b3-a54f-d0b7a0a1b2cc"
    },
    {
-    "name": "MarkusAntonyus",
-    "uuid": "92aabe90-bfe8-450a-9d58-dbc076d0974a"
-   },
-   {
     "name": "hielluosymp",
     "uuid": "215aca8a-9727-4e4c-89d2-c71f088dc7ea"
    },
@@ -1505,16 +1553,8 @@
     "uuid": "f41d1dcf-2ee0-4bd7-9e48-274e562a29aa"
    },
    {
-    "name": "Heailly",
-    "uuid": "30aba58f-5dd7-42d3-a3e1-3902352a6dca"
-   },
-   {
     "name": "frank25853140",
     "uuid": "d2b07e89-0356-4c5b-9c4a-b3696df22fad"
-   },
-   {
-    "name": "Quilenshou_TW",
-    "uuid": "364c558e-6d2f-4814-98d5-19f1c5a48f3c"
    },
    {
     "name": "May_Fox_",
@@ -1577,6 +1617,10 @@
     "uuid": "f1e3cee1-8abe-4d5b-abff-7ffc1a88f05e"
    },
    {
+    "name": "TitanicTree",
+    "uuid": "51af2076-7795-4f10-8652-702f592a2312"
+   },
+   {
     "name": "redshroomy",
     "uuid": "77366d91-afa1-4cc9-a840-f420a982d4e6"
    },
@@ -1601,7 +1645,7 @@
     "uuid": "d550441b-5fcf-448c-a756-5fa391b89a46"
    },
    {
-    "name": "StellaVI",
+    "name": "StellaTheSpecial",
     "uuid": "a71aaa7d-4126-43db-b67a-601f6675e616"
    },
    {
@@ -1639,6 +1683,10 @@
    {
     "name": "dex247",
     "uuid": "d1f1c606-ecab-4e7b-9fed-bf7d03ad59f5"
+   },
+   {
+    "name": "lobo_morrinhos",
+    "uuid": "ffd73ad7-39c3-4d6b-99c4-7baf155bb905"
    },
    {
     "name": "The_crazy_guy821",
@@ -1717,8 +1765,12 @@
     "uuid": "ac530da0-f2b7-4e96-a2ca-7f78b75505ce"
    },
    {
-    "name": "tqken0ko",
+    "name": "_Takenoko",
     "uuid": "333fa3c8-39d1-4755-a860-ace54bde0909"
+   },
+   {
+    "name": "Pulyx",
+    "uuid": "9e3a40d8-2b72-41a0-8d7c-92f7bfaefee6"
    }
   ],
   "quarters": [

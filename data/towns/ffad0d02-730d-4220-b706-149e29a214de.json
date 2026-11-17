@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "PrincesKingdom",
   "uuid": "ffad0d02-730d-4220-b706-149e29a214de",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 8,
+   "numTownBlocks": 12,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 28.0,
    "forSalePrice": null
   },
   "perms": {
@@ -92,16 +92,32 @@
    ],
    "townBlocks": [
     [
+     3330,
+     974
+    ],
+    [
+     3331,
+     974
+    ],
+    [
+     3329,
+     972
+    ],
+    [
+     3329,
+     971
+    ],
+    [
      3329,
      974
+    ],
+    [
+     3331,
+     972
     ],
     [
      3329,
      973
-    ],
-    [
-     3330,
-     974
     ],
     [
      3331,
@@ -110,10 +126,6 @@
     [
      3330,
      973
-    ],
-    [
-     3331,
-     974
     ],
     [
      3328,
@@ -122,6 +134,10 @@
     [
      3330,
      972
+    ],
+    [
+     3330,
+     971
     ]
    ],
    "worlds": {}

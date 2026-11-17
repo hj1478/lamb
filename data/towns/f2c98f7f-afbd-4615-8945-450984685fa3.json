@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T16:00:18Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Alashkert",
   "uuid": "f2c98f7f-afbd-4615-8945-450984685fa3",
@@ -12,12 +12,12 @@
    "uuid": "c40bfdc1-79c8-405a-a973-eeb1c6f883be"
   },
   "nation": {
-   "name": "Bagratid",
-   "uuid": "11012001-f00b-42e4-851d-d816b278b9a3"
+   "name": "Armenia",
+   "uuid": "74bc99a6-ae26-437e-8b54-ece9465d6198"
   },
   "timestamps": {
    "registered": 1794762255740,
-   "joinedNationAt": 1794827610566,
+   "joinedNationAt": 1794928687854,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 23,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 19.0,
+   "balance": 4.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -92,6 +92,54 @@
    ],
    "townBlocks": [
     [
+     966,
+     -439
+    ],
+    [
+     966,
+     -440
+    ],
+    [
+     964,
+     -441
+    ],
+    [
+     966,
+     -441
+    ],
+    [
+     966,
+     -442
+    ],
+    [
+     964,
+     -440
+    ],
+    [
+     966,
+     -443
+    ],
+    [
+     964,
+     -439
+    ],
+    [
+     961,
+     -439
+    ],
+    [
+     964,
+     -438
+    ],
+    [
+     961,
+     -438
+    ],
+    [
+     961,
+     -437
+    ],
+    [
      967,
      -440
     ],
@@ -108,8 +156,16 @@
      -441
     ],
     [
+     960,
+     -437
+    ],
+    [
      963,
      -438
+    ],
+    [
+     963,
+     -437
     ],
     [
      965,
@@ -132,6 +188,10 @@
      -441
     ],
     [
+     960,
+     -438
+    ],
+    [
      965,
      -440
     ],
@@ -140,11 +200,7 @@
      -439
     ],
     [
-     966,
-     -439
-    ],
-    [
-     966,
+     962,
      -440
     ],
     [
@@ -152,36 +208,12 @@
      -439
     ],
     [
-     966,
-     -441
-    ],
-    [
-     964,
-     -441
-    ],
-    [
      962,
      -438
     ],
     [
-     966,
-     -442
-    ],
-    [
-     964,
-     -440
-    ],
-    [
-     966,
-     -443
-    ],
-    [
-     964,
-     -439
-    ],
-    [
-     964,
-     -438
+     962,
+     -437
     ]
    ],
    "worlds": {}

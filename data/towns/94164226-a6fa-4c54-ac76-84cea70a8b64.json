@@ -1,28 +1,28 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Iluka",
-  "uuid": "e876bc68-3135-43c3-b508-33c4161b0356",
+  "name": "LeonEste_Here",
+  "uuid": "94164226-a6fa-4c54-ac76-84cea70a8b64",
   "board": "/town set board [msg]",
-  "founder": "Echo_Delta7203",
+  "founder": "EmulocoJr_",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Echo_Delta7203",
-   "uuid": "b3494499-04f7-4043-a8a7-5f7c835efefb"
+   "name": "EmulocoJr_",
+   "uuid": "9eb00ffc-f450-4bfa-9568-5622d0be4985"
   },
   "nation": {
-   "name": "Australia",
-   "uuid": "d6c9a7cf-35d6-4b9b-9948-14cc4fa062f4"
+   "name": "European_Union",
+   "uuid": "69454d9d-80de-46e2-a04d-9d8e1ded2bfe"
   },
   "timestamps": {
-   "registered": 1790073064571,
-   "joinedNationAt": 1790073517521,
+   "registered": 1794912570922,
+   "joinedNationAt": 1794912642077,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
-   "isOpen": true,
+   "isPublic": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 3,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,31 +80,48 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 54940.07317159245,
-    "y": 65.0,
-    "z": 19002.75850604013,
-    "pitch": 46.64734,
-    "yaw": -94.213196
+    "x": -663.8525524532768,
+    "y": 69.0,
+    "z": -8181.005105184297,
+    "pitch": 21.60006,
+    "yaw": -157.14519
    },
    "homeBlock": [
-    3433,
-    1187
+    -42,
+    -512
    ],
    "townBlocks": [
     [
-     3433,
-     1187
+     -43,
+     -513
+    ],
+    [
+     -42,
+     -513
+    ],
+    [
+     -42,
+     -512
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Echo_Delta7203",
-    "uuid": "b3494499-04f7-4043-a8a7-5f7c835efefb"
+    "name": "EmulocoJr_",
+    "uuid": "9eb00ffc-f450-4bfa-9568-5622d0be4985"
+   },
+   {
+    "name": "Racsxn",
+    "uuid": "c274f7e2-cd89-4891-9f53-5ffdaa2fd13f"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "Martinoudu62",
+    "uuid": "70e766be-4630-49e2-bf4e-ddfa645fb6cc"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

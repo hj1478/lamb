@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Silistra",
   "uuid": "e1042624-c448-44af-91d2-d3e051ca127d",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 121,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 122,
+   "maxTownBlocks": 160,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 3,
+   "numResidents": 5,
    "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -425,6 +425,10 @@
     ],
     [
      596,
+     -553
+    ],
+    [
+     596,
      -550
     ],
     [
@@ -584,16 +588,29 @@
     "uuid": "737dcb28-c95f-4e5d-9c33-dda26d4c9532"
    },
    {
-    "name": "BertikS",
-    "uuid": "d5f931c6-01f5-4bc7-bb3b-7429cb3d4123"
-   },
-   {
     "name": "MonchoMonchev",
     "uuid": "df1f73da-dd9e-452c-b7d1-87f24f5b2f0b"
+   },
+   {
+    "name": "DoomSupreme",
+    "uuid": "fe80697c-fb0b-4feb-b942-1ebe678acffa"
+   },
+   {
+    "name": "souxlz",
+    "uuid": "dc4e77ce-904b-40d9-81bc-24b458f461b9"
+   },
+   {
+    "name": "itisyegoat1",
+    "uuid": "eef5a94f-c7b7-4227-a57c-885942ac75fe"
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Costel_Biju",
+    "uuid": "30aa709b-965c-48ee-946f-67ab79a386de"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

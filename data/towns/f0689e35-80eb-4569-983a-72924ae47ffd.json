@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Kinshasa",
   "uuid": "f0689e35-80eb-4569-983a-72924ae47ffd",
@@ -21,11 +21,11 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 196,
-   "maxTownBlocks": 196,
+   "maxTownBlocks": 172,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 8,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1836.0,
+   "balance": 2315.0,
    "forSalePrice": null
   },
   "perms": {
@@ -884,10 +884,6 @@
     "uuid": "742c06c9-5c45-43bf-9141-b7fd2241ef03"
    },
    {
-    "name": "underscoreslash",
-    "uuid": "9e3ec7b4-8bc0-4880-8888-c840af4b3889"
-   },
-   {
     "name": "Sir_clay",
     "uuid": "b25b7c18-bf30-4c2e-b466-cbe128f6c41a"
    },
@@ -904,80 +900,40 @@
     "uuid": "09b7c191-51df-4488-8825-f6b016300784"
    },
    {
-    "name": "NeonStarGamer",
-    "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
-   },
-   {
-    "name": "Darklegenderi",
-    "uuid": "1bf14011-1c2d-498d-9bfc-783414409798"
+    "name": "Kubusmonstertje",
+    "uuid": "723a4fed-0e88-4a12-a95c-0dcaf1fefd32"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
-    }
-   ],
-   "Builder": [
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
-    }
-   ],
-   "Police": [
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
-    }
-   ],
+   "Councillor": [],
+   "Builder": [],
+   "Recruiter": [],
+   "Police": [],
    "Tax-exempt": [
     {
      "name": "Sir_clay",
      "uuid": "b25b7c18-bf30-4c2e-b466-cbe128f6c41a"
-    },
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
     }
    ],
    "Treasurer": [
     {
      "name": "Sir_clay",
      "uuid": "b25b7c18-bf30-4c2e-b466-cbe128f6c41a"
-    },
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
     }
    ],
    "Realtor": [
     {
      "name": "Sir_clay",
      "uuid": "b25b7c18-bf30-4c2e-b466-cbe128f6c41a"
-    },
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
     }
    ],
    "Settler": [
     {
      "name": "Sir_clay",
      "uuid": "b25b7c18-bf30-4c2e-b466-cbe128f6c41a"
-    },
-    {
-     "name": "NeonStarGamer",
-     "uuid": "3556784f-dea0-4434-b7bc-c0506d9d0f34"
     }
    ]
   },

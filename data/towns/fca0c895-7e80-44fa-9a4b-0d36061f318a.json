@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Belgrade",
   "uuid": "fca0c895-7e80-44fa-9a4b-0d36061f318a",
@@ -13,11 +13,11 @@
   },
   "nation": {
    "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "uuid": "71eea962-27ea-40e2-b31b-6af80ad6bd7d"
   },
   "timestamps": {
    "registered": 1776453745916,
-   "joinedNationAt": 1792749577555,
+   "joinedNationAt": 1794821420497,
    "ruinedAt": null
   },
   "status": {
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 144,
-   "maxTownBlocks": 180,
+   "maxTownBlocks": 158,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 10,
-   "numTrusted": 3,
-   "numOutlaws": 1,
+   "nationBonus": 50,
+   "numResidents": 9,
+   "numTrusted": 4,
+   "numOutlaws": 3,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -676,10 +676,6 @@
     "uuid": "16a31846-a03a-4717-afbe-0ff504daab62"
    },
    {
-    "name": "tikimiki3",
-    "uuid": "4b09f100-2d2a-49ad-af26-628fb22273aa"
-   },
-   {
     "name": "myboistefan",
     "uuid": "e6c43c5c-1554-4181-9b26-aedf4dbe2476"
    },
@@ -724,22 +720,30 @@
    {
     "name": "BiggieCevap",
     "uuid": "27ed34e6-cced-47a4-bdf0-f9cfac7a974e"
+   },
+   {
+    "name": "Alpajino",
+    "uuid": "54942c49-465c-481e-a8a0-a8e5b6417082"
    }
   ],
   "outlaws": [
    {
     "name": "MustangCricket",
     "uuid": "e554b5a2-2e48-4235-aa54-17e89940bc35"
+   },
+   {
+    "name": "Nf_miracle",
+    "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
+   },
+   {
+    "name": "thebestLung",
+    "uuid": "8b5e39cf-6314-4e12-8adf-79543c1fd240"
    }
   ],
   "quarters": [
    {
     "name": "Apartment #8",
     "uuid": "9254ab7d-b0af-47cd-8d1b-07e5d0347d0e"
-   },
-   {
-    "name": "Apartment #13",
-    "uuid": "28754100-d0ba-4f3d-a1f5-88a3778043a6"
    },
    {
     "name": "Apartment #10",
@@ -796,6 +800,10 @@
    {
     "name": "Apartment #14",
     "uuid": "b218e1d1-b9bd-4281-b602-998b04a13bd1"
+   },
+   {
+    "name": "Apartment #13",
+    "uuid": "28754100-d0ba-4f3d-a1f5-88a3778043a6"
    }
   ],
   "ranks": {

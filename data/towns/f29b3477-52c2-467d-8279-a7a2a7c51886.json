@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "KFC",
   "uuid": "f29b3477-52c2-467d-8279-a7a2a7c51886",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "qianrubiao",
-   "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   "name": "HarbingerOfFire",
+   "uuid": "841e5e23-da14-4bf3-9c1e-575d1d128c46"
   },
   "nation": {
    "name": "Liao",
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -40,9 +40,9 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 44.0,
+   "numTrusted": 13,
+   "numOutlaws": 1,
+   "balance": 34.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 32370.468131609192,
-    "y": 82.0,
-    "z": -7620.176187399758,
-    "pitch": 11.549958,
-    "yaw": 169.28305
+    "x": 32410.59564727452,
+    "y": 77.0,
+    "z": -7631.202496396716,
+    "pitch": 65.399994,
+    "yaw": 88.73296
    },
    "homeBlock": [
-    2023,
+    2025,
     -477
    ],
    "townBlocks": [
@@ -344,12 +344,70 @@
   },
   "residents": [
    {
-    "name": "qianrubiao",
-    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+    "name": "HarbingerOfFire",
+    "uuid": "841e5e23-da14-4bf3-9c1e-575d1d128c46"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "hanbai0W0",
+    "uuid": "def624e6-e578-42ca-b996-648a3ab5db09"
+   },
+   {
+    "name": "sam16784",
+    "uuid": "2fd587ce-049f-4330-b2a2-0119b1d7b0dc"
+   },
+   {
+    "name": "STARDUCK_ZXY",
+    "uuid": "1e0e7c69-0085-4e96-b1db-312cb8c70de2"
+   },
+   {
+    "name": "Hazel_404",
+    "uuid": "00513929-73af-4a71-95b4-7154b840a141"
+   },
+   {
+    "name": "Tiarastarlight",
+    "uuid": "1b8b707c-8657-4804-8f0a-b6bec169c094"
+   },
+   {
+    "name": "Duolingoose",
+    "uuid": "fa2ca402-8897-4d15-b85c-db8c2e300202"
+   },
+   {
+    "name": "Jinvinho",
+    "uuid": "0f8f56d2-34f0-4e72-8da1-92890379ed3f"
+   },
+   {
+    "name": "HarbingerOfFlame",
+    "uuid": "9a1c6b01-d62e-46d8-bf80-95859fca83f0"
+   },
+   {
+    "name": "Link_E_",
+    "uuid": "098b4710-5288-4bf3-b305-dfc9307a5482"
+   },
+   {
+    "name": "qianrubiao",
+    "uuid": "ecfc3835-8dc7-441f-8431-e3396c0c35cf"
+   },
+   {
+    "name": "Callinus",
+    "uuid": "86eea4a1-29bb-4d42-989b-7508df956e6b"
+   },
+   {
+    "name": "ZhenXinZhenYi_",
+    "uuid": "395bec6a-08b7-4e07-9d11-9ea93923c6a1"
+   },
+   {
+    "name": "yizhiyiyiy",
+    "uuid": "266126fd-39ee-4e77-b8ca-f92fd3cfc293"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "JavaCrash",
+    "uuid": "d7ad518c-0296-466a-b375-6e6edb339bee"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

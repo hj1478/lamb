@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Luigiville",
-  "uuid": "ef6f565b-d17a-45c9-a8e8-7a0b59754809",
+  "name": "Pokrovsk",
+  "uuid": "aec5da79-f1ef-4f46-8d94-84afa1921469",
   "board": "/town set board [msg]",
-  "founder": "LuigiIsCool1234",
+  "founder": "ErrorDan",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC94",
-   "uuid": "cc50bd40-eef2-209c-9f28-c03e0658d689"
+   "name": "ErrorDan",
+   "uuid": "6a071f2d-8528-4f30-ac48-32f33ab4486f"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Sakha_Republic",
+   "uuid": "bed1ea0d-bc80-4dd2-bddd-9e88fd7b70f9"
   },
   "timestamps": {
-   "registered": 1794616607650,
-   "joinedNationAt": null,
-   "ruinedAt": 1794617636313
+   "registered": 1794931186016,
+   "joinedNationAt": 1794931195950,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -41325.204588212604,
-    "y": 91.0,
-    "z": -5704.39275433227,
-    "pitch": 19.459862,
-    "yaw": -118.302826
+    "x": 46818.22785978773,
+    "y": 64.0,
+    "z": -15876.804720144075,
+    "pitch": 15.749733,
+    "yaw": -85.60596
    },
    "homeBlock": [
-    -2583,
-    -357
+    2926,
+    -993
    ],
    "townBlocks": [
     [
-     -2583,
-     -357
+     2926,
+     -993
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC94",
-    "uuid": "cc50bd40-eef2-209c-9f28-c03e0658d689"
+    "name": "ErrorDan",
+    "uuid": "6a071f2d-8528-4f30-ac48-32f33ab4486f"
    }
   ],
   "trusted": [],

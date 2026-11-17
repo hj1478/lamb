@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Trikala",
   "uuid": "eec0dca6-5a67-43f8-934c-740676b5e146",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 82,
+   "numTownBlocks": 89,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 9,
    "numOutlaws": 1,
-   "balance": 0.0,
+   "balance": 100.0,
    "forSalePrice": null
   },
   "perms": {
@@ -74,7 +74,7 @@
     "pvp": false,
     "explosion": false,
     "fire": false,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -200,8 +200,24 @@
      -442
     ],
     [
+     485,
+     -445
+    ],
+    [
      482,
      -442
+    ],
+    [
+     485,
+     -444
+    ],
+    [
+     485,
+     -446
+    ],
+    [
+     482,
+     -445
     ],
     [
      484,
@@ -237,11 +253,19 @@
     ],
     [
      484,
+     -446
+    ],
+    [
+     484,
      -444
     ],
     [
      492,
      -426
+    ],
+    [
+     484,
+     -445
     ],
     [
      492,
@@ -385,6 +409,10 @@
     ],
     [
      483,
+     -446
+    ],
+    [
+     483,
      -443
     ],
     [
@@ -438,10 +466,6 @@
     "uuid": "adcd5cb1-844c-416a-a716-a631f30c5002"
    },
    {
-    "name": "_lengyel",
-    "uuid": "9e7d372c-2f88-481b-8c2a-edaaabd38444"
-   },
-   {
     "name": "OnyR_IC",
     "uuid": "091e9f43-ee0d-4892-898c-4ba04adce9c7"
    },
@@ -452,6 +476,10 @@
    {
     "name": "Magmark",
     "uuid": "1020b785-2dd4-499e-9d50-91e5706095dd"
+   },
+   {
+    "name": "RhiaMoriarty",
+    "uuid": "0cd420a0-7253-4267-ac96-4db124df412f"
    },
    {
     "name": "Morf0nios",

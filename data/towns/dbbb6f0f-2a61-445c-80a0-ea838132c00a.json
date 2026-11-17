@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Edington",
   "uuid": "dbbb6f0f-2a61-445c-80a0-ea838132c00a",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 9,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -15254.199120198602,
-    "y": 63.0,
-    "z": 16295.908078747523,
-    "pitch": 13.149869,
-    "yaw": -148.68774
+    "x": -15261.598839309412,
+    "y": 66.0,
+    "z": 16312.567178733274,
+    "pitch": 1.1999627,
+    "yaw": -178.83852
    },
    "homeBlock": [
     -954,
-    1018
+    1019
    ],
    "townBlocks": [
     [
@@ -96,11 +96,11 @@
      1019
     ],
     [
-     -954,
-     1018
+     -952,
+     1017
     ],
     [
-     -952,
+     -954,
      1018
     ],
     [
@@ -108,6 +108,10 @@
      1020
     ],
     [
+     -952,
+     1018
+    ],
+    [
      -953,
      1019
     ],
@@ -118,6 +122,10 @@
     [
      -953,
      1018
+    ],
+    [
+     -953,
+     1017
     ]
    ],
    "worlds": {}
@@ -126,6 +134,14 @@
    {
     "name": "CmdrKrill",
     "uuid": "44640a0f-b1e3-4ee2-b019-39db84cba670"
+   },
+   {
+    "name": "oz_pot",
+    "uuid": "4bd372b9-b123-4349-9dd4-834f13c9a3fe"
+   },
+   {
+    "name": "DOGE_1s_K1ng",
+    "uuid": "db8590bd-d880-4adf-a8c4-5260adce6f8e"
    }
   ],
   "trusted": [],

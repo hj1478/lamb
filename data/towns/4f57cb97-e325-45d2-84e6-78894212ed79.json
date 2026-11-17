@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Trakya",
-  "uuid": "fdd86efe-01fa-4c75-ba89-0fccbd8a1614",
+  "name": "Elaziz",
+  "uuid": "4f57cb97-e325-45d2-84e6-78894212ed79",
   "board": "/town set board [msg]",
-  "founder": "Kuzey1221313",
+  "founder": "OnlyPlen23",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Kuzey1221313",
-   "uuid": "503803b8-d637-4b69-bf15-746d63ee7dc9"
+   "name": "OnlyPlen23",
+   "uuid": "80aabc29-9e3f-4ad5-8db5-237715f83067"
   },
   "nation": {
-   "name": "Turkey",
-   "uuid": "7e3c0759-0013-44c5-86f0-eba5ca731153"
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
-   "registered": 1794080118040,
-   "joinedNationAt": 1794080164529,
+   "registered": 1794910252122,
+   "joinedNationAt": 1794910408371,
    "ruinedAt": null
   },
   "status": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 2,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 1,
+   "nationBonus": 100,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -73,54 +73,63 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 10030.197466761261,
-    "y": 64.0,
-    "z": -7878.47769438011,
-    "pitch": 10.949429,
-    "yaw": 87.18628
+    "x": 14002.12974076092,
+    "y": 86.0,
+    "z": -6521.340752793009,
+    "pitch": 67.64998,
+    "yaw": 53.851074
    },
    "homeBlock": [
-    626,
-    -493
+    875,
+    -408
    ],
    "townBlocks": [
     [
-     626,
-     -493
+     874,
+     -408
     ],
     [
-     626,
-     -494
-    ],
-    [
-     626,
-     -495
-    ],
-    [
-     627,
-     -493
+     875,
+     -408
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Kuzey1221313",
-    "uuid": "503803b8-d637-4b69-bf15-746d63ee7dc9"
+    "name": "OnlyPlen23",
+    "uuid": "80aabc29-9e3f-4ad5-8db5-237715f83067"
+   },
+   {
+    "name": "BayFisne23",
+    "uuid": "a03b7c0f-2e38-4ce8-b87f-09cabb906cc8"
+   },
+   {
+    "name": "Chemsx",
+    "uuid": "948d3cf4-f93d-446a-9970-5d388b4ac981"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "BayFisne23",
+     "uuid": "a03b7c0f-2e38-4ce8-b87f-09cabb906cc8"
+    },
+    {
+     "name": "Chemsx",
+     "uuid": "948d3cf4-f93d-446a-9970-5d388b4ac981"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

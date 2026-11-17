@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Vault",
   "uuid": "ea002d69-add6-4cde-864f-d94342f3a20d",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 16,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 108,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 3,
-   "numTrusted": 1,
+   "numResidents": 4,
+   "numTrusted": 2,
    "numOutlaws": 3,
-   "balance": 13.0,
+   "balance": 3.0,
    "forSalePrice": null
   },
   "perms": {
@@ -164,6 +164,10 @@
     "uuid": "13dd75ac-3b32-4506-bb86-974d852df8ad"
    },
    {
+    "name": "pfpb",
+    "uuid": "a2e8e228-5e54-48ea-8f8a-d5482dfb250d"
+   },
+   {
     "name": "HardDoping",
     "uuid": "67f8ea28-3080-486e-9744-36d97f0612dc"
    },
@@ -176,6 +180,10 @@
    {
     "name": "euez",
     "uuid": "ade9fe9e-99cd-461d-ae5b-d49f217bb68b"
+   },
+   {
+    "name": "pfpb",
+    "uuid": "a2e8e228-5e54-48ea-8f8a-d5482dfb250d"
    }
   ],
   "outlaws": [

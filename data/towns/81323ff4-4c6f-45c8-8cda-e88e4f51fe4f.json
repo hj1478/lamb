@@ -1,48 +1,48 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "BestTown",
-  "uuid": "406d89ac-248a-43bd-a5b0-fbf29e807df7",
+  "name": "Suchdol",
+  "uuid": "81323ff4-4c6f-45c8-8cda-e88e4f51fe4f",
   "board": "/town set board [msg]",
-  "founder": "SchwammGesicht",
+  "founder": "x4qri",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SchwammGesicht",
-   "uuid": "5087162d-d7cb-4c37-952d-dcf77011b036"
+   "name": "x4qri",
+   "uuid": "ecead593-8b83-4105-b020-92e1058d25fd"
   },
   "nation": {
-   "name": "Cariboo",
-   "uuid": "cccc0ccb-8cd8-459b-b073-70f931e58b29"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1788179696452,
-   "joinedNationAt": 1788179721106,
+   "registered": 1794929898911,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 1,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 32.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,48 +80,28 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -42432.43359637552,
-    "y": 76.0,
-    "z": -13846.720442301628,
-    "pitch": 0.00026898086,
-    "yaw": -151.93994
+    "x": 5783.896914350839,
+    "y": 74.0,
+    "z": -11441.512499988079,
+    "pitch": 76.00175,
+    "yaw": -176.91306
    },
    "homeBlock": [
-    -2653,
-    -866
+    361,
+    -716
    ],
    "townBlocks": [
     [
-     -2654,
-     -866
-    ],
-    [
-     -2654,
-     -864
-    ],
-    [
-     -2653,
-     -865
-    ],
-    [
-     -2654,
-     -865
-    ],
-    [
-     -2653,
-     -864
-    ],
-    [
-     -2653,
-     -866
+     361,
+     -716
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "SchwammGesicht",
-    "uuid": "5087162d-d7cb-4c37-952d-dcf77011b036"
+    "name": "x4qri",
+    "uuid": "ecead593-8b83-4105-b020-92e1058d25fd"
    }
   ],
   "trusted": [],

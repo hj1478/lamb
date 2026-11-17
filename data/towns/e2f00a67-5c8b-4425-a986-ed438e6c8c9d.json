@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "PortoBello",
   "uuid": "e2f00a67-5c8b-4425-a986-ed438e6c8c9d",
-  "board": "/town set board [msg]",
+  "board": "Private Island",
   "founder": "Vicensbenlloch",
   "wiki": null,
   "discord": null,
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": false,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 6,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -96,12 +96,20 @@
      881
     ],
     [
+     -3392,
+     880
+    ],
+    [
      -3393,
      882
     ],
     [
      -3393,
      881
+    ],
+    [
+     -3393,
+     880
     ],
     [
      -3392,
@@ -117,7 +125,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Eliplays15",
+    "uuid": "117c7d31-7cc3-4fbd-be64-63f69e97e421"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

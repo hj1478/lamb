@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Chaegyong",
   "uuid": "dfe56fe8-cc68-49e5-8894-2c63869c3a74",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Cammy1505",
-   "uuid": "2c001490-06e6-4a40-ba8e-3f31bae4c661"
+   "name": "NPC61",
+   "uuid": "5b853c3c-6eb0-204a-a6e6-c6eda90f3778"
   },
   "nation": {
-   "name": "DPRK",
-   "uuid": "7e54f1e1-6f72-48e0-81f4-1cc800f35878"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1785444159293,
-   "joinedNationAt": 1785444182708,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794913202079
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 3,
-   "maxTownBlocks": 42,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 30,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -108,8 +108,8 @@
   },
   "residents": [
    {
-    "name": "Cammy1505",
-    "uuid": "2c001490-06e6-4a40-ba8e-3f31bae4c661"
+    "name": "NPC61",
+    "uuid": "5b853c3c-6eb0-204a-a6e6-c6eda90f3778"
    }
   ],
   "trusted": [],

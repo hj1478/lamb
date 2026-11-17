@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-16T16:00:18Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Savoie",
-  "uuid": "d6f669d2-bdd8-484b-a8ff-6c25eeb9fc25",
+  "name": "Springfield_MO",
+  "uuid": "1d3e7272-0a34-44ad-81b6-f4fc188693a3",
   "board": "/town set board [msg]",
-  "founder": "mr_slaber",
+  "founder": "DonniePlayz",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC96",
-   "uuid": "b4327d43-7a99-20da-936b-e99b52b40f44"
+   "name": "DonniePlayz",
+   "uuid": "1e2da0ea-bdc6-4702-9f11-b0f9e582efa9"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1790793089429,
+   "registered": 1794848050012,
    "joinedNationAt": null,
-   "ruinedAt": 1794654001032
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -42,66 +42,66 @@
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 22.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -50200.56161748601,
-    "y": 65.875,
-    "z": 11381.544749014942,
-    "pitch": 57.00028,
-    "yaw": 34.367157
+    "x": -33467.473143917196,
+    "y": 71.0,
+    "z": -5998.518339118368,
+    "pitch": 14.446946,
+    "yaw": 84.354004
    },
    "homeBlock": [
-    -3138,
-    711
+    -2092,
+    -375
    ],
    "townBlocks": [
     [
-     -3138,
-     711
+     -2092,
+     -375
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC96",
-    "uuid": "b4327d43-7a99-20da-936b-e99b52b40f44"
+    "name": "DonniePlayz",
+    "uuid": "1e2da0ea-bdc6-4702-9f11-b0f9e582efa9"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Xiangyang",
   "uuid": "e5021d07-82cb-4288-bad6-bf32e30776b6",
@@ -8,7 +8,7 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_yu_chuan_",
+   "name": "SxkuraNotFound",
    "uuid": "0e7e2f9b-6753-41d0-aa50-551ed2f1d9ac"
   },
   "nation": {
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 2,
    "numTrusted": 6,
    "numOutlaws": 3,
-   "balance": 24.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -112,36 +112,8 @@
      -208
     ],
     [
-     2395,
-     -201
-    ],
-    [
-     2395,
-     -203
-    ],
-    [
-     2395,
-     -202
-    ],
-    [
-     2395,
-     -205
-    ],
-    [
-     2395,
-     -204
-    ],
-    [
      2399,
      -201
-    ],
-    [
-     2395,
-     -207
-    ],
-    [
-     2395,
-     -206
     ],
     [
      2399,
@@ -161,6 +133,10 @@
     ],
     [
      2403,
+     -209
+    ],
+    [
+     2403,
      -208
     ],
     [
@@ -190,6 +166,10 @@
     [
      2407,
      -202
+    ],
+    [
+     2407,
+     -209
     ],
     [
      2407,
@@ -272,8 +252,16 @@
      -208
     ],
     [
+     2402,
+     -209
+    ],
+    [
      2404,
      -205
+    ],
+    [
+     2401,
+     -209
     ],
     [
      2404,
@@ -292,6 +280,10 @@
      -206
     ],
     [
+     2404,
+     -209
+    ],
+    [
      2401,
      -205
     ],
@@ -361,6 +353,10 @@
     ],
     [
      2400,
+     -209
+    ],
+    [
+     2400,
      -207
     ],
     [
@@ -416,6 +412,10 @@
      -206
     ],
     [
+     2406,
+     -209
+    ],
+    [
      2405,
      -205
     ],
@@ -442,6 +442,10 @@
     [
      2406,
      -205
+    ],
+    [
+     2405,
+     -209
     ],
     [
      2406,
@@ -502,17 +506,13 @@
     [
      2397,
      -208
-    ],
-    [
-     2394,
-     -206
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "_yu_chuan_",
+    "name": "SxkuraNotFound",
     "uuid": "0e7e2f9b-6753-41d0-aa50-551ed2f1d9ac"
    },
    {
@@ -716,6 +716,22 @@
    {
     "name": "Bland Quarter",
     "uuid": "aa92a79f-1cf6-44f9-ad5b-2eb16c239453"
+   },
+   {
+    "name": "Perturbing Dwelling",
+    "uuid": "ddfe0df1-aab4-4476-9023-98cbaa235275"
+   },
+   {
+    "name": "Annoying Dwelling",
+    "uuid": "a5d98110-5682-4722-8674-eb45e6491df1"
+   },
+   {
+    "name": "Luxurious Tenement",
+    "uuid": "f5a28185-d27c-41e3-a9a6-85db0f8581f2"
+   },
+   {
+    "name": "Perturbing Suite",
+    "uuid": "50201d60-4b7d-4c73-8425-2ac0ba449ff2"
    }
   ],
   "ranks": {

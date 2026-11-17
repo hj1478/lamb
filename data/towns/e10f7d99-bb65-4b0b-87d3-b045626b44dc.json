@@ -1,34 +1,34 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Yonaguni_Island",
-  "uuid": "22a0d613-ff17-4a69-8208-58971b312adf",
+  "name": "Pikegank",
+  "uuid": "e10f7d99-bb65-4b0b-87d3-b045626b44dc",
   "board": "/town set board [msg]",
-  "founder": "osyondesuyo",
+  "founder": "P1KE__",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC113",
-   "uuid": "4ce9347b-2ab9-20a9-9e72-bf29115a4c46"
+   "name": "P1KE__",
+   "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Chicagoland",
+   "uuid": "b1992b2c-6e25-474a-955a-6b311cdfa39e"
   },
   "timestamps": {
-   "registered": 1794660009713,
-   "joinedNationAt": null,
-   "ruinedAt": 1794660979230
+   "registered": 1794926863389,
+   "joinedNationAt": 1794926878940,
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 1,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,61 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 44076.73738185414,
-    "y": 63.0,
-    "z": -932.1197795615068,
-    "pitch": 39.280914,
-    "yaw": 1.6572877
+    "x": -34103.13314499229,
+    "y": 68.0,
+    "z": -7228.459300473688,
+    "pitch": 11.766661,
+    "yaw": 127.2524
    },
    "homeBlock": [
-    2754,
-    -59
+    -2132,
+    -452
    ],
    "townBlocks": [
     [
-     2754,
-     -59
+     -2132,
+     -452
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC113",
-    "uuid": "4ce9347b-2ab9-20a9-9e72-bf29115a4c46"
+    "name": "P1KE__",
+    "uuid": "7e7a0a71-965d-4b7d-a8d2-ff22bc0de219"
    }
   ],
   "trusted": [],

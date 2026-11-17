@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Chocotown",
   "uuid": "eb6ab5be-e14c-45a6-a6dd-85ba310cbeda",
@@ -12,12 +12,12 @@
    "uuid": "0162cc91-5a49-45bb-a1f0-f8666a61dd01"
   },
   "nation": {
-   "name": "Lanfang",
-   "uuid": "10459185-90a1-4149-8f2f-6a6c260bc95f"
+   "name": "Philippines",
+   "uuid": "299e3699-8959-4dde-ba05-559ebf5c381e"
   },
   "timestamps": {
    "registered": 1784850737414,
-   "joinedNationAt": 1794313312592,
+   "joinedNationAt": 1794358434962,
    "ruinedAt": null
   },
   "status": {
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 104,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 1,
-   "numOutlaws": 3,
-   "balance": 606.0,
+   "numOutlaws": 4,
+   "balance": 791.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      2624,
+     508
+    ],
+    [
+     2624,
      509
     ],
     [
@@ -361,7 +365,15 @@
     ],
     [
      2626,
+     508
+    ],
+    [
+     2626,
      509
+    ],
+    [
+     2625,
+     508
     ],
     [
      2626,
@@ -421,18 +433,6 @@
     ],
     [
      2626,
-     514
-    ],
-    [
-     2620,
-     513
-    ],
-    [
-     2620,
-     512
-    ],
-    [
-     2620,
      514
     ],
     [
@@ -538,9 +538,66 @@
    {
     "name": "SkelkoWeltens",
     "uuid": "0a417920-8bcd-48bf-840a-05fd9206a367"
+   },
+   {
+    "name": "lilbludthetaxman",
+    "uuid": "18301b33-5422-476c-a48a-3df6cf2f2b07"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Welcoming Dwelling",
+    "uuid": "0c543299-099b-422c-b364-c5f358de11e3"
+   },
+   {
+    "name": "Lovely Flat",
+    "uuid": "b71e1847-a027-4cb3-a698-3f0b72648225"
+   },
+   {
+    "name": "Elegant Residence",
+    "uuid": "7e2cdc20-4162-484b-a301-2ad95635f709"
+   },
+   {
+    "name": "Lovely Residence",
+    "uuid": "28176e10-cd05-44a6-9411-cc71616b8af8"
+   },
+   {
+    "name": "Cheerful Residence",
+    "uuid": "96e62ca5-bfb1-41bc-8a66-1c091ecb293a"
+   },
+   {
+    "name": "Lovely Dwelling",
+    "uuid": "882cc43b-ab2d-4b16-94f5-27f9331fc663"
+   },
+   {
+    "name": "Lovely Dwelling",
+    "uuid": "19915741-821c-4599-a685-f7aac70c0ac2"
+   },
+   {
+    "name": "Annoying Quarter",
+    "uuid": "f3ad8d52-f8cb-4748-a507-f0829cadcb9b"
+   },
+   {
+    "name": "Upbeat Property",
+    "uuid": "3fa9ab9c-abd3-4b89-aca5-8f2862c2e84a"
+   },
+   {
+    "name": "Gloomy Residence",
+    "uuid": "7264f085-2d1f-4084-8b79-58a14dffa3c2"
+   },
+   {
+    "name": "Enraging Quarter",
+    "uuid": "82168ea9-5b69-433c-b369-6a8b3eabb82b"
+   },
+   {
+    "name": "Gloomy Property",
+    "uuid": "4ae18281-88f9-4922-9cba-721415fae5f3"
+   },
+   {
+    "name": "Perturbing Quarter",
+    "uuid": "40c2f4d5-dd3a-421d-92cb-3e7a0f985311"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

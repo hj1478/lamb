@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "LongJiang",
   "uuid": "dce1ec63-454e-494d-b274-2af442fc5cf1",
-  "board": "/town set board [msg]",
+  "board": "Longjiang County, Heilongjiang Province",
   "founder": "Haoge_dada",
   "wiki": null,
   "discord": null,
@@ -17,11 +17,11 @@
   },
   "timestamps": {
    "registered": 1794118808088,
-   "joinedNationAt": 1794235953642,
+   "joinedNationAt": 1794746833542,
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 8,
    "maxTownBlocks": 22,
    "bonusBlocks": 0,
    "nationBonus": 10,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -93,11 +93,27 @@
    "townBlocks": [
     [
      2784,
+     -667
+    ],
+    [
+     2784,
      -668
     ],
     [
      2782,
      -668
+    ],
+    [
+     2782,
+     -667
+    ],
+    [
+     2783,
+     -666
+    ],
+    [
+     2783,
+     -667
     ],
     [
      2783,
@@ -116,12 +132,7 @@
     "uuid": "77ff71a1-6bbf-4ec8-8a4f-0402869aae4d"
    }
   ],
-  "trusted": [
-   {
-    "name": "FlutterinBreeze",
-    "uuid": "567d7125-5005-4897-aff3-b47c3d7fec29"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

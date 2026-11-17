@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Batticaloa",
   "uuid": "f8e6b66f-f7e5-42c5-8aec-46ff3b417e08",
-  "board": "/town set board [msg]",
+  "board": "Hello there! This is Batticaloa a really cool town in the Indian Sea!",
   "founder": "Tommydrummer78",
   "wiki": null,
   "discord": null,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 104,
+   "numTownBlocks": 11,
+   "maxTownBlocks": 116,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 2,
-   "numTrusted": 0,
-   "numOutlaws": 0,
-   "balance": 0.0,
+   "numResidents": 3,
+   "numTrusted": 5,
+   "numOutlaws": 7,
+   "balance": 167.0,
    "forSalePrice": null
   },
   "perms": {
@@ -104,8 +104,28 @@
      315
     ],
     [
+     1824,
+     315
+    ],
+    [
      1823,
      314
+    ],
+    [
+     1824,
+     317
+    ],
+    [
+     1824,
+     316
+    ],
+    [
+     1823,
+     317
+    ],
+    [
+     1822,
+     317
     ],
     [
      1823,
@@ -126,10 +146,64 @@
    {
     "name": "TurtleThePro820",
     "uuid": "100361c3-b225-4720-886d-4b26b0ba22c9"
+   },
+   {
+    "name": "numericbugle730",
+    "uuid": "120207de-b784-4ae9-b790-2ec2a0151af1"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "sigma_boii",
+    "uuid": "b5339117-5369-44c8-a436-fe0ac89b2bd0"
+   },
+   {
+    "name": "giacomause2",
+    "uuid": "7cb9f0f2-f048-4899-8ac0-0f94ce5d4e21"
+   },
+   {
+    "name": "leonzombiiey67",
+    "uuid": "c4b75086-8f44-44de-8842-a3f1ea8f5e02"
+   },
+   {
+    "name": "donnystorm",
+    "uuid": "58417f66-f61a-45c2-8583-8932b761c297"
+   },
+   {
+    "name": "Navigation2013",
+    "uuid": "aab815a9-2f51-4b63-b0b5-cfc8eb6c264f"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "0P2W",
+    "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "AtillaKagan",
+    "uuid": "a4ab390c-f057-4c95-a885-e7109053d878"
+   },
+   {
+    "name": "ChrisNoSignal",
+    "uuid": "96692a46-f790-4507-9d3f-ad51d7b5a318"
+   },
+   {
+    "name": "Gustaf_MJR",
+    "uuid": "906007d8-1ece-4bc5-a81b-4221b689abf8"
+   },
+   {
+    "name": "Grenv",
+    "uuid": "09700deb-0f48-48ee-8d1b-41078fa34e28"
+   },
+   {
+    "name": "Taha_AbuObaida",
+    "uuid": "f6b0b186-13a8-42a7-983e-561775f16b52"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

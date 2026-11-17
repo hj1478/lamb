@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Kanata",
   "uuid": "f5cb5442-9ff7-4ffc-bded-ea886723016f",
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -136,7 +136,12 @@
     "uuid": "e2c003e5-51b8-4f54-9c86-adab7c2c52b5"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "EIijah",
+    "uuid": "c0f5aafb-5e79-4439-b5df-75a004dd9746"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

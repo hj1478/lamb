@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T14:42:16Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Lompaketlik",
   "uuid": "dcd5b280-f62c-4bcc-9bf9-91d00e9d7a7a",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 25,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 30,
    "numResidents": 2,
-   "numTrusted": 2,
-   "numOutlaws": 0,
+   "numTrusted": 3,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -73,31 +73,123 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16992.716221979466,
+    "x": 17009.71280692563,
     "y": 90.0,
-    "z": -6136.187141041527,
-    "pitch": 29.100056,
-    "yaw": -163.65689
+    "z": -6137.557971545135,
+    "pitch": 59.250015,
+    "yaw": -111.007324
    },
    "homeBlock": [
-    1062,
+    1063,
     -384
    ],
    "townBlocks": [
+    [
+     1062,
+     -386
+    ],
+    [
+     1061,
+     -387
+    ],
+    [
+     1061,
+     -386
+    ],
+    [
+     1062,
+     -387
+    ],
+    [
+     1061,
+     -385
+    ],
+    [
+     1062,
+     -388
+    ],
+    [
+     1061,
+     -384
+    ],
+    [
+     1064,
+     -384
+    ],
+    [
+     1061,
+     -388
+    ],
+    [
+     1062,
+     -384
+    ],
+    [
+     1062,
+     -385
+    ],
+    [
+     1064,
+     -385
+    ],
+    [
+     1064,
+     -386
+    ],
+    [
+     1064,
+     -387
+    ],
+    [
+     1064,
+     -388
+    ],
     [
      1063,
      -384
     ],
     [
-     1062,
+     1063,
+     -387
+    ],
+    [
+     1063,
+     -388
+    ],
+    [
+     1063,
+     -385
+    ],
+    [
+     1063,
+     -386
+    ],
+    [
+     1065,
+     -386
+    ],
+    [
+     1065,
+     -387
+    ],
+    [
+     1065,
+     -388
+    ],
+    [
+     1065,
      -384
+    ],
+    [
+     1065,
+     -385
     ]
    ],
    "worlds": {}
@@ -120,17 +212,21 @@
    {
     "name": "Tldigi",
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
+   },
+   {
+    "name": "ASKF7Z",
+    "uuid": "1f123f45-2bc6-4eaf-ad82-a4a6b5543541"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Creepcomp",
+    "uuid": "5166a2cf-f371-4f56-ac5b-ec993430a2b9"
+   }
+  ],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "Pipi_0101",
-     "uuid": "444e86ec-524b-4ff6-acbb-9b013c502060"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

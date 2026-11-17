@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Akkad",
   "uuid": "eedbd54c-dca3-426d-a8c2-85e82acbaf68",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 6,
-   "maxTownBlocks": 72,
+   "numTownBlocks": 14,
+   "maxTownBlocks": 128,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 1,
+   "nationBonus": 80,
+   "numResidents": 4,
    "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -104,8 +104,16 @@
      -302
     ],
     [
+     939,
+     -303
+    ],
+    [
      940,
      -302
+    ],
+    [
+     940,
+     -303
     ],
     [
      940,
@@ -114,6 +122,30 @@
     [
      940,
      -301
+    ],
+    [
+     941,
+     -301
+    ],
+    [
+     938,
+     -300
+    ],
+    [
+     941,
+     -302
+    ],
+    [
+     938,
+     -301
+    ],
+    [
+     938,
+     -302
+    ],
+    [
+     938,
+     -303
     ]
    ],
    "worlds": {}
@@ -122,6 +154,18 @@
    {
     "name": "Yawel",
     "uuid": "3a08bda7-d578-4bd4-85aa-c3f4c9fd1a89"
+   },
+   {
+    "name": "BragBot7",
+    "uuid": "bf6d9aba-944c-47c2-acd8-fdaf963c5391"
+   },
+   {
+    "name": "KittyCat0517",
+    "uuid": "69e11540-a900-493a-aa40-fb22ebd1b684"
+   },
+   {
+    "name": "Ejtheboytuba12",
+    "uuid": "53522ea0-9fc9-4ae1-9ad3-fa390560002f"
    }
   ],
   "trusted": [
@@ -130,24 +174,38 @@
     "uuid": "70a6fae8-1262-4c69-b4f7-3155a734b372"
    },
    {
+    "name": "BragBot7",
+    "uuid": "bf6d9aba-944c-47c2-acd8-fdaf963c5391"
+   },
+   {
     "name": "bubbleisblue",
     "uuid": "c47fa605-2549-41f0-8902-5e27a7a721b4"
    },
    {
     "name": "Mine_bee",
     "uuid": "3e729c0e-95ae-4aff-b254-031fdbd05663"
-   },
-   {
-    "name": "Threnodie",
-    "uuid": "dfc5d1e1-e11b-409f-9b38-67f86e2af310"
    }
   ],
   "outlaws": [],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Elegant Suite",
+    "uuid": "8284c10c-3e3e-4480-961f-ea7e0f470f3c"
+   },
+   {
+    "name": "Enraging Flat",
+    "uuid": "6994e5f2-3d1b-48d9-bc45-cd7e16406bf1"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "BragBot7",
+     "uuid": "bf6d9aba-944c-47c2-acd8-fdaf963c5391"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

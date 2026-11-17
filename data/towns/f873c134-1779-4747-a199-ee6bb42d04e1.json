@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Hangzhou",
   "uuid": "f873c134-1779-4747-a199-ee6bb42d04e1",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 167,
-   "maxTownBlocks": 172,
+   "numTownBlocks": 159,
+   "maxTownBlocks": 148,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 6,
-   "numTrusted": 12,
+   "numResidents": 4,
+   "numTrusted": 11,
    "numOutlaws": 0,
-   "balance": 25.0,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -516,20 +516,12 @@
      -203
     ],
     [
-     2697,
-     -197
-    ],
-    [
      2698,
      -203
     ],
     [
      2699,
      -200
-    ],
-    [
-     2697,
-     -196
     ],
     [
      2698,
@@ -564,20 +556,8 @@
      -204
     ],
     [
-     2698,
-     -198
-    ],
-    [
      2699,
      -203
-    ],
-    [
-     2698,
-     -197
-    ],
-    [
-     2698,
-     -196
     ],
     [
      2697,
@@ -596,10 +576,6 @@
      -201
     ],
     [
-     2699,
-     -196
-    ],
-    [
      2697,
      -200
     ],
@@ -608,20 +584,12 @@
      -199
     ],
     [
-     2699,
-     -198
-    ],
-    [
      2697,
      -198
     ],
     [
      2698,
      -204
-    ],
-    [
-     2699,
-     -197
     ],
     [
      2692,
@@ -769,28 +737,20 @@
   },
   "residents": [
    {
-    "name": "tomguo",
-    "uuid": "4e5f2ce0-9cee-4b66-a737-669ba30f39e5"
-   },
-   {
-    "name": "ChiAka2671",
-    "uuid": "06bde9b4-e581-4912-80a8-f7b7f1bd7465"
-   },
-   {
     "name": "Porianne",
     "uuid": "072fe5f7-8064-43ea-ab37-2eaa156586fc"
    },
    {
-    "name": "Rain_Eye",
-    "uuid": "a6f07966-e17d-42ef-bfbb-78bcba5efe4b"
-   },
-   {
-    "name": "Perscapis",
-    "uuid": "1900cb7f-1aba-4cf0-95dd-eaba58146386"
-   },
-   {
     "name": "LongSea",
     "uuid": "292fdf05-45c5-412d-91de-ea545ea33dd0"
+   },
+   {
+    "name": "dongpro",
+    "uuid": "436c6973-cfcd-416e-9e7d-94c5691a0748"
+   },
+   {
+    "name": "Trunppa",
+    "uuid": "b7bfef57-ea51-48e4-aa6f-8d7d7b0a20a1"
    }
   ],
   "trusted": [
@@ -817,10 +777,6 @@
    {
     "name": "Rain_Eye",
     "uuid": "a6f07966-e17d-42ef-bfbb-78bcba5efe4b"
-   },
-   {
-    "name": "alapdq",
-    "uuid": "766dbbfa-0596-48eb-a45e-27d013c64e15"
    },
    {
     "name": "New_year_eve",

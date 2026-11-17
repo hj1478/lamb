@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Skyrim",
   "uuid": "f4c96d91-1595-4d84-8267-871ca30ff4f7",
@@ -13,11 +13,11 @@
   },
   "nation": {
    "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "uuid": "71eea962-27ea-40e2-b31b-6af80ad6bd7d"
   },
   "timestamps": {
    "registered": 1782408301408,
-   "joinedNationAt": 1782413691013,
+   "joinedNationAt": 1794661501453,
    "ruinedAt": null
   },
   "status": {
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 24,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 86,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 3,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -204,7 +204,12 @@
     "uuid": "a152e0b4-f020-4a57-b8a2-bedfd6ddbdd9"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "George_Albert",
+    "uuid": "50c97ab9-e28b-4a8f-82f1-aa8e8220af2d"
+   }
+  ],
   "outlaws": [
    {
     "name": "TheatreArt",

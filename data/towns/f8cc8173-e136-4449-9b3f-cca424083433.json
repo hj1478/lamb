@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Rodrigues",
   "uuid": "f8cc8173-e136-4449-9b3f-cca424083433",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 98,
-   "maxTownBlocks": 116,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 60,
    "numResidents": 3,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 17147.0,
+   "balance": 17832.0,
    "forSalePrice": null
   },
   "perms": {
@@ -492,12 +492,12 @@
     "uuid": "c99d4771-f844-4eff-b2ac-aee086d15bbe"
    },
    {
-    "name": "Rananh2",
-    "uuid": "ed637525-acae-4519-b209-3080a3c31e20"
-   },
-   {
     "name": "BBIC222",
     "uuid": "d93118b8-fb85-40f2-bda6-b6f4448a5cb6"
+   },
+   {
+    "name": "Vetreex",
+    "uuid": "92ca6425-0e27-4f71-8cac-d850fd6ae098"
    }
   ],
   "trusted": [
@@ -557,10 +557,6 @@
     "uuid": "e24b136f-2871-412b-9631-98de43785771"
    },
    {
-    "name": "Floating Apartment 1",
-    "uuid": "ce13f080-ebc2-48c2-afb3-7879a56a46b9"
-   },
-   {
     "name": "Underground House 1 Room 1",
     "uuid": "f7235269-6e72-4be1-bbce-77a890df6274"
    },
@@ -603,6 +599,10 @@
    {
     "name": "Kabancik's apartment",
     "uuid": "f57aa0d5-4243-4e85-8785-48c11ce02a33"
+   },
+   {
+    "name": "Floating Apartment 1",
+    "uuid": "ce13f080-ebc2-48c2-afb3-7879a56a46b9"
    }
   ],
   "ranks": {

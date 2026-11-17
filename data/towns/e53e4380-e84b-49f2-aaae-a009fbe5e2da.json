@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Corum",
   "uuid": "e53e4380-e84b-49f2-aaae-a009fbe5e2da",
@@ -12,12 +12,12 @@
    "uuid": "25521af3-9d24-4f03-a3c0-6c11e8029ddc"
   },
   "nation": {
-   "name": "Georgia",
-   "uuid": "7677a572-ae44-43f3-b701-a6acc4df5bd9"
+   "name": "Turkiye",
+   "uuid": "70f0aa8b-5c2d-4761-bfae-a0925e5e18e2"
   },
   "timestamps": {
    "registered": 1787180309557,
-   "joinedNationAt": 1793478677194,
+   "joinedNationAt": 1794743963573,
    "ruinedAt": null
   },
   "status": {
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 109,
-   "maxTownBlocks": 176,
+   "numTownBlocks": 119,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 100,
    "numResidents": 8,
    "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 102.0,
+   "balance": 52.0,
    "forSalePrice": null
   },
   "perms": {
@@ -216,16 +216,44 @@
      -463
     ],
     [
+     788,
+     -467
+    ],
+    [
+     788,
+     -468
+    ],
+    [
+     788,
+     -469
+    ],
+    [
      775,
      -463
+    ],
+    [
+     787,
+     -468
+    ],
+    [
+     787,
+     -469
     ],
     [
      775,
      -469
     ],
     [
+     787,
+     -466
+    ],
+    [
      775,
      -468
+    ],
+    [
+     787,
+     -467
     ],
     [
      775,
@@ -477,7 +505,19 @@
     ],
     [
      786,
+     -467
+    ],
+    [
+     786,
+     -468
+    ],
+    [
+     786,
      -466
+    ],
+    [
+     786,
+     -469
     ],
     [
      780,
@@ -580,36 +620,11 @@
   ],
   "outlaws": [
    {
-    "name": "ArdaTe_",
+    "name": "_restobej",
     "uuid": "e7cf3684-dfa6-47c4-8593-6e36e1384890"
    }
   ],
-  "quarters": [
-   {
-    "name": "Enraging Apartment",
-    "uuid": "0350a3ae-936e-4fc3-b513-57423ce19b97"
-   },
-   {
-    "name": "Inviting Quarter",
-    "uuid": "f32bcf5e-e5af-4744-8dc6-622885d9584b"
-   },
-   {
-    "name": "Perturbing Apartment",
-    "uuid": "8bac8fe7-6c28-4e82-abbd-8ae190169342"
-   },
-   {
-    "name": "Enraging Dwelling",
-    "uuid": "56d6cc97-ee89-4b4d-9311-d02870bc0872"
-   },
-   {
-    "name": "Gloomy Apartment",
-    "uuid": "1deeb886-761d-4d80-9043-50a376623d22"
-   },
-   {
-    "name": "Cheerful Suite",
-    "uuid": "ee3e5fcf-5872-4ef4-84fc-b0d453936d8f"
-   }
-  ],
+  "quarters": [],
   "ranks": {
    "Councillor": [
     {

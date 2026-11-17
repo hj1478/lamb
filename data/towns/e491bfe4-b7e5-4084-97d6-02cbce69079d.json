@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T13:38:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Chiquitaville",
   "uuid": "e491bfe4-b7e5-4084-97d6-02cbce69079d",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 17,
-   "maxTownBlocks": 34,
+   "numTownBlocks": 58,
+   "maxTownBlocks": 58,
    "bonusBlocks": 0,
    "nationBonus": 10,
-   "numResidents": 2,
-   "numTrusted": 1,
-   "numOutlaws": 0,
-   "balance": 6.0,
+   "numResidents": 4,
+   "numTrusted": 3,
+   "numOutlaws": 3,
+   "balance": 589.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,31 +101,119 @@
     ],
     [
      3749,
+     1018
+    ],
+    [
+     3749,
      1017
     ],
     [
-     3748,
-     1016
+     3749,
+     1019
     ],
     [
      3751,
      1017
     ],
     [
+     3747,
+     1014
+    ],
+    [
+     3752,
+     1013
+    ],
+    [
      3751,
      1016
+    ],
+    [
+     3747,
+     1015
     ],
     [
      3751,
      1015
     ],
     [
+     3751,
+     1014
+    ],
+    [
+     3747,
+     1013
+    ],
+    [
+     3751,
+     1020
+    ],
+    [
+     3751,
+     1019
+    ],
+    [
+     3751,
+     1018
+    ],
+    [
+     3751,
+     1013
+    ],
+    [
+     3747,
+     1018
+    ],
+    [
+     3747,
+     1019
+    ],
+    [
+     3747,
+     1016
+    ],
+    [
+     3747,
+     1017
+    ],
+    [
+     3748,
+     1015
+    ],
+    [
+     3748,
+     1016
+    ],
+    [
+     3748,
+     1013
+    ],
+    [
+     3748,
+     1014
+    ],
+    [
+     3748,
+     1019
+    ],
+    [
      3748,
      1017
     ],
     [
-     3751,
-     1014
+     3748,
+     1018
+    ],
+    [
+     3752,
+     1020
+    ],
+    [
+     3752,
+     1019
+    ],
+    [
+     3752,
+     1018
     ],
     [
      3752,
@@ -142,6 +230,82 @@
     [
      3752,
      1014
+    ],
+    [
+     3749,
+     1014
+    ],
+    [
+     3749,
+     1013
+    ],
+    [
+     3750,
+     1013
+    ],
+    [
+     3754,
+     1013
+    ],
+    [
+     3754,
+     1014
+    ],
+    [
+     3754,
+     1017
+    ],
+    [
+     3754,
+     1018
+    ],
+    [
+     3754,
+     1015
+    ],
+    [
+     3754,
+     1016
+    ],
+    [
+     3753,
+     1017
+    ],
+    [
+     3753,
+     1018
+    ],
+    [
+     3753,
+     1019
+    ],
+    [
+     3753,
+     1020
+    ],
+    [
+     3750,
+     1018
+    ],
+    [
+     3753,
+     1013
+    ],
+    [
+     3753,
+     1014
+    ],
+    [
+     3750,
+     1019
+    ],
+    [
+     3753,
+     1015
+    ],
+    [
+     3753,
+     1016
     ],
     [
      3750,
@@ -170,15 +334,44 @@
    {
     "name": "MBerlin69",
     "uuid": "67c375bf-5437-4cea-b650-7dcca05594d0"
+   },
+   {
+    "name": "kooa",
+    "uuid": "862308b3-57e0-4e26-a03c-051d253f264a"
+   },
+   {
+    "name": "Jashbrown",
+    "uuid": "17764cae-7f25-475e-b8d7-719330090e1f"
    }
   ],
   "trusted": [
+   {
+    "name": "Jashbrown",
+    "uuid": "17764cae-7f25-475e-b8d7-719330090e1f"
+   },
+   {
+    "name": "kooa",
+    "uuid": "862308b3-57e0-4e26-a03c-051d253f264a"
+   },
    {
     "name": "MBerlin69",
     "uuid": "67c375bf-5437-4cea-b650-7dcca05594d0"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "Troopergod8213",
+    "uuid": "a0bf806d-dc95-4396-83c3-ba5287ed508f"
+   },
+   {
+    "name": "CorvoX12",
+    "uuid": "b2037944-e738-4c84-be78-a8ab63c98554"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [

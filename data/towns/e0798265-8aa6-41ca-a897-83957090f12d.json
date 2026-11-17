@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T16:00:18Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Hidden",
   "uuid": "e0798265-8aa6-41ca-a897-83957090f12d",
@@ -29,19 +29,19 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 9,
-   "maxTownBlocks": 66,
+   "numTownBlocks": 10,
+   "maxTownBlocks": 78,
    "bonusBlocks": 0,
    "nationBonus": 30,
-   "numResidents": 3,
+   "numResidents": 4,
    "numTrusted": 3,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -117,6 +117,10 @@
     ],
     [
      2648,
+     466
+    ],
+    [
+     2648,
      467
     ],
     [
@@ -142,6 +146,10 @@
    {
     "name": "Abuociee",
     "uuid": "aab69eef-1033-47c7-a43a-a85eece2188c"
+   },
+   {
+    "name": "Sunkenbog2008",
+    "uuid": "18f6fbd7-10da-46e5-865e-eed018b18cf9"
    }
   ],
   "trusted": [
@@ -158,11 +166,20 @@
     "uuid": "c8347086-9044-4e7b-bf0c-195001da9160"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "RealYoPickk",
+    "uuid": "ebfc92ae-abd7-4371-ac0b-395dc21f6857"
+   }
+  ],
   "quarters": [
    {
     "name": "xcolbys shop",
     "uuid": "d89010fe-7313-442a-b6ac-f1c6d66f0b53"
+   },
+   {
+    "name": "sunkens house",
+    "uuid": "a41f42ac-f1f5-461e-a2e5-20c263088770"
    }
   ],
   "ranks": {

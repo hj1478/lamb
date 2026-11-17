@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Bikanel",
   "uuid": "edc5089f-1a92-4229-a23b-7657798f2924",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Aggelosnts",
-   "uuid": "0ba91a24-25aa-43aa-abb5-1b8cdc141c5d"
+   "name": "NPC25",
+   "uuid": "f8a5118f-3299-20b3-83dd-7b9fbd903432"
   },
   "nation": {
-   "name": "Guayas",
-   "uuid": "ea0aac2f-5575-4369-b974-117ed4e381ae"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778958082661,
-   "joinedNationAt": 1779315213939,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794740401651
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
-   "isCapital": true,
+   "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -40,41 +40,41 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -496,21 +496,20 @@
   },
   "residents": [
    {
-    "name": "Aggelosnts",
-    "uuid": "0ba91a24-25aa-43aa-abb5-1b8cdc141c5d"
+    "name": "NPC25",
+    "uuid": "f8a5118f-3299-20b3-83dd-7b9fbd903432"
    }
   ],
-  "trusted": [
-   {
-    "name": "Aggelosnts",
-    "uuid": "0ba91a24-25aa-43aa-abb5-1b8cdc141c5d"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [
    {
     "name": "Food Dropper",
     "uuid": "7cff1fb0-ba28-4a17-896c-8f557d6e6a32"
+   },
+   {
+    "name": "Upbeat Residence",
+    "uuid": "f0ca772d-b6fc-47d7-b5eb-f2178eedb63d"
    },
    {
     "name": "Elegant Flat",
@@ -523,10 +522,6 @@
    {
     "name": "Luxurious Residence",
     "uuid": "93f9fb67-213c-48bc-9d79-b959db960b52"
-   },
-   {
-    "name": "Upbeat Residence",
-    "uuid": "f0ca772d-b6fc-47d7-b5eb-f2178eedb63d"
    }
   ],
   "ranks": {

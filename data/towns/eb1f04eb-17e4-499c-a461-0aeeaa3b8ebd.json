@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "New_Aegis",
   "uuid": "eb1f04eb-17e4-499c-a461-0aeeaa3b8ebd",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 5,
+   "numTownBlocks": 7,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 1,
-   "balance": 37.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -101,6 +101,10 @@
     ],
     [
      2794,
+     1233
+    ],
+    [
+     2794,
      1234
     ],
     [
@@ -110,6 +114,10 @@
     [
      2792,
      1233
+    ],
+    [
+     2793,
+     1232
     ]
    ],
    "worlds": {}

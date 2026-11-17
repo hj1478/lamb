@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Wulbareg",
-  "uuid": "e22c263c-c08e-40e3-a7a2-792b32d10353",
-  "board": "We will get better",
-  "founder": "SarmaEater",
+  "name": "Lordaeron",
+  "uuid": "e9cef025-2507-42e9-ac91-74717d05e226",
+  "board": "/town set board [msg]",
+  "founder": "Arsrik",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SarmaEater",
-   "uuid": "376bb828-31ee-4b0d-8d62-a34840bf6336"
+   "name": "Arsrik",
+   "uuid": "7333d19b-6a5f-4b5c-b36e-6378a8523a8c"
   },
   "nation": {
-   "name": "Ethiopia",
-   "uuid": "dbc1adc5-dc6d-400f-a1bb-1f9a81fc1da3"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
-   "registered": 1786647155814,
-   "joinedNationAt": 1786647485518,
+   "registered": 1794870705461,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -28,19 +28,19 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 16,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 7,
+   "maxTownBlocks": 24,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 1,
-   "numTrusted": 0,
+   "nationBonus": 0,
+   "numResidents": 2,
+   "numTrusted": 1,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,91 +80,64 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13926.525251870076,
-    "y": 134.0,
-    "z": 4690.466739340366,
-    "pitch": 13.050007,
-    "yaw": 90.067505
+    "x": 10796.180438396046,
+    "y": 63.0,
+    "z": 4952.778480433105,
+    "pitch": 5.5499687,
+    "yaw": -177.73535
    },
    "homeBlock": [
-    870,
-    293
+    674,
+    309
    ],
    "townBlocks": [
     [
-     865,
-     293
+     675,
+     310
     ],
     [
-     866,
-     294
+     675,
+     309
     ],
     [
-     869,
-     294
+     674,
+     310
     ],
     [
-     869,
-     292
+     673,
+     309
     ],
     [
-     870,
-     293
+     674,
+     309
     ],
     [
-     869,
-     293
+     674,
+     308
     ],
     [
-     870,
-     292
-    ],
-    [
-     866,
-     292
-    ],
-    [
-     865,
-     294
-    ],
-    [
-     866,
-     293
-    ],
-    [
-     867,
-     292
-    ],
-    [
-     867,
-     293
-    ],
-    [
-     867,
-     294
-    ],
-    [
-     868,
-     294
-    ],
-    [
-     868,
-     293
-    ],
-    [
-     868,
-     292
+     675,
+     308
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "SarmaEater",
-    "uuid": "376bb828-31ee-4b0d-8d62-a34840bf6336"
+    "name": "Arsrik",
+    "uuid": "7333d19b-6a5f-4b5c-b36e-6378a8523a8c"
+   },
+   {
+    "name": "kerataeltomi",
+    "uuid": "d6e489f8-a05f-403b-9f5e-ea62aa74e3d7"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "kerataeltomi",
+    "uuid": "d6e489f8-a05f-403b-9f5e-ea62aa74e3d7"
+   }
+  ],
   "outlaws": [],
   "quarters": [],
   "ranks": {

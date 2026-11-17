@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Pirin",
-  "uuid": "4565593c-9bf4-4837-8ab3-53090b45575c",
-  "board": "[That mountain vibe]",
-  "founder": "Adeuxan",
+  "name": "Krakow_Nad_Wisla",
+  "uuid": "ff44ddb0-2172-4380-9151-ac4ebec00dec",
+  "board": "its time for a kl revolution",
+  "founder": "Rectro2",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Adeuxan",
-   "uuid": "75a85749-0988-4723-97f3-e6e8d160ef8f"
+   "name": "Rectro2",
+   "uuid": "59b6b57b-3eaa-419d-aad7-1bb675955aac"
   },
   "nation": {
-   "name": "Byzantium",
-   "uuid": "a01948e6-7554-45dc-962a-e15480385558"
+   "name": "SPQR",
+   "uuid": "cf0e5bcd-5f6c-4227-a8ed-e7ef15ea1b0a"
   },
   "timestamps": {
-   "registered": 1790973315042,
-   "joinedNationAt": 1790973417448,
+   "registered": 1794847211726,
+   "joinedNationAt": 1794847231508,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 1,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 17,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 69.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,32 +80,92 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 8387.904731275466,
-    "y": 97.0,
-    "z": -7905.4646703115895,
-    "pitch": 28.649918,
-    "yaw": 60.01791
+    "x": 7127.895301166095,
+    "y": 70.0,
+    "z": -11726.300000011921,
+    "pitch": 36.32251,
+    "yaw": 156.94685
    },
    "homeBlock": [
-    524,
-    -495
+    445,
+    -733
    ],
    "townBlocks": [
     [
-     524,
-     -495
+     445,
+     -733
+    ],
+    [
+     444,
+     -733
+    ],
+    [
+     445,
+     -732
+    ],
+    [
+     444,
+     -732
+    ],
+    [
+     444,
+     -731
+    ],
+    [
+     445,
+     -731
+    ],
+    [
+     444,
+     -730
+    ],
+    [
+     445,
+     -730
+    ],
+    [
+     443,
+     -730
+    ],
+    [
+     443,
+     -731
+    ],
+    [
+     443,
+     -732
+    ],
+    [
+     443,
+     -733
+    ],
+    [
+     447,
+     -730
+    ],
+    [
+     447,
+     -731
+    ],
+    [
+     446,
+     -732
+    ],
+    [
+     446,
+     -731
+    ],
+    [
+     446,
+     -730
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "Adeuxan",
-    "uuid": "75a85749-0988-4723-97f3-e6e8d160ef8f"
-   },
-   {
-    "name": "RealPotatoShark",
-    "uuid": "87e2bb47-9190-4e8f-b997-dcaf7fe195fc"
+    "name": "Rectro2",
+    "uuid": "59b6b57b-3eaa-419d-aad7-1bb675955aac"
    }
   ],
   "trusted": [],
@@ -113,12 +173,7 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "RealPotatoShark",
-     "uuid": "87e2bb47-9190-4e8f-b997-dcaf7fe195fc"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

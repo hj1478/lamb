@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-15T14:03:56Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Ilisu",
-  "uuid": "b21dd902-d10f-46b4-972a-c79f63b7eb6b",
+  "name": "Skjoldvik",
+  "uuid": "a0ac7f1b-3d27-4954-a590-34ef75942276",
   "board": "/town set board [msg]",
-  "founder": "KingElmir",
+  "founder": "nonrealparanoria",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC8",
-   "uuid": "a8cda4a2-ebe1-2090-8935-dc437b8040fc"
+   "name": "nonrealparanoria",
+   "uuid": "1acbc20d-7c2d-4dc5-85d3-aae750f769be"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1776549664348,
+   "registered": 1794849069064,
    "joinedNationAt": null,
-   "ruinedAt": 1794654002678
+   "ruinedAt": null
   },
   "status": {
    "isPublic": false,
    "isOpen": false,
-   "isNeutral": true,
+   "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,117 +35,73 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 143.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 16743.50039208076,
-    "y": 63.0,
-    "z": -7546.850895504264,
-    "pitch": 11.675674,
-    "yaw": -166.15106
+    "x": 1207.582778598174,
+    "y": 65.0,
+    "z": 29719.453884716873,
+    "pitch": 15.416754,
+    "yaw": 178.5456
    },
    "homeBlock": [
-    1046,
-    -472
+    75,
+    1857
    ],
    "townBlocks": [
     [
-     1049,
-     -475
-    ],
-    [
-     1049,
-     -474
-    ],
-    [
-     1049,
-     -477
-    ],
-    [
-     1049,
-     -476
-    ],
-    [
-     1049,
-     -471
-    ],
-    [
-     1047,
-     -472
-    ],
-    [
-     1049,
-     -473
-    ],
-    [
-     1049,
-     -472
-    ],
-    [
-     1048,
-     -475
-    ],
-    [
-     1048,
-     -472
-    ],
-    [
-     1046,
-     -472
-    ],
-    [
-     1048,
-     -476
+     75,
+     1857
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC8",
-    "uuid": "a8cda4a2-ebe1-2090-8935-dc437b8040fc"
+    "name": "nonrealparanoria",
+    "uuid": "1acbc20d-7c2d-4dc5-85d3-aae750f769be"
    }
   ],
   "trusted": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Port_Delta",
   "uuid": "f525010e-1ec3-407d-a805-88f31f1402b0",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DaRealNooby",
-   "uuid": "2cf01a68-353a-4b37-9bcc-ef51d8f7416f"
+   "name": "NPC78",
+   "uuid": "4d3002f1-c023-201a-8999-2a3a6c50586c"
   },
   "nation": {
    "name": null,
@@ -18,7 +18,7 @@
   "timestamps": {
    "registered": 1784407495454,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794740407094
   },
   "status": {
    "isPublic": false,
@@ -26,7 +26,7 @@
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": true,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -49,32 +49,32 @@
    "build": [
     true,
     true,
-    false,
-    false
+    true,
+    true
    ],
    "destroy": [
     true,
     true,
-    false,
-    false
+    true,
+    true
    ],
    "switch": [
     true,
     true,
-    false,
-    false
+    true,
+    true
    ],
    "itemUse": [
     true,
     true,
-    false,
-    false
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -168,8 +168,8 @@
   },
   "residents": [
    {
-    "name": "DaRealNooby",
-    "uuid": "2cf01a68-353a-4b37-9bcc-ef51d8f7416f"
+    "name": "NPC78",
+    "uuid": "4d3002f1-c023-201a-8999-2a3a6c50586c"
    }
   ],
   "trusted": [],

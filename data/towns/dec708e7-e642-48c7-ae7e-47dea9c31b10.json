@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Chindia",
   "uuid": "dec708e7-e642-48c7-ae7e-47dea9c31b10",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Sakxoia",
-   "uuid": "96e8a048-7821-4ed5-8ccc-f2aca42a0b3e"
+   "name": "Chrouched_",
+   "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Venezuela",
+   "uuid": "f4e5bdbd-4e6a-436f-8f32-bc2c2ea08916"
   },
   "timestamps": {
    "registered": 1786487536755,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794654022561,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 17,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 2,
-   "numTrusted": 0,
+   "numResidents": 1,
+   "numTrusted": 1,
    "numOutlaws": 15,
    "balance": 5.0,
    "forSalePrice": null
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": true,
+    "pvp": false,
     "explosion": false,
     "fire": false,
     "mobs": false
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -23887.58048755247,
-    "y": 64.0,
-    "z": 5242.7986771569,
-    "pitch": 4.992456,
-    "yaw": -2.841217
+    "x": -23880.240179920092,
+    "y": 63.0,
+    "z": 5253.877636259959,
+    "pitch": 18.458904,
+    "yaw": 176.09021
    },
    "homeBlock": [
     -1493,
-    327
+    328
    ],
    "townBlocks": [
     [
@@ -169,15 +169,16 @@
   },
   "residents": [
    {
-    "name": "Sakxoia",
-    "uuid": "96e8a048-7821-4ed5-8ccc-f2aca42a0b3e"
-   },
-   {
     "name": "Chrouched_",
     "uuid": "50e2188d-8eb1-430d-bee3-123797c4dac1"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "4m5m",
+    "uuid": "ea44bdee-0233-4837-9b9f-e4d9e6668e58"
+   }
+  ],
   "outlaws": [
    {
     "name": "dedodegorila30cm",

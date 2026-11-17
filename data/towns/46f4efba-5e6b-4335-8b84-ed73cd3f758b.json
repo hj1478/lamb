@@ -1,32 +1,32 @@
 {
- "fetched_at": "2026-11-16T16:00:18Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
-  "name": "Starling_City",
-  "uuid": "c0d2a0bd-874b-4394-9ecd-b663309d534f",
+  "name": "Fort-FenrirFang",
+  "uuid": "46f4efba-5e6b-4335-8b84-ed73cd3f758b",
   "board": "/town set board [msg]",
-  "founder": "Lillwester",
+  "founder": "Phantom202216",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "NPC92",
-   "uuid": "b3b4dc88-132f-2016-a104-740fd447e651"
+   "name": "Phantom202216",
+   "uuid": "ceb244a9-20cc-4abf-b076-a8cc053720c2"
   },
   "nation": {
    "name": null,
    "uuid": null
   },
   "timestamps": {
-   "registered": 1793571514269,
+   "registered": 1794911405214,
    "joinedNationAt": null,
-   "ruinedAt": 1794607974072
+   "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": true,
+   "isRuined": false,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -35,7 +35,7 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 7,
+   "numTownBlocks": 1,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -47,85 +47,61 @@
   },
   "perms": {
    "build": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "destroy": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "switch": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "itemUse": [
-    true,
-    true,
-    true,
-    true
+    false,
+    false,
+    false,
+    false
    ],
    "flags": {
-    "pvp": true,
-    "explosion": true,
-    "fire": true,
-    "mobs": true
+    "pvp": false,
+    "explosion": false,
+    "fire": false,
+    "mobs": false
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -30067.066688075312,
-    "y": 63.0,
-    "z": 3936.529612305344,
-    "pitch": 56.100033,
-    "yaw": -4.5130615
+    "x": -23780.032508708726,
+    "y": 158.0,
+    "z": 19495.688402764674,
+    "pitch": -8.549986,
+    "yaw": -83.12664
    },
    "homeBlock": [
-    -1880,
-    246
+    -1487,
+    1218
    ],
    "townBlocks": [
     [
-     -1880,
-     246
-    ],
-    [
-     -1880,
-     245
-    ],
-    [
-     -1880,
-     247
-    ],
-    [
-     -1880,
-     244
-    ],
-    [
-     -1881,
-     244
-    ],
-    [
-     -1881,
-     247
-    ],
-    [
-     -1881,
-     246
+     -1487,
+     1218
     ]
    ],
    "worlds": {}
   },
   "residents": [
    {
-    "name": "NPC92",
-    "uuid": "b3b4dc88-132f-2016-a104-740fd447e651"
+    "name": "Phantom202216",
+    "uuid": "ceb244a9-20cc-4abf-b076-a8cc053720c2"
    }
   ],
   "trusted": [],

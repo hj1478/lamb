@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T14:59:54Z",
+ "fetched_at": "2026-11-17T16:11:40Z",
  "data": {
   "name": "Santiago",
   "uuid": "ee0d3b1d-106e-4098-8900-ec10edc127bb",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 169,
-   "maxTownBlocks": 184,
+   "numTownBlocks": 172,
+   "maxTownBlocks": 196,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 7,
-   "numTrusted": 11,
+   "numResidents": 8,
+   "numTrusted": 8,
    "numOutlaws": 3,
-   "balance": 691.0,
+   "balance": 795.0,
    "forSalePrice": null
   },
   "perms": {
@@ -468,6 +468,18 @@
      -518
     ],
     [
+     -175,
+     -521
+    ],
+    [
+     -175,
+     -520
+    ],
+    [
+     -175,
+     -522
+    ],
+    [
      -176,
      -517
     ],
@@ -776,8 +788,8 @@
     "uuid": "4321a7d6-22ba-4fcc-aa76-7ca972eb65d6"
    },
    {
-    "name": "hombremaldito",
-    "uuid": "af760ed4-bea5-4309-83af-d4fe26d2cbb9"
+    "name": "TheBestKrzysiek",
+    "uuid": "c62c3f2c-e355-4bd6-b888-02a9c56fd897"
    },
    {
     "name": "TF_MC",
@@ -798,13 +810,13 @@
    {
     "name": "Mgr_Schneider",
     "uuid": "28bbf80e-6be1-417d-b03c-5481ef67521a"
+   },
+   {
+    "name": "1lum1nat1",
+    "uuid": "708a4b44-fccd-40ff-9695-006ffa6f43fd"
    }
   ],
   "trusted": [
-   {
-    "name": "x_omega_",
-    "uuid": "c2947cd2-c8cf-4179-a317-3f4676150665"
-   },
    {
     "name": "Reanger",
     "uuid": "60323dc3-a0f0-4c6d-9d0a-23e58ef66d74"
@@ -822,20 +834,12 @@
     "uuid": "708a4b44-fccd-40ff-9695-006ffa6f43fd"
    },
    {
-    "name": "Moaterowy",
-    "uuid": "7d3b9748-d128-4e77-8d63-655b341c2abd"
-   },
-   {
     "name": "69Dean69",
     "uuid": "dfced161-b2e7-4c50-9391-7487443af58d"
    },
    {
     "name": "Aponovist",
     "uuid": "b157e015-eb08-4030-b00a-56895f18b67a"
-   },
-   {
-    "name": "Lickpl",
-    "uuid": "1a0bd21b-445f-4bb0-b23c-741d265dddde"
    },
    {
     "name": "TikTakMine1992",
@@ -875,10 +879,23 @@
     {
      "name": "C_Michael",
      "uuid": "4321a7d6-22ba-4fcc-aa76-7ca972eb65d6"
+    },
+    {
+     "name": "1lum1nat1",
+     "uuid": "708a4b44-fccd-40ff-9695-006ffa6f43fd"
     }
    ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "majster_1702",
+     "uuid": "891d5199-aec9-45ab-a813-7e50d8c0a4e6"
+    },
+    {
+     "name": "1lum1nat1",
+     "uuid": "708a4b44-fccd-40ff-9695-006ffa6f43fd"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
