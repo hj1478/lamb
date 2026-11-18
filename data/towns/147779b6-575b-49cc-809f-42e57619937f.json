@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Weysengoris",
   "uuid": "147779b6-575b-49cc-809f-42e57619937f",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 148,
-   "maxTownBlocks": 148,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 2,
+   "numResidents": 1,
+   "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 111.0,
    "forSalePrice": null
@@ -690,30 +690,9 @@
    {
     "name": "Mietexx",
     "uuid": "98a579e1-bd79-4063-8967-9a431c822725"
-   },
-   {
-    "name": "FentFoldDaniel54",
-    "uuid": "3b55c47b-f18d-4198-86cf-f71a25a70d0a"
-   },
-   {
-    "name": "Maestro61",
-    "uuid": "38d89459-e87f-4b67-933a-4bab0118c990"
-   },
-   {
-    "name": "__Nemnes",
-    "uuid": "23e28721-2ab5-4231-94be-98834a9dae43"
    }
   ],
-  "trusted": [
-   {
-    "name": "Maestro61",
-    "uuid": "38d89459-e87f-4b67-933a-4bab0118c990"
-   },
-   {
-    "name": "FentFoldDaniel54",
-    "uuid": "3b55c47b-f18d-4198-86cf-f71a25a70d0a"
-   }
-  ],
+  "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "San_Isidro",
   "uuid": "102c1cd7-f344-49a6-b737-25505adb17a0",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "OsBoss16",
-   "uuid": "feb6a698-6f36-4cb4-b71d-3b3b74f60759"
+   "name": "NPC12",
+   "uuid": "f3a7a4e3-4781-2033-bb6e-332155012997"
   },
   "nation": {
-   "name": "Philippines",
-   "uuid": "299e3699-8959-4dde-ba05-559ebf5c381e"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781729455129,
-   "joinedNationAt": 1781729477081,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794913201567
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 40,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -256,8 +256,8 @@
   },
   "residents": [
    {
-    "name": "OsBoss16",
-    "uuid": "feb6a698-6f36-4cb4-b71d-3b3b74f60759"
+    "name": "NPC12",
+    "uuid": "f3a7a4e3-4781-2033-bb6e-332155012997"
    }
   ],
   "trusted": [],

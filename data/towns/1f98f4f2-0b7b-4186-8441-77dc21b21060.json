@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Virje",
   "uuid": "1f98f4f2-0b7b-4186-8441-77dc21b21060",
@@ -22,27 +22,27 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 27,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 31,
+   "maxTownBlocks": 132,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 4,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 170.0,
    "forSalePrice": null
   },
   "perms": {
@@ -62,7 +62,7 @@
     true,
     true,
     true,
-    true
+    false
    ],
    "itemUse": [
     true,
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      375,
+     -589
+    ],
+    [
+     375,
      -591
     ],
     [
@@ -104,12 +108,12 @@
      -593
     ],
     [
-     375,
-     -594
-    ],
-    [
      373,
      -590
+    ],
+    [
+     375,
+     -594
     ],
     [
      373,
@@ -132,6 +136,10 @@
      -594
     ],
     [
+     373,
+     -588
+    ],
+    [
      377,
      -591
     ],
@@ -172,28 +180,36 @@
      -589
     ],
     [
+     374,
+     -590
+    ],
+    [
      376,
      -594
     ],
     [
      374,
-     -590
+     -588
     ],
     [
      372,
      -591
     ],
     [
+     371,
+     -590
+    ],
+    [
      372,
      -590
+    ],
+    [
+     372,
+     -589
     ],
     [
      373,
      -594
-    ],
-    [
-     372,
-     -589
     ],
     [
      373,
@@ -216,8 +232,16 @@
     "uuid": "f1bfdafd-8962-434a-96c2-5bf1be4d3156"
    },
    {
+    "name": "Makoitekako",
+    "uuid": "ab1cde89-c9ed-4ce5-b91e-5b08cc6e2eef"
+   },
+   {
     "name": "david_zube1",
     "uuid": "b37aeb3b-f7db-4444-a79e-df72c9cd46da"
+   },
+   {
+    "name": "Yavuzung",
+    "uuid": "f2665dea-9ec0-4840-aca9-3677ba0dd1f5"
    }
   ],
   "trusted": [],
@@ -245,6 +269,10 @@
     {
      "name": "lspani",
      "uuid": "f1bfdafd-8962-434a-96c2-5bf1be4d3156"
+    },
+    {
+     "name": "david_zube1",
+     "uuid": "b37aeb3b-f7db-4444-a79e-df72c9cd46da"
     }
    ]
   },

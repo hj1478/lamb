@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Czech",
   "uuid": "22008685-dddd-4c6d-b0a5-cbade1f898e7",
@@ -21,7 +21,7 @@
    "ruinedAt": null
   },
   "status": {
-   "isPublic": false,
+   "isPublic": true,
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 108,
-   "maxTownBlocks": 192,
+   "maxTownBlocks": 180,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 11,
-   "numTrusted": 11,
+   "numResidents": 10,
+   "numTrusted": 12,
    "numOutlaws": 0,
-   "balance": 1000.0,
+   "balance": 1087.0,
    "forSalePrice": null
   },
   "perms": {
@@ -528,16 +528,12 @@
   },
   "residents": [
    {
-    "name": "ShadowFace_",
-    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+    "name": "Continentalia",
+    "uuid": "2c1f0bd5-f870-414d-9231-9084b270d6a9"
    },
    {
     "name": "WitcherTess",
     "uuid": "ac0c031a-f26c-4436-a87f-ed2f22170eee"
-   },
-   {
-    "name": "RayOGplayer",
-    "uuid": "e885d6bf-72e8-4022-9061-a368caaf55a6"
    },
    {
     "name": "Matinus3902",
@@ -546,10 +542,6 @@
    {
     "name": "kakabus11",
     "uuid": "67e4f222-d03c-4fda-8f5f-ac33409329a7"
-   },
-   {
-    "name": "zgrlo",
-    "uuid": "3897c704-e703-4ba0-adf0-728b89e8db96"
    },
    {
     "name": "Hack2Craft",
@@ -570,6 +562,10 @@
    {
     "name": "dzounas_99",
     "uuid": "a6f02465-2a73-4ecb-86d3-7bf204e7d063"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
    }
   ],
   "trusted": [
@@ -588,6 +584,10 @@
    {
     "name": "CentralCee_alr",
     "uuid": "1ffad1ec-d113-4a7f-a315-34ed8d3eae28"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
    },
    {
     "name": "manta1108",
@@ -629,10 +629,6 @@
     "uuid": "1b284e5d-c67c-40e5-8b66-d3c8161373c3"
    },
    {
-    "name": "Annoying Tenement",
-    "uuid": "c00fa442-bdec-40b2-a50b-0b1e211f8d12"
-   },
-   {
     "name": "Bland Suite",
     "uuid": "29935a1a-a414-43f7-972c-5ae5dac623ce"
    },
@@ -655,10 +651,6 @@
    {
     "name": "Vault C",
     "uuid": "93ba01ce-1df8-4c3c-8a94-778a3a064b42"
-   },
-   {
-    "name": "Manlys Clay Shop",
-    "uuid": "f7ba5c4c-354a-4e27-8cf6-a64146f03826"
    },
    {
     "name": "Manlys Clay Shop",
@@ -697,12 +689,20 @@
     "uuid": "d5e4b1cd-2ded-492b-9d8b-928820243136"
    },
    {
+    "name": "Vault A",
+    "uuid": "8f838973-27e9-4171-9187-83a52cde39fb"
+   },
+   {
     "name": "Vault B",
     "uuid": "e4c8428e-3690-474b-88b4-43b2a6092f15"
    },
    {
-    "name": "Vault A",
-    "uuid": "8f838973-27e9-4171-9187-83a52cde39fb"
+    "name": "Annoying Tenement",
+    "uuid": "c00fa442-bdec-40b2-a50b-0b1e211f8d12"
+   },
+   {
+    "name": "Manlys Clay Shop",
+    "uuid": "f7ba5c4c-354a-4e27-8cf6-a64146f03826"
    }
   ],
   "ranks": {

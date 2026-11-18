@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "San_Salvador",
   "uuid": "25682f5a-7daa-4669-b410-753a2def14d3",
@@ -12,12 +12,12 @@
    "uuid": "9232aacc-33b9-476b-bf3a-ac22d78003a7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Mexico",
+   "uuid": "ade843b1-ae71-4d08-ac9b-6cd1f7c7495c"
   },
   "timestamps": {
    "registered": 1777306057436,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794838951778,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 66,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 72,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 60,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 218.0,
+   "balance": 258.0,
    "forSalePrice": null
   },
   "perms": {

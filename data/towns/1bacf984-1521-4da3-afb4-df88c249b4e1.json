@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Ipoh",
   "uuid": "1bacf984-1521-4da3-afb4-df88c249b4e1",
@@ -25,7 +25,7 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 22,
+   "numTownBlocks": 21,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 377.0,
+   "balance": 274.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,6 +93,10 @@
    "townBlocks": [
     [
      2256,
+     407
+    ],
+    [
+     2256,
      406
     ],
     [
@@ -109,6 +113,10 @@
     ],
     [
      2256,
+     403
+    ],
+    [
+     2258,
      403
     ],
     [
@@ -149,7 +157,23 @@
     ],
     [
      2257,
+     407
+    ],
+    [
+     2257,
      406
+    ],
+    [
+     2257,
+     403
+    ],
+    [
+     2258,
+     404
+    ],
+    [
+     2258,
+     405
     ]
    ],
    "worlds": {}

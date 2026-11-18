@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Pierre-du-Mont",
   "uuid": "16094f4f-2d1b-48e8-925b-19e82187c993",
@@ -29,13 +29,13 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 12,
+   "numTownBlocks": 16,
    "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     -20,
+     -704
+    ],
+    [
      -21,
      -703
     ],
@@ -112,6 +116,10 @@
      -704
     ],
     [
+     -17,
+     -704
+    ],
+    [
      -20,
      -702
     ],
@@ -126,6 +134,14 @@
     [
      -19,
      -703
+    ],
+    [
+     -17,
+     -705
+    ],
+    [
+     -18,
+     -705
     ],
     [
      -18,

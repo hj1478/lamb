@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Seabreeze",
   "uuid": "224f722b-0dd9-4ca7-a502-6a1cd3dcf16f",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Lunar2",
-   "uuid": "4de899ad-4059-45d7-be17-e97b353db1ca"
+   "name": "fatpotato8",
+   "uuid": "527c99c9-46ab-4a44-bcdf-86eb6f82a288"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Rashidun",
+   "uuid": "64a33fa8-f4c2-4af0-a429-bf02a4714a15"
   },
   "timestamps": {
    "registered": 1784484692567,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794657463698,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -40,7 +40,7 @@
    "bonusBlocks": 0,
    "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 0,
+   "numTrusted": 1,
    "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 13719.467270317278,
+    "x": 13719.694046710725,
     "y": 63.0,
-    "z": -774.486171385621,
-    "pitch": 90.0,
-    "yaw": -1.8244019
+    "z": -774.4315785140903,
+    "pitch": 49.79991,
+    "yaw": 26.55066
    },
    "homeBlock": [
     857,
@@ -116,11 +116,16 @@
   },
   "residents": [
    {
+    "name": "fatpotato8",
+    "uuid": "527c99c9-46ab-4a44-bcdf-86eb6f82a288"
+   }
+  ],
+  "trusted": [
+   {
     "name": "_Lunar2",
     "uuid": "4de899ad-4059-45d7-be17-e97b353db1ca"
    }
   ],
-  "trusted": [],
   "outlaws": [
    {
     "name": "Babytuntun5",

@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
-  "name": "Frogtopia",
+  "name": "Capital_City",
   "uuid": "1250e256-6295-4b1c-b71d-4dff65882168",
   "board": "If you attack this town you will be dead in minutes i swear",
   "founder": "Darth_Frog",
@@ -22,7 +22,7 @@
   },
   "status": {
    "isPublic": true,
-   "isOpen": true,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 15,
-   "maxTownBlocks": 108,
+   "numTownBlocks": 20,
+   "maxTownBlocks": 98,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 50,
    "numResidents": 4,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 0.0,
+   "balance": 27.0,
    "forSalePrice": null
   },
   "perms": {
@@ -120,12 +120,32 @@
      -1202
     ],
     [
+     1296,
+     -1200
+    ],
+    [
      1300,
      -1201
     ],
     [
      1296,
      -1201
+    ],
+    [
+     1300,
+     -1200
+    ],
+    [
+     1299,
+     -1200
+    ],
+    [
+     1301,
+     -1201
+    ],
+    [
+     1301,
+     -1200
     ],
     [
      1299,
@@ -186,6 +206,10 @@
    {
     "name": "Lovely Suite",
     "uuid": "bb8da103-8650-45ff-a67f-f1db05789c42"
+   },
+   {
+    "name": "Dull Apartment",
+    "uuid": "3b1549f3-818f-4e83-a2af-46ff265706b7"
    }
   ],
   "ranks": {

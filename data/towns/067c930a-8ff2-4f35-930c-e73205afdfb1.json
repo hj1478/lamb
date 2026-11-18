@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Banten",
   "uuid": "067c930a-8ff2-4f35-930c-e73205afdfb1",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1777985881530,
-   "joinedNationAt": 1793179548918,
+   "joinedNationAt": 1794645994283,
    "ruinedAt": null
   },
   "status": {
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 54,
+   "numTownBlocks": 57,
    "maxTownBlocks": 42,
    "bonusBlocks": 0,
    "nationBonus": 30,
    "numResidents": 1,
-   "numTrusted": 5,
-   "numOutlaws": 0,
-   "balance": 16.0,
+   "numTrusted": 4,
+   "numOutlaws": 1,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 37882.02694761061,
+    "x": 37899.59743227118,
     "y": 64.0,
-    "z": 10357.62127032244,
-    "pitch": 51.031876,
-    "yaw": -163.5134
+    "z": 10415.362662170966,
+    "pitch": -8.099996,
+    "yaw": 90.73724
    },
    "homeBlock": [
-    2367,
-    647
+    2368,
+    650
    ],
    "townBlocks": [
     [
@@ -236,8 +236,16 @@
      646
     ],
     [
+     2371,
+     650
+    ],
+    [
      2368,
      652
+    ],
+    [
+     2371,
+     651
     ],
     [
      2370,
@@ -246,6 +254,10 @@
     [
      2370,
      647
+    ],
+    [
+     2371,
+     649
     ],
     [
      2369,
@@ -332,13 +344,14 @@
    {
     "name": "BeruangHutan",
     "uuid": "389727af-149f-46c0-891e-eb50210b99ae"
-   },
-   {
-    "name": "MirakelMirai",
-    "uuid": "63e4d3bb-53c9-44bd-ad0c-ddac03b58a80"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

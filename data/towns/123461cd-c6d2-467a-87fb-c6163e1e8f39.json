@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Rihab",
   "uuid": "123461cd-c6d2-467a-87fb-c6163e1e8f39",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
+   "numTownBlocks": 12,
    "maxTownBlocks": 92,
    "bonusBlocks": 0,
    "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 7.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,18 +80,42 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 14527.66831488895,
-    "y": 81.0,
-    "z": -3843.6355382300594,
-    "pitch": 2.1006994,
-    "yaw": 37.220825
+    "x": 14519.889592857035,
+    "y": 82.5,
+    "z": -3828.914866966648,
+    "pitch": 9.450702,
+    "yaw": -109.329254
    },
    "homeBlock": [
     907,
-    -241
+    -240
    ],
    "townBlocks": [
     [
+     905,
+     -240
+    ],
+    [
+     905,
+     -241
+    ],
+    [
+     904,
+     -241
+    ],
+    [
+     904,
+     -242
+    ],
+    [
+     904,
+     -240
+    ],
+    [
+     906,
+     -242
+    ],
+    [
      906,
      -240
     ],
@@ -101,11 +125,19 @@
     ],
     [
      907,
+     -242
+    ],
+    [
+     907,
      -241
     ],
     [
      907,
      -240
+    ],
+    [
+     905,
+     -242
     ]
    ],
    "worlds": {}

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Kalafe",
   "uuid": "0287318d-45d6-4ebd-9b13-296244bd38ca",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,12 +36,12 @@
   },
   "stats": {
    "numTownBlocks": 75,
-   "maxTownBlocks": 84,
+   "maxTownBlocks": 60,
    "bonusBlocks": 0,
    "nationBonus": 0,
-   "numResidents": 7,
+   "numResidents": 5,
    "numTrusted": 2,
-   "numOutlaws": 3,
+   "numOutlaws": 2,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -408,20 +408,12 @@
     "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"
    },
    {
-    "name": "OnlyJam42",
-    "uuid": "030b5c47-abd6-48f7-80b5-80556aaec2da"
+    "name": "tintin111",
+    "uuid": "8c92e21a-8f58-47a3-83c2-ce58399869fa"
    },
    {
     "name": "cheeseeeesit",
     "uuid": "f28dc484-edf1-4e2f-8298-9f1ad67944a3"
-   },
-   {
-    "name": "Aetvs",
-    "uuid": "4c71dd83-41c4-4526-8ab1-1d8e214be605"
-   },
-   {
-    "name": "Kevin_dutz",
-    "uuid": "21ef03a3-e3c7-4ce9-b8db-5cfe7ba6d8b4"
    }
   ],
   "trusted": [
@@ -435,10 +427,6 @@
    }
   ],
   "outlaws": [
-   {
-    "name": "2DFemboy",
-    "uuid": "7566926c-b501-46d2-b0bc-d2ea78d709d1"
-   },
    {
     "name": "oncup",
     "uuid": "3d384795-93eb-48e9-b601-e14bf141df55"
@@ -465,10 +453,6 @@
     {
      "name": "LINNYyln",
      "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"
-    },
-    {
-     "name": "OnlyJam42",
-     "uuid": "030b5c47-abd6-48f7-80b5-80556aaec2da"
     }
    ],
    "Police": [],
@@ -478,20 +462,12 @@
     {
      "name": "LINNYyln",
      "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"
-    },
-    {
-     "name": "OnlyJam42",
-     "uuid": "030b5c47-abd6-48f7-80b5-80556aaec2da"
     }
    ],
    "Settler": [
     {
      "name": "LINNYyln",
      "uuid": "4791dc7e-a388-4659-bd6c-d86648d00d57"
-    },
-    {
-     "name": "OnlyJam42",
-     "uuid": "030b5c47-abd6-48f7-80b5-80556aaec2da"
     }
    ]
   },

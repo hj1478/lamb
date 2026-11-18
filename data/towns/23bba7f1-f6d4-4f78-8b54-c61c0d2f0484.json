@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Altona",
   "uuid": "23bba7f1-f6d4-4f78-8b54-c61c0d2f0484",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 136,
-   "maxTownBlocks": 292,
+   "numTownBlocks": 149,
+   "maxTownBlocks": 304,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 16,
+   "numResidents": 17,
    "numTrusted": 6,
    "numOutlaws": 2,
-   "balance": 24.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -92,6 +92,10 @@
    ],
    "townBlocks": [
     [
+     208,
+     -867
+    ],
+    [
      209,
      -873
     ],
@@ -102,10 +106,6 @@
     [
      209,
      -872
-    ],
-    [
-     198,
-     -873
     ],
     [
      208,
@@ -293,6 +293,10 @@
     ],
     [
      197,
+     -868
+    ],
+    [
+     197,
      -867
     ],
     [
@@ -428,12 +432,12 @@
      -872
     ],
     [
-     204,
-     -871
-    ],
-    [
      202,
      -863
+    ],
+    [
+     204,
+     -871
     ],
     [
      204,
@@ -548,6 +552,22 @@
      -869
     ],
     [
+     211,
+     -870
+    ],
+    [
+     211,
+     -871
+    ],
+    [
+     211,
+     -872
+    ],
+    [
+     211,
+     -873
+    ],
+    [
      203,
      -864
     ],
@@ -612,16 +632,48 @@
      -865
     ],
     [
+     203,
+     -863
+    ],
+    [
      205,
      -873
     ],
     [
-     203,
-     -863
+     212,
+     -869
+    ],
+    [
+     212,
+     -868
+    ],
+    [
+     212,
+     -873
+    ],
+    [
+     212,
+     -872
+    ],
+    [
+     212,
+     -871
+    ],
+    [
+     212,
+     -870
     ],
     [
      196,
      -864
+    ],
+    [
+     196,
+     -863
+    ],
+    [
+     196,
+     -868
     ],
     [
      196,
@@ -688,10 +740,6 @@
     "uuid": "a5821043-aebb-41d6-b876-9a367b5fe6e1"
    },
    {
-    "name": "bdk111",
-    "uuid": "68809163-ca7e-42ac-a159-9c4dc335887b"
-   },
-   {
     "name": "mcdookthe1",
     "uuid": "e9b7cec0-f77b-4958-af53-b2c5256cdf24"
    },
@@ -702,6 +750,14 @@
    {
     "name": "ThirstyIllegal",
     "uuid": "09e5b7a8-6ec9-4109-acb6-781b8a9c7c65"
+   },
+   {
+    "name": "iIlluminatiduck",
+    "uuid": "5468bff5-5c54-4df1-844e-ba2194d70e08"
+   },
+   {
+    "name": "grogulikesfart",
+    "uuid": "6ffaed66-2b5e-4b2f-b267-db2dcdb5136e"
    }
   ],
   "trusted": [

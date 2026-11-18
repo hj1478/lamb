@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Bair",
   "uuid": "1b48011a-ffca-4035-ba3e-9cc9af6ce423",
@@ -40,8 +40,8 @@
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
-   "numTrusted": 0,
-   "numOutlaws": 0,
+   "numTrusted": 1,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -136,8 +136,18 @@
     "uuid": "bbb57b0e-8319-45cf-b982-980a8c91d31c"
    }
   ],
-  "trusted": [],
-  "outlaws": [],
+  "trusted": [
+   {
+    "name": "bebbie050",
+    "uuid": "45b081d9-62f8-488e-bf75-9e7b5484e5d4"
+   }
+  ],
+  "outlaws": [
+   {
+    "name": "000000000000001",
+    "uuid": "c8937e07-02c2-496b-be0c-54b0f102ec11"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

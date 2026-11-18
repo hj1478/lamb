@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T14:03:56Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Toto",
   "uuid": "01499a46-c799-45ea-b6f7-15c4c1241739",
@@ -35,13 +35,13 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
+   "numTownBlocks": 7,
    "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
-   "numOutlaws": 0,
+   "numOutlaws": 1,
    "balance": 0.0,
    "forSalePrice": null
   },
@@ -93,11 +93,27 @@
    "townBlocks": [
     [
      452,
+     300
+    ],
+    [
+     452,
      301
     ],
     [
      452,
      302
+    ],
+    [
+     451,
+     302
+    ],
+    [
+     454,
+     301
+    ],
+    [
+     451,
+     301
     ],
     [
      453,
@@ -113,7 +129,12 @@
    }
   ],
   "trusted": [],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [],

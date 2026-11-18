@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Tottori",
   "uuid": "2223fb10-52ab-45fa-b684-98ae26397dd5",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 91,
-   "maxTownBlocks": 212,
+   "numTownBlocks": 92,
+   "maxTownBlocks": 188,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 11,
-   "numTrusted": 10,
-   "numOutlaws": 2,
-   "balance": 95.0,
+   "numResidents": 9,
+   "numTrusted": 13,
+   "numOutlaws": 4,
+   "balance": 45.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 48109.68151198818,
+    "x": 48086.64215004794,
     "y": 63.0,
-    "z": -5070.487784474424,
-    "pitch": 24.254902,
-    "yaw": -175.49121
+    "z": -5050.689653028597,
+    "pitch": 13.046893,
+    "yaw": 177.43243
    },
    "homeBlock": [
-    3006,
-    -317
+    3005,
+    -316
    ],
    "townBlocks": [
     [
@@ -288,6 +288,10 @@
      -322
     ],
     [
+     3003,
+     -322
+    ],
+    [
      3010,
      -323
     ],
@@ -460,18 +464,6 @@
   },
   "residents": [
    {
-    "name": "osyondesuyo",
-    "uuid": "a93eb935-9baf-4bac-8062-4541e341ee80"
-   },
-   {
-    "name": "rikkyunboy",
-    "uuid": "7e3589d1-ecc1-452d-a4de-465990524020"
-   },
-   {
-    "name": "Bartx54",
-    "uuid": "b09de477-9d53-485d-8bed-d40f2108e135"
-   },
-   {
     "name": "adranimal1",
     "uuid": "34342355-e76b-42b6-98ec-cf4112469788"
    },
@@ -482,10 +474,6 @@
    {
     "name": "DxprxssSoul",
     "uuid": "c7c635b0-16a5-46ff-9c94-0828cc07bfe4"
-   },
-   {
-    "name": "TheTaxxCollector",
-    "uuid": "4e9dc0cd-5fb0-41ea-9196-d4f40d9789dd"
    },
    {
     "name": "inkyisoffline",
@@ -502,12 +490,20 @@
    {
     "name": "kuroneko8888",
     "uuid": "d6933b1f-1fbc-4fce-88dd-9a5390befd27"
+   },
+   {
+    "name": "osyondesuyo",
+    "uuid": "a93eb935-9baf-4bac-8062-4541e341ee80"
+   },
+   {
+    "name": "keishi_cayce",
+    "uuid": "957db715-b95e-4e42-8598-2e147891d5a7"
    }
   ],
   "trusted": [
    {
-    "name": "channaga317",
-    "uuid": "1b2b25ac-5908-4a73-8527-09e06b0d77d0"
+    "name": "toritorigames",
+    "uuid": "88ffa076-f7c8-4015-b1dd-766eae76c958"
    },
    {
     "name": "osyondesuyo",
@@ -530,20 +526,32 @@
     "uuid": "46ada708-6048-4a20-9e62-b76b3ff7ef26"
    },
    {
+    "name": "KMAngelMC",
+    "uuid": "99e08509-6e12-4f4c-a8fa-c1986f0dab8e"
+   },
+   {
     "name": "hacchoumiso",
     "uuid": "c51b58a7-65e4-41e9-b044-d6e8df546dbe"
+   },
+   {
+    "name": "wanwanfan",
+    "uuid": "0a2477b5-f30d-4f20-a295-d5e79b7e8b09"
+   },
+   {
+    "name": "Ahou_gahaha",
+    "uuid": "a2b36479-e0b9-4b8e-a693-bd8932dd4841"
    },
    {
     "name": "KOBAYASHIJAPAN",
     "uuid": "65cab124-7219-4600-9ee8-dd40ce0917ca"
    },
    {
-    "name": "f1oR4s",
-    "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
-   },
-   {
     "name": "NatDesugaNanika",
     "uuid": "81bf02bb-1e42-4ea3-98b5-b4e27ea795eb"
+   },
+   {
+    "name": "f1oR4s",
+    "uuid": "8cf4d069-cd8c-4384-b8d3-f346ccdd2563"
    }
   ],
   "outlaws": [
@@ -554,6 +562,14 @@
    {
     "name": "WHOASKEDW",
     "uuid": "b21da191-becc-4530-96c1-3344abdf5ba4"
+   },
+   {
+    "name": "channaga317",
+    "uuid": "1b2b25ac-5908-4a73-8527-09e06b0d77d0"
+   },
+   {
+    "name": "mitoki_Spark",
+    "uuid": "797c62c0-99d6-4b73-a4fd-7957fb86484a"
    }
   ],
   "quarters": [],
@@ -564,12 +580,7 @@
      "uuid": "bb31a245-090b-435e-b6c2-79a1b0f5e5d8"
     }
    ],
-   "Builder": [
-    {
-     "name": "rikkyunboy",
-     "uuid": "7e3589d1-ecc1-452d-a4de-465990524020"
-    }
-   ],
+   "Builder": [],
    "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],

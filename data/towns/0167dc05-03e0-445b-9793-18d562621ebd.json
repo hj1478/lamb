@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Zlin",
   "uuid": "0167dc05-03e0-445b-9793-18d562621ebd",
-  "board": "Join for free loot and house!",
+  "board": "Tomas",
   "founder": "Azor321",
   "wiki": null,
   "discord": null,
@@ -12,12 +12,12 @@
    "uuid": "791a21bb-1775-463c-b734-7a69c18dc152"
   },
   "nation": {
-   "name": "Czech_Republic",
-   "uuid": "ed9085a5-a448-40bf-adb9-0df63187febb"
+   "name": "Netherlands",
+   "uuid": "27106d3c-cf85-451b-bf8f-deff46b288b1"
   },
   "timestamps": {
    "registered": 1788259963318,
-   "joinedNationAt": 1788259999168,
+   "joinedNationAt": 1794845989014,
    "ruinedAt": null
   },
   "status": {
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 108,
-   "maxTownBlocks": 96,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
-   "nationBonus": 60,
-   "numResidents": 3,
+   "nationBonus": 100,
+   "numResidents": 2,
    "numTrusted": 4,
-   "numOutlaws": 13,
-   "balance": 2.0,
+   "numOutlaws": 20,
+   "balance": 52.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6400.225304550051,
-    "y": 184.0,
-    "z": -11227.912747489294,
-    "pitch": 10.200032,
-    "yaw": 92.75604
+    "x": 6394.871075295983,
+    "y": 72.9375,
+    "z": -11265.61239648897,
+    "pitch": 4.799989,
+    "yaw": 178.40576
    },
    "homeBlock": [
-    400,
-    -702
+    399,
+    -705
    ],
    "townBlocks": [
     [
@@ -528,10 +528,6 @@
   },
   "residents": [
    {
-    "name": "Mleczney_",
-    "uuid": "5543e054-2b75-4811-814f-5f47198882f8"
-   },
-   {
     "name": "Azor321",
     "uuid": "791a21bb-1775-463c-b734-7a69c18dc152"
    },
@@ -550,8 +546,8 @@
     "uuid": "4275d88e-dc68-49af-8a47-2603da0a35f1"
    },
    {
-    "name": "dinnerbone37665",
-    "uuid": "8140fc2a-37a8-4ed4-ba15-47e4aecf767c"
+    "name": "Itz_Vintry_YT",
+    "uuid": "401f1d98-0647-4a2f-bced-885da9ad0236"
    },
    {
     "name": "Azor321",
@@ -570,10 +566,6 @@
    {
     "name": "MalMeteor",
     "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
-   },
-   {
-    "name": "void_master_89",
-    "uuid": "65455ff8-767e-46ac-b829-7142e41b35a1"
    },
    {
     "name": "Tldigi",
@@ -610,6 +602,38 @@
    {
     "name": "Saif123456788",
     "uuid": "35815736-8c09-4925-a510-8e8b94dbf3d6"
+   },
+   {
+    "name": "Tomino1CZ",
+    "uuid": "d2d70c18-19c3-440e-9dcf-6bd72f1d3b05"
+   },
+   {
+    "name": "Masterplan28",
+    "uuid": "2dde1485-ee7f-40d6-ba04-57b32468eb1f"
+   },
+   {
+    "name": "Straw_inturtles",
+    "uuid": "a1964fa8-94f3-4f6f-a43f-5d78a6db93c1"
+   },
+   {
+    "name": "MattieMirakel",
+    "uuid": "502f8595-d724-4d43-b9c0-79950281abae"
+   },
+   {
+    "name": "SgtRory",
+    "uuid": "f3b9d191-2c08-49b1-aee9-2b5c75b0a5b1"
+   },
+   {
+    "name": "Dan_Sher",
+    "uuid": "cb0c76b0-a5c2-43e7-8a09-857e3cb1067a"
+   },
+   {
+    "name": "TheMagicTom",
+    "uuid": "bc309742-eb5c-4f6f-aeca-0e19dee43ee6"
+   },
+   {
+    "name": "CowCupCake",
+    "uuid": "25ca9085-df1f-4d26-9408-2b94f3e6db83"
    }
   ],
   "quarters": [],

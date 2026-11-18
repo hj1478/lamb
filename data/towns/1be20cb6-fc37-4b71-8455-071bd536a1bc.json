@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Malatya",
   "uuid": "1be20cb6-fc37-4b71-8455-071bd536a1bc",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 124,
-   "maxTownBlocks": 124,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
+   "numResidents": 1,
    "numTrusted": 6,
    "numOutlaws": 3,
    "balance": 1.0,
@@ -594,10 +594,6 @@
    {
     "name": "Diferwave_",
     "uuid": "fe160c7b-a16a-4777-ab47-4a2e92bda13b"
-   },
-   {
-    "name": "Fulminata_",
-    "uuid": "20041f99-dcd6-4fe7-8829-6a675ed30213"
    }
   ],
   "trusted": [

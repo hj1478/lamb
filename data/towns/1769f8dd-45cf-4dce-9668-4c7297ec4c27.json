@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Minya",
   "uuid": "1769f8dd-45cf-4dce-9668-4c7297ec4c27",
-  "board": "Minya",
+  "board": "Welcome to Minya",
   "founder": "MalekMG",
   "wiki": null,
   "discord": null,
@@ -29,7 +29,7 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
@@ -42,7 +42,7 @@
    "numResidents": 42,
    "numTrusted": 3,
    "numOutlaws": 1,
-   "balance": 66.0,
+   "balance": 16.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 11046.546059369268,
-    "y": 55.0,
-    "z": -2221.699999988079,
-    "pitch": 9.096713,
-    "yaw": 1.4683228
+    "x": 11105.995326717137,
+    "y": 64.0,
+    "z": -2258.4081813361086,
+    "pitch": 2.7866845,
+    "yaw": 0.004183762
    },
    "homeBlock": [
-    690,
-    -139
+    694,
+    -142
    ],
    "townBlocks": [
     [
@@ -664,12 +664,12 @@
     "uuid": "d1d83125-b964-4a17-8d71-51801fb09952"
    },
    {
-    "name": "LunarShade86dLNR",
-    "uuid": "76aef469-2eaf-4b2c-a2c9-9a7d3389e618"
-   },
-   {
     "name": "kareemx4",
     "uuid": "38c5c5a4-b660-4b3f-bc43-6c60ee35bf52"
+   },
+   {
+    "name": "v0ltix_x",
+    "uuid": "230233a6-5a01-4778-83ec-fcb961845cd5"
    }
   ],
   "trusted": [
@@ -850,10 +850,6 @@
     "uuid": "2186949f-3094-419c-a4a2-1921efe481e3"
    },
    {
-    "name": "Dull Residence",
-    "uuid": "091b2778-febf-4060-83e6-f0e77347fa97"
-   },
-   {
     "name": "Perturbing Residence",
     "uuid": "0a8b15d6-2d34-4d9b-ae15-02705cfc5624"
    },
@@ -896,10 +892,6 @@
    {
     "name": "Inconvenient Apartment",
     "uuid": "260f7673-6eb1-49bf-9eb5-0567d015cde2"
-   },
-   {
-    "name": "Enraging Quarter",
-    "uuid": "e3865965-1a9c-4cd3-9502-f9b245d68b6f"
    },
    {
     "name": "Inconvenient Residence",
@@ -950,10 +942,6 @@
     "uuid": "6b799cd6-0e21-4ebc-83d8-8ad0b0716bed"
    },
    {
-    "name": "Inconvenient Flat",
-    "uuid": "a284c5ad-33a9-4e9a-a521-47af351fc463"
-   },
-   {
     "name": "Inviting Suite",
     "uuid": "f3645445-cc85-49e8-b1a4-5f93ed571ca1"
    },
@@ -966,6 +954,10 @@
     "uuid": "711e228f-5d3c-4f11-92fc-bbe0dc76a571"
    },
    {
+    "name": "Perturbing Suite",
+    "uuid": "4f76b5fd-05f7-40d6-ad88-edce3ac425f9"
+   },
+   {
     "name": "Stylish Flat",
     "uuid": "dc5da4c4-8bf0-4247-9faa-82276c75836d"
    },
@@ -974,8 +966,44 @@
     "uuid": "4764884f-4e22-4bdc-a289-21233492c27d"
    },
    {
-    "name": "Perturbing Suite",
-    "uuid": "4f76b5fd-05f7-40d6-ad88-edce3ac425f9"
+    "name": "Dull Residence",
+    "uuid": "091b2778-febf-4060-83e6-f0e77347fa97"
+   },
+   {
+    "name": "Cathedral Entrance",
+    "uuid": "e3865965-1a9c-4cd3-9502-f9b245d68b6f"
+   },
+   {
+    "name": "Entrance",
+    "uuid": "0ce51513-dd98-4eb0-b847-814d4332a113"
+   },
+   {
+    "name": "Entrance",
+    "uuid": "ce6cb3f0-8bca-46ed-80db-87941d4f862d"
+   },
+   {
+    "name": "Nubia Embassy",
+    "uuid": "a3a82055-35cb-43bd-92ad-ca34ba558ce5"
+   },
+   {
+    "name": "Entrance",
+    "uuid": "87c74797-c3fd-43f9-841d-69c3ba70bae6"
+   },
+   {
+    "name": "Inconvenient Flat",
+    "uuid": "a284c5ad-33a9-4e9a-a521-47af351fc463"
+   },
+   {
+    "name": "Sumer Embassy",
+    "uuid": "fdee80b1-db8a-4cca-8bed-b4f750ec5984"
+   },
+   {
+    "name": "Entrance",
+    "uuid": "363b0a36-b643-486e-8daa-e6d1e858ff88"
+   },
+   {
+    "name": "Entrance",
+    "uuid": "c86f92e3-9151-438c-b0e6-1dc844719475"
    },
    {
     "name": "Elegant Residence",

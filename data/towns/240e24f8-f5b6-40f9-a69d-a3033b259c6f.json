@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Baniachong",
   "uuid": "240e24f8-f5b6-40f9-a69d-a3033b259c6f",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DJ_Reaper77",
-   "uuid": "8857e380-601e-438b-bc34-060b77750003"
+   "name": "NPC88",
+   "uuid": "568773e2-b9a0-2083-994f-acf85c2cd15a"
   },
   "nation": {
-   "name": "Narmada",
-   "uuid": "b7c2daa7-b102-468a-9492-9dedaa96d873"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1781222152111,
-   "joinedNationAt": 1781222162861,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794826890597
   },
   "status": {
-   "isPublic": true,
-   "isOpen": true,
+   "isPublic": false,
+   "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,45 +36,45 @@
   },
   "stats": {
    "numTownBlocks": 48,
-   "maxTownBlocks": 92,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 3,
+   "numTrusted": 2,
    "numOutlaws": 0,
-   "balance": 1.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
+    "pvp": true,
+    "explosion": true,
     "fire": true,
-    "mobs": false
+    "mobs": true
    }
   },
   "coordinates": {
@@ -288,18 +288,14 @@
   },
   "residents": [
    {
-    "name": "DJ_Reaper77",
-    "uuid": "8857e380-601e-438b-bc34-060b77750003"
+    "name": "NPC88",
+    "uuid": "568773e2-b9a0-2083-994f-acf85c2cd15a"
    }
   ],
   "trusted": [
    {
     "name": "gangster1221",
     "uuid": "c29a9650-59ff-4860-83ac-102856ba2b81"
-   },
-   {
-    "name": "DJ_Reaper77",
-    "uuid": "8857e380-601e-438b-bc34-060b77750003"
    },
    {
     "name": "AverageHuman767",
@@ -309,12 +305,7 @@
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "DJ_Reaper77",
-     "uuid": "8857e380-601e-438b-bc34-060b77750003"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Derby_City",
   "uuid": "1a38737f-890e-4c6d-b075-5bc8c693fdf9",
@@ -17,7 +17,7 @@
   },
   "timestamps": {
    "registered": 1788711147126,
-   "joinedNationAt": 1792332455661,
+   "joinedNationAt": 1794859365663,
    "ruinedAt": null
   },
   "status": {
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 100,
-   "maxTownBlocks": 112,
+   "numTownBlocks": 110,
+   "maxTownBlocks": 124,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 1,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -588.582383503716,
+    "x": -661.876754025145,
     "y": 64.0,
-    "z": -12968.57120705791,
-    "pitch": 7.2001524,
-    "yaw": 88.94549
+    "z": -12981.878291774645,
+    "pitch": 13.2003145,
+    "yaw": 17.551056
    },
    "homeBlock": [
-    -37,
-    -811
+    -42,
+    -812
    ],
    "townBlocks": [
     [
@@ -172,6 +172,14 @@
      -807
     ],
     [
+     -41,
+     -806
+    ],
+    [
+     -37,
+     -806
+    ],
+    [
      -39,
      -810
     ],
@@ -186,6 +194,10 @@
     [
      -39,
      -811
+    ],
+    [
+     -39,
+     -806
     ],
     [
      -39,
@@ -220,6 +232,10 @@
      -814
     ],
     [
+     -38,
+     -806
+    ],
+    [
      -43,
      -811
     ],
@@ -254,6 +270,10 @@
     [
      -38,
      -813
+    ],
+    [
+     -43,
+     -806
     ],
     [
      -38,
@@ -364,6 +384,10 @@
      -808
     ],
     [
+     -44,
+     -806
+    ],
+    [
      -42,
      -815
     ],
@@ -401,6 +425,10 @@
     ],
     [
      -42,
+     -806
+    ],
+    [
+     -42,
      -809
     ],
     [
@@ -410,6 +438,14 @@
     [
      -36,
      -807
+    ],
+    [
+     -36,
+     -806
+    ],
+    [
+     -40,
+     -806
     ],
     [
      -40,
@@ -454,6 +490,10 @@
     [
      -45,
      -807
+    ],
+    [
+     -45,
+     -806
     ],
     [
      -45,
@@ -498,13 +538,22 @@
    {
     "name": "BoydT44",
     "uuid": "8ce8d116-a1cd-46ed-93c1-3abf2fd8bb50"
+   },
+   {
+    "name": "riddikium",
+    "uuid": "ef8b27e5-f91c-46b4-b127-8e52e9157238"
    }
   ],
   "trusted": [],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
+   "Councillor": [
+    {
+     "name": "riddikium",
+     "uuid": "ef8b27e5-f91c-46b4-b127-8e52e9157238"
+    }
+   ],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

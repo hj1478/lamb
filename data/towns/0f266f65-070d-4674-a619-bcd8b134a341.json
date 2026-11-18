@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Campinas",
   "uuid": "0f266f65-070d-4674-a619-bcd8b134a341",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": true,
+   "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 21,
-   "maxTownBlocks": 124,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 2,
-   "numTrusted": 6,
+   "numResidents": 3,
+   "numTrusted": 11,
    "numOutlaws": 0,
-   "balance": 6.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,24 +80,88 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -16886.54435691056,
-    "y": 78.0,
-    "z": 16409.42036505454,
-    "pitch": 38.879955,
-    "yaw": 149.19072
+    "x": -16959.762246384464,
+    "y": 74.0,
+    "z": 16399.62276663005,
+    "pitch": 32.40009,
+    "yaw": -8.019592
    },
    "homeBlock": [
-    -1056,
-    1025
+    -1060,
+    1024
    ],
    "townBlocks": [
     [
+     -1061,
+     1026
+    ],
+    [
+     -1061,
+     1025
+    ],
+    [
+     -1061,
+     1024
+    ],
+    [
+     -1059,
+     1024
+    ],
+    [
+     -1057,
+     1024
+    ],
+    [
+     -1064,
+     1024
+    ],
+    [
+     -1057,
+     1025
+    ],
+    [
+     -1062,
+     1024
+    ],
+    [
+     -1057,
+     1026
+    ],
+    [
+     -1062,
+     1025
+    ],
+    [
+     -1062,
+     1026
+    ],
+    [
+     -1058,
+     1025
+    ],
+    [
+     -1058,
+     1026
+    ],
+    [
+     -1058,
+     1024
+    ],
+    [
      -1056,
      1026
     ],
     [
+     -1064,
+     1025
+    ],
+    [
      -1056,
      1024
+    ],
+    [
+     -1064,
+     1026
     ],
     [
      -1056,
@@ -120,42 +184,14 @@
      1024
     ],
     [
-     -1061,
-     1026
-    ],
-    [
-     -1061,
-     1025
-    ],
-    [
-     -1059,
-     1024
-    ],
-    [
-     -1061,
-     1024
-    ],
-    [
      -1060,
      1026
     ],
     [
-     -1057,
-     1024
-    ],
-    [
-     -1057,
-     1025
-    ],
-    [
      -1055,
      1024
     ],
     [
-     -1057,
-     1026
-    ],
-    [
      -1055,
      1025
     ],
@@ -164,15 +200,15 @@
      1026
     ],
     [
-     -1058,
+     -1063,
      1025
     ],
     [
-     -1058,
+     -1063,
      1026
     ],
     [
-     -1058,
+     -1063,
      1024
     ]
    ],
@@ -186,6 +222,10 @@
    {
     "name": "ASClairJr",
     "uuid": "d3177a3a-b907-489f-a9eb-76a4ffc1c354"
+   },
+   {
+    "name": "Tartaruga_Aura",
+    "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
    }
   ],
   "trusted": [
@@ -202,6 +242,14 @@
     "uuid": "a2371305-d7b3-46df-a35c-e4a3c5913ac1"
    },
    {
+    "name": "MrGelado27",
+    "uuid": "396c775f-26c1-42a0-85e4-22ba6c800c9d"
+   },
+   {
+    "name": "Poggers_2639",
+    "uuid": "ff88866d-e7dd-4bac-a3a9-a9b4aeb9b7d5"
+   },
+   {
     "name": "shak2022",
     "uuid": "98f54e1f-7945-46f3-8278-ba52e2842ccb"
    },
@@ -210,21 +258,73 @@
     "uuid": "6144be09-078c-48ba-b978-8085bdd11efe"
    },
    {
+    "name": "Everwatch",
+    "uuid": "510e6472-a89c-4cdf-a901-10a50d826b10"
+   },
+   {
     "name": "SirPug830",
     "uuid": "a04cff05-9898-4860-8669-c7614912eae0"
+   },
+   {
+    "name": "DinizAmaLoiras",
+    "uuid": "775ceee2-1c63-4fa1-a9b7-2d583af35bec"
+   },
+   {
+    "name": "Tartaruga_Aura",
+    "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
    }
   ],
   "outlaws": [],
   "quarters": [],
   "ranks": {
-   "Councillor": [],
-   "Builder": [],
-   "Recruiter": [],
-   "Police": [],
-   "Tax-exempt": [],
-   "Treasurer": [],
-   "Realtor": [],
-   "Settler": []
+   "Councillor": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Builder": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Recruiter": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Police": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Tax-exempt": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Treasurer": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Realtor": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ],
+   "Settler": [
+    {
+     "name": "Tartaruga_Aura",
+     "uuid": "700f99b8-fdcd-4fd7-90b5-15f6d93c342f"
+    }
+   ]
   },
   "warps": [],
   "bankhistory": []

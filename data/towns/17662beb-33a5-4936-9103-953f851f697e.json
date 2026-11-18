@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Misrata",
   "uuid": "17662beb-33a5-4936-9103-953f851f697e",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Teukris",
-   "uuid": "85c78009-5319-4691-b0b4-a510e3e4859b"
+   "name": "NPC106",
+   "uuid": "996d9d5c-5bb5-203d-8df9-15171e65bb44"
   },
   "nation": {
-   "name": "Libya",
-   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1792402191312,
-   "joinedNationAt": 1792402205062,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794989539982
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 12,
-   "maxTownBlocks": 62,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 50,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 2,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -144,8 +144,8 @@
   },
   "residents": [
    {
-    "name": "Teukris",
-    "uuid": "85c78009-5319-4691-b0b4-a510e3e4859b"
+    "name": "NPC106",
+    "uuid": "996d9d5c-5bb5-203d-8df9-15171e65bb44"
    }
   ],
   "trusted": [

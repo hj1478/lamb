@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Berwick",
   "uuid": "1af48b5c-57ff-4c5f-96f5-f6cf2872083a",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 158,
-   "maxTownBlocks": 160,
+   "maxTownBlocks": 152,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 5,
+   "nationBonus": 80,
+   "numResidents": 6,
    "numTrusted": 0,
    "numOutlaws": 0,
    "balance": 32.0,
@@ -746,6 +746,10 @@
    {
     "name": "wxbh34dd",
     "uuid": "328b5207-27eb-464a-be23-89927f8640d5"
+   },
+   {
+    "name": "Sam03x",
+    "uuid": "73481c72-b5c9-4f5e-8e80-0e222fda144c"
    }
   ],
   "trusted": [],

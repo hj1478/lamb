@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "New_Wales",
   "uuid": "25cbce91-8bd1-4380-997a-db1ef4257f92",
@@ -8,8 +8,8 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Ballistic_K2",
-   "uuid": "7b811944-69e7-4f0e-a156-b78d13f7d753"
+   "name": "NPC14",
+   "uuid": "d8aaba79-4647-207d-a62d-b8c8e1c5f42c"
   },
   "nation": {
    "name": null,
@@ -18,15 +18,15 @@
   "timestamps": {
    "registered": 1791328533092,
    "joinedNationAt": null,
-   "ruinedAt": null
+   "ruinedAt": 1794999601457
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
    "hasNation": false,
    "canOutsidersSpawn": false,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -100,8 +100,8 @@
   },
   "residents": [
    {
-    "name": "Ballistic_K2",
-    "uuid": "7b811944-69e7-4f0e-a156-b78d13f7d753"
+    "name": "NPC14",
+    "uuid": "d8aaba79-4647-207d-a62d-b8c8e1c5f42c"
    }
   ],
   "trusted": [],

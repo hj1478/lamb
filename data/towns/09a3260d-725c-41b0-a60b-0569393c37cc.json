@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Huesca",
   "uuid": "09a3260d-725c-41b0-a60b-0569393c37cc",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 128,
-   "maxTownBlocks": 248,
+   "maxTownBlocks": 236,
    "bonusBlocks": 0,
    "nationBonus": 80,
-   "numResidents": 14,
+   "numResidents": 13,
    "numTrusted": 0,
-   "numOutlaws": 5,
-   "balance": 67.0,
+   "numOutlaws": 4,
+   "balance": 57.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -143.62319750651014,
+    "x": -144.06416369210856,
     "y": 74.0,
-    "z": -7987.509534019779,
-    "pitch": 23.25007,
-    "yaw": -176.13333
+    "z": -7990.839646230489,
+    "pitch": 20.550062,
+    "yaw": -9.33316
    },
    "homeBlock": [
-    -9,
+    -10,
     -500
    ],
    "townBlocks": [
@@ -612,16 +612,8 @@
     "uuid": "14d3f9df-02ab-43e2-b152-340a46f61230"
    },
    {
-    "name": "_quincy_king_",
-    "uuid": "c7d19051-46a4-4428-88ba-ec1b5de158cc"
-   },
-   {
     "name": "Rocket_smoother",
     "uuid": "8d54f3b2-1c03-4052-99a5-72010e216426"
-   },
-   {
-    "name": "rpio",
-    "uuid": "c396dc71-646e-40fe-bd24-7df1b8b593d1"
    },
    {
     "name": "AKI_LUNA_1",
@@ -662,6 +654,10 @@
    {
     "name": "Snora1210",
     "uuid": "44f9ece6-5b45-401e-9f9d-63b4738639a4"
+   },
+   {
+    "name": "UrAverageLegacy",
+    "uuid": "2bc2b352-830a-4c13-a2e0-f940bf86ad65"
    }
   ],
   "trusted": [],
@@ -677,10 +673,6 @@
    {
     "name": "Jackbreaker12",
     "uuid": "5ae7c3e0-c53b-4ace-8395-03c8aaad67a0"
-   },
-   {
-    "name": "CamillePaglia",
-    "uuid": "c09580e2-0acf-4d1a-b5bd-c25e13b051f1"
    },
    {
     "name": "MalMeteor",
@@ -723,6 +715,10 @@
    {
     "name": "Lovely Suite",
     "uuid": "4224cd73-e655-40cb-9e54-cc3f2c87efd9"
+   },
+   {
+    "name": "Inconvenient Quarter",
+    "uuid": "6389e565-fa2d-4361-8007-77b5b3aa7ee4"
    }
   ],
   "ranks": {
@@ -746,6 +742,18 @@
      "x": -146,
      "y": 318,
      "z": -7926
+    }
+   },
+   {
+    "name": "2",
+    "uuid": "bc2491c6-7547-4aa0-9745-5b802f0380ec",
+    "createdAt": 1794782693780,
+    "createdBy": "kepgfna",
+    "access": "NATION",
+    "location": {
+     "x": -150,
+     "y": -62,
+     "z": -7947
     }
    }
   ],

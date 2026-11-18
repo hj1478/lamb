@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Revachol",
   "uuid": "1e524daa-46cb-42d0-9cbb-2bc4e1204345",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 24,
-   "maxTownBlocks": 136,
+   "numTownBlocks": 30,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 100,
-   "numResidents": 3,
-   "numTrusted": 4,
+   "nationBonus": 80,
+   "numResidents": 2,
+   "numTrusted": 3,
    "numOutlaws": 4,
-   "balance": 125.0,
+   "balance": 90.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,7 +93,15 @@
    "townBlocks": [
     [
      1260,
+     -665
+    ],
+    [
+     1260,
      -666
+    ],
+    [
+     1260,
+     -664
     ],
     [
      1260,
@@ -126,6 +134,10 @@
     [
      1261,
      -669
+    ],
+    [
+     1259,
+     -664
     ],
     [
      1261,
@@ -160,8 +172,16 @@
      -668
     ],
     [
+     1258,
+     -664
+    ],
+    [
      1262,
      -669
+    ],
+    [
+     1257,
+     -665
     ],
     [
      1257,
@@ -182,6 +202,10 @@
     [
      1258,
      -668
+    ],
+    [
+     1261,
+     -665
     ],
     [
      1261,
@@ -196,19 +220,11 @@
     "uuid": "c620c91e-1f6c-4d07-80eb-1092c5af6fb4"
    },
    {
-    "name": "TicTAKtoe10",
-    "uuid": "7cecca4d-754d-490a-ba1b-b75cc1cc30a5"
-   },
-   {
     "name": "BaoKienTruc",
     "uuid": "68c4c5b6-7744-4d30-9580-d4e9fa156165"
    }
   ],
   "trusted": [
-   {
-    "name": "TicTAKtoe10",
-    "uuid": "7cecca4d-754d-490a-ba1b-b75cc1cc30a5"
-   },
    {
     "name": "rfbb1t",
     "uuid": "9c52cce8-197f-4b72-b32a-f5c4f6e687e7"
@@ -266,15 +282,15 @@
     "uuid": "775b1f1c-2134-4541-ab85-f79c4724fa2c"
    },
    {
-    "name": "Dull Tenement",
-    "uuid": "7dbb2f7c-20df-4b72-9274-e9ca97b9ede0"
-   },
-   {
-    "name": "Cheerful Suite",
+    "name": "Eanna 21",
     "uuid": "e0c8d106-d23a-430f-8d92-1004c42f7658"
    },
    {
-    "name": "Inconvenient Apartment",
+    "name": "Eanna 22",
+    "uuid": "7dbb2f7c-20df-4b72-9274-e9ca97b9ede0"
+   },
+   {
+    "name": "Eanna 23",
     "uuid": "b84d9a9c-1228-4d05-811c-5ac726e6715e"
    }
   ],

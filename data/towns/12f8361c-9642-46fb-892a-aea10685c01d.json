@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Trade",
   "uuid": "12f8361c-9642-46fb-892a-aea10685c01d",
@@ -29,20 +29,20 @@
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 252,
-   "maxTownBlocks": 412,
+   "numTownBlocks": 278,
+   "maxTownBlocks": 388,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 26,
-   "numTrusted": 7,
-   "numOutlaws": 33,
-   "balance": 3.0,
+   "numResidents": 24,
+   "numTrusted": 9,
+   "numOutlaws": 31,
+   "balance": 95.0,
    "forSalePrice": null
   },
   "perms": {
@@ -168,12 +168,24 @@
      -843
     ],
     [
+     248,
+     -831
+    ],
+    [
      256,
      -844
     ],
     [
+     248,
+     -830
+    ],
+    [
      256,
      -841
+    ],
+    [
+     248,
+     -829
     ],
     [
      256,
@@ -184,12 +196,20 @@
      -839
     ],
     [
+     248,
+     -828
+    ],
+    [
      264,
      -844
     ],
     [
      256,
      -840
+    ],
+    [
+     248,
+     -827
     ],
     [
      264,
@@ -242,6 +262,18 @@
     [
      264,
      -837
+    ],
+    [
+     247,
+     -828
+    ],
+    [
+     247,
+     -829
+    ],
+    [
+     247,
+     -830
     ],
     [
      265,
@@ -394,6 +426,10 @@
     [
      255,
      -835
+    ],
+    [
+     250,
+     -827
     ],
     [
      250,
@@ -452,12 +488,36 @@
      -840
     ],
     [
+     263,
+     -828
+    ],
+    [
+     263,
+     -829
+    ],
+    [
+     263,
+     -830
+    ],
+    [
      245,
      -843
     ],
     [
+     262,
+     -829
+    ],
+    [
+     263,
+     -831
+    ],
+    [
      245,
      -842
+    ],
+    [
+     262,
+     -828
     ],
     [
      263,
@@ -500,8 +560,16 @@
      -829
     ],
     [
+     260,
+     -829
+    ],
+    [
      258,
      -828
+    ],
+    [
+     260,
+     -830
     ],
     [
      262,
@@ -514,6 +582,10 @@
     [
      258,
      -830
+    ],
+    [
+     260,
+     -828
     ],
     [
      258,
@@ -566,6 +638,10 @@
     [
      262,
      -831
+    ],
+    [
+     262,
+     -830
     ],
     [
      260,
@@ -781,6 +857,10 @@
     ],
     [
      252,
+     -827
+    ],
+    [
+     252,
      -828
     ],
     [
@@ -861,6 +941,10 @@
     ],
     [
      251,
+     -827
+    ],
+    [
+     251,
      -828
     ],
     [
@@ -925,6 +1009,14 @@
     ],
     [
      249,
+     -828
+    ],
+    [
+     249,
+     -827
+    ],
+    [
+     249,
      -833
     ],
     [
@@ -980,6 +1072,10 @@
      -830
     ],
     [
+     261,
+     -830
+    ],
+    [
      254,
      -831
     ],
@@ -996,8 +1092,16 @@
      -832
     ],
     [
+     261,
+     -828
+    ],
+    [
      254,
      -833
+    ],
+    [
+     261,
+     -829
     ],
     [
      253,
@@ -1120,10 +1224,6 @@
     "uuid": "375c6707-96e7-42d0-9725-50513788f908"
    },
    {
-    "name": "Mikolaj4083",
-    "uuid": "3d75ac9f-a555-4bdd-89a4-c65d896749f8"
-   },
-   {
     "name": "BlobFishMC",
     "uuid": "6e59ab6b-dc1e-434e-9912-771dfdeaec64"
    },
@@ -1202,10 +1302,6 @@
    {
     "name": "witeseal",
     "uuid": "2d769730-3fc3-4927-91d3-b6a7ccdf26e9"
-   },
-   {
-    "name": "AkashiakbarMC",
-    "uuid": "5a762d9b-e614-4a4a-b710-08584a6b2f7f"
    }
   ],
   "trusted": [
@@ -1218,11 +1314,15 @@
     "uuid": "5b84f070-062c-45ea-b736-6a0d5a63c10f"
    },
    {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
+   },
+   {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
    },
    {
-    "name": "foxnation",
+    "name": "appleysause",
     "uuid": "bb547134-e3d2-47e4-b027-231fd544c493"
    },
    {
@@ -1232,6 +1332,10 @@
    {
     "name": "GrayMold9",
     "uuid": "690a13f0-8406-4cf5-a710-b3361f102b03"
+   },
+   {
+    "name": "Nf_miracle",
+    "uuid": "f04da0bc-5f71-4e22-9759-13b3fd99045d"
    },
    {
     "name": "CrystallizerMC",
@@ -1256,15 +1360,11 @@
     "uuid": "02d83fda-4308-4503-870a-21a27d354c99"
    },
    {
-    "name": "MrVinachi",
-    "uuid": "a662b215-3b9d-46d2-90a0-04791e455113"
-   },
-   {
     "name": "Addychi01",
     "uuid": "89ebfa10-f371-46bb-ac3d-71566125b84d"
    },
    {
-    "name": "IrysZ",
+    "name": "Tomekirys",
     "uuid": "cbf46854-9754-40b6-9b86-90466fa0303b"
    },
    {
@@ -1274,10 +1374,6 @@
    {
     "name": "0P2W",
     "uuid": "151dc6f2-4ef1-4609-823c-0a23edea2e9c"
-   },
-   {
-    "name": "XukongZhiYing",
-    "uuid": "fbb4ddde-7429-423d-8609-1cd156443f0e"
    },
    {
     "name": "JimplayzMC",
@@ -1424,20 +1520,7 @@
    "Realtor": [],
    "Settler": []
   },
-  "warps": [
-   {
-    "name": "storage",
-    "uuid": "b0df2961-9c6f-41ba-a2ab-3968d9ee28cd",
-    "createdAt": 1792244918089,
-    "createdBy": "Stef640",
-    "access": "RESIDENT",
-    "location": {
-     "x": 4080,
-     "y": 58,
-     "z": -13249
-    }
-   }
-  ],
+  "warps": [],
   "bankhistory": []
  }
 }

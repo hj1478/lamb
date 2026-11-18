@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Bratislava",
   "uuid": "03a5773d-f104-48d9-97cd-3d193d9fd955",
   "board": "Hello, and have a nice day!",
   "founder": "Libor2",
   "wiki": "https://wiki.earthmc.net/wiki/Nostra:Bratislava",
-  "discord": null,
+  "discord": "https://discord.gg/HkC3xEu6c",
   "mayor": {
    "name": "Libor2",
    "uuid": "b6defb86-ddd9-40d6-83ab-b2ddcd976adf"
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 285,
+   "numTownBlocks": 289,
    "maxTownBlocks": 376,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 23,
-   "numTrusted": 0,
-   "numOutlaws": 35,
-   "balance": 178.0,
+   "numTrusted": 1,
+   "numOutlaws": 36,
+   "balance": 157.0,
    "forSalePrice": null
   },
   "perms": {
@@ -1232,12 +1232,37 @@
      -663
     ]
    ],
-   "worlds": {}
+   "worlds": {
+    "earthmc:moon": {
+     "townblocks": [
+      [
+       -622,
+       -120
+      ],
+      [
+       -621,
+       -120
+      ],
+      [
+       -622,
+       -121
+      ],
+      [
+       -621,
+       -121
+      ]
+     ]
+    }
+   }
   },
   "residents": [
    {
     "name": "Libor2",
     "uuid": "b6defb86-ddd9-40d6-83ab-b2ddcd976adf"
+   },
+   {
+    "name": "FormulaCurve259",
+    "uuid": "c4dad336-b8e4-4710-a913-1ec77c52330c"
    },
    {
     "name": "VilikR",
@@ -1248,24 +1273,12 @@
     "uuid": "31d97e4d-f6ce-4aa6-ad69-c08a0c6f0a0b"
    },
    {
-    "name": "Ema61493",
-    "uuid": "062a7833-5f01-40cf-b78f-8448b8ac57d7"
-   },
-   {
     "name": "Kenvis11",
     "uuid": "c6ffcfe5-01f3-4d63-9ee0-79f8d1b6a973"
    },
    {
-    "name": "Franta_J_H",
-    "uuid": "42ab5a0a-22b0-4fa4-973e-762880eefbfc"
-   },
-   {
     "name": "SingularityG97",
     "uuid": "57c1925a-d6cf-488f-a975-2a7df206fbe1"
-   },
-   {
-    "name": "chadcba",
-    "uuid": "988e53bf-2774-4134-8a42-a71b3fe2b906"
    },
    {
     "name": "GreenStarPower",
@@ -1324,11 +1337,24 @@
     "uuid": "c86f2a92-57fc-4eb0-bf1b-e99da22ed0a4"
    },
    {
-    "name": "GamerMatus1",
-    "uuid": "bc7b007b-169b-48ff-a82f-57a475d66c8e"
+    "name": "M3lus_",
+    "uuid": "8c8672d5-7fab-4e8d-8ed6-6dd75ddeb82c"
+   },
+   {
+    "name": "haroman8000",
+    "uuid": "1454244a-6bc0-457c-a8da-a82af85fb650"
+   },
+   {
+    "name": "Gufy159",
+    "uuid": "c1984b0b-cc02-4381-8474-71aa0545da17"
    }
   ],
-  "trusted": [],
+  "trusted": [
+   {
+    "name": "FormulaCurve259",
+    "uuid": "c4dad336-b8e4-4710-a913-1ec77c52330c"
+   }
+  ],
   "outlaws": [
    {
     "name": "Fix",
@@ -1419,6 +1445,10 @@
     "uuid": "8179579f-ad47-4701-8d53-85488a8296f7"
    },
    {
+    "name": "ZacianTower",
+    "uuid": "38e99dad-0955-4797-80d2-0edb20c33532"
+   },
+   {
     "name": "kalqev",
     "uuid": "e648558e-9528-49b1-b537-7ec33170c860"
    },
@@ -1437,10 +1467,6 @@
    {
     "name": "Rubick_Kubik",
     "uuid": "7f7e7f2f-8fbc-49b8-a807-51d3c76e7ccb"
-   },
-   {
-    "name": "droetker1",
-    "uuid": "4f0c1e55-36d0-45d0-8604-3e8045636c0c"
    },
    {
     "name": "xImperator",
@@ -1469,6 +1495,10 @@
    {
     "name": "Oldyzz",
     "uuid": "741d1cff-bf42-4395-b127-8b0d783b2820"
+   },
+   {
+    "name": "ShadowFace_",
+    "uuid": "68ccebba-0479-468a-a367-6519f95509d8"
    }
   ],
   "quarters": [],
@@ -1476,6 +1506,10 @@
    "Councillor": [],
    "Builder": [],
    "Recruiter": [
+    {
+     "name": "FormulaCurve259",
+     "uuid": "c4dad336-b8e4-4710-a913-1ec77c52330c"
+    },
     {
      "name": "VilikR",
      "uuid": "910d4eac-99f6-41ad-88a6-d5a3fbd86443"

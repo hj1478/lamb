@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Haywire",
   "uuid": "1d0379c8-7b10-4a74-87b1-a8dacc0837d6",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": true,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 121,
-   "maxTownBlocks": 142,
+   "maxTownBlocks": 96,
    "bonusBlocks": 0,
-   "nationBonus": 10,
-   "numResidents": 11,
-   "numTrusted": 5,
+   "nationBonus": 0,
+   "numResidents": 8,
+   "numTrusted": 4,
    "numOutlaws": 0,
    "balance": 61.0,
    "forSalePrice": null
@@ -589,28 +589,12 @@
     "uuid": "2a53f345-6c34-479e-962f-62763a83e126"
    },
    {
-    "name": "Denatidum",
-    "uuid": "91607fa4-3f4d-4950-b82e-31e2856449f6"
-   },
-   {
     "name": "Retrorizzo",
     "uuid": "4fb28746-29e5-45eb-80ed-3d0bd758cc68"
    },
    {
-    "name": "ilikelinus",
-    "uuid": "e0d20be6-b48e-4ceb-8d3b-2f9e306f6c10"
-   },
-   {
     "name": "theodancraft",
     "uuid": "eacf8fcd-ce12-4013-a3eb-f5469dd3f39f"
-   },
-   {
-    "name": "Dragonflyz",
-    "uuid": "b81d2b27-7be5-40c8-8432-f4c1cd2fc49b"
-   },
-   {
-    "name": "AsproGG",
-    "uuid": "045e6d94-3180-4554-b02d-4cb3f006ecf9"
    },
    {
     "name": "elpapusuprem",
@@ -627,13 +611,13 @@
    {
     "name": "Wygibati",
     "uuid": "250113b1-759b-49d4-b796-6d8b4e7f51c1"
+   },
+   {
+    "name": "CrimeanGuyy",
+    "uuid": "071e21d0-6bf4-4623-9898-8cc194f6802e"
    }
   ],
   "trusted": [
-   {
-    "name": "LeEpicMapper",
-    "uuid": "2fb4887a-c3b1-44ea-9c5c-06d28bb594ec"
-   },
    {
     "name": "VoidEnd_",
     "uuid": "1f4d2160-66a6-4845-a4a3-a203fcd6e84a"
@@ -655,31 +639,12 @@
   "quarters": [],
   "ranks": {
    "Councillor": [],
-   "Builder": [
-    {
-     "name": "Denatidum",
-     "uuid": "91607fa4-3f4d-4950-b82e-31e2856449f6"
-    },
-    {
-     "name": "ilikelinus",
-     "uuid": "e0d20be6-b48e-4ceb-8d3b-2f9e306f6c10"
-    }
-   ],
-   "Recruiter": [
-    {
-     "name": "Denatidum",
-     "uuid": "91607fa4-3f4d-4950-b82e-31e2856449f6"
-    }
-   ],
+   "Builder": [],
+   "Recruiter": [],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],
-   "Realtor": [
-    {
-     "name": "Denatidum",
-     "uuid": "91607fa4-3f4d-4950-b82e-31e2856449f6"
-    }
-   ],
+   "Realtor": [],
    "Settler": []
   },
   "warps": [],

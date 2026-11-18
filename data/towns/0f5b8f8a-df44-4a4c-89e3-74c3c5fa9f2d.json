@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T14:03:56Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Lyck",
   "uuid": "0f5b8f8a-df44-4a4c-89e3-74c3c5fa9f2d",
@@ -12,12 +12,12 @@
    "uuid": "53c10c52-253a-4972-8ecb-72b79f38bb3e"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "PLC",
+   "uuid": "40ae7029-85d9-45cf-a18b-b3ee29282ee4"
   },
   "timestamps": {
    "registered": 1794750213315,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794755376142,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 2,
-   "maxTownBlocks": 12,
+   "numTownBlocks": 13,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 100,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 5.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": false,
+    "fire": true,
     "mobs": false
    }
   },
@@ -91,6 +91,50 @@
     -845
    ],
    "townBlocks": [
+    [
+     490,
+     -845
+    ],
+    [
+     490,
+     -846
+    ],
+    [
+     486,
+     -845
+    ],
+    [
+     486,
+     -846
+    ],
+    [
+     489,
+     -845
+    ],
+    [
+     489,
+     -846
+    ],
+    [
+     489,
+     -847
+    ],
+    [
+     488,
+     -845
+    ],
+    [
+     487,
+     -847
+    ],
+    [
+     488,
+     -847
+    ],
+    [
+     488,
+     -846
+    ],
     [
      487,
      -845

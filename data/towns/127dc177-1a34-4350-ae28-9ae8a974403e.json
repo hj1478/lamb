@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Finerland",
   "uuid": "127dc177-1a34-4350-ae28-9ae8a974403e",
@@ -25,24 +25,24 @@
    "isOpen": true,
    "isNeutral": true,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
-   "canOutsidersSpawn": false,
+   "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
    "numTownBlocks": 139,
-   "maxTownBlocks": 132,
+   "maxTownBlocks": 156,
    "bonusBlocks": 0,
    "nationBonus": 60,
-   "numResidents": 6,
-   "numTrusted": 8,
+   "numResidents": 8,
+   "numTrusted": 10,
    "numOutlaws": 1,
-   "balance": 50.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 5582.901574486531,
-    "y": 86.0,
-    "z": -11138.516784717296,
-    "pitch": 5.7876987,
-    "yaw": -90.75995
+    "x": 5578.497290146502,
+    "y": 68.0,
+    "z": -11139.5176538038,
+    "pitch": -90.0,
+    "yaw": 0.0034179688
    },
    "homeBlock": [
     348,
@@ -674,12 +674,24 @@
    {
     "name": "Kubo2108",
     "uuid": "75ab7775-ad62-4a7c-8ac5-a554f9d3f7d9"
+   },
+   {
+    "name": "Delikuzz",
+    "uuid": "78d462bc-6d7d-4e1e-9f5b-453a32d7967c"
+   },
+   {
+    "name": "bubelsXXL2",
+    "uuid": "08581187-fe79-4db1-96fc-f0407321fdb5"
    }
   ],
   "trusted": [
    {
     "name": "Amarius1",
     "uuid": "e2af9201-37e1-4313-9e0f-4ac17ed336e0"
+   },
+   {
+    "name": "Delikuzz",
+    "uuid": "78d462bc-6d7d-4e1e-9f5b-453a32d7967c"
    },
    {
     "name": "ZupraMC",
@@ -702,6 +714,10 @@
     "uuid": "f0c2674f-54c6-4bc5-96bc-840144191041"
    },
    {
+    "name": "JagodkaPL",
+    "uuid": "f959b3af-3fbb-41d2-ba01-4c6c489ea660"
+   },
+   {
     "name": "0_Programmss_0",
     "uuid": "79ad17dd-ddf4-43e0-af39-be4cae04573b"
    },
@@ -720,6 +736,22 @@
    {
     "name": "Inconvenient Quarter",
     "uuid": "6aa2beb4-28ee-481c-aa86-520e65f55058"
+   },
+   {
+    "name": "mushyroom~",
+    "uuid": "9dd46b79-df13-45d3-8db9-dcdaaae05562"
+   },
+   {
+    "name": "mushyroom~",
+    "uuid": "d892bf2f-82db-4bdb-b9a2-b766968ad9dd"
+   },
+   {
+    "name": "CLOSE trapdoor svp, grazie :)",
+    "uuid": "fc26bd12-0346-487e-bcff-2b0dd3caed61"
+   },
+   {
+    "name": "funkyshroom~",
+    "uuid": "7de4bac4-490f-4c78-aad8-72731aae8c1c"
    }
   ],
   "ranks": {

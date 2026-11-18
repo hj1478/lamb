@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Saint-Paul",
   "uuid": "1e6a1d66-aadf-4083-aa43-1567862e10cf",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 56,
+   "numTownBlocks": 63,
    "maxTownBlocks": 120,
    "bonusBlocks": 0,
    "nationBonus": 60,
    "numResidents": 5,
    "numTrusted": 6,
-   "numOutlaws": 6,
-   "balance": 56.0,
+   "numOutlaws": 8,
+   "balance": 323.0,
    "forSalePrice": null
   },
   "perms": {
@@ -80,14 +80,14 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 19919.062548868882,
-    "y": 91.0,
-    "z": 15685.755207813208,
-    "pitch": 26.545162,
-    "yaw": -1.8484497
+    "x": 19934.411014157435,
+    "y": 86.5,
+    "z": 15694.742826563026,
+    "pitch": 35.182396,
+    "yaw": -82.74271
    },
    "homeBlock": [
-    1244,
+    1245,
     980
    ],
    "townBlocks": [
@@ -129,6 +129,10 @@
     ],
     [
      1246,
+     986
+    ],
+    [
+     1246,
      985
     ],
     [
@@ -205,7 +209,19 @@
     ],
     [
      1242,
+     986
+    ],
+    [
+     1242,
      985
+    ],
+    [
+     1240,
+     985
+    ],
+    [
+     1244,
+     986
     ],
     [
      1240,
@@ -216,6 +232,10 @@
      982
     ],
     [
+     1245,
+     986
+    ],
+    [
      1243,
      983
     ],
@@ -230,6 +250,10 @@
     [
      1245,
      982
+    ],
+    [
+     1243,
+     986
     ],
     [
      1245,
@@ -290,6 +314,10 @@
     [
      1241,
      978
+    ],
+    [
+     1241,
+     986
     ],
     [
      1241,
@@ -390,6 +418,14 @@
    {
     "name": "Unknown40",
     "uuid": "71729b5b-dad9-4491-9947-c81e3da7a643"
+   },
+   {
+    "name": "MalMeteor",
+    "uuid": "814aeed7-c10d-4b72-99b6-93644b56b039"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
   "quarters": [
@@ -418,12 +454,36 @@
     "uuid": "317a5f7e-6e9d-4b0a-b9d7-0c5f64b3d94a"
    },
    {
+    "name": "Dingy Suite",
+    "uuid": "640b629a-e027-4955-83fe-7a2e1da46b65"
+   },
+   {
+    "name": "Cheerful Quarter",
+    "uuid": "20ef92c5-f419-4d38-b9a6-a2a21b297aa6"
+   },
+   {
+    "name": "Enraging Suite",
+    "uuid": "5d7e1c27-87f9-4cbf-a80f-d8e9f646929d"
+   },
+   {
+    "name": "Gloomy Quarter",
+    "uuid": "0a15a80a-d7e6-45a7-8e8c-669a3b103d13"
+   },
+   {
     "name": "Lovely Dwelling",
     "uuid": "f2bb4729-d95e-421f-9c83-00da24334a18"
    },
    {
-    "name": "Dingy Suite",
-    "uuid": "640b629a-e027-4955-83fe-7a2e1da46b65"
+    "name": "Elegant Apartment",
+    "uuid": "0a147116-67d8-4460-b7a0-d25fe3cb756d"
+   },
+   {
+    "name": "Enraging Apartment",
+    "uuid": "3fc9fa5e-9307-4ad6-a0be-a9c70ab9bc37"
+   },
+   {
+    "name": "Upbeat Suite",
+    "uuid": "ce775cdd-0954-4e22-8b91-627ad476c258"
    }
   ],
   "ranks": {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Black_Belt",
   "uuid": "0aafdfdc-04b4-4630-9679-e51f2f395808",
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 184,
-   "maxTownBlocks": 280,
+   "maxTownBlocks": 292,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 15,
-   "numTrusted": 10,
-   "numOutlaws": 4,
-   "balance": 0.0,
+   "numResidents": 16,
+   "numTrusted": 9,
+   "numOutlaws": 5,
+   "balance": 1.0,
    "forSalePrice": null
   },
   "perms": {
@@ -844,10 +844,6 @@
     "uuid": "2b984f2c-086f-407b-9bb9-b3fcae85eeff"
    },
    {
-    "name": "Gildess",
-    "uuid": "55814da4-68ef-4975-b6b3-c4f4b71c1e4d"
-   },
-   {
     "name": "NatuTheGratu",
     "uuid": "4341f9c2-cfdc-46ae-ad2e-3550ec6f4cbb"
    },
@@ -876,10 +872,6 @@
     "uuid": "fcc68518-37ec-4468-9140-2c12903ab5a5"
    },
    {
-    "name": "gny_legend",
-    "uuid": "b46c51fd-35c8-4c34-a6d9-84231c672a06"
-   },
-   {
     "name": "AxCeMLikesfih",
     "uuid": "cf60073b-5e29-466a-84d7-fc0fd3ae36d1"
    },
@@ -890,6 +882,18 @@
    {
     "name": "DaRealPinky",
     "uuid": "d126f4c1-522d-4d47-8310-609ad082210a"
+   },
+   {
+    "name": "gabe74785",
+    "uuid": "f2b77965-34a4-4e95-aac3-969d70fb7fa4"
+   },
+   {
+    "name": "gny_legend",
+    "uuid": "b46c51fd-35c8-4c34-a6d9-84231c672a06"
+   },
+   {
+    "name": "1ack",
+    "uuid": "5c6c8c24-bf01-45f4-b950-4de9a5ab3160"
    }
   ],
   "trusted": [
@@ -912,10 +916,6 @@
    {
     "name": "jupebean",
     "uuid": "97057e89-a85c-46d6-afde-9e56a78ab09c"
-   },
-   {
-    "name": "DIMBOUROU",
-    "uuid": "46504ea9-5487-4a7d-966e-27e5f5469594"
    },
    {
     "name": "_tuttopassa_",
@@ -950,6 +950,10 @@
    {
     "name": "Lukegvespa",
     "uuid": "29d9dc81-4ffa-49e7-b40f-551641e55047"
+   },
+   {
+    "name": "jack752",
+    "uuid": "4734fd91-13bc-4464-80a2-cee5b5be16b7"
    }
   ],
   "quarters": [
@@ -958,20 +962,12 @@
     "uuid": "7e261c26-07b4-4f8f-877b-502bcb144f85"
    },
    {
-    "name": "Lovely Flat",
-    "uuid": "e0e210b5-c4ce-4190-9f88-d01b27ddbddf"
+    "name": "Bland Residence",
+    "uuid": "95b76f82-ab93-4307-a9a2-16c955108db1"
    },
    {
-    "name": "Inconvenient Residence",
-    "uuid": "e66e4d86-27be-4728-b76c-14ce24236f34"
-   },
-   {
-    "name": "Lovely Quarter",
-    "uuid": "6a66cfee-e6e0-4b02-9b45-ef442f119d6a"
-   },
-   {
-    "name": "Enraging Quarter",
-    "uuid": "c5f0892f-8b5c-4d21-b85e-d13eb9cb4006"
+    "name": "Inviting Property",
+    "uuid": "18b1244c-c7d4-45a4-b02f-fbe916c2787e"
    }
   ],
   "ranks": {
@@ -986,7 +982,12 @@
     }
    ],
    "Builder": [],
-   "Recruiter": [],
+   "Recruiter": [
+    {
+     "name": "gny_legend",
+     "uuid": "b46c51fd-35c8-4c34-a6d9-84231c672a06"
+    }
+   ],
    "Police": [],
    "Tax-exempt": [],
    "Treasurer": [],

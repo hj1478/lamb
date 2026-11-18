@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Leskovac",
   "uuid": "01f22600-634e-4fff-ba45-f3cf99d2d896",
@@ -8,16 +8,16 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "DukiTuki",
+   "name": "TrveChad",
    "uuid": "50155b84-0efd-461f-84d0-87ff75face08"
   },
   "nation": {
-   "name": "Yugoslavia",
-   "uuid": "8d35fe9d-495c-4cad-9ddc-1c52e6cadb06"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1780780775593,
-   "joinedNationAt": 1780780800194,
+   "joinedNationAt": null,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,11 +36,11 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 72,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 60,
+   "nationBonus": 0,
    "numResidents": 1,
-   "numTrusted": 4,
+   "numTrusted": 5,
    "numOutlaws": 0,
    "balance": 0.0,
    "forSalePrice": null
@@ -252,7 +252,7 @@
   },
   "residents": [
    {
-    "name": "DukiTuki",
+    "name": "TrveChad",
     "uuid": "50155b84-0efd-461f-84d0-87ff75face08"
    }
   ],
@@ -260,6 +260,10 @@
    {
     "name": "Musk_SpaceX",
     "uuid": "9568a6cf-512c-41fe-a814-9e4cedaf4553"
+   },
+   {
+    "name": "George_Albert",
+    "uuid": "50c97ab9-e28b-4a8f-82f1-aa8e8220af2d"
    },
    {
     "name": "MaiGala",

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Tibetan_Troy",
   "uuid": "1739fa6d-4b39-4f67-b097-8e8809cfd2ac",
@@ -35,11 +35,11 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 33,
-   "maxTownBlocks": 62,
+   "numTownBlocks": 35,
+   "maxTownBlocks": 54,
    "bonusBlocks": 0,
-   "nationBonus": 50,
-   "numResidents": 1,
+   "nationBonus": 30,
+   "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -80,15 +80,15 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 31505.44748960311,
-    "y": 169.0,
-    "z": -2668.9476824648505,
-    "pitch": 12.356601,
-    "yaw": -0.05859375
+    "x": 31452.635564616492,
+    "y": 186.0,
+    "z": -2676.8045357105175,
+    "pitch": 12.959643,
+    "yaw": 88.8472
    },
    "homeBlock": [
-    1969,
-    -167
+    1965,
+    -168
    ],
    "townBlocks": [
     [
@@ -216,12 +216,20 @@
      -165
     ],
     [
+     1968,
+     -171
+    ],
+    [
      1966,
      -169
     ],
     [
      1966,
      -168
+    ],
+    [
+     1964,
+     -167
     ]
    ],
    "worlds": {}
@@ -230,6 +238,10 @@
    {
     "name": "Lord_Gibraltar",
     "uuid": "6db958f7-004f-4451-a460-a0a12a7decba"
+   },
+   {
+    "name": "soysauce_enjoyer",
+    "uuid": "87177302-26d3-4b4f-aa64-a268a6f60c25"
    }
   ],
   "trusted": [],
@@ -239,7 +251,16 @@
     "uuid": "4a719a91-8f8b-4462-9d32-52f3805abb0c"
    }
   ],
-  "quarters": [],
+  "quarters": [
+   {
+    "name": "Enraging Property",
+    "uuid": "1a1f80b3-ece0-4aab-8e8f-9cfa9ff3d7e0"
+   },
+   {
+    "name": "Welcoming Tenement",
+    "uuid": "d27853fc-10a7-497e-b45e-3b0f7c4f879a"
+   }
+  ],
   "ranks": {
    "Councillor": [],
    "Builder": [],

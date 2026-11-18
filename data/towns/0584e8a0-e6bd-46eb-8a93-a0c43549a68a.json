@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Border",
   "uuid": "0584e8a0-e6bd-46eb-8a93-a0c43549a68a",
@@ -12,12 +12,12 @@
    "uuid": "57215c1a-20b4-46ec-8f1f-4b623f762524"
   },
   "nation": {
-   "name": "America",
-   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
+   "name": "Gulf_Union",
+   "uuid": "c88d8692-5dc8-4f6f-bf1b-424f9e00af9c"
   },
   "timestamps": {
    "registered": 1794257532686,
-   "joinedNationAt": 1794261759199,
+   "joinedNationAt": 1794966470068,
    "ruinedAt": null
   },
   "status": {
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 112,
+   "maxTownBlocks": 92,
    "bonusBlocks": 0,
-   "nationBonus": 100,
+   "nationBonus": 80,
    "numResidents": 1,
    "numTrusted": 1,
    "numOutlaws": 0,
-   "balance": 98.0,
+   "balance": 201.0,
    "forSalePrice": null
   },
   "perms": {
@@ -71,7 +71,7 @@
     false
    ],
    "flags": {
-    "pvp": false,
+    "pvp": true,
     "explosion": false,
     "fire": false,
     "mobs": false

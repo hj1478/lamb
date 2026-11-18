@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Nabbelund",
   "uuid": "121ca5b3-bdc7-4c37-96e1-9f29b91ce2d1",
@@ -8,87 +8,87 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "_Computermouse",
-   "uuid": "cdef12f1-c175-481b-b0bc-f6c3650533df"
+   "name": "NPC83",
+   "uuid": "097f9404-e363-20d1-9126-b5eb275b2a78"
   },
   "nation": {
-   "name": "Sweden",
-   "uuid": "8ad93049-d65a-4fee-843f-901b8977d0e2"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1793520601430,
-   "joinedNationAt": 1793520721880,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794754018894
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
-   "isRuined": false,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 4,
-   "maxTownBlocks": 92,
+   "numTownBlocks": 5,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 80,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 16.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": 6128.0020847025,
+    "x": 6128.003267651259,
     "y": 74.5,
-    "z": -15168.004956745455,
-    "pitch": 0.4499686,
-    "yaw": -1.0078125
+    "z": -15164.756482143284,
+    "pitch": 2.9999387,
+    "yaw": 179.89722
    },
    "homeBlock": [
     383,
-    -949
+    -948
    ],
    "townBlocks": [
     [
@@ -98,6 +98,10 @@
     [
      382,
      -949
+    ],
+    [
+     382,
+     -950
     ],
     [
      383,
@@ -112,8 +116,8 @@
   },
   "residents": [
    {
-    "name": "_Computermouse",
-    "uuid": "cdef12f1-c175-481b-b0bc-f6c3650533df"
+    "name": "NPC83",
+    "uuid": "097f9404-e363-20d1-9126-b5eb275b2a78"
    }
   ],
   "trusted": [],

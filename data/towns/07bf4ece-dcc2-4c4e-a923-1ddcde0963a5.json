@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T16:00:18Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Whalsay",
   "uuid": "07bf4ece-dcc2-4c4e-a923-1ddcde0963a5",
@@ -12,12 +12,12 @@
    "uuid": "a15bafac-b3cd-4d5f-84da-f9de3344ee18"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Scotland",
+   "uuid": "09a26acb-d221-4943-9cd8-402dfa2a8779"
   },
   "timestamps": {
    "registered": 1794757207466,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794853436622,
    "ruinedAt": null
   },
   "status": {
@@ -28,21 +28,21 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 3,
-   "maxTownBlocks": 24,
+   "numTownBlocks": 8,
+   "maxTownBlocks": 104,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 80,
    "numResidents": 2,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 9.0,
+   "balance": 41.0,
    "forSalePrice": null
   },
   "perms": {
@@ -93,11 +93,31 @@
    "townBlocks": [
     [
      -22,
+     -1047
+    ],
+    [
+     -22,
+     -1048
+    ],
+    [
+     -21,
+     -1049
+    ],
+    [
+     -21,
      -1048
     ],
     [
      -23,
+     -1049
+    ],
+    [
+     -23,
      -1048
+    ],
+    [
+     -22,
+     -1049
     ],
     [
      -23,

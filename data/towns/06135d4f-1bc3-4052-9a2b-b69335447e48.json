@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Leptis_Magna",
   "uuid": "06135d4f-1bc3-4052-9a2b-b69335447e48",
@@ -12,12 +12,12 @@
    "uuid": "04d9dae8-8ea6-4413-8069-f7932bd223d9"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Libya",
+   "uuid": "fd56c96d-4c91-4a2f-95f0-3fdc29bb07da"
   },
   "timestamps": {
    "registered": 1778395966747,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794981730667,
    "ruinedAt": null
   },
   "status": {
@@ -25,10 +25,10 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": true,
+   "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 51,
-   "maxTownBlocks": 12,
+   "maxTownBlocks": 62,
    "bonusBlocks": 0,
-   "nationBonus": 0,
+   "nationBonus": 50,
    "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 0,
-   "balance": 1917.0,
+   "balance": 1999.0,
    "forSalePrice": null
   },
   "perms": {

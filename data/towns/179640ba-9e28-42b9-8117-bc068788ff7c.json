@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Sanliurfa",
   "uuid": "179640ba-9e28-42b9-8117-bc068788ff7c",
@@ -17,12 +17,12 @@
   },
   "timestamps": {
    "registered": 1792925222206,
-   "joinedNationAt": 1794148746837,
+   "joinedNationAt": 1794938672888,
    "ruinedAt": null
   },
   "status": {
    "isPublic": true,
-   "isOpen": false,
+   "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
    "isOverClaimed": false,
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 26,
-   "maxTownBlocks": 148,
+   "numTownBlocks": 32,
+   "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
-   "numResidents": 4,
-   "numTrusted": 2,
-   "numOutlaws": 0,
-   "balance": 52.0,
+   "numResidents": 3,
+   "numTrusted": 3,
+   "numOutlaws": 1,
+   "balance": 87.0,
    "forSalePrice": null
   },
   "perms": {
@@ -136,12 +136,20 @@
      -357
     ],
     [
+     896,
+     -360
+    ],
+    [
      898,
      -358
     ],
     [
      898,
      -359
+    ],
+    [
+     896,
+     -362
     ],
     [
      898,
@@ -156,6 +164,14 @@
      -362
     ],
     [
+     896,
+     -359
+    ],
+    [
+     898,
+     -363
+    ],
+    [
      899,
      -359
     ],
@@ -166,6 +182,14 @@
     [
      899,
      -361
+    ],
+    [
+     899,
+     -362
+    ],
+    [
+     899,
+     -363
     ],
     [
      899,
@@ -210,13 +234,13 @@
    {
     "name": "Eymen6116",
     "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
-   },
-   {
-    "name": "oynada",
-    "uuid": "fb41bb3f-6b77-4f63-a34b-fcbb5ef14dcf"
    }
   ],
   "trusted": [
+   {
+    "name": "Itzygz0636",
+    "uuid": "669b7d1b-8ae3-49a0-8f59-f18d603730a1"
+   },
    {
     "name": "FatihAr",
     "uuid": "efd71f8e-3304-4cb9-87c9-a660eb66fef8"
@@ -226,23 +250,28 @@
     "uuid": "a03b7c0f-2e38-4ce8-b87f-09cabb906cc8"
    }
   ],
-  "outlaws": [],
+  "outlaws": [
+   {
+    "name": "toprakbee",
+    "uuid": "5e28d4d8-3415-4b0f-aedc-274d89fb89a9"
+   }
+  ],
   "quarters": [],
   "ranks": {
    "Councillor": [
     {
      "name": "idobabo",
      "uuid": "306619c2-ac46-4714-bf4e-e04b4aa21fde"
+    },
+    {
+     "name": "Eymen6116",
+     "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
     }
    ],
    "Builder": [
     {
      "name": "Eymen6116",
      "uuid": "f23ba9d2-007c-4b38-8211-a529e4247cfd"
-    },
-    {
-     "name": "oynada",
-     "uuid": "fb41bb3f-6b77-4f63-a34b-fcbb5ef14dcf"
     }
    ],
    "Recruiter": [],

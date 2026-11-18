@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Leverkusen",
   "uuid": "130d5361-2684-43a3-9af8-29a3c3528e8e",
@@ -35,14 +35,14 @@
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 34,
+   "numTownBlocks": 35,
    "maxTownBlocks": 136,
    "bonusBlocks": 0,
    "nationBonus": 100,
    "numResidents": 3,
    "numTrusted": 3,
    "numOutlaws": 0,
-   "balance": 4.0,
+   "balance": 0.0,
    "forSalePrice": null
   },
   "perms": {
@@ -73,7 +73,7 @@
    "flags": {
     "pvp": false,
     "explosion": false,
-    "fire": true,
+    "fire": false,
     "mobs": false
    }
   },
@@ -156,12 +156,12 @@
      -760
     ],
     [
-     234,
-     -762
-    ],
-    [
      229,
      -761
+    ],
+    [
+     234,
+     -762
     ],
     [
      229,
@@ -174,10 +174,6 @@
     [
      234,
      -765
-    ],
-    [
-     234,
-     -766
     ],
     [
      230,
@@ -185,7 +181,15 @@
     ],
     [
      234,
+     -766
+    ],
+    [
+     234,
      -763
+    ],
+    [
+     231,
+     -760
     ],
     [
      234,
@@ -212,20 +216,20 @@
      -762
     ],
     [
-     231,
-     -763
-    ],
-    [
      230,
      -761
     ],
     [
      231,
-     -764
+     -763
     ],
     [
      230,
      -762
+    ],
+    [
+     231,
+     -764
     ]
    ],
    "worlds": {}

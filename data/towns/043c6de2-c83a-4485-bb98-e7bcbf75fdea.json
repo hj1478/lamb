@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Leshnybor",
   "uuid": "043c6de2-c83a-4485-bb98-e7bcbf75fdea",
@@ -8,27 +8,27 @@
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "SP1D3R_Z",
-   "uuid": "3660a349-05c3-4b4d-b428-28026d5e11d3"
+   "name": "NPC86",
+   "uuid": "ff9669c3-7f3c-205e-b787-661a619571e9"
   },
   "nation": {
-   "name": "Kamchatka",
-   "uuid": "b57eace1-9f98-4418-b290-8aa11612db69"
+   "name": null,
+   "uuid": null
   },
   "timestamps": {
    "registered": 1778899912766,
-   "joinedNationAt": 1778900029016,
-   "ruinedAt": null
+   "joinedNationAt": null,
+   "ruinedAt": 1794826807226
   },
   "status": {
-   "isPublic": true,
+   "isPublic": false,
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
-   "isRuined": false,
+   "isOverClaimed": true,
+   "isRuined": true,
    "isForSale": false,
-   "hasNation": true,
+   "hasNation": false,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,9 +36,9 @@
   },
   "stats": {
    "numTownBlocks": 20,
-   "maxTownBlocks": 22,
+   "maxTownBlocks": 12,
    "bonusBlocks": 0,
-   "nationBonus": 10,
+   "nationBonus": 0,
    "numResidents": 1,
    "numTrusted": 5,
    "numOutlaws": 0,
@@ -47,34 +47,34 @@
   },
   "perms": {
    "build": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "destroy": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "switch": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "itemUse": [
-    false,
-    false,
-    false,
-    false
+    true,
+    true,
+    true,
+    true
    ],
    "flags": {
-    "pvp": false,
-    "explosion": false,
-    "fire": false,
-    "mobs": false
+    "pvp": true,
+    "explosion": true,
+    "fire": true,
+    "mobs": true
    }
   },
   "coordinates": {
@@ -176,8 +176,8 @@
   },
   "residents": [
    {
-    "name": "SP1D3R_Z",
-    "uuid": "3660a349-05c3-4b4d-b428-28026d5e11d3"
+    "name": "NPC86",
+    "uuid": "ff9669c3-7f3c-205e-b787-661a619571e9"
    }
   ],
   "trusted": [

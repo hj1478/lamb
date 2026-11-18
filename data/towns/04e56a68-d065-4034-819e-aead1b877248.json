@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Ocean_Cape",
   "uuid": "04e56a68-d065-4034-819e-aead1b877248",
@@ -25,7 +25,7 @@
    "isOpen": true,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
    "hasNation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 54,
-   "maxTownBlocks": 54,
+   "maxTownBlocks": 46,
    "bonusBlocks": 0,
-   "nationBonus": 30,
-   "numResidents": 2,
+   "nationBonus": 10,
+   "numResidents": 3,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 249.0,
@@ -318,6 +318,10 @@
    {
     "name": "pingu_bobak",
     "uuid": "a9172250-2b39-4d77-952d-159647d4e6f1"
+   },
+   {
+    "name": "kbbnm",
+    "uuid": "1a73ac70-f4fc-44cf-8ab1-a50ee44807d0"
    }
   ],
   "trusted": [],

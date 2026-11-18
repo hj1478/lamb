@@ -1,23 +1,23 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
-  "name": "Briston",
+  "name": "Kalshi",
   "uuid": "1c2cb9ce-500e-4fd6-8ce7-796245f24232",
-  "board": "/town set board [msg]",
+  "board": "KALSHI! The WORLDS Gambling Hub",
   "founder": "j_chiari",
   "wiki": null,
   "discord": null,
   "mayor": {
-   "name": "Noobz7_Ofc",
-   "uuid": "4ac508e5-c5b3-4090-912e-9d832463a14f"
+   "name": "mavryz",
+   "uuid": "27f0243b-ce7e-4c69-8441-a8792c204a06"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "America",
+   "uuid": "30929196-4708-49bf-8ab7-fc97ce4aef2c"
   },
   "timestamps": {
    "registered": 1787184234740,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794961728841,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,10 +36,10 @@
   },
   "stats": {
    "numTownBlocks": 39,
-   "maxTownBlocks": 48,
+   "maxTownBlocks": 112,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 4,
+   "nationBonus": 100,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 1,
    "balance": 0.0,
@@ -80,11 +80,11 @@
   "coordinates": {
    "spawn": {
     "world": "earth",
-    "x": -32904.346842805506,
+    "x": -32904.47462904864,
     "y": 70.0,
-    "z": -8403.105919436912,
-    "pitch": 82.80002,
-    "yaw": 179.30371
+    "z": -8401.676488159283,
+    "pitch": 3.149976,
+    "yaw": -179.94632
    },
    "homeBlock": [
     -2057,
@@ -252,20 +252,8 @@
   },
   "residents": [
    {
-    "name": "BaconMasterLucky",
-    "uuid": "944d8081-d2ed-43fd-9285-08e28e337cb6"
-   },
-   {
-    "name": "j_chiari",
-    "uuid": "107bca5f-a0ef-4c41-a5d8-86c436a0fc31"
-   },
-   {
-    "name": "Maracnea",
-    "uuid": "5c72e04f-f4d6-4684-8771-b13efbae33d8"
-   },
-   {
-    "name": "Noobz7_Ofc",
-    "uuid": "4ac508e5-c5b3-4090-912e-9d832463a14f"
+    "name": "mavryz",
+    "uuid": "27f0243b-ce7e-4c69-8441-a8792c204a06"
    }
   ],
   "trusted": [],
@@ -275,39 +263,9 @@
     "uuid": "a34e04e1-af44-4707-8e47-4bf5ba1028f5"
    }
   ],
-  "quarters": [
-   {
-    "name": "Inconvenient Quarter",
-    "uuid": "51a18eb8-a644-4d98-836c-c7c15424f4f6"
-   },
-   {
-    "name": "Inconvenient Dwelling",
-    "uuid": "51a3919d-0873-4d78-878d-bc7fe2f88ff1"
-   },
-   {
-    "name": "Elegant Dwelling",
-    "uuid": "33090725-0a0c-4da9-810a-956767dbf5f6"
-   }
-  ],
+  "quarters": [],
   "ranks": {
-   "Councillor": [
-    {
-     "name": "BaconMasterLucky",
-     "uuid": "944d8081-d2ed-43fd-9285-08e28e337cb6"
-    },
-    {
-     "name": "j_chiari",
-     "uuid": "107bca5f-a0ef-4c41-a5d8-86c436a0fc31"
-    },
-    {
-     "name": "Maracnea",
-     "uuid": "5c72e04f-f4d6-4684-8771-b13efbae33d8"
-    },
-    {
-     "name": "Noobz7_Ofc",
-     "uuid": "4ac508e5-c5b3-4090-912e-9d832463a14f"
-    }
-   ],
+   "Councillor": [],
    "Builder": [],
    "Recruiter": [],
    "Police": [],

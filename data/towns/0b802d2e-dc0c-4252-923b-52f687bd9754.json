@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T15:24:44Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Barquisimeto",
   "uuid": "0b802d2e-dc0c-4252-923b-52f687bd9754",
@@ -12,12 +12,12 @@
    "uuid": "c9274213-3a44-4e78-8ca0-c1c5cdfd30d7"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Venezuela",
+   "uuid": "f4e5bdbd-4e6a-436f-8f32-bc2c2ea08916"
   },
   "timestamps": {
    "registered": 1794409598901,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794925131001,
    "ruinedAt": null
   },
   "status": {
@@ -25,17 +25,17 @@
    "isOpen": false,
    "isNeutral": false,
    "isCapital": false,
-   "isOverClaimed": false,
+   "isOverClaimed": true,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": false,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
    "hasFriendlyFire": false
   },
   "stats": {
-   "numTownBlocks": 10,
+   "numTownBlocks": 29,
    "maxTownBlocks": 12,
    "bonusBlocks": 0,
    "nationBonus": 0,
@@ -92,12 +92,24 @@
    ],
    "townBlocks": [
     [
+     -1549,
+     273
+    ],
+    [
      -1547,
      277
     ],
     [
+     -1547,
+     278
+    ],
+    [
      -1549,
      275
+    ],
+    [
+     -1549,
+     274
     ],
     [
      -1547,
@@ -106,6 +118,10 @@
     [
      -1549,
      277
+    ],
+    [
+     -1550,
+     278
     ],
     [
      -1549,
@@ -113,23 +129,83 @@
     ],
     [
      -1550,
+     277
+    ],
+    [
+     -1550,
      276
     ],
     [
-     -1548,
-     275
+     -1549,
+     278
     ],
     [
      -1550,
      275
     ],
     [
+     -1550,
+     274
+    ],
+    [
+     -1550,
+     273
+    ],
+    [
      -1548,
+     278
+    ],
+    [
+     -1551,
+     277
+    ],
+    [
+     -1551,
+     278
+    ],
+    [
+     -1548,
+     275
+    ],
+    [
+     -1551,
+     275
+    ],
+    [
+     -1548,
+     276
+    ],
+    [
+     -1551,
      276
     ],
     [
      -1548,
      277
+    ],
+    [
+     -1551,
+     273
+    ],
+    [
+     -1551,
+     274
+    ],
+    [
+     -1552,
+     277
+    ],
+    [
+     -1552,
+     274
+    ],
+    [
+     -1552,
+     276
+    ],
+    [
+     -1552,
+     275
     ]
    ],
    "worlds": {}

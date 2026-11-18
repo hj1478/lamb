@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T14:31:46Z",
+ "fetched_at": "2026-11-18T15:47:36Z",
  "data": {
   "name": "Favela",
   "uuid": "0e8660f2-af12-43f6-a542-fe2ae91c8ee4",
@@ -12,12 +12,12 @@
    "uuid": "4b1181b7-3811-4188-9701-97f675acea47"
   },
   "nation": {
-   "name": null,
-   "uuid": null
+   "name": "Kara",
+   "uuid": "16fcd962-f165-424d-87cd-c051cbc4f991"
   },
   "timestamps": {
    "registered": 1790550060078,
-   "joinedNationAt": null,
+   "joinedNationAt": 1794702242404,
    "ruinedAt": null
   },
   "status": {
@@ -28,7 +28,7 @@
    "isOverClaimed": false,
    "isRuined": false,
    "isForSale": false,
-   "hasNation": false,
+   "hasNation": true,
    "canOutsidersSpawn": true,
    "canPassiveMobsSpawn": true,
    "hasSnowAccumulation": true,
@@ -36,13 +36,13 @@
   },
   "stats": {
    "numTownBlocks": 9,
-   "maxTownBlocks": 24,
+   "maxTownBlocks": 42,
    "bonusBlocks": 0,
-   "nationBonus": 0,
-   "numResidents": 2,
+   "nationBonus": 30,
+   "numResidents": 1,
    "numTrusted": 0,
    "numOutlaws": 2,
-   "balance": 48.0,
+   "balance": 54.0,
    "forSalePrice": null
   },
   "perms": {
@@ -134,10 +134,6 @@
    {
     "name": "duckworthh3",
     "uuid": "4b1181b7-3811-4188-9701-97f675acea47"
-   },
-   {
-    "name": "Gmm133",
-    "uuid": "9149d8b6-351d-4b68-a06f-30176855bfec"
    }
   ],
   "trusted": [],
